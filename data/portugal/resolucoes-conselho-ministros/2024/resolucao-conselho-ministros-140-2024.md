@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20200/0000300008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140/2024/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-2024-891337590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 395d0e7fe9dc7335c6ba12147610b89d591da90bded6bbaa452e6de7ad9d5e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a2f8dfd752bcff8c0843880ab618f4160c3f82a894e8396e51284f8c2ddbdb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Financiamento
 - Comissão de Acompanhamento
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Profissional
+- Ensino Secundário
 - Escolaridade Obrigatória
 - Extinção de Serviços
-- Secretaria Geral
+- Financiamento
 - Ministério da Educação e Ciência
-- Ensino Secundário
-- Ensino Básico
-- Sistema de Ensino
-- Educação Pré-escolar
 - Plano A+A
+- Secretaria Geral
+- Sistema de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:1060895765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:23/2016
+  label: Determina a extinção, a partir de 18 de outubro de 2024, nos termos do n.º 14 do presente diploma, a Estrutura de
+    Missão para a Promoção do Sucesso Escolar, e revoga, nos termos da alínea a) do n.º 15 do presente diploma, a Resolução
+    do Conselho de Ministros n.º 23/2016, de 11 de abril, Diário da República n.º 70/2016, Série I
+  source: null
+  date: '2016-04-11'
+- type: amends
+  target: pt:numero:despacho-normativo:10-B/2018
+  label: Mantém em vigor as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar e dos
+    ensinos básico e secundário, previstas no Despacho Normativo n.º 10-B/2018, de 6 de julho, Diário da República n.º 129/2018,
+    1º Suplemento, Série II
+  source: null
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
   label: null
@@ -114,16 +128,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
+- type: cites
+  target: pt:dre:115652972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123968668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166569087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186522362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215874382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74094661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1060895765:por
+  label: Revogada, a partir de 27 de fevereiro de 2026, pelo(a) Resolução do Conselho de Ministros n.º 41/2026 - Diário da
+    República n.º 40/2026, Série I de 2026-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/41-2026-1060895765
+  date: '2026-02-26'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:135/2019
+  label: Revoga, a partir de 18 de outubro de 2024, nos termos da alínea b) do n.º 15 do presente diploma, a Resolução do
+    Conselho de Ministros n.º 135/2019, de 14 de agosto, Diário da República n.º 155/2019, Série I
+  source: null
+  date: '2019-08-14'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:80-B/2023
+  label: Revoga, a partir de 18 de outubro de 2024, nos termos da alínea c) do n.º 15 do presente diploma, a Resolução do
+    Conselho de Ministros n.º 80-B/2023, de 18 de julho, Diário da República n.º 138/2023, 2º Suplemento, Série I
+  source: null
+  date: '2023-07-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:44Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +220,7 @@ O segundo eixo - Inclusão e Sucesso de alunos migrantes - inclui medidas que pr
 
 Devido a atrasos na resposta às candidaturas ao Programa PESSOAS 2030, os quais impossibilitaram a execução de algumas ações previstas para o ano letivo de 2023-2024, bem como para dar a oportunidade às escolas para encerrar o ciclo da recuperação das aprendizagens, a presente resolução, para além das medidas constantes do Plano "Aprender Mais Agora", mantém a vigência, para o ano letivo de 2024-2025, das ações específicas previstas no Plano 23|24 Escola+, constante do anexo à [Resolução do Conselho de Ministros n.º 80-B/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-b-2023-215874382), de 18 de julho, embora com o enquadramento normativo e institucional definido na presente resolução. Essa manutenção permitirá que as escolas, por um lado, concluam os seus processos de recuperação das aprendizagens, usufruindo de iguais condições às do ano letivo de 2023-2024, e, por outro, concretizem ações e projetos cuja execução, por razões alheias à sua vontade e associadas a atrasos na análise de candidaturas no âmbito do financiamento europeu, não foi viável no ano letivo de 2023-2024 e se mantenham ainda relevantes.
 
-Finalmente, determina-se a extinção da Estrutura de Missão para a Promoção do Sucesso Escolar, criada pela [Resolução do Conselho de Ministros n.º 23/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2016-74094661), de 11 de abril, e cujo mandato foi sucessivamente prorrogado pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[135/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2019-123968668), de 14 de agosto, e [80-B/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-b-2023-215874382), de 18 de julho, passando a sua missão e os seus objetivos ainda não concretizados a ser prosseguidos pela Direção-Geral da Educação.
+Finalmente, determina-se a extinção da Estrutura de Missão para a Promoção do Sucesso Escolar, criada pela [Resolução do Conselho de Ministros n.º 23/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2016-74094661), de 11 de abril, e cujo mandato foi sucessivamente prorrogado pelas Resoluções do Conselho de Ministros n.os[135/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2019-123968668), de 14 de agosto, e [80-B/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-b-2023-215874382), de 18 de julho, passando a sua missão e os seus objetivos ainda não concretizados a ser prosseguidos pela Direção-Geral da Educação.
 
 Assim:
 
@@ -214,7 +278,7 @@ l) Um representante da Rede das Bibliotecas Escolares.
 
 11 - Estabelecer que, para o efeito do disposto no n.º 9, a monitorização dos investimentos em recursos humanos e financeiros é assegurada pelos elementos referidos nas alíneas d), f) e i) do número anterior.
 
-12 - Estabelecer que o exercício das funções previstas nos n.<sup>os</sup>8, 9, 10 e 11 não confere o direito a qualquer remuneração ou abono adicional.
+12 - Estabelecer que o exercício das funções previstas nos n.os8, 9, 10 e 11 não confere o direito a qualquer remuneração ou abono adicional.
 
 13 - Definir que o apoio administrativo e logístico é assegurado pela Secretaria-Geral da Educação e Ciência.
 
@@ -299,3 +363,5 @@ Desburocratizar o processo administrativo de posicionamento dos alunos no ensino
 2.5 - Ensinar Português aos pais dos alunos migrantes
 
 Alargar a rede e o financiamento de cursos de língua portuguesa para estrangeiros (Português Língua de Acolhimento).
+
+118241081

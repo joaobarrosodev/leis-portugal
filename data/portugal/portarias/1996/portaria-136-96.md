@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/103b00/10121028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/1996/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-1996-476949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d9fe3f7a0b856340080b72bff8a0b360c359d43ba52514df87d1cc83a5d1f63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6320ad26edb67f53c358f03bab06e727037875a29e5f8de032b8a7be6ebb90ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
 - Certificado de Qualidade
-- Norma
-- Material Médico-Cirúrgico
 - Comércio
+- Controlo de Qualidade
+- Material Médico-Cirúrgico
+- Norma
 relationships:
 - type: amended_by
   target: pt:dre:197909:por
@@ -80,16 +80,21 @@ relationships:
   target: celex:31993L0042
   label: null
   source: http://data.europa.eu/eli/dir/1993/42/oj
+- type: repealed_by
+  target: pt:dre:197909:por
+  label: "Revogada pelo DEC LEI.30/2003.2003.02.14.MS DR.IS-A [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2003-197909
+  date: '2003-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:08Z'
   warnings: []
   errors: []
 ---
@@ -160,9 +165,9 @@ No caso de dispositivos feitos por medida, o fabricante deve aplicar o disposto 
 
 Ministérios da Economia e da Saúde.
 
-**Assinada em 6 de Fevereiro de 1996.**
+Assinada em 6 de Fevereiro de 1996.
 
-**O Ministro da Economia, Daniel Bessa Fernandes Coelho. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.**
+O Ministro da Economia, Daniel Bessa Fernandes Coelho. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
 
 ## ANEXO I — Requisitos essenciais
 
@@ -1138,7 +1143,7 @@ III - Classificação
 
 A marcação CE de conformidade é constituída pelas iniciais «CE» com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/103b00/10121028.pdf))](https://files.diariodarepublica.pt/1s/1996/05/103b00/10121028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/103b00/10121028.pdf)
 
 Em caso de redução ou ampliação da marcação, devem ser respeitadas as proporções respeitantes do grafismo graduado acima reproduzido.
 

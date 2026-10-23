@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 10/2023, 1º Suplemento, Série I de 2023-01-13
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 196-(2) a 196-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01001/0000200017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2-a/2023/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-a-2023-206105485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9867ef41f6ba0470c801c566179bf27ebed1d79656a2b0e2e27d8562e58bdc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c84bf4e6494c46d451f759ab2ab026249b760ab9304f57a67bbd8f6dc578e0c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Confidencialidade
 - Conselho de Ministros
+- Documento Eletrónico
 - Formulário Eletrónico
 - Impresso
-- Presidente da República
-- Documento Eletrónico
 - Membros do Governo
 - Nomeação
-- Confidencialidade
+- Presidente da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2022/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:123610180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:32Z'
   warnings: []
   errors: []
 ---
@@ -426,3 +450,5 @@ Nos termos dos n.os 2 e 3, do artigo 6.º, da [Lei n.º 52/2019](https://diariod
 13 Nos termos do disposto no artigo 3.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo [Decreto-Lei n.º 53/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual.
 
 14 Nos termos do disposto no artigo 2.º, n.º 1, do Código da Insolvência e da Recuperação de Empresas, aprovado pelo [Decreto-Lei n.º 53/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual.
+
+116063486

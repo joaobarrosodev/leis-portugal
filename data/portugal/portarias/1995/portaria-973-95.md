@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/973/1995/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1995-477668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 323d912ed7b7fd086bac671762ba9bdbff024c1d0513c7609be6b3322b272bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7be3edb760be5d6ad4508c14ada3242b7d68912efbccddc0a00bfab8a9653dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,42 @@ relationships:
   target: pt:dre:642527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517384:por
+  label: "Alterados os modelos IV, IX e XIII dos averbamentos aos assentos de nascimento, os modelos II e IX dos averbamentos\
+    \ aos assentos de casamento e eliminado o modelo XX dos averbamentos aos assentos de nascimento previstos no presente\
+    \ diploma, pela PORT.184/97.17.03.1997.MJ, DR.IS-B [64] de 17.03.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1997-517384
+  date: '1997-03-17'
+- type: amended_by
+  target: pt:dre:601979:por
+  label: "Alterados os modelos de averbamentos aos assentos de nascimento aprovados pelo presente diploma, com as alterações\
+    \ introduzidas pela Port 184/97, de 17-Mar, pela PORT.1257/2004.28.09.2004.MJ, DR.IS-B [229] de 28.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-2004-601979
+  date: '2004-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642527:por
+  label: "Revogada pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:39Z'
   warnings: []
   errors: []
 ---
@@ -108,45 +130,45 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 23.�
 
 Ministério da Justiça.
 
-**Assinada em 10 de Julho de 1995.**
+Assinada em 10 de Julho de 1995.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.
 
 Modelo do livro de assentos de nascimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do livro de assentos de declaração de maternidade ou de perfilhação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do livro de assentos de casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do livro de assentos de óbito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do livro de assentos de morte fetal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do livro de transcrições de assentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo de auto de declaração de nascimento prestada em conservatória intermediária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo de auto de declaração de óbito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo de auto de declaração de morte fetal prestada em conservatória intermediária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo de auto de declaração para casamento
 
@@ -204,7 +226,7 @@ A nubente nasceu em ... de ... de ... (assento n.º ... ano de ...).
 
 Modelo de edital para casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo de certificado previsto no artigo 146.º
 
@@ -616,11 +638,11 @@ c) Documento n.º ..., maço n.º ..., ano de ...;
 
 Modelos de boletins para averbamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo do boletim previsto no artigo 172.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Modelo dos boletins previstos no artigo 218.º
 
@@ -764,16 +786,16 @@ Observação. - As certidões serão encerradas com a seguinte fórmula: «Por s
 
 ... Conservatória do Registo Civil d ..., ... de ... de ... - O ... (categoria e assinatura do funcionário).»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Verbete onomástico de nascimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Verbete onomástico de casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
 
 Verbete onomástico de óbito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50245033.pdf)

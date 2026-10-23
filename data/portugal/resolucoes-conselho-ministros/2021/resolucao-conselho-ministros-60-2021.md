@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2021/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2021-163442507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e6a7a53ed3b86df69a20692489d153571af2b63d918520ce1f20f5fb253d2ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88e2b7b4723fb5d494ed7ffec69345b2304a4fee318f814518cf0b6a7e96ff0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Fundação para a Ciência e a Tecnologia
 - Conselho de Ministros
 - Delegação de Competências
-- Guimarães
-- Ministro da Ciência Tecnologia e Ensino Superior
 - Equipamento Informático
-- Ministério da Ciência Tecnologia e Ensino Superior
-- Parque de Ciência e Tecnologia-AVEPARK
-- Iniciativa Nacional Competências Digitais e.2030
-- Governo XXII
-- Plano de Ação para a Transição Digital
 - Estratégia Nacional para a Computação Avançada
+- Fundação para a Ciência e a Tecnologia
+- Governo XXII
+- Guimarães
+- Iniciativa Nacional Competências Digitais e.2030
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Parque de Ciência e Tecnologia-AVEPARK
+- Plano de Ação para a Transição Digital
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:54Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +239,7 @@ A figura 1 ilustra a distribuição dos centros operacionais e dos centros de co
 
 Figura 1 - Centros Operacionais e Centros de Competência que integram a Rede Nacional de Computação Avançada em 2021, juntamente com a rede pública de comunicações científicas, Rede Ciência, Tecnologia e Sociedade e suas ligações internacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf)
 
 As tecnologias da informação e comunicação (TIC), e a computação avançada em particular, consomem quantidades substanciais de energia, pelo que podem ter impactos ambientais significativos, caso as suas infraestruturas não sejam acompanhadas de um cuidado planeamento e de investimentos que garantam a sustentabilidade da sua operação. Atualmente, estima-se que o setor das TIC represente entre 5 % a 9 % do consumo mundial de energia, prevendo-se que esse valor possa chegar aos 20 % em 2030. Uma parte substancial deste consumo é realizado por centros de computação, que já é de 200 TWh por ano e que se prevê vir a aumentar até 2030. Assim, é essencial que o crescimento económico assente nestes recursos preveja um estreito alinhamento com a estratégia nacional e europeia de transição energética, criando soluções para alimentar os centros de computação avançada com fontes de energia verde e minimizar o recurso a combustíveis fósseis.
 
@@ -247,4 +263,6 @@ ii) o MareNostrum 5, uma máquina de pre-exaescala, que fica alojada no BSC-CNS,
 
 ## ANEXO III — (a que se referem os n.os 4 e 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09500/0001300020.pdf)
+
+114236822

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1996, 2º Suplemento, Série I-B de 1996-09-30
   number: '227'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3438-(8) a 3438-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/227b02/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/525-b/1996/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-b-1996-516564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c30d2bb82c9632d44faef7b6146f66a133b2c7bd4e387b3e9dfe8ecd2312371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e91f3e419f08f54bdf7c0427ff2454960e3cb6ffe0bf858973bc33906ab970
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Estudante
 - Regulamento
-- Ensino Superior
 - Regulamento dos Regimes Especiais de Acesso ao Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:477821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477821:por
+  label: "Alterados os arts. 1º, 15º e 17º do Regulamento aprovado pela Port 317-B/96, de 29-Jul DR.IS-B [174]2ºSupl, com\
+    \ as alterações introduzidas pelo presente diploma, pela PORT.371/98.1998.06.29.ME DR.IS-B [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1998-477821
+  date: '1998-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/317-b/1996/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/317-b/1996/07/29/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629158:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:48Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +133,6 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 27 de Setembro de 1996.**
+Assinada em 27 de Setembro de 1996.
 
 Pelo Ministro da Educação: Alfredo Jorge Silva, Secretário de Estado do Ensino Superior - Ana Benavente, Secretária de Estado da Educação e Inovação.

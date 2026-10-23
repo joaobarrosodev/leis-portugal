@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/1996/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-1996-186758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5874824bbeca745d676c2246e429d96f1833ce21b74d1c854af0bae082fd5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9d9ad20862dc415f42a43464cbbe1916b1446db13da5fc3fca6565c2936ff57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Financiamento
 - Casa Degradada
 - Centro Urbano
 - Comparticipação do Estado
-- Propriedade Horizontal
-- Obras de Conservação e Restauro
+- Financiamento
+- Incêndio
 - Medidas Preventivas
+- Obras de Conservação e Restauro
 - Património Histórico
-- Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal
 - Prédio Urbano
+- Propriedade Horizontal
+- Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal
 - Subsídio não Reembolsável
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:406888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550577:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:50Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +119,6 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Novembro de 1996.**
+Assinada em 14 de Novembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

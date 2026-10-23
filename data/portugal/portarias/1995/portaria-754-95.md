@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754/1995/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-1995-465985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36e3f3232b1c665e3b10a1015a3ea51865bc44bf8a70a417af61f4883c511d18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3ce8d9dd107ab63359921225efdaff11633edb44b9da3d070415eea852f24f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:562394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253624:por
+  label: "Alterado o nº 1 e substituída a planta anexa pela PORT.647-E/96.1996.11.11.MADRP, DR.I-SB [261]Supl de 11/Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-e-1996-253624
+  date: '1996-11-11'
+- type: amended_by
+  target: pt:dre:142730:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pelo presente diploma,\
+    \ com a redacção dada pela Port 647-E/96 de 11-Nov, pela PORT.779/2002.2002.07.02.MADRP DR.IS-B [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-2002-142730
+  date: '2002-07-02'
+- type: amended_by
+  target: pt:dre:283974:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pelo presente diploma, na redacção da Port 647-E/96 de 11-Nov, pela Port.1033-AR/2004.10.08.2004.MADRP,\
+    \ DR.IS-B [187-Supl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-ar-2004-283974
+  date: '2004-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +100,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:562394:por
+  label: "Revogada a concessão de zona de caça atribuída pela presente portaria, alterada pela Port 647-E/96, de 11-Nov, pela\
+    \ PORT.385/2005.05.04.2005.MAPF, DR.IS-B [66] de 05.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-2005-562394
+  date: '2005-04-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:14Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +170,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/158b00/43674367.pdf))](https://files.diariodarepublica.pt/1s/1995/07/158b00/43674367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/158b00/43674367.pdf)

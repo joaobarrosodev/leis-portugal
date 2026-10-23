@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/21/2025/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2025-906727860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8496d18199801f1a377e29f6e32d3432a03c399e0ba438023dbeab1dda15d0e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d999e9c48e5e46e7a3f945925c516af9f6b8e4b44eb8e4d1ee8a593223a3de2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Conselho de Administração
 - Gestor Público
+- Governo XXIV
 - Nomeação
 - Unidade Local de Saúde do Alto Minho
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -87,16 +87,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855428194:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:12Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +129,7 @@ Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta 
 
 Neste âmbito, no que respeita à Unidade Local de Saúde do Alto Minho, E. P. E., apesar do esforço do atual conselho de administração, entende-se que é necessário renovar a sua liderança, designando uma equipa que, de forma dialogante, cooperante e adaptativa, se revele mais ajustada ao novo desenho integrado de cuidados de saúde das unidades locais de saúde. Com efeito, considera-se crucial que os novos membros da administração tenham a capacidade de enfrentar os desafios imediatos e operacionalizar as medidas estratégicas que se impõem, através de uma gestão sólida e eficaz, assegurando uma efetiva implementação da prestação de cuidados de saúde aos utentes, com qualidade e segurança.
 
-Por conseguinte, e tendo por base a necessidade de imprimir uma nova dinâmica à gestão da Unidade Local de Saúde do Alto Minho, E. P. E., sempre com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução do Conselho de Ministros procede à dissolução, por mera conveniência, do atual conselho de administração nos termos dos n.<sup>os</sup>1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+Por conseguinte, e tendo por base a necessidade de imprimir uma nova dinâmica à gestão da Unidade Local de Saúde do Alto Minho, E. P. E., sempre com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução do Conselho de Ministros procede à dissolução, por mera conveniência, do atual conselho de administração nos termos dos n.os1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
 
 Concomitantemente, procede-se, igualmente, através da presente resolução do Conselho de Ministros, à designação de um novo conselho de administração conforme disposto no artigo 69.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual.
 
@@ -119,7 +139,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do Estatuto do Gestor Público,
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e dos n.<sup>os</sup>1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e dos n.os1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Dissolver, pela necessidade imperiosa e gestionária de imprimir um novo modelo de liderança à instituição, o conselho de administração da Unidade Local de Saúde do Alto Minho, E. P. E., designado pelo [Despacho n.º 2726/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2726-2024-855428194), publicado no Diário da República, 2.ª série, n.º 53, de 14 de março de 2024.
 
@@ -167,13 +187,13 @@ Experiência profissional:
 
 Desde 2023, membro do conselho de administração da NEOVALOR - Serviços em Ambiente e Saúde, S. A.;
 
-Desde 2022, gerente da ERTES - Sociedade de Representações Técnicas L.<sup>da</sup>;
+Desde 2022, gerente da ERTES - Sociedade de Representações Técnicas L.da;
 
-De 2019 a 2022, diretor-geral da EAS - Empresa de Ambiente na Saúde Unipessoal, L.<sup>da</sup>;
+De 2019 a 2022, diretor-geral da EAS - Empresa de Ambiente na Saúde Unipessoal, L.da;
 
 Desde 2020, presidente do conselho de administração da Produtos Alimentares PEIPEN, S. A.;
 
-Desde 2018, gerente da SNL Ibérica, L.<sup>da</sup>;
+Desde 2018, gerente da SNL Ibérica, L.da;
 
 De 2015 a 2018, presidente do conselho de administração do Centro Hospitalar Póvoa de Varzim/Vila do Conde;
 
@@ -274,3 +294,5 @@ Membro do Conselho Coordenador de Avaliação das Carreiras Gerais da ULSAM, E. 
 Nomeação aprovada pelo conselho de administração da ULSAM, E. P. E., para coordenar o grupo de trabalho: Serviços Administrativos/Secretariado (Norma 32), no âmbito do Programa de Acreditação da ULSAM, E. P. E. (maio de 2022);
 
 Nomeação aprovada pelo conselho de administração da ULSAM, E. P. E., para integrar o grupo de trabalho responsável pela elaboração do layout do Plano de Atividades e Orçamento Económico Anual da ULSAM, E. P. E.
+
+118666049

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/006b00/00320033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/6/1996/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/6-1996-624848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352af3eddc9003909742c969d4a86a5305672721f5d4d5775200f9d036022571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 158372f62591153c6503e87193d3e4a97f9186c43e4bd1c78a70ed38f99b10d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Batata
 - CEE
 - Inspecção dos Alimentos
-- Proteção Fitossanitária
-- Proteção do Consumidor
-- Produção Vegetal
 - Países Baixos
+- Produção Vegetal
+- Proteção do Consumidor
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:318972:por
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: cites
+  target: pt:dre:300984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:318972:por
+  label: "Revogada pela PORT.98/2001.2001.02.16.MADRP, DR.IS-B [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2001-318972
+  date: '2001-02-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:30Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +167,7 @@ Que utilizaram, na campanha de 1994-1995, batata-semente originária da Holanda.
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 15 de Dezembro de 1995.**
+Assinada em 15 de Dezembro de 1995.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 

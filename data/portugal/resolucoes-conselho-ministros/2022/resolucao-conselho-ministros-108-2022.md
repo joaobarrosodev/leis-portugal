@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22600/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/108/2022/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2022-203802282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4745ba91d4e276c2bb5f7f003c355ab7f71821b86ca933222823f4fd610b936c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9115a74de2566b097858757fd3c53f94286d3f29b69e21b0b150548007d8b541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Nacional de Municípios Portugueses
+- Autarquia Local
+- Câmara Municipal
 - Comissão de Acompanhamento
 - Definição de Competências
 - Descentralização
-- Câmara Municipal
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2019/01/30/p/dre
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/96/2020/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96/2020/11/11/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122500808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179008335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185839054:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:56Z'
   warnings: []
   errors: []
 ---
@@ -168,3 +204,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 3 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 3 de novembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115900635

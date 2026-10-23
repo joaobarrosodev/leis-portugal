@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06100/0011100112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/49/2024/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2024-857366011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 884e746353794af6a848c41eaec26f886877fe2c2f21ff8715ade1615eb13092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6125eb1b67e5597ae3e9e72b55c0588650a4894409f2cbb3131dfd30de18b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Autorização de Despesas
-- Financiamento
-- Despesas Públicas
 - Apoio ao Investimento
+- Autorização de Despesas
+- Despesas Públicas
+- Financiamento
 - Fundos CE
 - Investimento
 relationships:
@@ -86,16 +86,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:207272802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:910150223:por
+  label: Revogada, a partir de 8 de março de 2025, pelo(a) Resolução do Conselho de Ministros n.º 39-A/2025 - Diário da República
+    n.º 47/2025, Suplemento, Série I de 2025-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-a-2025-910150223
+  date: '2025-03-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:01Z'
   warnings: []
   errors: []
 ---
@@ -135,3 +149,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 9 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 20 de fevereiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117509636

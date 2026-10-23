@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20600/0005000051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/146/2024/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/146-2024-892301184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c1b6e5fc8ded186cd8494d9d5c4bf56f5fae12e3e2737329043f26adcc234a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d88360f882669c7b40fb27847aee3c373c7b1a5d8ed5612dee198ceb0bebd90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,6 +68,12 @@ subjects:
 - Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
 - Nomeação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:53/2021
+  label: Renova, com efeitos a 13 de outubro de 2024, o mandato do nomeado pela Resolução do Conselho de Ministros n.º 53/2021,
+    de 14 de maio, Diário da República n.º 94/2021, Série I
+  source: null
+  date: '2021-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/221/1997/08/20/p/dre
   label: null
@@ -76,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2021/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2021/05/14/p/dre
+- type: cites
+  target: pt:dre:163332286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:53Z'
   warnings: []
   errors: []
 ---
@@ -123,3 +137,5 @@ Foi docente no departamento de Geografia da Faculdade de Letras de Lisboa e na U
 É membro da Academia de Ciências de Lisboa, do Conselho Nacional do Ambiente e do Desenvolvimento Sustentável (CNADS), do Conselho Estratégico do Instituto Nacional de Administração, I. P. (INA), da Comissão de Acompanhamento da Implementação e Monitorização dos ODS (Presidência do Conselho de Ministros) e do Conselho Geral do Instituto Politécnico de Portalegre.
 
 Coordena atualmente, enquanto membro do CNADS, a Plataforma ODSlocal, uma iniciativa que visa dinamizar os Objetivos de Desenvolvimento Sustentável das Nações Unidas junto dos municípios portugueses.
+
+118254341

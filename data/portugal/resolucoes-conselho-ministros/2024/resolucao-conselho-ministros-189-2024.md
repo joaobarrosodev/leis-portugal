@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24500/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/189/2024/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2024-900516793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35174e5e02ad11cfca8c30ab8cf7a2c86e5d5e83618d2b0f6de1772fd817f7e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f92989e7033c482746540cad9796bdeadf2dc8eee231b9812cf86e5e548d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministro da Saúde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Serviços de Segurança
-- Ministério da Saúde
 - Governo XXIV
+- Ministério da Saúde
+- Ministro da Saúde
+- Serviços de Segurança
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:49Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +144,7 @@ Considerando que os contratos a celebrar darão lugar a encargos orçamentais no
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 36.º e dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 36.º e dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar as entidades adjudicantes constantes do anexo à presente resolução e da qual faz parte integrante a realizar despesa com a aquisição de serviços de segurança e vigilância, para um período de 24 meses e até ao montante máximo global de € 32 005 542,15, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
 
@@ -144,7 +164,7 @@ b) 2026 - € 11 212 178,12.
 
 Presidência do Conselho de Ministros, 28 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 4)
+## ANEXO — (a que se referem os n.os1 e 4)
 
 Repartição de encargos por entidades adjudicantes
 
@@ -152,7 +172,7 @@ QUADRO
 
 Segurança e vigilância
 
-| Designação da entidade | Valor sem IVA para 2025 (em euros) | Valor sem IVA para 2026 (em euros) | Total sem IVA (em euros) | Fonte de financiamento |
+| Designação da entidade | Valor sem IVA para 2025 (em euros) | Valor sem IVA para 2026 (em euros) | Total sem IVA<br>(em euros) | Fonte de financiamento |
 | --- | --- | --- | --- | --- |
 | Administração Central do Sistema de Saúde, I. P. | 140 046,72 | 146 716,08 | 286 762,80 | 311 - RI |
 | Direção-Geral da Saúde | 100 641,72 | 0,00 | 100 641,72 | 311 - RI |
@@ -182,3 +202,5 @@ Segurança e vigilância
 | Unidade Local de Saúde do Oeste, E. P. E. | 661 955,23 | 692 169,37 | 1 354 124,60 | 511 - RP |
 | Unidade Local de Saúde da Póvoa de Varzim/Vila do Conde, E. P. E. | 352 703,42 | 368 750,45 | 721 453,87 | 511 - RP |
 | Total | 20 793 364,03 | 11 212 178,12 | 32 005 542,15 |  |
+
+118452476

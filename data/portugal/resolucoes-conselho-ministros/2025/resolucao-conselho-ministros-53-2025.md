@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05300/0006300069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/53/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2025-911089443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f7e71b0ebd257909a85ddd683c57351f39bc5e9aa976524e52019e99b4f5337
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19105ffac7e322dafd3183a1b569742ddb006e5400e4d142920500f71c56cbc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- EUA
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
-- Delegação de Competências
-- Universidade
-- Parceria Pública
 - Cooperação Científica
-- Universidade Internacional
+- Delegação de Competências
+- EUA
+- Fundação para a Ciência e a Tecnologia
 - Governo XXIV
+- Investigação Científica e Tecnológica
 - Ministro da Educação Ciência e Inovação
+- Parceria Pública
+- Universidade
+- Universidade Internacional
 relationships:
 - type: amended_by
   target: pt:dre:992627244:por
@@ -114,16 +114,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/210/2024/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/210/2024/12/30/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:992627244:por
+  label: Revogada, a partir de 25 de dezembro de 2025, com efeitos a partir de 1 de janeiro de 2026, pelo(a) Decreto-Lei n.º
+    132/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2025-992627244
+  date: '2025-12-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:16Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +224,7 @@ c) Uma equipa de projeto composta por dois elementos, com a função de apoiar o
 
 d) Um ponto focal de cada uma das parcerias CMU-Portugal, MIT-Portugal e UT Austin-Portugal, que atuam sob a direção do presidente da Estrutura de Missão, sendo responsáveis pelo acompanhamento, pela gestão e pela execução das iniciativas específicas de cada parceria junto da respetiva equipa executiva, no âmbito da gestão nacional.
 
-6 - Determinar que o presidente da Estrutura de Missão exerce as respetivas funções em comissão de serviço, com observância do disposto nos n.<sup>os</sup>4 e 5 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e nos termos da demais legislação aplicável, designadamente da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual (LTFP).
+6 - Determinar que o presidente da Estrutura de Missão exerce as respetivas funções em comissão de serviço, com observância do disposto nos n.os4 e 5 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e nos termos da demais legislação aplicável, designadamente da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual (LTFP).
 
 7 - Determinar que, para a prossecução da sua missão, os elementos da Estrutura de Missão referidos nas alíneas c) e d) do n.º 5 podem ser recrutados ao abrigo dos seguintes regimes, nos termos da LTFP, e demais legislação aplicável:
 
@@ -224,7 +262,7 @@ c) Em 2027 - € 148 220,00.
 
 15 - Determinar que os encargos financeiros resultantes do disposto na presente resolução são satisfeitos pelas verbas adequadas inscritas e a inscrever na fonte de financiamento de receitas próprias do orçamento da FCT, I. P.
 
-16 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, ciência e inovação a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto nos n.<sup>os</sup>13 a 15.
+16 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, ciência e inovação a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto nos n.os13 a 15.
 
 17 - Estabelecer que o mandato da Estrutura de Missão vigora até ao final do ano letivo de 2026/2027, sem prejuízo do disposto no número seguinte.
 
@@ -323,3 +361,5 @@ c) Apresentar uma avaliação técnica detalhada intercalar, até 31 de dezembro
 15 - O Comité de Avaliação Externa Global das Parcerias aprova o seu regimento, no quadro das normas legais e regulamentares aplicáveis, em especial do previsto para os órgãos colegiais no Código do Procedimento Administrativo, o qual regula necessariamente, entre outras matérias, o número de reuniões anuais a realizar, que não deve ser inferior a uma reunião por ano.
 
 16 - Com a extinção da Estrutura de Missão, a presidência do Conselho Nacional de Acompanhamento das Parcerias passa a ser exercida, por inerência, pelo presidente do conselho diretivo da FCT, I. P., ou por quem por este for designado, passando a vice-presidência do Conselho Nacional de Acompanhamento das Parcerias a ser exercida, por inerência, pelo presidente do conselho de administração da ANI, S. A., ou por quem por este for designado.
+
+118813411

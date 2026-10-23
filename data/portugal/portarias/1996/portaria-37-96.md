@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/037b00/02780278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/37/1996/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-1996-620076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 654aaa0f2cd408e89d7273bd9a2a52630b5f686241c1fb7282967c68a110fd53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad1b3fec33256279822375f81781244032b4ba36ed313187231edea58c72668f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,37 @@ relationships:
   target: pt:dre:146227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146227:por
+  label: "Totalmente Revogada Pela Port.754-A/96.1996.12.23.PCM, DR.IS-B [296]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-a-1996-146227
+  date: '1996-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/45-a/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45-a/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:247046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553432:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:01Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +128,6 @@ Manda o Governo, pelos Ministros das Finanças, da Economia e Adjunto, o seguint
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Economia.
 
-**Assinada em 26 de Janeiro de 1996.**
+Assinada em 26 de Janeiro de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Daniel Bessa Fernandes Coelho. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Daniel Bessa Fernandes Coelho. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.

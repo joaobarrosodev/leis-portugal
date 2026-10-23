@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/355/1996/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1996-405915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f51a310923ad5d9b477628fa03da8b8aa9a532fb9d90ec55a8cd8f153bdd19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e17f08778467c7bebd0ccd217eedd37e17a0a0fd78fec69ca8998a733d069d32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544785:por
+  label: "Revogada pela PORT.1228/2006.15.11.2006.PCM, DR.IS [220] de 15.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1228-2006-544785
+  date: '2006-11-15'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:41Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +126,9 @@ Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do estabelec
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 26 de Julho de 1996.**
+Assinada em 26 de Julho de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro.**
+O Secretário de Estado da Juventude, António José Martins Seguro.
 
 REGULAMENTO PARA INSCRIÇÃO NO REGISTO NACIONAL DAS ASSOCIAÇÕES JUVENIS (RNAJ)
 
@@ -263,4 +276,4 @@ b) Lista das associações candidatas à inscrição no RNAJ cuja inscrição fo
 
 2 - Das deliberações da comissão de acompanhamento cabe recurso para o membro do Governo responsável pela área da juventude.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf))](https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf)

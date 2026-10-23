@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/1996/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1996-226426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2824f0c70825440a1de9239b320b1b60f7893d353e2f920ca61472225724c53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 373d9cf793b221652e1c5d84877e8f67fb7c9103ac69d97ee248cf667f52a9aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,45 @@ reuse:
 subjects:
 - Artesanato
 - Certificado de Qualidade
-- Qualidade do Produto
 - Indústria de Ourivesaria e Relojoaria
 - Joalharia e Ourivesaria
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:67641480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642971:por
+  label: "Alterado o nº 1.3 do anexo e aditados ao nº 2 do anexo os nºs 2.3, 2.4, 2.5 e 2.6 pela PORT.1034/99.1999.11.24.MECO,DR.IS-B\
+    \ [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1034-1999-642971
+  date: '1999-11-24'
+- type: amended_by
+  target: pt:dre:67641480:por
+  label: Mantido em vigor o presente diploma, alterado pela Port 1034/99 de 24-nov, pelo(a) Decreto-Lei n.º 121/2015 - Diário
+    da República n.º 125/2015, Série I de 2015-06-30, até à entrada em vigor da portaria prevista no n.º 2 do art. 3.º daquele
+    decreto-lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2015-67641480
+  date: '2015-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1996/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/204/1996/10/25/p/dre
+- type: cites
+  target: pt:dre:226421:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:49Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +125,9 @@ Manda o Governo, pelo Ministro da Economia, que sejam aprovados os critérios ge
 
 Ministério da Economia.
 
-**Assinada em 11 de Outubro de 1996.**
+Assinada em 11 de Outubro de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.
 
 ## ANEXO — Critérios para atribuição do direito ao uso do certificado de autenticidade
 

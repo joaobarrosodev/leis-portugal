@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15200/0000700007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/104/2021/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2021-169184186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4066b742a4be0eb20f5ba51ecb1ca3fd88a35da94346e3c7299c6d177586c420
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bee9f0aefee00aedce4055441dd46666378e0cb7c53ddb57d6f3df89faacd76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Conselho de Ministros
 - Contrato Programa
-- Transporte Ferroviário
 - Delegação de Competências
-- Subvenção Pública
-- Ministro das Finanças
+- Governo XXII
 - Indemnização Compensatória
-- Serviço Público
+- Infraestruturas de Portugal
+- Ministro das Finanças
+- Ministro das Infraestruturas e da Habitação
 - Ministro de Estado e das Finanças
+- Plano Ferroviário Nacional
 - Prorrogação de Prazo
 - Rede Ferroviária
-- Infraestruturas de Portugal
-- Ministro das Infraestruturas e da Habitação
-- Governo XXII
-- Plano Ferroviário Nacional
+- Serviço Público
+- Subvenção Pública
+- Transporte Ferroviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2008/08/26/p/dre
@@ -94,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/117/2020/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/117/2020/12/30/p/dre
+- type: cites
+  target: pt:dre:152512124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:32Z'
   warnings: []
   errors: []
 ---
@@ -135,3 +147,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 5 - Determinar que a presente resolução produz efeitos a 1 de julho de 2021.
 
 Presidência do Conselho de Ministros, 29 de julho de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114473715

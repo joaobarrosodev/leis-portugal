@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2020-148444002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16c825452af3ef29bcd58e2996c96c85f38f6cff7f1b42a4bcc54318be9827ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7471ecb288921f0920774cf16e75ecb46179e26789fa5ba8ef65c038aca3913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para o Desenvolvimento e Coesão
-- QREN
+- Agricultura
 - Ajuda Comunitária
-- Pobreza
-- Empreendedorismo
-- Protecção à Família
-- Região Autónoma
-- Financiamento
-- Formação Profissional
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Definição de Competências
-- Desenvolvimento Social
 - Climatização
-- Proteção da Floresta
-- Saúde Pública
-- Serviço Nacional de Saúde
-- Fundos CE
-- Investimento
 - Criação de Emprego
-- Programa Nacional da Política de Ordenamento do Território
-- Proteção do Ambiente
-- Doença Infecciosa
-- Epidemia
-- Diversidade Biológica
-- Gestão do Ambiente
+- Cultura
+- Definição de Competências
 - Desenvolvimento Económico
-- Política Agrícola Comum
+- Desenvolvimento Rural
+- Desenvolvimento Social
+- Diversidade Biológica
+- Doença
+- Doença Infecciosa
+- Eficiência Energética
+- Empreendedorismo
+- Emprego
 - Energia
 - Ensino
-- Cultura
-- Emprego
-- Programa Operacional
-- Proteção Social
-- Pequenas e Médias Empresas
-- Habitação
 - Ensino Superior
-- Agricultura
-- Doença
-- Eficiência Energética
-- Fundo Ambiental
+- Epidemia
 - Estratégia Portugal 2030
+- Financiamento
+- Formação Profissional
+- Fundo Ambiental
+- Fundos CE
+- Gestão do Ambiente
+- Habitação
+- Investimento
+- Ordenamento do Território
+- Pequenas e Médias Empresas
+- Pobreza
+- Política Agrícola Comum
+- Programa Nacional da Política de Ordenamento do Território
+- Programa Operacional
+- Proteção da Floresta
+- Proteção do Ambiente
+- Proteção Social
+- Protecção à Família
+- QREN
+- Região Autónoma
+- Saúde Pública
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
@@ -116,16 +116,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:22Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +238,7 @@ Após descrever a dinâmica da crise, alertando para a sua natureza global e sis
 
 Figura 1 - Constrangimentos estruturais e oportunidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
 
 Fonte: «Visão Estratégica para o Plano de Recuperação Económica de Portugal 2020-2030», António Costa Silva, Lisboa, 21 de julho de 2020.
 
@@ -242,7 +250,7 @@ As vantagens competitivas de Portugal permitem configurar importantes oportunida
 
 Figura 2 - Futuros possíveis de Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
 
 Fonte: «Visão Estratégica para o Plano de Recuperação Económica de Portugal 2020-2030», António Costa Silva, fig. 3, p. 26, Lisboa, 21 de julho de 2020.
 
@@ -250,7 +258,7 @@ Finalmente, a «Visão Estratégica para o Plano de Recuperação Económica de 
 
 Figura 3 - Eixos estratégicos da «Visão Estratégica para o Plano de Recuperação Económica de Portugal 2020-2030»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
 
 Fonte: «Visão Estratégica para o Plano de Recuperação Económica de Portugal 2020-2030», António Costa Silva, Lisboa, 21 de julho de 2020.
 
@@ -270,7 +278,7 @@ A resposta aos bloqueios, aos novos desafios e aos impactos da pandemia global e
 
 Figura 4 - Agendas temáticas da Estratégia Portugal 2030 e a visão estratégica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22200/0001200061.pdf)
 
 A Estratégia Portugal 2030 assume-se assim como a base estratégica para documentos de natureza programática transversal, como são as Grandes Opções e o Programa Nacional de Reformas, bem como dos programas estratégicos de mobilização de fundos europeus (Acordo de Parceria, PRR e o PEPAC) e os programas e planos setoriais que a venham a concretizar.
 
@@ -616,7 +624,7 @@ No que se refere à promoção do empreendedorismo e do espírito empresarial, a
 
 Quanto à qualificação e dimensionamento empresarial, as intervenções visam apostar na qualificação empresarial e no estímulo de ganhos de escala como forma de aumentar a produtividade das empresas nacionais e a competitividade da economia portuguesa, seja continuando a incentivar dinâmicas de cooperação e concentração empresarial (i. e., ganhos de escala internamente), seja prosseguindo a estratégia de internacionalização que tem vindo a ser seguida e que assenta na tripla dimensão de fomento das exportações, fomento do investimento no exterior e atração de IDE (i. e., ganhos de escala externamente), incluindo o aproveitamento de novas dinâmicas de localização industrial, e envolve a promoção do investimento em fatores imateriais da competitividade e inovação, com vista à implementação de novos métodos e processos organizacionais, que aproveitem, inter alia, as oportunidades decorrentes da digitalização, e o incremento da flexibilidade e da capacidade de resposta das empresas no mercado global; a promoção de dinâmicas de clusterização e cooperação ativa entre empresas, associações e outros agentes, em particular nos domínios prioritários das Estratégias de Investigação e Inovação para Uma Especialização Inteligente, estimulando ganhos de escala e o reforço da competitividade empresarial por via de processos de concentração empresarial e de eficiência coletiva, sobretudo em setores de elevado nível de inovação e valor acrescentado; o reforço da orientação externa das empresas e o seu posicionamento mais qualificado em cadeias de valor europeias e globais, nomeadamente dos setores de alta e média-alta intensidade tecnológica de maior valor acrescentado, através do aumento da intensidade exportadora e da incorporação de valor acrescentado nacional, do alargamento e diversificação da base exportadora, da diversificação dos mercados e dos canais de comercialização das exportações. E, no que respeita às atividades de comércio e serviços de proximidade, que se pugne pela qualificação e maior sofisticação dos seus modelos de negócios.
 
-No que respeita ao aumento da intensidade em conhecimento, pretende-se continuar a estimular a produção e incorporação de conhecimento científico e tecnológico pelas empresas, sobretudo em PME e em domínios prioritários das Estratégias de Investigação e Inovação para Uma Especialização Inteligente, de modo a inverter a baixa intensidade de incorporação de investigação e desenvolvimento no processo produtivo em Portugal. As intervenções continuarão a privilegiar as dinâmicas de eficiência coletiva e de clusterização, permitindo às empresas nacionais ultrapassar os obstáculos criados pela pequena dimensão e garantindo a definição de uma estratégia comum, que assegure uma resposta integrada e articulada aos novos desafios que o País enfrenta num contexto cada vez mais globalizado e envolverão a sensibilização do tecido empresarial, sobretudo dos micro e pequenos empresários, para a importância da digitalização e inovação e do reforço do investimento em I&DT; a melhoria do perfil de especialização da economia portuguesa, promovendo atividades económicas intensivas em conhecimento e de elevado valor acrescentado, através do aumento do investimento empresarial em I&DT, sobretudo nas PME, e do IDE, acima referido, e que se focalize em atividades de I&D realizadas em território nacional, inserido numa lógica de aproveitamento da proximidade aos mercados europeus; o reforço das capacidades internas de as empresas produzirem e obterem conhecimento e desenvolverem atividades de I&D, digitalização e inovação; e o aumento do valor económico da inovação, promovendo e apoiando a proteção da propriedade industrial resultante da I&D empresarial.
+No que respeita ao aumento da intensidade em conhecimento, pretende-se continuar a estimular a produção e incorporação de conhecimento científico e tecnológico pelas empresas, sobretudo em PME e em domínios prioritários das Estratégias de Investigação e Inovação para Uma Especialização Inteligente, de modo a inverter a baixa intensidade de incorporação de investigação e desenvolvimento no processo produtivo em Portugal. As intervenções continuarão a privilegiar as dinâmicas de eficiência coletiva e de clusterização, permitindo às empresas nacionais ultrapassar os obstáculos criados pela pequena dimensão e garantindo a definição de uma estratégia comum, que assegure uma resposta integrada e articulada aos novos desafios que o País enfrenta num contexto cada vez mais globalizado e envolverão a sensibilização do tecido empresarial, sobretudo dos micro e pequenos empresários, para a importância da digitalização e inovação e do reforço do investimento em I&DT a melhoria do perfil de especialização da economia portuguesa, promovendo atividades económicas intensivas em conhecimento e de elevado valor acrescentado, através do aumento do investimento empresarial em I&DT, sobretudo nas PME, e do IDE, acima referido, e que se focalize em atividades de I&D realizadas em território nacional, inserido numa lógica de aproveitamento da proximidade aos mercados europeus; o reforço das capacidades internas de as empresas produzirem e obterem conhecimento e desenvolverem atividades de I&D, digitalização e inovação; e o aumento do valor económico da inovação, promovendo e apoiando a proteção da propriedade industrial resultante da I&D empresarial.
 
 No que se refere ao estímulo da produção de bens e serviços por via do aproveitamento das oportunidades de mercado criadas pela dinamização do investimento público e privado, as intervenções envolvem o aumento da competitividade da oferta nacional e da incorporação nacional em projetos estruturantes, promovendo a capacidade concorrencial dos atores locais, incluindo na resposta a concursos públicos; e a promoção da transformação do tecido produtivo nacional e da inovação por via do mercado público.
 
@@ -1083,3 +1091,5 @@ Em termos formais, a Estratégia Portugal 2030 será objeto de monitorização c
 (1) Programa de Estabilização Económica e Social (PEES), junho de 2020.
 
 (2) Naturalmente que as Regiões Autónomas são abrangidas pelas restantes agendas, domínios e eixos da presente Estratégia, nomeadamente na promoção de estratégias próprias de competitividade e coesão territorial e sempre atendendo às suas especificidades territoriais. Neste eixo, constam apenas as questões centrais do seu papel ímpar na promoção da Estratégia Atlântica de Portugal.
+
+113719087

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14400/0009800099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2023/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2023-216188324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 193432e477a49946df1c77d6e04010d51ac5e7ea632e8b92fb451d72a3218bd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a6caa9ee0801d121be4572c4f1e60a04c7c8f272209127ce56a599813008a94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
+- Aeroporto Humberto Delgado
 - Alcochete
+- Avaliação de Impacte Ambiental
+- Aviação Civil
+- Aviação Civil Internacional
 - Comissão de Acompanhamento
 - Comissão Técnica
 - Domínio Público Aeroportuário
-- Aviação Civil Internacional
 - Lisboa
-- Projeto de Investimento
-- Avaliação de Impacte Ambiental
 - Montijo
 - Obras Públicas
 - Ordenamento Aeroportuário
 - Prazo
-- Aviação Civil
+- Projeto de Investimento
 - Relatório
 - Transporte de Passageiros
-- Aeroporto Humberto Delgado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/701-h/2008/07/29/p/dre
@@ -93,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2022/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2022/10/14/p/dre
+- type: cites
+  target: pt:dre:202233714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:12Z'
   warnings: []
   errors: []
 ---
@@ -138,3 +146,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 13 de julho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116712896

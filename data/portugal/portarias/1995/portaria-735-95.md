@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/735/1995/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/735-1995-464187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6c9b4f7f16d7777b8a9dd4e7d9e16e63921692ecbb0f3a2747bd1904ac14cb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1919a2ab8b51834ff4077f39930e8fce2f57ffa216a521b304b0d15f47667505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,37 @@ relationships:
   target: pt:dre:518273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284127:por
+  label: "Anexados, vários prédios rústicos, à zona de caça associativa concessionada pela Port 640-D4/94, de 15-Jul, na redacção\
+    \ do presente diploma, pela Port.1033-CQ/2004.10.08.2004.MADRP, DR.IS-B [187-Supl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-cq-2004-284127
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:518273:por
+  label: "Renovada por doze anos e anexados vários prédios rústicos à zona de caça atribuída pela Port 640-D4/94 de 15-Jul,\
+    \ com a redacção que lhe foi conferida no presente diploma, pela PORT.158/2007.02.02.2007.MAOTDR, DR.IS [24] de 02.02.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2007-518273
+  date: '2007-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/640-d4/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-d4/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:276231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:47Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +125,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 640-D4/94
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Junho de 1995.**
+Assinada em 21 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/155b00/43184319.pdf))](https://files.diariodarepublica.pt/1s/1995/07/155b00/43184319.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/155b00/43184319.pdf)

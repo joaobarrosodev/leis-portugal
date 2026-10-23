@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07700/0001200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/87/2025/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2025-915525580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ecbbc33ff978706e5f79c02e4011f2f802b589987e607e41223c6ec191c02a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 906deed70cd03b5ec0466352b7631d93a30d8c89bbc2326ae72dd9e6842809a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,18 @@ reuse:
 subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Aquisição de Bens e Serviços
+- Associação Protetora dos Diabéticos de Portugal
 - Autorização de Despesas
 - Despesas Públicas
 - Diabetes
 - Doença
-- Associação Protetora dos Diabéticos de Portugal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:21/2024
+  label: Altera, a partir de 22 de abril de 2025, os n.ºs 2 e 3 da Resolução do Conselho de Ministros n.º 21/2024, de 26 de
+    janeiro, Diário da República n.º 19/2024, Série I
+  source: null
+  date: '2024-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/21/2024/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/2024/01/26/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839326796:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:00Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +143,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>2 e 3 da [Resolução do Conselho de Ministros n.º 21/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2024-839326796), de 26 de janeiro, que passam a ter a seguinte redação:
+1 - Alterar os n.os2 e 3 da [Resolução do Conselho de Ministros n.º 21/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2024-839326796), de 26 de janeiro, que passam a ter a seguinte redação:
 
 «2 - Autorizar a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.) a realizar a despesa relativa à celebração de acordo de cooperação com a Associação Protetora dos Diabéticos de Portugal, para a prestação de cuidados de saúde especializados no âmbito da Diabetologia e proceder à repartição dos encargos para os anos de 2024 a 2027, até ao montante máximo global de € 22 532 160,60, isento do imposto sobre o valor acrescentado.
 
@@ -138,3 +160,5 @@ d) 2027 - € 5 138 757,26.»
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 10 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118958808

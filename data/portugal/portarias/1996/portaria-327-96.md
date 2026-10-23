@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/327/1996/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-1996-407752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf14694ed37af508a93bf8ca77dd771ef535cb52aa77a53b24ddc7b4a76ed3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7119b86151abd1c258f31ab31a4470efca9c480243d12f01d86b742837a435cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Médico
 - Carreira Médica
-- Formação Profissional
 - Ensino Médico
+- Formação Profissional
 - Internato Complementar
 - Internato Médico
+- Medicina
+- Médico
 - Programa
 relationships:
 - type: amended_by
   target: pt:dre:333828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333828:por
+  label: "Actualizado o programa de formação do internato médico da área profissional de especialização de ginecologia/obstetrícia\
+    \ pela PORT.613/2010.03.08.2010.MS, DR.IS [149] de 03.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-2010-333828
+  date: '2010-08-03'
+- type: amended_by
+  target: pt:dre:105643549:por
+  label: Atualizado o programa de formação da área de especialização de Pneumologia, pela Portaria n.º 342/2016 - Diário da
+    República n.º 249/2016, Série I de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-2016-105643549
+  date: '2016-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -88,16 +100,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:270793:por
+  label: "Revogado, sem prejuízo das disposições finais constantes do n.º 8 do programa de formação, o programa de formação\
+    \ de oftalmologia, aprovado pelo presente diploma, pela PORT.550/2004.21.05.2004.MS, DR.IS-B [119] de 21.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-2004-270793
+  date: '2004-05-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:57Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +148,9 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 2 de Julho de 1996.**
+Assinada em 2 de Julho de 1996.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 PROGRAMA DE FORMAÇÃO DO INTERNATO COMPLEMENTAR DE CIRURGIA PLÁSTICA E RECONSTRUTIVA
 
@@ -1282,15 +1308,15 @@ c) Doenças epiteliais neoplásicas da vulva.
 
 7.1.1 - Obstetrícia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf))](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
 
 7.1.2 - Ginecologia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf))](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
 
 7.2 - Técnicas de diagnóstico em ginecologia/obstetrícia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf))](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/178b00/22812306.pdf)
 
 7.3 - Investigação e ensino:
 

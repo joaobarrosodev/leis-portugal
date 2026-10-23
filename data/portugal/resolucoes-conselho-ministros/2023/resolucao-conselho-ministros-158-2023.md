@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/158/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/158-2023-229857679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a40fbc1fb8d1ac7e7516f08c28946eaed50cbd493c9f55794657c986620cd3ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1a4ca652505b23e15b548b3d27d972c74d8abaf67ebb4ac812eabb83ed93929
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Conselho de Ministros
-- Educação
-- Saúde
-- Equipa de Projecto
-- Política Social
-- Cultura
-- Emprego
-- Habitação
-- Desporto
 - Autarquia Local
+- Conselho de Ministros
+- Cultura
+- Desporto
+- Educação
+- Empreendedorismo
+- Emprego
+- Equipa de Projecto
+- Habitação
+- Política Social
 - Programa Bairros Saudáveis
+- Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-a/2020/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-a/2020/07/01/p/dre
+- type: cites
+  target: pt:dre:136997541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:42Z'
   warnings: []
   errors: []
 ---
@@ -195,3 +203,5 @@ Desde 2018 na Santa Casa da Misericórdia de Lisboa foi responsável pelo lança
 1993-1994, presidente da Associação Académica de Lisboa;
 
 1991-1993, presidente da Associação de Estudantes da Faculdade de Arquitetura da Universidade de Lisboa.
+
+117144252

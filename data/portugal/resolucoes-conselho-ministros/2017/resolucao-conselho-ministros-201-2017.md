@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24700/0669506696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/201/2017/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2017-114412520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: accd65167b0ecb2f5fa347c568202909266317a9d10b6472f93dee96fbba0afe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 442a48c691c697f987520fb7521306505f41d86fb1fb6c9ae24cbde5a4be4f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - ÁREA Metropolitana
 - Autorização de Despesas
-- Titulo de Transporte
-- Transporte Rodoviário
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Subvenção Pública
-- Lisboa
 - Indemnização Compensatória
+- Lisboa
 - Serviço Público
+- Subvenção Pública
+- Titulo de Transporte
 - Transporte de Passageiros
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2008/08/26/p/dre
@@ -106,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/133/2017/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/133/2017/09/25/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108205177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:33Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +169,5 @@ Nos termos do artigo 11.º do [Decreto-Lei n.º 167/2008](https://diariodarepubl
 5 - Estabelecer que as compensações financeiras ora atribuídas pressupõem a verificação documental das condições de prestação do serviço público que as justificam.
 
 Presidência do Conselho de Ministros, 21 de dezembro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111021023

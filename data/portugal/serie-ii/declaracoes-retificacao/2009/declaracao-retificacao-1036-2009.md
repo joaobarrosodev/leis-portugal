@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/070000000/1479414794.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1036-2009-2067996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 327ff7cf443c8ea18c4e001b518ea069da96b66d8de549a7fc4760b6eb597ca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ff3ab43a7b897367efa232d58cc30a12cd227c6184efc27fb4221638b07b38f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:08Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +97,5 @@ Dever-se-á ler:
 "...por despacho do Senhor Presidente de 30 de Dezembro de 2008, foram nomeados como Assistente Administrativo Principal, Ana Cristina Ferreira Gonçalves Antunes, Ana Margarida Milheiro Ventura Soares Dias, Anabela Ferreira Duarte Mata Gonçalves, Andreia Cristina Carvalho Sousa Assunção, Cândido Miguel Nascimento Esteves, Carla Maria Nunes Peneda Arede Silva, Carla Sofia Oliveira Vilar Carvalho Primavera, Dora Sofia Oliveira Sequeira Marques, Edson Sosthenes Costa Alegre Vera Cruz Jordão, Emília Vicência Grilo Carreiras Pacheco, Eugénia Maria Mateus Borges Longo, Guilhermina Dias Esteves da Silva, João Filipe Cleto Tojal Parreira, Júlio Neves Silva Roldão, Luís Miguel da Conceição Alexandre, Mafalda Maria Farinha Oliveira, Maria Zulmira Silva Farinha Ferro, Mauro Jorge Diniz Rafael, Paula Alexandra Pereira Martins Silva, Paulo Jorge Paulino Pereira Brito, Silvia Maria Ferreira Mendes Santana, Sofia Alexandra Simões Major, Sofia Isabel Jesus Pereira Sousa, Sónia Isabel Bento Silva, Sónia Maria Florêncio Filipe, Susana Maria Marques Prates Texugo, Tânia Sofia Gonçalves Fidalgo e Teresa João Bernardes Jesus Marques, com efeitos a partir de 31 de Dezembro de 2008.
 
 9 de Março de 2009. - Por delegação de competências do Presidente da Câmara, o Vereador do Departamento de Recursos Humanos, António Pereira.
+
+301647876

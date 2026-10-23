@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23000/0546305464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/155/2018/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-2018-117160875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39cef860c9395f41016490feed20afb8cdb086a8acf7a3937b462f56b2db14c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b033f116edaff7b010d2b383fad22b1d5c09187c1f75cabee0c077599868cac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministério da Administração Interna
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Secretaria Geral
 - GNR
-- Ministro da Administração Interna
 - Governo XXI
+- Ministério da Administração Interna
+- Ministro da Administração Interna
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14/2017/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/2017/01/11/p/dre
+- type: cites
+  target: pt:dre:105746094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:06Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +147,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 2 - [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/11/23000/0546305464.pdf))](https://files.diariodarepublica.pt/1s/2018/11/23000/0546305464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/11/23000/0546305464.pdf)
 
 3 - Determinar que as importâncias fixadas para os anos económicos de 2019 a 2023, podem ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.»
 
@@ -138,3 +158,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 15 de novembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111856062

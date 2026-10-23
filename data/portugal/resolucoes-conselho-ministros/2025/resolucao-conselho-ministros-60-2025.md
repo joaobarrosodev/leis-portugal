@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2025-911303069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b653c26c0e8b8a19e7fc111a6b70d3abbbf235e0b4b613d056c5f210747a8cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8197dc8e3cd6c5e6ef887f3b1eb97475fa05de508bc8ee613657f1a6fc82e777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
+- Governo XXIV
+- Instituto Português de Oncologia de Francisco Gentil
 - Lisboa
 - Nomeação
 - Presidente
-- Instituto Português de Oncologia de Francisco Gentil
 - Vogal
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:26Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +141,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1, 3, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1, 3, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração do Instituto Português de Oncologia de Lisboa Francisco Gentil, E. P. E., o presidente e quatro vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -161,7 +181,7 @@ Pós-graduada em Gest@o.com pelo INDEG, Business School ISCTE, Lisboa (2001). Pr
 
 Experiência profissional:
 
-Vogal do Conselho de Gestão da Direção Executiva do SNS (junho 2024-março 2025), presidente do conselho de administração da Unidade Local de Saúde de Lisboa Ocidental, EPE (2024), Consultora na Cure, L.<sup>da</sup> (2022-2024), administradora do ISCTE - Instituto Universitário de Lisboa (2019-2022). Vice-presidente da Administração Central do Sistema de Saúde I. P., (ACSS, I. P.) (2014-2019). Diretora do Departamento de Gestão e Administração Geral da ACSS, I. P. (2012-2014). Coordenadora do Gabinete de Auditoria Interna da ACSS, I. P. (2012). Vogal executiva do Hospital Curry Cabral, E. P. E. (2010-2012). Vogal executiva do Hospital Curry Cabral, S. P. A. (2007-2010). Diretora financeira do Hospital Pulido Valente, E. P. E. (2006-2007). Técnica superior principal do Instituto de Gestão Informática e Financeira, I. P., do Ministério da Saúde (IGIF, I. P.), onde exerceu funções no Departamento de Desenvolvimento de Sistemas de Financiamento e Gestão (2003-2006). Presidente do Instituto de Gestão Financeira da Saúde, I. P., da Secretaria Regional dos Assuntos Sociais da Região Autónoma dos Açores (2002-2003). Adjunta da Secretária Regional dos Assuntos Sociais do Governo Regional dos Açores (2001-2002). Técnica superior de 1.ª classe do IGIF, I. P., onde exerceu funções no Departamento de Gestão Financeira (1995-2001).
+Vogal do Conselho de Gestão da Direção Executiva do SNS (junho 2024-março 2025), presidente do conselho de administração da Unidade Local de Saúde de Lisboa Ocidental, EPE (2024), Consultora na Cure, L.da (2022-2024), administradora do ISCTE - Instituto Universitário de Lisboa (2019-2022). Vice-presidente da Administração Central do Sistema de Saúde I. P., (ACSS, I. P.) (2014-2019). Diretora do Departamento de Gestão e Administração Geral da ACSS, I. P. (2012-2014). Coordenadora do Gabinete de Auditoria Interna da ACSS, I. P. (2012). Vogal executiva do Hospital Curry Cabral, E. P. E. (2010-2012). Vogal executiva do Hospital Curry Cabral, S. P. A. (2007-2010). Diretora financeira do Hospital Pulido Valente, E. P. E. (2006-2007). Técnica superior principal do Instituto de Gestão Informática e Financeira, I. P., do Ministério da Saúde (IGIF, I. P.), onde exerceu funções no Departamento de Desenvolvimento de Sistemas de Financiamento e Gestão (2003-2006). Presidente do Instituto de Gestão Financeira da Saúde, I. P., da Secretaria Regional dos Assuntos Sociais da Região Autónoma dos Açores (2002-2003). Adjunta da Secretária Regional dos Assuntos Sociais do Governo Regional dos Açores (2001-2002). Técnica superior de 1.ª classe do IGIF, I. P., onde exerceu funções no Departamento de Gestão Financeira (1995-2001).
 
 Outras atividades:
 
@@ -266,3 +286,5 @@ Responsável pela Área de Auditorias Externas à Codificação Clínica no Depa
 Administradora hospitalar na Agência de Contratualização dos Serviços de Saúde da Região de Lisboa e Vale do Tejo na Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (2000-2001);
 
 Administradora hospitalar na Direção-Geral da Saúde (1998-2000) e administradora hospitalar responsável pelo Serviço de Estatística e Gestão de Informação e pelo Serviço de Formação no Hospital Pulido Valente (1996-1998).
+
+118813185

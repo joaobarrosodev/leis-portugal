@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/706/1995/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1995-474725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c6d25eb2bb056eb5e6ebd9fe95b9a1ebfe88238039056a95dfbb0bdb31dd362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0951995c4078e5e55d67c6f1ca9a1a871624ccab1f6bb057dd59fd362695e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:219569:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692045:por
+  label: "Alterada a redacção do escalão A do anexo I da Port 743/93 de 16-Ago DR.IS-B [191], com a redacção dada pelo presente\
+    \ diploma, pela PORT.982/99.1999.10.30.MS, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/982-1999-692045
+  date: '1999-10-30'
+- type: amended_by
+  target: pt:dre:332036:por
+  label: "Alterados os escalões A e B do anexo I, o grupo II do escalão C e do anexo I e o nº 2º da Port 743/93 de 16-Ago,\
+    \ na redacção dada pelo presente diploma, pela PORT.543/2001.2001.05.30.MS,DR.IS-B [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/543-2001-332036
+  date: '2001-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre
   label: null
@@ -88,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/743/1993/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/743/1993/08/16/p/dre
+- type: cites
+  target: pt:dre:225453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219569:por
+  label: "Revogada a Port 743/93 de 16-Ago, com a redacção do presente diploma, pela Port.1474/2004.21.12.2004.MS, DR.IS-B\
+    \ [297] de 21.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1474-2004-219569
+  date: '2004-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:07Z'
   warnings: []
   errors: []
 ---
@@ -154,6 +184,6 @@ Medicamentos para tratamento de fibrose quística (c).
 
 Ministério da Saúde.
 
-**Assinada em 7 de Junho de 1995.**
+Assinada em 7 de Junho de 1995.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

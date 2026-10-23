@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14002/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/90-c/2024/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-c-2024-872998636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1196f0fbddc5dc052ede5a973d9e41be3a12997eee8f71d4cc96c2113307f38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c7a8bf48a2f1663c07935bf52d4f42d380f91641c51b58885e96df8c73f405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
+- Conservação de Estradas
 - Contrato de Concessão
 - Delegação de Competências
 - Despesas Públicas
-- Conservação de Estradas
+- Governo XXIV
+- Infraestruturas de Portugal
+- Ministro das Infraestruturas e Habitação
+- Ministro de Estado e das Finanças
 - Obras Públicas
 - Parceria Público-Privada
-- Ministro de Estado e das Finanças
-- Infraestruturas de Portugal
-- Governo XXIV
-- Ministro das Infraestruturas e Habitação
 relationships:
 - type: amended_by
   target: pt:dre:1014316395:por
@@ -109,16 +109,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202753539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872280453:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1014316395:por
+  label: Revogada, com efeitos a 17 de dezembro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 8/2026 - Diário da
+    República n.º 12/2026, Série I de 2026-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/8-2026-1014316395
+  date: '2026-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:18Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +195,11 @@ A Equipa de Projeto, em cumprimento do exigido pelo artigo 14.º do [Decreto-Lei
 
 Em execução do mandato atribuído à Equipa de Projeto, foi submetido, em 2 de julho de 2024, um novo relatório fundamentado, desta vez referente ao estudo e lançamento da parceria público-privada relativa à conceção, projeto, construção, financiamento, manutenção e disponibilização das infraestruturas ferroviárias do troço Oiã-Soure (PPP2).
 
-Este relatório inclui, em cumprimento dos n.<sup>os</sup>2 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, a análise das opções que determinaram a configuração do projeto, a descrição do mesmo e do seu modo de financiamento, a demonstração do seu interesse público, a justificação da opção pelo modelo de parceria, a análise da conformidade do projeto de parceria com os pressupostos de lançamento previstos no n.º 1 do artigo 6.º e no artigo 7.º do referido decreto-lei e as minutas de programa do procedimento e de caderno de encargos a adotar para a contratação da parceria.
+Este relatório inclui, em cumprimento dos n.os2 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, a análise das opções que determinaram a configuração do projeto, a descrição do mesmo e do seu modo de financiamento, a demonstração do seu interesse público, a justificação da opção pelo modelo de parceria, a análise da conformidade do projeto de parceria com os pressupostos de lançamento previstos no n.º 1 do artigo 6.º e no artigo 7.º do referido decreto-lei e as minutas de programa do procedimento e de caderno de encargos a adotar para a contratação da parceria.
 
 De referir ainda que a IP, S. A., submeteu, a 29 de janeiro de 2024, no âmbito da "Call 2023" do Programa "Connecting Europe Facility for Transport 2" (CEF 2), uma candidatura com vista a solicitar o cofinanciamento da Fase 1 do Projeto da LAV Porto-Lisboa. O montante de financiamento comunitário que foi solicitado corresponde ao valor total disponível no "envelope coesão" em regime não competitivo, 729 milhões de euros, dos quais 480 milhões serão alocados à PPP1 e os restantes 249 milhões de euros à PPP2, acrescidos de 146 milhões de euros de fundos adicionais provenientes do "envelope coesão" em regime competitivo, neste caso em regime concorrencial com os 27 Estados-Membros, a serem, igualmente, alocados à PPP2. Os resultados desta candidatura deverão ser conhecidos no final do mês de julho de 2024.
 
-Nos termos e para os efeitos previstos nos n.<sup>os</sup>3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 12 de julho de 2024, através do [Despacho n.º 7916-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/7916-a-2024-872280453), publicado no Diário da República, 2.ª série, n.º 137, de 17 de julho de 2024, o lançamento da PPP relativa à conceção, projeto, construção, financiamento, manutenção e disponibilização das infraestruturas ferroviárias do troço Oiã-Soure (PPP2), nos termos previstos no relatório da Equipa de Projeto.
+Nos termos e para os efeitos previstos nos n.os3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, foi aprovado em 12 de julho de 2024, através do [Despacho n.º 7916-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/7916-a-2024-872280453), publicado no Diário da República, 2.ª série, n.º 137, de 17 de julho de 2024, o lançamento da PPP relativa à conceção, projeto, construção, financiamento, manutenção e disponibilização das infraestruturas ferroviárias do troço Oiã-Soure (PPP2), nos termos previstos no relatório da Equipa de Projeto.
 
 No presente caso, compete à IP, S. A., na qualidade de órgão competente para a decisão de contratar, a adoção de todos os atos que, nos termos da lei, se demonstrem necessários ao lançamento do procedimento de concurso público tendente à celebração do contrato de concessão, em regime de parceria público-privada, da conceção, do projeto, da construção, do financiamento, manutenção e disponibilização das infraestruturas ferroviárias do troço Oiã-Soure (PPP2), sem prejuízo da prévia autorização da despesa inerente a esse contrato.
 
@@ -250,3 +296,5 @@ b) A soma dos pagamentos a que se refere o n.º 4, expressos a preços correntes
 8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 16 de julho de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+117928999

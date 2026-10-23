@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/498/1996/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/498-1996-214711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af48d60d738593099bc6947a3f223b9aef74d9b5d7379f030f54a6bae7b68a02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43dae3008e8591312c094cba9342e852a620cabce8975989c8518603461c68a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
 subjects:
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Instalações Radioelétricas
 - Frequências Radiofónicas
+- Instalações Radioelétricas
 - Licenciamento
 - Radiodifusão
 - Segurança dos Edifícios
 - Vistoria
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355505:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:06Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +117,6 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Setembro de 1996.**
+Assinada em 10 de Setembro de 1996.
 
-**O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

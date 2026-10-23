@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0037800379.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/12/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2019-118051701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe0b479394f2345cb12e64e4d5c2307ff478c6aec860e0ad11d6f6a4cc87e9b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09a14ba2d05e00e3ab2bb58e8ed7f68b555e2d491429d1a0b7c81259005f8039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Prevenção de Incêndios
-- Ordenamento do Território
-- Definição de Competências
+- Agência para a Gestão Integrada de Fogos Rurais
 - Arborização
-- Segurança Pública
+- Autoridade Nacional de Protecção Civil
+- Definição de Competências
 - GNR
 - Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
 - Ordenamento Florestal
-- Proteção do Ambiente
-- Política Florestal
-- Autoridade Nacional de Protecção Civil
 - Plano Nacional de Gestão Integrada de Fogos Rurais
-- Agência para a Gestão Integrada de Fogos Rurais
+- Política Florestal
+- Prevenção de Incêndios
+- Proteção Civil
+- Proteção do Ambiente
+- Segurança Pública
 - Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/20/2018/03/01/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114782541:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:58Z'
   warnings: []
   errors: []
 ---
@@ -176,3 +184,5 @@ c) Confiar à AGIF, I. P., a construção de uma plataforma informática de inte
 14 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua aprovação.
 
 Presidência do Conselho de Ministros, 25 de outubro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111989421

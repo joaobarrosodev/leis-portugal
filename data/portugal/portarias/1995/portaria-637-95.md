@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/637/1995/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-1995-475565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eafc84a0006bf181cce7e662fe599375d837cacfe4bda01f1a1403e1dff4766b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfc753ed02a16835373c4e82d5aa16780bf9038b208f4168f99e653fdf3db833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Descrição de Funções
 - Fundão
 - Hospital Distrital
-- Descrição de Funções
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,6 +75,11 @@ relationships:
   target: pt:dre:406276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406276:por
+  label: "Alterado o quadro de pessoal pela PORT.1187/97.1997.11.28.PCM, DR.IS-B [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1187-1997-406276
+  date: '1997-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/246/1993/03/04/p/dre
   label: null
@@ -83,16 +88,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/404/1993/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/404/1993/04/15/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:24Z'
   warnings: []
   errors: []
 ---
@@ -115,23 +148,23 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Repartição de Administração Geral:
 
-#### Secção de Pessoal e Gestão de Doentes;
+Secção de Pessoal e Gestão de Doentes;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Aprovisionamento.
+Secção de Aprovisionamento.
 
 3.º O conteúdo funcional correspondente à carreira de secretária de serviços de saúde do grupo de pessoal técnico-profissional de nível 4 é o constante do anexo I à presente portaria.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Maio de 1995.**
+Assinada em 30 de Maio de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Distrital do Fundão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/142b00/40594062.pdf))](https://files.diariodarepublica.pt/1s/1995/06/142b00/40594062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/142b00/40594062.pdf)
 
 ## ANEXO I — Secretária de serviços de saúde
 

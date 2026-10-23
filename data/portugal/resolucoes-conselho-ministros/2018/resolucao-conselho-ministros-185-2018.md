@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24800/0593905940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/185/2018/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-2018-117489075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e8be77d11b0080c0045bb6192b09e5e0fb307637b1c0e3bc857a7492ac21a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7957e9dff4fd56c2b02b8b8673c0d1a28ef737bfd634d62c56810332bfbfc61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Autorização de Despesas
-- Medicina Privada
+- Cascais
 - Conselho de Administração
 - Conselho de Ministros
 - Delegação de Competências
+- Estabelecimento Hospitalar
 - Gestão Hospitalar
+- Governo XXI
 - Hospital Central
 - Hospital Privado
+- Medicina Privada
 - Parceria Público-Privada
 - Parcerias Saúde
 - Protocolo Nacional
-- Estabelecimento Hospitalar
-- Cascais
-- Governo XXI
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2018/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2018/08/30/p/dre
+- type: cites
+  target: pt:dre:116237023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:27Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +157,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 6 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
 
 Presidência do Conselho de Ministros, 20 de dezembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111939533

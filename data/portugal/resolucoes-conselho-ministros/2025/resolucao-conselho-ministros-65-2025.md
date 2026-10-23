@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0010000115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/65/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2025-911303074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad81b1bee671da0c5b2c738b9fd6cb89eccb969217cf226d9e2755210f3a15cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 811a511853b3e494ff4036396599afa29a6b6a0c43e4d37b8275bf6e6ef523d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- '#PortugalMediaLab'
 - Acesso à Informação
 - Comunicação Social
 - Despesas Públicas
-- Tecnologia
 - Plano Nacional para a Literacia Mediática
-- '#PortugalMediaLab'
+- Tecnologia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
+- type: cites
+  target: pt:dre:224427490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:884941426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:31Z'
   warnings: []
   errors: []
 ---
@@ -505,3 +513,5 @@ União Europeia. (2018). Eurobarómetro 464: Fake news and disinformation online
 Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes. https://publications.jrc.ec.europa.eu/repository/handle/JRC128415
 
 Wardle, C., & Derakhshan, H. (2017). Information Disorder: Toward an interdisciplinary framework for research and policymaking. Council of Europe. https://rm.coe.int/information-disorder-report-2017/1680766412
+
+118813493

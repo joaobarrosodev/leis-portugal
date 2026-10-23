@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/743/1996/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-1996-197508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 984e1d82a83fd19f288014e547e5c0e246c0b26945f6ba930d443da83709212b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0818860a778b8a2f3960156dcebdcf6fa9f779320fa5230f89f54f865c9b8461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hospital de Miguel Bombarda
-- Pessoal Dirigente
 - Descrição de Funções
+- Hospital de Miguel Bombarda
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:423204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423204:por
+  label: "Alterado o Quadro de Pessoal aprovado pelo presente diploma, na parte referente à carreira de Enfermagem, pela PORT.647/99.1999.08.13.PCM,\
+    \ DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1999-423204
+  date: '1999-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/382/1991/05/03/p/dre
   label: null
@@ -84,16 +90,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/89/1993/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/89/1993/01/25/p/dre
+- type: cites
+  target: pt:dre:177818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665733:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301822:por
+  label: "Rectificada pela DECL-RECT.5-G/97.1997.02.20.PCM DR.IS-B [50]3ºSupl de 28/FEV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-g-1997-301822
+  date: '1997-02-20'
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:34Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +191,9 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, o seguinte:
 
 Unidades orgânicas de natureza técnica:
 
-##### Divisão de Serviços Farmacêuticos;
+Divisão de Serviços Farmacêuticos;
 
-##### Divisão de Instalações e Equipamento.
+Divisão de Instalações e Equipamento.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -126,33 +201,33 @@ Repartição de Gestão de Doentes, Arquivo Clínico e Estatística;
 
 Repartição de Serviços Financeiros, com:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Controlo Orçamental;
+Secção de Controlo Orçamental;
 
 Repartição de Pessoal, com:
 
-#### Secção de Gestão de Pessoal e Processamento de Vencimentos;
+Secção de Gestão de Pessoal e Processamento de Vencimentos;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Gestão de Stocks.
+Secção de Gestão de Stocks.
 
 3.º O conteúdo funcional da carreira de desenhador de construção civil do grupo de pessoal técnico-profissional de nível 4 é o constante do anexo I à presente portaria.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 6 de Novembro de 1996.**
+Assinada em 6 de Novembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital Miguel Bombarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/290b00/44774481.pdf))](https://files.diariodarepublica.pt/1s/1996/12/290b00/44774481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/290b00/44774481.pdf)
 
 ## ANEXO I — Grupo de pessoal técnico-profissional de nível 4
 

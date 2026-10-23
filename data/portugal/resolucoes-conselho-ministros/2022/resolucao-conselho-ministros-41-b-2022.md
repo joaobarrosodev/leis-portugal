@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 79/2022, 1º Suplemento, Série I de 2022-04-22
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3-(2) a 3-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07901/0000200003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/41-b/2022/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-b-2022-182491187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac9883711ca82031113e7a01e04c9aa1504c253e55e5ba8fc7f12f11aceeafe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e031633516cb0b071abd169115f19822734dccac7a4513cb7440811089d0e1c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Dia 25 de Abril
-- Comissário
 - Comemoração
+- Comissário
+- Dia 25 de Abril
+- Estrutura de Missão para as Comemorações do Quinquagésimo Aniversário da Revolução de 25 de Abril de 1974
 - Nomeação
 - Presidência do Conselho de Ministros
-- Estrutura de Missão para as Comemorações do Quinquagésimo Aniversário da Revolução de 25 de Abril de 1974
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70/2021/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2021/06/04/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:15Z'
   warnings: []
   errors: []
 ---
@@ -122,3 +126,5 @@ Presidência do Conselho de Ministros, 21 de abril de 2022. - O Primeiro-Ministr
 Nota biográfica da comissária executiva
 
 Maria Inácia Rezola y Palacios Clemente (Leiria, 1967) é licenciada em História (1990), mestre em História dos Séculos XIX e XX (1995) e doutorada em História, especialidade de História Institucional e Política Contemporânea (2004), pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa. É docente da Escola Superior de Comunicação Social do Instituto Politécnico de Lisboa (desde 1997), onde coordena a secção de Ciências Humanas e a comissão editorial da revista Comunicação Pública. Anteriormente, exerceu funções de coordenação dos grupos de investigação «História Política Comparada - Regimes, Transições, Colonialismo e Memória» (2016-2019) e «Revolução e Democracia» (2008-2012) do Instituto de História Contemporânea-FCSH/UNL, unidade de investigação da FCT - I&D, de que é investigadora desde 1995 e de cuja direção fez parte em dois períodos (2005-2011 e 2016-2021). Tem uma ampla experiência no domínio da investigação, tendo dirigido e integrado equipas de trabalho em colaboração com diferentes instituições. Comissariou exposições como «Todos às Urnas» - As eleições para a Assembleia Constituinte de 25 de Abril de 1975 (Assembleia da República, 2015); Revolução e Democracia - do 25 de Abril ao 25 de Novembro (Câmara Municipal de Lisboa, 2015); e A Prova do Tempo (Assembleia da República, 2016). É autora de obras como Os Militares na Revolução de Abril. O Conselho da Revolução e a Transição para a Democracia em Portugal (1974-1976) (Campo da Comunicação, 2006); 25 de Abril - Mitos de uma Revolução (Esfera dos Livros, 2007); Melo Antunes, uma biografia política (Âncora, 2012); Democracia, Ditadura, Memória e Justiça Política (com Irene Pimentel, Tinta da China, 2014); Obras escolhidas de José Medeiros Ferreira - História Política e Institucional (Edições 70, 2018); e co-coordenadora do Dicionário de História de Portugal - o 25 de Abril, 8 vols. (Figueirinhas, 2016-2018).
+
+115258224

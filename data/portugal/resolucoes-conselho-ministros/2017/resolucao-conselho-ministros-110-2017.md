@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/110/2017/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2017-107761909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:11:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb7ae635c402bdbd063f9145f583a3284b299fb9612b5d0959f2becdb6556730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82cb0412fea8fd3fa1a8a30e8175e39ef476ec49de0f39dc37ca05934e2a5710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral de Agricultura e Desenvolvimento Rural
+- Agricultura Biológica
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
-- Agricultura Biológica
-- Produto Agrícola
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Estratégia Nacional para a Agricultura Biológica
 - Observatório Nacional da Produção Biológica
+- Produto Agrícola
 relationships:
 - type: cites
   target: celex:32007R0834
@@ -111,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
+- type: cites
+  target: pt:dre:226244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67401244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74306011:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:11:00Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +199,7 @@ O relatório de trabalho foi alvo de discussão com um Grupo de Acompanhamento c
 
 Com base no trabalho desenvolvido foi elaborada a presente proposta de ENAB estruturada em três eixos ação e cinco objetivos estratégicos, e o PA que consubstancia os seus objetivos operacionais.
 
-# PARTE I — CARACTERIZAÇÃO DA AGRICULTURA E DA PRODUÇÃO BIOLÓGICA EM PORTUGAL
+## PARTE I — CARACTERIZAÇÃO DA AGRICULTURA E DA PRODUÇÃO BIOLÓGICA EM PORTUGAL
 
 1 - PRINCIPAIS INDICADORES DE EVOLUÇÃO
 
@@ -191,7 +215,7 @@ Surge ainda um conjunto diversificado de outras culturas que, embora com menor e
 
 Figura n.º 1 - Ocupação cultural da superfície em agricultura biológica - Continente - 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -205,7 +229,7 @@ Durante o período de 2000 a 2006, em que vigorou o Programa RURIS, a área noti
 
 Figura n.º 2 - Evolução da superfície em agricultura biológica (ha) - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -223,7 +247,7 @@ QUADRO N.º 1
 
 Importância da agricultura biológica (AB) em relação à SAU (2009 e 2015)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: INE - RA 2009; DGADR - 2015
 
@@ -239,7 +263,7 @@ QUADRO N.º 2
 
 Agricultura biológica - Área total, n.º de produtores agrícolas e área média das explorações de agricultura biológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR - 2015
 
@@ -251,7 +275,7 @@ QUADRO N.º 3
 
 Evolução da superfície das principais culturas em agricultura biológica - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -273,7 +297,7 @@ QUADRO N.º 4
 
 Ocupação cultural por região - Continente - 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -291,7 +315,7 @@ QUADRO N.º 5
 
 Efetivo pecuário em agricultura biológica, por espécies - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -309,7 +333,7 @@ QUADRO N.º 6
 
 Efetivos pecuários em agricultura biológica, por espécie e por região - Continente - 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2015
 
@@ -321,7 +345,7 @@ QUADRO N.º 7
 
 Dimensão média dos efetivos pecuários em agricultura biológica, por espécie e por região - Continente - 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2015 Nota: N.º de cabeças - n.º de animais independentemente da classe, aptidão, etc.
 
@@ -347,7 +371,7 @@ No ano de 1994 estavam registados 234 produtores agrícolas em agricultura biol�
 
 Figura n.º 3 - Agricultura Biológica - Total de Produtores (n.º) - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -363,7 +387,7 @@ Numa ordem de grandeza mais reduzida, havia um segundo grupo de produtores agrí
 
 Figura n.º 4 - N.º de produtores por tipo de cultura, nos anos de 2004 e 2015 - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -377,7 +401,7 @@ O número total de produtores pecuários biológicos no ano de 2004 era de 446. 
 
 Figura n.º 5 - N.º de produtores pecuários biológicos - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -389,7 +413,7 @@ QUADRO N.º 8
 
 N.º de produtores pecuários biológicos por espécie animal - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -409,7 +433,7 @@ Em ambas regiões, regista-se, em 2015, um aumento considerável da área em agr
 
 Figura n.º 6 - Superfície agrícola em agricultura biológica (ha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -417,7 +441,7 @@ Relacionando os valores absolutos de 2015 com os valores da SAU disponibilizados
 
 Figura n.º 7 - Peso da área em agricultura biológica na SAU (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR, INE
 
@@ -425,7 +449,7 @@ Em 2015 verificou-se um aumento do número de operadores nas duas regiões autó
 
 Figura n.º 8 - Número de operadores em produção biológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -433,7 +457,7 @@ Quanto ao tipo de culturas, verifica-se uma grande discrepância entre as duas r
 
 Figura n.º 9 - Área ocupada por tipo de cultura em 2015 (ha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -441,7 +465,7 @@ Também se verificam diferenças entre as duas regiões autónomas quanto ao efe
 
 Figura n.º 10 - Número de cabeças em produção biológica em 2015 (apicultura: n.º de colmeias)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -453,7 +477,7 @@ QUADRO N.º 9
 
 Natureza jurídica do produtor biológico, por região (2009)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: INE-RA 2009
 
@@ -465,7 +489,7 @@ QUADRO N.º 10
 
 Natureza jurídica do produtor em agricultura biológica, por região (2009)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: INE - RA 2009
 
@@ -481,7 +505,7 @@ QUADRO N.º 11
 
 Operadores biológicos registados - 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -501,7 +525,7 @@ QUADRO N.º 12
 
 Transformação de produtos biológicos - 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -523,7 +547,7 @@ QUADRO N.º 13
 
 Aquicultura biológica - 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -541,7 +565,7 @@ O maior número de operadores traduziu-se num aumento exponencial, de 2014 para 
 
 Quadro n.º 14 - Importações de produtos biológicos - 2014/2015/2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -549,7 +573,7 @@ Em relação aos países de origem da importação de produtos biológicos, como
 
 Figura n.º 11 - Países de origem da importação de produção biológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -559,7 +583,7 @@ QUADRO N.º 15
 
 Quantidade importada de produtos biológicos por categoria - 2014 a 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -583,7 +607,7 @@ QUADRO N.º 16
 
 Produtores de aves e processadores de ovos e ovoprodutos - 2014 e 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -595,7 +619,7 @@ De acordo com os dados disponíveis em 2016 identificam-se 14 associações com 
 
 Figura n.º 12 - Âmbito de atuação das associações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -603,7 +627,7 @@ No que se refere ao âmbito de atuação, apenas duas organizações (AGROBIO e 
 
 Figura n.º 13 - Número de associações por tipo de associados representados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -615,7 +639,7 @@ Apenas duas associações assumem igualmente responsabilidades na representaçã
 
 Figura n.º 14 - Distribuição de associações por n.º de associados operadores em AB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -623,7 +647,7 @@ Em termos de número de associados operadores em agricultura biológica, apenas 
 
 Figura n.º 15 - Tipo de serviços prestados pelas associações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -633,7 +657,7 @@ Denotando a importância que assume o apoio técnico neste setor, a larga maiori
 
 Figura n.º 16 - Regime de trabalho dos técnicos reconhecidos em agricultura biológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -641,7 +665,7 @@ No que concerne à dimensão do corpo técnico das organizações, pode constata
 
 Figura n.º 17 - Número de técnicos reconhecidos em agricultura biológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR
 
@@ -717,7 +741,7 @@ Figura n.º 18 - OP reconhecidas em maio de 2016
 
 Distribuição dos títulos de reconhecimento por setor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: GPP
 
@@ -735,7 +759,7 @@ Em termos de distribuição geográfica (Figura n.º 19), as OP reconhecidas, ta
 
 Figura n.º 19 - Distribuição (n.º) de OP reconhecidas por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: GPP
 
@@ -755,7 +779,7 @@ QUADRO N.º 17
 
 Ação 2.2.1 - Área apoiada em agricultura biológica (por grupo de cultura)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: PRODER - 2007-15 Relatório de encerramento
 
@@ -777,7 +801,7 @@ PDR 2020 - Pagamentos da Campanha 2015
 
 Ação 7.1 - Agricultura Biológica: áreas pagas por tipo de cultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: PDR 2020: Relatório de Execução - 2014/2015
 
@@ -789,7 +813,7 @@ PDR 2020 - Pagamentos da Campanha 2015
 
 Ação 7.1 - Agricultura Biológica: áreas pagas por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: PDR 2020: Relatório de Execução - 2014/2015
 
@@ -807,7 +831,7 @@ QUADRO N.º 20
 
 PRORURAL+ - Pagamentos efetuados em 2015 - Agricultura Biológica: áreas pagas por cultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: RELATÓRIO DE EXECUÇÃO PRORURAL+ 2015
 
@@ -815,7 +839,7 @@ QUADRO N.º 21
 
 PRODERAM 2020 - Pagamentos efetuados em 2015 - Agricultura Biológica: áreas pagas por medida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: Relatório de Execução do PRODERAM 2020 ANO DE 2015 - RESUMO
 
@@ -979,7 +1003,7 @@ QUADRO N.º 22
 
 Ensino superior com cursos de Agricultura Biológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGES, abril 2016
 
@@ -997,7 +1021,7 @@ QUADRO N.º 23
 
 Cursos técnicos superiores profissionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGES, julho 2016
 
@@ -1013,7 +1037,7 @@ Também na mesma Figura é apresentada a evolução do número de certificados h
 
 Figura n.º 20 - Evolução do número de ações de formação e de certificados homologados - Técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2016
 
@@ -1023,13 +1047,13 @@ No que respeita à formação dirigida aos agricultores e operadores/trabalhador
 
 Figura n.º 21 - Evolução do número de ações de formação com certificados homologados por região - Agricultores/Trabalhadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2016
 
 Figura n.º 22 - Evolução do número de certificados homologados por região - Agricultores /Trabalhadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2016
 
@@ -1041,7 +1065,7 @@ Na Figura n.º 23 apresenta-se a distribuição por distrito do n.º de técnico
 
 Figura n.º 23 - Número de técnicos com formação regulamentada por área de inscrição (Distrito)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
 Fonte: DGADR 2016
 
@@ -1067,9 +1091,9 @@ Envolve toda a cadeia de abastecimento alimentar dos agricultores aos consumidor
 
 No presente ponto efetua-se uma síntese dos pontos fortes, dos pontos fracos as oportunidades e as ameaças identificados e que se colocam à agricultura e produção biológica em Portugal, com vista a desenhar o quadro da formulação Estratégia Nacional a propor, no sentido de pôr em execução um Plano de ação para a produção e promoção de produtos biológicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
 
-# PARTE II — OBJETIVOS ESTRATÉGICOS E EIXOS DE AÇÃO
+## PARTE II — OBJETIVOS ESTRATÉGICOS E EIXOS DE AÇÃO
 
 10 - OBJETIVOS ESTRATÉGICOS
 
@@ -1239,4 +1263,4 @@ Através de um conjunto coerente e diversificado de ações enquadrado pela ENAB
 
 Plano de Ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14400/0420704231.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05600/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/21/2021/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2021-159841263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 106b45e487dc6e95577dc4712e5779702c64b7c22dfbd1949b4767a3a8f368b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 274aa9de8c58bfe8684edc4572433768f0c477f15d512c9fefd124837ca2ee3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
+- Agricultura
 - Ajuda Comunitária
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Aproveitamento Agrícola
+- Área Integrada de Gestão da Paisagem
+- Atividade Agrícola
 - Desenvolvimento Rural
 - Feader
-- Proteção da Floresta
-- Freguesia
 - Feaga
+- Financiamento
+- Freguesia
 - Fundos CE
+- Incêndio
 - Ordenamento Florestal
-- Proteção do Ambiente
-- Política de Solos
-- Política Agrícola Comum
-- Política Agrícola
 - Pecuária
-- Agricultura
-- Aproveitamento Agrícola
-- Vinha
 - Plano Nacional de Gestão Integrada de Fogos Rurais
+- Política Agrícola
+- Política Agrícola Comum
+- Política de Solos
+- Prevenção de Incêndios
 - Programa de Transformação da Paisagem
-- Área Integrada de Gestão da Paisagem
+- Proteção da Floresta
+- Proteção do Ambiente
+- Vinha
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/2020/06/26/p/dre
@@ -98,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/301/2020/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/301/2020/12/24/p/dre
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152197939:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:11Z'
   warnings: []
   errors: []
 ---
@@ -173,3 +181,5 @@ h) Reforço do apoio às cadeias curtas e mercados locais e às organizações d
 7 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
 
 Presidência do Conselho de Ministros, 4 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114072579

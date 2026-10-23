@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/961/1995/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-1995-479382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae6bf1b690310fce60cee926ae7edededb5b09762af24c218c95c1faa79d7fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 501e8effbcc8c42fb292b293e93b7dcd8f5c1c63dba93cd63a3d02c331559f3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
-- Quadro de Pessoal
 - Ensino Superior
+- Quadro de Pessoal
 - Serviços de Acção Social
 - Universidade da Beira Interior
 relationships:
@@ -75,6 +75,11 @@ relationships:
   target: pt:dre:2958337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2958337:por
+  label: "Alterado o mapa anexo ao presente diploma, pela PORT.208/96IIS.22.10.1996.PCM, DR.IIS [245] de 22.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/208-1996-2958337
+  date: '1996-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1995/05/20/p/dre
   label: null
@@ -83,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
+- type: cites
+  target: pt:dre:503650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:18Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +124,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que o quadro de 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 13 de Julho de 1995.**
+Assinada em 13 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Quadro de pessoal dos Serviços de Acção Social da Universidade da Beira Interior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/182b00/49844985.pdf))](https://files.diariodarepublica.pt/1s/1995/08/182b00/49844985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/182b00/49844985.pdf)

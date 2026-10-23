@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/19/2021/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2021-159432419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1493629af44b0339789ca4fdc6022210fc9bd477fa3e1dc87034b6160b72b99a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be27c9dc24e9124f58837f5e3e0b1b450d38367f59dda63c5c117e5fb0c313d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,55 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Desportivo
 - Cabeleireiro
+- Casamento
 - Centro de Actividades de Tempos Livres
+- Centro de Actividades Ocupacionais
 - Centro de DIA
-- Indústria Automóvel
+- Cinema
 - Circulação de Pessoas
-- Imóvel Classificado
-- Estabelecimento Comercial
 - Controlo Sanitário
+- Desporto
+- Doença Infecciosa
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Epidemia
+- Equipamento de Proteção
+- Equipamento Desportivo
 - Equipamento Social
-- Saúde Pública
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
 - Feira
+- Imóvel Classificado
+- Indústria Automóvel
 - Isolamento Profiláctico
-- Ensino Secundário
 - Livraria
-- Centro de Actividades Ocupacionais
+- Loja do Cidadão
 - Mediação de Imóveis
 - Museu
-- Doença Infecciosa
-- Epidemia
-- Estabelecimento de Ensino
 - Prestação de Serviços
-- Ensino Básico
-- Teletrabalho
-- Cinema
 - Recinto Cultural
-- Casamento
-- Loja do Cidadão
-- Educação Pré-escolar
+- Saúde Pública
 - Teatro
-- Desporto
-- Equipamento de Proteção
+- Teletrabalho
 relationships:
 - type: amended_by
   target: pt:dre:164955319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:164712104:por
+  label: Revogada, a partir de 05.06.2021, pelo(a) Resolução do Conselho de Ministros n.º 70-B/2021 - Diário da República
+    n.º 108/2021, 1º Suplemento, Série I de 2021-06-04 nos termos do n.º 7 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-b-2021-164712104
+  date: '2021-06-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:09Z'
   warnings: []
   errors: []
 ---
@@ -170,8 +176,10 @@ Presidência do Conselho de Ministros, 11 de março de 2021. - O Primeiro-Minist
 
 ## ANEXO I — (a que se referem os n.os 1, 5 e 6)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf))](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf))](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/050a00/0002900031.pdf)
+
+114066999

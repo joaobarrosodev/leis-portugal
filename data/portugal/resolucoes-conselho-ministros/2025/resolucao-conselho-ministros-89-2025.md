@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07800/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/2025/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2025-915631950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc98e94ac4e38d81159d9aee5a7e3293d6fd0e4867347fcf72573473b2887c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 754b2d857ef4405f66ec3628e1fb2fd2ef7893141065a4ee7aff7e41164f291e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,16 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Saúde
 - Despesas Públicas
 - Equipamento Hospitalar
+- Saúde
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:77/2019
+  label: Altera, a partir de 23 de abril de 2025, os n.ºs 1, 3 e 4 da Resolução do Conselho de Ministros n.º 77/2019, de 2
+    de maio, Diário da República n.º 84/2019, Série I
+  source: null
+  date: '2019-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999
   label: null
@@ -108,23 +114,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2021/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2021/06/30/p/dre
+- type: cites
+  target: pt:dre:122202591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127957581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162562465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166099793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178945890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204721518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223700462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858196731:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:02Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 89/2025
 
-Pela [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[1-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-a-2020-127957581), de 9 de janeiro, [46/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2021-162562465), de 3 de maio, [83/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2021-166099793), de 30 de junho, [25/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2022-178945890), de 10 de fevereiro, [122/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2022-204721518), de 14 de dezembro, [135/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2023-223700462), de 3 de novembro, e [57-N/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-n-2024-858196731), de 28 de março, foi aprovado o Programa de Investimentos na Área da Saúde (PIAS), que contempla um conjunto de investimentos estruturantes num montante total de € 114 434 612,99, incluindo o IVA à taxa legal em vigor, financiado por investimento nacional e por verbas provenientes de financiamento comunitário.
+Pela [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, alterada pelas Resoluções do Conselho de Ministros n.os[1-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-a-2020-127957581), de 9 de janeiro, [46/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2021-162562465), de 3 de maio, [83/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2021-166099793), de 30 de junho, [25/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2022-178945890), de 10 de fevereiro, [122/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2022-204721518), de 14 de dezembro, [135/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2023-223700462), de 3 de novembro, e [57-N/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-n-2024-858196731), de 28 de março, foi aprovado o Programa de Investimentos na Área da Saúde (PIAS), que contempla um conjunto de investimentos estruturantes num montante total de € 114 434 612,99, incluindo o IVA à taxa legal em vigor, financiado por investimento nacional e por verbas provenientes de financiamento comunitário.
 
 Nessa mesma Resolução do Conselho de Ministros, procedeu-se à respetiva autorização de realização da despesa e da assunção dos encargos plurianuais decorrentes da execução do PIAS.
 
@@ -138,7 +192,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 3 e 4 da [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 3 e 4 da [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, que passam a ter a seguinte redação:
 
 «1 - Aprovar o Programa de Investimentos na Área da Saúde, doravante designado por PIAS, no montante total de € 117 064 368,54, incluindo o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, que compreende:
 
@@ -303,3 +357,5 @@ iii) Em 2027: € 1 050 102,46.»
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 10 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118959359

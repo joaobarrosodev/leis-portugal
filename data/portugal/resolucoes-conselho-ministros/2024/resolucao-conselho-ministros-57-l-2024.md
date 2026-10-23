@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06301/0002400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57-l/2024/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-l-2024-858094002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b735b04357e299a0d460c1145850762ecb5d28ea64f403b207f1e3a9fe5ac099
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c40d636911c6676845ae0e02117163e6a9b1d0a9e75f3d4063263ae775d49db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Conselho de Ministros
+- Construção Pública
 - Delegação de Competências
 - Despesas Públicas
-- Ministro das Finanças
+- Ensino Superior
+- Governo XXIII
+- Guarda
 - Instituto Politécnico
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Ensino Superior
+- Ministro das Finanças
+- Plano de Recuperação e Resiliência
 - Residência de Estudantes
 - Seia
-- Guarda
-- Plano de Recuperação e Resiliência
-- Governo XXIII
-- Construção Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -122,16 +122,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177583957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177687478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206350929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213918209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:26Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +222,7 @@ O Instituto Politécnico da Guarda manifestou o seu interesse em assumir a posi�
 
 Assim:
 
-Nos termos do artigo 32.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, da alínea b) do n.º 5 do artigo 25.º, do n.º 2 do artigo 37.º, do n.º 2 do artigo 38.º e dos n.<sup>os</sup>1 e 2 do artigo 39.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 14/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2022-177583957), de 13 de janeiro, da [Portaria n.º 35-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria/35-a-2022-177687478), de 14 de janeiro, do n.º 3 do artigo 1.º e dos artigos 3.º e 10.º do [Decreto-Lei n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2007-517859), de 21 de fevereiro, na sua redação atual, e das alíneas b), f), h) e i) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 60/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), de 24 de julho, na sua redação atual, do n.º 1 do artigo 4.º e do n.º 1 do artigo 7.º da [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do artigo 32.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, da alínea b) do n.º 5 do artigo 25.º, do n.º 2 do artigo 37.º, do n.º 2 do artigo 38.º e dos n.os1 e 2 do artigo 39.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 14/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2022-177583957), de 13 de janeiro, da [Portaria n.º 35-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria/35-a-2022-177687478), de 14 de janeiro, do n.º 3 do artigo 1.º e dos artigos 3.º e 10.º do [Decreto-Lei n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2007-517859), de 21 de fevereiro, na sua redação atual, e das alíneas b), f), h) e i) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 60/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), de 24 de julho, na sua redação atual, do n.º 1 do artigo 4.º e do n.º 1 do artigo 7.º da [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar a aquisição pelo Estado do imóvel sito na Avenida do 1.º de Maio, Crestelo, em Seia, descrito na Conservatória do Registo Predial de Seia sob o n.º 4777, da freguesia de Seia, e inscrito na matriz predial urbana sob o artigo 5355 da União das Freguesias de Seia, São Romão e Lapa dos Dinheiros, propriedade da ESTAMO, Participações Imobiliárias, S. A. (ESTAMO, S. A.), pelo valor da avaliação, no montante de EUR 174 000.
 
@@ -202,10 +258,12 @@ b) Em 2025: EUR 2 973 994,20;
 
 c) Em 2026: EUR 29 637,36.
 
-8 - Determinar que os montantes fixados nos n.<sup>os</sup>6 e 7 para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede, dentro dos limites previstos no n.º 5 e do prazo de execução do PRR.
+8 - Determinar que os montantes fixados nos n.os6 e 7 para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede, dentro dos limites previstos no n.º 5 e do prazo de execução do PRR.
 
 9 - Delegar, com a faculdade de subdelegação, no membro do Governo responsáveis pelas áreas das finanças e da ciência e tecnologia, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
 
 10 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 24 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117531943

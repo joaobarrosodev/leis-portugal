@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/644/1995/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/644-1995-475571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6531d443403ab1fa2a2b41d7419507ed32460e72357467e49c1600ee66400b90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6161e2b1d8f9da45859fb22de00aa1cc31fa86aa0cf077819b85b87942487bd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,40 @@ relationships:
   target: pt:dre:640169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378919:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pela\
+    \ Port 527/89, de 11-Jul e renovada pela presente portaria, pela PORT.934/2001, DR.IS-B [175] de 2001/JUL/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-2001-378919
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:640169:por
+  label: "Renovada por um período de 6 anos a concessão da zona de caça criada pela Portaria 527/89, de 11 de Julho, na redacção\
+    \ do presente diploma, pela PORT.1153/2007.12.09.2007.MADRP, DR.IS [176] de 12.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1153-2007-640169
+  date: '2007-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619558:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:34Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +135,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Junho de 1995.**
+Assinada em 1 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

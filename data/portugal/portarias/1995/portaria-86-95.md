@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/025b00/05480548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/86/1995/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-1995-141416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c161435512466cec0e3e0ca92b50852857a2da4d3997db439263fbf3aef0047
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f84264e6ab546e177dd3edcae631601782f3765d4b5d4d7a882972b214544967
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Basquetebol
+- Desporto
 - Desporto Profissional
 - Organização Desportiva
 - Regime Jurídico
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:426156:por
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/144/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:665346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426156:por
+  label: "Revogada pelo DEC LEI.303/99.1999.08.06.PCM DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1999-426156
+  date: '1999-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:45Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +128,6 @@ Manda o Governo, pela Ministra da Educação, que os pressupostos de natureza fi
 
 Ministério da Educação.
 
-**Assinada em 4 de Janeiro de 1995.**
+Assinada em 4 de Janeiro de 1995.
 
 Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação e do Desporto.

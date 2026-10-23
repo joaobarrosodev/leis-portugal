@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06500/0002900050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2024/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2024-858576210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 207d5a270b769391c64b44bd7cf09c0d4424f2ee29f616618f47563431bed649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb51b61ae326df15c2c2eb934745253b11187a02f1a462cd44296f54d19486d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Barcelos
 - Carreira de Polícia Municipal
 - Criação de Serviços
+- Fardamento
 - Polícia Municipal
 - Regulamento
-- Autarquia Local
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -110,23 +110,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:124044665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 68
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:37Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 60/2024
 
-O Município de Barcelos, segundo os dados do Censos 2021, conta com 116 752 habitantes, distribuídos por um território com 378,9 km<sup>2</sup>, no qual se encontram integradas as Freguesias de Abade de Neiva, Aborim, Adães, Airó, Aldreu, Alvelos, Arcozelo, Areias, Balugães, Barcelinhos, Barqueiros, Cambeses, Carapeços, Carvalhal, Carvalhas, Cossourado, Cristelo, Fornelos, Fragoso, Galegos (Santa Maria), Galegos (São Martinho), Gilmonde, Lama, Lijó, Macieira de Rates, Manhente, Martim, Moure, Oliveira, Palme, Panque, Paradela, Pereira, Perelhal, Pousa, Remelhe, Rio Covo (Santa Eugénia), Roriz, Silva, Tamel (São Veríssimo), Ucha, União das Freguesias de Alheira e Igreja Nova, União das Freguesias de Alvito (São Pedro e São Martinho) e Couto, União das Freguesias de Areias de Vilar e Encourados, União das Freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro), União das Freguesias de Campo e Tamel (São Pedro Fins), União das Freguesias de Carreira e Fonte Coberta, União das Freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral, União das Freguesias de Creixomil e Mariz, União das Freguesias de Durrães e Tregosa, União das Freguesias de Gamil e Midões, União das Freguesias de Milhazes, Vilar de Figos e Faria, União das Freguesias de Negreiros e Chavão, União das Freguesias de Quintiães e Aguiar, União das Freguesias de Sequeade e Bastuço (São João e Santo Estêvão), União das Freguesias de Silveiros e Rio Covo (Santa Eulália), União das Freguesias de Tamel (Santa Leocádia) e Vilar do Monte, União das Freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães, União das Freguesias de Vila Cova e Feitos, Várzea e Vila Seca, pertencendo à Comunidade Intermunicipal do Cávado.
+O Município de Barcelos, segundo os dados do Censos 2021, conta com 116 752 habitantes, distribuídos por um território com 378,9 km2, no qual se encontram integradas as Freguesias de Abade de Neiva, Aborim, Adães, Airó, Aldreu, Alvelos, Arcozelo, Areias, Balugães, Barcelinhos, Barqueiros, Cambeses, Carapeços, Carvalhal, Carvalhas, Cossourado, Cristelo, Fornelos, Fragoso, Galegos (Santa Maria), Galegos (São Martinho), Gilmonde, Lama, Lijó, Macieira de Rates, Manhente, Martim, Moure, Oliveira, Palme, Panque, Paradela, Pereira, Perelhal, Pousa, Remelhe, Rio Covo (Santa Eugénia), Roriz, Silva, Tamel (São Veríssimo), Ucha, União das Freguesias de Alheira e Igreja Nova, União das Freguesias de Alvito (São Pedro e São Martinho) e Couto, União das Freguesias de Areias de Vilar e Encourados, União das Freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro), União das Freguesias de Campo e Tamel (São Pedro Fins), União das Freguesias de Carreira e Fonte Coberta, União das Freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral, União das Freguesias de Creixomil e Mariz, União das Freguesias de Durrães e Tregosa, União das Freguesias de Gamil e Midões, União das Freguesias de Milhazes, Vilar de Figos e Faria, União das Freguesias de Negreiros e Chavão, União das Freguesias de Quintiães e Aguiar, União das Freguesias de Sequeade e Bastuço (São João e Santo Estêvão), União das Freguesias de Silveiros e Rio Covo (Santa Eulália), União das Freguesias de Tamel (Santa Leocádia) e Vilar do Monte, União das Freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães, União das Freguesias de Vila Cova e Feitos, Várzea e Vila Seca, pertencendo à Comunidade Intermunicipal do Cávado.
 
 A [Lei Constitucional n.º 1/97](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), de 20 de setembro, que procedeu à quarta revisão constitucional, veio permitir que os municípios possam criar polícias municipais que, além das competências de polícia administrativa já anteriormente reconhecidas, disponham, ainda, de poderes de atuação nos domínios da manutenção da tranquilidade pública e da proteção das comunidades locais, nos termos do n.º 3 do artigo 237.º da Constituição da República Portuguesa, em cooperação com as forças de segurança.
 
@@ -140,7 +176,7 @@ A esta luz, entende o Governo que se encontram reunidas as condições necessár
 
 Assim:
 
-Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, na sua redação atual, dos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, na sua redação atual, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, na sua redação atual, dos n.os1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, na sua redação atual, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Ratificar a deliberação da Assembleia Municipal de Barcelos, de 24 de fevereiro de 2023, que aprovou o Regulamento de Organização e Funcionamento do Serviço de Polícia Municipal de Barcelos, anexo à presente resolução e da qual faz parte integrante, e a inerente criação e instituição da Polícia Municipal de Barcelos.
 
@@ -168,7 +204,7 @@ O presente Regulamento tem por objeto estabelecer a organização e funcionament
 
 ###### Artigo 3.º — Competência territorial
 
-1 - A competência territorial da Polícia Municipal de Barcelos coincide com a área de circunscrição do concelho, repartida pelas suas Freguesias e União de Freguesias, numa extensão geográfica de 378,90 km<sup>2</sup>.
+1 - A competência territorial da Polícia Municipal de Barcelos coincide com a área de circunscrição do concelho, repartida pelas suas Freguesias e União de Freguesias, numa extensão geográfica de 378,90 km2.
 
 2 - Os agentes da Polícia Municipal de Barcelos não podem atuar fora do território do respetivo concelho, exceto em situação de flagrante delito ou em emergência de socorro, mediante solicitação da autoridade competente.
 
@@ -226,7 +262,7 @@ j) Ações de polícia mortuária.
 
 3 - Para os efeitos do disposto no n.º 1, os órgãos e agentes da Polícia Municipal de Barcelos têm competência para o levantamento de autos ou desenvolvimento de inquéritos por ilícito de mera ordenação social, de transgressão ou criminal por factos estritamente conexos com violação de lei ou recusa da prática de atos legalmente devidos no âmbito das relações administrativas.
 
-4 - Quando, por efeito do exercício dos poderes de autoridade, previstos nos n.<sup>os</sup>1 e 2, os órgãos e agentes da Polícia Municipal de Barcelos diretamente verifiquem o cometimento de qualquer crime, podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
+4 - Quando, por efeito do exercício dos poderes de autoridade, previstos nos n.os1 e 2, os órgãos e agentes da Polícia Municipal de Barcelos diretamente verifiquem o cometimento de qualquer crime, podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
 
 5 - A Polícia Municipal de Barcelos, por determinação da Câmara Municipal, promove, por si ou em colaboração com outras entidades, ações de sensibilização e divulgação de matérias de relevante interesse social no concelho, em especial nos domínios da proteção do ambiente e da utilização dos espaços públicos, e cooperam com outras entidades, nomeadamente as forças de segurança, na prevenção e segurança rodoviária.
 
@@ -562,7 +598,9 @@ Em caso de anomalias ou defeitos no funcionamento da arma, o titular da mesma co
 
 O Município de Barcelos coloca à disposição da Polícia Municipal de Barcelos as viaturas necessárias ao eficaz e eficiente desempenho das suas funções.
 
-###### Artigo 45.º — Livro de registos
+###### Artigo 45.º
+
+## Livro de registos
 
 1 - Cada viatura tem um livro de registos no qual deve constar:
 
@@ -754,17 +792,19 @@ O presente Regulamento entra em vigor no dia imediato ao da sua publicação no 
 
 ## ANEXO I — Organograma - Serviços do Município de Barcelos
 
-![](https://dre.pt/application/file/858523428)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/858523428) |
+| --- |
 
 ## ANEXO II — Organograma da Divisão de Polícia Municipal
 
-![](https://dre.pt/application/file/858523429)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/858523429) |
+| --- |
 
 ## ANEXO III — Mapa
 
 Unidade Orgânica: Divisão de Polícia Municipal
 
-| Categoria | Perfil profissional | Área funcional/habilitacional | Funções | Vínculo | A criar | Ocupados | L.ivre | Cativado | Previsão | Comissão de serviço | Total |
+| Categoria | Perfil profissional | Área funcional/habilitacional | Funções | Vínculo | A criar | Ocupados | L.ivre | Cativado | Previsão | Comissão<br>de serviço | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chefe de divisão | Dirigente 2.º grau | Licenciatura | As previstas no Regulamento Orgânico do Município de Barcelos. |  | 1 |  |  |  |  |  |  |
 | Técnico superior | Técnico superior | Licenciatura | As previstas no Regulamento Orgânico do Município de Barcelos. |  | 1 |  |  |  |  |  |  |
@@ -772,11 +812,11 @@ Unidade Orgânica: Divisão de Polícia Municipal
 | Assistente técnico | Assistente técnico | 12.º ano de escolaridade | As previstas no Regulamento Orgânico do Município de Barcelos. |  | 2 |  |  |  |  |  |  |
 | Assistente operacional | Apoio | Escolaridade obrigatória | As previstas no Regulamento Orgânico do Município de Barcelos. |  | 2 |  |  |  |  |  |  |
 | Agente municipal | Agente PM - graduado coordenador | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 0 |  |  |  |  |  |  |
-| Agente municipal | Agente graduado principal | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 0 |  |  |  |  |  |  |
-| Agente municipal | Agente PM - graduado | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 0 |  |  |  |  |  |  |
-| Agente municipal | Agente PM 1.ª classe | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 10 |  |  |  |  |  |  |
-| Agente municipal | Agente PM 2.ª classe | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 5 |  |  |  |  |  |  |
-| Agente municipal | Agente PM - estagiário | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 18 |  |  |  |  |  |  |
+| Agente graduado principal | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 0 |  |  |  |  |  |  |  |
+| Agente PM - graduado | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 0 |  |  |  |  |  |  |  |
+| Agente PM 1.ª classe | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 10 |  |  |  |  |  |  |  |
+| Agente PM 2.ª classe | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 5 |  |  |  |  |  |  |  |
+| Agente PM - estagiário | A prevista no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. | As previstas no [Decreto-Lei n.º 39/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2000-514657), de 17 de março. |  | 18 |  |  |  |  |  |  |  |
 
 ## ANEXO IV — Distintivos Heráldicos e Gráficos
 
@@ -784,4 +824,9 @@ Escudo de azul, ponte de ouro ameiada na guarda e formada por cinco arcos sainte
 
 Emblema de peitoEmblema de braço
 
-![](https://dre.pt/application/file/858523430)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/858523430) |
+| --- |
+
+117528971
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20000/0000600012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2022/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2022-202234172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7be11ee676e7db90aabb4c46de513ee702f28054f8a9e41e811f05a7acd6f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63969c21371d86c1e6e6d4484049c3e06f335608b4de15335afda56ccb61fa88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
+- Autarquia Local
 - Autorização de Despesas
-- Ministro da Saúde
+- Combustível
 - Conselho de Ministros
+- Conselho Diretivo
 - Conselho Económico e Social
 - Delegação de Competências
 - Despesas Públicas
-- Empresa Pública Municipal
 - Empresa Pública
-- Combustível
-- Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro das Finanças
-- Conselho Diretivo
+- Empresa Pública Municipal
 - Entidade de Serviços Partilhados da Administração Pública
+- Governo XXIII
 - Ministro
-- Ministro da Ciência Tecnologia e Ensino Superior
-- Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
 - Ministro da Administração Interna
-- Supremo Tribunal Administrativo
-- Supremo Tribunal da Justiça
-- Autarquia Local
-- Procuradoria Geral da República
-- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro da Agricultura e da Alimentação
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Coesão Territorial
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia e do Mar
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Finanças
 - Ministro das Infraestruturas e da Habitação
 - Ministro do Ambiente e da Ação Climática
-- Ministro da Coesão Territorial
-- Governo XXIII
-- Ministro da Economia e do Mar
-- Ministro da Agricultura e da Alimentação
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Presidência do Conselho de Ministros
+- Procuradoria Geral da República
+- Supremo Tribunal Administrativo
+- Supremo Tribunal da Justiça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
@@ -129,16 +129,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:15Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +207,6 @@ Presidência do Conselho de Ministros, 29 de setembro de 2022. - O Primeiro-Mini
 
 ## ANEXO — (a que se referem os n.os 1 e 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/10/20000/0000600012.pdf))](https://files.diariodarepublica.pt/1s/2022/10/20000/0000600012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/10/20000/0000600012.pdf)
+
+115772031

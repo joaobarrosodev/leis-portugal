@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/1996/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec6e850778b8ce0b6a946c7e550a89cf573bb2b39e44c6b22574c144eeb67111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02d2840c8105e498356efde893a9517c900caa35ba13a4f7b3ea4589b45972e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Diuturnidades
 - Administração de Portos
+- Diuturnidades
 - Junta Autónoma dos Portos
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Remuneração
 - Trabalhador Portuário
 relationships:
@@ -77,6 +77,69 @@ relationships:
   target: pt:dre:494550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:360770:por
+  label: "Actualizados os montantes das tabelas de remunerações base e diuturnidades dos trabalhadores e cargos de direcção\
+    \ e chefia das administrações e juntas autónomas dos portos estabelecidos pelo presente diploma, pela PORT.373/97.1997.06.09.MEPAT\
+    \ DR.IS-B [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-1997-360770
+  date: '1997-06-09'
+- type: amended_by
+  target: pt:dre:671224:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem a que se\
+    \ refere o nº 1º da Port 193/90 de 17-Mar, com a redacção da presente, pela PORT.576/2003.2003.07.16.MOPTH DR.IS-B [162]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-2003-671224
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:671225:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ a que se refere o nº 1º da Port 193/90 de 17-Mar, com a redacção dada pela presente, pela PORT.577/2003.2003.07.16.MOPTH\
+    \ DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-2003-671225
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:617334:por
+  label: "Actualizados os montantes de remunerações base e diuturnidades dos trabalhadores das Administrações Portuárias a\
+    \ que se refere o nº 1 da Port 193/90 de 17-Mar, na redacção do presente diploma, pela PORT.1181/2004.14.09.2004.MOPTC,\
+    \ DR.IS-B [217] de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-2004-617334
+  date: '2004-09-14'
+- type: amended_by
+  target: pt:dre:583204:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ aprovada pela Port 193/90 de 17-Mar, com as alterações posteriormente introduzidas pelo presente diploma, pela PORT.1146/2005.08.11.2005.MOPTC,\
+    \ DR.IS-B [214] de 08.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1146-2005-583204
+  date: '2005-11-08'
+- type: amended_by
+  target: pt:dre:538608:por
+  label: "Actualizados em 1,5%, com arredontamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da Portaria n.º 193/90, de 17 de Março, na redacção\
+    \ do presente diploma, pela Port.778/2006.09.08.2006.MOPTC, DR.IS [153] de 09.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-2006-538608
+  date: '2006-08-09'
+- type: amended_by
+  target: pt:dre:637395:por
+  label: "Actualizados em 1,5%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Portaria 193/90, de 17 de Março, na redacção\
+    \ do presente diploma pela PORT.849/2007.07.08.2007.MOPTC, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-2007-637395
+  date: '2007-08-07'
+- type: amended_by
+  target: pt:dre:249840:por
+  label: "Actualizados em 2,1%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Portaria 193/90, de 17 de Março, na redacção\
+    \ do presente diploma pela PORT.270/2008.09.04.2008.MOPTC, DR.IS [70] de 09.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2008-249840
+  date: '2008-04-09'
+- type: amended_by
+  target: pt:dre:494550:por
+  label: "Actualizada, com efeitos desde 01.01.2009, em 2,5%, com arredondamento, os montantes da tabela de remunerações base,\
+    \ incluindo diuturnidades, dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Port 193/90 de 17-Mar,\
+    \ com os aditamentos previstos no presente diploma, pela PORT.653/2009.16.06.2009.MOPTC, DR.IS [114] de 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/653-2009-494550
+  date: '2009-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
   label: null
@@ -89,16 +152,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/863/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/863/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:231085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:43Z'
   warnings: []
   errors: []
 ---
@@ -121,6 +204,6 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 4 de Junho de 1996.**
+Assinada em 4 de Junho de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25/2023/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2023-210468798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebe5e1b013962d49eff8a0721958f3f06ad994e25693e1498af1e05176183fc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3afd586c15546385c19f10d21e7f9d4704f1f11cdaa19a3667c0761a3b26d599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Criação de Serviços
 - Lagoa
 - Polícia Municipal
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2019/08/20/p/dre
@@ -107,16 +107,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:124044665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:52Z'
   warnings: []
   errors: []
 ---
@@ -657,7 +693,9 @@ Nos termos do calendário a acordar anualmente entre a Câmara Municipal e a ent
 
 O Município coloca à disposição da Polícia Municipal os veículos necessários para o eficaz e eficiente desempenho das suas funções.
 
-###### Artigo 54.º — Livro de registos
+###### Artigo 54.º
+
+## Livro de registos
 
 Cada veículo tem um livro de registos no qual deve constar:
 
@@ -815,13 +853,13 @@ O presente Regulamento entra em vigor no dia seguinte à sua publicação no Di�
 
 Corpo da Polícia Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
 
 Mapa de pessoal
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Carreira | Categoria/cargo | Área de formação académica/profissional | Postos de trabalho |
+| --- | --- | --- | --- |
+|  |  |  |  |
 |  | Dirigentes intermédios |  |  |
 | n. a.... | Dirigente intermédio de 2.º grau/comandante. | Licenciado em Direito ou por elemento da carreira de oficial das forças de segurança. | 1 |
 |  | Carreiras especiais/subsistentes/não revistas |  |  |
@@ -834,18 +872,20 @@ Identificação heráldica da Polícia Municipal de Lagoa
 
 Brasão do Município de Lagoa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
 
 Crachá de peito: assume um formato oval de 5,5 cm de largura e 7,5 cm de altura, onde a fundo preto com raiado cinzento se enquadra o brasão da cidade de Lagoa, e azul, com uma amendoeira de ouro realçada de negro e florida de prata. Em chefe, uma cabeça de carnação branca coroada de ouro à dextra e uma cabeça de carnação negra com turbante de prata à sinistra. Coroa mural de cinco torres de prata; listel branco com os dizeres a negro «Lagoa», possuindo no topo a inscrição «Polícia Municipal» a preto sob um fundo branco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
 
 Emblema de braço: assume um formato de um trapézio com as bordas arredondadas com o brasão da cidade de Lagoa ao centro e no topo a inscrição «Polícia Municipal» a branco sob um fundo preto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05500/0000200024.pdf)
 
 Crachá de boné: as mesmas indicações que o crachá de peito com as devidas adaptações de tamanho de acordo com a peça de uniforme.
 
 Placa com a identificação: assume uma forma retangular com cerca de 6 cm de largura e 1,5 cm de altura, de fundo cinzento e letras pretas, com a inscrição «Ag.» seguida do primeiro e último nome de cada elemento.
 
 O crachá e cartão de identificação, as divisas e o modelo de caracterização das viaturas encontram-se definidos na Portaria n.º 304-A/2015, devendo a estes ser acrescentado o brasão da cidade de Lagoa, conforme descrito em cima.
+
+116265354

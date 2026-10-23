@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/167-a/2024/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/167-a-2024-897834895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09fd6c9d43f764df04dfad4aacbed3b92db10640a1b303d99863f3c2656df317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f51f3a257a16d199cfa49f503666de3cacfa95c24e919144088f2529723b47d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
 - Conselho Diretivo
+- Instituto Nacional de Estatística
 - Nomeação
 - Presidente
 - Vogal
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:178531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:20Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos do n.º 4 do artigo 9.º do [Decreto-Lei n.º 136/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2012-178531), de 12 de julho, dos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 4 do artigo 9.º do [Decreto-Lei n.º 136/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2012-178531), de 12 de julho, dos n.os2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças e do Ministro da Presidência, António Miguel Pinto de Oliveira Gomes Rua, Maria João Gaspar Tavares Zilhão e Jorge Manuel Ramos Afonso de Magalhães, respetivamente para os cargos de presidente e vogais do Instituto Nacional de Estatística, I. P., cujas idoneidade, experiência e competência profissionais são patentes nas notas curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
 
@@ -150,3 +158,5 @@ Licenciatura em Informática de Gestão pelo Instituto Superior de Línguas e Ad
 3 - Atividade profissional:
 
 Desde 2017, exerce funções de diretor do Departamento de Metodologia e Sistemas de informação do INE. Anteriormente desempenhou vários cargos no INE, a saber, diretor adjunto no mesmo Departamento (2012-2017), diretor do Serviço de Infraestrutura Informacional (2008-2012), coordenador de núcleo no serviço de integração de sistemas de normalização (1998 a 2004) e técnico superior de Informática (2004-2008). De 1990 a 1991 foi administrador de sistemas e programador e de 1992 a 1998, coordenador de núcleo dos sistemas departamentais e técnico superior de informática do INE.
+
+118393176

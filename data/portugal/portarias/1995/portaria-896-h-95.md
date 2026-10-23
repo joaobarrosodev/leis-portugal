@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1995, 1º Suplemento, Série I-B de 1995-07-15
   number: '162'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4542-(7) a 4542-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162b01/00070008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/896-h/1995/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/896-h-1995-211181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f56a5ef970c60e872efd6cff2641872b61ed36bcae6976e71776ea02e0224910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48d8d8bbe00d9ecc0be422a998d7f003e1a247d8a988b6990edd4b5be01715aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:494234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519399:por
+  label: "Excluídos vários prédios rústicos da zona de caça pela PORT.482/2007.19.04.2007.MADRP, DR.IS [77] de 19.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/482-2007-519399
+  date: '2007-04-19'
+- type: amended_by
+  target: pt:dre:640876:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça concessionada pelo presente diploma, alterado pela\
+    \ Port 482/2007 de 19-Abr, pela PORT.969/2007.22.08.2007.MADRP, DR.IS [161] de 22.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/969-2007-640876
+  date: '2007-08-22'
+- type: amended_by
+  target: pt:dre:494234:por
+  label: "Indicada a nova denominação social da entidade gestora da zona de caça turística atribuída pelo presente diploma,\
+    \ alterada pela Port 482/2007, de 19-Abr e pela Port 969/2007, de 22-Ago, pela PORT.607/2009.04.06.2009.MADRP, DR.IS [108]\
+    \ de 04.06.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-2009-494234
+  date: '2009-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:03Z'
   warnings: []
   errors: []
 ---
@@ -130,8 +173,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1995.**
+Assinada em 5 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/162b01/00070008.pdf))](https://files.diariodarepublica.pt/1s/1995/07/162b01/00070008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/162b01/00070008.pdf)

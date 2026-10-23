@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 104/2021, 1º Suplemento, Série I de 2021-05-28
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 26-(10) a 26-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10401/0001000036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/64-a/2021/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-a-2021-164321573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d8d2439059230c6acd9e71524bc6295f3cb73d88e8f3e0972787ac9234e4a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 822f2f5081728cf40b89af255a45ecd7505afabc5732cc4224f78bf448fd21e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,42 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Crime
-- Proteção Civil
+- Arganil
+- ASAE
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
+- Catástrofe
 - Circulação de Pessoas
-- Estabelecimento Comercial
 - Comércio a Retalho
 - Controlo Sanitário
-- Saúde Pública
+- Crime
+- Doença Infecciosa
+- Epidemia
+- Equipamento de Proteção
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Feira
 - Fiscalização
 - Fronteiras
-- Catástrofe
 - Funeral
 - Golegã
 - Isolamento Profiláctico
-- ASAE
+- Loja do Cidadão
 - Montalegre
 - Odemira
-- Doença Infecciosa
-- Epidemia
-- Arganil
 - Polícia Municipal
-- Serviço Público
 - Prestação de Serviços
-- Loja do Cidadão
-- Tráfego Aéreo
-- Autarquia Local
-- Autoridade Nacional de Emergência e Proteção Civil
-- Equipamento de Proteção
+- Proteção Civil
+- Saúde Pública
+- Serviço Público
 - Situação de Calamidade
+- Tráfego Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considerada revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da
+    República n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: celex:32004L0038
   label: null
@@ -151,16 +157,84 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2020/912/oj
   label: null
   source: http://data.europa.eu/eli/reco/2020/912/oj
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160801889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162570903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:164712103:por
+  label: Revogados, a partir de 05.06.2021, a al. d) do n.º 2 e o n.º 3 do art. 2.º, os arts. 43.º, 44.º, 45.º, 46.º, 47.º
+    e 48.º e a sec. ii do cap. iii do regime anexo à Res 45-C/2021 de 30-abr PCM, na versão republicada pelo presente diploma,
+    pelo(a) Resolução do Conselho de Ministros n.º 70-A/2021 - Diário da República n.º 108/2021, 1º Suplemento, Série I de
+    2021-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-a-2021-164712103
+  date: '2021-06-04'
 article_structure:
-  article_count: 58
+  article_count: 57
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:01Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +291,9 @@ e) [...].
 
 5 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]:
 
@@ -1204,3 +1280,5 @@ Salões de jogos e salões recreativos.
 4 - Atividades de restauração:
 
 Bares e afins.
+
+114282717

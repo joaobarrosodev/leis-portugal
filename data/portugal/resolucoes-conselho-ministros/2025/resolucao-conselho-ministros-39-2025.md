@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/39/2025/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2025-909816060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51cf8f774321a606b7bddd99b7cea16cd2d3c3ab1875b56e22ad52eecb20d733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa9c91545b784d16ca573aaed7ee51faca5b94f19a32831b4e1a5d43805f8e23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ subjects:
 - Acordo
 - Aprendizagem
 - Colômbia
+- Cooperação Internacional
 - Documento de Viagem
 - Empresa Pública
-- Imprensa Nacional-Casa da Moeda
-- Cooperação Internacional
-- Passaporte
 - França
+- Imprensa Nacional-Casa da Moeda
+- Passaporte
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/235/2015/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/235/2015/10/14/p/dre
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:53Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +124,7 @@ Estas alterações resultaram na apresentação, pela INCM, de uma nova proposta
 
 Esta nova proposta, no entendimento da INCM, além de se enquadrar na estratégia de internacionalização da empresa, protege de forma acrescida o interesse financeiro do Estado.
 
-A aprovação do atual regime jurídico da INCM, estabelecido pelo [Decreto-Lei n.º 235/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2015-70686126), de 14 de outubro, visou «assegurar alguns ajustamentos ao objeto social da INCM, que lhe permitam intensificar o caminho de reestruturação e de modernização que tem vindo a percorrer, de forma a melhorar a sua posição no mercado nacional e a iniciar um processo mais sólido de internacionalização dos seus produtos e serviços». Acresce que, nos termos das alíneas c) do n.º 1 e b) do n.º 2, ambas do artigo 3.º do regime jurídico da INCM, esta entidade exerce, respetivamente, em regime de concorrência de mercado, a produção de documentos de identificação, de viagem e de outros documentos de segurança e, em exclusivo, a produção do passaporte, do cartão de cidadão e de outros documentos oficiais de segurança, podendo, para este efeito, nos termos do n.º 4 do mesmo preceito, associar-se a outras entidades públicas ou privadas, em regime de consórcio, agrupamento complementar ou qualquer outra forma de cooperação ou parceria. Dispõe, ainda, o n.º 3 do artigo 3.º do regime jurídico da INCM que esta entidade pode exercer quaisquer atividades que sejam complementares, subsidiárias ou acessórias das referidas nos n.<sup>os</sup>2 e 3 do mencionado preceito.
+A aprovação do atual regime jurídico da INCM, estabelecido pelo [Decreto-Lei n.º 235/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2015-70686126), de 14 de outubro, visou «assegurar alguns ajustamentos ao objeto social da INCM, que lhe permitam intensificar o caminho de reestruturação e de modernização que tem vindo a percorrer, de forma a melhorar a sua posição no mercado nacional e a iniciar um processo mais sólido de internacionalização dos seus produtos e serviços». Acresce que, nos termos das alíneas c) do n.º 1 e b) do n.º 2, ambas do artigo 3.º do regime jurídico da INCM, esta entidade exerce, respetivamente, em regime de concorrência de mercado, a produção de documentos de identificação, de viagem e de outros documentos de segurança e, em exclusivo, a produção do passaporte, do cartão de cidadão e de outros documentos oficiais de segurança, podendo, para este efeito, nos termos do n.º 4 do mesmo preceito, associar-se a outras entidades públicas ou privadas, em regime de consórcio, agrupamento complementar ou qualquer outra forma de cooperação ou parceria. Dispõe, ainda, o n.º 3 do artigo 3.º do regime jurídico da INCM que esta entidade pode exercer quaisquer atividades que sejam complementares, subsidiárias ou acessórias das referidas nos n.os2 e 3 do mencionado preceito.
 
 Releve-se ainda que, segundo a INCM, o plano de atividades e orçamento (PAO) de cada triénio tem refletido um crescimento significativo da empresa, suportado na incorporação progressiva de soluções digitais, mas, maioritariamente, também em novas oportunidades internacionais para compensar a erosão esperada do volume de negócios nacional nas áreas de documentos de identificação e de viagem, definindo-se objetivos concretos, tais como o crescimento do volume de negócio proveniente do mercado internacional e a concretização da expansão da capacidade industrial nas linhas de produção estratégicas.
 
@@ -141,3 +149,5 @@ Nos termos dos artigos 24.º e 39.º do [Decreto-Lei n.º 133/2013](https://diar
 5 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 26 de fevereiro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118764626

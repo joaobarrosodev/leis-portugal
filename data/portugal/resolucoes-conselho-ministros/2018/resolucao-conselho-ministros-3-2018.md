@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00500/0013800139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/3/2018/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2018-114472722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632324dc7f0e2f048c266b2cfaf50242bbda0c3f0af8d9516731f22cd88b73bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 678f4dca2e4726c50718c5d5246f2f94027b3def78353fe71c2277c683ce68b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Amortização
-- Valores Mobiliários
-- Financiamento
 - Bilhetes do Tesouro
 - Certificado de Aforro
+- Certificado do Tesouro
 - Conselho de Ministros
 - Definição de Competências
 - Delegação de Competências
-- Regulamentação de Atos Legislativos
 - Dívida Flutuante
 - Dívida Pública
 - Emissão de Títulos
 - Empréstimo Público
+- Financiamento
 - Gestão Orçamental
+- Governo XXI
 - Ministro das Finanças
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Orçamento Geral do Estado
+- Obrigações do Tesouro
 - Operação de Reporte
 - Operações de Emprestimo
-- Certificado do Tesouro
-- Obrigações do Tesouro
-- Governo XXI
+- Orçamento Geral do Estado
+- Regulamentação de Atos Legislativos
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:42Z'
   warnings: []
   errors: []
 ---
@@ -191,3 +223,5 @@ d) Prestação de garantias, sob a forma de colateral em numerário, no âmbito 
 11 - Determinar que a presente resolução produz efeitos desde a data da entrada em vigor da LOE 2018.
 
 Presidência do Conselho de Ministros, 4 de janeiro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111043883

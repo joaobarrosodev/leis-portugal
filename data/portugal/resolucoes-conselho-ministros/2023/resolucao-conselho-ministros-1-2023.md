@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00200/0000500014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1/2023/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-2023-205644583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c43629469abc9fbac7aaf2d771cc7a778b3de7d5018e0e5236b968e8784c487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c9d4503716e9147aa4795e8638c910274c97e9a8b9dfe630bc9147cb9ea255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Setor Empresarial do Estado
 - Governo XIII
 - Nomeação
 - Representante do Governo
+- Setor Empresarial do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
@@ -83,16 +83,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73/2020/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/2020/09/17/p/dre
+- type: cites
+  target: pt:dre:114123458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143067743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1572002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2450888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3466003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58958233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70341749:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:25Z'
   warnings: []
   errors: []
 ---
@@ -268,3 +304,5 @@ Alexandra Sofia Vieira Nogueira Barbosa
 Licenciada em Direito pela Universidade de Lisboa em 1994, tendo complementado a sua formação académica com o Programa Avançado de Gestão para Executivos da Universidade Católica em 2004.
 
 Inicia a sua atividade profissional em 1996 como advogada, com patrocínio de processos nos ramos de direito comercial, penal e laboral. Em 2000 principia a sua colaboração com a Refer Telecom, S. A., tendo sido nomeada diretora de Recursos Humanos. Em 2004 integra o quadro da Rede Ferroviária Nacional, REFER - E. P. E., com a responsabilidade da área de Relações de Trabalho e Contencioso Laboral, empresa onde vem a assumir a Direção de Capital Humano, além de funções na Comissão de Supervisão de Gestão de Riscos. Com a criação da Infraestruturas de Portugal, S. A., por incorporação da Estradas de Portugal, S. A., na Rede Ferroviária Nacional, REFER - E. P. E., é nomeada diretora de Capital Humano. Em 2018 é nomeada para o conselho de administração executivo da Infraestruturas de Portugal, S. A., e, em 2019, para o conselho de administração da IP Engenharia, S. A., e da IP Património, S. A., empresas do Grupo IP.
+
+116018239

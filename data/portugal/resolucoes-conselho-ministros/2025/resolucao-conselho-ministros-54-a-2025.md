@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05301/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54-a/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-a-2025-911312182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c73666eecb16887dd5034d5683146bc2d9d3e4eb4133e521d0a8b6673575b15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b7a6745732e42267558083a4eb3db1dd694872314257bc7a101dba4e4e564c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,16 @@ reuse:
 subjects:
 - Criação de Serviços
 - Definição de Competências
-- Plano de Recuperação e Resiliência
-- Mecanismo de Recuperação e Resiliência da União Europeia
 - Estrutura de Missão Recuperar Portugal
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Plano de Recuperação e Resiliência
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:46-B/2021
+  label: Altera, a partir de 18 de março de 2025, o n.º 1, a alínea j) do n.º 3 e os n.ºs 4, 11 e 27 da Resolução do Conselho
+    de Ministros n.º 46-B/2021, de 4 de maio, Diário da República n.º 86/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:18Z'
   warnings: []
   errors: []
 ---
@@ -191,3 +209,5 @@ j) Praticar todos os atos necessários à prossecução da missão que lhe é co
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 7 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118813477

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 8/2019, 1º Suplemento, Série I de 2019-01-11
   number: '8'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 110-(2) a 110-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/8-a/2019/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-a-2019-117754009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe535a80eb5b4fe7edd0b27af6a94ea7f786d28997552187628df61f258c7be3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc549291ec229b0bd477573712e5c8c89c4ce492410d0bdcd998e63e1cc560c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Amortização
-- Valores Mobiliários
 - Autorização de Despesas
-- Financiamento
 - Bilhetes do Tesouro
 - Certificado de Aforro
-- Dívida Pública Externa
-- Gestão Financeira
+- Certificado do Tesouro
 - Conselho de Ministros
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
 - Dívida Flutuante
 - Dívida Pública
+- Dívida Pública Externa
 - Dívida Pública Interna
 - Emissão de Títulos
 - Empréstimo Obrigacionista
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
-- Ministro das Finanças
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Certificado do Tesouro
-- Obrigações do Tesouro
 - Governo XXI
+- Ministro das Finanças
+- Obrigações do Tesouro
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
@@ -124,13 +124,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:06Z'
   warnings: []
   errors: []
 ---
@@ -184,3 +184,5 @@ c) Emitir valores mobiliários representativos de dívida pública direta do Est
 11 - Determinar que a presente resolução produz efeitos desde a data da entrada em vigor da LOE 2019.
 
 Presidência do Conselho de Ministros, 10 de janeiro de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111975327

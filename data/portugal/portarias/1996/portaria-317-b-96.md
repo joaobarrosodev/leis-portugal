@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 174/1996, 2º Suplemento, Série I-B de 1996-07-29
   number: '174'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2166-(15) a 2166-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b02/00150021.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/317-b/1996/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-b-1996-629158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc540581ad2e2ad56cd62caffffd0bd90fc813618517f326a249f3229b135de6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b28566756c5c7836bd4109a30e78412dccb5a577e3e060f9c87761ec8240b515
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,33 @@ subjects:
 - Atleta de ALTA Competição
 - Bolseiro
 - Cidadão Estrangeiro
+- Ensino Superior
+- Estabelecimento de Ensino
 - Estudante
+- Forças Armadas
+- Funcionário Público
 - Missão Diplomática
 - Missão Oficial
-- Forças Armadas
 - País Estrangeiro
-- Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 - Regulamento dos Regimes Especiais de Acesso ao Ensino Superior
-- Funcionário Público
 - Território não Autónomo
 relationships:
 - type: amended_by
   target: pt:dre:477821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516564:por
+  label: "Alterado o art. 13º do Regulamento, pela PORT.525-B/96.30.09.1996.ME, DR.IS-B [227-2ºSupl] de 30.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-b-1996-516564
+  date: '1996-09-30'
+- type: amended_by
+  target: pt:dre:477821:por
+  label: "Alterados os arts. 1º, 15º e 17º do Regulamento aprovado pelo presente diploma, com as alterações introduzidas pela\
+    \ Port 525-B/96 de 30-Set DR.IS-B [227]Supl, pela PORT.371/98.1998.06.29.ME DR.IS-B [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1998-477821
+  date: '1998-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1995/05/31/p/dre
   label: null
@@ -96,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676047:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:40Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +149,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 23 de Julho de 1996.**
+Assinada em 23 de Julho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Ana Maria Benavente, Secretaria de Estado da Educação e Inovação.
 
@@ -510,4 +533,4 @@ Para efeitos de matrícula no ensino secundário, o Departamento do Ensino Secun
 
 ## ANEXO II — Calendário para os regimes especiais de acesso ao ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/174b02/00150021.pdf))](https://files.diariodarepublica.pt/1s/1996/07/174b02/00150021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/174b02/00150021.pdf)

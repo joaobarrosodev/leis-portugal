@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/778/1995/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1995-466658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e43ddbb9bdaeaf4c9a4adc3722a4e60bde6ecd5c591506416f8efe1941abc61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc4e64797ada8bd6debc0cbebf228415c110574710537016a6bb154afd7cf022
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,11 @@ relationships:
   target: pt:dre:437449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437449:por
+  label: "Extinto a zona de caça pela PORT.533/98.1998.08.17.MADRP DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1998-437449
+  date: '1998-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -84,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/725-g/1993/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/725-g/1993/08/10/p/dre
+- type: cites
+  target: pt:dre:370265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:47Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +137,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/159b00/43924393.pdf))](https://files.diariodarepublica.pt/1s/1995/07/159b00/43924393.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/159b00/43924393.pdf)

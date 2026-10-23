@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24600/0003700039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/187/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/187-2023-812826253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5ebecb3817b611c12e0a7d8550f4fdd1415a72c5ced96119d92316f7ea2db3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1973756c4f5202e3cb16a642422fb8f4301a12dc2b3f41983d732b278e0eb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pessoal Dirigente
-- Igualdade de Tratamento
+- Comissão para a Cidadania e a Igualdade de Género
 - Criação de Serviços
 - Definição de Competências
 - Extinção de Serviços
+- Financiamento
 - Fundos CE
-- Comissão para a Cidadania e a Igualdade de Género
+- Igualdade de Tratamento
+- Pessoal Dirigente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:25/2015
+  label: Determina a extinção, a partir de 22 de dezembro de 2023, nos termos do n.º 15 do presente diploma, da Estrutura
+    de Missão para a Igualdade de Género, criada pela Resolução do Conselho de Ministros n.º 25/2015, de 27 de abril, Diário
+    da República n.º 81/2015, Série I, sendo as respetivas atribuições, competências e posições jurídicas nas relações contratuais
+    vigentes assumidas pela EMIG 2030
+  source: null
+  date: '2015-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
   label: null
@@ -95,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/2015/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2015/04/27/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085603:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:13Z'
   warnings: []
   errors: []
 ---
@@ -192,3 +220,5 @@ c) A acordo de cedência de interesse público.
 16 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 7 de dezembro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117177455

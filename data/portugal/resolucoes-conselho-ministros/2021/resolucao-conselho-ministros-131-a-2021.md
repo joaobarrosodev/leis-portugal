@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 177/2021, 1º Suplemento, Série I de 2021-09-10
   number: '177'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 37-(2) a 37-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17701/0000200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/131-a/2021/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-a-2021-171158142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3da7a076597e18475e45fb89c6c2ec9733ebcc6f3d3039407a6e1448ba13cbb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c7ffb54524c8b367be69fb4b161ee73778187e2017be3838c30886b6f760012
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Entidade Regional de Turismo
-- Financiamento
-- Turismo
-- Comissão de Acompanhamento
-- Ordenamento do Território
-- Comunidade Intermunicipal
-- Definição de Competências
-- Desenvolvimento Social
-- Turismo do Centro de Portugal
-- Estrutura de Apoio Técnico
-- Projeto de Investimento
-- Competitividade da Economia
-- Intervenção Operacional Regional do Centro
-- Serra da Estrela
-- Leiria
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
-- Desenvolvimento Económico
-- Política do Ambiente
-- Coimbra
-- Exploração Florestal
-- Agricultura
 - Agência para a Gestão Integrada de Fogos Rurais
-- Programa de Revitalização do Pinhal Interior
-- Beira Baixa
-- Estratégia Portugal 2030
-- Plano de Recuperação e Resiliência
 - Agência para o Desenvolvimento Turístico das Aldeias de Xisto
+- Agricultura
+- Beira Baixa
 - Centro de Inovação e Competências da Floresta
-- Comunidade Intermunicipal das Beiras e Serra da Estrela
-- Comunidade Intermunicipal da Região de Leiria
-- Comunidade Intermunicipal do Médio Tejo
+- Coimbra
+- Comissão de Acompanhamento
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Competitividade da Economia
+- Comunidade Intermunicipal
 - Comunidade Intermunicipal da Beira Baixa
+- Comunidade Intermunicipal da Região de Leiria
+- Comunidade Intermunicipal das Beiras e Serra da Estrela
+- Comunidade Intermunicipal do Médio Tejo
+- Definição de Competências
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Entidade Regional de Turismo
+- Estratégia Portugal 2030
+- Estrutura de Apoio Técnico
+- Exploração Florestal
+- Financiamento
+- Intervenção Operacional Regional do Centro
+- Leiria
+- Ordenamento do Território
+- Plano de Recuperação e Resiliência
+- Política do Ambiente
+- Programa de Revitalização do Pinhal Interior
+- Projeto de Investimento
+- Serra da Estrela
+- Turismo
+- Turismo do Centro de Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2018/01/03/p/dre
@@ -134,16 +134,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:107685594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123578709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130776793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164798802:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:59Z'
   warnings: []
   errors: []
 ---
@@ -330,7 +370,7 @@ Projeto n.º 9
 
 Denominação: Aldeias.
 
-Descrição: Desenvolver uma rede de aldeias temáticas, com base na regeneração do edificado e do espaço público, de forma a promover a especialização territorial; aumentar a atratividade e o potencial turístico através da implementação de ações de dinamização cultural que assentam na criação de uma identidade própria e na valorização dos recursos e do património da região, como estratégia de promoção do desenvolvimento regional; fomentar nesta rede de aldeias o fator inovação, visando a projeção dos valores ancestrais para as novas relações entre o mundo rural e o mundo urbano, criando uma nova oferta de produtos turísticos inter-relacionais e intergeracionais, alicerçados no ativo único transversal «Pessoas»; enquadrar a fixação e a permanência de longa duração de pessoas externas ao território em fim de vida ativa (ativo emergente: living), tirando partido da formação e capacitação dos novos residentes em função das necessidades e de novas dinâmicas de vivência nas aldeias; implementar iniciativas que visem aproveitar as potencialidades das aldeias da rede como laboratórios de demonstração e capacitação dos visitantes para uma melhor vida no seu espaço citadino, nomeadamente no seu relacionamento com os sistemas naturais, o consumo de bens agroalimentares e o racional aproveitamento das fontes energéticas; posicionar as aldeias no quadro de combate às alterações climáticas, articulando a sua capacidade de carga com as vias e equipamentos que permitem a sua visitação e, simultaneamente, facultando informação sobre a pegada ecológica do visitante, possibilitando a utilização de novos meios de mobilidade suave; dotar as aldeias de capacidade autónoma para estar na promoção e na conversão de fluxos digitais em comercialização de produtos e serviços turísticos próprios em forma alargada (alojamento, restauração, aluguer habitacional de longa duração, aluguer de imóveis fundiários, art&craft; potenciar os vários âmbitos de intervenção já desenvolvidos pela rede colaborativa «Aldeias do Xisto», reposicionando o seu papel de desenvolvimento do território através da atividade turística pela satisfação das novas necessidades sentidas pela sociedade no contexto pós-pandémico, alinhando os produtos e serviços turísticos com a sustentabilidade, a economia circular e a segurança; assegurar que esta rede colaborativa assuma um estatuto de referência no contexto das aldeias portuguesas e nas redes colaborativas de aldeias em particular, no contexto do desenvolvimento dos territórios da baixa densidade, garantindo uma afirmação de escala nacional para o produto turístico aldeias.
+Descrição: Desenvolver uma rede de aldeias temáticas, com base na regeneração do edificado e do espaço público, de forma a promover a especialização territorial; aumentar a atratividade e o potencial turístico através da implementação de ações de dinamização cultural que assentam na criação de uma identidade própria e na valorização dos recursos e do património da região, como estratégia de promoção do desenvolvimento regional; fomentar nesta rede de aldeias o fator inovação, visando a projeção dos valores ancestrais para as novas relações entre o mundo rural e o mundo urbano, criando uma nova oferta de produtos turísticos inter-relacionais e intergeracionais, alicerçados no ativo único transversal «Pessoas»; enquadrar a fixação e a permanência de longa duração de pessoas externas ao território em fim de vida ativa (ativo emergente: living), tirando partido da formação e capacitação dos novos residentes em função das necessidades e de novas dinâmicas de vivência nas aldeias; implementar iniciativas que visem aproveitar as potencialidades das aldeias da rede como laboratórios de demonstração e capacitação dos visitantes para uma melhor vida no seu espaço citadino, nomeadamente no seu relacionamento com os sistemas naturais, o consumo de bens agroalimentares e o racional aproveitamento das fontes energéticas; posicionar as aldeias no quadro de combate às alterações climáticas, articulando a sua capacidade de carga com as vias e equipamentos que permitem a sua visitação e, simultaneamente, facultando informação sobre a pegada ecológica do visitante, possibilitando a utilização de novos meios de mobilidade suave; dotar as aldeias de capacidade autónoma para estar na promoção e na conversão de fluxos digitais em comercialização de produtos e serviços turísticos próprios em forma alargada (alojamento, restauração, aluguer habitacional de longa duração, aluguer de imóveis fundiários, art&craft potenciar os vários âmbitos de intervenção já desenvolvidos pela rede colaborativa «Aldeias do Xisto», reposicionando o seu papel de desenvolvimento do território através da atividade turística pela satisfação das novas necessidades sentidas pela sociedade no contexto pós-pandémico, alinhando os produtos e serviços turísticos com a sustentabilidade, a economia circular e a segurança; assegurar que esta rede colaborativa assuma um estatuto de referência no contexto das aldeias portuguesas e nas redes colaborativas de aldeias em particular, no contexto do desenvolvimento dos territórios da baixa densidade, garantindo uma afirmação de escala nacional para o produto turístico aldeias.
 
 Enquadramento no PRPI: medidas n.os 5.2.3 - Valorização turística do Pinhal Interior; 6.1.2 - Projeto-Piloto Revitalização das Aldeias; 8.3.1 - Programa de desenvolvimento cultural do território; e 8.3.2 - Projeto de intervenção e valorização do território.
 
@@ -495,3 +535,5 @@ Fontes de financiamento: PT2030; Programa Valorizar; PRR: C08 - Reorganização 
 Plano de investimento previsional: 2,3 M(euro).
 
 Período de execução: 2021-2027.
+
+114560077

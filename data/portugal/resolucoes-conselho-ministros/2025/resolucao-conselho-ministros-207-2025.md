@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0009800101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/207/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2025-992627254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e02b66ae7f3a59ac4f726ff45ad298c52492f10fffb8b91c9bbf0206d82c8696
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03c5a53f530a6f59566a76159283274271401f82ec8d4197cb710acffb54c37b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Diretivo
+- Governo XXV
 - Infarmed
 - Ministro da Saúde
-- Conselho Diretivo
+- Ministro de Estado e das Finanças
 - Nomeação
 - Presidente
-- Ministro de Estado e das Finanças
 - Vice-presidente
 - Vogal
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553466:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:08Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +126,7 @@ No que respeita ao presidente do conselho diretivo, tratando-se de renovação d
 
 Assim:
 
-Nos termos do n.º 1 do artigo 5.º e do artigo 11.º do [Decreto-Lei n.º 46/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2012-542588), de 24 de fevereiro, na sua redação atual, conjugados com os n.<sup>os</sup>2 e 3 do artigo 13.º, o artigo 15.º, a alínea c) do n.º 3 do artigo 20.º e o n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, bem como da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 1 do artigo 5.º e do artigo 11.º do [Decreto-Lei n.º 46/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2012-542588), de 24 de fevereiro, na sua redação atual, conjugados com os n.os2 e 3 do artigo 13.º, o artigo 15.º, a alínea c) do n.º 3 do artigo 20.º e o n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, bem como da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças e da Ministra da Saúde, para exercer funções no conselho diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., os seguintes membros, cuja idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimentos e competências técnicas, relevantes e adequadas ao exercício das respetivas funções, se encontram evidenciados nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante:
 
@@ -197,3 +209,5 @@ Membro da Comissão Nacional para os Centros de Referência (desde 2023);
 Perito da Comissão de Avaliação de Tecnologias de Saúde do INFARMED (desde 2022);
 
 Anteriormente foi (entre outros): presidente da Associação Portuguesa de Economia da Saúde (2023-2025); professor convidado e investigador na Nova SBE (2017-2024); research fellow na Lancaster University, UK (2021); investigador visitante, Boston University e Harvard School of Public Health, EUA (2019), consultor de gestão estratégica na Kearney (2014, 2016-2017).
+
+119919208

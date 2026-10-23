@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/337/1996/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-1996-411788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebfe68b5642324d494190cbae57c7d0715be8b35d71f9ec7dcacc8f46a69a87a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f42bf0b34ca16ebd6d846145e0ad76ea1fc25ca6ea5af21a17a52ef3b6d8b64f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Certificado de Qualidade
 - Controlo de Qualidade
 - Equipamento Térmico
-- Certificado de Qualidade
 - Normalização
 relationships:
 - type: amended_by
@@ -91,16 +91,21 @@ relationships:
   target: celex:31993L0068
   label: null
   source: http://data.europa.eu/eli/dir/1993/68/oj
+- type: repealed_by
+  target: pt:dre:602998:por
+  label: "Revogado o n.º 2 do anexo ii e o anexo iii pelo DEC LEI.26/2009.27.01.2009.MEI, DR.IS [18] de 27.01.2009 8\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2009-602998
+  date: '2009-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:15Z'
   warnings: []
   errors: []
 ---
@@ -133,29 +138,29 @@ Manda o Governo, pelo Ministro da Economia, o seguinte:
 
 Ministério da Economia.
 
-**Assinada em 6 de Julho de 1996.**
+Assinada em 6 de Julho de 1996.
 
 Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estado da Indústria e Energia.
 
 ## ANEXO I — Níveis de rendimento útil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf))](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
 
 ## ANEXO II — Marcação de conformidade e marcações específicas complementares
 
 1 - Marcação de conformidade. - A marcação de conformidade inclui o símbolo CE, conforme com o símbolo que adiante se apresenta, e os dois últimos algarismos do milésimo do ano em que foi aposta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf))](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
 
 2 - Marcações específicas complementares. - A marcação de rendimento energético, atribuída por força do artigo 8.º do Decreto-Lei n.º 136/94, de 20 de Maio, corresponde ao símbolo infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf))](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
 
 ## ANEXO III — Marcações de rendimento energético
 
 Exigências de rendimento que devem ser respeitadas simultaneamente à potência nominal e à carga parcial de 0,3 Pn
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf))](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/181b00/23642368.pdf)
 
 ## ANEXO IV — Verificação da qualidade de fabrico das caldeiras
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/220/1996/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1996-431256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 553db1a76e555f374b10a554d4c51781a1c5304f6c50c349a975eb9c5e3b6dba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f09dcbc56f20270e1d2328d91e7a3e2e10ee45fedfd312e4acf91dfa9f078af2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
 - Agrupamento de Produtores
+- Ajuda Comunitária
+- Ifadap
 - Política Agrícola Comum
 - Produção Agrícola
 - Regulamento
 - Regulamento CE
-- Ifadap
 relationships:
 - type: cites
   target: celex:31972R1035
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:10Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +119,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Maio de 1996.**
+Assinada em 3 de Maio de 1996.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO
 
@@ -229,7 +229,7 @@ b) OP/AP dos restantes sectores - 5%, 5%, 4%, 3% e 2% do valor da produção com
 
 É revogada a Portaria n.º 14/95, de 7 de Janeiro.
 
-## Anexo a que se refere o artigo 15.º do Regulamento de Aplicação do Regime de Ajudas a Conceder às Organizações e Agrupamentos de Produtores.
+Anexo a que se refere o artigo 15.º do Regulamento de Aplicação do Regime de Ajudas a Conceder às Organizações e Agrupamentos de Produtores.
 
 A - Despesas elegíveis do grupo A (trabalhos preparatórios da constituição, bem como elaboração da acta de constituição e estatutos e suas alterações).
 

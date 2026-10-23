@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15500/0003000031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/135/2019/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2019-123968668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db92cc56e3fc8df07b477b8c135b2b3cfaf7a826af06973aae4d1e501ab479c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e23c1e0b2df399414893fc910b5b10fe166adbc8ac99bfd347a34a7efe49a627
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Ministério da Educação
 - Educação
-- Secretário de Estado da Educação
+- Ensino Básico
+- Ensino Secundário
 - Igualdade de Oportunidades
 - Insucesso Escolar
-- Ensino Secundário
-- Ensino Básico
+- Ministério da Educação
 - Programa Nacional de Promoção do Sucesso Escolar
+- Secretário de Estado da Educação
 relationships:
 - type: amended_by
   target: pt:dre:891337590:por
@@ -91,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2016/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2016/04/11/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74094661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:891337590:por
+  label: Revogada, a partir de 18 de outubro de 2024, pelo(a) Resolução do Conselho de Ministros n.º 140/2024 - Diário da
+    República n.º 202/2024, Série I de 2024-10-17 nos termos da alínea b) do n.º 15 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/140-2024-891337590
+  date: '2024-10-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:13Z'
   warnings: []
   errors: []
 ---
@@ -144,3 +162,5 @@ e) Apresentar um relatório final de avaliação do PNPSE até 31 de agosto de 2
 3 - Determinar que a presente resolução produz efeitos a partir do dia seguinte à data fixada para o termo do mandato inicial da Estrutura de Missão, nos termos do n.º 17 da [Resolução do Conselho de Ministros n.º 23/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2016-74094661), de 11 de abril.
 
 Presidência do Conselho de Ministros, 25 de julho de 2019. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112513377

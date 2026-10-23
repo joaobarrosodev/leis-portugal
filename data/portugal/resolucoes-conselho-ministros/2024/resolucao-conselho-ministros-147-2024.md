@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20900/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/147/2024/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-2024-893148874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15fa3588144ad67cab92b8d0410822852ffedb64d5d50512f793a40755e1d1b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76f37f7ccfc37742c62de21f261991da08df9f8a2a4af86c22e0e201f5aa6609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Aliança para a Sustentabilidade na Aviação
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
 - Definição de Competências
 - Delegação de Competências
-- Proteção do Ambiente
-- Aviação Civil
-- Autoridade Nacional da Aviação Civil
-- Agência Portuguesa do Ambiente
 - Governo XXIV
 - Ministro das Infraestruturas e Habitação
 - Ministro do Ambiente e Energia
+- Proteção do Ambiente
 - Roteiro Nacional para a Descarbonização da Aviação
-- Aliança para a Sustentabilidade na Aviação
 relationships:
 - type: cites
   target: celex:32003L0087
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:54Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +100,11 @@ validation:
 
 O XXIV Governo está comprometido com a sustentabilidade ambiental e a necessidade urgente de combater as alterações climáticas, conforme estabelecido no Roteiro Nacional para a Neutralidade Carbónica 2050 e conforme os objetivos definidos no Acordo de Paris, que visam manter o aumento da temperatura média global abaixo dos 2°C em relação aos níveis pré-industriais e prosseguir todos os esforços para limitar o aumento da temperatura global a 1,5°C.
 
-O setor da aviação é responsável por aproximadamente 2 % das emissões globais de dióxido de carbono (CO<sub>2</sub>) e, sem intervenções significativas, estas emissões podem triplicar até 2050, conforme relatado pela Organização Internacional da Aviação Civil (ICAO).
+O setor da aviação é responsável por aproximadamente 2 % das emissões globais de dióxido de carbono (CO2) e, sem intervenções significativas, estas emissões podem triplicar até 2050, conforme relatado pela Organização Internacional da Aviação Civil (ICAO).
 
 A descarbonização do transporte aéreo é uma prioridade absoluta para assegurar o desenvolvimento da indústria e o acesso à mobilidade dos cidadãos com níveis de sustentabilidade crescentes, considerando ainda mais a relevância económica e social do setor em Portugal, que contribui para o turismo, o comércio e a conectividade internacional. Para cumprir as metas de descarbonização acordadas ao nível internacional e também regional, é necessário um forte empenho do setor da aviação a nível nacional.
 
-A nível comunitário importa realçar que o setor da aviação integra, desde 2012, o regime do comércio europeu de licenças de emissão, estabelecido pela Diretiva 2003/87/CE, passando a partir de 2025 a incluir, para além das emissões de dióxido de carbono (CO<sub>2</sub>), a monitorização, comunicação e verificação dos efeitos da aviação não relacionados com o CO<sub>2</sub>.
+A nível comunitário importa realçar que o setor da aviação integra, desde 2012, o regime do comércio europeu de licenças de emissão, estabelecido pela Diretiva 2003/87/CE, passando a partir de 2025 a incluir, para além das emissões de dióxido de carbono (CO2), a monitorização, comunicação e verificação dos efeitos da aviação não relacionados com o CO2.
 
 A cobrança da taxa de carbono no âmbito do transporte aéreo de passageiros - prevista no artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro, regulamentada pela Portaria n.º 38/2021, de 16 de fevereiro, e alargada nos termos do artigo 184.º da Lei n.º 24-D/2022, de 30 de dezembro, que se mantém em vigor por força dos artigos 49.º-Q e 49.º-R aditados à Lei n.º 82-D/2014, de 31 de dezembro, pela Lei n.º 82/2023, de 29 de dezembro -, suportada pelos utilizadores do transporte aéreo para a sustentabilidade ambiental, consubstancia uma das faces do empenho do setor a nível nacional, constituindo uma contrapartida pela emissão de gases poluentes. Esta taxa constitui receita própria do Fundo Ambiental (FA), nos termos da alínea l) do n.º 1 do artigo 4.º do Decreto-Lei n.º 42-A/2016, desejando-se uma aplicação mais proporcional no desenvolvimento sustentável do setor da aviação. Urge garantir que o montante cobrado é utilizado em prol de ações ou atividades de descarbonização no setor da aviação civil.
 
@@ -211,3 +211,5 @@ Contribuidores para a cadeira de valor de SAF e eSAF;
 Representantes da indústria aeronáutica;
 
 ANI - Agência Nacional de Inovação.
+
+118254374

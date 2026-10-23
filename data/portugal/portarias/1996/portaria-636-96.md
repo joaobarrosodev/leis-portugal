@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/636/1996/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-1996-177785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df0441c5ec9b790c13a4abe22dcbb7d16da64f368e28ba450903ebd240587110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b1e45db1f6c75a96efa2c16a0a55c8e10b33dbacc4699b47097878e054c8adc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barreiro
-- Médico
 - Hospital Distrital
+- Médico
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:216317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216317:por
+  label: "Substituido o quadro de pessoal aprovado pela Port 878/94 de 30-Set DR.IS-B [227], com a redacção dada pelo presente\
+    \ diplma e pelas Port 916/95 de 19-Jul, 1131/95 de 15-Set e 428/96 de 02-Set, pela PORT.983/98.1998.11.24.PCM DR.IS-B\
+    \ [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/983-1998-216317
+  date: '1998-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/878/1994/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/878/1994/09/30/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599894:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:39Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 11 de Outubro de 1996.**
+Assinada em 11 de Outubro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital de Nossa Senhora do Rosário - Barreiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/258b00/39323932.pdf))](https://files.diariodarepublica.pt/1s/1996/11/258b00/39323932.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/258b00/39323932.pdf)

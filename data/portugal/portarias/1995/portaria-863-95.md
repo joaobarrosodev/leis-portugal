@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/863/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/863-1995-460239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42bc1ce8af169abe5908f4d06d33412a6b77c80d7497f701dcbfa48f707e2584
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 431b39eb53bb4d701b9f280ba0f661dcaf1e88f363a7a219303d5e6ef2b39879
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,31 @@ relationships:
   target: pt:dre:641728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484112:por
+  label: "Anexado um prédio rústico à zona de caça, renovada pela Port 496/2003 de 21-Jun, pela PORT.1138/2003.02.10.2003.MECO,\
+    \ DR.IS-B [228] de 02.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1138-2003-484112
+  date: '1995-07-14'
+- type: amended_by
+  target: pt:dre:692627:por
+  label: "Renovada a concessão da zona de caça turística concessionada pelo presente diploma, pela PORT.496/2003.2003.06.21.MECO\
+    \ DR.IS-B [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2003-692627
+  date: '2003-06-21'
+- type: amended_by
+  target: pt:dre:538024:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, renovada pela Port 496/2003, de 21-Jun,\
+    \ e alterada pela Port 1138/2003, de 02-Out, pela PORT.660/2006.04.07.2006.MADRP, DR.IS [127] de 04.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/660-2006-538024
+  date: '2006-07-04'
+- type: amended_by
+  target: pt:dre:641728:por
+  label: "Transferida para Diego Butron Munoz a zona de caça turística concessionada pelo presente diploma, com a renovação\
+    \ efectuada pela Port 496/2003 de 21-Jun e as alterações constantes das Port 1138/2003 de 02-Out e 660/2006 de 04-Jul,\
+    \ pela PORT.1304/2007.03.10.2007.MADRP, DR.IS [191] de 03.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1304-2007-641728
+  date: '2007-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -84,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/409/1991/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/409/1991/05/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:50Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +183,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/44794479.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/44794479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44794479.pdf)

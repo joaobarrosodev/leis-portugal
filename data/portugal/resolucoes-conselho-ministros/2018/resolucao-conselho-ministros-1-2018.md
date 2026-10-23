@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1/2018/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-2018-114440371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b0d934c7efe744b76939422a88ed28cd9c394ee55dfb1291a06e20703875c33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed32d863252704846951baa50b2ab6b2e762edfbeb9280e41254b30fa689388a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,54 +65,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Alvaiázere
 - Ansião
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Arganil
 - Castanheira de PÊRA
-- Desenvolvimento Rural
+- Catástrofe
 - Comissão de Acompanhamento
-- Ordenamento do Território
 - Definição de Competências
 - Desenvolvimento
+- Desenvolvimento Económico
+- Desenvolvimento Local
+- Desenvolvimento Rural
 - Desenvolvimento Social
-- Proteção da Floresta
+- Exploração Florestal
 - Figueiró dos Vinhos
-- Catástrofe
+- Financiamento
 - Góis
 - Grupo de Trabalho
+- Incêndio
 - Lousã
 - Mação
 - Miranda do Corvo
 - Oleiros
 - Oliveira do Hospital
+- Ordenamento do Território
 - Ordenamento Florestal
-- Plano de Gestão Florestal
 - Pampilhosa da Serra
 - Pedrógão Grande
 - Penela
-- Arganil
-- VILA NOVA de Poiares
-- Desenvolvimento Económico
-- Exploração Florestal
+- Plano de Gestão Florestal
+- Política Florestal
+- Prevenção de Incêndios
 - Proença-a-nova
 - Programa
-- Agricultura
-- Desenvolvimento Local
-- Política Florestal
+- Programa de Revitalização do Pinhal Interior
+- Programa Nacional para a Coesão Territorial
+- Proteção da Floresta
 - Sertã
 - Tabua
-- VILA de REI
-- ZONA Crítica de Incêndio Florestal
 - Unidade de Missão para a Valorização do Interior
-- Programa Nacional para a Coesão Territorial
-- Programa de Revitalização do Pinhal Interior
+- VILA de REI
+- VILA NOVA de Poiares
+- ZONA Crítica de Incêndio Florestal
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o Programa de Revitalização do Pinhal Interior, aprovado pela presente
+    Resolução, é da responsabilidade da Ministra da Coesão Territorial pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República
+    n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:171158142:por
+  label: Alargada a constituição da Comissão de Acompanhamento do Programa de Revitalização do Pinhal Interior (PRPI) prevista
+    no n.º 8 pelo(a) Resolução do Conselho de Ministros n.º 131-A/2021 - Diário da República n.º 177/2021, 1º Suplemento,
+    Série I de 2021-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/131-a-2021-171158142
+  date: '2021-09-10'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinada, com efeitos a 30.03.2022, a responsabilidade da Ministra da Coesão Territorial pelo Programa de Revitalização
+    do Pinhal Interior pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja da responsabilidade do Ministro Adjunto e da Coesão Territorial
+    o Programa de Revitalização do Pinhal Interior pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série
+    I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinada, com efeitos a 5 de junho de 2025, que seja da responsabilidade do Ministro da Economia e da Coesão Territorial,
+    em conjunto com a Ministra do Ambiente e Energia, o Programa de Revitalização do Pinhal Interior pelo(a) Decreto-Lei n.º
+    87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251-a/2015/12/17/p/dre
   label: null
@@ -149,16 +183,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:106982476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107507169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107669077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107685594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107731427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108238714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108265096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114233329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114236462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73268683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75286797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:28Z'
   warnings: []
   errors: []
 ---
@@ -331,7 +489,7 @@ B - Enquadramento
 
 Os incêndios de grandes dimensões que ocorreram ao longo deste ano, com especial incidência para os que tiveram início nos dias 17 de junho e 15 de outubro de 2017, com consequências trágicas ao nível de perda de vidas humanas e que originaram danos e prejuízos em habitações, empresas, explorações agrícolas, infraestruturas e equipamentos, que se somam à destruição da floresta e dos bens e serviços por ela produzidos, colocaram famílias, indivíduos, empresas e, no limite, o território, em situação de grande vulnerabilidade. A este estado de calamidade, acresce o facto de estes incêndios terem afetado com particular severidade territórios por si só já desvitalizados social e demograficamente, com atividades económicas muito débeis e fraca capacidade de atração de investimento (Cfr. Ilustração 1 - Área ardida).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf)
 
 Assim, face à dimensão das perdas e prejuízos e atendendo às fragilidades do território, o Governo, avançou, desde a primeira hora - incêndio de Pedrógão Grande -, com um conjunto de medidas e ações para dar resposta às situações de emergência, nomeadamente de recuperação dos danos causados, nomeadamente em habitações, empresas e infraestruturas, e nas áreas dos apoios sociais, de saúde e do emprego, prioridade imediata, e, paralelamente, tomou a decisão política de programar uma estratégia de revitalização económica e social e de reordenamento dos espaços florestais.
 
@@ -767,7 +925,7 @@ Análise do metabolismo económico da região do Pinhal Interior (Laboratório C
 
 ECO.BIO-Plano de investimento para a bioeconomia e economia circular na região do Pinhal Interior (pilotado pelo MPI, MCTES, MECON, MAMB, MAFDR em articulação com CCDRC, CIM);
 
-Entidade gestora de rede ECO.BIO: Modelo de governação, financiamento, plano de atividades e arranque (CIM/CCDRC em conjunto com as unidades de I&D;
+Entidade gestora de rede ECO.BIO: Modelo de governação, financiamento, plano de atividades e arranque (CIM/CCDRC em conjunto com as unidades de I&D
 
 Abertura de avisos em articulação com a ação ECO.BIO (PO Regional, COMPETE, POSEUR, Fundo Ambiental, FITEC);
 
@@ -2549,4 +2707,6 @@ O sucesso deste modelo dependerá, assim, de uma maior e melhor articulação en
 
 H - Quadro síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00200/0000700051.pdf)
+
+111033814

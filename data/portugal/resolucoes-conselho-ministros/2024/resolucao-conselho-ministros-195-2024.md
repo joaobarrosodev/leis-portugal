@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/195/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/195-2024-901400367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 391483441faa90c2c754e48220b3e7647a592dae06ca90dda52d933972005a4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32dc00ce7dbaf7a0c17422c906753ef05010944ac3767b42d259780aa32cba6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,15 @@ subjects:
 - Autorização de Despesas
 - Empreitada de Obras Públicas
 - Gestão Orçamental
-- Polícia Judiciária
 - Governo XXIV
+- Polícia Judiciária
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:28/2023
+  label: Altera, a partir de 28 de dezembro de 2024, a Resolução do Conselho de Ministros n.º 28/2023, de 21 de março, Diário
+    da República n.º 57/2023, Série I e adita um anexo ao mesmo diploma
+  source: null
+  date: '2023-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -94,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2023/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2023/03/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210518830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838659727:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:54Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +152,7 @@ Face ao que antecede e atendendo ao hiato temporal verificado após a decisão d
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º, do n.º 1 do artigo 21.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º, do n.º 1 do artigo 109.º, do artigo 313.º e dos n.<sup>os</sup>2 e 4 do artigo 370.º, do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º, do n.º 1 do artigo 21.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º, do n.º 1 do artigo 109.º, do artigo 313.º e dos n.os2 e 4 do artigo 370.º, do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Alterar a [Resolução do Conselho de Ministros n.º 28/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-2023-210518830), de 2 de março, com a seguinte redação:
 
@@ -152,10 +182,12 @@ Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Mini
 
 Estimativa orçamental e escalonamento plurianual - Instalação afeta à Polícia Judiciária
 
-| Área geográfica de intervenção | Projetos | Anos | Anos | Anos | Total |
+| Área geográfica de intervenção | Projetos | Anos | Total |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Área geográfica de intervenção | Projetos | 2023 | 2024 | 2025 | Total |
+| 2023 | 2024 | 2025 |  |  |  |
 | SulDepartamento Investigação Criminal de Faro | 12328 - Obras de Requalificação de Edifícios | € 0 | € 3 200 024,92 | € 100 000,00 | € 5 338 712,00 |
-| SulDepartamento Investigação Criminal de Faro | 13600 - PRR C13-i02 - Eficiência Energética em Edifícios da Administração Pública Central | € 0 | € 2 038 687,08 | - | € 5 338 712,00 |
+| 13600 - PRR C13-i02 - Eficiência Energética em Edifícios da Administração Pública Central | € 0 | € 2 038 687,08 | - |  |  |
 
 Nota. - Aos valores indicados acresce IVA à taxa legal em vigor.
+
+118502217

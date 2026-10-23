@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04900/0124601249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/28/2018/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-2018-114834167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d06d10c952ae074f95ac5179cc10007f38d025fb455d247f6861062fe92b43c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7f560f8d2a04a11c19c610ed0fb23f489f15583beb2a04c3e92c8fd07315eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ subjects:
 - Agência Nacional para a Cultura Científica e Tecnológica-ciência VIVA
 - Assistência Médica
 - Assistência Medicamentosa
-- Financiamento
-- Infarmed
-- Fundação para a Ciência e a Tecnologia
-- Ministro da Saúde
 - Criação de Serviços
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Ministro das Finanças
+- DOENÇA ONCOLÓGICA
+- Doente Oncológico
+- Financiamento
+- Fundação para a Ciência e a Tecnologia
 - Grupo Hospitalar Instituto Português de Oncologia Francisco Gentil
+- Infarmed
 - Instituto Superior Técnico
 - Instituto Tecnológico e Nuclear
 - Loures
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Unidade de Saúde Pública
-- DOENÇA ONCOLÓGICA
+- Ministro da Saúde
+- Ministro das Finanças
 - Ministro do Planeamento e das Infraestruturas
-- Doente Oncológico
+- Serviço Nacional de Saúde
+- Unidade de Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -107,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:38Z'
   warnings: []
   errors: []
 ---
@@ -239,4 +259,6 @@ Os equipamentos de medição genericamente utilizados quer em técnicas associad
 
 Financiamento base para a contratação de investigadores e médicos doutorados a associar à criação e funcionamento da nova unidade de saúde e centro de investigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04900/0124601249.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04900/0124601249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04900/0124601249.pdf)
+
+111179186

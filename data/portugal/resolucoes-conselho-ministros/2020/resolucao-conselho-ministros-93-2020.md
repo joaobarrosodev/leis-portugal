@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21500/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/93/2020/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2020-147533139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bf723098d09ba0711a5faef3482612e854e62277d2a4544ef4f11ad45b0f3dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d9a06d3dcfabc174c666fa4be6c365b7152ece92a6971fa823022466f92f98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Auto-estrada da Beira Interior
-- Auto-estrada da Costa de Prata
-- Auto-estrada do Grande Porto
-- SCUT
-- Aveiro
-- Cobrança
 - Auto-estrada
-- Vila Real
+- Auto-estrada da Beira Interior
+- Auto-estrada da Beira Litoral- Beira ALTA
+- Auto-estrada da Costa de Prata
+- Auto-estrada do Algarve
+- Auto-estrada do Grande Porto
+- Aveiro
+- Bragança
+- Cobrança
 - Coimbra
+- Infraestruturas de Portugal
 - Portagem
 - Preço
-- Auto-estrada da Beira Litoral- Beira ALTA
-- Auto-estrada do Algarve
-- Bragança
+- SCUT
 - Taxa
+- Vila Real
 - Vilar Formoso
-- Infraestruturas de Portugal
 relationships:
 - type: amended_by
   target: pt:dre:165865620:por
@@ -123,16 +123,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2000/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87-a/2000/05/13/p/dre
+- type: cites
+  target: pt:dre:146186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634950:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165865620:por
+  label: Revogada, a partir de 01.07.2021, nos termos do n.º 5, a presente resolução, pelo(a) Resolução do Conselho de Ministros
+    n.º 80/2021 - Diário da República n.º 123/2021, Série I de 2021-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/80-2021-165865620
+  date: '2021-06-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:16Z'
   warnings: []
   errors: []
 ---
@@ -168,3 +210,5 @@ b) Uniformização do regime de modulação das taxas de portagem nos lanços e 
 4 - Determinar que a presente resolução entra em vigor a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 22 de outubro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113697769

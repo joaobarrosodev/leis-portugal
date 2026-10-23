@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/749/1995/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/749-1995-466000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42164df7a726591794be1f05d824943ee32b07e7530de7db5a8de31b288ecf41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eafb72e0861bcc6313c71e021e0a6de2d2c2495cc55fc2fb39308acdcacbe35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,36 @@ relationships:
   target: pt:dre:333490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566673:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.679/98.1998.08.31.MADRP,\
+    \ DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/679-1998-566673
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:235569:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.886/98.1998.10.10.MADRP DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-1998-235569
+  date: '1998-10-10'
+- type: amended_by
+  target: pt:dre:640889:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 886/98 de\
+    \ 10-Out, pela PORT.973/2007.23.08.2007.MADRP, DR.IS [162] de 23.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2007-640889
+  date: '2007-08-23'
+- type: amended_by
+  target: pt:dre:455875:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, na redacção das Portarias 886/98,\
+    \ de 10 de Outubro e 973/2007, de 23 de Agosto, pela PORT.856/2008.12.08.2008.MADRP, DR.IS [155] de 12.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/856-2008-455875
+  date: '2008-08-12'
+- type: amended_by
+  target: pt:dre:333490:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa, criada no presente diploma, na redacção\
+    \ das Portarias n.ºs 886/98, de 10 de Outubro, 973/2007, de 23 de Agosto, e 856/2008, de 12 de Agosto, pela PORT.636/2010.09.08.2010.MADRP,\
+    \ DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-2010-333490
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -89,16 +119,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-z7/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-z7/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:07Z'
   warnings: []
   errors: []
 ---
@@ -139,8 +197,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/158b00/43634364.pdf))](https://files.diariodarepublica.pt/1s/1995/07/158b00/43634364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/158b00/43634364.pdf)

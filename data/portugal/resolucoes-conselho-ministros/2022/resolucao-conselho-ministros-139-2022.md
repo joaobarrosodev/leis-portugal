@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24900/0002100029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/139/2022/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-2022-205378564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed92c496705dc4b4b1ba8d4cd2010545c2f232c1f94b181bb588697a3526a4b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13f8cd2639a06de2fa4ad48e55c6c0ac25db209d1d609afc1e0a439ebd3c4357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Radiocomunicações
-- Serviço de Telecomunicações Móveis
+- Autoridade Nacional de Comunicações
+- Comunicações
 - Comunicações Eletrónicas
 - Decisão CE
 - Definição de Competências
-- Mudança Tecnológica
 - Domínio Público do Estado
 - Frequências Radiofónicas
+- Mudança Tecnológica
+- Operador de Rede de Comunicações Eletrónicas
 - Prazo
+- Radiocomunicações
 - Recomendação CE
 - REDE de NOVA Geração
-- Comunicações
-- Autoridade Nacional de Comunicações
-- Operador de Rede de Comunicações Eletrónicas
 - Rede Fixa de Comunicações Eletrónicas
 - Rede Móvel de Comunicações Eletrónicas
+- Serviço de Telecomunicações Móveis
 relationships:
 - type: cites
   target: celex:32014L0061
@@ -120,6 +120,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:107785482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129106697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147782899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163442504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173587886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174028241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184420992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0061
   label: null
@@ -131,13 +171,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:45Z'
   warnings: []
   errors: []
 ---
@@ -345,3 +385,5 @@ a) Promover, nos termos do [Decreto-Lei n.º 40/2022](https://diariodarepublica.
 b) Promover a alteração, até ao final do segundo trimestre de 2023, ao regime jurídico da construção, do acesso e da instalação de redes e infraestruturas de comunicações eletrónicas, com o objetivo de atualizar o mesmo no que se refere à implementação de redes de comunicações eletrónicas de capacidade muito elevada. Nesta alteração ter-se-á em conta a transposição da [Diretiva (UE) 2018/1972](https://data.europa.eu/eli/dir/2018/1972/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, que estabelece o Código Europeu das Comunicações Eletrónicas, e o roteiro nacional de implementação da iniciativa europeia «Connectivity Toolbox», remetido à Comissão Europeia em 30 de maio de 2021;
 
 c) Promover, até ao final do terceiro trimestre de 2023, o desenvolvimento de procedimentos harmonizados para a submissão dos pedidos necessários à instalação de redes de comunicações eletrónicas através de plataforma eletrónica incluindo, se viável, um portal único para esta tramitação.
+
+116006583

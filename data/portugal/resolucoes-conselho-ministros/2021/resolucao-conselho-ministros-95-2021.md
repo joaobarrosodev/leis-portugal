@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14000/0000800010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/95/2021/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-2021-167923977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f8ddb044871ec35ad351b99b51a2de47cf4009c7f22d34183597c591120b32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 602d4b265753eb7ccfc90ab1ce154fba2a339675a013b1e82b87dd68b9cecc99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:39Z'
   warnings: []
   errors: []
 ---
@@ -174,3 +182,5 @@ Desde 2018 que é diretor do Departamento de Gestão Direta da Entidade Regulado
 Técnico superior especialista da ERSAR do departamento de engenharia e, posteriormente, do departamento de engenharia-resíduos, desde 2001. De 1998 a 2001 foi responsável pela Divisão de Serviços Urbanos da Câmara Municipal de Beja e de 1997 a 1998 trabalhou na empresa ETARPLAN - Empresa de projetos e construção de sistemas de tratamento de águas residuais.
 
 É autor de artigos nacionais e internacionais sobre o setor das águas e resíduos, participou na elaboração da primeira, segunda e terceira geração de indicadores de avaliação da qualidade dos serviços de águas e resíduos e acompanhou em permanência o grupo de trabalho de elaboração do PERSU2020.
+
+114425544

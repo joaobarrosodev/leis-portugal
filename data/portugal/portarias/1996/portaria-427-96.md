@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/201b00/28722875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427/1996/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1996-241380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5d4cd06d00545cafb7f10e8eadf9ac4dc0a78d175dbd5491852137df034477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea0497095f527b2d7823bdc616c880a56f5e2a4c2315039e19814c9f5b8f1215
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Embarcação de Recreio
 - Equipamento
-- Normas de Segurança
 - Navegação de Recreio
+- Navegação Marítima
+- Normas de Segurança
 - Segurança Marítima
 - Serviços de Radiocomunicações
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:450264:por
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
+- type: cites
+  target: pt:dre:305593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:450264:por
+  label: "Revogada pela PORT.1464/2002.2002.11.14.MOPTH, DR.IS-B[263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1464-2002-450264
+  date: '2002-11-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:26Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +135,9 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 7 de Agosto de 1996.**
+Assinada em 7 de Agosto de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO — Equipamentos das embarcações de recreio
 
@@ -156,7 +169,7 @@ Uma das bóias deve dispor de retenida flutuante de 30 m e, se as ER tiverem dua
 
 1.3 - Sinais visuais de socorro - as ER devem dispor de sinais visuais de socorro, conforme o estabelecido no quadro que segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/201b00/28722875.pdf))](https://files.diariodarepublica.pt/1s/1996/08/201b00/28722875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/201b00/28722875.pdf)
 
 1.4 - Outros meios de salvação:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12200/0001200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/78/2021/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2021-165797125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1cd5dfe16142b12913ffe92cafd7de6e82b7522136ffd612b96152e5df0df40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78b8f3de682dcd38f5af2abe1d53dfa29a992e18a4a752befb9dc9e8ed7e4a2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animal Doméstico
-- Proteção dos Animais
 - Definição de Competências
 - Instituto da Conservação da Natureza e das Florestas
 - Prémio
-- Saúde Animal
-- Provedor do Animal
 - Programa Nacional para os Animais de Companhia
-relationships: []
+- Proteção dos Animais
+- Provedor do Animal
+- Saúde Animal
+relationships:
+- type: cites
+  target: pt:dre:137247708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:17Z'
   warnings: []
   errors: []
 ---
@@ -205,3 +209,5 @@ c) Contribuições de fundos de direito privado, nacionais ou estrangeiros;
 d) Contribuições da União Europeia sujeitas a orientações fixadas pelas autoridades de gestão dos respetivos planos operacionais e aos regulamentos nacionais e da União Europeia, nomeadamente provenientes de fundos europeus estruturais e de investimento.
 
 Para monitorizar e avaliar as medidas e ações a desenvolver, são definidas e calendarizadas as metas a alcançar e as medidas tendentes à sua concretização, acompanhadas de estimativa do respetivo impacto orçamental e da identificação das possíveis fontes de financiamento, bem como de indicadores de avaliação relativos às populações animais, às interações humano-animal e às entidades competentes.
+
+114344803

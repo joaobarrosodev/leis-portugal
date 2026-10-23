@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/189/2017/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2017-114311300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80fbbafe506fb9d29a590825a121697f89677b5e4f65041c0f187af470f31acd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 136ba8c4cfa9d0bc658c06e988d1f2badf1c206ac91336119d7d9129c436a97a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
+- Apoio à Exportação
 - Comércio Externo
 - Conselho Estratégico de Internacionalização da Economia
 - Definição de Competências
 - Diversificação das Exportações
-- Internacionalização Empresarial
-- Ministro dos Negócios Estrangeiros
+- Exportação
 - Incentivos à Exportação
-- Apoio à Exportação
+- Internacionalização Empresarial
 - Investimento
 - Investimento Estrangeiro
-- Mercado Internacional
-- Exportação
-- Programa
-- Promoção de Produtos
 - Investimento Privado
-- Secretário de Estado da Internacionalização
+- Mercado Internacional
+- Ministro dos Negócios Estrangeiros
+- Programa
 - Programa Internacionalizar
+- Promoção de Produtos
+- Secretário de Estado da Internacionalização
 relationships:
 - type: amended_by
   target: pt:dre:159792487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159792487:por
+  label: Aprovado o Programa Internacionalizar 2030 que sucede ao presente Programa pelo(a) Resolução do Conselho de Ministros
+    n.º 20/2021 - Diário da República n.º 55/2021, Série I de 2021-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/20-2021-159792487
+  date: '2021-03-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/2017/02/22/p/dre
   label: null
@@ -96,16 +102,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
+- type: cites
+  target: pt:dre:106509196:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:17Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +198,7 @@ Para a dinamização destas duas linhas concorrem 6 eixos de intervenção: a) B
 
 Naturalmente, as diversas medidas que o Programa Internacionalizar contempla, inseridas nestes eixos, serão decisivas para o alcance dos objetivos que o Programa estabelece.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf)
 
 3 - Eixos de intervenção
 
@@ -450,4 +460,6 @@ F.4. Desenvolvimento de Ferramenta de Monitorização de Custos de Contexto à I
 
 5 - Cronograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23400/0652206528.pdf)
+
+110958007

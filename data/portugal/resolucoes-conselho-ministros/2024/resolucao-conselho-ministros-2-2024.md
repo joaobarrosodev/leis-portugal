@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0009700123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2024-836117873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a10ba91d1ab1cef96391a89ddf38c06a4d5703f1e39f284b8109cd98f2d06e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 226672fdf83bbacfee0ea8fec81dc211930f4373b8861e5684a708e858455b49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
-- Crime
-- Violência
 - Comissão Técnica de Acompanhamento
 - Coordenador
-- Vítima
-- Estrutura de Coordenação
+- Crime
 - Estratégia Nacional para os Direitos das Vítimas de Crime
+- Estrutura de Coordenação
+- Protecção à Vítima
+- Violência
+- Vítima
 relationships:
 - type: cites
   target: celex:32001D0220
@@ -126,16 +126,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2023/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2023/08/28/p/dre
+- type: cites
+  target: pt:dre:211172697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220949538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70186239:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:01Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +238,7 @@ Presidência do Conselho de Ministros, 7 de dezembro de 2023. - O Primeiro-Minis
 
 Estratégia Nacional para os Direitos das Vítimas de Crime - 2024-2028
 
-# Parte A - Enquadramento
+Parte A - Enquadramento
 
 1.1 - Razões para uma Estratégia Nacional para os Direitos das Vítimas de Crime
 
@@ -296,7 +312,7 @@ e) Vitimação secundária [fonte: Recomendação (2023)2, de 15 de março de 20
 
 Ocorre, não como resultado direto da infração penal, mas em virtude do modo de interação com a vítima de entidades públicas ou privadas e/ou de outros indivíduos.
 
-# Parte B - Eixos estratégicos, objetivos gerais e objetivos específicos
+Parte B - Eixos estratégicos, objetivos gerais e objetivos específicos
 
 São definidos para o período 2024-2028 os EE sobre os quais assenta toda a ENDVC e para os quais convergem os OG e os OE das políticas orientadas à promoção dos direitos das vítimas de crime, definindo as medidas concretas a desenvolver para a consecução da promoção dos direitos das vítimas de crime, da seguinte forma:
 
@@ -492,24 +508,24 @@ Os objetivos descritos são materializados por meio de indicadores, a concretiza
 
 No plano das entidades envolvidas na execução da ENDVC, surgem identificadas entidades responsáveis e entidades envolvidas. Assume-se que as entidades responsáveis são sempre áreas governativas que tematicamente se relacionem com os objetivos e indicadores a empreender. A ordem pela qual as áreas governativas surgem identificadas é protocolar, havendo por isso corresponsabilidade no assegurar do cumprimento dos objetivos e indicadores identificados. As áreas governativas convocarão os serviços e organismos da área correspondente que importe envolver na execução dos objetivos, medidas/ações e indicadores em causa. As entidades envolvidas situam-se fora do estrito âmbito governativo, compreendendo, v.g., a sociedade civil, por meio de ONG ou da academia, o plano institucional, por exemplo com o envolvimento da PGR, da ANAFRE ou da ANMP.
 
-# Parte C - Mapa anexo: apresentação dos eixos estratégicos, dos objetivos gerais e respetivos objetivos específicos, das medidas/ações concretas a desenvolver, dos indicadores, das entidades responsáveis e envolvidas e das metas
+Parte C - Mapa anexo: apresentação dos eixos estratégicos, dos objetivos gerais e respetivos objetivos específicos, das medidas/ações concretas a desenvolver, dos indicadores, das entidades responsáveis e envolvidas e das metas
 
 Estratégia Nacional para os Direitos das Vítimas de Crime (ENDVC)
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
+| Eixos estratégicos | Objetivos gerais | Objetivos específicos | Medidas/ações | Indicadores | Entidades | Metas |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Eixos estratégicos | Objetivos gerais | Objetivos específicos | Medidas/ações | Indicadores | Entidades | Entidades | Metas | Metas | Metas | Metas | Metas |
-| Eixos estratégicos | Objetivos gerais | Objetivos específicos | Medidas/ações | Indicadores | Responsáveis | Envolvidas | 2024 | 2025 | 2026 | 2027 | 2028 |
-| EE1 - Prevenção e sensibilização pública sobre o crime e a vitimação. | OG1.1 - Prevenir o crime e a vitimação. | 1.1.1 - Definir abordagens locais e setoriais de prevenção geral. | 1.1.1.1 - Formular, a partir dos Conselhos Municipais de Segurança e do Conselho Consultivo da Comarca, propostas no âmbito da prevenção da criminalidade. | Apresentação de propostas. | MAI, MAAP, MTSSS, MCT. | CSM, PGR, ANMP, CPCJ, AMCV, APAV, IAC, UMAR e outras ONG. | X | X | X | X | X |
+| Responsáveis | Envolvidas | 2024 | 2025 | 2026 | 2027 | 2028 |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| EE1 - Prevenção e sensibilização pública sobre o crime e a vitimação. | OG1.1 - Prevenir o crime e a vitimação. | 1.1.1 - Definir abordagens locais e setoriais de prevenção geral. | 1.1.1.1 - Formular, a partir dos Conselhos Municipais de Segurança e do Conselho Consultivo da Comarca, propostas no âmbito da prevenção da criminalidade. | Apresentação de propostas. | MAI, MAAP,<br>MTSSS, MCT. | CSM, PGR, ANMP, CPCJ, AMCV, APAV, IAC, UMAR e outras ONG. | X | X | X | X | X |
 |  |  |  | 1.1.1.2 - Garantir assento de ONG com serviços de apoio à vítima nos Conselhos Consultivos das Comarcas. | N.º de conselhos consultivos com serviços de apoio à vítima representados. | MJ. | CSM, PGR, ANMP, ANAFRE, AMCV, APAV, IAC, UMAR e outras ONG. |  | 1 | 2 | 3 | 4 |
-|  |  |  | 1.1.1.3 - Garantir a existência de espaços em eventos de grandes dimensões, designadamente musicais ou em contexto académico, especificamente destinados a contribuir para a prevenção da violência, v.g. de género ou sexual, facultando um espaço de conforto, apoio e informação aos participantes do evento que dele necessitem. | N.º de projetos-piloto. | MAI, MJ, MAAP, MS, MCTES. | ANMP, ANAFRE, UMAR e outras ONG, entidades privadas promotoras dos eventos. |  | 1 | 2 | 3 | 4 |
+|  |  |  | 1.1.1.3 - Garantir a existência de espaços em eventos de grandes dimensões, designadamente musicais ou em contexto académico, especificamente destinados a contribuir para a prevenção da violência, v.g. de género ou sexual, facultando um espaço de conforto, apoio e informação aos participantes do evento que dele necessitem. | N.º de projetos-piloto. | MAI, MJ, MAAP,<br>MS, MCTES. | ANMP, ANAFRE, UMAR e outras ONG, entidades privadas promotoras dos eventos. |  | 1 | 2 | 3 | 4 |
 |  |  |  | 1.1.1.4 - Consolidar redes locais de colaboração entre as ONG de apoio à vítima e/ou de intervenção com públicos especialmente vulneráveis e a comunidade escolar e de ensino superior. | Apresentação de resultados. | MAI, MJ, MAAP, MCTES, ME, MTSSS, MS. | ONG. | X | X | X | X | X |
 |  |  |  | 1.1.1.5 - Potenciar a rede colaborativa intersetorial da prevenção da violência no setor da saúde. | N.º de reuniões locais. | MAI, MJ, MTSSS, MS. |  | 150 | 150 | 150 | 150 | 150 |
 |  |  |  | 1.1.1.6 - Implementar o programa ensino superior seguro, em articulação com a EISU. | Apresentação de resultados. | MAI, MCTES. |  |  | X | X | X | X |
 |  |  | 1.1.2 - Promover literacia para prevenir o crime e a vitimação. | 1.1.2.1 - Desenvolver estratégia de informação e comunicação de âmbito nacional nos órgãos de comunicação social e no digital para promoção de ambientes saudáveis e de uma cultura de não violência. | N.º de campanhas genéricas. | MAI, MJ, MAAP, MS. | AMCV, APAV, IAC, UMAR e outras ONG. | 2 | 2 | 2 | 2 | 2 |
-|  |  | 1.1.2 - Promover literacia para prevenir o crime e a vitimação. | 1.1.2.1 - Desenvolver estratégia de informação e comunicação de âmbito nacional nos órgãos de comunicação social e no digital para promoção de ambientes saudáveis e de uma cultura de não violência. | N.º de campanhas dirigidas a vítimas especialmente vulneráveis. |  |  | 3 | 3 | 3 | 3 | 3 |
+|  |  | N.º de campanhas dirigidas a vítimas especialmente vulneráveis. |  |  | 3 | 3 | 3 | 3 | 3 |  |  |
 |  |  |  | 1.1.2.2 - Desenvolver ações nas escolas que facilitem o reconhecimento de comportamentos disruptivos passíveis de configurar atos qualificados pela lei como crime. | Realizar ações de sensibilização dirigidas à comunidade escolar. | MAI, MJ, ME, MS. | ONG. | 100 | 100 | 100 | 100 | 100 |
-|  |  |  | 1.1.2.2 - Desenvolver ações nas escolas que facilitem o reconhecimento de comportamentos disruptivos passíveis de configurar atos qualificados pela lei como crime. | Aumento percentual do n.º de Escolas com o Selo Escola Sem Bullying Escola Sem Violência. |  |  | 2 % | 3 % | 4 % | 5 % | 6 % |
+|  |  |  | Aumento percentual do n.º de Escolas com o Selo Escola Sem Bullying Escola Sem Violência. |  |  | 2 % | 3 % | 4 % | 5 % | 6 % |  |
 |  |  |  |  | Aumento percentual do n.º de Escolas com o Selo Protetor. |  |  | 2 % | 3 % | 4 % | 5 % | 6 % |
 |  |  |  |  | Aumento percentual do n.º de escolas com o Selo Escola Saudável. |  |  | 2 % | 3 % | 4 % | 5 % | 6 % |
 |  |  |  |  | Desenvolver projetos-piloto «Escola restaurativa». |  |  | 20 | 100 | 100 | 100 | 100 |
@@ -519,28 +535,28 @@ Estratégia Nacional para os Direitos das Vítimas de Crime (ENDVC)
 |  |  |  | 1.2.1.2 - Desenvolver estratégia de informação e comunicação de âmbito nacional nos órgãos de comunicação social e no digital que informe sobre a existência de processos de vitimação. | N.º de campanhas. | MAI, MJ, MAAP, MS. | AMCV, APAV, IAC, UMAR e outras ONG. | 1 | 1 | 1 | 1 | 1 |
 |  | OG1.3 - Consciencializar para as consequências do crime. | 1.3.1 - Promover literacia para as consequências do crime. | 1.3.1.1 - Dinamizar ações de informação sobre a Lei Tutelar Educativa e legislação conexa como forma de educar as crianças e jovens para o Direito. | N.º de ações por turma dirigidas a alunos dos 2.º e 3.º ciclos do ensino básico e secundário. | MAI, MJ, ME. | PGR, ONG. |  | 1 | 1 | 1 | 1 |
 | EE2 - Informação e acesso à justiça. | OG2.1 - Facilitar e promover a queixa/ participação/ denúncia de crimes. | 2.1.1 - Incrementar a acessibilidade e diversificar os instrumentos para efeitos de apresentação de queixa/participação/denúncia de crimes. | 2.1.1.1 - Aperfeiçoar os instrumentos existentes de queixa/participação/denúncia online, ponderando a inclusão de outras valências informativas e/ou de prova. | Apresentação de proposta legislativa. | MAI, MJ. | PGR. |  | X |  |  |  |
-|  |  | 2.1.1 - Incrementar a acessibilidade e diversificar os instrumentos para efeitos de apresentação de queixa/participação/denúncia de crimes. | 2.1.1.2 - Avaliar a possibilidade de alargar a experiência dos GAV junto dos DIAP a outras vítimas especialmente vulneráveis e aumentar a implantação territorial respetiva. | Apresentação de estudo. | MJ. | PGR, AMCV, APAV, UMAR e outras ONG. |  | X |  |  |  |
-|  |  |  | 2.1.1.2 - Avaliar a possibilidade de alargar a experiência dos GAV junto dos DIAP a outras vítimas especialmente vulneráveis e aumentar a implantação territorial respetiva. | N.º de respostas. |  |  | 2 | 2 | 4 | 4 | 3 |
+|  |  | 2.1.1.2 - Avaliar a possibilidade de alargar a experiência dos GAV junto dos DIAP a outras vítimas especialmente vulneráveis e aumentar a implantação territorial respetiva. | Apresentação de estudo. | MJ. | PGR, AMCV, APAV, UMAR e outras ONG. |  | X |  |  |  |  |
+|  |  |  | N.º de respostas. |  |  | 2 | 2 | 4 | 4 | 3 |  |
 |  |  |  | 2.1.1.3 - Assegurar a existência de protocolos articulados entre OPC e autoridades judiciárias para receção de denúncias realizadas por crianças que sejam seguros, confidenciais, acessíveis e concebidos de uma forma e numa linguagem adaptadas àquelas, em função da sua idade e maturidade. | Aperfeiçoamento dos protocolos de atuação. | MDN, MAI, MJ. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. | X |  |  |  |  |
 |  |  | 2.1.2 - Mitigar obstáculos que dificultem a participação de crimes. | 2.1.2.1 - Avaliar a possibilidade de, até à conclusão da primeira avaliação individual de necessidades de proteção da vítima, ser assegurado que não são transferidos dados pessoais relativos ao estatuto de residente da vítima para as autoridades competentes em matéria de imigração. | Apresentação de estudo. | MAI, MJ, MAAP. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. | X |  |  |  |  |
 |  |  |  | 2.1.2.2 - Criar uma resposta nacional que viabilize serviços de tradução e de interpretação certificadas a partir da experiência do STT, para apoio aos OPC, tribunais, serviços de apoio à vítima e de outros serviços públicos e do setor social. | Apresentação de proposta legislativa. | MDN, MAI, MJ, MAAP. | AMCV, APAV, IAC, UMAR e outras ONG. | X |  |  |  |  |
-|  |  |  | 2.1.2.2 - Criar uma resposta nacional que viabilize serviços de tradução e de interpretação certificadas a partir da experiência do STT, para apoio aos OPC, tribunais, serviços de apoio à vítima e de outros serviços públicos e do setor social. | Criação da resposta. |  |  |  | X |  |  |  |
+|  |  |  | Criação da resposta. |  |  |  | X |  |  |  |  |
 |  | OG2.2 - Capacitar as vítimas para a participação no processo penal. | 2.2.1 - Divulgar serviços de apoio à vítima e de justiça. | 2.2.1.1 - Criar materiais informativos sobre os direitos das vítimas e serviços de apoio existentes, também adaptados a vítimas com necessidades especiais e com tradução para as línguas oficiais da UE e/ou outras de expressão significativa, em diferentes suportes. | Disponibilização dos materiais. | MAI, MJ, MAAP. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  | X |  |  |  |
 |  |  |  | 2.2.1.2 - Consolidar a linha nacional de apoio à vítima dinamizada pela APAV, agregando e reencaminhando para linhas existentes dedicadas a vítimas especialmente vulneráveis. | Levantamento dos serviços existentes. | SDMA, MAI, MJ, MAAP, MTSSS. | PGR, APAV e outras ONG. | X |  |  |  |  |
-|  |  |  | 2.2.1.2 - Consolidar a linha nacional de apoio à vítima dinamizada pela APAV, agregando e reencaminhando para linhas existentes dedicadas a vítimas especialmente vulneráveis. | Identificação das entidades a envolver na conexão de linhas. |  |  |  | X |  |  |  |
+|  |  |  | Identificação das entidades a envolver na conexão de linhas. |  |  |  | X |  |  |  |  |
 |  |  |  |  | Disponibilização da linha telefónica atualizada. |  |  |  |  | X |  |  |
 |  |  |  | 2.2.1.3 - Criar solução digital com componente móvel que, com georreferenciação, permita, v.g., aceder a informação sobre direitos e serviços, apresentar queixa/participação/denúncia, aceder a informação sobre o estado do processo, incluindo na fase pós-sentencial, em português e nas línguas oficiais da UE e/ou outras de expressão significativa. | Disponibilização da solução. | MAI, MJ, MAAP. | ANMP, CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  |  |  |  | X |
 |  |  | 2.2.2 - Promover proximidade das vítimas no acesso ao direito. | 2.2.2.1 - Avaliar e reforçar a cobertura nacional dos serviços de consulta jurídica. | Apresentação de proposta de alteração legislativa. | MJ, MTSSS, MCT. | ANMP, OA, ONG. |  | X |  |  |  |
-|  |  | 2.2.2 - Promover proximidade das vítimas no acesso ao direito. | 2.2.2.1 - Avaliar e reforçar a cobertura nacional dos serviços de consulta jurídica. | Disponibilização da rede. | MJ, MTSSS, MCT. | ANMP, OA, ONG. |  |  | X |  |  |
+|  |  | Disponibilização da rede. |  |  | X |  |  |  |  |  |  |
 |  | OG2.3 - Garantir o acesso à justiça em condições de igualdade para todas as vítimas. | 2.3.1 - Melhorar a informação às vítimas e a forma como é comunicada. | 2.3.1.1 - Garantir a tradução dos modelos de estatuto da vítima para as línguas oficiais da UE e/ou outras de expressão significativa. | Disponibilização da tradução. | MAI, MJ, MAAP. | CSM, PGR, OA, ONG. |  | X |  |  |  |
-|  | OG2.3 - Garantir o acesso à justiça em condições de igualdade para todas as vítimas. | 2.3.2 - Facilitar o acesso da vítima à justiça. | 2.3.2.1 - Garantir consulta jurídica e/ou nomeação automática gratuita de mandatário/defensor oficioso para vítimas especialmente vulneráveis a definir. | Apresentação de proposta legislativa. | MJ, MTSSS. | ANMP, OA, ONG. | X |  |  |  |  |
+|  | 2.3.2 - Facilitar o acesso da vítima à justiça. | 2.3.2.1 - Garantir consulta jurídica e/ou nomeação automática gratuita de mandatário/defensor oficioso para vítimas especialmente vulneráveis a definir. | Apresentação de proposta legislativa. | MJ, MTSSS. | ANMP, OA, ONG. | X |  |  |  |  |  |
 |  |  |  | 2.3.2.2 - Avaliar a possibilidade de criar um regime de concessão de apoio judiciário que baseie a apreciação da insuficiência económica exclusivamente no rendimento do requerente quando o litígio oponha um ou mais elementos do agregado familiar e que tenha em linha de conta a realidade financeira/económica atual da vítima. | Apresentação de estudo, que inclua proposta legislativa. | MJ, MTSSS. | CSM, PGR, OA, ONG. |  |  |  | X |  |
 |  |  |  | 2.3.2.3 - Avaliar a possibilidade de criar um regime que assegure a nomeação preferencial do mesmo mandatário/defensor oficioso à vítima quando o mesmo facto gerar vários processos. | Apresentação de proposta legislativa. | MJ, MTSSS. | CSM, PGR, OA, ONG. | X |  |  |  |  |
 | EE3 - Acesso aos serviços de apoio à vítima. | OG3.1 - Garantir à vítima o direito de acesso a serviços de apoio. | 3.1.1 - Articular as respostas orientadas às necessidades individuais das vítimas. | 3.1.1.1 - Mapear os recursos e serviços de apoio à vítima. | Apresentação do mapeamento. | MAI, MJ, MAAP, MTSSS, MCT. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. |  | X |  |  |  |
-| EE3 - Acesso aos serviços de apoio à vítima. | OG3.1 - Garantir à vítima o direito de acesso a serviços de apoio. | 3.1.1 - Articular as respostas orientadas às necessidades individuais das vítimas. | 3.1.1.2 - Garantir a cobertura nacional de uma rede de serviços de apoio à vítima, que inclua serviços especializados para vítimas especialmente vulneráveis. | Celebrar parcerias. | MAI, MJ, MAAP, MTSSS, MCT. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. |  |  | X |  |  |
-|  |  | 3.1.1 - Articular as respostas orientadas às necessidades individuais das vítimas. | 3.1.1.2 - Garantir a cobertura nacional de uma rede de serviços de apoio à vítima, que inclua serviços especializados para vítimas especialmente vulneráveis. | Entrada em funcionamento da rede. |  |  |  |  |  | X |  |
+| 3.1.1.2 - Garantir a cobertura nacional de uma rede de serviços de apoio à vítima, que inclua serviços especializados para vítimas especialmente vulneráveis. | Celebrar parcerias. | MAI, MJ, MAAP, MTSSS, MCT. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. |  |  | X |  |  |  |  |  |
+|  |  | Entrada em funcionamento da rede. |  |  |  |  |  | X |  |  |  |
 |  |  |  | 3.1.1.3 - Estabelecer modelo e protocolos de encaminhamento e referenciação entre os OPC e os serviços de apoio à vítima. | Apresentação de modelo. | MDN, MAI, MJ, MAAP, MTSSS, MCT. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. |  |  | X |  |  |
-|  |  |  | 3.1.1.3 - Estabelecer modelo e protocolos de encaminhamento e referenciação entre os OPC e os serviços de apoio à vítima. | Celebração de protocolos. | MDN, MAI, MJ, MAAP, MTSSS, MCT. | PGR, AMCV, APAV, IAC, UMAR e outras ONG. |  |  |  | X |  |
+|  |  |  | Celebração de protocolos. |  |  |  | X |  |  |  |  |
 |  |  | 3.1.2 - Simplificar o processo de acesso aos serviços de apoio à vítima. | 3.1.2.1 - Definir o percurso da vítima. | Definição do fluxo do percurso da vítima e do quadro de funções/responsabilidades. | MAI, MJ, MAAP, MTSSS. | AMCV, APAV, IAC, UMAR e outras ONG. |  | X |  |  |  |
 |  | OG3.2 - Garantir à vítima o direito de acesso a serviços de saúde. | 3.2.1 - Melhorar os cuidados e respostas do SNS em situações de vitimação. | 3.2.1.1 - Garantir o direito a n.º de utente do SNS para as vítimas, mesmo quando indocumentadas, sem obrigatoriedade de representante legal. | Publicação de circular normativa. | MAAP, MS. |  |  | X |  |  |  |
 |  |  |  | 3.2.1.2 - Garantir a não rastreabilidade das vítimas nos sistemas de registo do SNS. | Adequação dos sistemas de informação. | MS. |  |  | X |  |  |  |
@@ -549,20 +565,20 @@ Estratégia Nacional para os Direitos das Vítimas de Crime (ENDVC)
 |  |  |  | 3.2.1.4 - Criar centros de atendimento para vítimas de violência sexual nas urgências dos hospitais. | N.º de projetos-piloto. | MJ, MAAP, MS. |  |  | 1 | 1 | 1 | 1 |
 |  | OG3.3 - Valorizar os serviços de apoio à vítima. | 3.3.1 - Reforçar o estatuto legal dos serviços de apoio à vítima. | 3.3.1.1 - Reconhecer os serviços de apoio à vítima como serviços essenciais de interesse público. | Apresentação de proposta legislativa. | MJ. | AMCV, APAV, IAC, UMAR e outras ONG. | X |  |  |  |  |
 |  | OG3.4 - Garantir a integridade dos direitos das crianças e jovens vítimas em acolhimento de emergência ou casas de abrigo. | 3.4.1 - Efetivar cuidados de saúde, reabilitação, educação ou outros, adequados à criança ou jovem vítima. | 3.4.1.1 - Estabelecer modelo e protocolos de encaminhamento e de referenciação. | Apresentação de modelos. | MJ, MAAP, ME, MTSSS, MS. | ANMP, ANFRE. ONG. |  |  | X |  |  |
-|  | OG3.4 - Garantir a integridade dos direitos das crianças e jovens vítimas em acolhimento de emergência ou casas de abrigo. | 3.4.1 - Efetivar cuidados de saúde, reabilitação, educação ou outros, adequados à criança ou jovem vítima. |  | Apresentação de protocolos. |  |  |  |  |  | X |  |
+|  |  | Apresentação de protocolos. |  |  |  |  |  | X |  |  |  |
 | EE4 - Participação da vítima no processo penal. | OG4.1 - Fomentar a participação da vítima no processo penal. | 4.1.1 - Garantir o acesso a tradutor e/ou intérprete ao longo das várias fases do processo penal. | 4.1.1.1 - Disponibilizar o recurso a serviço de tradução e/ou de interpretação, sempre que avaliado como necessário. | Apresentação de proposta legislativa, que regule as condições de exercício das atividades de tradução e de interpretação na área da Justiça. | MAI, MJ. | CSM, PGR, OA. | X |  |  |  |  |
 |  |  |  |  | Criação de bolsa de tradutores e de intérpretes. |  |  |  | X |  |  |  |
 |  |  | 4.1.2 - Facilitar a mobilidade das vítimas especialmente vulneráveis para efeitos de comparência em diligências processuais distantes do local onde residem ou onde se encontram. | 4.1.2.1 - Criar mecanismos de transporte gratuito, sempre que os custos e/ou distância sejam obstáculo à comparência da vítima às diligências necessárias. | Criação do mecanismo. | MAI, MJ, MF, MAAP, MTSSS. | ANAFRE, ANMP. |  |  |  | X |  |
-|  |  | 4.1.2 - Facilitar a mobilidade das vítimas especialmente vulneráveis para efeitos de comparência em diligências processuais distantes do local onde residem ou onde se encontram. | 4.1.2.1 - Criar mecanismos de transporte gratuito, sempre que os custos e/ou distância sejam obstáculo à comparência da vítima às diligências necessárias. | Início de aplicação do mecanismo. | MAI, MJ, MF, MAAP, MTSSS. |  |  |  |  |  | X |
+|  |  | Início de aplicação do mecanismo. |  |  |  |  |  | X |  |  |  |
 |  |  | 4.1.3 - Conceder poderes de conformação processual à vítima, independentemente da constituição como assistente. | 4.1.3.1 - Avaliar a possibilidade de atribuir à vítima mais poderes de intervenção no processo penal, v.g. através de incidentes de recusa, pedidos de aceleração processual, audição em sede de suspensão provisória do processo, reação a despachos de acusação/arquivamento e de pronúncia/não pronúncia, interposição de recursos e execução da pena. | Apresentação de estudo. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
 |  | OG4.2 - Proteger as vítimas e reconhecer as vítimas com necessidades especiais de proteção. | 4.2.1 - Reforçar o regime jurídico de proteção e assistência à vítima. | 4.2.1.1 - Consagrar um regime jurídico de proteção e assistência à vítima, que inclua medidas específicas para as vítimas especialmente vulneráveis. | Apresentação de proposta legislativa. | MJ, MAAP, MTSSS. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  |  | X |  |  |
-|  | OG4.2 - Proteger as vítimas e reconhecer as vítimas com necessidades especiais de proteção. | 4.2.2 - Adequar os espaços policiais e judiciários ao atendimento da vítima. | 4.2.2.1 - Garantir a adaptação dos espaços judiciários, de modo a assegurar a existência de salas de espera para as vítimas e, sempre que possível, entradas, canais de circulação e instalações sanitárias específicas. | % de salas. | MJ. | AMCV, APAV, IAC, UMAR e outras ONG. | 25 % | 50 % | 75 % | 90 % | 100 % |
-|  |  | 4.2.2 - Adequar os espaços policiais e judiciários ao atendimento da vítima. | 4.2.2.2 - Reforçar o número de salas de atendimento a vítimas nas instalações policiais que garantam a privacidade e confidencialidade, em articulação com o previsto na EISU. | N.º de novas salas. | MAI. | AMCV, APAV, IAC, UMAR e outras ONG. | 5-7 | 5-7 | 5-7 | 5-7 | 5-7 |
+|  | 4.2.2 - Adequar os espaços policiais e judiciários ao atendimento da vítima. | 4.2.2.1 - Garantir a adaptação dos espaços judiciários, de modo a assegurar a existência de salas de espera para as vítimas e, sempre que possível, entradas, canais de circulação e instalações sanitárias específicas. | % de salas. | MJ. | AMCV, APAV, IAC, UMAR e outras ONG. | 25 % | 50 % | 75 % | 90 % | 100 % |  |
+|  |  | 4.2.2.2 - Reforçar o número de salas de atendimento a vítimas nas instalações policiais que garantam a privacidade e confidencialidade, em articulação com o previsto na EISU. | N.º de novas salas. | MAI. | AMCV, APAV, IAC, UMAR e outras ONG. | 5-7 | 5-7 | 5-7 | 5-7 | 5-7 |  |
 |  |  | 4.2.3 - Adequar os protocolos de atuação processuais ao atendimento da vítima. | 4.2.3.1 - Adotar protocolos policiais e judiciários que impeçam contacto físico e/ou visual entre vítima e infrator durante diligências processuais. | Apresentação de proposta destinada aos OPC. | MDN, MAI, MJ. | CSM, PGR. |  | X |  |  |  |
-|  |  | 4.2.3 - Adequar os protocolos de atuação processuais ao atendimento da vítima. | 4.2.3.1 - Adotar protocolos policiais e judiciários que impeçam contacto físico e/ou visual entre vítima e infrator durante diligências processuais. | Apresentação de proposta destinada às autoridades judiciárias. |  |  |  | X |  |  |  |
+|  |  | Apresentação de proposta destinada às autoridades judiciárias. |  |  |  | X |  |  |  |  |  |
 |  |  |  | 4.2.3.2 - Adotar/ajustar protocolos que facilitem a recolha de prova por pessoa de género da preferência da vítima sempre que possível. | Apresentação de proposta que compreenda os OPC e o INMLCF. | MDN, MAI, MJ. |  |  |  | X |  |  |
 |  |  | 4.2.4 - Operacionalizar medidas de proteção das vítimas, mitigando o risco de vitimação secundária. | 4.2.4.1 - Avaliar a possibilidade de tornar obrigatória a tomada de declarações para memória futura quanto a vítimas especialmente vulneráveis a definir. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
-|  |  | 4.2.4 - Operacionalizar medidas de proteção das vítimas, mitigando o risco de vitimação secundária. | 4.2.4.2 - Fixar a obrigatoriedade de registo audiovisual das declarações para memória futura. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
+|  |  | 4.2.4.2 - Fixar a obrigatoriedade de registo audiovisual das declarações para memória futura. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  |  | X |  |  |
 |  |  |  | 4.2.4.3 - Garantir que as crianças e outras vítimas com necessidades específicas ao nível da comunicação são previamente informadas sobre as diligências em que participam e respetivos termos. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
 |  |  |  | 4.2.4.4 - Garantir que as crianças e outras vítimas com necessidades específicas ao nível da comunicação são sempre ouvidas com a intervenção de profissional devidamente habilitado, sem colocar em causa a direção da diligência pela autoridade judiciária. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
 |  |  |  | 4.2.4.5 - Adaptar o modelo da Casa da Criança (modelo Barnahus) para a realidade portuguesa. | Um projeto-piloto. | MAI, MJ, MTSSS. | CSM, PGR, OA, ONG. |  | X | X | X | X |
@@ -572,9 +588,9 @@ Estratégia Nacional para os Direitos das Vítimas de Crime (ENDVC)
 |  |  |  | 4.2.4.9 - Garantir o acompanhamento da vítima por representante de serviço de apoio à vítima em qualquer diligência em que esta participe, sempre que o pretenda. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  |  |  | X |  |
 |  |  |  | 4.2.4.10 - Rever o regime relativo ao convívio de crianças e jovens vítimas de violência doméstica e de violência sexual com os infratores, pelo menos enquanto perdurarem situações de risco elevado. | Apresentação de estudo. | MJ. | CSM, PGR, OA. |  |  |  | X |  |
 |  |  |  | 4.2.4.11 - Criar resposta que permita retirar o infrator da casa de morada de família e encaminhá-lo para os recursos sociais existentes na comunidade. | Apresentação de proposta legislativa e de um projeto-piloto. | MAI, MJ, MAAP, MTSSS. | CSM, PGR, OA, ONG. |  | X |  |  |  |
-|  |  |  | 4.2.4.11 - Criar resposta que permita retirar o infrator da casa de morada de família e encaminhá-lo para os recursos sociais existentes na comunidade. | Um projeto-piloto. |  |  |  |  | X | X | X |
+|  |  |  | Um projeto-piloto. |  |  |  |  | X | X | X |  |
 |  | OG4.3 - Avaliar individualmente as necessidades de proteção e diagnosticar o risco. | 4.3.1 - Garantir a realização de avaliação individual das necessidades de proteção. | 4.3.1.1 - Concretizar a forma como deve ser realizada a avaliação individual das necessidades de proteção da vítima. | Apresentação de proposta legislativa. | MAI, MJ, MAAP, MTSSS. | CSM, PGR, ONG. |  | X |  |  |  |
-|  | OG4.3 - Avaliar individualmente as necessidades de proteção e diagnosticar o risco. | 4.3.1 - Garantir a realização de avaliação individual das necessidades de proteção. | 4.3.1.1 - Concretizar a forma como deve ser realizada a avaliação individual das necessidades de proteção da vítima. | Apresentação de instrumento de avaliação. |  |  |  |  | X |  |  |
+|  | Apresentação de instrumento de avaliação. |  |  |  |  | X |  |  |  |  |  |
 |  | OG4.4 - Promover a Justiça Restaurativa nos casos em que for legalmente admissível. | 4.4.1 - Fomentar o recurso a processos de Justiça Restaurativa. | 4.4.1.1 - Realizar ações de formação sobre Justiça Restaurativa dirigidas a magistrados, advogados, mediadores/facilitadores, oficiais de justiça e outros stakeholders relevantes. | N.º de ações de formação. | MJ. | CSM, PGR, OA. | 5 | 5 | 5 | 5 | 5 |
 |  |  | 4.4.2 - Fomentar a existência de serviço(s) de Justiça Restaurativa nas fases pré e pós-sentencial. | 4.4.2.1 - Assegurar a disponibilização de serviço(s) de Justiça Restaurativa. | % de cobertura nacional. |  |  | 10 % | 25 % | 50 % | 75 % | 100 % |
 |  | OG4.5 - Garantir a justa e efetiva reparação da vítima. | 4.5.1 - Reforçar a efetivação da reparação à vítima. | 4.5.1.1 - Atribuir prioridade à reparação da vítima, quer como injunção em sede de suspensão provisória do processo, quer como condição para a suspensão da execução da pena de prisão, sempre que tal se mostre adequado e possível. | Apresentação de proposta legislativa. | MJ. | CSM, PGR, OA. |  |  | X |  |  |
@@ -584,45 +600,45 @@ Estratégia Nacional para os Direitos das Vítimas de Crime (ENDVC)
 |  |  |  |  | Dotar os recursos humanos do INMLCF de competências para realizar avaliação médico-legal do dano psicológico. |  |  |  |  | X |  |  |
 |  |  | 4.5.3 - Melhorar o processo de atribuição de indemnização à vítima. | 4.5.3.1 - Criar um fundo para a reparação das vítimas, resultante da afetação parcial das multas pagas em virtude de condenações em procedimento criminal. | Apresentação de proposta legislativa. | MJ, MF. | CSM, PGR, OA. |  |  | X |  |  |
 | EE5 - A vítima na cultura organizacional. | OG5.1 - Assegurar uma cultura organizacional promotora dos direitos da vítima e enquadradora das suas necessidades. | 5.1.1 - Melhorar a experiência das vítimas no sistema de justiça. | 5.1.1.1 - Realizar levantamento de boas práticas nacionais e comparadas. | Apresentação de relatório sobre boas práticas, que inclua plano de ação para a aplicação respetiva. | MJ. |  |  |  |  | X |  |
-| EE5 - A vítima na cultura organizacional. | OG5.1 - Assegurar uma cultura organizacional promotora dos direitos da vítima e enquadradora das suas necessidades. | 5.1.2 - Assegurar a possibilidade de reação da vítima para efetivação dos seus direitos. | 5.1.2.1 - Criar instrumentos de garantia dos direitos da vítima na interação com o sistema de justiça e serviços de apoio à vítima. | Criação de canais de comunicação e de protocolos de atuação em caso de queixa da vítima por violação de direitos. | MAI, MJ, MAAP, MTSSS. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  | X |  |  |  |
+| 5.1.2 - Assegurar a possibilidade de reação da vítima para efetivação dos seus direitos. | 5.1.2.1 - Criar instrumentos de garantia dos direitos da vítima na interação com o sistema de justiça e serviços de apoio à vítima. | Criação de canais de comunicação e de protocolos de atuação em caso de queixa da vítima por violação de direitos. | MAI, MJ, MAAP, MTSSS. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  | X |  |  |  |  |  |
 |  |  |  |  | Estabelecimento e divulgação dos canais. |  |  |  |  | X | X | X |
 |  |  | 5.1.3 - Melhorar o desempenho do sistema na resposta à vítima e às suas necessidades. | 5.1.3.1 - Ponderar a realização de análise retrospetiva de casos que envolvam vítimas especialmente vulneráveis a definir, para além do que já existe. | Apresentação de proposta legislativa. | MAI, MJ, MAAP, MTSSS, MS. | CSM, PGR, OA, AMCV, APAV, IAC, UMAR e outras ONG. |  |  | X |  |  |
 |  |  | 5.1.4 - Acolher os direitos das vítimas no plano institucional. | 5.1.4.1 - Garantir que todas as instituições da administração pública contemplam o repúdio de todas as formas de violência e de assédio nos Códigos de Ética ou de Conduta. | % de instituições. | Todas as áreas governativas. |  | 10 % | 25 % | 50 % | 75 % | 100 % |
 |  |  | 5.1.5 - Reforçar os mecanismos institucionais de identificação da vitimação. | 5.1.5.1 - Desenvolver circuitos de atuação em ambiente de saúde em casos de identificação de utente vítima de crime, tendo em vista a proteção da vítima. | Apresentação de proposta, que inclua circular sobre o âmbito do dever de denúncia obrigatória (cf. artigo 242.º do CPP). | MAI, MJ, MS |  |  |  | X |  |  |
 |  |  |  | 5.1.5.2 - Desenvolver circuitos de atuação em ambiente escolar em casos de identificação de alunos vítimas de atos qualificados pela lei como crime em contexto escolar, tendo em vista a proteção da vítima. | Apresentação de proposta, que inclua circular sobre o âmbito do dever de denúncia obrigatória (cf. artigos 73.º da LTE e 242.º do CPP). | MAI, MJ, ME. |  |  |  | X |  |  |
 |  |  | 5.1.6 - Garantir apoio a vítimas em contexto laboral. | 5.1.6.1 - Desenvolver circuitos de resposta na Administração Pública dirigidos a trabalhadores que tenham sido vítimas de crime no local de trabalho. | % de serviços com circuitos de apoio psicológico implementado. | Todas as áreas governativas. |  | 5 % | 10 % | 15 % | 20 % | 25 % |
-|  |  |  | 5.1.6.1 - Desenvolver circuitos de resposta na Administração Pública dirigidos a trabalhadores que tenham sido vítimas de crime no local de trabalho. | % de serviços com circuitos de apoio jurídico implementado. | Todas as áreas governativas. |  | 5 % | 10 % | 15 % | 20 % | 25 % |
+|  |  |  | % de serviços com circuitos de apoio jurídico implementado. | Todas as áreas governativas. |  | 5 % | 10 % | 15 % | 20 % | 25 % |  |
 |  |  |  | 5.1.6.2 - Divulgar junto de entidades empregadoras do setor privado informação sobre como apoiar trabalhadores vítimas de crime no local de trabalho. | Realização de ações de sensibilização dirigidas às empresas sobre os direitos das vítimas e recursos de apoio existentes. | MAI, MJ, MTSSS, MCT. | Confederações sindicais e associações patronais. | 20 | 50 | 100 | 100 | 100 |
 |  |  |  |  | Disponibilização de materiais informativos sobre os direitos das vítimas e recursos de apoio existentes com QRCode. |  |  | 5 % | 10 % | 15 % | 20 % | 25 % |
 |  | OG5.2 - Melhorar a informação para a intervenção. | 5.2.1 - Capacitar os serviços de primeira linha no contacto com as vítimas. | 5.2.1.1 - Desenvolver ações de formação que reforcem a capacitação para a identificação de situações de vitimação e aplicação de protocolos de atuação. | N.º de ações de formação. | MAI, MJ, MAAP, MTSSS, ME, MS. | PGR, ONG. | 25 | 50 | 50 | 50 | 50 |
 |  |  | 5.2.2 - Capacitar os profissionais com intervenção nos processos judiciais na temática vítimas de crime. | 5.2.2.1 - Reforçar a formação multidisciplinar que os operadores judiciários, os OPC e as EMAT beneficiam em matéria de revitimação, vitimização secundária e técnicas de inquirição a vítimas. | N.º de ações de formação. | MDN, MAI, MJ, MTSSS. | PGR, CSM, OA, ONG. | 20 | 20 | 20 | 20 | 20 |
-|  |  | 5.2.2 - Capacitar os profissionais com intervenção nos processos judiciais na temática vítimas de crime. | 5.2.2.1 - Reforçar a formação multidisciplinar que os operadores judiciários, os OPC e as EMAT beneficiam em matéria de revitimação, vitimização secundária e técnicas de inquirição a vítimas. | Incremento do número de participantes. |  |  | 5 % | 5 % | 5 % | 5 % | 5 % |
+|  |  | Incremento do número de participantes. |  |  | 5 % | 5 % | 5 % | 5 % | 5 % |  |  |
 |  |  |  | 5.2.2.2 - Reforçar a formação multidisciplinar dos OPC sobre recolha de prova. | N.º de ações de formação. | MDN, MAI, MJ. | PGR, ONG. | 10 | 10 | 10 | 10 | 10 |
 |  |  |  |  | Incremento do número de participantes. |  |  | 5 % | 5 % | 5 % | 5 % | 5 % |
 |  |  |  | 5.2.2.3 - Reforçar a formação específica dos advogados inscritos no sistema de acesso ao direito com intervenção na área penal. | N.º de ações de formação. | MJ. | OA, ONG. | 10 | 10 | 10 | 10 | 10 |
-|  |  |  | 5.2.2.3 - Reforçar a formação específica dos advogados inscritos no sistema de acesso ao direito com intervenção na área penal. | Incremento do número de participantes. |  |  | 5 % | 5 % | 5 % | 5 % | 5 % |
+|  |  |  | Incremento do número de participantes. |  |  | 5 % | 5 % | 5 % | 5 % | 5 % |  |
 |  |  |  | 5.2.2.4 - Reforçar a formação específica de tradutores e intérpretes sobre vitimação, impacto e consequências da vitimação, reações das vítimas e comunicação com vítimas. | N.º de ações de formação. | MJ. | ONG. | 5 | 5 | 5 | 5 | 5 |
 |  |  | 5.2.3 - Capacitar os profissionais com intervenção nos processos judiciais na temática vítimas especialmente vulneráveis. | 5.2.3.1 - Reforçar a formação multidisciplinar dos magistrados sobre as consequências de convívios de crianças vítimas de violência doméstica e violência sexual com os infratores. | N.º de ações de formação. | MJ. | CSM, CSMP, ONG. | 5 | 5 | 5 | 5 | 5 |
 |  | OG 5.3 - Promover trabalho colaborativo em prol da vítima. | 5.3.1 - Garantir a criação de metodologia de trabalho de natureza multidisciplinar para vítimas especialmente vulneráveis a definir. | 5.3.1.1 - Adaptar à realidade portuguesa modelos de cooperação interinstitucional multiagências em matéria de avaliação de risco de vítimas especialmente vulneráveis de alto risco a definir, existentes no plano comparado, sem prejuízo do que já existe a nível nacional. | Apresentação de estudo. | MAI, MJ, MAAP, MTSSS. | CSM, PGR, OA, ONG. |  | X |  |  |  |
-|  | OG 5.3 - Promover trabalho colaborativo em prol da vítima. | 5.3.1 - Garantir a criação de metodologia de trabalho de natureza multidisciplinar para vítimas especialmente vulneráveis a definir. | 5.3.1.1 - Adaptar à realidade portuguesa modelos de cooperação interinstitucional multiagências em matéria de avaliação de risco de vítimas especialmente vulneráveis de alto risco a definir, existentes no plano comparado, sem prejuízo do que já existe a nível nacional. | Um projeto-piloto. |  |  |  |  | X | X | X |
+|  | Um projeto-piloto. |  |  |  |  | X | X | X |  |  |  |
 |  | OG5.4 - Garantir adequada presença da vítima nos OCS. | 5.4.1 - Fomentar comunicação positiva e consciente. | 5.4.1.1 - Realizar ações de formação dirigidas aos OCS sobre como comunicar episódios de vitimação. | N.º de ações de formação. | MAI, MJ, MAAP, MC. | ERC, ONG. | 10 | 10 | 10 | 10 | 10 |
-|  | OG5.4 - Garantir adequada presença da vítima nos OCS. | 5.4.1 - Fomentar comunicação positiva e consciente. | 5.4.1.2 - Incentivar iniciativas de autorregulação dos OCS sobre como noticiar situações que envolvam violência/vítimas. | Apresentação de documento único de compromisso. | MAI, MJ, MAAP, MC. | ERC, ONG. |  |  |  |  | X |
+|  | 5.4.1.2 - Incentivar iniciativas de autorregulação dos OCS sobre como noticiar situações que envolvam violência/vítimas. | Apresentação de documento único de compromisso. | MAI, MJ, MAAP, MC. | ERC, ONG. |  |  |  |  | X |  |  |
 | EE6 - Conhecimento, financiamento, monitorização e avaliação. | OG6.1 - Consolidar e reforçar o conhecimento sobre a vítima. | 6.1.1 - Conhecer a realidade e estatísticas da vitimação em Portugal. | 6.1.1.1 - Realizar inquérito nacional de vitimação, incluindo a violência de género prevista na ENIND. | Realização de inquérito. | MAI, MJ, MAAP. | Academia, ONG. |  |  |  | X |  |
 |  |  | 6.1.2 - Investir no estudo de medidas de política criminal comparadas com impacto na prevenção/diminuição da vitimação. | 6.1.2.1 - Realizar estudo comparado que identifique medidas com maior impacto positivo no fenómeno da vitimação. | Apresentação de estudo. | MJ. | Academia. |  |  | X |  |  |
 |  |  | 6.1.3 - Conhecer o universo real da tipologia de vítimas de crime presentes na tramitação processual dos tribunais, facilitando a definição de políticas públicas. | 6.1.3.1 - Acautelar a identificação inequívoca da tipologia de vítima no sistema de tramitação processual dos tribunais. | Desenvolvimento de alterações no CITIUS. | MJ. |  |  |  |  | X |  |
-|  |  | 6.1.3 - Conhecer o universo real da tipologia de vítimas de crime presentes na tramitação processual dos tribunais, facilitando a definição de políticas públicas. | 6.1.3.1 - Acautelar a identificação inequívoca da tipologia de vítima no sistema de tramitação processual dos tribunais. | Recolha estatística. | MJ. |  |  |  |  |  | X |
-|  |  | 6.1.3 - Conhecer o universo real da tipologia de vítimas de crime presentes na tramitação processual dos tribunais, facilitando a definição de políticas públicas. | 6.1.3.2 - Identificar as medidas de proteção e decisões judiciais finais aplicadas às tipologias de vítimas especialmente vulneráveis. | Desenvolvimento de alterações no CITIUS. | MJ. |  |  |  |  | X |  |
-|  |  | 6.1.3 - Conhecer o universo real da tipologia de vítimas de crime presentes na tramitação processual dos tribunais, facilitando a definição de políticas públicas. | 6.1.3.2 - Identificar as medidas de proteção e decisões judiciais finais aplicadas às tipologias de vítimas especialmente vulneráveis. | Recolha estatística. |  |  |  |  |  |  | X |
+|  |  | Recolha estatística. |  |  |  |  | X |  |  |  |  |
+|  |  | 6.1.3.2 - Identificar as medidas de proteção e decisões judiciais finais aplicadas às tipologias de vítimas especialmente vulneráveis. | Desenvolvimento de alterações no CITIUS. | MJ. |  |  |  |  | X |  |  |
+|  |  | Recolha estatística. |  |  |  |  |  |  | X |  |  |
 |  |  | 6.1.4 - Adotar metodologias de medição da severidade criminal, potenciando análise mais compreensiva da realidade. | 6.1.4.1 - Definir e adotar metodologia e indicadores para medição da severidade criminal, em articulação com o previsto na EISU. | Apresentação de proposta. | MAI, MJ. |  |  | X |  |  |  |
-|  |  | 6.1.4 - Adotar metodologias de medição da severidade criminal, potenciando análise mais compreensiva da realidade. | 6.1.4.1 - Definir e adotar metodologia e indicadores para medição da severidade criminal, em articulação com o previsto na EISU. | Disponibilização de dados estatísticos. |  |  |  |  | X | X | X |
+|  |  | Disponibilização de dados estatísticos. |  |  |  |  | X | X | X |  |  |
 |  |  | 6.1.5 - Melhorar os sistemas de registo de saúde em casos de violência interpessoal. | 6.1.5.1 - Criar módulo específico de registo na área das crianças e jovens em risco no E-Boletim de saúde infantil e juvenil e notícia de nascimento digital, integrado no registo de saúde eletrónico - RSE-AP. | Disponibilização do módulo. | MS. |  | X |  |  |  |  |
 |  | OG6.2 - Assegurar financiamento para a execução da ENDVC. | 6.2.1 - Garantir a sustentabilidade financeira da ENDVC. | 6.2.1.1 - Criar especificação no OGE dedicada à vítima de crime, para além do que já exista. | Apresentação de proposta legislativa. | MF. |  |  | X |  |  |  |
 |  |  |  | 6.2.1.2 - Avaliar a possibilidade de criar fontes de financiamento próprias no plano interno. | Identificação das fontes de financiamento. | MJ, MF, MTSSS. | ONG. |  | X |  |  |  |
 |  |  |  | 6.2.1.3 - Incrementar o número de candidaturas a fontes de financiamento europeias alinhadas com os objetivos da ENDVC. | Identificação de fontes de financiamento europeias. | MAI, MJ, MF, MAAP, MC, MCTES, ME, MTSSS, MS, MCT. | ONG. | x |  |  |  |  |
-|  |  |  | 6.2.1.3 - Incrementar o número de candidaturas a fontes de financiamento europeias alinhadas com os objetivos da ENDVC. | N.º de candidaturas submetidas. | MAI, MJ, MF, MAAP, MC, MCTES, ME, MTSSS, MS, MCT. |  | 1 | 2 | 3 | 4 | 5 |
+|  |  |  | N.º de candidaturas submetidas. |  | 1 | 2 | 3 | 4 | 5 |  |  |
 |  | OG6.3 - Promover visão integrada e alinhamento entre a ENDVC e outras Estratégias Nacionais em execução. | 6.3.1 - Garantir harmonização e não sobreposição entre a ENDVC e outras Estratégias Nacionais. | 6.3.1.1 - Institucionalizar reuniões de articulação. | N.º de reuniões realizadas. | MJ. |  | 2 | 2 | 2 | 2 | 2 |
 |  | OG6.4 - Monitorizar e avaliar a ENDVC. | 6.4.1 - Garantir a avaliação da execução da ENDVC. | 6.4.1.1 - Realizar avaliação intermédia da execução da ENDVC. | Contratar a realização da avaliação. | MAI, MJ, MF, MAAP, MCTES, ME, MTSSS, MS, MCT. | Todas as partes interessadas. | X |  | X |  |  |
-|  | OG6.4 - Monitorizar e avaliar a ENDVC. | 6.4.1 - Garantir a avaliação da execução da ENDVC. | 6.4.1.1 - Realizar avaliação intermédia da execução da ENDVC. | Apresentação dos resultados. | MAI, MJ, MF, MAAP, MCTES, ME, MTSSS, MS, MCT. |  |  |  |  | X |  |
+|  | Apresentação dos resultados. |  |  |  |  | X |  |  |  |  |  |
 |  |  |  | 6.4.1.2 - Realizar a avaliação final da execução da ENDVC, incluindo avaliação de impacto. | Contratar a realização da avaliação. |  |  |  |  |  |  | X |
 
 Lista de siglas e abreviaturas
@@ -714,3 +730,5 @@ STT - Serviço Telefónico de Tradução.
 UE - União Europeia.
 
 UMAR - União Mulheres Alternativa e Resposta.
+
+117208145

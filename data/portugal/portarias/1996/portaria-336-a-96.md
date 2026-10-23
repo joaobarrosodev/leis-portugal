@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 179/1996, 1º Suplemento, Série I-B de 1996-08-03
   number: '179'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2324-(2) a 2324-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/179b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/336-a/1996/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-a-1996-305587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81bd7a51caef8a7f9e61dab319842c0ffd7b1299389500b8f8fac0ddf3489bd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59a789b4b7a78c8024c0bda8a9f5f0564779da972f242fd748b96fcb715bdd58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,23 @@ reuse:
 subjects:
 - Ensino Oficial
 - Ensino Superior Politécnico
-- Numerus Clausus
 - Estabelecimento de Ensino
-relationships: []
+- Numerus Clausus
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:11Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +127,7 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 1 de Agosto de 1996.**
+Assinada em 1 de Agosto de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -133,4 +137,4 @@ Cursos de estudos superiores especializados
 
 Vagas para o ano lectivo de 1996-1997
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/179b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/1996/08/179b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/179b01/00020003.pdf)

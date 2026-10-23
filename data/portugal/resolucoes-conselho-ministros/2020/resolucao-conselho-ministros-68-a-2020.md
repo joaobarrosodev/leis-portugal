@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 168/2020, 1º Suplemento, Série I de 2020-08-28
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 168-(2) a 168-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68-a/2020/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-a-2020-141469892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2b78bd9c5091722c8af5fbf96aec5f0c8e82ba1fc9da76201e967ed821460b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1247d1492846a21040600880ad257822afbb634a4c5d35667f49a06deceb4e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
 subjects:
 - Abastecimento de BENS Essenciais
 - ÁREA Metropolitana
-- Crime
-- Proteção Civil
-- Espetáculos e Divertimentos Públicos
-- Circulação de Pessoas
-- Controlo Sanitário
-- Saúde Pública
-- Estabelecimento de Bebidas
-- Estabelecimento de Restauração
-- Lisboa
 - Catástrofe
-- Horário de Funcionamento
-- Isolamento Profiláctico
 - Circulação de Mercadorias
+- Circulação de Pessoas
+- Comércio
+- Comunicações
+- Controlo Sanitário
+- Crime
 - Doença Infecciosa
 - Epidemia
-- Comunicações
-- Comércio
-- Situação de Contingência
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Horário de Funcionamento
+- Isolamento Profiláctico
+- Lisboa
+- Proteção Civil
+- Saúde Pública
 - Situação de Alerta
+- Situação de Contingência
 relationships:
 - type: amended_by
   target: pt:dre:142601170:por
@@ -111,16 +111,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/55-a/2020/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55-a/2020/07/31/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139207969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:142601170:por
+  label: Revogada, a partir de 16.09.2020 e com efeitos a 15.09.2020, pelo(a) Resolução do Conselho de Ministros n.º 70-A/2020
+    - Diário da República n.º 178/2020, 1º Suplemento, Série I de 2020-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-a-2020-142601170
+  date: '2020-09-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:58Z'
   warnings: []
   errors: []
 ---
@@ -152,3 +178,5 @@ b) ...
 2 - Determinar que a presente resolução produz efeitos às 00:00 h do dia 1 de setembro de 2020.
 
 Presidência do Conselho de Ministros, 27 de agosto de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113529182

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01600/0047600477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/19/2019/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2019-118287707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe01dd2964cdf9e1040dd69b73f321bedae1dc2bc343d15034b255c5322da142
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25cd4ef358ee867e940e81273d4543a3a2d44eb82ea2c342e1bfad6b33495e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
-- Delegação de Competências
-- Secretaria Geral
-- Entidade de Serviços Partilhados da Administração Pública
 - Cultura
-- Presidência do Conselho de Ministros
-- Secretário Geral
+- Delegação de Competências
+- Entidade de Serviços Partilhados da Administração Pública
 - Governo XXI
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+- Secretário Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544577:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:13Z'
   warnings: []
   errors: []
 ---
@@ -149,4 +173,6 @@ Presidência do Conselho de Ministros, 10 de janeiro de 2019. - O Primeiro-Minis
 
 Prestação de serviços de higiene e limpeza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01600/0047600477.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01600/0047600477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01600/0047600477.pdf)
+
+111997902

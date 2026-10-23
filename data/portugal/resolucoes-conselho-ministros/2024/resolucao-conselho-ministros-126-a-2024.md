@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18101/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/126-a/2024/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-a-2024-888218912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cacbab5aacd6f60928e294afeedcc20dc5abb8180caa8945b0e4448cbd3f85d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b08a78690623984cb45af358427458ff9e67873104af8c56bc63fc499a0123b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Proteção Civil
-- Incêndio
-- Proteção da Floresta
 - Catástrofe
 - Grupo de Trabalho
+- Incêndio
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Proteção Civil
+- Proteção da Floresta
 - Região Centro
 - Região Norte
 - Regime de Apoio
 - Situação de Calamidade
 relationships:
+- type: amends
+  target: pt:numero:despacho:10836-B/2024
+  label: Determina que se mantêm as diretivas específicas relativas à atividade dos agentes de proteção civil e das entidades
+    e instituições envolvidas nas operações de proteção e socorro, nos termos e nos precisos limites determinados no Despacho
+    n.º 10836-B/2024, de 15 de setembro, Diário da República n.º 178-A/2024, Suplemento, Série II
+  source: null
+  date: '2024-09-15'
+- type: amends
+  target: pt:numero:despacho:10971-A/2024
+  label: Determina que se mantêm as diretivas específicas relativas à atividade dos agentes de proteção civil e das entidades
+    e instituições envolvidas nas operações de proteção e socorro, nos termos e nos precisos limites determinados no Despacho
+    n.º 10971-A/2024, de 17 de setembro, Diário da República n.º 180/2024, Suplemento, Série II
+  source: null
+  date: '2024-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
   label: null
@@ -94,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:105727475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887804408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887975468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:19Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +198,7 @@ i) Apoios à aquisição de equipamentos de proteção individual, veículos ope
 
 5 - Determinar, em matéria de atividade operacional, que:
 
-a) Se mantêm as diretivas específicas relativas à atividade dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro, nos termos e nos precisos limites determinados nos Despachos n.<sup>os</sup> [10836-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10836-b-2024-887804408) e [10971-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10971-a-2024-887975468);
+a) Se mantêm as diretivas específicas relativas à atividade dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro, nos termos e nos precisos limites determinados nos Despachos n.os [10836-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10836-b-2024-887804408) e [10971-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10971-a-2024-887975468);
 
 b) O trabalho suplementar dos trabalhadores da Administração Pública (direta, indireta e autónoma), bem como dos trabalhadores do setor privado que integrem o Dispositivo Especial de Combate a Incêndios Rurais, que seja prestado no contexto destes incêndios, se qualifica como trabalho suplementar em caso de força maior, para efeitos de não estar sujeito aos limites legais de duração do trabalho suplementar, designadamente os previstos no n.º 2 do artigo 120.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e no n.º 1 do artigo 211.º, aplicável por força da remissão conjugada do n.º 4 do artigo 228.º, com o n.º 2 do artigo 227.º, do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual;
 
@@ -167,3 +209,5 @@ c) Dada a necessidade excecional de aumentar o número de dias de serviço públ
 7 - Determinar que a presente resolução produz efeitos imediatos, nos termos do n.º 1 do artigo 12.º da Lei de Bases da Proteção Civil, aprovada pela [Lei n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/lei/27-2006-537862), de 3 de julho, na sua redação atual, sem prejuízo da necessidade de publicação.
 
 Presidência do Conselho de Ministros, 17 de setembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118135044

@@ -46,44 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1002-2009-1821745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9d27f4fa62f494eb3230a3732363c000b6cf31b2e399e6cc998de2eb6657870
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dda2e638755c19cc95df6e27e45a997319d3c9bd29ba4e5122896348ef878106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Ensino Superior
+- Subsídio
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:23Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1002/2009
+# Declaração de rectificação n.º 1002/2009
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 56, de 20 de Março de 2009, a p. 10766, o aviso n.º 5977/2009, rectifica-se que:
 
 Onde se lê: "...Sócrates e Leonardo d'Ávincy" deve ler-se: "Sócrates e Leonardo da Vinci".
 
 26 de Março de 2009. - O Secretário-Geral, António Raul Capaz Coelho.
+
+201627188

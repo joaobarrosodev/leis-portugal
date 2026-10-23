@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/196/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2023-835674301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677fd3782506d2fc8f86fefbbb80d1f14280a2c4d756f1df6a0056589dddc947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 396cc5c4361c2e1d247c50cb97c8817dc3638ab7c7d81bf0f23811982f70b938
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Infraestruturas de Portugal
 - Lisboa
 - Medidas Preventivas
-- Rede Ferroviária Portuguesa de Alta Velocidade
 - Porto
-- Infraestruturas de Portugal
+- Rede Ferroviária Portuguesa de Alta Velocidade
 relationships:
 - type: amended_by
   target: pt:dre:992402116:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:992402116:por
+  label: Prorrogado, a partir de 24 de dezembro de 2025, o prazo previsto no artigo 2.º do anexo à presente Resolução pelo(a)
+    Resolução do Conselho de Ministros n.º 200/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/200-2025-992402116
+  date: '2025-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:25Z'
   warnings: []
   errors: []
 ---
@@ -182,18 +196,28 @@ Compete aos municípios abrangidos pelas áreas delimitadas nas plantas constant
 
 Plantas
 
-![](https://files.diariodarepublica.pt/images/835674301/835674114.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674114.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674115.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674115.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674116.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674116.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674117.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674117.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674118.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674118.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674119.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674119.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674120.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674120.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835674301/835674121.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674301/835674121.png) |
+| --- |
+
+117177447

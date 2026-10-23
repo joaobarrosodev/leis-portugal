@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/55/2019/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2019-120837266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 595342d43234cccdfd3a13fdb70b4be1ea6625770cdca38142e6ab334be35ef8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f97618fa27ea9d1dac96d7c7a3d3113df710221db2d25262925237bd8598fc9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência Nacional
+- ANI-Agência Nacional de Inovação
+- Autoridade Nacional de Comunicações
+- Definição de Competências
+- Estratégia Portugal Espaço 2030
+- Exploração do Espaço
 - Financiamento
 - Fundação para a Ciência e a Tecnologia
-- Definição de Competências
-- Ministro da Defesa Nacional
-- Açores
 - IAPMEI
-- Utilização do Espaço
-- Exploração do Espaço
+- Ministro da Defesa Nacional
 - Transporte Espacial
-- Autoridade Nacional de Comunicações
-- ANI-Agência Nacional de Inovação
-- Estratégia Portugal Espaço 2030
+- Utilização do Espaço
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o acompanhamento da execução da estratégia nacional para o espaço «Portugal
+    Espaço 2030» prosseguida pela Agência Espacial Portuguesa Portugal Space, criada pela presente Resolução, seja exercido
+    pelo Ministro da Ciência, Tecnologia e Ensino Superior, em coordenação com o Ministro de Estado, da Economia e da Transição
+    Digital e com o Ministro da Defesa Nacional pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º
+    Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o acompanhamento pela Ministra da Ciência, Tecnologia e Ensino Superior, em
+    coordenação com o Ministro da Defesa Nacional e com o Ministro da Economia e do Mar, da execução da Estratégia Nacional
+    para o Espaço «Portugal Espaço 2030», prosseguida pela Agência Espacial Portuguesa Portugal Space pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -119,16 +136,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2018/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2018/03/12/p/dre
+- type: cites
+  target: pt:dre:114848692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:44Z'
   warnings: []
   errors: []
 ---
@@ -201,12 +254,14 @@ Presidência do Conselho de Ministros, 7 de março de 2019. - O Primeiro-Ministr
 
 ## ANEXO I — (a que se referem os n.os 13 e 17)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
 
 ## ANEXO II — (a que se referem os n.os 14 e 17)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
 
 ## ANEXO III — (a que se referem os n.os 16 e 17)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/05100/0157601577.pdf)
+
+112135099

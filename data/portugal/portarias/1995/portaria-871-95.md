@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/871/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/871-1995-460217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59602611559a56d1f913e1027a990dda45561993bd048bcdf67c815d120f4950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 603671d4082d2aa2a7ac483340eb752c5adeeed2607a0db1da852c942a952c0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,24 @@ relationships:
   target: pt:dre:342082:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444460:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.560/98.1998.08.20.MADRP DR.IS-B [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-1998-444460
+  date: '1998-08-20'
+- type: amended_by
+  target: pt:dre:551788:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça associativa concessionada pelo presente diploma\
+    \ alterada pela Port 560/98, de 20-Ago, pela PORT.223/2004.03.03.2004.MADRP, DR.IS-B [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2004-551788
+  date: '2004-03-03'
+- type: amended_by
+  target: pt:dre:342082:por
+  label: "Desanexados os prédios rústicos denominados «Herdade da Pereira» da zona de caça concessionada pela presente portaria,\
+    \ alterada pela Port 560/98, de 20-Ago, e renovada pela Port 223/2004, de 03-Mar, e concessionada a zona de caça turística\
+    \ da Herdade da Pereira (processo n.º 5591-AFN), pela PORT.938/2010.21.09.2010.MADRP, DR.IS [184] de 21.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-2010-342082
+  date: '2010-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -87,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/522/1994/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/522/1994/07/08/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:02Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +179,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Julho de 1995.**
+Assinada em 4 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/44844485.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/44844485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44844485.pdf)

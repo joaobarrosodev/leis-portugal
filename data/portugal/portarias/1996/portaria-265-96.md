@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/1996/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1996-413216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d94516d59c9dbdf3e4423e921471871592ac2a504187747f9240a46b9df5b791
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0456edefb2fec0db5f62bdea9e80f5822742a6546237038b77c14b2afd904fef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Extinção de Lugares
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Lisboa
 - Pessoal Técnico
 - Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
 - Pessoal Técnico de Diagnóstico e Terapêutica
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:222812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692216:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 1028/93 de 14-Out DR.IS-B [241], na redacção do presente diploma\
+    \ e da Port 695/98 de 04-Set, pela PORT.938/99.1999.10.27.PCM, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-1999-692216
+  date: '1999-10-27'
+- type: amended_by
+  target: pt:dre:222812:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Saúde Dr. Ricardo Jorge (sede), aprovado pela Port 1028/93\
+    \ de 14-Out e alterado pela presente, PORT.428/2004.26.04.2004.MF, DR.IS-B [98] de 26.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-2004-222812
+  date: '2004-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1995/05/30/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/503/1995/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/503/1995/05/26/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668319:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:25Z'
   warnings: []
   errors: []
 ---
@@ -126,14 +158,14 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, o seguinte:
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 11 de Junho de 1996.**
+Assinada em 11 de Junho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Instituto Nacional de Saúde Dr. Ricardo Jorge (sede)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf))](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf)
 
 Quadro de pessoal do Instituto Nacional de Saúde Dr. Ricardo Jorge (delegação do Porto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf))](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/166b00/20222023.pdf)

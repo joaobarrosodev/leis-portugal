@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2020/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2020-128326623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 356e1423a13882006bd5908eca71e46a553436c1e011d7db380e937c76575c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e605ce847805c3c8726f71ab944d8849e518f67d7b4f9e000e925d0eed01fc5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Luta contra a Pobreza
-- Pobreza
-- Grupo Desfavorecido
+- Assistência Social
 - Comissão Interministerial
-- Direitos do Homem
 - Conselho de Ministros
 - Definição de Competências
-- Secretaria Geral
-- Gestor
-- Grupo de Trabalho
-- Assistência Social
+- Direitos do Homem
 - Direitos do Indivíduo
-- Plano Económico e Social
-- Política Social
-- Inserção Social
-- Sem-abrigo
-- Ministro do Trabalho Solidariedade e Segurança Social
 - Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo
+- Gestor
 - Governo XXII
+- Grupo de Trabalho
+- Grupo Desfavorecido
+- Inserção Social
+- Instituto da Segurança Social
+- Luta contra a Pobreza
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Plano Económico e Social
+- Pobreza
+- Política Social
+- Secretaria Geral
+- Sem-abrigo
 relationships:
 - type: amended_by
   target: pt:dre:838639322:por
@@ -94,16 +94,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/107/2017/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/107/2017/07/25/p/dre
+- type: cites
+  target: pt:dre:107745746:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:56Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +236,7 @@ Este eixo configura um conjunto de medidas que visam o conhecimento permanente d
 
 Este eixo é composto por cinco Objetivos Estratégicos (OE) operacionalizados por um conjunto de ações que são desenvolvidas através das atividades previstas em sede de Planos de Ação bienais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
 
 Eixo n.º 2 - Reforço de uma intervenção promotora da integração das pessoas em situação de sem-abrigo
 
@@ -248,7 +252,7 @@ O reconhecimento da qualidade das respostas obedece a um conjunto de critérios 
 
 Este eixo é composto por sete Objetivos Estratégicos operacionalizados por um conjunto de ações que são desenvolvidas através das atividades previstas em sede dos Planos de Ação bienais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
 
 Eixo n.º 3 - Coordenação, monitorização e avaliação da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo 2017-2023
 
@@ -260,7 +264,7 @@ A avaliação da ENIPSSA 2017-2023 constitui-se como uma etapa essencial de todo
 
 Este eixo é composto por três Objetivos Estratégicos, operacionalizados por um conjunto de ações que serão desenvolvidas através das atividades previstas em sede dos Planos de Ação bienais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01400/0000300013.pdf)
 
 6 - Órgãos e estruturas da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo 2017-2023
 
@@ -425,3 +429,5 @@ Promover ações de sensibilização/educação da comunidade para as questões 
 Contribuir para assegurar a implementação e monitorização da ENIPSSA 2017-2023, centralizando toda a informação a nível local;
 
 Articulação permanente com o Núcleo Executivo do GIMAE e com o gestor executivo da ENIPSSA 2017-2023.
+
+112938571

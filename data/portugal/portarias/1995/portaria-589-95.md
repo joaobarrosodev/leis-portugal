@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/589/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/589-1995-517387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ecee0063406e645873d1f65a46937bb738317ee6e666ee165c145bf3f471460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 690aeb00e22645a074ab60c891c611a7953bf46748facde8fc90b53eecbc0a11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ciências da Saúde
-- Plano de Estudos
 - Curso de Ciências Farmacêuticas
 - Ensino Superior Politécnico
 - Instituto Superior de Ciências da Saúde-norte
 - Licenciatura
 - Numerus Clausus
 - Paredes
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:532846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532846:por
+  label: "Alterado o Plano de Estudos aprovado pelo presente diploma, conjugado com a Port 1101/97, de 03-Nov, pela PORT.768/99.1999.08.30.ME\
+    \ DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/768-1999-532846
+  date: '1999-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:18Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +146,7 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 15 de Maio de 1995.**
+Assinada em 15 de Maio de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -136,4 +154,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso de Ciências Farmacêuticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/138b00/39363938.pdf))](https://files.diariodarepublica.pt/1s/1995/06/138b00/39363938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/138b00/39363938.pdf)

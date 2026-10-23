@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18500/0002200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/80/2022/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2022-201414020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ee78984ac84619f10523de38c9e1f7f843ec80e30756b9844f2a5bc556a0da4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e10700e77b521b6b52528a505940a9559c507033e5171ef2214b8e27a26aa18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministério da Administração Interna
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Membros do Governo
-- Ministro da Administração Interna
 - Governo XXIII
+- Membros do Governo
+- Ministério da Administração Interna
+- Ministro da Administração Interna
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-b/2011/12/29/p/dre
@@ -99,16 +99,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1916917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:02Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +173,6 @@ Presidência do Conselho de Ministros, 15 de setembro de 2022. - O Primeiro-Mini
 
 Repartição de encargos por entidades adjudicantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/18500/0002200023.pdf))](https://files.diariodarepublica.pt/1s/2022/09/18500/0002200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/18500/0002200023.pdf)
+
+115713541

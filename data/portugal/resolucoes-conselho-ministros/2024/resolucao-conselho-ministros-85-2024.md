@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13100/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/85/2024/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/85-2024-871292365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31e67afeb598f24b6dec51d5c0e50749453e0fbd302aa9063e72b0e36242c1d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfe5b21173e572a55b4d664361ffd71e47dccbf1641b95940b7e096fbd9e2cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Gestão
-- Nomeação
 - Direção Executiva do Serviço Nacional de Saúde
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/61/2022/09/23/p/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:11Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos do n.º 3 do artigo 6.º do anexo i do [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, dos n.<sup>os</sup>2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 6.º do anexo i do [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, dos n.os2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), para integrarem o Conselho de Gestão da DE-SNS, I. P., as seguintes personalidades, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -147,7 +155,7 @@ Carla Alexandra de Menezes Moutinho Henriques Gonçalo Catarino
 
 Licenciada em Gestão de Empresas pela Universidade Lusíada de Lisboa (1995). Pós-graduada em Gest@o.com pelo INDEG, Business School ISCTE, Lisboa (2001). Programa Leadership in Healthcare Delivery, Nova School of Business and Economics (NOVA, SBE), Lisboa (2015). Formação no VIII Programa de Alta Direção de Instituições de Saúde - PADIS pela AESE, Escola de Direção e Negócios, Lisboa (2008). Curso Avançado de Gestão Pública - CAGEP pelo Instituto Nacional de Administração, I. P., Lisboa (2008). “Mastering Health Care Finance” pelo Institute of Health Economics and Management, Université de Lausanne and Harvard Medical International (2007). Formação “Statistics on Health Accounts”, pelo Training of European Statisticians Institute, EUROSTAT (1999).
 
-Presidente do Conselho de Administração da Unidade Local de Saúde de Lisboa Ocidental, E. P. E., desde fevereiro de 2024 até à data, consultora na Cure, L.<sup>da</sup> (2022-2024), administradora do ISCTE - Instituto Universitário de Lisboa (2019-2022). Vice-presidente da Administração Central do Sistema de Saúde I. P. (ACSS, I. P.) (2014-2019). Diretora do Departamento de Gestão e Administração Geral da ACSS, I. P. (2012-2014). Coordenadora do Gabinete de Auditoria Interna da ACSS, I. P. (2012). Vogal executiva do Hospital Curry Cabral, E. P. E. (2010-2012). Vogal Executiva do Hospital Curry Cabral, SPA (2007-2010). Diretora financeira do Hospital Pulido Valente, E. P. E. (2006-2007). Técnica superior principal do Instituto de Gestão Informática e Financeira, I. P., do Ministério da Saúde (IGIF, I. P.), onde exerceu funções no Departamento de Desenvolvimento de Sistemas de Financiamento e Gestão (2003-2006). Presidente do Instituto de Gestão Financeira da Saúde, I. P., da Secretaria Regional dos Assuntos Sociais da Região Autónoma dos Açores (2002-2003). Adjunta da Secretária Regional dos Assuntos Sociais do Governo Regional dos Açores (2001-2002). Técnica superior de 1.ª classe do IGIF, I. P., onde exerceu funções no Departamento de Gestão Financeira (1995-2001).
+Presidente do Conselho de Administração da Unidade Local de Saúde de Lisboa Ocidental, E. P. E., desde fevereiro de 2024 até à data, consultora na Cure, L.da (2022-2024), administradora do ISCTE - Instituto Universitário de Lisboa (2019-2022). Vice-presidente da Administração Central do Sistema de Saúde I. P. (ACSS, I. P.) (2014-2019). Diretora do Departamento de Gestão e Administração Geral da ACSS, I. P. (2012-2014). Coordenadora do Gabinete de Auditoria Interna da ACSS, I. P. (2012). Vogal executiva do Hospital Curry Cabral, E. P. E. (2010-2012). Vogal Executiva do Hospital Curry Cabral, SPA (2007-2010). Diretora financeira do Hospital Pulido Valente, E. P. E. (2006-2007). Técnica superior principal do Instituto de Gestão Informática e Financeira, I. P., do Ministério da Saúde (IGIF, I. P.), onde exerceu funções no Departamento de Desenvolvimento de Sistemas de Financiamento e Gestão (2003-2006). Presidente do Instituto de Gestão Financeira da Saúde, I. P., da Secretaria Regional dos Assuntos Sociais da Região Autónoma dos Açores (2002-2003). Adjunta da Secretária Regional dos Assuntos Sociais do Governo Regional dos Açores (2001-2002). Técnica superior de 1.ª classe do IGIF, I. P., onde exerceu funções no Departamento de Gestão Financeira (1995-2001).
 
 Integrou equipas técnicas dos Ministérios das Finanças e Saúde sobre Revisão da Despesa Pública, Missões do PPS-PPM (FMI|BCE|CE), Grupo Coordenador do Sistema de Controlo Interno do Ministério da Saúde, Acordo entre o Estado Português e a Indústria Farmacêutica - APIFARMA, Conselho Fiscal do SUCH, entre outras.
 
@@ -174,3 +182,5 @@ Programa LeaderShip in HealthCare Delivery 5.ª Edição, Nova School of Busines
 Adjunta da Ministra da Saúde (de abril de 2024 à data); farmacêutica hospitalar assessora sénior da carreira farmacêutica da Unidade Local de Saúde de Lisboa Ocidental, E. P. E. (ULSLO). Coordenadora dos Serviços Farmacêuticos (SF) do Hospital de Egas Moniz (HEM), desde 2006 a abril de 2024. Membro do Conselho Coordenador de Avaliação dos Farmacêuticos (2021-abril de 2024). Membro do GCL-PPCIRA (de 2014 a 2022). Membro da Comissão de Monitorização da Prescrição Médica da ULSLO (2014-abril de 2024). Membro da CFT da ULSLO desde 2006 a abril de 2024. Membro da Comissão de Ética da ULSLO (2006-abril de 2024). Membro da CFT e da Comissão de Antibióticos do HEM (de 2003 a 2005).
 
 Membro da Comissão Nacional da Residência Farmacêutica (2020-abril de 2024). Júri de concursos - carreira dos TSS e farmacêutica. Assistente convidada da FFUL desde 2019. Integra a CAM do INFARMED (de 2019 a 2022). Membro da Direção Nacional da OF (de 2016 a 2022). Vogal do Colégio de Especialidade de FH da OF (de 2004 a 2010). Membro da Comissão Científica do Congresso Nacional da APFH. Vogal da Direção da APFH (de 2012 a 2014). Delegada nacional na EAHP - “European Statements of Hospital Pharmacy” (2013-2014). Assistente convidada da ESEL (de 2013 a 2022). Delegada nacional da FIP - "Declaração Final de Basileia" (2008). Integra o Núcleo Consultivo da Coordenação Nacional para a Infeção VIH/SIDA (de 2006 a 2009). Tem diversas comunicações científicas e é autora/coautora de várias publicações.
+
+117878649

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 227/2022, 1º Suplemento, Série I de 2022-11-24
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 60-(2) a 60-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22701/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111-a/2022/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-a-2022-203928772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891032d0e7e84e21d78d9b7d1bd65d68ed733e6865d2f5c591a664d3b59cfdf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a522f0bc25f24c6de568d4f9e15af771181cb30cdcbc309f116c38036da215a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Comissão Europeia dos Direitos do Homem
-- Direção Geral da Saúde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Direção Geral da Saúde
 - Doença Infecciosa
-- Vacinação
 - Plano de Vacinação contra a COVID-19 em Portugal
+- Vacinação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/64-a/2020/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64-a/2020/08/20/p/dre
+- type: cites
+  target: pt:dre:140821558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163332288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176811785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:59Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +165,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 4 - Determinar que a presente resolução produz efeitos a 1 de janeiro de 2022.
 
 Presidência do Conselho de Ministros, 17 de novembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115916414

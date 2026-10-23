@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/505/1996/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-1996-214231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01ecd4a5f91e15bf74b2e19debe1b6760b18690c3e35798fe39a37972289a418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0bbabee5cc2678dc7094958ea4fea10f79fa818a2903ad231b75b67a80edb2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Comissão de Protecção de Menores
 - Criação de Serviços
-- Tutela de Menores
-- Proteção à Infância
 - Ponte de LIMA
+- Proteção à Infância
 - Protecção à Juventude
-- Câmara Municipal
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:193408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193408:por
+  label: "Alterado o num 2 pela PORT.730/97.1997.08.25.MJ, DR.IS-B [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-1997-193408
+  date: '1997-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:17Z'
   warnings: []
   errors: []
 ---
@@ -145,6 +154,6 @@ j) Um representante das associações de pais.
 
 Ministério da Justiça.
 
-**Assinada em 30 de Agosto de 1996.**
+Assinada em 30 de Agosto de 1996.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

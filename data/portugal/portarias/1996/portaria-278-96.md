@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/278/1996/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-1996-413391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3614c729f13008e95a31a19c8368adde0f1238d5ba774fd3f95edf3fe546536f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c48242bb4e76c658613a6f8e060d9b13bbab8685c364da2816fa69bb0cd02ca4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,41 @@ reuse:
 subjects:
 - Bacharelato
 - Caldas da Rainha
-- Plano de Estudos
 - Curso de Tecnologias da Informação Empresarial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia Gestão ARTE e Design
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:288400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288400:por
+  label: "Cessada a ministração do Curso de Bacharelato em Tecnologias da Informação Empresarial e revogado este diploma,\
+    \ nos termos do disposto no art. 3º da PORT.430/2002.2002.04.19.ME DR.IS-B [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-2002-288400
+  date: '2002-04-19'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:41Z'
   warnings: []
   errors: []
 ---
@@ -151,8 +165,8 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 21 de Junho de 1996.**
+Assinada em 21 de Junho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/167b00/20362037.pdf))](https://files.diariodarepublica.pt/1s/1996/07/167b00/20362037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/167b00/20362037.pdf)

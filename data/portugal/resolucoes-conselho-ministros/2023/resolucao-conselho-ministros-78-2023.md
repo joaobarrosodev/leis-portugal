@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0006500066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/78/2023/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2023-215647923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f1c302dcad38dc38135c38601b32661a2c631cd20197fd0b3765927bfea6385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff13068801fca7683b95c580cec94b2d35dee5b361a55bc8752c784847c5a214
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Gás
-- Obras Públicas
-- Responsabilidade pelo Risco
 - Fundo Ambiental
-- Ministro do Ambiente e da Ação Climática
-- Plano de Recuperação e Resiliência
+- Gás
 - Governo XXIII
-- Produção de Hidrogénio
 - Hidrogénio
+- Ministro do Ambiente e da Ação Climática
+- Obras Públicas
+- Plano de Recuperação e Resiliência
+- Produção de Hidrogénio
+- Responsabilidade pelo Risco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/2020/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2020/08/14/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:02Z'
   warnings: []
   errors: []
 ---
@@ -165,3 +189,5 @@ e) Em 2030: (euro) 1 660 000,00.
 6 - Decidir que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 6 de julho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116665495

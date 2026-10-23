@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06200/0001200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/17/2020/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2020-130776792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef20e66644c26d6fa5db0a7978df8ad559147378b6b67b2b973deed3a2fb2b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a7f6725b9fb2dc4ce93588444585a743362f86b8289c47f6162101378c6f13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,56 +66,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Empresarial de Portugal
-- Empresa
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Autarquia Local
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Competitividade Empresarial
+- Conselho de Ministros
+- Cooperação Transfronteira
+- Desenvolvimento Local
+- Emprego
+- Empresa
+- Ensino Profissional
+- Ensino Superior
 - Fundação para a Ciência e a Tecnologia
 - Igualdade de Tratamento
-- Política de Família
-- Conselho de Ministros
-- Política de Cooperação
-- Cooperação Transfronteira
-- Portugal
-- Regulamentação de Atos Legislativos
-- Competitividade Empresarial
-- Ensino Profissional
-- União Europeia
-- Comissão de Coordenação e Desenvolvimento Regional
 - Inclusão Digital
-- Sociedade da Informação
+- Internet
 - Investigação
 - Investimento
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Página na Internet
+- Política de Cooperação
+- Política de Família
 - Política Económica
 - Política Social
-- Internet
-- Emprego
-- Ensino Superior
-- Desenvolvimento Local
-- Autarquia Local
+- Portugal
 - PORTUGAL 2020
-- Programa Nacional para a Coesão Territorial
-- Programa de Valorização do Interior
 - Programa +CO3SO
+- Programa de Valorização do Interior
+- Programa Nacional para a Coesão Territorial
 - Programa Trabalhar no Interior
+- Regulamentação de Atos Legislativos
+- Sociedade da Informação
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:51Z'
   warnings: []
   errors: []
 ---
@@ -213,3 +217,5 @@ c) O aumento da participação de mulheres e de homens nas áreas profissionais 
 8 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
 
 Presidência do Conselho de Ministros, 27 de fevereiro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113145671

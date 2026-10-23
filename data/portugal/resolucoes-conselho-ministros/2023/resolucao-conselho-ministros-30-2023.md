@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/30/2023/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2023-210923318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38670da5143220fb850d30ab9fd33e223a90c72b19105afd92ea564afd933234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cacf9c6239988c878d7e916f7d2c0f04cf2de23e83998c9ae253c816c5a9dde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Agência Portuguesa do Ambiente
 - Financiamento
 - Fundos CE
+- Gestão de Resíduos
 - Página na Internet
-- Proteção do Ambiente
-- Plano Nacional de Gestão de Resíduos
 - Plano Estratégico para os Resíduos Urbanos
-- Agência Portuguesa do Ambiente
+- Plano Nacional de Gestão de Resíduos
 - Portugal 2030
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:31994L0062
@@ -175,16 +175,116 @@ relationships:
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115191272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123610215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129160714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131182918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145440392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146240980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169360995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169832469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176631058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56928479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:58Z'
   warnings: []
   errors: []
 ---
@@ -433,7 +533,7 @@ A figura 1 ilustra a localização dos SGRU, agrupados por região, assim como a
 
 Figura 1 - Mapa dos sistemas de gestão de RU e das instalações de tratamento em Portugal continental, por região - 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Portugal dispõe de um conjunto de instalações dedicadas ao tratamento de RU que refletem as estratégias adotadas nos últimos anos, e que permitem a gestão integrada dos diferentes fluxos. De uma forma geral, a gestão dos RU é efetuada nos SGRU, responsáveis pelo tratamento dos resíduos produzidos na sua área de abrangência, não sendo frequentes as situações em que se recorre à partilha de instalações ou à utilização de instalações de privados (exceto para a valorização dos recicláveis recuperados), o que justifica o elevado número de instalações de algumas tipologias como triagens e unidades de tratamento mecânico e biológico (TMB).
 
@@ -443,7 +543,7 @@ Importa referir que, no caso das infraestruturas de triagem e tratamento mecâni
 
 Tabela 1 - Número de infraestruturas existentes e respetiva capacidade, em Portugal continental, em 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A informação apresentada na tabela 1 não pode ser lida de forma isolada, sendo de atender às situações de exceção, nomeadamente no que respeita à separação da fração material recolhida seletivamente, para a qual estão a ser utilizadas, em algumas situações, as unidades TM, incrementando assim a capacidade disponível de triagem.
 
@@ -467,7 +567,7 @@ No ano de 2020, Portugal (16) teve uma produção de RU per capita que se situou
 
 Figura 2 - Produção de RU e capitação em Portugal, no período 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A figura 2 evidencia que a produção de RU aumentou entre 2013 e 2020, o que poderá estar relacionado com a melhoria da situação económica uma vez que o PIB também aumentou neste período. Ao comparar os anos de 2013 e 2020, constata-se que, em sete anos, cada cidadão aumentou a sua produção de resíduos em 72 kg.
 
@@ -475,7 +575,7 @@ Na figura 3, apresenta-se a composição física média dos RU produzidos em Por
 
 Figura 3 - Composição física média dos RU produzidos (recolhidos seletiva e indiferenciadamente) em Portugal, em 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Constata-se que a fração dominante na composição dos RU produzidos são os biorresíduos, seguindo-se, com uma diferença de mais de 25 pontos percentuais, os resíduos de plástico e os resíduos de papel e cartão.
 
@@ -483,25 +583,25 @@ No que respeita à recolha era expectável, nos últimos anos, uma diminuição 
 
 Tabela 2 - Evolução da recolha de RU no período compreendido entre 2015 e 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Tomando como referência o ano de 2020, a recolha seletiva representou cerca de 20 % do total da recolha de RU, tendo a recolha indiferenciada tido um peso de cerca de 79 %. Sem prejuízo dos investimentos realizados nos últimos anos no sentido de potenciar o aumento da recolha seletiva, nomeadamente no que respeita à disponibilização de equipamentos e campanhas de sensibilização e comunicação para uma maior separação dos resíduos na origem, os resultados foram pouco visíveis face ao aumento de recolha seletiva que se perspetivava.
 
 No que se refere a destinos diretos dos RU produzidos em Portugal, o encaminhamento traduziu-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A entrada em funcionamento das instalações de TMB teve como consequência uma redução significativa da deposição direta de RU em aterro, bem como o incremento da valorização orgânica, mantendo-se praticamente constante a percentagem de resíduos valorizados energética e materialmente ao longo dos anos (ver figura 4).
 
 Figura 4 - Preparação para reutilização e reciclagem e destino dos RU em Portugal, no período 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 De uma outra perspetiva, na figura 5, ilustram-se os destinos finais de RU geridos em Portugal entre 2017 e 2020, observando-se que aterro e incineração dedicada com valorização energética consubstanciam um total de 75 % do destino que foi dado aos RU produzidos em 2020.
 
 Figura 5 - Destinos finais dos RU geridos em Portugal, no período de 2017 a 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Contudo, e para a análise dos resultados apresentados nas últimas figuras, importa relembrar que no ano de 2020 o encaminhamento de resíduos indiferenciados, diretamente e sem qualquer tratamento mecânico prévio, preferencialmente para incineração, ou para aterro quando tal não fosse possível, consubstanciou uma das orientações e recomendações para a gestão de resíduos, emanadas pela APA, I. P., e a ERSAR, motivo pelo qual as melhorias expectáveis de 2020 face a 2019 ficaram comprometidas.
 
@@ -509,7 +609,7 @@ No que respeita ao encaminhamento da fração residual, o seu principal destino 
 
 Figura 6 - Destinos finais da fração residual, no período de 2017 a 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 3.4 - Avaliação das metas globais
 
@@ -521,7 +621,7 @@ A tabela 3 ilustra uma associação do aumento na produção de RU à melhoria d
 
 Tabela 3 - Indicadores de produção de resíduos, capitação e crescimento económico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No entanto, a comparação entre a produção de RU e o consumo privado mostra que o crescimento do primeiro não acompanhou o crescimento do segundo, traduzindo-se assim num abrandamento relativo na produção de resíduos face ao crescimento económico. Entre 2013 e 2020, apesar da evolução percentual ser a mesma (15 %) verificou-se um decréscimo de 0,22 t de RU por unidade de consumo, contudo quando comparado com o período entre 2013 e 2019, verificou-se que este decréscimo foi mais significativo (2,85 t de RU por unidade de consumo).
 
@@ -533,7 +633,7 @@ A figura 7 permite verificar uma evolução muito positiva em 2014 e 2015, resul
 
 Figura 7 - Evolução da meta de preparação para reutilização e reciclagem em Portugal, no período 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 As metas para reciclagem e valorização de resíduos de embalagens, que consubstanciam um contributo muito significativo para o cumprimento da meta de preparação para reutilização e reciclagem, tal como se pode confirmar no capítulo Cenários de evolução para o período 2020-2030, datavam de 2011, não estando em alinhamento com a meta de 50 % até 2020, e ainda assim, à data, apenas uma parte dos materiais de resíduos de embalagens cumpria a meta estipulada.
 
@@ -545,13 +645,13 @@ Tendo-se efetivamente verificado uma evolução positiva entre 2014 e 2016, desd
 
 Figura 8 - Evolução da deposição de RUB em aterro em Portugal, no período 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No que concerne à meta de retomas provenientes de recolha seletiva, a meta proposta para 2020 foi atingida em 2019, reflexo do esforço efetuado pelos SGRU ao longo dos anos com um crescimento anual da recolha seletiva e respetivas retomas, tal como ilustra a figura 9. Contudo, se se considerar a meta aferida aos valores de produção de RU em 2012, conforme metodologia determinada no PERSU 2020, constata-se que o resultado não foi suficiente para o cumprimento da meta em 2020.
 
 Figura 9 - Evolução da meta de retomas de recolha seletiva em Portugal, no período 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Uma síntese relativa ao cumprimento de metas por cada SGRU pode ser encontrada no anexo iv ao PERSU 2030 e do qual faz parte integrante.
 
@@ -563,7 +663,7 @@ As metas de reciclagem e valorização de resíduos de embalagem fixadas pelo UN
 
 Figura 10 - Cumprimento das metas de reciclagem de resíduos de embalagens, por material e global, entre os anos de 2017 e 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A aferição das metas, no que se refere ao contributo da ECAL, teve como base a nova metodologia de cálculo tal como descrita no anexo v ao PERSU 2030 e do qual faz pare integrante.
 
@@ -621,7 +721,7 @@ Existe, adicionalmente, um conjunto de outros objetivos que contribuem para alca
 
 Tabela 4 - Objetivos de reciclagem de resíduos de embalagens e de recolha de garrafas de bebidas de plástico de uso único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 De acordo com a Diretiva Embalagens e resíduos de embalagens, os Estados-Membros podem submeter pedidos de prorrogação dos prazos para cumprimento de metas, cumprindo algumas condições previstas na referida Diretiva. Em conformidade, Portugal pretende notificar a Comissão Europeia solicitando a derrogação das metas de 2025 relativas aos resíduos de embalagem de vidro e de alumínio.
 
@@ -667,7 +767,7 @@ Assim, tendo a produção de RU em Portugal continental atingido cerca de 5 milh
 
 Tabela 5 - Prevenção de RU até 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 4.2.2 - Meta global de preparação para a reutilização e reciclagem
 
@@ -677,7 +777,7 @@ Tendo em conta as regras de cálculo que se encontram estipuladas na Decisão de
 
 Tabela 6 - Evolução dos resultados a nível da meta de preparação para reutilização e reciclagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Sem prejuízo de as metas elencadas na tabela 6 terem sido determinadas com base no universo de gestão de resíduos dos SGRU, importa contabilizar - para efeitos da meta nacional - os resíduos provenientes de utilizadores particulares de redes de recolha própria de entidades gestoras de fluxos específicos de resíduos em Portugal continental, nomeadamente REEE, RPA e também resíduos de embalagens de medicamentos, os quais, podendo não ser de gestão direta por parte dos SGRU, não deixam de ser RU.
 
@@ -701,7 +801,7 @@ A elevada exigência da meta torna necessário, no que se refere ao fluxo multim
 
 Tabela 7 - Contributo da fração embalagem em determinadas tipologias de material
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A) Multimaterial
 
@@ -715,7 +815,7 @@ b) Crescimento dos quantitativos de retoma de diversos fluxos de materiais, face
 
 Tabela 8 - Taxas de retoma previstas para 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 B) Biorresíduos
 
@@ -751,13 +851,13 @@ Taxa de captura de reciclagem na origem - 50 %.
 
 Tabela - Potencial de implementação de recolha seletiva de biorresíduos, por SGRU (37)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A tabela 8-A reflete o contributo de cada SGRU para cumprimento da meta de preparação para a reutilização e reciclagem, após aplicação dos pressupostos anteriormente apresentados.
 
 Tabela 8-A - Meta de preparação para a reutilização e reciclagem de resíduos a alcançar no período de vigência do PERSU 2030 - Cenário de cumprimento de metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No anexo vi ao PERSU 2030 e do qual faz parte integrante é apresentado o desempenho nacional preconizado para o ano de 2030, sendo possível observar o peso da recolha seletiva e indiferenciada e do tratamento na origem, para o cumprimento das metas, assim como o respetivo encaminhamento dos RU para as operações de tratamento.
 
@@ -767,7 +867,7 @@ De facto, como ilustrado na tabela 9, as metas de retoma no âmbito do PERSU 203
 
 Tabela 9 - Comparação entre metas afetas às EG SIGRE e metas propostas no PERSU 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 5 - Gestão da fração residual
 
@@ -865,7 +965,7 @@ No que respeita à produção de CDR, embora exista uma capacidade efetiva de ce
 
 Tabela 10 - Origem, evolução e encaminhamento da fração residual, por região, no cenário cumprimento de metas, em 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Para além de alguma capacidade de recuperação de materiais, a região do Algarve é a menos favorecida em termos de capacidade instalada para tratamento da fração residual. Para este caso concreto, as opções de curto prazo podem incluir o encaminhamento para produção de CDR em operador de tratamento fora da rede dos SGRU, o recurso a instalações localizadas na região Alentejo e, em última instância, a deposição em aterro (como assumido na tabela 10). Existindo operadores de tratamento fora da rede dos SGRU para produção de CDR na região, essa poderá ser uma opção a considerar, com o produto final a poder ser utilizado pela indústria na região. No entanto, face a este desafio particular, poderá ser de considerar a exploração de outras tecnologias de valorização de fração residual para aquele território podendo para o efeito ser de ponderar como destino, a médio prazo, as instalações industriais previstas vir a instalar-se nesta área geográfica, caso se verifique poderem vir a ter como feedstock material com as características desta fração.
 
@@ -895,7 +995,7 @@ c) A partir do ano de 2026, foi considerada uma redução de 15 % face à estima
 
 Tabela 11 - Evolução da quantidade remanescente em aterro considerando o cenário de cumprimento de metas, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 A análise da tabela 11 permite identificar um conjunto de regiões com situações críticas, nomeadamente regiões Norte, Centro e Algarve. No âmbito das estimativas apresentadas, foi considerado que alguns processos de licenciamento atualmente em curso estarão concluídos até 2030, sendo que haverá outros que, apesar de previstos, ainda não iniciaram o respetivo procedimento de licenciamento não tendo, por isso, sido considerados.
 
@@ -919,7 +1019,7 @@ Para um dimensionamento adequado da capacidade de tratamento, numa abordagem reg
 
 Tabela 12 - Estimativa de recolha seletiva de resíduos urbanos, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Importa referir que os valores previstos no âmbito da recolha não contemplam eventuais deduções do material que se prevê recolher através do futuro sistema de depósito de embalagens não reutilizáveis de bebidas, prevendo-se, neste âmbito, que os materiais vão manter-se sob responsabilidade dos SGRU.
 
@@ -939,7 +1039,7 @@ No que se refere aos resíduos de vidro, e sendo esta fração maioritariamente 
 
 Tabela 13 - Capacidades disponíveis e necessárias, por região (55)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 6.1.2 - Biorresíduos
 
@@ -951,7 +1051,7 @@ Face ao exposto, a tabela 14 apresenta as previsões de recolha de biorresíduos
 
 Tabela 14 - Estimativa de recolha de resíduos urbanos, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 À semelhança do exercício realizado para a fração multimaterial, importa avaliar eventuais necessidades de aumento de capacidade para tratamento dos biorresíduos recolhidos seletivamente.
 
@@ -959,7 +1059,7 @@ Assim, a tabela 15 mostra que para o quantitativo previsto de recolha seletiva d
 
 Tabela 15 - Capacidades existentes e necessárias, por região (58)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Com o pressuposto de reconversão da capacidade de valorização orgânica das atuais instalações TMB, a capacidade do País, vista de uma forma agregada, para tratamento de biorresíduos, seria suficiente para fazer face ao quantitativo que se espera recolher em 2030.
 
@@ -985,11 +1085,11 @@ A tabela 16 e a tabela 17 apresentam a estimativa de investimento necessário, c
 
 Tabela 16 - Investimento necessário para tratamento da quantidade recolhida de papel e cartão, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Tabela 17 - Investimento necessário para tratamento da quantidade recolhida de plástico, metal e ECAL, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Relativamente ao tratamento de resíduos de papel e cartão, e em linha com o referido anteriormente, os investimentos previstos são menos significativos representando cerca de 16 % do total estimado para o total das linhas papel/cartão e plástico/metal/ECAL.
 
@@ -1005,19 +1105,19 @@ A região do Alentejo apresenta uma situação muito particular, tendo em conta 
 
 Tabela 18 - Investimento necessário para tratamento da quantidade recolhida de biorresíduos, por região (61)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No total, e até 2030, prevê-se uma necessidade de investimento total na ordem dos 475 milhões de euros referente a capacidade de tratamento de resíduos, nomeadamente incremento da capacidade de tratamento e reconversão de instalações, tal como apresentado no resumo da tabela 19.
 
 Tabela 19 - Resumo dos investimentos necessários para tratamento, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Sem prejuízo do racional apresentado no plano, onde os investimentos, apesar de agregados por região, refletem um cenário em que não existe partilha de infraestruturas, apresenta-se na tabela 20 a estimativa de necessidade de investimento caso fosse ponderado um cenário de partilha dentro de cada uma das regiões, sendo a diferença entre cenários de cerca de 63 milhões de euros. Num contexto em que o financiamento disponível é limitado, entende-se ser este um cenário também a considerar.
 
 Tabela 20 - Resumo dos investimentos necessários para tratamento, por região, num contexto de partilha de infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 7 - Financiamento e sustentabilidade do setor dos resíduos urbanos
 
@@ -1101,7 +1201,7 @@ Em suma, a sustentabilidade do setor dos RU exige um forte equilíbrio entre os 
 
 Os princípios estabelecidos no PERSU 2030 são concretizados através de três eixos onde se inserem seis objetivos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 EIXO I - Prevenção
 
@@ -1213,7 +1313,7 @@ No capítulo seguinte são materializadas as ações associadas a cada eixo, obj
 
 9 - Eixos, Objetivos, Medidas e Ações - Entidades responsáveis e envolvidas e indicadores de desempenho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 10 - Monitorização e avaliação do Plano Estratégico para os Resíduos Urbanos 2030
 
@@ -1223,7 +1323,7 @@ No caso do PERSU 2030, preconiza-se um período de vigência até 2030, propondo
 
 Tabela 21 - Indicadores a considerar para efeitos de monitorização anual do PERSU 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Esta monitorização será complementada por uma avaliação de maior detalhe, com periodicidade bienal, que refletirá o acompanhamento dos objetivos, medidas e ações do PERSU 2030, previstos implementar no período de monitorização respetivo e, sempre que possível, de uma forma quantitativa. A referida avaliação deve incluir o envolvimento dos responsáveis pela execução das ações a implementar, no período respetivo, grau de cumprimento e cronograma, dela devendo resultar a identificação de medidas adicionais ou ajustamento das já previstas no sentido de promover o cumprimento de metas e objetivos.
 
@@ -1429,7 +1529,7 @@ A aposta em infraestruturas para triagem dos recicláveis recolhidos em ecoponto
 
 Tabela 1 - Número de equipamentos, ecopontos e ecocentros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Com a evolução das políticas de gestão de resíduos e face à necessidade de repensar circuitos e usos de equipamentos, verifica-se que, com a requalificação de algumas unidades de tratamento mecânico biológico (TMB), alguns SGRU estão a usar os equipamentos de tratamento mecânico para fazer a separação dos vários tipos de embalagens, complementando e ampliando as capacidades dos centros de triagem já existentes, sendo esta uma tendência crescente.
 
@@ -1437,7 +1537,7 @@ A maioria das unidades de triagem estão dotadas de linhas dedicadas de embalage
 
 Tabela 2 - Número de infraestruturas de triagem, capacidades nominais e efetivas, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 2 - Unidades de tratamento mecânico
 
@@ -1445,7 +1545,7 @@ Existem cinco unidades de tratamento mecânico (TM) dedicadas aos resíduos prov
 
 Tabela 3 - Número de infraestruturas de tratamento mecânico, capacidade nominal e efetiva, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 3 - Unidades de tratamento de biorresíduos
 
@@ -1457,7 +1557,7 @@ Em 11 das unidades apresentadas na tabela 4, o tratamento biológico é efetuado
 
 Tabela 4 - Número de infraestruturas de tratamento mecânico e biológico, capacidades nominais e efetivas, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No que diz respeito a unidades dedicadas à recolha seletiva de biorresíduos, as cinco que constam na tabela 5, localizadas na ALGAR, LIPOR e VALORSUL, distinguem-se pela tipologia de processamento.
 
@@ -1465,7 +1565,7 @@ As três unidades da ALGAR processam resíduos verdes, através da compostagem e
 
 Tabela 5 - Número de infraestruturas de tratamento biológico de recolha seletiva, capacidade nominal e efetiva, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 4 - Unidades de preparação de combustível derivado de resíduos
 
@@ -1473,7 +1573,7 @@ Existem cinco unidades de produção de CDR, conforme se verifica da tabela 6, q
 
 Tabela 6 - Número de infraestruturas de produção de CDR, capacidade nominal e efetiva, por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 5 - Unidades de incineração dedicada com valorização energética
 
@@ -1485,7 +1585,7 @@ Para além da energia elétrica gerada, parcialmente utilizada em autoconsumo, s
 
 Tabela 7 - Número de infraestruturas de incineração dedicada com VE e capacidades por região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 6 - Aterros
 
@@ -1503,11 +1603,11 @@ A tabela 8 identifica o número de aterros por região assim como a respetiva ca
 
 Tabela 8 - Número de aterros e capacidade remanescente, por região, em 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 ## ANEXO III — Metodologias de cálculo de metas
 
-# Parte I - Metodologia de apuramento de informação para cálculo de metas prevista no Plano Estratégico para os Resíduos Urbanos 2020
+Parte I - Metodologia de apuramento de informação para cálculo de metas prevista no Plano Estratégico para os Resíduos Urbanos 2020
 
 A determinação da deposição de resíduos urbanos biodegradáveis (RUB) em aterro, preparação para reutilização e reciclagem e retomas de recolha seletiva teve por base as fórmulas de cálculo de metas definidas no PERSU 2020.
 
@@ -1519,7 +1619,7 @@ De seguida, expõe-se para cada meta os pressupostos considerados para o apurame
 
 A) Deposição de RUB em aterro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 em que:
 
@@ -1531,7 +1631,7 @@ c) 55 % (denominador) corresponde ao teor de RUB nos RU.
 
 B) Preparação para reutilização e reciclagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 em que:
 
@@ -1543,9 +1643,9 @@ c) O denominador corresponde ao total de RU reciclável produzido, aproximadamen
 
 C) Retomas de recolha seletiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
-# Parte II - Meta de preparação para reutilização e reciclagem pós-2020
+Parte II - Meta de preparação para reutilização e reciclagem pós-2020
 
 A Decisão de Execução (UE) [2019/1004](http://data.europa.eu/eli/dec/2019/1004/oj?locale=pt) da Comissão, de 7 de junho de 2019 [Decisão de Execução (UE) [2019/1004](http://data.europa.eu/eli/dec/2019/1004/oj?locale=pt)], estabelece as regras para o cálculo, para a verificação e comunicação de dados definidos na Diretiva Quadro dos Resíduos ([Diretiva 2008/98/CE](http://data.europa.eu/eli/dir/2008/98/oj?locale=pt) do Parlamento Europeu e do Conselho, de 19 de novembro, na sua redação atual).
 
@@ -1559,7 +1659,7 @@ c) O peso dos RU reciclados (em toneladas), que é calculado como o peso dos res
 
 Para efeitos de verificação do cumprimento desta meta, considera-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Com base no n.º 2 do artigo 4.º da Decisão de Execução (UE) [2019/1004](http://data.europa.eu/eli/dec/2019/1004/oj?locale=pt), o numerador da fórmula de cálculo para a preparação para a reutilização e reciclagem é separado em dois momentos - até 2027 e pós-2027.
 
@@ -1601,7 +1701,7 @@ Importa ainda rever e clarificar o estatuto de resíduo/não resíduo dos têxte
 
 Este trabalho encontra-se a ser desenvolvido, no sentido de ser incluído em orientações/nota técnica da Agência Portuguesa do Ambiente, I. P.
 
-# Parte III - Meta de deposição de resíduos urbanos em aterro
+Parte III - Meta de deposição de resíduos urbanos em aterro
 
 A Decisão de Execução (UE) [2019/1885](http://data.europa.eu/eli/dec/2019/1885/oj?locale=pt) da Comissão, de 6 de novembro [Decisão de Execução (UE) [2019/1885](http://data.europa.eu/eli/dec/2019/1885/oj?locale=pt)], estabelece as regras para o cálculo, para a verificação e comunicação de dados definidos na Diretiva Aterro ([Diretiva 1999/31/CE](http://data.europa.eu/eli/dir/1999/31/oj?locale=pt) do Conselho, de 26 de abril, na sua redação atual).
 
@@ -1617,19 +1717,19 @@ d) O peso dos resíduos produzidos durante operações de reciclagem ou outro ti
 
 Para efeitos de verificação do cumprimento desta meta, considera-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Com base no n.º 4 do artigo 2.º da Decisão de Execução (UE) [2019/1885](http://data.europa.eu/eli/dec/2019/1885/oj?locale=pt), considera-se no numerador da fórmula de cálculo os RU encaminhados para aterro, entre os quais resíduos resultantes dos tratamentos de triagem, tratamento mecânico, tratamento mecânico e biológico, plataformas de recicláveis, produção de combustíveis derivados de resíduos, valorização orgânica.
 
 ## ANEXO IV — Síntese dos resultados apurados de cumprimento de metas por Sistema de Gestão de Resíduos Urbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 ## ANEXO V — Síntese dos resultados apurados de cumprimento de metas de resíduos de embalagens
 
 Tabela 1 - Síntese do desempenho da entidade gestora do SIGRE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 No que se refere à tabela que apresenta o desempenho das entidades gestoras do SIGRE, dar nota que os resultados apresentados tiveram por base a anterior metodologia de cálculo, em que havia apenas uma meta global para o metal e a ECAL encontrava-se afeta na totalidade ao papel e cartão.
 
@@ -1639,17 +1739,17 @@ O metal deixa, portanto, de ser reportado como uma meta global, passando a ser n
 
 Tabela 2 - Síntese do desempenho da entidade gestora do SIGREM (72)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 ## ANEXO VI — Fluxogramas de recolha e encaminhamento dos resíduos
 
 Desempenho a nível de gestão de resíduos urbanos, verificado em 2019:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 Previsão de desempenho a nível de gestão de resíduos urbanos, para o ano de 2030:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0000700139.pdf)
 
 ## ANEXO VII — Glossário
 
@@ -1952,3 +2052,5 @@ Zonas com flutuação sazonal de população - zonas que para além da populaç�
 (101) Fonte: RGGR.
 
 (102) Fonte: RGGR.
+
+116283174

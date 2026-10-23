@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2019/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2019-122074192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04ce36495723770b56d6c9763837624bf2c2a52a89262751126b912d7bbb0762
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2adaf5c44b314e1b95003b6766219d34eb39e4a59d0690200683c22aff28729
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,35 @@ reuse:
 subjects:
 - Alcobaça
 - Almada
+- Cascais
+- Diversidade Biológica
+- Mafra
 - Ordenamento do Território
 - Orla Costeira
-- Mafra
 - Parque Natural da Arrábida
 - Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
-- Diversidade Biológica
-- Setúbal
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Sesimbra
-- Cascais
+- Setúbal
 - Sintra
 relationships:
+- type: amended_by
+  target: pt:dre:123923086:por
+  label: Aprovada a alteração por adaptação do Plano Diretor Municipal para transposição do Programa da Orla Costeira Alcobaça-Cabo
+    Espichel (POC-ACE) publicado através do presente diploma, pelo(a) Declaração n.º 54/2019 - Diário da República n.º 154/2019,
+    Série II de 2019-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/54-2019-123923086
+  date: '2019-08-13'
+- type: amended_by
+  target: pt:dre:125139428:por
+  label: Aprovada a alteração por adaptação do Plano Diretor Municipal do Programa da Orla Costeira Alcobaça-Cabo Espichel
+    (POC-ACE) publicado através do presente diploma, pelo(a) Declaração n.º 80/2019 - Diário da República n.º 194/2019, Série
+    II de 2019-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/80-2019-125139428
+  date: '2019-10-09'
 - type: cites
   target: celex:32000L0060
   label: null
@@ -126,6 +140,178 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+- type: cites
+  target: pt:dre:145209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75025069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75554998:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -133,13 +319,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:55Z'
   warnings: []
   errors: []
 ---
@@ -272,7 +458,7 @@ Finalmente, enquanto instrumento programático para o ordenamento dos recursos h
 
 O âmbito territorial do POC-ACE inclui, nos termos do n.º 1 do artigo 21.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual, as águas marítimas costeiras e interiores e os respetivos leitos e margens, assim como as faixas de proteção marítimas e terrestres inseridas na área de circunscrição territorial da Administração da Região Hidrográfica do Tejo e Oeste, correspondente aos municípios de Alcobaça, Nazaré, Caldas da Rainha, Óbidos, Peniche, Lourinhã, Torres Vedras, Mafra, Sintra, Cascais, Almada e Sesimbra. Integram, ainda, o âmbito territorial do POC-ACE, os planos de água das lagoas de Óbidos e de Albufeira e a respetiva Zona Terrestre de Proteção (ZTP) das lagoas, com 500 metros de largura, que tem como função principal a salvaguarda e proteção dos recursos hídricos, bem como o arquipélago das Berlengas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 1 - Área de incidência do POC Alcobaça-Cabo Espichel
 
@@ -326,7 +512,7 @@ No setor a sul da barra do Tejo destaca-se a presença de elementos da flora e f
 
 A relevância ecológica desta orla costeira é ainda confirmada pelas extensas áreas integradas em Zona de Proteção Especial (ZPE), designadamente a ZPE das Ilhas Berlengas, a ZPE do Cabo Espichel, a ZPE da Lagoa Pequena, a ZPE do Cabo Raso e a ZPE Aveiro-Nazaré.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 2 - Área de intervenção do POC Alcobaça-Cabo Espichel
 
@@ -344,13 +530,13 @@ Não obstante, a problemática da erosão costeira não se circunscreve a este t
 
 A análise efetuada revelou que a evolução recente do litoral de Portugal continental se relaciona, fundamentalmente, com a existência de défices sedimentares significativos. Face a esta constatação, foi enfatizada a necessidade de a gestão sedimentar assumir um papel primordial nas estratégias de intervenção e mitigação do processo erosivo a concretizar pelos POC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 3 - Subcélula 1c: Balanço sedimentar na situação de referência
 
 Fonte: GTL (2014)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 4 - Subcélula 1c: Balanço sedimentar na situação atual
 
@@ -362,7 +548,7 @@ Para cada uma destas células foi efetuada uma caracterização geomorfológica 
 
 A orla costeira entre Alcobaça e o Cabo Espichel encontra-se inserida na célula 1 (foz do rio Minho-Nazaré), abrangendo parcialmente a subcélula sedimentar 1c (Cabo Mondego-Nazaré), na célula 2 (Nazaré-Peniche), na célula 3 (Peniche-Cabo Raso) e na célula 4 (Cabo Raso-Cabo Espichel). Para cada célula/subcélula, os balanços sedimentares correspondentes às situações de referência e atual foram definidos através da quantificação das entradas (fontes) e saídas (sumidouros) de sedimentos na mesma e encontram-se representados nas figuras seguintes, nas quais as setas representam o sentido do transporte sedimentar, encontrando-se a respetiva ordem de magnitude expressa em 10(elevado a 5) m3/ano. Os círculos correspondem a situações onde existe erosão costeira, a qual se verifica sempre que ocorre uma situação de défice sedimentar face à capacidade de transporte de cada subcélula.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 5 - Célula 2: Balanço sedimentar nas situações de referência e atual
 
@@ -374,7 +560,7 @@ Entre a Nazaré e Peniche, o litoral apresenta uma orientação NE-SW. Esta zona
 
 A orientação do litoral é sensivelmente normal à direção de propagação média das ondas (à escala plurianual), pelo que a deriva litoral neste trecho tem resultante aproximadamente nula. No entanto, como a direção da agitação incidente apresenta grande variabilidade (à escala sazonal e interanual), as componentes da deriva dirigidas para NE e SW apresentam geralmente uma elevada magnitude.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 6 - Célula 3: Balanço sedimentar nas situações de referência e atual
 
@@ -382,13 +568,13 @@ Fonte: GTL (2014)
 
 Neste quadro, o fornecimento sedimentar neste troço litoral (célula 2) tem magnitude relativamente reduzida (da ordem de 10(elevado a 4) m3/ano) e associa-se à erosão das arribas litorais e ao caudal sólido fluvial. A Lagoa de Óbidos e o sistema dunar de Peniche correspondem aos dois sumidouros mais significativos e deverão ter uma magnitude comparável ao somatório das fontes, pelo que o sistema está relativamente estável (a influência antrópica é aparentemente pouco significativa).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 7 - Célula 4: Balanço sedimentar na situação de referência
 
 Fonte: GTL (2014)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 8 - Célula 4: Balanço sedimentar na situação atual
 
@@ -482,7 +668,7 @@ Uma orla costeira preparada para as alterações climáticas e para uma fruiçã
 
 Tendo esta visão como referência, a estratégia para garantir a integridade da área de intervenção do POC-ACE passa por promover a prevenção e a redução dos riscos costeiros e da vulnerabilidade às alterações climáticas, a proteção e conservação do património natural e paisagístico, a proteção dos recursos hídricos e a preservação e melhoria da qualidade da água, assim como dinamizar a competitividade económica da orla costeira, suportada na utilização sustentável dos recursos territoriais específicos. Estes objetivos são concretizados pelo POC-ACE através do Modelo Territorial e do normativo associado, com especial destaque para a delimitação dos regimes de salvaguarda e para a definição de áreas críticas, e ainda pela concretização das intervenções inscritas em Programa de Execução.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 9 - Modelo Estratégico do POC-ACE
 
@@ -514,7 +700,7 @@ Estes regimes visam alcançar os objetivos estratégicos do POC-ACE, nomeadament
 
 . Salvaguarda e gestão do domínio hídrico - concretizado através da espacialização da Margem, considerando o regime aplicável (demarcada de acordo com o estabelecido na Lei da Titularidade dos Recursos Hídricos e na Lei da Água) e a importância que tem no acesso ao litoral, na valorização da orla costeira e na prevenção do risco, e da identificação e classificação das Praias Marítimas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 10 - Estrutura do Modelo Territorial do POC Alcobaça-Cabo Espichel
 
@@ -526,7 +712,7 @@ Em complementaridade com os regimes de salvaguarda e tendo em vista concretizaç
 
 . Áreas Críticas - Reabilitação Urbana - áreas predominantemente artificializadas localizadas na Margem, não abrangidas pelo regime de salvaguarda aos riscos costeiros, onde importa adequar o regime de salvaguarda de gestão aos recursos hídricos com a prossecução de objetivos prioritários de reabilitação urbana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Figura 11 - Estrutura do Modelo Territorial do POC Alcobaça-Cabo Espichel (Plano de Água e Zona Terrestre de Proteção das Lagoas de Óbidos e de Albufeira)
 
@@ -790,7 +976,7 @@ Quadro 1 - Componentes do Modelo Territorial e Normativo Aplicável
 
 Orla Costeira - Componentes Fundamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 As NG estão estruturadas em torno das temáticas associadas à concretização dos objetivos estratégicos definidos para o POC-ACE:
 
@@ -2128,7 +2314,7 @@ NGe4. O número máximo e a tipologia de apoios - simples ou completos - e equip
 
 Quadro 2 - Critérios e Parâmetros para o Dimensionamento dos Apoios de Praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 NGe5. A definição do dimensionamento máximo dos apoios de praia segundo tipologia prevista na NGe3 deve considerar de forma conjugada critérios que ponderem a sensibilidade ecológica das praias, a sua vulnerabilidade aos riscos costeiros, as necessidades de oferta de serviços públicos e as restrições legais para o desempenho de funções e serviços complementares, de acordo com o seguinte:
 
@@ -2162,7 +2348,7 @@ NGe7.As instalações destinadas a apoios de praia e a equipamentos com funçõe
 
 Quadro 3 - Características Construtivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 NGe8. Nas praias urbanas, periurbanas e seminaturais, quando ocorra a reconstrução de Apoios de Praia ou Equipamentos, devem ser adotadas características de construção ligeira, devendo nessas situações ser ponderadas as vantagens da mudança da estrutura, considerando os eventuais impactes na estabilidade de arribas contíguas.
 
@@ -2216,7 +2402,7 @@ NGe16.Os materiais utilizados na regularização ou pavimentação e na vedaçã
 
 Quadro 4 - Parâmetros de utilização de infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 4.4.1.3 - Normas a observar na gestão das infraestruturas
 
@@ -2226,7 +2412,7 @@ NGe18. As infraestruturas nas praias marítimas são definidas de acordo com a c
 
 Quadro 5 - Parâmetros de utilização de infraestruturas nas praias marítimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 NGe19. As infraestruturas que servem as instalações nas praias marítimas devem ser ligadas à rede pública, sempre que esta exista, pelo que as soluções autónomas devem obedecer a critérios preestabelecidos pelas autoridades licenciadoras.
 
@@ -2358,7 +2544,7 @@ NGe42. As infraestruturas nas Áreas de Recreio e Lazer são definidas de acordo
 
 Quadro 6 - Parâmetros de Utilização de Infraestruturas nos Centros Náuticos e Zonas Balneares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 NGe43. As infraestruturas que servem as instalações nos centros náuticos e zonas balneares devem ser ligadas à rede pública, sempre que esta exista, pelo que as soluções autónomas devem obedecer a critérios preestabelecidos pelas autoridades licenciadoras.
 
@@ -2472,11 +2658,11 @@ Nos quadros seguintes apresentam-se de forma sistematizada - por Objetivo Estrat
 
 Quadro 7 - Monitorização do POC-ACE - Indicadores de realização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 Quadro 8 - Monitorização do POC-ACE - Indicadores de Resultado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 (1) Conforme determina a [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de novembro, na sua redação atual, a margem é uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas, e no caso das águas do mar tem, genericamente, uma largura de 50 metros medidos a partir da linha máxima preia-mar de águas equinociais, integrando o domínio hídrico.
 
@@ -2484,7 +2670,7 @@ Quadro 8 - Monitorização do POC-ACE - Indicadores de Resultado
 
 Modelo Territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2)
 
@@ -2492,108 +2678,110 @@ Identificação das disposições dos Planos Municipais de Ordenamento do Territ
 
 Plano Diretor Municipal de Alcobaça ([Resolução do Conselho de Ministros n.º 177/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-1997-673670), de 25 de outubro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP da Zona Marginal e da Baía de São Martinho do Porto ([Resolução do Conselho de Ministros n.º 132/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1999-692072), de 29 de outubro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Almada ([Resolução do Conselho de Ministros n.º 5/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1997-532258), de 14 de janeiro, alterada pela [Resolução do Conselho de Ministros n.º 100/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-1998-431210), de 4 de agosto, pelo Edital n.º 511/2017, de 20 de julho, e com as correções materiais introduzidas pelo Aviso n.º 15415/2017, de 21 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP das Praias de Transição (Edital n.º 227/2011, de 4 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP do Jardim Urbano da Costa da Caparica ([Resolução do Conselho de Ministros n.º 34/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2005-606288), de 22 de fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP das Praias Urbanas da Costa da Caparica ([Resolução do Conselho de Ministros n.º 151/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2005-147650), de 26 de setembro, alterado e republicado pelo Edital n.º 282/2010, de 29 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP do Bairro do Campo da Bola, na Costa da Caparica ([Resolução do Conselho de Ministros n.º 33/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2005-606287), de 22 de fevereiro, retificado e alterado pela Deliberação n.º 2672/2008, de 7 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Caldas da Rainha ([Resolução do Conselho de Ministros n.º 101/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2002-145209), de 18 de junho, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PU de Salir do Porto (Aviso n.º 7928/2015, de 17 de julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Cascais (Aviso n.º 7212-B/2015, de 29 de junho, alterado por adaptação e republicado pelo Aviso n.º 3234/2017, de 28 de março, e com as correções materiais introduzidas pelo Aviso n.º 6459/2017, de 7 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP para a Reestruturação Urbanística dos Terrenos do Hotel Estoril-Sol e Área Envolvente ([Resolução do Conselho de Ministros n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2006-546011), de 31 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM da Lourinhã ([Resolução do Conselho de Ministros n.º 131/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-1999-692268), de 26 de outubro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Mafra (Aviso n.º 6614/2015, de 15 de junho, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM da Nazaré ([Resolução do Conselho de Ministros n.º 7/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-1997-533224), de 16 de janeiro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Óbidos ([Resolução do Conselho de Ministros n.º 187/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/187-1996-198910), de 28 de novembro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PU de Turisbel/Casalito (Declaração n.º 20/98, de 17 de janeiro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Peniche ([Resolução do Conselho de Ministros n.º 139/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-1995-689024), de 16 de novembro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PU da Zona Sul de Peniche ([Portaria n.º 909/94](https://diariodarepublica.pt/dr/detalhe/portaria/909-1994-619305), de 12 de outubro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Sesimbra ([Resolução do Conselho de Ministros n.º 15/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-1998-225644), de 2 de fevereiro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PU da Lagoa de Albufeira (Aviso n.º 10344/2013, de 16 de agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP da Zona norte da mata de Sesimbra (Aviso n.º 6004/2012, de 30 de abril)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP da Zona Sul da Mata de Sesimbra (Deliberação n.º 1012/2008, de 7 de abril, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Sintra ([Resolução do Conselho de Ministros n.º 116/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/116-1999-672612), de 4 de dezembro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP do Pedregal (Aviso n.º 6118/2016, de 12 de maio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP da Praia Grande (Deliberação n.º 873/2016, de 23 de maio, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PDM de Torres Vedras ([Resolução do Conselho de Ministros n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2007-642061), de 26 de setembro, na sua redação atual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
 
 PP da Área de Aptidão Turística da Maceira e Área Envolvente (Edital n.º 575/2011, de 14 de junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07200/0195002065.pdf)
+
+112215304

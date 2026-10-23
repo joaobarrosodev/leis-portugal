@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/184b00/24292433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/1996/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1996-405498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4220a05a9ba8930b47916900615544eb427ee86b43c4af482251fe959b47f91a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e27700e227ed4ad3ffe21ced4949d5af6e04b0478619b333352a8d6579e942b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Combustível
-- Veículo
-- Regulamento
 - Normalização
+- Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:682037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539236:por
+  label: "Determinada a aplicação do presente diploma até à entrada em vigor da portaria de regulamentação correspondente\
+    \ pelo DEC LEI.136/2006.26.07.2006.MAI, DR.IS [143] de 26.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2006-539236
+  date: '2006-07-26'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -91,16 +97,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/983/1991/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/983/1991/09/26/p/dre
+- type: repealed_by
+  target: pt:dre:258281:por
+  label: "Revogado, a partir de 01.05.2013, o anexo ii, pela LEI.13/2013.31.01.2013.AR, DR.IS [22] de 31.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2013-258281
+  date: '2013-01-31'
+- type: repealed_by
+  target: pt:dre:682037:por
+  label: Revogada, de forma tácita, a partir de 10 de julho de 2013, pelo(a) Portaria n.º 207-A/2013 - Diário da República
+    n.º 120/2013, 1º Suplemento, Série I de 2013-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-a-2013-682037
+  date: '2013-06-25'
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:35Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +146,7 @@ Manda o Governo, pelos Ministros da Administração Interna e da Economia, o seg
 
 Ministérios da Administração Interna e da Economia.
 
-**Assinada em 10 de Julho de 1996.**
+Assinada em 10 de Julho de 1996.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado da Administração Interna. - Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estado da Indústria e Energia.
 
@@ -365,7 +382,7 @@ O vaporizador/redutor de GPL deve encontrar-se afastado mais de 10 cm de qualque
 
 ## ANEXO II — Símbolo identificativo da utilização de GPL nos veículos automóveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/184b00/24292433.pdf))](https://files.diariodarepublica.pt/1s/1996/08/184b00/24292433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/184b00/24292433.pdf)
 
 1 - As características do símbolo para os veículos automóveis de matricula nacional e para os veículos anteriormente matriculados noutro país que entretanto obtenham matrícula portuguesa são as seguintes:
 

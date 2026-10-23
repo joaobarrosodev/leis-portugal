@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/132/2023/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-2023-223267497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af36be6cbe8c035eb6c6fc3b28b2cd2ca4f1ec3aac69a7c6362c613318198008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8a76975441a9b93b07249d772be9a6d6332b253bc354ce942817e37d235e423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Administração Pública
-- Setor Empresarial do Estado
+- Código dos Contratos Públicos
+- Conselho de Ministros
+- Estratégia Nacional para as Compras Públicas Ecológicas 2030
+- Governo XXIII
+- Plano de Recuperação e Resiliência
 - Portal dos Contratos Públicos
 - Proteção do Ambiente
-- Código dos Contratos Públicos
+- Regulamentação de Atos Legislativos
+- Setor Empresarial do Estado
 - Sistema Nacional de Compras Públicas
-- Plano de Recuperação e Resiliência
-- Governo XXIII
-- Estratégia Nacional para as Compras Públicas Ecológicas 2030
 relationships:
 - type: cites
   target: celex:32009L0128
@@ -118,16 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/13/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:114288884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:08Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +206,7 @@ Presidência do Conselho de Ministros, 19 de outubro de 2023. - O Primeiro-Minis
 
 ## ANEXO — (a que se refere o n.º 2)
 
-# Parte A
+Parte A
 
 Princípios gerais aplicáveis em matéria ecológica
 
@@ -202,97 +222,97 @@ Princípios gerais relativos a critérios ecológicos aplicáveis aos procedimen
 
 5 - Na identificação dos aspetos da execução do contrato e especificações técnicas deve a entidade adjudicante estabelecer preferencialmente prestações certificadas por sistemas de reconhecida fiabilidade (e. g. Rótulo Ecológico da UE).
 
-# Parte B
+Parte B
 
 Critérios ecológicos específicos
 
 1 - Contratos de aquisição de peças vestuário:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de adjudicação... | Multifator... | Obrigatório. |
-| Fatores/subfatores do critério de adjudicação. | Produção Biológica: Atribuição de, pelo menos, 5 % de ponderação ao fator. Atribuição de pontuação às propostas que cumpram com as certificações associadas à produção biológica em produtos têxteis, como por exemplo, o Rótulo Ecológico da UE, GOTS (Global Organic Textile Standards) e OCS (Organic Content Standard), ou equivalente. | Voluntário. |
-|  | Proteção Integrada: Atribuição de, pelo menos, 5 % de ponderação ao fator. Valorização da apresentação nas propostas de produtos que possuam certificações associadas à proteção integrada em fibras naturais. | Recomendável. |
-|  | Fibras artificiais de base florestal: Atribuição de, pelo menos 5 %, de ponderação ao fator. | Recomendável. |
+| Fatores/subfatores do critério de adjudicação. | Produção Biológica:<br>Atribuição de, pelo menos, 5 % de ponderação ao fator.<br>Atribuição de pontuação às propostas que cumpram com as certificações associadas à produção biológica em produtos têxteis, como por exemplo, o Rótulo Ecológico da UE, GOTS (Global Organic Textile Standards) e OCS (Organic Content Standard), ou equivalente. | Voluntário. |
+|  | Proteção Integrada:<br>Atribuição de, pelo menos, 5 % de ponderação ao fator.<br>Valorização da apresentação nas propostas de produtos que possuam certificações associadas à proteção integrada em fibras naturais. | Recomendável. |
+|  | Fibras artificiais de base florestal:<br>Atribuição de, pelo menos 5 %, de ponderação ao fator. | Recomendável. |
 |  | Valorização da apresentação de propostas cujos produtos possuam certificações associadas ao conteúdo de base florestal (pasta celulósica e cortiça), como por exemplo o Rótulo Ecológico da UE, PEFC (Programme for the Endorsement of Forest Certification) e FSC (Forest Stewardship Council), ou equivalente. | Recomendável. |
 |  | Valorização da apresentação de propostas cujos produtos possuam certificações associadas ao cumprimento da legislação laboral (ex: living wage e comércio justo). | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | Para produtos contendo fibras naturais, estes devem possuir um teor mínimo de fibras com origem em produção biológica, em produção integrada e/ou recicladas: a) Quanto à produção biológica deve considerar-se o seguinte: i) Produção biológica: fibras naturais obtidas de acordo com os requisitos previstos no [Regulamento (UE) 2018/848](http://data.europa.eu/eli/reg/2018/848/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo à produção biológica e à rotulagem dos produtos biológicos, no National Organic Programme (NOP) dos Estados Unidos da América ou em obrigações jurídicas equivalentes, estabelecidas pelos parceiros comerciais da UE; ou | Eventual. |
-|  | ii) Proteção integrada: fibras naturais obtidas de acordo com os princípios definidos no programa de Proteção Integrada da Organização das Nações Unidas para a Alimentação e a Agricultura ou com a [Diretiva 2009/128/CE](http://data.europa.eu/eli/dir/2009/128/oj?locale=pt) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas; b) Os produtos propostos para executar o contrato: i) Devem possuir um teor mínimo de fibras recicladas; | Recomendável. |
+| Aspetos da execução do contrato e especificações técnicas. | Para produtos contendo fibras naturais, estes devem possuir um teor mínimo de fibras com origem em produção biológica, em produção integrada e/ou recicladas:<br>a) Quanto à produção biológica deve considerar-se o seguinte:<br>i) Produção biológica: fibras naturais obtidas de acordo com os requisitos previstos no [Regulamento (UE) 2018/848](http://data.europa.eu/eli/reg/2018/848/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo à produção biológica e à rotulagem dos produtos biológicos, no National Organic Programme (NOP) dos Estados Unidos da América ou em obrigações jurídicas equivalentes, estabelecidas pelos parceiros comerciais da UE; ou | Eventual. |
+|  | ii) Proteção integrada: fibras naturais obtidas de acordo com os princípios definidos no programa de Proteção Integrada da Organização das Nações Unidas para a Alimentação e a Agricultura ou com a [Diretiva 2009/128/CE](http://data.europa.eu/eli/dir/2009/128/oj?locale=pt) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas;<br>b) Os produtos propostos para executar o contrato:<br>i) Devem possuir um teor mínimo de fibras recicladas; | Recomendável. |
 |  | ii) Caso contenham fibras artificiais de base celulósica, estas devem ser obtidas a partir de florestas com gestão sustentável, cumprindo, designadamente, as certificações associadas ao conteúdo de base florestal (pasta celulósica e cortiça), como por exemplo o Rótulo Ecológico da UE, PEFC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Programme for the Endorsement of Forest Certification) e FSC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Forest Stewardship Council), ou equivalente. | Recomendável. |
 
 2 - Contratos de aquisição de madeira e cortiça e contratos de empreitada de obras públicas, com utilização de madeira e cortiça:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de adjudicação... | Multifator... | Obrigatório. |
 | Aspetos da execução do contrato e especificações técnicas. | A madeira deve ser obtida a partir de florestas com certificação de gestão sustentável, como por exemplo PEFC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Programme for the Endorsement of Forest Certification) e FSC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Forest Stewardship Council) ou com o Rótulo Ecológico da UE, ou equivalente, num mínimo de 25 %. | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | O proponente deve demonstrar a origem da madeira e da cortiça, incluindo registos das transações que permitam a verificação e a rastreabilidade desde a origem da matéria-prima até ao fabrico e transformação, podendo incluir a utilização de certificados de origem e rastreabilidade emitidos por entidades terceiras. | Obrigatório. |
+| O proponente deve demonstrar a origem da madeira e da cortiça, incluindo registos das transações que permitam a verificação e a rastreabilidade desde a origem da matéria-prima até ao fabrico e transformação, podendo incluir a utilização de certificados de origem e rastreabilidade emitidos por entidades terceiras. | Obrigatório. |  |
 
 3 - Contratos de aquisição de eletricidade, incluindo para postos públicos de eletricidade para mobilidade elétrica:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de adjudicação... | Multifator para a formação de acordo-quadro... | Obrigatório. |
-| Critério de adjudicação... | Monofator ou multifator para os procedimentos de aquisição ao abrigo do acordo-quadro ou outros procedimentos aquisitivos. | Recomendável. |
+| Monofator ou multifator para os procedimentos de aquisição ao abrigo do acordo-quadro ou outros procedimentos aquisitivos. | Recomendável. |  |
 | Fatores/subfatores do critério de adjudicação. | Quando o critério de adjudicação utilizado seja o critério multifator, deve uma percentagem de quota de eletricidade ser produzida através de fontes de energia renováveis, sem prejuízo do parâmetro base infra. | Obrigatório. |
 | Aspetos da execução do contrato e especificações técnicas. | As propostas devem assegurar uma quota de eletricidade fornecida através de fontes de energia renováveis de, pelo menos, 25 %. | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | Tratando-se de propostas para a formação de contratos de aquisição de eletricidade para mobilidade elétrica a quota de energias renováveis deve ser de, pelo menos, 50 %. | Obrigatório. |
+| Tratando-se de propostas para a formação de contratos de aquisição de eletricidade para mobilidade elétrica a quota de energias renováveis deve ser de, pelo menos, 50 %. | Obrigatório. |  |
 
 4 - Contratos de aquisição de serviços de certificação energética, auditoria energética e projeto e de aquisição e instalação de sistema fotovoltaico de autoconsumo:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de adjudicação... | Multifator para a formação do acordo-quadro... | Obrigatório. |
-| Critério de adjudicação... | Monofator ou multifator para os procedimentos de aquisição ao abrigo do acordo-quadro ou outros procedimentos aquisitivos. | Recomendável. |
+| Monofator ou multifator para os procedimentos de aquisição ao abrigo do acordo-quadro ou outros procedimentos aquisitivos. | Recomendável. |  |
 | Fatores/subfatores do critério de adjudicação. | Capacidade de produção do sistema solar fotovoltaico proposto | Recomendável. |
 | Aspetos da execução do contrato e especificações técnicas. | As prestações de serviços de certificação energética, de sistema de gestão de consumos intensivos de energia e de auditoria energética devem obrigar à realização de planos de racionalização energética e de relatórios de execução e progresso. | Obrigatório. |
 |  | Durante a execução dos contratos de aquisição do fornecimento de sistemas fotovoltaicos, deve ser aferida a produção anual, tendo em conta o carácter variável desta fonte de energia, e aplicada uma penalidade contratual caso não seja atingida a produção garantida pelo cocontratante para o seu sistema fotovoltaico. | Recomendável. |
-|  | Os projetos para instalações fotovoltaicas devem obrigar a que o cocontratante seja responsável pela elaboração, implementação e acompanhamento do Plano de Gestão Ambiental do contrato, que inclui: a) O cumprimento de toda a legislação ambiental aplicável, tendo em consideração os aspetos ambientais resultantes de todas as atividades que vão ser desenvolvidas, mediante a identificação dos requisitos legais e outros requisitos aplicáveis a essas atividades, identificando os impactes ambientais e efetuando a sua avaliação; | Obrigatório. |
+|  | Os projetos para instalações fotovoltaicas devem obrigar a que o cocontratante seja responsável pela elaboração, implementação e acompanhamento do Plano de Gestão Ambiental do contrato, que inclui:<br>a) O cumprimento de toda a legislação ambiental aplicável, tendo em consideração os aspetos ambientais resultantes de todas as atividades que vão ser desenvolvidas, mediante a identificação dos requisitos legais e outros requisitos aplicáveis a essas atividades, identificando os impactes ambientais e efetuando a sua avaliação; | Obrigatório. |
 |  | b) A definição das medidas de prevenção e mitigação ambiental a adotar, sendo da sua responsabilidade assegurar o seu cumprimento integral; | Obrigatório. |
 |  | c) A responsabilização pela gestão dos resíduos gerados nos trabalhos, no cumprimento do Plano de Gestão Ambiental, considerando-se para todos os efeitos como entidade produtora dos resíduos. Compete-lhe, designadamente, a elaboração do Plano de Prevenção e Gestão de Resíduos de Construção e Demolição e o seu desenvolvimento. | Obrigatório. |
 
 5 - Contratos de aquisição de veículos e contratos de aluguer operacional de veículos:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de adjudicação... | Multifator... | Obrigatório. |
-| Fatores/subfatores do critério de adjudicação. | As entidades adjudicantes utilizam os seguintes fatores: a) Custo de exploração do consumo de energia gerado pelo veículo durante o seu tempo estimado de vida: Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |
-| Fatores/subfatores do critério de adjudicação. | b) Consumo de combustível: Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |
-| Fatores/subfatores do critério de adjudicação. | c) Custo de exploração das emissões poluentes (para veículos com motorização a combustão): Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |
-| Fatores/subfatores do critério de adjudicação. | d) Nível de emissões poluentes: Atribuição de pelo menos 5 % de ponderação ao fator. | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações: a) Custo de exploração do consumo de energia gerado pelo veículo durante o seu tempo estimado de vida: |  |
+| Fatores/subfatores do critério de adjudicação. | As entidades adjudicantes utilizam os seguintes fatores:<br>a) Custo de exploração do consumo de energia gerado pelo veículo durante o seu tempo estimado de vida: Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |
+| b) Consumo de combustível: Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |  |
+| c) Custo de exploração das emissões poluentes (para veículos com motorização a combustão): Atribuição de pelo menos 5 % de ponderação ao fator; | Obrigatório. |  |
+| d) Nível de emissões poluentes: Atribuição de pelo menos 5 % de ponderação ao fator. | Obrigatório. |  |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações:<br>a) Custo de exploração do consumo de energia gerado pelo veículo durante o seu tempo estimado de vida: |  |
 |  | i) Fixação de um nível máximo de consumo de energia para os veículos a combustão e veículos híbridos (incluindo híbridos plug-in); | Obrigatório. |
 |  | ii) Fixação de um nível máximo de consumo de energia para os veículos 100 % elétricos; | Eventual. |
 |  | b) Custo de exploração das emissões poluentes (para veículos com motorização a combustão), em especial para emissões de CO(índice 2), deve fixar-se um nível máximo de emissões poluentes. | Obrigatório. |
 
 6 - Contratos de aquisição de papel para fotocópia e impressão:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |
 | Critério de adjudicação... | Multifator... | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações: a) Papel fabricado a partir de fibras recuperadas: i) O papel deve ser TCF (Totalmente Livre de Cloro)/PCF (Process Chlorine Free) ou ECF (Livre de Cloro Elementar); | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações:<br>a) Papel fabricado a partir de fibras recuperadas:<br>i) O papel deve ser TCF (Totalmente Livre de Cloro)/PCF (Process Chlorine Free) ou ECF (Livre de Cloro Elementar); | Obrigatório. |
 |  | ii) O papel contendo fibras recuperadas deve ser fabricado a partir de um total de pelo menos 25 % de fibras de papel recuperadas; | Obrigatório. |
-|  | b) Papel fabricado a partir de fibras virgens legais e/ou sustentáveis: As fibras virgens para a produção de pasta de papel devem provir de fontes legais e/ou sustentáveis. | Obrigatório. |
-|  | O proponente deve demonstrar que os produtos apresentados satisfazem os seguintes requisitos: i) Papel fabricado a partir de fibras recuperadas: Produtos que detenham uma licença de utilização e rótulo ecológico ISO 14024 (tipo I) ou o Rótulo Ecológico da UE, ou equivalente; | Recomendável. |
+|  | b) Papel fabricado a partir de fibras virgens legais e/ou sustentáveis:<br>As fibras virgens para a produção de pasta de papel devem provir de fontes legais e/ou sustentáveis. | Obrigatório. |
+|  | O proponente deve demonstrar que os produtos apresentados satisfazem os seguintes requisitos:<br>i) Papel fabricado a partir de fibras recuperadas: Produtos que detenham uma licença de utilização e rótulo ecológico ISO 14024 (tipo I) ou o Rótulo Ecológico da UE, ou equivalente; | Recomendável. |
 |  | ii) Papel fabricado a partir de fibras virgens legais e/ou sustentáveis: Os certificados da cadeia de custódia ou de responsabilidade das fibras de madeira com certificação florestal FSC (Forest Stewardship Council), PEFC (Programme for the Endorsement of Forest Certification) ou o Rótulo Ecológico da UE, ou equivalente, podem ser aceites como prova de conformidade; | Recomendável. |
 |  | iii) A origem legal da madeira deve cumprir o [Regulamento (UE) 995/2010](http://data.europa.eu/eli/reg/2010/995/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, quer através da implementação de um sistema de rastreabilidade, quer de outro mecanismo de prova como sejam autodeclarações de prova ou licenças FLEGT/CITES. | Recomendável. |
 
 7 - Contratos de aquisição de mobiliário:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
-| Critério de qualificação... | O candidato deve demonstrar: Ter certificação ISO 14001 (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente; | Recomendável. |
-| Critério de qualificação... | Ter implementado o Sistema de ecogestão e auditoria EMAS, ou equivalente. | Recomendável. |
+|  |  |  |
+| Critério de qualificação... | O candidato deve demonstrar:<br>Ter certificação ISO 14001 (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente; | Recomendável. |
+| Ter implementado o Sistema de ecogestão e auditoria EMAS, ou equivalente. | Recomendável. |  |
 | Critério de adjudicação... | Multifator ... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações: Requisitos gerais para o fornecimento dos bens: i) Definição de uma percentagem mínima de componentes e/ou materiais recicláveis na composição dos bens; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes definem os seguintes requisitos/especificações:<br>Requisitos gerais para o fornecimento dos bens:<br>i) Definição de uma percentagem mínima de componentes e/ou materiais recicláveis na composição dos bens; | Obrigatório. |
 |  | ii) Entrega agregada de bens; | Recomendável. |
 |  | iii) Embalamento utilizando materiais recicláveis ou reutilizáveis; | Recomendável. |
 |  | iv) Recolha seletiva, transporte e despejo dos desperdícios e resíduos da atividade para posterior tratamento, reciclagem ou reutilização; | Recomendável. |
@@ -301,32 +321,32 @@ Critérios ecológicos específicos
 |  | vii) Utilização de tintas e vernizes ecológicos, quando aplicável; | Recomendável. |
 |  | viii) Os materiais de base florestal devem provir de florestas geridas de modo sustentável, fontes controladas e/ou materiais recuperados; | Recomendável. |
 |  | ix) A madeira deve ser obtida a partir de florestas com certificação de gestão sustentável, como por exemplo PEFC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Programme for the Endorsement of Forest Certification) e FSC[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20700/0002600041.pdf) (Forest Stewardship Council) ou o Rótulo Ecológico da UE. | Obrigatório. |
-|  | Para efeitos dos procedimentos aquisitivos, o proponente deve demonstrar que os produtos apresentados satisfazem o seguinte requisito: A origem da madeira e da cortiça, incluindo registos das transações que permitam a verificação e a rastreabilidade desde a origem da matéria-prima até ao fabrico e transformação. Pode incluir a utilização de certificados de origem e rastreabilidade emitidos por entidades terceiras. |  |
+|  | Para efeitos dos procedimentos aquisitivos, o proponente deve demonstrar que os produtos apresentados satisfazem o seguinte requisito:<br>A origem da madeira e da cortiça, incluindo registos das transações que permitam a verificação e a rastreabilidade desde a origem da matéria-prima até ao fabrico e transformação. Pode incluir a utilização de certificados de origem e rastreabilidade emitidos por entidades terceiras. |  |
 
 8 - Contratos de aquisição de serviços de higiene e limpeza:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes devem definir os seguintes requisitos/especificações: Utilização de produtos produzidos em conformidade com requisitos de rótulos ecológicos ou outros rótulos ambientais tipo I (ISO 14024) equivalentes, nacionais ou regionais (por exemplo o Rótulo Ecológico da UE), ou equivalente; | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | O proponente deve proceder à recolha e assegurar o destino adequado aos resíduos produzidos e/ou recolhidos no decurso da prestação de serviços. | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | O proponente deve realizar um mínimo de uma ação de formação e sensibilização dos seus trabalhadores, por ano, sobre boas práticas ambientais. | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adjudicantes devem definir os seguintes requisitos/especificações:<br>Utilização de produtos produzidos em conformidade com requisitos de rótulos ecológicos ou outros rótulos ambientais tipo I (ISO 14024) equivalentes, nacionais ou regionais (por exemplo o Rótulo Ecológico da UE), ou equivalente; | Obrigatório. |
+| O proponente deve proceder à recolha e assegurar o destino adequado aos resíduos produzidos e/ou recolhidos no decurso da prestação de serviços. | Obrigatório. |  |
+| O proponente deve realizar um mínimo de uma ação de formação e sensibilização dos seus trabalhadores, por ano, sobre boas práticas ambientais. | Obrigatório. |  |
 
 9 - Contratos de aquisição de serviços de refeições confecionadas:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |
-| Critério de qualificação... | O candidato deve demonstrar possuir certificação aplicável às práticas de gestão em economia circular para a atividade relacionada com o objeto do contrato a celebrar. | Eventual. |
+| O candidato deve demonstrar possuir certificação aplicável às práticas de gestão em economia circular para a atividade relacionada com o objeto do contrato a celebrar. | Eventual. |  |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | Devem ser cumpridos os seguintes requisitos/especificações: a) Requisitos gerais para a prestação do serviço: i) Assegurar a recolha seletiva, transporte e despejo dos desperdícios e resíduos da atividade para posterior tratamento e reciclagem; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | Devem ser cumpridos os seguintes requisitos/especificações:<br>a) Requisitos gerais para a prestação do serviço:<br>i) Assegurar a recolha seletiva, transporte e despejo dos desperdícios e resíduos da atividade para posterior tratamento e reciclagem; | Obrigatório. |
 |  | ii) Fornecimento de artigos (talheres, pratos, recipientes) reutilizáveis ou, não sendo possível, de artigos produzidos a partir de materiais sustentáveis e recicláveis; | Recomendável. |
 |  | iii) Não utilização de artigos descartáveis, salvo quando exista uma razão ponderosa para o fazer, caso em que é obrigatória a utilização de produtos 100 % reciclados; | Recomendável. |
 |  | iv) Utilização de embalagens provenientes de matérias-primas recicladas e/ou de materiais recicláveis ou reutilizáveis; | Recomendável. |
-|  | b) Requisitos para a confeção de refeições e elaboração das ementas: i) Utilização de géneros alimentícios de origem próxima do local da confeção; | Eventual. |
+|  | b) Requisitos para a confeção de refeições e elaboração das ementas:<br>i) Utilização de géneros alimentícios de origem próxima do local da confeção; | Eventual. |
 |  | ii) Utilização de produtos da época; | Eventual. |
 |  | iii) Produtos alimentares não provenientes de práticas agrícolas e pecuárias intensivas; | Eventual. |
 |  | iv) Utilização de métodos e estratégias que permitam evitar o desperdício alimentar; | Obrigatório. |
@@ -337,56 +357,56 @@ Critérios ecológicos específicos
 |  | ix) O açúcar, o café, o chocolate e o chá devem ser total ou parcialmente biológicos e de comércio justo; | Recomendável. |
 |  | x) O azeite deve ser biológico; | Recomendável. |
 |  | xi) O peixe fresco e o marisco devem provir de fontes controladas e sustentáveis (de preferência com certificações como MSC, Friend of the Sea, etc.); | Eventual. |
-|  | c) Requisitos para os produtos de limpeza a utilizar: i) Utilização de produtos produzidos em conformidade com requisitos de rótulos ecológicos e/ou que apresentem rótulo biológico nacional ou europeu (por exemplo o Rótulo Ecológico da UE), ou equivalente; | Obrigatório. |
-|  | d) O proponente deve demonstrar: i) Deter plano de recolha, seleção e tratamento de resíduos; | Obrigatório. |
+|  | c) Requisitos para os produtos de limpeza a utilizar:<br>i) Utilização de produtos produzidos em conformidade com requisitos de rótulos ecológicos e/ou que apresentem rótulo biológico nacional ou europeu (por exemplo o Rótulo Ecológico da UE), ou equivalente; | Obrigatório. |
+|  | d) O proponente deve demonstrar:<br>i) Deter plano de recolha, seleção e tratamento de resíduos; | Obrigatório. |
 |  | ii) A natureza dos materiais utilizados nas embalagens... | Recomendável. |
 
 10 - Contratos de aquisição de serviços de agenciamento de viagens e alojamentos:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
-| Critério de qualificação... | O candidato deve demonstrar: i) Ter certificação IATA; | Obrigatório. |
-| Critério de qualificação... | ii) Ter certificação ISO 14001 (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |
+|  |  |  |
+| Critério de qualificação... | O candidato deve demonstrar:<br>i) Ter certificação IATA; | Obrigatório. |
+| ii) Ter certificação ISO 14001 (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |  |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | Deve ser assegurada a disponibilização de: i) Bilhetes eletrónicos; | Obrigatório. |
-| Aspetos da execução do contrato e especificações técnicas. | ii) Documentação da viagem por meios eletrónicos. | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | Deve ser assegurada a disponibilização de:<br>i) Bilhetes eletrónicos; | Obrigatório. |
+| ii) Documentação da viagem por meios eletrónicos. | Obrigatório. |  |
 
 11 - Contratos de aquisição de serviços de manutenção de sistemas de aquecimento, ventilação e ar condicionado (AVAC):
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
-| Critério de qualificação... | O candidato deve demonstrar: i) Ter certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente; | Recomendável. |
-|  | ii) Que se encontra certificado para o manuseamento de gases fluorados com efeito de estufa, em conformidade com o [Decreto-Lei n.º 145/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), de 30 de novembro, na sua redação atual, para instalação, reparação, manutenção ou assistência técnica e desmantelamento de equipamentos de refrigeração fixos, equipamentos de ar condicionado fixos e bombas de calor fixas que contêm gases fluorados com efeito de estufa emitido por entidade habilitada para tal. No caso de o certificado ser do técnico, assinatura de termo de responsabilidade pelas ações em representação da entidade candidata. | Obrigatório. |
+|  |  |  |
+| Critério de qualificação... | O candidato deve demonstrar:<br>i) Ter certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente; | Recomendável. |
+|  | ii) Que se encontra certificado para o manuseamento de gases fluorados com efeito de estufa, em conformidade com o [Decreto-Lei n.º 145/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2017-114288884), de 30 de novembro, na sua redação atual, para instalação, reparação, manutenção ou assistência técnica e desmantelamento de equipamentos de refrigeração fixos, equipamentos de ar condicionado fixos e bombas de calor fixas que contêm gases fluorados com efeito de estufa emitido por entidade habilitada para tal.<br>No caso de o certificado ser do técnico, assinatura de termo de responsabilidade pelas ações em representação da entidade candidata. | Obrigatório. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes devem definir os seguintes requisitos/especificações: a) Requisitos da prestação de serviços: i) Os serviços de manutenção devem cumprir os requisitos definidos na legislação em vigor, nomeadamente os relativos ao Sistema de Certificação Energética dos Edifícios (SCE) e demais legislação complementar; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes devem definir os seguintes requisitos/especificações:<br>a) Requisitos da prestação de serviços:<br>i) Os serviços de manutenção devem cumprir os requisitos definidos na legislação em vigor, nomeadamente os relativos ao Sistema de Certificação Energética dos Edifícios (SCE) e demais legislação complementar; | Obrigatório. |
 |  | ii) Cumprimento da periodicidade adequada à realização dos trabalhos de manutenção para assegurar que não há desperdício de energia na utilização dos equipamentos nem a emissão de gases e/ou de materiais nefastos para a saúde; | Obrigatório. |
 |  | iii) Assegurar a recolha seletiva, transporte e despejo dos desperdícios e resíduos da atividade para posterior tratamento e reciclagem. | Obrigatório. |
-|  | b) Especificações mínimas dos filtros de ar: Cumprimento da certificação ISSO 16890-1:2016, na sua redação atual, que define as especificações técnicas, requisitos e sistema de classificação dos filtros assente na eficiência energética dos equipamentos, ou equivalente. | Obrigatório. |
+|  | b) Especificações mínimas dos filtros de ar:<br>Cumprimento da certificação ISSO 16890-1:2016, na sua redação atual, que define as especificações técnicas, requisitos e sistema de classificação dos filtros assente na eficiência energética dos equipamentos, ou equivalente. | Obrigatório. |
 |  | Sempre que possível e não coloque em causa a qualidade do ar nem o cumprimento de normas legais e regras técnicas, são utilizadas peças reparadas ou recicladas. | Recomendável. |
 
 12 - Contratos de aquisição de serviços de manutenção de instalações de sistemas de elevação e escadas rolantes:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Eventual. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes definem os seguintes requisitos/especificações: a) Requisitos da prestação de serviços: i) Cumprimento dos requisitos definidos na legislação em vigor, nomeadamente os relativos ao SCE e demais legislação complementar; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes definem os seguintes requisitos/especificações:<br>a) Requisitos da prestação de serviços:<br>i) Cumprimento dos requisitos definidos na legislação em vigor, nomeadamente os relativos ao SCE e demais legislação complementar; | Obrigatório. |
 |  | ii) Cumprimento da periodicidade adequada à realização dos trabalhos de manutenção para assegurar que não há desperdício de energia na utilização dos equipamentos nem de materiais nefastos para a saúde; | Recomendável. |
 |  | iii) Identificação e recolha de materiais nocivos nas instalações de elevação, recolha seletiva, transporte e despejo dos desperdícios e resíduos da atividade para posterior tratamento e reciclagem; | Obrigatório. |
-|  | b) Especificações mínimas dos filtros de ar: i) Cumprimento da certificação ISO 16890-1:2016, na sua redação atual, que define as especificações técnicas, requisitos e sistema de classificação dos filtros assente na eficiência energética dos equipamentos, ou equivalente. | Obrigatório. |
+|  | b) Especificações mínimas dos filtros de ar:<br>i) Cumprimento da certificação ISO 16890-1:2016, na sua redação atual, que define as especificações técnicas, requisitos e sistema de classificação dos filtros assente na eficiência energética dos equipamentos, ou equivalente. | Obrigatório. |
 |  | Sempre que possível e não coloque em causa a qualidade do ar nem o cumprimento de normas legais vigentes, são utilizadas peças reparadas ou recicladas. | Recomendável. |
 
 13 - Contratos de aquisição de serviços de cópia e impressão em regime de outsourcing e aquisição de equipamentos de cópia e impressão:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Eventual. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes devem definir os seguintes requisitos/especificações: i) Certificação dos equipamentos Blue Angel, Nordic Swan, EPEAT, o Rótulo Ecológico da UE, ou equivalente; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | As entidades adquirentes devem definir os seguintes requisitos/especificações:<br>i) Certificação dos equipamentos Blue Angel, Nordic Swan, EPEAT, o Rótulo Ecológico da UE, ou equivalente; | Obrigatório. |
 |  | ii) Em caso de avaria, não deve ser exigida a substituição de peças por outras novas, desde que fique assegurado o mesmo nível de serviço e de eficiência energética; | Recomendável. |
 |  | iii) Os equipamentos devem permitir a utilização de papéis de gramagens mais baixas e de papel reciclado, desde que não comprometa a qualidade da impressão; | Obrigatório. |
 |  | iv) Os equipamentos devem permitir a utilização de tinteiros e toners reciclados, desde que não comprometam o regular funcionamento do equipamento; | Recomendável. |
@@ -399,12 +419,12 @@ Critérios ecológicos específicos
 
 14 - Contratos de aquisição ou locação de equipamento informático:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Eventual. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas | As entidades adquirentes definem os seguintes requisitos/especificações: i) Certificação dos equipamentos: Blue Angel, Nordic Swan, EPEAT, TCO certified, o Rótulo Ecológico da UE, ou equivalente; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas | As entidades adquirentes definem os seguintes requisitos/especificações:<br>i) Certificação dos equipamentos: Blue Angel, Nordic Swan, EPEAT, TCO certified, o Rótulo Ecológico da UE, ou equivalente; | Obrigatório. |
 |  | ii) Não deve ser exigida a disponibilização ou fornecimento, no todo ou em parte, de equipamentos novos, salvo em caso de impossibilidade de reparação; | Recomendável. |
 |  | iii) Em caso de avaria, não deve ser exigida a substituição de peças por outras novas, desde que fique assegurado o mesmo nível de performance e de eficiência energética; | Recomendável. |
 |  | iv) Definição de níveis máximos de consumo energético... | Obrigatório. |
@@ -416,14 +436,14 @@ Critérios ecológicos específicos
 
 15 - Contratos de aquisição de produtos alimentares, serviço de catering e serviços de venda automática:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação aplicável às práticas de gestão em economia circular para a atividade relacionada com o objeto do contrato a celebrar. | Eventual. |
 | Critério de adjudicação... | Multifator... | Obrigatório. |
 | Fatores/subfatores do critério de adjudicação. | Uma percentagem mínima de produtos fornecidos em embalagens não individuais (a granel). | Eventual. |
-| Fatores/subfatores do critério de adjudicação. | Uma percentagem mínima dos alimentos adquiridos mediante circuitos curtos (comercialização efetuada por venda direta do produtor ao consumidor ou por venda indireta através de um único intermediário). | Recomendável. |
-| Aspetos da execução do contrato e especificações técnicas. | Aquisição de produtos alimentares: a) Uma percentagem em pelo menos um grupo específico de produtos alimentares fornecidas deve ser proveniente de práticas de produção integrada e/ou biológica; | Recomendável. |
+| Uma percentagem mínima dos alimentos adquiridos mediante circuitos curtos (comercialização efetuada por venda direta do produtor ao consumidor ou por venda indireta através de um único intermediário). | Recomendável. |  |
+| Aspetos da execução do contrato e especificações técnicas. | Aquisição de produtos alimentares:<br>a) Uma percentagem em pelo menos um grupo específico de produtos alimentares fornecidas deve ser proveniente de práticas de produção integrada e/ou biológica; | Recomendável. |
 |  | b) Realização de um mínimo de uma ação de formação de trabalhadores, por ano, e sensibilização de clientes com vista à prevenção do desperdício alimentar; | Recomendável. |
 |  | c) Os produtos de papel, tais como o papel de cozinha ou os guardanapos de papel, a utilizar na prestação do serviço, devem ser reutilizáveis ou ser fabricados a partir de fibras virgens geridas de forma sustentável ou recicladas; | Recomendável. |
 |  | d) O açúcar, o café, o chocolate e o chá devem ser total ou parcialmente biológicos e de comércio justo; | Recomendável. |
@@ -438,33 +458,35 @@ Critérios ecológicos específicos
 
 16 - Contratos de empreitada de obras públicas:
 
-|  |  |  |
+|  | Tipo | Natureza<br>(obrigatório/recomendável/<br>eventual) |
 | --- | --- | --- |
-|  | Tipo | Natureza (obrigatório/recomendável/ eventual) |
+|  |  |  |
 | Critério de qualificação... | O candidato deve demonstrar possuir certificação ISO 14001 e/ou EMAS (certificação ambiental) para atividade relacionada com o objeto do contrato a celebrar, ou equivalente. | Recomendável. |
 | Critério de adjudicação... | Multifator... | Recomendável. |
-| Fatores/subfatores do critério de adjudicação. | Utilização de betão: Atribuição de uma percentagem de ponderação ao fator utilização de betão neutro em carbono. | Eventual. |
-|  | Utilização de aço: Atribuição de uma percentagem mínima de ponderação ao fator utilização de aço neutro em carbono. | Eventual. |
-|  | Utilização de materiais reutilizados ou reciclados: Atribuição de uma percentagem mínima de ponderação ao fator utilização de materiais reutilizado ou reciclados. | Obrigatório. |
+| Fatores/subfatores do critério de adjudicação. | Utilização de betão:<br>Atribuição de uma percentagem de ponderação ao fator utilização de betão neutro em carbono. | Eventual. |
+|  | Utilização de aço:<br>Atribuição de uma percentagem mínima de ponderação ao fator utilização de aço neutro em carbono. | Eventual. |
+|  | Utilização de materiais reutilizados ou reciclados:<br>Atribuição de uma percentagem mínima de ponderação ao fator utilização de materiais reutilizado ou reciclados. | Obrigatório. |
 |  | Utilização de sistemas de base natural, como «green roofs» ou «living roof» | Eventual. |
 |  | Atribuição de uma percentagem mínima de ponderação ao fator utilização de sistemas de base natural, como os «green roofs» ou «living roof» | Eventual. |
-| Aspetos da execução do contrato e especificações técnicas. | Especificações gerais, em todas as empreitadas de obras públicas, de autossuficiência energética e ambiental, designadamente: a) Soluções energéticas que visem a autossuficiência e a redução da potência instalada (quando aplicável), recorrendo preferencialmente a soluções passivas e à produção de energia a partir de fontes renováveis a nível local, de modo a atingir emissões zero; | Obrigatório. |
+| Aspetos da execução do contrato e especificações técnicas. | Especificações gerais, em todas as empreitadas de obras públicas, de autossuficiência energética e ambiental, designadamente:<br>a) Soluções energéticas que visem a autossuficiência e a redução da potência instalada (quando aplicável), recorrendo preferencialmente a soluções passivas e à produção de energia a partir de fontes renováveis a nível local, de modo a atingir emissões zero; | Obrigatório. |
 |  | b) Mecanismos de gestão eficiente dos recursos hídricos (quando aplicável), tendo em conta todo o ciclo da água, desde a captação até à evacuação (rede de água potável, água reutilizável, águas pluviais); | Recomendável. |
 |  | c) Utilização de materiais de construção com o menor impacte ambiental possível, ao longo do seu ciclo de vida; | Obrigatório. |
 |  | d) Incorporação de soluções de prevenção, reutilização, reciclagem e recolha de resíduos baseadas nos princípios da economia circular; | Obrigatório. |
 |  | e) Na construção e renovação de cozinhas, quando se pretenda a instalação de doseadores de produtos estes devem ser automáticos e com controlo de fluxo. | Eventual. |
-|  | Especificações gerais, nas empreitadas de obras públicas para construção ou reabilitação de espaços verdes, de autossuficiência energética e ambiental, designadamente: a) Critérios para maximizar a autossuficiência energética: i) A minimização do consumo de energia, aplicando critérios de eficiência energética aos sistemas de iluminação e outros sistemas elétricos (ex: sistemas de iluminação LED, sistemas de regulação e outras medidas semelhantes); | Obrigatório. |
+|  | Especificações gerais, nas empreitadas de obras públicas para construção ou reabilitação de espaços verdes, de autossuficiência energética e ambiental, designadamente:<br>a) Critérios para maximizar a autossuficiência energética:<br>i) A minimização do consumo de energia, aplicando critérios de eficiência energética aos sistemas de iluminação e outros sistemas elétricos (ex: sistemas de iluminação LED, sistemas de regulação e outras medidas semelhantes); | Obrigatório. |
 |  | ii) A maximização da produção de energia em autoconsumo; | Recomendável. |
-|  | b) Critérios relativos ao aumento da biodiversidade: i) A diversificação das espécies arbóreas e a sua seleção em função das vantagens ambientais que oferecem (como a capacidade de reter as partículas de poeira e outros poluentes); | Obrigatório. |
+|  | b) Critérios relativos ao aumento da biodiversidade:<br>i) A diversificação das espécies arbóreas e a sua seleção em função das vantagens ambientais que oferecem (como a capacidade de reter as partículas de poeira e outros poluentes); | Obrigatório. |
 |  | ii) A permeabilização dos solos nos espaços públicos... | Obrigatório. |
 |  | iii) A aplicação de medidas de controlo das espécies vegetais exóticas e invasoras; | Obrigatório. |
 |  | iv) O enriquecimento dos espaços verdes existentes e melhoria da sua função de habitat; | Obrigatório. |
-|  | c) Critérios relativos à autossuficiência hídrica (quando aplicável): i) A otimização dos sistemas de rega nas zonas verdes; | Obrigatório. |
+|  | c) Critérios relativos à autossuficiência hídrica (quando aplicável):<br>i) A otimização dos sistemas de rega nas zonas verdes; | Obrigatório. |
 |  | ii) A implementação de sistemas de aproveitamento de águas pluviais para reutilização na rega; | Recomendável. |
 |  | iii) A seleção de espécies com menores necessidades hídricas, idealmente espécies que não necessitem de rega, adaptadas ao clima local. | Recomendável. |
-|  | Eficiência energética dos edifícios: a) Parâmetros base de eficiência energética (redução do consumo, incluindo no mínimo: i) A incorporação do controlo dos sistemas de iluminação; | Obrigatório. |
+|  | Eficiência energética dos edifícios:<br>a) Parâmetros base de eficiência energética (redução do consumo, incluindo no mínimo:<br>i) A incorporação do controlo dos sistemas de iluminação; | Obrigatório. |
 |  | ii) A monitorização e visualização do consumo de energia e da produção própria (para os projetos de edifícios com uma superfície construída superior a 3000 m2 ou uma procura de energia superior a 150 000 kWh/ano); | Recomendável. |
 |  | b) Outros parâmetros base de eficiência energética, tais como as especificações das portas, janelas, iluminação elétrica, instalações de AVAC, instalações de consumo de água e instalações de energia renováveis. | Recomendável. |
-|  | Instalações sanitárias: a) Na construção e renovação de instalações sanitárias, quando se pretenda a instalação de urinóis é obrigatório que os mesmos operem sem a utilização de água; | Obrigatório. |
+|  | Instalações sanitárias:<br>a) Na construção e renovação de instalações sanitárias, quando se pretenda a instalação de urinóis é obrigatório que os mesmos operem sem a utilização de água; | Obrigatório. |
 |  | b) Na construção e renovação de instalações sanitárias, a utilização nos autoclismos é total ou parcialmente com recurso a água reciclada ou pluvial; | Recomendável. |
 |  | c) Na construção e renovação de instalações sanitárias, quando se pretenda a instalação de doseadores de produtos estes devem ser automáticos e com controlo de fluxo. | Recomendável. |
+
+116986693

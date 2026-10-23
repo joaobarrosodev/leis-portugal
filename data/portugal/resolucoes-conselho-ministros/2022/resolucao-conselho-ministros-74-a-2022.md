@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 172/2022, 1º Suplemento, Série I de 2022-09-06
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 23-(9) a 23-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17201/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/74-a/2022/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-a-2022-200734338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e53957ce2d1d8ca9762aab2d64063efe504d820aa0a4d6ad4c6e2d413d9d9b8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 477c5ff94c63d432b73783379be6475e890652a33462a2b6f5cbfaf5b3e3eda3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,44 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Actualização de Renda
-- Protecção à Família
-- Gás Natural
-- Titulo de Transporte
-- Energia Elétrica
+- Arrendamento Rural
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Assembleia da República
 - Código do IVA
 - Coeficiente de Actualização
 - Comboio
-- Política Fiscal
-- Política de Família
 - Compensação Financeira
 - Complemento Especial de Pensão
 - Consumidor
-- Arrendamento Rural
-- Arrendamento Urbano não Habitacional
 - CP
+- Diploma Legal
+- Energia Elétrica
 - Factura
+- Gás Natural
 - Gasóleo
 - Gasolina
+- Inflação
 - IRS
 - IVA
-- Inflação
-- Política de Transportes
-- Assembleia da República
 - Passe Social
 - Pensionista
-- Proteção na Velhice
+- Política de Família
 - Política de Habitação
 - Política de Preços
+- Política de Transportes
+- Política Fiscal
 - Política Social
 - Preço
 - Prestações da Segurança Social
 - Proteção do Consumidor
-- Diploma Legal
+- Proteção na Velhice
 - Proteção Social
+- Protecção à Família
 - Rendimento
 - Segurança Social
-- Arrendamento Urbano para Habitação
 - Taxa
+- Titulo de Transporte
 - Trabalhador
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
@@ -130,16 +130,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1514/2008/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1514/2008/12/24/p/dre
+- type: cites
+  target: pt:dre:127764896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129413161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:55Z'
   warnings: []
   errors: []
 ---
@@ -193,3 +217,5 @@ b) A criação de um apoio extraordinário à tributação dos rendimentos predi
 10 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 5 de setembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115670288

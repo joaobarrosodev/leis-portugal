@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/215/2025/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/215-2025-992879811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e9d6096ad09ff8987a19304945ebc0f2fb09f8417e49064c65110b4a3aabedf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e135043203ad976e4eec586785e4c2a657f1d7813b05082a9a383dac13254d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Balcão Único do Prédio
 - Cadastro das Áreas de Floresta
 - Cadastro Geométrico
-- Ordenamento do Território
+- Estrutura de Missão para a Expansão do Sistema de Informação Cadastral Simplificado
 - Mandato
+- Ordenamento do Território
 - Prédio Rústico
 - Registo Predial
-- Balcão Único do Prédio
-- Estrutura de Missão para a Expansão do Sistema de Informação Cadastral Simplificado
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:45/2020
+  label: Altera, a partir de 30 de dezembro de 2025 e nos termos dos n.ºs 3 e 4, os n.ºs 4, 19, 25 e 27 da Resolução do Conselho
+    de Ministros n.º 45/2020, de 16 de junho, Diário da República n.º 115/2020, Série I
+  source: null
+  date: '2020-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -94,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/2020/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2020/06/16/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135844796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206037169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:20Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +160,7 @@ Assim:
 
 Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>4, 19, 25 e 27 da [Resolução do Conselho de Ministros n.º 45/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2020-135844796), de 16 de junho, alterada pela [Resolução do Conselho de Ministros n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2023-206037169), de 13 de janeiro, que passam a ter a seguinte redação:
+1 - Alterar os n.os4, 19, 25 e 27 da [Resolução do Conselho de Ministros n.º 45/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2020-135844796), de 16 de junho, alterada pela [Resolução do Conselho de Ministros n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2023-206037169), de 13 de janeiro, que passam a ter a seguinte redação:
 
 «4 - Determinar que, para a prossecução dos objetivos fixados no número anterior, a Estrutura de Missão é a entidade responsável pela execução física do investimento com a referência RE-C08-i02.03 designado por ‘Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial’, enquadrado na componente C08 do Plano de Recuperação e Resiliência, competindo ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.) prestar-lhe, nos termos do n.º 25, o apoio necessário à sua adequada execução, dentro dos prazos e de acordo com as metas e marcos acordados com a Estrutura de Missão ‘Recuperar Portugal’.
 
@@ -162,8 +188,10 @@ h) [...]
 
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
-3 - Determinar que as alterações aos n.<sup>os</sup>4 e 25 da [Resolução do Conselho de Ministros n.º 45/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2020-135844796), de 16 de junho, na redação conferida pela presente resolução, produzem efeitos no dia seguinte ao da conclusão do processo de fusão da Secretaria-Geral do Ministério da Justiça.
+3 - Determinar que as alterações aos n.os4 e 25 da [Resolução do Conselho de Ministros n.º 45/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2020-135844796), de 16 de junho, na redação conferida pela presente resolução, produzem efeitos no dia seguinte ao da conclusão do processo de fusão da Secretaria-Geral do Ministério da Justiça.
 
 4 - Determinar que a alteração ao n.º 27 da [Resolução do Conselho de Ministros n.º 45/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2020-135844796), de 16 de junho, na redação conferida pela presente resolução, produz efeitos a 31 de dezembro de 2025.
 
 Presidência do Conselho de Ministros, 11 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119931917

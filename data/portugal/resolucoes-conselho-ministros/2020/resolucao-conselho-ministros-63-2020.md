@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2020/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbdad1412e2e3448939ae10605c8a03fa96b73c9d56a12f477de746648691530
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b91df77e0f047093ad1bc048091f5d02a2f64bba58b96ed715259972adbfe88e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Energia
 - Gás Natural
+- Proteção do Ambiente
+- Sector Industrial
 - Transporte Marítimo
 - Transporte Rodoviário
-- Proteção do Ambiente
-- Energia
-- Sector Industrial
 relationships:
 - type: cites
   target: celex:32013R0347
@@ -100,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:114832287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:50Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +216,7 @@ Face ao caminho já percorrido e à ambição demonstrada para continuar a lider
 
 Figura 1 - Metas energia e clima de Portugal para o horizonte 2030 [Fonte: PNEC 2030]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Na próxima década, o setor da energia será aquele que dará o maior contributo para a descarbonização, pelo que a transição energética assume um papel especialmente relevante no contexto da transição para uma sociedade descarbonizada. A estratégia de Portugal para a próxima década, e com reflexo nas seguintes, assenta numa combinação de diversas opções de políticas e medidas, bem como de opções tecnológicas variadas, procurando encontrar sinergias. Nesta ótica, merece destaque o papel que os gases renováveis, em particular o hidrogénio, podem desempenhar na descarbonização dos vários setores da economia (ex.: indústria e transportes), o que permitirá alcançar níveis elevados de incorporação de fontes renováveis de energia no consumo final de energia de forma mais eficiente, e por outro lado, tendo em conta a sua flexibilidade e complementaridade com o Sistema Elétrico Nacional (SEN), seja na versão consumo, armazenamento ou produção, permite acelerar a descarbonização do próprio setor elétrico.
 
@@ -222,13 +234,13 @@ O hidrogénio tem como principais vantagens, entre outros, o facto de: (i) em co
 
 Figura 2 - O hidrogénio enquanto vetor fundamental para a descarbonização da economia nacional rumo à neutralidade carbónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 A presente EN-H2 tem como objetivo principal introduzir um elemento de incentivo e estabilidade para o setor energético, promovendo a introdução gradual do hidrogénio enquanto pilar sustentável e integrado numa estratégia mais abrangente de transição para uma economia descarbonizada, enquanto oportunidade estratégica para o país. Para o efeito, a EN-H2 enquadra o papel atual e futuro do hidrogénio no sistema energético e propõe um conjunto de medidas e metas de incorporação para o hidrogénio nos vários setores da economia. Isto implica a criação das condições necessárias que viabilizem esta visão, o que inclui legislação e regulamentação, segurança, standards, inovação e desenvolvimento, financiamento, entre outros. Neste sentido, as medidas propostas têm como objetivo promover e dinamizar, tanto a produção, como o consumo nos vários setores da economia, criando as necessárias condições para uma verdadeira economia de hidrogénio em Portugal, em que esta evolução será feita de forma faseada, permitindo implementar as ações e adquirir os conhecimentos necessários para desenvolver e dar continuidade a esta EN-H2.
 
 Figura 3 - Estratégia para o hidrogénio em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Esta EN-H2 cumpre ainda outro importante objetivo, o de dar um enquadramento sólido e uma visão de curto, médio e longo prazo, a todas as empresas e promotores com projetos de hidrogénio em curso ou em fase inicial. Desta forma, permitir-se-á consolidar estes projetos numa Estratégia mais vasta e coerente que possibilitará novas sinergias e perspetivar os necessários apoios, nacionais e europeus, essenciais nesta fase de arranque, em que o papel das autoridades públicas é determinante.
 
@@ -256,7 +268,7 @@ PRINCIPAIS MENSAGENS
 
 OS NOSSOS OBJETIVOS PARA 2020-2030:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 OS INDICADORES DE SUCESSO DA ESTRATÉGIA PARA 2030:
 
@@ -382,7 +394,7 @@ Nos últimos três anos, o custo com a importação petróleo e de gás natural 
 
 Tabela 1 - Fatura Energética do gás natural [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 CONSUMO DE ENERGIA
 
@@ -396,11 +408,11 @@ Da mesma forma que o aumento da eletrificação dos consumos assente em fontes r
 
 Figura 4 - Evolução do consumo total de energia primária por tipo de fonte em Portugal 1990-2018 (ktep) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 5 - Evolução do consumo total de energia final por tipo de fonte em Portugal 1990-2018 (ktep) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, o consumo de hidrogénio em Portugal é usado para novas formas de energia e quase na sua totalidade no setor industrial (ex.: refinação), sendo na sua totalidade produzido com recurso a gás natural. No caso do setor da refinação, o hidrogénio é usado na unidade de hidrocraqueamento (hydrocracking) de gasóleo pesado no complexo da refinaria de Sines. Em condições extremas, as partículas de petróleo mais pesadas são fracionadas através da injeção de hidrogénio e por ação de catalisadores, o que permite converter frações petrolíferas com elevado ponto de ebulição e pouco valorizadas em frações leves, mais valorizadas. O hidrogénio permite operar a temperaturas inferiores, com maior seletividade e, portanto, com melhores rendimentos (5).
 
@@ -408,11 +420,11 @@ Em 2018, a produção e o consumo de hidrogénio estimou-se em cerca de 187 ktep
 
 Figura 6 - Evolução da produção e do consumo de hidrogénio em Portugal (tep) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 7 - Evolução do consumo gás natural para a produção de hidrogénio em Portugal (tep) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 PRINCIPAIS INDICADORES
 
@@ -422,11 +434,11 @@ Com o hidrogénio enquanto opção viável para descarbonizar os consumos de ene
 
 Figura 8 - Evolução da quota de energias de fontes renováveis no consumo final bruto de energia em Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 9 - Evolução da quota de energias de fontes renováveis no consumo final bruto de energia em Portugal por setor [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Um dos principais desafios e objetivos da atual política energética nacional passa por reduzir a dependência energética do exterior. Historicamente, Portugal apresenta uma dependência energética elevada, entre 80 % e 90 % até ao ano de 2009, fruto da inexistência de produção nacional de fontes de energia fósseis, como o petróleo ou gás natural, que têm um peso muito significativo no consumo final de energia. A aposta nas energias renováveis tem permitido a Portugal baixar a sua dependência para níveis inferiores a 80 %, e em 2018 a dependência energética situou-se em 77,9 % (75,9 % incluindo o contributo das bombas de calor), representando uma redução de 1,8 p.p. face a 2017 e uma redução de 10,9 p.p. face a 2005, ano em que a dependência energética registou o valor mais elevado dos últimos anos.
 
@@ -434,7 +446,7 @@ A trajetória para a neutralidade carbónica conduzirá a uma utilização muito
 
 Figura 10 - Evolução da Dependência Energética externa de Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Em termos de emissões de GEE, dados relativos ao ano 2018, estima-se em cerca de 67,4 Mt CO(índice 2e), sem contabilização das emissões de alteração do uso do solo e florestas (LULUCF), representando um aumento de cerca de 15,0 % face a 1990 e um decréscimo de 4,6 % relativamente a 2017. Considerando o setor LULUCF, o total de emissões em 2018 é estimado em 61,1 MtCO(índice 2e), correspondendo a um aumento de 2,2 % em relação a 1990 e a uma redução de 24,0 % face a 2017. Em termos setoriais, o setor da energia, que inclui os transportes, representa em 2018 cerca de 72 % das emissões nacionais, apresentando um decréscimo de 5,5 % face a 2017. Neste setor, a produção de energia e os transportes são as fontes mais importantes representando respetivamente cerca de 27 % e 26 % do total das emissões nacionais. A combustão na indústria é responsável por cerca de 11 % das emissões nacionais, os setores processos industriais e uso de produtos (IPPU), agricultura e resíduos têm um peso aproximado, representando 11 %, 10 % e 7 %, respetivamente.
 
@@ -442,7 +454,7 @@ A aposta em novos vetores energéticos, como seja, o hidrogénio, que irá gradu
 
 Figura 11 - Evolução das emissões nacionais de Gases com Efeito de Estufa (MtCO(índice 2e)) [Fonte: APA, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 SETOR ELÉTRICO
 
@@ -456,11 +468,11 @@ Dadas as características do hidrogénio, em particular a complementaridade que 
 
 Figura 12 - Evolução da Produção Bruta de Eletricidade em Portugal (GWh) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 13 - Evolução da capacidade instalada para a produção de eletricidade em Portugal por tipo de fonte (MW) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 SETOR DO GÁS NATURAL
 
@@ -478,7 +490,7 @@ Existem duas interligações entre a RNTGN e a rede de transporte de Espanha, Ca
 
 Tabela 2 - Capacidades das interligações de GN entre Portugal e Espanha [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 O TGNL de Sines está localizado estrategicamente na costa atlântica europeia e integra o conjunto das infraestruturas destinadas à receção e expedição de navios metaneiros, armazenamento e regaseificação de GNL para a rede de transporte, bem como o carregamento de GNL em camiões cisterna, nomeadamente:
 
@@ -496,13 +508,13 @@ A expansão do TGNL de Sines, concluída em julho de 2012, permitiu o aumento da
 
 Tabela 3 - Principais características do Terminal de GNL de Sines [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 No AS do Carriço, uma infraestrutura é fundamental para a constituição das reservas de segurança necessárias para garantia do abastecimento, o gás natural é armazenado em alta pressão em cavernas, criadas no interior de um maciço salino, a profundidades superiores a mil metros, encontram-se em operação 6 cavidades, com uma capacidade total de armazenamento de 3 839 GWh (322,6 Mm3), que utilizam a mesma estação de gás de superfície, que permite a movimentação bidirecional de fluxo, ou seja, a injeção de gás da rede de transporte para as cavernas e a extração de gás das cavernas para a rede de transporte. O AS do Carriço tem atualmente capacidade de injeção de 24 GWh/dia (83 000 m3(n)/h) e uma capacidade de extração de 129 GWh/dia (450 000 m3(n)/h).
 
 Tabela 4 - Principais características do Armazenamento Subterrâneo do Carriço [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Portugal conta igualmente com uma Rede de Distribuição de Gás Natural (RDGN), interligada com a rede de transporte, e que assegura o trânsito do gás natural entre a rede nacional de transporte e os pontos de consumo industrial e doméstico (em MP e BP).
 
@@ -510,17 +522,17 @@ Conta também com um conjunto de redes de distribuição local, que são abastec
 
 Tabela 5 - Caracterização de mercado de gás natural em Portugal na Rede de Distribuição [Fonte: PDIRGN 2018]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 14 - Mapa da rede nacional de transporte e distribuição de Gás Natural
 
 Rede Nacional de Transporte [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Rede Nacional de Distribuição [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 A Região Autónoma da Madeira tem, desde 2014, experiência de importação e utilização de gás liquefeito para produção de energia elétrica. A operadora Gáslink assegura a cadeia logística de transporte de gás natural liquefeito entre Portugal continental e a Região Autónoma da Madeira, em contentores criogénicos, bem como o armazenamento e a regaseificação numa UAG, com capacidade de 600 m3. Em 2018, foram importados 30 Mm3 de gás natural para produção de energia elétrica, existindo a oportunidade de adaptação para a utilização de hidrogénio produzido a partir de fontes renováveis intermitentes, em linha com a medida de ação do PNEC2030 de promover o phase-out da produção de eletricidade a partir de fuelóleo e gasóleo nas Regiões Autónomas, e com as metas nacionais de incorporação, em volume, de hidrogénio no setor eletroprodutor.
 
@@ -530,7 +542,7 @@ Considerando um PCI médio para o gás natural de 11,9 kWh/m3, tendo em conta o 
 
 Figura 15 - Representação da evolução do PCS do gás face à incorporação de hidrogénio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Importa referir que o facto do operador da RNTGN ser o mesmo que o da RNT, e pelo facto de existir um regulador único para os setores do gás e da eletricidade, a ERSE, facilita a integração gradual dos sistemas de gás e de eletricidade (setor coupling), o que constitui um contexto regulatório e setorial mais favorável para a introdução do hidrogénio produzido a partir de eletricidade renovável no sistema energético nacional.
 
@@ -546,11 +558,11 @@ Figura 16 - Recursos endógenos renováveis em Portugal
 
 Mapa da disponibilidade anual de radiação solar global (kWh/m2) [Fonte: IPES ] (15)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Mapa onshore do número de horas equivalentes de funcionamento à potência nominal (h/ano) [Fonte: LNEG ] (16)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 A produção de hidrogénio por eletrólise consome água como matéria-prima na ordem dos 9 litros/kg de hidrogénio produzido, e apenas para a estequiometria da reação, o que torna o consumo de água para este efeito relevante, mas na mesma ordem de grandeza de outras tecnologias produtoras de energia final (ex.: o consumo de água para produção de eletricidade é muito variável consoante o tipo de sistema de arrefecimento para centrais termoelétricas - 1 a 4 429 m3/GWh - ou tipo de energia renovável - 4 a 456 m3/GWh para a lavagem de painéis fotovoltaicos). No entanto, os fornecedores de eletrolisadores referem diversos valores, consoante a tecnologia, e que em média são da ordem dos 13,4 litros/kg de hidrogénio, o que corresponde a cerca de 400 m3/GWh de hidrogénio produzido.
 
@@ -570,7 +582,7 @@ Por outro lado, e no curto prazo, assegurando-se o tratamento adequado para o ef
 
 Figura 17 - Estações de Tratamento de Águas Residuais com tratamento por lamas ativadas (consideradas como as de maior potencial de sinergia com projetos H2) [Fonte: Águas de Portugal, S. A.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Também no setor industrial, o aproveitamento de águas residuais resultantes dos processos industriais poderá constituir uma alternativa e ser reaproveitada na produção de hidrogénio, que por sua vez, poderá ser consumido diretamente no local de produção, recuperando parte da água gasta no processo, promovendo uma nova alternativa para substituição de combustíveis fósseis neste setor.
 
@@ -578,7 +590,7 @@ O aproveitamento deste vasto recurso, cuja reutilização atualmente é pouco si
 
 Tabela 6 - fontes potenciais de água para eletrólise e possíveis opções de tratamento necessárias [Fonte: LNEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 PRINCIPAIS MENSAGENS:
 
@@ -598,7 +610,7 @@ Para que esta Estratégia cumpra o seu objetivo principal - promover a introduç
 
 Figura 18 - Bases para a criação de uma economia de hidrogénio em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Alcançar a neutralidade carbónica em 2050 implica uma redução significativa das emissões de GEE, que se traduz numa trajetória de redução de -45 % a -55 % em 2030, -65 % a -75 % em 2040 e -85 % a -90 % em 2050, face aos níveis de 2005. Cumprir com esta trajetória representa um conjunto de desafios verdadeiramente transformacionais, com particular relevo para os padrões de produção e consumo e à forma como produzimos e consumimos a nossa energia. Importa desde já traçar uma Estratégia que permita alcançar e consolidar esta trajetória, assente numa combinação de tecnologias de baixo carbono, salvaguardando uma economia nacional competitiva e resiliente.
 
@@ -610,7 +622,7 @@ No horizonte 2030, o contributo do hidrogénio para a descarbonização deste se
 
 Tabela 7 - Meta global nacional e metas nacionais setoriais de redução de emissões de CO(índice 2eq) face a 2005 [Fonte: RNC2050, PNEC 2030]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Pese embora no âmbito do PNEC 2030 não tenha sido definida uma meta setorial específica de redução de emissões para o setor da indústria, sendo um setor com grande peso nas emissões de GEE e onde se prevê uma descarbonização a um ritmo menos acelerado, não deixa de ser um setor altamente motivado para as questões de eficiência de recursos, eficiência energética, competitividade e inovação e que terá necessariamente que contribuir para a meta nacional de redução de emissões de 45 % a 55 %, a par do setor da produção de energia. O RNC2050 aponta para um potencial de redução de 48 % a 52 % para o setor da indústria no horizonte 2030, o que demonstra o potencial de redução das emissões existente.
 
@@ -620,7 +632,7 @@ No âmbito do PNEC 2030 estabeleceu-se como um dos objetivos estratégicos a "pr
 
 Tabela 8 - Potencial de redução de emissões, em relação a 2005, para o setor da Indústria resultante do exercício de modelação do RNC2050 [Fonte: RNC2050]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Portugal apresenta fortes argumentos para continuar a construir uma estratégia baseada em fontes de energia renovável rumo a uma economia neutra em carbono. A ambição e a determinação de Portugal para estar na vanguarda da transição energética materializa-se em metas ambiciosas, mas exequíveis, para 2030, tendo sido definida uma meta de 47 % de fontes renováveis no consumo final bruto de energia neste horizonte, uma das mais ambiciosas a nível europeu.
 
@@ -630,7 +642,7 @@ O hidrogénio irá desempenhar um papel em todos os subsetores - eletricidade, t
 
 Tabela 9 - Meta global nacional de renováveis e metas nacionais setoriais [Fonte: PNEC 2030]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Neste contexto, o hidrogénio terá um importante papel a desempenhar na descarbonização da economia nacional, em particular nos setores que atualmente dispõem de poucas opções tecnológicas alternativas e onde a eletrificação no curto-médio prazo poderá traduzir-se em custos significativos, contribuindo para a concretização das metas em matéria de energia e clima rumo à neutralidade carbónica. Portugal poderá assim apostar em soluções de escala variável, com diferentes tecnologias e com grande dispersão territorial que criam valor, garantem flexibilidade ao sistema energético e descarbonizam os consumos de energia, cuja aplicação se coloca com elevada pertinência nas Regiões Autónomas, onde a redução da dependência energética, a segurança do abastecimento e a descarbonização a economia estão dependentes da valorização dos recursos endógenos renováveis e das soluções de armazenamento de energia.
 
@@ -638,7 +650,7 @@ O hidrogénio é uma via tecnológica compatível com os padrões atuais de cons
 
 Figura 19 - Oportunidades para a descarbonização da economia por via do hidrogénio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Esta perceção sobre o enorme potencial do hidrogénio na transição energética, foi recentemente amplificada pelo facto de Portugal ter alcançado resultados extremamente positivos no que respeita ao custo de produção de eletricidade renovável, designadamente por via do solar fotovoltaico (no primeiro leilão realizado em Portugal verificaram-se os preços mais baixos da Europa e mínimos mundiais, alcançando-se uma tarifa média ponderada de 20,33 (euro)/MWh, com um mínimo de 14,76 (euro)/MWh e um máximo de 31,16 (euro)/MWh). Este nível médio de tarifa permite antecipar que a produção de hidrogénio por via de eletrólise possa ser feita a custos consideravelmente baixos e muito competitivos com as atuais soluções, superando-se no médio prazo os atuais custos de produção. É incontornável considerar que esta dinâmica permitirá e induzirá mudanças mais rápidas e profundas no sistema energético do que atualmente se perspetiva. Com este pressuposto, entre outros, temos a oportunidade de transformar Portugal de um país importador de combustíveis fósseis para um país exportador de fontes renováveis de energia.
 
@@ -868,7 +880,7 @@ III. Uso final: No terceiro estágio, a cadeia de abastecimento de hidrogénio �
 
 Figura 20 - Esquema genérico da cadeia de valor do hidrogénio, da produção ao uso final
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 As atuais características do sistema energético nacional, determinaram a seleção de um conjunto de configurações estratégicas para a cadeia de valor do hidrogénio, onde se inclui:
 
@@ -890,7 +902,7 @@ A cadeia de valor P2G assume duas variantes principais: Power-to-Hydrogen (P2H) 
 
 Figura 21 - Esquema genérico da cadeia de valor P2G
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, já são várias as empresas e os promotores com projetos P2G em curso ou em fase de projeto, que demonstra o interesse e a dinâmica já gerada no domínio do hidrogénio e em particular no domínio desta cadeia de valor. Encontram-se já em curso os seguintes projetos em Portugal, nomeadamente:
 
@@ -904,7 +916,7 @@ Esta cadeia de valor dirigida à mobilidade e aos transportes considera a instal
 
 Figura 22 - Esquema genérico da cadeia de valor P2M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, já são várias as empresas e os promotores com projetos P2M em curso ou em fase de projeto, que demonstra o interesse e a dinâmica já gerada no domínio do hidrogénio e em particular no domínio desta cadeia de valor. Encontram-se já em curso os seguintes projetos em Portugal, nomeadamente:
 
@@ -920,7 +932,7 @@ O hidrogénio tem por isso potencial para substituir as matérias-primas de orig
 
 Figura 23 - Esquema genérico da cadeia de valor P2I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, já são várias as empresas e os promotores com projetos P2I em curso ou em fase de projeto, que demonstra o interesse e a dinâmica já gerada no domínio do hidrogénio e em particular no domínio desta cadeia de valor. Encontram-se já em curso os seguintes projetos em Portugal, nomeadamente:
 
@@ -934,7 +946,7 @@ Os combustíveis sintéticos são habitualmente produzidos via reformação a va
 
 Figura 24 - Esquema genérico da cadeia de valor P2FUEL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, já são várias as empresas e os promotores com projetos P2I em curso ou em fase de projeto, que demonstra o interesse e a dinâmica já gerada no domínio do hidrogénio e em particular no domínio desta cadeia de valor. Encontram-se já em curso os seguintes projetos em Portugal, nomeadamente:
 
@@ -948,7 +960,7 @@ Por exemplo, e para fazer face a anos hidrológicos secos, nos quais se verifica
 
 Figura 25 - Esquema genérico da cadeia de valor P2G
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Atualmente, já são várias as empresas e os promotores com projetos P2P em curso ou em fase de projeto, que demonstra o interesse e a dinâmica já gerada no domínio do hidrogénio e em particular no domínio desta cadeia de valor. Encontram-se já em curso os seguintes projetos em Portugal, nomeadamente:
 
@@ -984,7 +996,7 @@ De forma a assegurar que a presente EN-H2 é implementada da melhor forma, e que
 
 Figura 26 - Fases de implementação da EN-H2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 As políticas e medidas de ação que se apresentam seguidamente, estão organizadas de acordo com oito áreas, correspondentes às diferentes fases da cadeia de valor que foram identificadas, e organizadas de acordo com a três fases de implementação da presente EN-H2.
 
@@ -1006,35 +1018,35 @@ As políticas e medidas de ação que se apresentam seguidamente, estão organiz
 
 1 - PRODUÇÃO DE HIDROGÉNIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 2 - ARMAZENAMENTO, TRANSPORTE E DISTRIBUIÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 3 - DESCARBONIZAÇÃO DOS TRANSPORTES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 4 - DESCARBONIZAÇÃO DA INDÚSTRIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 5 - DESCARBONIZAÇÃO DA PRODUÇÃO DE ELETRICIDADE E CALOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 6 - COMBUSTÍVEIS SINTÉTICOS E OUTROS USOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 7 - EMPREGO, REQUALIFICAÇÃO E FORMAÇÃO PROFISSIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 8 - AÇÕES TRANSVERSAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 2.4 - METAS E OBJETIVOS NACIONAIS
 
@@ -1050,7 +1062,7 @@ A quantificação destes objetivos, teve como ponto de partida um trabalho de mo
 
 Tabela 10 - Metas e objetivos de incorporação de hidrogénio nos vários setores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 2.5 - PROJETO INDUSTRIAL EM SINES
 
@@ -1062,7 +1074,7 @@ Portugal apresenta condições muito favoráveis para a instalação de uma ind�
 
 Figura 27 - Localização estratégica de Sines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Este projeto à escala industrial para a produção de hidrogénio verde, está focado em alavancar a energia solar, mas também eólica, enquanto fatores de competitividade (o custo da eletricidade representa a maior fatia do custo de produção e Portugal apresenta uma enorme vantagem competitiva face aos restantes países porque apresenta custos de produção de eletricidade mais baixos), na transformação industrial e na oportunidade para aumentar as exportações.
 
@@ -1070,7 +1082,7 @@ Para além da localização estratégica de Sines que aporta uma vantagem compet
 
 Figura 28 - Recursos disponíveis para alavancar o projeto de Sines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Em concreto, pretende-se que o projeto para a instalação de unidade industrial em Sines para a produção de hidrogénio verde tenha uma capacidade total em eletrolisadores de, pelo menos, 1 GW até 2030 e seja alimentado por energia elétrica de origem renovável, nomeadamente solar e eólica.
 
@@ -1080,13 +1092,13 @@ O objetivo passa por implementar a solução que otimiza os recursos para a prod
 
 Figura 27 - Curva de produção expectável consoante o perfil de produção de eletricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 O hidrogénio produzido em Sines será escoado por três vias: (i) injeção direta nas redes de gás natural, (ii) distribuição por camião cisterna para diversos pontos de consumo (ex.: estações de serviço com postos de hidrogénio e/ou consumidores finais) e (iii) exportação via terminal de Sines. Numa primeira fase, e dada a menor dimensão do projeto, prevê-se que o hidrogénio produzido em Sines seja totalmente absorvido pelo mercado nacional, mas à medida que a capacidade de produção crescer, começará a ganhar relevância a exportação para o mercado europeu, nomeadamente para os Países Baixos, por via marítima.
 
 Figura 28 - Composição do projeto de produção de hidrogénio verde à escala industrial em Sines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Em termos externos, o objetivo é posicionar o porto de Sines como um importante hub de hidrogénio verde, que permita a exportação para o norte da Europa, em particular para os Países Baixos, e posteriormente para outros países e regiões, pelo que a concretização deste projeto será alicerçada em parcerias estratégicas, quer nacionais, quer europeias e internacionais, contribuindo para o sucesso deste projeto. Em primeiro lugar, passará por uma parceria estratégica com os Países Baixos, com potencial para abranger outros Estados-Membros, dando uma dimensão europeia ao projeto e de forma a reunir melhores condições para assegurar financiamento comunitário e identificar parceiros para aprofundar o conhecimento nesta cadeia de valor. A cooperação entre Estados-Membros em torno da economia do hidrogénio verde contribui de forma muito significativa e concreta para uma estratégia ambiental e climática da UE, combinando competitividade e sustentabilidade.
 
@@ -1102,7 +1114,7 @@ O projeto prevê abranger quatro grandes áreas de interesse da cadeia de valor,
 
 Tabela 11 - Estrutura preliminar para a execução do projeto de Sines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 CLUSTER INDUSTRIAL
 
@@ -1224,13 +1236,13 @@ Para além dos indicadores de sucesso, são apresentados um conjunto de outros i
 
 Tabela 12 - Indicadores de monitorização da Estratégia Nacional para o hidrogénio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Além da monitorização em si, por via do acompanhamento dos indicadores, prevê-se também um esquema de avaliação e revisão regular desta Estratégia. O tema do hidrogénio é bastante dinâmico e sujeito a novos desenvolvimentos e inovação de forma constante, pelo que será necessário adotar uma Estratégia que possa ser adaptada em função dos desenvolvimentos, quer a nível nacional, quer a nível internacional. Numa primeira fase, a avaliação e revisão da Estratégia liga-se ao calendário previsto para o PNEC 2030, pelo que se propõem momentos de avaliação e revisão.
 
 Tabela 13 - Calendário previsto para a revisão e monitorização da Estratégia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 PRINCIPAIS MENSAGENS:
 
@@ -1292,15 +1304,15 @@ Os resultados são importantes para avaliar o impacto da introdução do hidrog�
 
 Figura 29 - Produção de hidrogénio 2020 2050 para os diferentes cenários [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 30 - Aplicação do hidrogénio renovável [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Figura 31 - Consumos finais de hidrogénio 2020-2050 para os diferentes cenários (kton) (29) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 PRINCIPAIS MENSAGENS
 
@@ -1340,7 +1352,7 @@ Apoiar o investimento em novos projetos desta natureza permitirá tirar partido 
 
 O novo instrumento de recuperação NextGenerationEU (NGEU), fornecerá aos Estados Membros os meios necessários para enfrentar os desafios da pandemia da doença COVID-19. Os montantes disponíveis no âmbito da NGEU serão alocados a sete programas individuais, dois quais cinco estarão disponíveis para apoiar a transição energética, incluindo o hidrogénio: Mecanismo de Recuperação e Resiliência, Assistência de Recuperação para a Coesão e os Territórios da Europa, Mecanismo para a Transição Justa, Horizonte Europa e InvestEU.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 INSTRUMENTOS NACIONAIS
 
@@ -1366,7 +1378,7 @@ Acrescenta-se a importância de os fundos comunitários serem mobilizados logo q
 
 Pela sua natureza, estrutura e a existência de instrumentos de acompanhamento e fiscalização, este mecanismo para a atribuição dos apoios ao investimento é plenamente concorrencial e transparente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Fundo Ambiental
 
@@ -1506,11 +1518,11 @@ A implementação deste mecanismo de leilão deverá ter em consideração um co
 
 Figura 32 - Estimativa dos montantes anuais para o apoio à produção de hidrogénio verde entre 2021 e 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 Tabela 14 - Estimativas para a realização dos leilões, numa base anual, para a injeção de hidrogénio verde nas redes de gás
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15800/0000700088.pdf)
 
 PARTICIPAÇÃO NO MERCADO DE SERVIÇOS DE SISTEMA
 
@@ -1625,3 +1637,5 @@ Em paralelo com a consulta pública, foram organizadas 6 sessões de discussão 
 (39) https://ec.europa.eu/clima/policies/innovation-fund_en
 
 (40) https://www.eib.org/en/products/blending/innovfin/products/energy-demo-projects.htm
+
+113476638

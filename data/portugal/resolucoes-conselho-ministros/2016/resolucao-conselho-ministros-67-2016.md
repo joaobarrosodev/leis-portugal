@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20600/0382403825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/67/2016/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2016-75606250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a667630a16df29044beb7ca7a044d8eca5e31e4c9155d9067aa3e5a270bd154d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39db8573f6f6e667a3017db37b61895fcf08cb2235ce6622ea6921424086d3c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral da Saúde
-- Criação de Serviços
-- Serviço Nacional de Saúde
-- TIC
-- Estabelecimento Prisional
-- Investigação
-- Universidade
 - Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
-- Tecnologia
+- Centro Educativo
+- Centro Nacional de TeleSaúde
+- Criação de Serviços
+- Direção Geral da Saúde
+- Estabelecimento Prisional
+- Informação de Saúde
+- Investigação
 - Qualidade de VIDA
 - REDE de Prestação de Cuidados de Saúde
-- Informação de Saúde
-- Centro Educativo
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Tecnologia
 - Telemedicina
-- Centro Nacional de TeleSaúde
-relationships: []
+- TIC
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:2433752:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:15Z'
   warnings: []
   errors: []
 ---

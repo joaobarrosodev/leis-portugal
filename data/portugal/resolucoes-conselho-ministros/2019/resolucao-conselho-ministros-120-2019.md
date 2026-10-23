@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14300/0001000012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/120/2019/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2019-123545115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3928f32ed096529702bf1c99ee06efefa23fb20adb42697e15caedb458d205f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47c03b97fcbc081b63a6519e114779ea29865488025ddbd952bae3c65717c3da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,30 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aquisição de Bens e Serviços
+- Armamento
 - Autorização de Despesas
 - Avião
 - Conselho de Ministros
+- Contratação Pública
 - Contrato Administrativo
-- Portugal
 - Delegação de Competências
 - Despesas Públicas
-- Armamento
-- Política de Defesa
+- Governo XXI
 - Indústria Aeronáutica
 - Ministro da Defesa Nacional
-- Governo XXI
-- Contratação Pública
+- Política de Defesa
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:147814580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147814580:por
+  label: Alterados a al. a) do n.º 1 e o anexo ii pelo(a) Resolução do Conselho de Ministros n.º 95/2020 - Diário da República
+    n.º 217/2020, Série I de 2020-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/95-2020-147814580
+  date: '2020-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/68/2009/08/05/p/dre
   label: null
@@ -122,16 +128,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2015/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2015/09/21/p/dre
+- type: cites
+  target: pt:dre:107761908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115460924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117418416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122592080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70331761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74717231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:59Z'
   warnings: []
   errors: []
 ---
@@ -216,4 +274,6 @@ Presidência do Conselho de Ministros, 11 de julho de 2019. - O Primeiro-Ministr
 
 ## ANEXO II — Repartição dos encargos previstos nos n.os 1 e 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/14300/0001000012.pdf))](https://files.diariodarepublica.pt/1s/2019/07/14300/0001000012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/14300/0001000012.pdf)
+
+112479236

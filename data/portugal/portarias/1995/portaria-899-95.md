@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/899/1995/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-1995-462386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab61922da55308c55250ed0189a3e6220bbea96b5238589b88e31019c031edbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f79daf9584256be9da2d78ea29e46343c15352bd24d879e109e9d76139480d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Superior Militar
 - Curso
-- Ensino Superior Politécnico
-- Numerus Clausus
-- Estabelecimento de Ensino
 - Ensino Superior
+- Ensino Superior Militar
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:692787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692787:por
+  label: "Alterado o anexo I pela PORT.1388/95.22.11.1995.ME, DR.IS-B [270] de 22.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1388-1995-692787
+  date: '1995-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
@@ -85,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53/1995/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/1995/03/20/p/dre
+- type: cites
+  target: pt:dre:166202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:45Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +142,7 @@ São divulgadas, através do anexo III à presente portaria, as vagas para os co
 
 Ministério da Educação.
 
-**Assinada em 21 de Junho de 1995.**
+Assinada em 21 de Junho de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -137,16 +150,16 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Instituições de ensino superior universitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)
 
 ## ANEXO II — Vagas para os concursos locais - 1995
 
 Instituições de ensino superior politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)
 
 ## ANEXO III — Vagas para os concursos locais - 1995
 
 Instituições de ensino superior militar e policial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45544555.pdf)

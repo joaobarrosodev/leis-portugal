@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20100/0026300268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/137/2024/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/137-2024-891107798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5fea8dab706ec78c48bd228139f8396ae3784696e627141a9676c47ad403fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9e326a58daa4bd5fee0682f06e61095fe68befef7f7f089ffc1fac5047b29bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Conselho de Ministros
 - Conselho Geral
 - Educação
-- Mandato
 - Instituto de Avaliação Educativa
+- Mandato
 - Nomeação
 - Prorrogação de Prazo
 relationships:
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2022/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2022/07/04/p/dre
+- type: cites
+  target: pt:dre:117246230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161521475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185601682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:37Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +119,9 @@ validation:
 
 O [Decreto-Lei n.º 102/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), de 25 de julho, aprovou a orgânica do Instituto de Avaliação Educativa, I. P. (IAVE, I. P.). Nos termos do disposto nos artigos 8.º e 13.º desse diploma, o conselho geral é o órgão de apoio e participação na definição das linhas gerais de atuação do IAVE, I. P., bem como nas tomadas de decisão do conselho diretivo, sendo constituído por 12 elementos indicados por diversas entidades.
 
-Conforme resulta dos n.<sup>os</sup>2 e 5 do referido artigo 13.º, os membros do conselho geral são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da educação, para um mandato de quatro anos, renovável duas vezes.
+Conforme resulta dos n.os2 e 5 do referido artigo 13.º, os membros do conselho geral são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da educação, para um mandato de quatro anos, renovável duas vezes.
 
-Pelas Resoluções do Conselho de Ministros n.<sup>os</sup> [166/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2018-117246230), de 6 de dezembro, e [53/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2022-185601682), de 4 de julho, foram designados os membros do conselho geral para mandatos que se iniciaram em 22 de novembro de 2018 e em 23 de junho de 2022, respetivamente.
+Pelas Resoluções do Conselho de Ministros n.os [166/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2018-117246230), de 6 de dezembro, e [53/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2022-185601682), de 4 de julho, foram designados os membros do conselho geral para mandatos que se iniciaram em 22 de novembro de 2018 e em 23 de junho de 2022, respetivamente.
 
 Atendendo a que terminaram os mandatos dos membros do conselho geral indicados pelo Conselho Coordenador dos Institutos Superiores Politécnicos, bem como o mandato do diretor-geral da Direção-Geral da Educação, torna-se necessário proceder à designação dos novos membros deste órgão, para um mandato de quatro anos.
 
@@ -155,7 +171,7 @@ h) Maria Assunção Flores Fernandes e Mónica Baptista, indicadas pelo Ministro
 
 Presidência do Conselho de Ministros, 26 de setembro de 2024. - Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem os n.os1 e 2)
 
 Notas curriculares
 
@@ -296,3 +312,5 @@ Membro de equipas de projetos financiados pela Fundação para a Ciência e Tecn
 É autora e coautora de mais de uma centena de publicações nas áreas da educação em ciências, da educação STEM e da formação e desenvolvimento profissional de professores.
 
 Em 2011 recebeu o Prémio Instituto de Educação/Caixa Geral de Depósitos - Melhor tese de doutoramento na área Currículo, Didática e Formação de Professores e em 2023 o Prémio Científico Universidade de Lisboa/Caixa Geral de Depósitos na área da Educação (1.º lugar).
+
+118222305

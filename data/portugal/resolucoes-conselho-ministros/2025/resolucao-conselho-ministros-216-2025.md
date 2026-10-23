@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/216/2025/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/216-2025-993031449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38757747e05f1e30f3a4d6bfab7809dd9b8d38ec57090125e08e9be25c80f16d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3855401b40fbb4c33d875e1957ab382b841207aceaee396fd8ad93545456db46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inclusão Digital
-- Conteúdo Digital
 - Conselho para o Digital na Administração Pública
+- Conteúdo Digital
 - Estratégia Digital Nacional
+- Inclusão Digital
 - Pacto de Competências Digitais
 relationships:
 - type: cites
@@ -83,16 +83,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
+- type: cites
+  target: pt:dre:163332292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873371754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536081:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:59/2021
+  label: Revoga, a partir de 31 de dezembro de 2025, a Resolução do Conselho de Ministros n.º 59/2021, de 14 de maio, Diário
+    da República n.º 94/2021, Série I
+  source: null
+  date: '2021-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:20Z'
   warnings: []
   errors: []
 ---
@@ -234,19 +252,23 @@ Plano de Ação do Pacto de Competências Digitais para 2026-2030
 | Eixo de atuação | Objetivo operacional | Iniciativa | Descrição da iniciativa | Áreas governativas | Data de início | Data de fim |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 - Competências digitais básicas | 1.1 - Capacitar cidadãos, dos 16 aos 74 anos, com competências digitais básicas | Programas para capacitar os cidadãos com competências digitais básicas (via Agentes Digitais Comunitários) | Promoção de ações estruturadas de capacitação digital que visem dotar a população com as competências digitais básicas necessárias para uma participação plena, inclusiva e segura na sociedade digital. Para a prossecução desta iniciativa será essencial uma vasta rede de parceiros.A implementação passará pela criação de Agentes Digitais Comunitários, técnicos e/ou voluntários, com funções de multiplicadores de competências digitais.Esta ação inclui a execução do programa certificado de competências digitais do Instituto do Emprego e Formação Profissional (IEFP). Prevê igualmente ações direcionadas a pessoas com deficiência, alinhada com a Estratégia Nacional de Inclusão de Pessoas com Deficiência.As ações como um todo deverão ter como público-alvo, um mínimo de 75 % em: i) idades compreendidas entre (45-70) anos; ii) zonas rurais; e iii) com escolaridade inferior ao secundário. | Reforma do Estado e Trabalho, Solidariedade e Segurança Social | 1S 2026 | 2S 2030 |
-| 1 - Competências digitais básicas | 1.2 - Capacitar cidadãos, dos 16 aos 74 anos, com competências digitais básicas | Unidades móveis equipadas com formadores e equipamento digital | Unidades móveis equipadas com formadores e equipamento digital, assegurando o reforço e a proximidade das ações de formação no território nacional. | Reforma do Estado | 2S 2026 | 2S 2030 |
+| 1.2 - Capacitar cidadãos, dos 16 aos 74 anos, com competências digitais básicas | Unidades móveis equipadas com formadores e equipamento digital | Unidades móveis equipadas com formadores e equipamento digital, assegurando o reforço e a proximidade das ações de formação no território nacional. | Reforma do Estado | 2S 2026 | 2S 2030 |  |
 |  | 1.3 - Capacitar cidadãos, dos 16 aos 74 anos, com competências digitais básicas | Campanhas multimédia de divulgação dos programas | Campanhas multimédia de divulgação dos programas (televisão, rádio, redes sociais, materiais para centros de saúde, escolas, Lojas de Cidadão, entre outras). | Reforma do Estado | 2S 2026 | 2S 2028 |
-|  | 1.4 - Avaliar o acesso a dispositivos móveis para a população em situação de maior vulnerabilidade socioeconómica | Dispositivos móveis para a população em situação de maior vulnerabilidade socioeconómica | Avaliação do acesso a dispositivos móveis, para a população em situação de maior vulnerabilidade socioeconómica, assegurando a sua participação em ações de formação para o desenvolvimento de competências digitais básicas. | Reforma do Estado e Infraestruturas e Habitação | 1S 2026 | 2S 2029 |
+| 1.4 - Avaliar o acesso a dispositivos móveis para a população em situação de maior vulnerabilidade socioeconómica | Dispositivos móveis para a população em situação de maior vulnerabilidade socioeconómica | Avaliação do acesso a dispositivos móveis, para a população em situação de maior vulnerabilidade socioeconómica, assegurando a sua participação em ações de formação para o desenvolvimento de competências digitais básicas. | Reforma do Estado e Infraestruturas e Habitação | 1S 2026 | 2S 2029 |  |
 | 2 - Competências digitais intermédias e avançadas | 2.1 - Capacitar a população ativa para áreas de maior empregabilidade | Mapeamento das áreas prioritárias de formação digital | Identificação das áreas prioritárias de formação digital, a partir de processos de auscultação junto de associações e empresas, com vista a garantir uma maior empregabilidade. | Reforma do Estado | 1S 2026 | 2S 2027 |
-| 2 - Competências digitais intermédias e avançadas | 2.2 - Capacitar a população ativa (incluindo desempregados), em competências digitais de nível intermédio a avançado | Ações direcionadas à capacitação digital intermédia a avançada para a população ativa | Realização de programas de capacitação digital de nível intermédio e avançado, dirigidos aos cidadãos em idade ativa, incluindo desempregados, para desenvolver competências digitais alinhadas com os desafios do mercado de trabalho e da empregabilidade, nomeadamente nas vertentes de requalificação (reskilling) e atualização de competências (upskilling).Estas ações irão englobar um diagnóstico de competências, planos de formação certificada e eventual acesso a apoios para a frequência dos cursos. A execução das ações será promovida em parceria entre entidades públicas e privadas. | Reforma do Estado e Trabalho, Solidariedade e Segurança Social | 2S 2026 | 2S 2030 |
-| 2 - Competências digitais intermédias e avançadas | 2.3 - Promover a capacitação digital dos trabalhadores da Administração Pública | Ações direcionadas à capacitação digital dos trabalhadores da Administração Pública | Realização de ações de formação de capacitação digital dos trabalhadores da Administração Pública, alavancando iniciativas já existentes, para o desenvolvimento de competências para modernização dos serviços públicos e utilização de ferramentas digitais. Irá incluir o plano acelerado de formação de Inteligência Artificial na Administração Pública. | Reforma do Estado | 1S 2026 | 2S 2030 |
+| 2.2 - Capacitar a população ativa (incluindo desempregados), em competências digitais de nível intermédio a avançado | Ações direcionadas à capacitação digital intermédia a avançada para a população ativa | Realização de programas de capacitação digital de nível intermédio e avançado, dirigidos aos cidadãos em idade ativa, incluindo desempregados, para desenvolver competências digitais alinhadas com os desafios do mercado de trabalho e da empregabilidade, nomeadamente nas vertentes de requalificação (reskilling) e atualização de competências (upskilling).Estas ações irão englobar um diagnóstico de competências, planos de formação certificada e eventual acesso a apoios para a frequência dos cursos. A execução das ações será promovida em parceria entre entidades públicas e privadas. | Reforma do Estado e Trabalho, Solidariedade e Segurança Social | 2S 2026 | 2S 2030 |  |
+| 2.3 - Promover a capacitação digital dos trabalhadores da Administração Pública | Ações direcionadas à capacitação digital dos trabalhadores da Administração Pública | Realização de ações de formação de capacitação digital dos trabalhadores da Administração Pública, alavancando iniciativas já existentes, para o desenvolvimento de competências para modernização dos serviços públicos e utilização de ferramentas digitais. Irá incluir o plano acelerado de formação de Inteligência Artificial na Administração Pública. | Reforma do Estado | 1S 2026 | 2S 2030 |  |
 |  | 2.4 - Promover a capacitação digital dos trabalhadores das pequenas e médias empresas (PME) | Programas de formação digital direcionados aos trabalhadores das PME | Implementação de programas de formação dirigidos a diferentes perfis, com foco, nomeadamente em liderança digital, inteligência artificial, análise de dados, cibersegurança e ferramentas digitais para o negócio.Avaliação de eventuais incentivos às PME para promoção da formação dos seus colaboradores. | Economia e Coesão Territorial | 1S 2026 | 2S 2030 |
 | 3 - Competências tecnológicas emergentes | 3.1 - Potenciar maior número de alunos matriculados em cursos de áreas tecnológicas emergentes | Ações de sensibilização junto de escolas | Realização de ações de sensibilização direcionadas a estudantes do 3.º ciclo do ensino básico e secundário, para promover conhecimento sobre as implicações da Inteligência Artificial (através da revisão das Aprendizagens Essenciais) e uma perceção inclusiva e informada das áreas tecnológicas, desconstruindo estereótipos associados a estas escolhas. As iniciativas procurarão estimular o interesse pelas carreiras tecnológicas. | Cultura, Juventude e Desporto e Educação, Ciência e Inovação | 2S 2026 | 2S 2030 |
-| 3 - Competências tecnológicas emergentes | 3.2 - Capacitar a população ativa em competências digitais tecnológicas emergentes | Ações direcionadas à capacitação tecnológica emergente para os cidadãos em idade ativa | Execução de programas de capacitação tecnológica emergente, dirigidos à população ativa, designadamente para competências como automação, a inteligência artificial e generativa, cibersegurança, ciência de dados, gémeos digitais, computação em nuvem, robótica, sistemas cognitivos, entre outros. A execução das ações será promovida em parceria entre entidades públicas e privadas.Estas ações poderão passar por cursos de especialização de curta duração, tendo por base o conhecimento e experiência dos cidadãos. | Reforma do Estado, Educação, Ciência e Inovação e Trabalho, Solidariedade e Segurança Social | 2S 2026 | 2S 2030 |
+| 3.2 - Capacitar a população ativa em competências digitais tecnológicas emergentes | Ações direcionadas à capacitação tecnológica emergente para os cidadãos em idade ativa | Execução de programas de capacitação tecnológica emergente, dirigidos à população ativa, designadamente para competências como automação, a inteligência artificial e generativa, cibersegurança, ciência de dados, gémeos digitais, computação em nuvem, robótica, sistemas cognitivos, entre outros. A execução das ações será promovida em parceria entre entidades públicas e privadas.Estas ações poderão passar por cursos de especialização de curta duração, tendo por base o conhecimento e experiência dos cidadãos. | Reforma do Estado, Educação, Ciência e Inovação e Trabalho, Solidariedade e Segurança Social | 2S 2026 | 2S 2030 |  |
 |  | 3.3 - Promover o acesso a programas de doutoramento em ambiente não académico | Programas de doutoramento em ambiente não académico em áreas tecnológicas emergentes | Acesso a programas de doutoramento em ambiente não académico, para áreas tecnológicas emergentes, com vista ao reforço da capacidade científica e de inovação nacional. | Educação, Ciência e Inovação | 2S 2026 | 2S 2029 |
-|  | 3.4 - Reduzir a desigualdade de género nas áreas tecnológicas emergentes | Implementação do Programa Nacional das «Raparigas nas STEM» | Operacionalização do Programa Nacional das «Raparigas nas STEM», em particular nas medidas cuja entidade envolvida pela ação seja a Agência para a Reforma Tecnológica do Estado, I. P. | Reforma do Estado, Defesa Nacional, Educação, Ciência e Inovação e Cultura, Juventude e Desporto | 1S 2026 | 2S 2030 |
+| 3.4 - Reduzir a desigualdade de género nas áreas tecnológicas emergentes | Implementação do Programa Nacional das «Raparigas nas STEM» | Operacionalização do Programa Nacional das «Raparigas nas STEM», em particular nas medidas cuja entidade envolvida pela ação seja a Agência para a Reforma Tecnológica do Estado, I. P. | Reforma do Estado, Defesa Nacional, Educação, Ciência e Inovação e Cultura, Juventude e Desporto | 1S 2026 | 2S 2030 |  |
 | 4 - Transversal | 4.1 - Desenvolver uma ferramenta de diagnóstico da maturidade digital com planos de formação personalizados | Diagnóstico de maturidade digital com identificação do plano de formação | Desenvolver uma ferramenta de diagnóstico da maturidade digital, com vista à identificação das necessidades específicas de capacitação e à definição de planos de formação personalizados, baseados em objetivos concretos de desenvolvimento de competências.Esta ação incluirá o mapeamento e a atualização das profissões digitais, incluindo as constantes no referencial do IEFP, associando-lhes os conteúdos formativos e as competências técnicas e transversais necessárias à sua especialização e evolução profissional. | Reforma do Estado e Trabalho, Solidariedade e Segurança Social | 1S 2026 | 2S 2026 |
-| 4 - Transversal | 4.2 - Reorganizar os domínios de oferta pública de formação e centralizar o conteúdo num único agregador | Reorganizar os domínios da oferta pública de formação e centralizar num único agregador | Reorganizar os domínios de oferta pública de formação e centralizar o conteúdo de oferta formativa digital (privada e pública) num único agregador. O objetivo é assegurar que a oferta formativa digital está disponível num único local, para uma consulta facilitada. | Reforma do Estado e Educação, Ciência e Inovação | 1S 2026 | 2S 2027 |
-| 4 - Transversal | 4.3 - Desenvolvimento e implementação de um sistema nacional de microcredenciais | Desenvolvimento de microcredenciais | Desenvolver e implementar um sistema nacional de microcredenciais que permita reconhecer, validar e certificar competências adquiridas. Esta ação visa promover a flexibilidade e modularidade da formação, apoiar percursos de requalificação profissional e reforçar a ligação entre as necessidades do mercado de trabalho e a oferta formativa. Esta iniciativa encontra-se alinhada com as iniciativas a nível europeu. | Reforma do Estado e Educação, Ciência e Inovação | 2S 2026 | 2S 2030 |
+| 4.2 - Reorganizar os domínios de oferta pública de formação e centralizar o conteúdo num único agregador | Reorganizar os domínios da oferta pública de formação e centralizar num único agregador | Reorganizar os domínios de oferta pública de formação e centralizar o conteúdo de oferta formativa digital (privada e pública) num único agregador. O objetivo é assegurar que a oferta formativa digital está disponível num único local, para uma consulta facilitada. | Reforma do Estado e Educação, Ciência e Inovação | 1S 2026 | 2S 2027 |  |
+| 4.3 - Desenvolvimento e implementação de um sistema nacional de microcredenciais | Desenvolvimento de microcredenciais | Desenvolver e implementar um sistema nacional de microcredenciais que permita reconhecer, validar e certificar competências adquiridas. Esta ação visa promover a flexibilidade e modularidade da formação, apoiar percursos de requalificação profissional e reforçar a ligação entre as necessidades do mercado de trabalho e a oferta formativa. Esta iniciativa encontra-se alinhada com as iniciativas a nível europeu. | Reforma do Estado e Educação, Ciência e Inovação | 2S 2026 | 2S 2030 |  |
 |  | 4.4 - Desenvolvimento de uma carteira digital de formação dos cidadãos, integrada na aplicação gov.pt | Carteira digital de formação | Desenvolver uma carteira digital do percurso formativo dos cidadãos, integrada na aplicação gov.pt, que consolide, de forma segura e interoperável, o registo das qualificações, microcredenciais e percursos formativos obtidos ao longo da vida. | Reforma do Estado e Educação, Ciência e Inovação | 1S 2027 | 2S 2028 |
-|  | 4.5 - Promover parcerias para colaboração e operacionalização do Pacto | Rede de parcerias com vista à operacionalização do Pacto | Estabelecer uma rede de parcerias, nomeadamente com empresas, associações setoriais, sociais, associações sem fins lucrativos e academia, com vista à operacionalização do Pacto nos eixos de ação. | Reforma do Estado e Economia e Coesão Territorial | 1S 2026 | 2S 2030 |
+| 4.5 - Promover parcerias para colaboração e operacionalização do Pacto | Rede de parcerias com vista à operacionalização do Pacto | Estabelecer uma rede de parcerias, nomeadamente com empresas, associações setoriais, sociais, associações sem fins lucrativos e academia, com vista à operacionalização do Pacto nos eixos de ação. | Reforma do Estado e Economia e Coesão Territorial | 1S 2026 | 2S 2030 |  |
+
+119919719
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { min-height:37px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:47px; } .Tbl10 { min-height:28px; } .Tbl11 { margin-left:auto; } .Tbl12 { min-height:258px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:55px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { min-height:66px; } .Tbl17 { min-height:57px; } .Tbl18 { min-height:158px; } .Tbl19 { min-height:95px; } .Tbl20 { min-height:112px; } .Tbl21 { min-height:137px; } .Tbl22 { min-height:175px; } .Tbl23 { min-height:53px; } .Tbl24 { min-height:140px; } .Tbl25 { min-height:71px; } .Tbl26 { min-height:107px; } .Tbl27 { min-height:76px; }

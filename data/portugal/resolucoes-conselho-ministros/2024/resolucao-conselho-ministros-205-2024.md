@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/205/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/205-2024-901536079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4868b1f80f8e4ccc0f0ce40e03fedf262fcb11bb7ce75ae14052d86f093fd3e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d1996784adab277c88a7747d117d605839c4cee828fedd8deb218b8750ef326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- ILHA Terceira
-- Transporte Aéreo
 - Conselho de Ministros
 - Despesas Públicas
-- Lisboa
+- Funchal
+- Governo XXIV
 - Horta
 - ILHA de Santa Maria
 - Ilha do Pico
-- Funchal
+- ILHA Terceira
+- Lisboa
 - Ponta Delgada
 - Serviço Público
-- Governo XXIV
+- Transporte Aéreo
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:130/2023
+  label: Altera, a partir de 31 de dezembro de 2024, os n.ºs 1 e 2 da Resolução do Conselho de Ministros n.º 130/2023, de
+    23 de outubro, Diário da República n.º 205/2023, Série I
+  source: null
+  date: '2023-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -96,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/130/2023/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/130/2023/10/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223154122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:10Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +150,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1 e 2 da [Resolução do Conselho de Ministros n.º 130/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2023-223154122), de 23 de outubro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1 e 2 da [Resolução do Conselho de Ministros n.º 130/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2023-223154122), de 23 de outubro, que passam a ter a seguinte redação:
 
 «1 - Autorizar a realização da despesa, no montante máximo de € 62 500 000,00, isento de imposto sobre o valor acrescentado, relativa à adjudicação da prestação de serviços aéreos regulares, em regime de concessão, nas rotas Lisboa/Horta/Lisboa, Lisboa/Santa Maria/Lisboa, Lisboa/Pico/Lisboa, Funchal/Ponta Delgada/Funchal e Funchal/Terceira/Funchal pelo período de cinco anos, que correspondem à totalidade do período de concessão, de acordo com as obrigações de serviço público impostas.
 
@@ -149,3 +171,5 @@ f) 2030 - € 3 125 000,00.»
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 12 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118502169

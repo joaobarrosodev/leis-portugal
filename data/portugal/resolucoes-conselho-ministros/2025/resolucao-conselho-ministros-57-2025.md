@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2025-911303066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a45b8af6dec7e357b1e264a214d3c48a0b0dafc1f43ad16d95142e7c271f552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 787d0f1989cf3e0001a623e7d8b2996d5db1f454675d4528d8137907e697fa51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,16 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Ministro das Infraestruturas e da Habitação
 - Mobilidade Geográfica
 - Obras Públicas
-- Ministro das Infraestruturas e da Habitação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:56/2021
+  label: Altera, a partir de 19 de março de 2025, os n.ºs 2, 3, 4 e 6 da Resolução do Conselho de Ministros n.º 56/2021, de
+    14 de maio, Diário da República n.º 94/2021, Série I
+  source: null
+  date: '2021-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2021/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2021/05/14/p/dre
+- type: cites
+  target: pt:dre:163332289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181532079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212551388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:22Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +226,7 @@ r) 2040 - € 156 568,55.
 
 5 - [...]
 
-6 - Determinar que os encargos financeiros referidos nos n.<sup>os</sup>2 e 3 têm financiamento europeu até 85 % do valor elegível e estão sujeitos a um financiamento nacional máximo de € 15 274 778,00.
+6 - Determinar que os encargos financeiros referidos nos n.os2 e 3 têm financiamento europeu até 85 % do valor elegível e estão sujeitos a um financiamento nacional máximo de € 15 274 778,00.
 
 7 - [...]
 
@@ -211,3 +241,5 @@ r) 2040 - € 156 568,55.
 3 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 7 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118813452

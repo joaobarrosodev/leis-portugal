@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18300/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/74/2020/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2020-143189679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f1a9b227a74d65167d7dcf438dd8572983042e0c4f258ea06066954646e01dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b35f694cd9e9e72caf913def72883ff2d7f0aa36589b9570ba143eb56d16983
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ subjects:
 - Acordo
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Financiamento
 - Conselho de Ministros
-- Obras de Conservação e Restauro
 - Delegação de Competências
 - Despesas Públicas
 - Direção Geral dos Estabelecimentos Escolares
-- Obras Públicas
 - Estabelecimento de Ensino
-- Programa Operacional
-- Ministro da Educação
-- PORTUGAL 2020
-- Regulamento Específico do Domínio do Capital Humano
+- Financiamento
 - Governo XXII
+- Ministro da Educação
+- Obras de Conservação e Restauro
+- Obras Públicas
+- PORTUGAL 2020
+- Programa Operacional
+- Regulamento Específico do Domínio do Capital Humano
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -112,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2016/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2016/08/17/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66646042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150255:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:00Z'
   warnings: []
   errors: []
 ---
@@ -169,3 +201,5 @@ d) 2023 - (euro) 698 244,00.
 8 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 3 de setembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113560261

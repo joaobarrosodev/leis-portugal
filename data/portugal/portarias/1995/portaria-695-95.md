@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/149b00/42014213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/695/1995/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1995-476721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06cee4386584f2c37c752d92ee419684813e45b17868a5b6354b74d5abf7d53f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be5af1082fad262ec6f05b0249e82a9845f91bfb48731cbc97cc46a45d039e5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Formação Profissional
 - Clínica Geral
 - Ensino Médico
-- Saúde Pública
+- Formação Profissional
 - Internato Complementar
+- Médico
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:676200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203467:por
+  label: "Alterado o artº 29º do Regulamento pela PORT.650/97.1997.08.11.MS DR.IS-B [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/650-1997-203467
+  date: '1997-08-11'
+- type: amended_by
+  target: pt:dre:372387:por
+  label: "Aditada a área profissional de genética médica ao elenco constante do Regulamento aprovado pelo presente diploma,\
+    \ pela PORT.148/2001.2001.03.02.MS DR.IS-B [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2001-372387
+  date: '2001-03-02'
+- type: amended_by
+  target: pt:dre:533659:por
+  label: "Alterado o nº 2 do art. 12º do Regulamento em anexo pela PORT.265/2004.12.03.2004.MS, DR.IS-B [61] de 12.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-2004-533659
+  date: '2004-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -103,16 +120,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/416-b/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/416-b/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:184074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:676200:por
+  label: "Revogada pela PORT.183/2006.22.02.2006.MS, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2006-676200
+  date: '2006-02-22'
 article_structure:
   article_count: 81
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:51Z'
   warnings: []
   errors: []
 ---
@@ -171,9 +261,9 @@ n) A [Portaria n.º 29/95](https://diariodarepublica.pt/dr/detalhe/portaria/29-1
 
 Ministério da Saúde.
 
-**Assinada em 23 de Maio de 1995.**
+Assinada em 23 de Maio de 1995.
 
-**O Ministro da Saúde, Alberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Alberto Paulo da Fonseca Mendo.
 
 Regulamento dos Internatos Complementares
 
@@ -1273,6 +1363,6 @@ As situações de interrupção de internato, comissão gratuita de serviço, tr
 
 41 - Urologia.
 
-## ANEXO II : MODELO DE DIPLOMA A QUE SE REFERE O NÚMERO 2 DO ARTIGO 77º.
+ANEXO II : MODELO DE DIPLOMA A QUE SE REFERE O NÚMERO 2 DO ARTIGO 77º.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/42014213.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/42014213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/42014213.pdf)

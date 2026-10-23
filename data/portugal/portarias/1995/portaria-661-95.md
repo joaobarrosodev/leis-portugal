@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/661/1995/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1995-476115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f5b95eb6255a130b25a8a0a77a2a656453ef357f749a03d099667e78588cf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cd834cbab122b9623369169030105f3659454445429969b3be4d9b04543e133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Recursos Hídricos
 - Lagoa de Albufeira
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
+- Recursos Hídricos
 - Regulamento
 - ZONA Degradada
 relationships:
@@ -81,16 +81,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:04Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +145,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Maio de 1995.**
+Assinada em 1 de Maio de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano Parcial de Urbanização da Área Degradada a Recuperar da Lagoa de Albufeira
 
@@ -133,17 +161,17 @@ A implementação do Plano, pressupondo a salvaguarda dos sistemas ecológicos e
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente Regulamento aplica-se nas áreas abrangidas pelo Plano Parcial de Urbanização da Área Degradada a Recuperar da Lagoa de Albufeira (PPUADRLA), delimitada nas peças gráficas deste Plano e de acordo com a planta de sínteses em anexo, que dele faz parte integrante.
+Artigo 1.º O presente Regulamento aplica-se nas áreas abrangidas pelo Plano Parcial de Urbanização da Área Degradada a Recuperar da Lagoa de Albufeira (PPUADRLA), delimitada nas peças gráficas deste Plano e de acordo com a planta de sínteses em anexo, que dele faz parte integrante.
 
-###### Art. 2.º O PPUADRLA tem o prazo de vigência de cinco anos, findos os quais a Administração se reserva o direito de o rever. Caso essa revisão não se processe, a sua validade será tacitamente prorrogada por períodos de cinco anos.
+Art. 2.º O PPUADRLA tem o prazo de vigência de cinco anos, findos os quais a Administração se reserva o direito de o rever. Caso essa revisão não se processe, a sua validade será tacitamente prorrogada por períodos de cinco anos.
 
-###### Art. 3.º - 1 - Para a área do PPUADRLA serão elaborados planos de pormenor de iniciativa da Administração, nos quais será considerada a reformulação da malha existente e definidas as características das edificações (incluindo alinhamentos, profundidade e volumetria das construções), de acordo com as orientações do PPUADRLA.
+Art. 3.º - 1 - Para a área do PPUADRLA serão elaborados planos de pormenor de iniciativa da Administração, nos quais será considerada a reformulação da malha existente e definidas as características das edificações (incluindo alinhamentos, profundidade e volumetria das construções), de acordo com as orientações do PPUADRLA.
 
 2 - Todos os estudos urbanísticos e das edificações a desenvolver respeitarão obrigatoriamente as disposições do PPUADRLA e deste Regulamento.
 
 ### CAPÍTULO II — Zonas e sectores do PPUADRLA
 
-###### Art. 4.º A área do PPUADRLA é constituída pelas seguintes zonas e sectores:
+Art. 4.º A área do PPUADRLA é constituída pelas seguintes zonas e sectores:
 
 Z1 - Áreas de protecção ecológica e paisagística, constituídas pelos seguintes sectores:
 
@@ -187,7 +215,7 @@ Z3R - Áreas residenciais de Ameeira-Alfarim (reserva).
 
 #### SECÇÃO I — Áreas de protecção ecológica e paisagística
 
-###### Art. 5.º Sector Z1A - Lagoa de Albufeira:
+Art. 5.º Sector Z1A - Lagoa de Albufeira:
 
 1 - O principal pólo de atracção desta zona constitui um sistema natural de elevado valor ecológico e paisagístico e um inestimável habitat cuja integridade garantirá a circulação dos organismos aquáticos no sistema lagunar, e entre este e o oceano, bem como o fluir natural de matéria e energia.
 
@@ -197,7 +225,7 @@ Z3R - Áreas residenciais de Ameeira-Alfarim (reserva).
 
 4 - A evolução do sistema lagunar nos seus diversos parâmetros deverá ser objecto de um programa de monitorização adequado durante e após a implementação do PPUADRLA.
 
-###### Art. 6.º Sector Z1B - Margens da lagoa de Albufeira:
+Art. 6.º Sector Z1B - Margens da lagoa de Albufeira:
 
 1 - Tendo a zona de contacto com a lagoa de Albufeira sido objecto de uma utilização que degradou as suas características com prejuízo do próprio meio lagunar, serão adoptadas medidas para o restabelecimento do biótopo natural.
 
@@ -221,13 +249,13 @@ c) A prática de campismo nas margens da lagoa ou zonas adjacentes.
 
 8 - Implantar-se-á um sistema de monitorização (vigilância e alerta) que permita reconhecer atempadamente acréscimos das taxas de assoreamento da lagoa e suas margens e preconizar as medidas correctivas necessárias.
 
-###### Art. 7.º Sector Z1C - Áreas de protecção às arribas:
+Art. 7.º Sector Z1C - Áreas de protecção às arribas:
 
 1 - Tratando-se de zona especialmente vulnerável, será interdita qualquer construção ou actividade que possa de qualquer forma afectar a sua morfologia ou características naturais, nomeadamente escavações, aterros, terraplenagens ou destruição de vegetação.
 
 2 - Definir-se-ão percursos paralelos à costa, mas distanciados das respectivas cristas, por forma a dificultar o acesso público às arribas.
 
-###### Art. 8.º Sector Z1D - Áreas de protecção às dunas e praias:
+Art. 8.º Sector Z1D - Áreas de protecção às dunas e praias:
 
 1 - Possuindo esta zona uma elevada sensibilidade e valor paisagístico, será objecto de medidas especiais de protecção que no entanto possibilitem a utilização pública das praias oceânicas.
 
@@ -239,7 +267,7 @@ c) A prática de campismo nas margens da lagoa ou zonas adjacentes.
 
 5 - Implantar-se-á um sistema de vigilância do litoral (incluindo arribas, dunas e praia oceânica) que permita detectar modificações deste e identificar a causa dessas modificações e propor as medidas correctivas adequadas.
 
-###### Art. 9.º Sector Z1E - Áreas de protecção ecológica:
+Art. 9.º Sector Z1E - Áreas de protecção ecológica:
 
 1 - As áreas de protecção ecológica destinam-se à preservação, defesa e manutenção do equilíbrio ecológico da zona em termos ambientais e paisagísticos e incluem as áreas envolventes das margens da lagoa, as linhas de água e de drenagem natural, as zonas de encosta dos vales agrícolas e as zonas florestais e de protecção faunística e florística.
 
@@ -283,7 +311,7 @@ n) A prática de campismo.
 
 8 - Nos locais assinalados na planta de síntese admite-se a reconversão de construções existentes em restaurantes desde que os respectivos terrenos, isoladamente ou em conjunto, tenham área superior a 2500 m2.
 
-###### Art. 10.º Sector Z1F - Áreas de protecção agrícola (Reserva Agrícola Nacional). - Nestas áreas, para além do estipulado neste artigo, deve ser rigorosamente respeitada a legislação vigente e nomeadamente o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, que estabelece o regime jurídico da Reserva Agrícola Nacional.
+Art. 10.º Sector Z1F - Áreas de protecção agrícola (Reserva Agrícola Nacional). - Nestas áreas, para além do estipulado neste artigo, deve ser rigorosamente respeitada a legislação vigente e nomeadamente o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, que estabelece o regime jurídico da Reserva Agrícola Nacional.
 
 1 - As áreas de protecção agrícola - Reserva Agrícola Nacional são o conjunto de áreas que, em virtude das suas características morfológicas, climatéricas e sociais, maiores potencialidades apresentam para a produção de bens agrícolas.
 
@@ -309,7 +337,7 @@ c) A prática de destruição do relevo natural e revestimento vegetal que não 
 
 9 - Todas as construções existentes nas áreas de protecção agrícola que não estejam de acordo com o disposto nos n.os 4 e 5 serão demolidas, nomeadamente as situadas no vale da Sachola nas proximidades da lagoa de Albufeira.
 
-###### Art. 11.º Sector Z1G e Z1H - Núcleos paisagísticos e de lazer da Aiana e Sachola:
+Art. 11.º Sector Z1G e Z1H - Núcleos paisagísticos e de lazer da Aiana e Sachola:
 
 1 - Os núcleos paisagísticos da Aiana e de Sachola constituem zonas de elevado interesse ecológico e paisagístico cuja protecção é essencial pela sua atractibilidade e possibilidades oferecidas para lazer passivo.
 
@@ -347,7 +375,7 @@ i) Atear fogueiras.
 
 9 - No estudo referido no número anterior deverá ser considerada a constituição de uma mata de recreio resultante da reconversão da ocupação actual e a previsão de um equipamento mínimo de apoio.
 
-###### Art. 12.º Sector Z1I - Dunas vivas a proteger:
+Art. 12.º Sector Z1I - Dunas vivas a proteger:
 
 1 - Zona de elevada sensibilidade ecológica, constituída por dunas litorais não estabilizadas, e não passível de qualquer utilização edificada ou outras que ponham em risco as suas características.
 
@@ -369,15 +397,15 @@ g) Acesso de veículos motorizados de qualquer espécie.
 
 #### SECÇÃO II — Áreas de equipamento regional e concelhio
 
-###### Art. 13.º Áreas de equipamento regional e concelhio. - Conjunto de áreas de equipamento de carácter regional que compatibilizam a defesa do equilíbrio biofísico da zona com actividades produtivas tradicionais, pesca e agricultura e estruturas de recreio diversificadas para acolhimento de visitantes.
+Art. 13.º Áreas de equipamento regional e concelhio. - Conjunto de áreas de equipamento de carácter regional que compatibilizam a defesa do equilíbrio biofísico da zona com actividades produtivas tradicionais, pesca e agricultura e estruturas de recreio diversificadas para acolhimento de visitantes.
 
-###### Art. 14.º Sector Z2J e Z2L - Núcleos de campismo da Sachola e Murtinhais:
+Art. 14.º Sector Z2J e Z2L - Núcleos de campismo da Sachola e Murtinhais:
 
 1 - Estes núcleos localizam-se em zonas ambientalmente ajustadas e parcialmente arborizadas nas proximidades de equipamentos complementares de lazer e recreio.
 
 2 - Para estes núcleos de campismo serão elaborados projectos de acordo com exigências funcionais, considerando as características topográficas e condições ambientais, salvaguardando as zonas verdes existentes.
 
-###### Art. 15.º Sector Z2M - Núcleo regional de recreação e desporto:
+Art. 15.º Sector Z2M - Núcleo regional de recreação e desporto:
 
 1 - Este núcleo, dadas as suas características e atractibilidade, foi localizado na área com melhor acessibilidade a nível regional por forma a atenuar a carga sobre a lagoa e litoral, como factor da sua salvaguarda.
 
@@ -405,7 +433,7 @@ c) Dimensão média dos fogos: 100 m2 de área de construção.
 
 6 - As áreas residenciais referidas no número anterior poderão, dentro da volumetria e localização previstas, ser substituídas por hotel-apartamento.
 
-###### Art. 16.º Sector Z2N - Núcleo de desportos sociais e turísticos:
+Art. 16.º Sector Z2N - Núcleo de desportos sociais e turísticos:
 
 1 - Este núcleo estrutura-se com base num campo de golfe e três unidades hoteleiras, que incluem núcleos de campos de ténis.
 
@@ -419,7 +447,7 @@ c) Dimensão média dos fogos: 100 m2 de área de construção.
 
 6 - Para além das construções a prever para apoio dos utentes da praia e das actividades desportivas previstas (golfe e ténis) e das instalações anexas das unidades hoteleiras (incluindo o centro de saúde e condição física), são interditas quaisquer outras construções e actividades.
 
-###### Art. 17.º Sector Z2O - Núcleo náutico:
+Art. 17.º Sector Z2O - Núcleo náutico:
 
 1 - Área de grande sensibilidade ecológica e que melhor identifica a área abrangida pelo PPUADRLA, que consequentemente importa salvaguardar, equipando-a com as instalações necessárias para apoio das actividades náuticas.
 
@@ -433,7 +461,7 @@ c) Dimensão média dos fogos: 100 m2 de área de construção.
 
 #### SECÇÃO III — Áreas residenciais
 
-###### Art. 18.º Sectores Z3P e Z3Q - Áreas residenciais a recuperar de Aiana-Sachola e de Murtinhais:
+Art. 18.º Sectores Z3P e Z3Q - Áreas residenciais a recuperar de Aiana-Sachola e de Murtinhais:
 
 1 - As áreas residenciais a recuperar dos sectores Z3P e Z3Q resultam da ocupação de zonas de privilegiado interesse ecológico e paisagístico por um grande número de construções e operações urbanísticas clandestinas.
 
@@ -443,7 +471,7 @@ c) Dimensão média dos fogos: 100 m2 de área de construção.
 
 4 - Nestes sectores residenciais a recuperar serão excluídas instalações administrativas que pressuponham grande afluência de público, estações de serviço e de abastecimento de carburantes de qualquer tipo, actividades industriais e actividades artesanais ou outras incompatíveis com a habitação por terem efeitos perigosos para a saúde pública por originarem a poluição de ambiente ou sonora ou excessiva intensidade de tráfego.
 
-###### Art. 19.º - 1 - Os sectores residenciais a recuperar Z3P e Z3Q classificam-se, segundo a densidade de ocupação, em:
+Art. 19.º - 1 - Os sectores residenciais a recuperar Z3P e Z3Q classificam-se, segundo a densidade de ocupação, em:
 
 a) Zona de média densidade D1;
 
@@ -463,7 +491,7 @@ b) Zonas de moradias em banda contínua.
 
 6 - Deverão ser legalizadas a curto prazo as habitações que coincidem com o estabelecido no PPUADRLA e que cumpram as disposições regulamentares sobre edificações urbanas.
 
-###### Art. 20.º - 1 - Nas zonas residenciais a recuperar de média densidade prevê-se o agrupamento de fogos na área prevista e de acordo com as seguintes características da ocupação:
+Art. 20.º - 1 - Nas zonas residenciais a recuperar de média densidade prevê-se o agrupamento de fogos na área prevista e de acordo com as seguintes características da ocupação:
 
 a) A densidade das zonas D1 variará entre os 10 e 20 fogos/ha conforme as características ecológicas e estrutura de ocupação da área;
 
@@ -497,13 +525,13 @@ i) Número máximo de pisos: dois (6 m).
 
 6 - Caso o desnível do terreno o justifique poderão ser admitidas caves desde que esteja garantida iluminação e arejamento em fachadas opostas através de alturas mínimas de 0,60 m entre o solo exterior e os tectos interiores. As áreas das caves serão incluídas na área máxima de construção e índice de ocupação.
 
-###### Art. 21.º - 1 - Os afastamentos das edificações aos limites frontal, lateral e de tardoz do lote são no mínimo de 5 m.
+Art. 21.º - 1 - Os afastamentos das edificações aos limites frontal, lateral e de tardoz do lote são no mínimo de 5 m.
 
 2 - Exceptuam-se do disposto no número anterior as moradias em banda e geminadas, que terão duas ou uma empenas adjacentes ao lote contíguo cegas.
 
 3 - Admite-se que um dos afastamentos laterais seja de 3 m desde que não contenha aberturas de compartimentos de habitação.
 
-###### Art. 22.º - 1 - As zonas de moradias em bandas ficam sujeitas à prévia elaboração de planos de promenor para as zonas em que se integram.
+Art. 22.º - 1 - As zonas de moradias em bandas ficam sujeitas à prévia elaboração de planos de promenor para as zonas em que se integram.
 
 2 - As moradias em banda serão unifamiliares.
 
@@ -513,7 +541,7 @@ i) Número máximo de pisos: dois (6 m).
 
 5 - Os lotes extremos das moradias em banda contínua deverão ser do tipo geminado por forma a garantir uma correcta relação com as moradias isoladas ou geminadas anexas.
 
-###### Art. 23.º - 1 - Nas zonas residenciais a recuperar de baixa densidade D2 as características da ocupação são as seguintes:
+Art. 23.º - 1 - Nas zonas residenciais a recuperar de baixa densidade D2 as características da ocupação são as seguintes:
 
 a) A densidade geral das zonas D2 local variará entre 3 a 10 fogos/ha, conforme características ecológicas e estrutura de ocupação da área;
 
@@ -543,7 +571,7 @@ h) Número máximo de pisos: dois (6 m).
 
 5 - Os afastamentos das edificações aos limites frontal, lateral e de tardoz são no mínimo de 5 m para os lotes de 400 m2, aumentando proporcionalmente ao acréscimo da sua superfície.
 
-###### Art. 24.º Sector Z3R - Área habitacional da Ameeira-Alfarim (Reserva):
+Art. 24.º Sector Z3R - Área habitacional da Ameeira-Alfarim (Reserva):
 
 1 - Esta área habitacional de reserva de 26 ha, situada na contiguidade do perímetro urbano de Alfarim, constitui uma área habitacional alternativa a ser promovida pela Administração para possibilitar permutas de terreno necessárias à mais correcta gestão do PPUADRLA a fim de viabilizar a recuperação das áreas degradadas, cuja capacidade é limitada.
 
@@ -551,7 +579,7 @@ h) Número máximo de pisos: dois (6 m).
 
 3 - A ocupação desta área será promovida de acordo com plano de pormenor a realizar, com base numa densidade geral de 25 fogos/ha, devendo ficar previstas áreas para habitação dos actuais proprietários das parcelas.
 
-###### Art. 25.º Zonas de equipamento local:
+Art. 25.º Zonas de equipamento local:
 
 1 - As áreas residenciais Z3P, Z3Q e Z3R contêm equipamento local destinado a instalações infantis, escolares, de saúde, assistência, abastecimento e outros de interesse público.
 
@@ -561,7 +589,7 @@ h) Número máximo de pisos: dois (6 m).
 
 4 - Enquanto as áreas destinadas a equipamentos não forem ocupadas, não serão nelas permitidas quaisquer construções, ainda que de natureza provisória.
 
-###### Art. 26.º Zonas verdes de recreio e enquadramento:
+Art. 26.º Zonas verdes de recreio e enquadramento:
 
 1 - Os espaços livres públicos ajardinados e de recreio e as zonas verdes de enquadramento situadas nas áreas residenciais têm por objectivo assegurar as características ambientais adequadas, proporcionando as amenidades necessárias aos seus residentes.
 
@@ -591,7 +619,7 @@ d) Vias locais secundárias ou de extensão inferior a 100 m e becos (4.º níve
 
 10 - Nestes sectores serão previstas áreas de estacionamentos junto às zonas de equipamento e próximo dos acessos à lagoa, integrados em maciços arbóreos intercalares.
 
-###### Art. 27.º - 1 - Tanto nas zonas D1 de média densidade, mas sobretudo nas zonas D2 de baixa densidade, deverão ser elaborados projectos de arranjos exteriores para os espaços verdes públicos que contemplem os seguintes aspectos:
+Art. 27.º - 1 - Tanto nas zonas D1 de média densidade, mas sobretudo nas zonas D2 de baixa densidade, deverão ser elaborados projectos de arranjos exteriores para os espaços verdes públicos que contemplem os seguintes aspectos:
 
 a) Levantamento de espécimes existentes;
 
@@ -619,7 +647,7 @@ e) Tratamento de espaços verdes, com indicação do sistema de rega e respectiv
 
 #### SECÇÃO IV — Rede viária e saneamento básico
 
-###### Art. 28.º Rede viária:
+Art. 28.º Rede viária:
 
 1 - A rede viária do PPUADRLA é constituída por vias de acesso e distribuição de quatro níveis, resultando da abertura de novos arruamentos, da consolidação de arruamentos existentes e do encerramento ou rectificação de outros, de acordo com este PPUADRLA e com planos de pormenor a elaborar.
 
@@ -635,13 +663,13 @@ c) Vias locais principais, de extensão superior a 100 m: 12 m;
 
 d) Vias locais secundárias, de extensão inferior a 100 m: 7 m.
 
-###### Art. 29.º Infra-estruturas. - As infra-estruturas eléctricas e de saneamento básico desta área serão objecto de áreas e medidas de protecção a definir nos respectivos projectos a executar.
+Art. 29.º Infra-estruturas. - As infra-estruturas eléctricas e de saneamento básico desta área serão objecto de áreas e medidas de protecção a definir nos respectivos projectos a executar.
 
 ### CAPÍTULO III — Cláusulas administrativas gerais
 
-###### Art. 30.º Os projectos de novas construções, reconstruções, ampliações, beneficiações ou legalizações de edificações deverão ser da responsabilidade de arquitectos.
+Art. 30.º Os projectos de novas construções, reconstruções, ampliações, beneficiações ou legalizações de edificações deverão ser da responsabilidade de arquitectos.
 
-###### Art. 31.º - 1 - Na elaboração de instrução dos projectos das edificações abrangidas pelo PPUDRLA deverão ser respeitadas as normas legais e regulamentares em vigor, nomeadamente o RGEU.
+Art. 31.º - 1 - Na elaboração de instrução dos projectos das edificações abrangidas pelo PPUDRLA deverão ser respeitadas as normas legais e regulamentares em vigor, nomeadamente o RGEU.
 
 2 - Os projectos dos edifícios a elaborar deverão ser instruídos com os seguintes elementos:
 
@@ -651,7 +679,7 @@ b) Levantamento do terreno à escala de 1:100 ou 1:200 (terreno com área superi
 
 c) Estudos de arranjos exteriores, com indicação de árvores a manter e plantar, áreas pavimentadas e equipamento exterior.
 
-###### Art. 32.º - 1 - Os projectos a executar para os diversos sectores da área do PPUADRLA deverão respeitar as árvores existentes, sendo consideradas as seguintes distâncias mínimas das escavações para fundações e canalizações em relação às plantas existentes:
+Art. 32.º - 1 - Os projectos a executar para os diversos sectores da área do PPUADRLA deverão respeitar as árvores existentes, sendo consideradas as seguintes distâncias mínimas das escavações para fundações e canalizações em relação às plantas existentes:
 
 Para árvores de diâmetro de tronco superior a 100 m: 10 m;
 
@@ -659,9 +687,9 @@ Para árvores de diâmetro de tronco entre 0,50 m e 1 m: 8 m;
 
 Para árvores de diâmetro de tronco entre 0,20 m e 0,50 m: 5 m.
 
-###### Art. 33.º Nas áreas destinadas a equipamentos públicos ou de interesse colectivo, no período que antecede a sua transferência para a Administração é permitida a actividade agrícola ou silvícola. Não são permitidos depósitos de lixo, sucatas, materiais ou outros ou qualquer actividade industrial ou de armazenagem.
+Art. 33.º Nas áreas destinadas a equipamentos públicos ou de interesse colectivo, no período que antecede a sua transferência para a Administração é permitida a actividade agrícola ou silvícola. Não são permitidos depósitos de lixo, sucatas, materiais ou outros ou qualquer actividade industrial ou de armazenagem.
 
-###### Art. 34.º Ficam dependentes de licenças da Administração a localização ou ampliação de pequenas instalações admitidas no PPUADRLA para apoio à agricultura ou a artesanato doméstico, cujos requerimentos deverão ser instruídos dos seguintes elementos:
+Art. 34.º Ficam dependentes de licenças da Administração a localização ou ampliação de pequenas instalações admitidas no PPUADRLA para apoio à agricultura ou a artesanato doméstico, cujos requerimentos deverão ser instruídos dos seguintes elementos:
 
 a) Documento comprovativo de que o requerente ou requerentes são proprietários do terreno;
 
@@ -675,55 +703,55 @@ d) Estudos de implantação e de arranjos exteriores, com indicação das árvor
 
 #### SECÇÃO I — Legalização de loteamentos
 
-###### Art. 35.º No prazo de três meses após a entrada em vigor do presente Plano, os loteadores e possuidores de terrenos que agiram ilegalmente deverão apresentar projecto de loteamento de acordo com a legislação em vigor e o conteúdo do PPUADRLA.
+Art. 35.º No prazo de três meses após a entrada em vigor do presente Plano, os loteadores e possuidores de terrenos que agiram ilegalmente deverão apresentar projecto de loteamento de acordo com a legislação em vigor e o conteúdo do PPUADRLA.
 
-###### Art. 36.º A comparticipação no custo das obras de urbanização pelos loteadores clandestinos é a constante na legislação vigente para processos de loteamento e nos termos do artigo 53.º deste Regulamento.
+Art. 36.º A comparticipação no custo das obras de urbanização pelos loteadores clandestinos é a constante na legislação vigente para processos de loteamento e nos termos do artigo 53.º deste Regulamento.
 
-###### Art. 37.º A área de cedência pelos loteadores clandestinos para propriedade da Câmara Municipal de Sesimbra para infra-estruturas e equipamentos será no mínimo de 10% da área loteada sem as necessárias autorizações.
+Art. 37.º A área de cedência pelos loteadores clandestinos para propriedade da Câmara Municipal de Sesimbra para infra-estruturas e equipamentos será no mínimo de 10% da área loteada sem as necessárias autorizações.
 
-###### Art. 38.º No caso de acordo da Câmara Municipal de Sesimbra, a cedência poderá incidir sobre outras parcelas na área do Plano ou noutros locais do concelho de Sesimbra. Caso seja comprovada a não existência de terreno na posse do proprietário, a Câmara Municipal de Sesimbra poderá aceitar o seu valor em dinheiro.
+Art. 38.º No caso de acordo da Câmara Municipal de Sesimbra, a cedência poderá incidir sobre outras parcelas na área do Plano ou noutros locais do concelho de Sesimbra. Caso seja comprovada a não existência de terreno na posse do proprietário, a Câmara Municipal de Sesimbra poderá aceitar o seu valor em dinheiro.
 
-###### Art. 39.º Não tendo sido apresentados projectos de loteamento ou não se verificando acordo com os loteadores e possuidores de terrenos que agiram ilegalmente, nos termos dos artigos anteriores, a Câmara Municipal de Sesimbra iniciará o respectivo processo de expropriação nos termos da legislação existente.
+Art. 39.º Não tendo sido apresentados projectos de loteamento ou não se verificando acordo com os loteadores e possuidores de terrenos que agiram ilegalmente, nos termos dos artigos anteriores, a Câmara Municipal de Sesimbra iniciará o respectivo processo de expropriação nos termos da legislação existente.
 
 #### SECÇÃO II — Legalização de lotes
 
-###### Art. 40.º A Administração legalizará todas as parcelas de terreno destinadas à construção habitacional após o respectivo processo de delimitação e destaque efectuado com base no PPUADRLA em planos de pormenor ou loteamentos.
+Art. 40.º A Administração legalizará todas as parcelas de terreno destinadas à construção habitacional após o respectivo processo de delimitação e destaque efectuado com base no PPUADRLA em planos de pormenor ou loteamentos.
 
-###### Art. 41.º A legalização só será efectuada após acordo relativamente às áreas de cedência para zonas verdes, equipamentos, infra-estruturas ou reserva de lotes e o pagamento de pelo menos duas unidades referentes aos encargos de urbanização segundo o artigo 56.º
+Art. 41.º A legalização só será efectuada após acordo relativamente às áreas de cedência para zonas verdes, equipamentos, infra-estruturas ou reserva de lotes e o pagamento de pelo menos duas unidades referentes aos encargos de urbanização segundo o artigo 56.º
 
-###### Art. 42.º A legalização das parcelas de terreno com construções legalizáveis far-se-á em simultâneo com as respectivas construções.
+Art. 42.º A legalização das parcelas de terreno com construções legalizáveis far-se-á em simultâneo com as respectivas construções.
 
 #### SECÇÃO III — Legalização de construções
 
-###### Art. 43.º A Administração legalizará todas as construções realizadas até Junho de 1985 que constem do levantamento-inquérito efectuado pela equipa do PPUADRLA ou cuja construção tenha sido autorizada pela Administração após parecer da referida equipa, desde que se coadunem com o PPUADRLA e as suas peças escritas e desenhadas e apresentem as condições mínimas de habitabilidade fixadas na [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de Abril. As taxas das legalizações que se efectuarem no prazo de 12 meses após a aprovação do PPUADRLA não serão agravadas.
+Art. 43.º A Administração legalizará todas as construções realizadas até Junho de 1985 que constem do levantamento-inquérito efectuado pela equipa do PPUADRLA ou cuja construção tenha sido autorizada pela Administração após parecer da referida equipa, desde que se coadunem com o PPUADRLA e as suas peças escritas e desenhadas e apresentem as condições mínimas de habitabilidade fixadas na [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de Abril. As taxas das legalizações que se efectuarem no prazo de 12 meses após a aprovação do PPUADRLA não serão agravadas.
 
-###### Art. 44.º Serão legalizadas condicionalmente as construções que, de acordo com a [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de Abril, tenham de se adaptar aos condicionamentos legais e deste PPUADRLA e desde que apresentem as necessárias condições de habitabilidade e segurança.
+Art. 44.º Serão legalizadas condicionalmente as construções que, de acordo com a [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de Abril, tenham de se adaptar aos condicionamentos legais e deste PPUADRLA e desde que apresentem as necessárias condições de habitabilidade e segurança.
 
-###### Art. 45.º A Administração exigirá, nos casos referidos no artigo anterior, que o proprietário assuma em escritura a obrigação de fazer executar os trabalhos de adaptação necessários nos termos e condições que forem fixados e de demolir ulteriormente as edificações, sem direito a ser indemnizado - promovendo a inscrição deste ónus - se as obras referidas não forem executadas.
+Art. 45.º A Administração exigirá, nos casos referidos no artigo anterior, que o proprietário assuma em escritura a obrigação de fazer executar os trabalhos de adaptação necessários nos termos e condições que forem fixados e de demolir ulteriormente as edificações, sem direito a ser indemnizado - promovendo a inscrição deste ónus - se as obras referidas não forem executadas.
 
-###### Art. 46.º A emissão da licença de utilização das construções referidas no artigo anterior dependerá da conclusão das obras que condicionarem a sua legalização.
+Art. 46.º A emissão da licença de utilização das construções referidas no artigo anterior dependerá da conclusão das obras que condicionarem a sua legalização.
 
-###### Art. 47.º A legalização das construções referidas nos artigos anteriores far-se-á mediante apresentação de projecto de arquitectura, incluindo traçados internos de águas e esgotos, e declaração de um arquitecto na qual conste que a construção está executada de acordo com o projecto de legalização apresentado e oferece as condições mínimas de habitabilidade referidas no artigo 43.º e as necessárias condições de segurança.
+Art. 47.º A legalização das construções referidas nos artigos anteriores far-se-á mediante apresentação de projecto de arquitectura, incluindo traçados internos de águas e esgotos, e declaração de um arquitecto na qual conste que a construção está executada de acordo com o projecto de legalização apresentado e oferece as condições mínimas de habitabilidade referidas no artigo 43.º e as necessárias condições de segurança.
 
-###### Art. 48.º As construções insusceptíveis de legalização relativamente às quais se prevê que da sua manutenção temporária não resultem inconvenientes para a implementação do Plano poderão não ser de imediato demolidas desde que o seu proprietário assuma em escritura a obrigação de as demolir ulteriormente quando para tal for notificado pela Administração, sem direito a ser indemnizado e promovendo a inscrição predial desse ónus.
+Art. 48.º As construções insusceptíveis de legalização relativamente às quais se prevê que da sua manutenção temporária não resultem inconvenientes para a implementação do Plano poderão não ser de imediato demolidas desde que o seu proprietário assuma em escritura a obrigação de as demolir ulteriormente quando para tal for notificado pela Administração, sem direito a ser indemnizado e promovendo a inscrição predial desse ónus.
 
-###### Art. 49.º As construções não englobadas nas situações referidas nos artigos anteriores serão demolidas.
+Art. 49.º As construções não englobadas nas situações referidas nos artigos anteriores serão demolidas.
 
-###### Art. 50.º O processo de legalização das construções será acompanhado do processo de legalização das respectivas parcelas, desde que fique assegurada por escritura pública a cedência da área necessária para espaços públicos e equipamentos de acordo com o estipulado neste Regulamento.
+Art. 50.º O processo de legalização das construções será acompanhado do processo de legalização das respectivas parcelas, desde que fique assegurada por escritura pública a cedência da área necessária para espaços públicos e equipamentos de acordo com o estipulado neste Regulamento.
 
 #### SECÇÃO IV — Da polícia e dos agentes de fiscalização
 
-###### Art. 51.º - 1 - As autoridades policiais e fiscalizadoras deverão tomar conta de todos os eventos ou circunstâncias que violem as disposições deste Regulamento ou que impliquem responsabilidade por contra-ordenação e tomar as medidas necessárias para impedir o desaparecimento das provas.
+Art. 51.º - 1 - As autoridades policiais e fiscalizadoras deverão tomar conta de todos os eventos ou circunstâncias que violem as disposições deste Regulamento ou que impliquem responsabilidade por contra-ordenação e tomar as medidas necessárias para impedir o desaparecimento das provas.
 
 2 - As autoridades policiais e agentes de fiscalização deverão enviar imediatamente às autoridades administrativas a participação e provas recolhidas.
 
 #### SECÇÃO V — Comparticipação no custo das obras de urbanização
 
-###### Art. 52.º - 1 - A Administração poderá executar por conta dos proprietários as obras de urbanização de acordo com o Plano.
+Art. 52.º - 1 - A Administração poderá executar por conta dos proprietários as obras de urbanização de acordo com o Plano.
 
 2 - O financiamento das obras de urbanização será comparticipado pelos proprietários ou possuidores de lotes de terreno ou construções da área do Plano.
 
-###### Art. 53.º O montante da comparticipação no custo das obras de urbanização referida no artigo 37.º será calculado através da aplicação da fórmula (tendo como referência o ano de 1988):
+Art. 53.º O montante da comparticipação no custo das obras de urbanização referida no artigo 37.º será calculado através da aplicação da fórmula (tendo como referência o ano de 1988):
 
 E = (15 FL + 1,7 AL + 1,5 AC) - C (zonas residenciais de média densidade D1);
 
@@ -731,29 +759,29 @@ E = (22 FL + 0,5 AL + 0,5 AC) - C (zonas residenciais de baixa densidade D2);
 
 em que E representa o total dos encargos, FL a frente do lote, AL a área do lote, AC a área coberta da construção e C o custo directamente suportado pelos interessados nos termos do artigo 55.º
 
-###### Art. 54.º Os valores unitários referidos no artigo anterior serão actualizados em 1 de Janeiro de cada ano, tendo em atenção a evolução do IPC do INE.
+Art. 54.º Os valores unitários referidos no artigo anterior serão actualizados em 1 de Janeiro de cada ano, tendo em atenção a evolução do IPC do INE.
 
-###### Art. 55.º Ao valor das comparticipações será deduzido o custo suportado directamente pelos particulares resultante da execução de operações de urbanização não previstas a curto prazo pela Administração mas devidamente autorizadas por esta.
+Art. 55.º Ao valor das comparticipações será deduzido o custo suportado directamente pelos particulares resultante da execução de operações de urbanização não previstas a curto prazo pela Administração mas devidamente autorizadas por esta.
 
-###### Art. 56.º O pagamento das comparticipações nos encargos a suportar com as obras de urbanização será feito na totalidade, ou em cinco anuidades de igual valor, que serão objecto de correcção monetária realizada com base no IPC do INE, desde que requerida e aceite pela Administração esta última modalidade de pagamemnto.
+Art. 56.º O pagamento das comparticipações nos encargos a suportar com as obras de urbanização será feito na totalidade, ou em cinco anuidades de igual valor, que serão objecto de correcção monetária realizada com base no IPC do INE, desde que requerida e aceite pela Administração esta última modalidade de pagamemnto.
 
-###### Art. 57.º A Administraão poderá determinar ou aceitar como forma de pagamento das comparticipações, na totalidade ou em parte, parcelas de terreno para equipamento, zonas verdes, infra-estruturas e áreas de reserva para habitação.
+Art. 57.º A Administraão poderá determinar ou aceitar como forma de pagamento das comparticipações, na totalidade ou em parte, parcelas de terreno para equipamento, zonas verdes, infra-estruturas e áreas de reserva para habitação.
 
-###### Art. 58.º A legalização do lote a que se refere o artigo 35.º só será efectuada após se encontrar paga a totalidade ou a primeira prestação dos encargos de urbanização.
+Art. 58.º A legalização do lote a que se refere o artigo 35.º só será efectuada após se encontrar paga a totalidade ou a primeira prestação dos encargos de urbanização.
 
-###### Art. 59.º Não será permitido o adiamento do pagamento das comparticipações nos encargos de urbanização aos possuidores de construção com área bruta superior a 120 m2.
+Art. 59.º Não será permitido o adiamento do pagamento das comparticipações nos encargos de urbanização aos possuidores de construção com área bruta superior a 120 m2.
 
-###### Art. 60.º Não serão emitidas licenças de construção sem que se mostrem pagas todas as taxas devidas e a totalidade ou a primeira prestação dos encargos com as obras de urbanização.
+Art. 60.º Não serão emitidas licenças de construção sem que se mostrem pagas todas as taxas devidas e a totalidade ou a primeira prestação dos encargos com as obras de urbanização.
 
-###### Art. 61.º A obtenção de licença de utilização de qualquer construção dependerá do pagamento da totalidade dos encargos de comparticipação nas obras de urbanização.
+Art. 61.º A obtenção de licença de utilização de qualquer construção dependerá do pagamento da totalidade dos encargos de comparticipação nas obras de urbanização.
 
 #### SECÇÃO VI — Disposições complementares
 
-###### Art. 62.º O incumprimento dos compromissos assumidos perante a Administração referentes aos encargos de urbanização implicará, além da suspensão dos serviços e ligações às infra-estruturas gerais, a actualização do valor da comparticipação em falta, nos termos do disposto no artigo 54.º, sem prejuízo do seu pagamento coercivo.
+Art. 62.º O incumprimento dos compromissos assumidos perante a Administração referentes aos encargos de urbanização implicará, além da suspensão dos serviços e ligações às infra-estruturas gerais, a actualização do valor da comparticipação em falta, nos termos do disposto no artigo 54.º, sem prejuízo do seu pagamento coercivo.
 
-###### Art. 63.º A Administração só emitirá alvarás, licenças, certidões ou pareceres positivos referentes a lotes e construções desde que se mostrem pagas as respectivas prestações já vencidas e cumpridos os demais compromissos assumidos pelos interessados.
+Art. 63.º A Administração só emitirá alvarás, licenças, certidões ou pareceres positivos referentes a lotes e construções desde que se mostrem pagas as respectivas prestações já vencidas e cumpridos os demais compromissos assumidos pelos interessados.
 
-###### Art. 64.º Poderão ser expropriados os terrenos e as edificações que, em consequência de deliberação da Administração baseada em prévia vistoria, devam ser reconstruídas, remodeladas, beneficiadas ou demolidas, total ou parcialmente, para realização do Plano.
+Art. 64.º Poderão ser expropriados os terrenos e as edificações que, em consequência de deliberação da Administração baseada em prévia vistoria, devam ser reconstruídas, remodeladas, beneficiadas ou demolidas, total ou parcialmente, para realização do Plano.
 
 Regulamento da Área de Protecção do Plano de Água da Lagoa de Albufeira e Envolvente
 
@@ -883,4 +911,4 @@ Actividades de recreio (natação, vela e canoagem).
 
 8.7 - Constituindo a lagoa pequena um dos compartimentos do sistema lagunar, as alterações introduzidas pelas medidas acima propostas (incluindo o incremento da avifauna) deverão ser acompanhadas permanentemente por forma a observar a evolução ecológica deste subsistema e da lagoa no seu conjunto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/145b00/41064114.pdf))](https://files.diariodarepublica.pt/1s/1995/06/145b00/41064114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/145b00/41064114.pdf)

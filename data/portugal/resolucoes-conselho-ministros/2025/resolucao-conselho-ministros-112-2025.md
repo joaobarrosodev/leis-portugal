@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/112/2025/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2025-925086640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a2d9c8a6db7b7028f3aff2effd86d933104d0ae4b0448e1a545342a19c91122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3223b7beb203273cd3ab3de1c8562a9f1fb0b67e726670d4df8c11c9c7132734
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Directiva
+- IFRRU 2020
 - Nomeação
 - Órgãos de Gestão
 - Remuneração
 - Vogal
-- IFRRU 2020
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:52-A/2015
+  label: Altera, a partir de 18 de julho de 2025, o n.º 5 e revoga os n.os 4 e 6 e o anexo da Resolução do Conselho de Ministros
+    n.º 52-A/2015, de 23 de julho, Diário da República n.º 142/2015, 1º Suplemento, Série I
+  source: null
+  date: '2015-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -93,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
+- type: cites
+  target: pt:dre:172878294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:812826246:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:54Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +169,7 @@ i) [...]
 
 ii) [...]»
 
-4 - Revogar os n.<sup>os</sup>4 e 6 e o anexo da [Resolução do Conselho de Ministros n.º 52-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-a-2015-69866641), de 23 de julho, na sua redação atual.
+4 - Revogar os n.os4 e 6 e o anexo da [Resolução do Conselho de Ministros n.º 52-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-a-2015-69866641), de 23 de julho, na sua redação atual.
 
 5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
@@ -174,3 +200,5 @@ De novembro de 2014 até fevereiro de 2016 - assessoria técnica ao diretor do D
 De setembro de 2011 a outubro de 2014 - diretor executivo da Faculdade de Medicina Dentária da Universidade de Lisboa;
 
 De janeiro de 2007 a agosto de 2011 - secretário-coordenador da Faculdade de Medicina Dentária da Universidade de Lisboa.
+
+119307747

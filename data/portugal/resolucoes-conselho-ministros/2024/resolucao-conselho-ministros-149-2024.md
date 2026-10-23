@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21100/0002000022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/149/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2024-893982647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfb0d001899fc4365fb00f3afe0d02a159b1e11a76b0ce31fd3935762a66d23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5699c191d610a940e1b568191b82d6d63776f3c2938dd9e587734f32f6629636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política Energética
-- Assembleia da República
-- Política do Ambiente
 - Alteração Climática
+- Assembleia da República
 - Plano Nacional Energia e Clima 2030
+- Política do Ambiente
+- Política Energética
 relationships:
 - type: cites
   target: celex:31999R2018
@@ -99,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:57Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +137,7 @@ Este Plano foi elaborado e apresentado à Comissão Europeia em dezembro de 2019
 
 No seguimento das evoluções registadas no contexto nacional e europeu, nomeadamente em matéria de legislação, que motivaram a adoção de novas metas e do quadro estratégico em matéria de energia e clima, e dando cumprimento ao previsto no artigo 14.º do suprarreferido Regulamento que exige que os Estados-Membros atualizem os seus planos, procede-se à atualização do PNEC 2030. Em paralelo decorreu um novo exercício de modelação prevendo-se a atualização do RNC 2050, para garantir o alinhamento dos objetivos estabelecidos entre o curto e o longo prazo em matéria de mitigação das alterações climáticas.
 
-A nível comunitário foi publicado o [Regulamento (UE) 2021/1119](http://data.europa.eu/eli/reg/2021/1119/oj?locale=pt), de 30 de junho de 2021, que cria o regime para alcançar a neutralidade climática e que altera os Regulamentos (CE) n.<sup>os</sup> [401/2009](http://data.europa.eu/eli/reg/2009/401/oj?locale=pt) e (UE) [2018/1999](http://data.europa.eu/eli/reg/1999/2018/oj?locale=pt) (Lei Europeia em Matéria de Clima), estabelecendo uma meta vinculativa de redução de emissões de GEE para 2030 de, pelo menos, 55 %, em relação aos níveis de 1990, bem como o objetivo da União Europeia (UE) alcançar a neutralidade climática até 2050. Neste contexto, a Comissão Europeia apresentou um pacote legislativo - "Fit-for-55", com vista a garantir o alinhamento da legislação da UE, em matéria de clima e energia, com uma nova meta de redução de emissões de GEE estabelecida para 2030.
+A nível comunitário foi publicado o [Regulamento (UE) 2021/1119](http://data.europa.eu/eli/reg/2021/1119/oj?locale=pt), de 30 de junho de 2021, que cria o regime para alcançar a neutralidade climática e que altera os Regulamentos (CE) n.os [401/2009](http://data.europa.eu/eli/reg/2009/401/oj?locale=pt) e (UE) [2018/1999](http://data.europa.eu/eli/reg/1999/2018/oj?locale=pt) (Lei Europeia em Matéria de Clima), estabelecendo uma meta vinculativa de redução de emissões de GEE para 2030 de, pelo menos, 55 %, em relação aos níveis de 1990, bem como o objetivo da União Europeia (UE) alcançar a neutralidade climática até 2050. Neste contexto, a Comissão Europeia apresentou um pacote legislativo - "Fit-for-55", com vista a garantir o alinhamento da legislação da UE, em matéria de clima e energia, com uma nova meta de redução de emissões de GEE estabelecida para 2030.
 
 Adicionalmente, como resposta às dificuldades e às perturbações do mercado mundial da energia decorrentes da alteração do panorama geopolítico com o início da guerra na Ucrânia, foi também apresentado, em maio de 2022, o Plano REPowerEU, que se constitui como o plano da UE para acelerar o processo da transição energética e pôr termo à dependência dos combustíveis fósseis.
 
@@ -160,3 +172,5 @@ Nos termos da alínea c) do n.º 1 e para os efeitos do disposto no n.º 11 do a
 Aprovar, para efeitos de envio à Assembleia da República, a atualização do Plano Nacional Energia e Clima 2030, disponível no sítio eletrónico da Agência Portuguesa do Ambiente, I. P., nos termos e para os efeitos do artigo 20.º da Lei de Bases do Clima, aprovada pela [Lei n.º 98/2021](https://diariodarepublica.pt/dr/detalhe/lei/98-2021-176907481), de 31 de dezembro.
 
 Presidência do Conselho de Ministros, 4 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118283972

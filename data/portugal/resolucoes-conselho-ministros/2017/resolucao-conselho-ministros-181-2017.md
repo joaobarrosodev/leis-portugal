@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/23000/0623606237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/181/2017/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-2017-114276582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7862ba7a07a3dadddb52d69882987a18f86f9c22a49d51eb970cee41a86f1f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abf7cf67d8ab135d468167d3909b353303de63437fe4678d3eec63cd6d600c03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Comissão Directiva
 - Conselho Diretivo
+- Exoneração
+- IFRRU 2020
 - Instituto da Habitação e da Reabilitação Urbana
 - Nomeação
 - Presidente
 - Vogal
-- IFRRU 2020
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71/2012/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71/2012/08/29/p/dre
+- type: cites
+  target: pt:dre:174787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866641:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:06Z'
   warnings: []
   errors: []
 ---
@@ -233,3 +253,5 @@ Entre 1995 e 2007 foi docente do Curso de Arquitetura da Universidade Moderna de
 Outras atividades e formação profissionais:
 
 Desenvolveu atividade de avaliação imobiliária para concessão de financiamento hipotecário. Participou, como orador, em diversas conferências e seminários sobre habitação, instrumentos de financiamento e reabilitação urbana. Em 2013, concluiu o Curso Avançado de Gestão Pública (CAGEP) no INA - Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas.
+
+110958048

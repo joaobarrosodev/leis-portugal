@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00900/0000300030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/13/2024/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2024-836495388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f99f45da15cae7ba6f213b7c32f87ccadab1a7b4dabaf1ed711cda85ac074657
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 205248ae5cb7cdc99698c3861f00ea3109ebaef8fef734e5edd621b877e7c2f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Competitividade da Economia
-- Investimento
-- Comércio
 - Agenda para a Competitividade do Comércio e Serviços 2030
+- Comércio
+- Competitividade da Economia
+- Financiamento
+- Investimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2015/01/16/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
+- type: cites
+  target: pt:dre:114832288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210923317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:24Z'
   warnings: []
   errors: []
 ---
@@ -209,10 +229,10 @@ QUADRO I
 
 Universo das empresas não financeiras em 2021
 
-|  |  |  |  |  |  |  |  |  |
+| CAE Rev. 3 (total, secções A a J, L a N e P a S) | Empresas | Pessoal ao serviço | Volume de negócios | VAB |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) | Empresas | Empresas | Pessoal ao serviço | Pessoal ao serviço | Volume de negócios | Volume de negócios | VAB | VAB |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) | N.º | % | N.º | % | (euro) M | % | (euro) M | % |
+| N.º | % | N.º | % | (euro) M | % | (euro) M | % |  |
+|  |  |  |  |  |  |  |  |  |
 | Agricultura, produção animal, caça, floresta e pesca... | 126 000 | 9,39 % | 207 247 | 4,89 % | 8 624 | 2,00 % | 2 289 | 2,10 % |
 | Indústrias extrativas... | 1 004 | 0,07 % | 9 749 | 0,23 % | 1 493 | 0,35 % | 675 | 0,62 % |
 | Indústrias transformadoras... | 67 317 | 5,02 % | 727 114 | 17,16 % | 102 856 | 23,87 % | 24 857 | 22,82 % |
@@ -242,10 +262,10 @@ QUADRO II
 
 Atividades de comércio e serviços maioritariamente dirigidas ao consumidor
 
-|  |  |  |  |  |  |  |  |  |
+| CAE Rev. 3 (total, secções A a J, L a N e P a S) - variante 27 (2) | Empresas | Valor acrescentado bruto | Pessoal ao serviço | Volume de negócios |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) - variante 27 (2) | Empresas | Empresas | Valor acrescentado bruto | Valor acrescentado bruto | Pessoal ao serviço | Pessoal ao serviço | Volume de negócios | Volume de negócios |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) - variante 27 (2) | N.º | % | (euro) | % | N.º | % | (euro) | % |
+| N.º | % | (euro) | % | N.º | % | (euro) | % |  |
+|  |  |  |  |  |  |  |  |  |
 | Total nacional das empresas não financeiras... | 1 342 116 |  | 108 914 356 428 |  | 4 236 222 |  | 430 887 867 492 |  |
 | Comércio, manutenção e reparação, de veículos automóveis e motociclos... | 31 967 | 2,38 % | 2 432 034 518 | 2,23 % | 104 512 | 2,47 % | 20 573 625 004 | 4,77 % |
 | Comércio por grosso (inclui agentes), exceto de veículos automóveis e motociclos... | 59 315 | 4,42 % | 10 160 417 354 | 9,33 % | 241 763 | 5,71 % | 80 510 581 126 | 18,68 % |
@@ -269,10 +289,10 @@ QUADRO III
 
 Caracterização dos setores de atividade abrangido pelo Cadastro Comercial
 
-|  |  |  |  |  |  |  |  |  |
+| CAE Rev. 3 (total, secções A a J, L a N e P a S) | Empresas | Pessoal ao serviço | Volume de negócios | Valor acrescentado bruto |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) | Empresas | Empresas | Pessoal ao serviço | Pessoal ao serviço | Volume de negócios | Volume de negócios | Valor acrescentado bruto | Valor acrescentado bruto |
-| CAE Rev. 3 (total, secções A a J, L a N e P a S) | N.º | % | N.º | % | (euro) M | % | (euro) M | % |
+| N.º | % | N.º | % | (euro) M | % | (euro) M | % |  |
+|  |  |  |  |  |  |  |  |  |
 | 45 - Comércio, manutenção e reparação, de veículos automóveis e motociclos | 31 967 | 2,38 % | 104 512 | 2,47 % | 20 574 | 4,77 % | 2 432 | 2,23 % |
 | 46 - Comércio por grosso (inclui agentes) exceto de veículos automóveis e motociclos... | 59 315 | 4,42 % | 241 763 | 5,71 % | 80 511 | 18,68 % | 10 160 | 9,33 % |
 | 47 - Comércio a retalho, exceto de veículos automóveis e motociclos... | 124 447 | 9,27 % | 452 497 | 10,68 % | 56 756 | 13,17 % | 8 932 | 8,20 % |
@@ -303,10 +323,10 @@ QUADRO IV
 
 Evolução da situação das empresas de comércio e serviços, em 2021 face a 2019
 
-|  |  |  |  |  |
+| Atividade económica (Subclasse - CAE Rev. 3) | Empresas | Pessoal<br>ao serviço | Volume<br>de negócios | VAB |
 | --- | --- | --- | --- | --- |
-| Atividade económica (Subclasse - CAE Rev. 3) | Empresas | Pessoal ao serviço | Volume de negócios | VAB |
-| Atividade económica (Subclasse - CAE Rev. 3) | Comparação 2021 vs 2019 | Comparação 2021 vs 2019 | Comparação 2021 vs 2019 | Comparação 2021 vs 2019 |
+| Comparação 2021 vs 2019 |  |  |  |  |
+|  |  |  |  |  |
 | 45 - Comércio, manutenção e reparação, de veículos automóveis e motociclos... | 3,10 % | -0,18 % | -7,32 % | 0,96 % |
 | 46 - Comércio por grosso (inclui agentes) exceto de veículos automóveis e motociclos... | 0,06 % | -0,37 % | 8,01 % | 14,52 % |
 | 47 - Comércio a retalho, exceto de veículos automóveis e motociclos... | -2,89 % | -1,88 % | 4,58 % | 4,20 % |
@@ -335,11 +355,11 @@ QUADRO V
 
 Constituição e dissolução de empresas no ano compreendido entre agosto de 2022 e julho de 2023
 
-|  |  |  |  |  |  |  |
+| Atividade económica (CAE Rev. 3) | Constituição de pessoas coletivas e entidades equiparadas | Dissolução de pessoas coletivas e entidades equiparadas | Saldo |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Atividade económica (CAE Rev. 3) | Constituição de pessoas coletivas e entidades equiparadas | Constituição de pessoas coletivas e entidades equiparadas | Dissolução de pessoas coletivas e entidades equiparadas | Dissolução de pessoas coletivas e entidades equiparadas | Saldo | Saldo |
-| Atividade económica (CAE Rev. 3) | Agosto de 2022 a julho de 2023 | Agosto de 2022 a julho de 2023 | Agosto de 2022 a julho de 2023 | Agosto de 2022 a julho de 2023 | Agosto de 2022 a julho de 2023 | Agosto de 2022 a julho de 2023 |
-| Atividade económica (CAE Rev. 3) | N.º C | % | N.º D | % | N.º | % C/D |
+| Agosto de 2022 a julho de 2023 |  |  |  |  |  |  |
+| N.º C | % | N.º D | % | N.º | % C/D |  |
+|  |  |  |  |  |  |  |
 | Comércio, manutenção e reparação, de veículos automóveis e motociclos... | 1 476 | 3,00 % | 712 | 3,42 % | 764 | 207,30 % |
 | Comércio por grosso (inclui agentes), exceto de veículos automóveis e motociclos... | 2 425 | 5,01 % | 1 842 | 9,00 % | 583 | 131,65 % |
 | Comércio a retalho, exceto de veículos automóveis e motociclos... | 3 347 | 6,92 % | 2 734 | 12,99 % | 613 | 122,42 % |
@@ -368,11 +388,11 @@ QUADRO VI
 
 Forma jurídica das empresas por setor de atividade - Ano 2021
 
-|  |  |  |  |  |  |  |
+| Atividade económica (Divisão - CAE Rev. 3) (2) | Forma jurídica das empresas |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Atividade económica (Divisão - CAE Rev. 3) (2) | Forma jurídica das empresas | Forma jurídica das empresas | Forma jurídica das empresas | Forma jurídica das empresas | Forma jurídica das empresas | Forma jurídica das empresas |
-| Atividade económica (Divisão - CAE Rev. 3) (2) | Empresa individual | Empresa individual | Sociedade | Sociedade | Total | Total |
-| Atividade económica (Divisão - CAE Rev. 3) (2) | N.º | % | N.º | % | N.º | % |
+| Empresa individual | Sociedade | Total |  |  |  |  |
+| N.º | % | N.º | % | N.º | % |  |
+|  |  |  |  |  |  |  |
 | Comércio, manutenção e reparação, de veículos automóveis e motociclos... | 14 875 | 46,53 % | 17 092 | 53,47 % | 31 967 | 100,00 % |
 | Comércio por grosso (inclui agentes), exceto de veículos automóveis e motociclos... | 24 012 | 40,48 % | 35 303 | 59,52 % | 59 315 | 100,00 % |
 | Comércio a retalho, exceto de veículos automóveis e motociclos... | 73 291 | 58,89 % | 51 156 | 41,11 % | 124 447 | 100,00 % |
@@ -915,16 +935,16 @@ Foi, ainda, aprovada uma segunda alteração ao [Decreto-Lei n.º 178/2004](http
 
 ## ANEXO II — (a que se refere o n.º 5)
 
-|  |  |  |  |  |  |  |  |
+| Objetivos estratégicos | Medidas | Montante ((euro)) indicativo | Fonte | Metas | Prazo | Áreas governativas |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Objetivos estratégicos | Medidas | Montante ((euro)) indicativo | Fonte | Metas | Prazo | Prazo | Áreas governativas |
-| Objetivos estratégicos | Medidas | Montante ((euro)) indicativo | Fonte | Metas | Início | Término | Áreas governativas |
-| Promover a Inovação, a Digitalização e a Sustentabilidade do Comércio e dos Serviços | Aceleradoras do Comércio Digital | 55 milhões de euros | PRR | Financiamento de 7 consórcios, dinamização de 25 aceleradoras, 25 000 empresas apoiadas | 1.º sem. 2023 | 2.º sem. 2025 | MEM SEDMA |
-|  | Bairros Comerciais Digitais | 79 milhões de euros | PRR | Apoiar 95 BCD | 1.º sem. T2023 | 2.º sem. 2025 | MEM SEDMA |
-|  | Programa Empresas 4.0 - Digitalizar o Comércio e os Serviços | 10 milhões de euros | PT2030 | Abranger, pelo menos, 2500 empresas | 2.º sem. 2024 | 2.º sem. 2027 | MEM SEDMA |
-|  | + Sustentabilidade no comércio e serviços | 55 milhões de euros + 20 milhões de euros | PT2030 + FMC | Apoiar, no mínimo, 5200 empresas | 1.º sem. 2024 | 2.º sem. 2027 | MEM MCT |
-| Requalificar e modernizar o comércio de proximidade | + Comércio e Serviços no Território | 20 milhões de euros + 10 mihões de euros | PT2030 + FMC | Apoiar a requalificação de, pelo menos, 2100 estabelecimentos comerciais | 1.º sem. 2024 | 2.º sem. 2027 | MCT MEM |
-|  | Comunidades Amigas da Longevidade | 5 milhões de euros | PT2030 | Criação da «Carta das Cidades Amigas da Longevidade» | 1.º sem. 2024 | 1.º sem. 2027 | MTSSS MEM |
+| Início | Término |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Promover a Inovação, a Digitalização e a Sustentabilidade do Comércio e dos Serviços | Aceleradoras do Comércio Digital | 55 milhões de euros | PRR | Financiamento de 7 consórcios, dinamização de 25 aceleradoras, 25 000 empresas apoiadas | 1.º sem. 2023 | 2.º sem. 2025 | MEM<br>SEDMA |
+|  | Bairros Comerciais Digitais | 79 milhões de euros | PRR | Apoiar 95 BCD | 1.º sem. T2023 | 2.º sem. 2025 | MEM<br>SEDMA |
+|  | Programa Empresas 4.0 - Digitalizar o Comércio e os Serviços | 10 milhões de euros | PT2030 | Abranger, pelo menos, 2500 empresas | 2.º sem. 2024 | 2.º sem. 2027 | MEM<br>SEDMA |
+|  | + Sustentabilidade no comércio e serviços | 55 milhões de euros<br>+<br>20 milhões de euros | PT2030<br>+<br>FMC | Apoiar, no mínimo, 5200 empresas | 1.º sem. 2024 | 2.º sem. 2027 | MEM<br>MCT |
+| Requalificar e modernizar o comércio de proximidade | + Comércio e Serviços no Território | 20 milhões de euros<br>+<br>10 mihões de euros | PT2030<br>+<br>FMC | Apoiar a requalificação de, pelo menos, 2100 estabelecimentos comerciais | 1.º sem. 2024 | 2.º sem. 2027 | MCT<br>MEM |
+|  | Comunidades Amigas da Longevidade | 5 milhões de euros | PT2030 | Criação da «Carta das Cidades Amigas da Longevidade» | 1.º sem. 2024 | 1.º sem. 2027 | MTSSS<br>MEM |
 |  | Comércio com História 2.0 | NA | NA | 25 sessões para as autarquias e operadores económicos, diretas ou em articulação com as Comunidades Intermunicipais (CIM) e com as Regiões Autónomas | 1.º sem. 2024 | 2.º sem. 2030 | MEM |
 |  | Programa Urbano Requalificação Mercados Municipais | 1800 milhares de euros | BEI | Abrangência do programa a, pelo menos, 12 mercados municipais | 1.º sem. 2024 | 2.º sem. 2028 | MEM |
 | Aumentar o Conhecimento no Comércio e Serviços | Observatório do Comércio e Serviços | NA | NA | Lançamento e implementação do Observatório | 2.º sem. 2024 | 2.º sem. 2025 | MEM |
@@ -932,20 +952,20 @@ Foi, ainda, aprovada uma segunda alteração ao [Decreto-Lei n.º 178/2004](http
 |  | Mapa do Comércio, Serviços e Restauração | 295 milhares de euros | SAMA - Medida #08 Simplex 2022-23. Já executado | Lançamento do Mapa CSR | 1.º sem. 2024 | 2.º sem. 2030 | MEM |
 |  | Inventariação e Promoção de Festas, Feiras e Romarias | NA | NA | Criar o inventário de feiras e de mercados nacionais na plataforma do Mapa do Comércio | 2.º sem. 2024 | 2.º sem. 2026 | MEM |
 | Reforçar as Qualificações no Comércio e Serviços | Pacto para a Capacitação dos Operadores Económicos | NA | NA | Capacitação global de, pelo menos, 500 formandos (empresas/associações) por ano | 2.º sem. 2024 | 2.º sem. 2030 | MEM |
-|  | + Capacitação e Qualificação do Comércio e Serviços | 35 milhões de euros + 15 milhões de euros | PT 2030 + FMC | Capacitar, pelo menos, 25.000 formandos | 1.º sem. 2024 | 2.º sem. 2028 | MEM |
-|  | + Emprego e Empreendedorismo no Comércio e Serviços | 75 milhões de euros | PT2030 | Apoiar a criação de 4500 postos de trabalho | 1.º sem. 2024 | 2.º sem. 2027 | MCT MEM |
-| Promover o Comércio e os Serviços | Comércio e serviços portugueses no mundo | 240 milhares de euros | PT2030 | Rede com pelo menos 15 000 estabelecimentos da diáspora no final do projeto | 1.º sem. 2023 | 2.º sem. 2030 | MEM MNE |
-|  | Promoção e internacionalização de produtos e serviços portugueses | 20 milhões de euros | PT2030 | N.º de empresas aderentes a ações coletivas superior a 2000 | 1.º sem. 2024 | 2.º sem 2028 | MEM MNE |
-|  | Campanha de promoção do Comércio de Proximidade | 500 milhares de euros | PT2030 | Aumentar o volume de vendas médio das micro e pequenas empresas em, pelo menos, 10 % até 2025 App «Comprar em Portugal» | 2.º sem. 2024 | 1.º sem. 2025 | MEM |
+|  | + Capacitação e Qualificação do Comércio e Serviços | 35 milhões de euros<br>+<br>15 milhões de euros | PT 2030<br>+<br>FMC | Capacitar, pelo menos, 25.000 formandos | 1.º sem. 2024 | 2.º sem. 2028 | MEM |
+|  | + Emprego e Empreendedorismo no Comércio e Serviços | 75 milhões de euros | PT2030 | Apoiar a criação de 4500 postos de trabalho | 1.º sem. 2024 | 2.º sem. 2027 | MCT<br>MEM |
+| Promover o Comércio e os Serviços | Comércio e serviços portugueses no mundo | 240 milhares de euros | PT2030 | Rede com pelo menos 15 000 estabelecimentos da diáspora no final do projeto | 1.º sem. 2023 | 2.º sem. 2030 | MEM<br>MNE |
+|  | Promoção e internacionalização de produtos e serviços portugueses | 20 milhões de euros | PT2030 | N.º de empresas aderentes a ações coletivas superior a 2000 | 1.º sem. 2024 | 2.º sem 2028 | MEM<br>MNE |
+|  | Campanha de promoção do Comércio de Proximidade | 500 milhares de euros | PT2030 | Aumentar o volume de vendas médio das micro e pequenas empresas em, pelo menos, 10 % até 2025<br>App «Comprar em Portugal» | 2.º sem. 2024 | 1.º sem. 2025 | MEM |
 |  | Comprar em Portugal | 250 milhares de euros | PT2030 | Lançamento da Campanha «Comprar em Portugal» | 2.º sem. 2024 | 2.º sem. 2028 | MEM |
-|  | + Comércio Transfronteiriço | 200 milhares de euros | POCTEP | Apoio à implementação de duas operações que dinamizem a divulgação e comercialização de produtos endógenos | 1.º sem. 2024 | 2.º sem. 2027 | MCT MEM |
+|  | + Comércio Transfronteiriço | 200 milhares de euros | POCTEP | Apoio à implementação de duas operações que dinamizem a divulgação e comercialização de produtos endógenos | 1.º sem. 2024 | 2.º sem. 2027 | MCT<br>MEM |
 
 Cronograma das medidas da Agenda + Comércio 2030
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Medidas | Prazo | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Medidas | Prazo | Prazo | 2023 | 2023 | 2024 | 2024 | 2025 | 2025 | 2026 | 2026 | 2027 | 2027 | 2028 | 2028 | 2029 | 2029 | 2030 | 2030 |
-| Medidas | Início | Términus | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S |
+| Início | Términus | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S | 1.º S | 2.º S |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Aceleradoras do Comércio Digital... | 1.º sem. 2023 | 2.º sem. 2025 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Bairros Comerciais Digitais... | 1.º sem. T2023 | 2.º sem. 2025 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Programa Empresas 4.0 - Digitalizar o Comércio e os Serviços. | 2.º sem. 2024 | 2.º sem. 2027 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -966,3 +986,5 @@ Cronograma das medidas da Agenda + Comércio 2030
 | Campanha de promoção do Comércio de Proximidade | 2.º sem. 2024 | 1.º sem. 2025 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Comprar em Portugal... | 2.º sem. 2024 | 2.º sem. 2028 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | + Comércio Transfronteiriço... | 2.º sem. 2024 | 2.º sem. 2027 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+117212146

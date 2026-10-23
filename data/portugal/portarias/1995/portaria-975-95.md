@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/185b00/50345035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/975/1995/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-1995-477667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f84ce7d6069cb1238d529686168f3a73c834953211bfe2b6b72f4d9f9c3e81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0be11d7b6f5a4985f62ab21bff745e737066ed7246f3c9f0dbb9dae70beb39b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Árvore
+- Comércio
 - Exploração Florestal
+- Política Florestal
 - Regulamento
 - Regulamento da Admissão de Material de BASE e da Comercialização de Material de Reprodução de Sobreiro
-- Política Florestal
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:240014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209838:por
+  label: "Alterada a al. B) do anexo ao Regulamento pela PORT.78/98.1998.02.19.MECO, DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1998-209838
+  date: '1998-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/239/1992/10/29/p/dre
   label: null
@@ -85,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/134/1994/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/134/1994/03/04/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240014:por
+  label: "Revogada pela PORT.918/98.1998.10.21.MECO, DR.IS-B [243] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-1998-240014
+  date: '1998-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:42Z'
   warnings: []
   errors: []
 ---
@@ -115,19 +133,19 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, que se
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 5 de Julho de 1995.**
+Assinada em 5 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.
 
-## Anexo a que se refere a Portaria n.º 975/95
+Anexo a que se refere a Portaria n.º 975/95
 
 Regulamento da Admissão de Material de Base e da Comercialização de Material de Reprodução de Sobreiro (Quercus suber L.).
 
-###### Artigo 1.º A espécie sobreiro (Quercus suber L.) está sujeita ao disposto neste Regulamento.
+Artigo 1.º A espécie sobreiro (Quercus suber L.) está sujeita ao disposto neste Regulamento.
 
-###### Art. 2.º As exigências relativas à admissão de materiais de base destinados à produção de materiais de reprodução e à comercialização destes são as estabelecidas no anexo ao presente Regulamento, do qual faz parte integrante.
+Art. 2.º As exigências relativas à admissão de materiais de base destinados à produção de materiais de reprodução e à comercialização destes são as estabelecidas no anexo ao presente Regulamento, do qual faz parte integrante.
 
-###### Art. 3.º - 1 - As disposições do presente Regulamento aplicam-se:
+Art. 3.º - 1 - As disposições do presente Regulamento aplicam-se:
 
 a) À comercialização de plantas a partir de Outubro de 1996;
 
@@ -285,4 +303,4 @@ Enquanto não se dispuser de elementos para adequada definição das regiões de
 
 Zonas de colheita de semente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/185b00/50345035.pdf))](https://files.diariodarepublica.pt/1s/1995/08/185b00/50345035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/185b00/50345035.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0420504207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2017/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2017-107761908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41253f5bca0f96ba9ddf80b16d12e9e636735c1088a4929654b4c5776b62d54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0796cac854a592fdf38e753f66c988b9c16e2541b9dc2cda42681da5f27c4066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Aeronave com Motor
 - Aquisição de Bens e Serviços
 - Avião
-- Investigação Científica e Tecnológica
-- Ministro da Economia
 - Conselho de Ministros
 - Despesas Públicas
-- Projeto de Investimento
-- Ministro das Finanças
 - Indústria Aeronáutica
+- Investigação Científica e Tecnológica
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Projecto de Investigação
 - Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro das Finanças
+- Projecto de Investigação
+- Projeto de Investimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2011/10/06/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2010/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2010/10/12/p/dre
+- type: cites
+  target: pt:dre:146933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74717231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:57Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12200/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/51/2020/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2020-136600049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 565a8eebe7cad7be2acf7e0a6b921b7d157b15503197a605963731f0b9242d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc036c6039edf69b3a9732a16db02d381074c10fa1e373fbfc6aac79acbff57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comissão Interministerial
 - Comissário
 - Dia de Memória do Holocausto
+- Financiamento
 - II Guerra Mundial
 - Mecenato
+- Ministério dos Negócios Estrangeiros
 - Nomeação
 - Programa
-- Ministério dos Negócios Estrangeiros
-- Vítima de Guerra
 - Programa Nacional em torno da Memória do Holocausto
-relationships: []
+- Vítima de Guerra
+relationships:
+- type: cites
+  target: pt:dre:130721979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:36Z'
   warnings: []
   errors: []
 ---
@@ -506,3 +510,5 @@ Nota curricular
 Marta Santos Pais é licenciada em Direito pela Universidade Clássica de Lisboa. Entre maio de 2009 e maio de 2019 foi Representante Especial do Secretário-Geral da Organização das Nações Unidas sobre Violência contra a Criança. De setembro de 2019 a março de 2020 foi membro da Comissão de Inquérito das Nações Unidas sobre Ataques contra Instalações Humanitárias na Síria. Anteriormente, tinha exercido as funções de diretora de Avaliação, Políticas e Planeamento da UNICEF, em Nova Iorque (1997 a 2001), e diretora do Centro de Estudos Innocenti desta organização, em Florença (2001 a 2009). Antes da sua nomeação como alta funcionária da UNICEF, foi relatora do Comité das Nações Unidas sobre os Direitos da Criança, vice-presidente da Comissão de Coordenação de Políticas da Infância do Conselho da Europa e membro da Comissão Portuguesa para a Promoção dos Direitos Humanos e a Igualdade.
 
 Marta Santos Pais conta com mais de 30 anos de experiência na área de direitos humanos e cooperação jurídica, sobretudo no seio das Nações Unidas e do Conselho da Europa, tendo participado na redação de vários instrumentos jurídicos internacionais, incluindo a Convenção sobre os Direitos da Criança e os seus protocolos facultativos, o Segundo Protocolo Facultativo ao Pacto Internacional sobre os Direitos Civis e Políticos com vista à Abolição da Pena de Morte e a Declaração das Nações Unidas dos Defensores de Direitos Humanos.
+
+113334871

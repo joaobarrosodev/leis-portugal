@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12800/0002000026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2023/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2023-215097641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 596a70c093045f4a1c8b2225f6c469157e3e34ec560210d2587f7cff2951b5bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51cedb8bd68630b3d0193a919312aa20e285b1dfdb4d2b208fdd8607052560a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Auditoria
-- Ministério da Administração Interna
-- Gestão Financeira
+- Autoridade de Gestão
 - Comissão Interministerial
 - Definição de Competências
-- União Europeia
 - Fiscalização
-- Secretaria Geral
+- Fundo para a Segurança Interna
 - Fundos CE
 - Gestão
-- Sistema Integrado de Gestão e Controlo
-- Fundo para a Segurança Interna
-- Autoridade de Gestão
+- Gestão Financeira
 - Instrumento de Apoio Financeiro à Gestão das Fronteiras e à Política de Vistos
+- Ministério da Administração Interna
+- Secretaria Geral
+- Sistema Integrado de Gestão e Controlo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:896585442:por
@@ -103,16 +103,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:46Z'
   warnings: []
   errors: []
 ---
@@ -364,3 +368,5 @@ b) Em casos excecionais, à celebração de contrato de trabalho em funções p�
 30 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 25 de maio de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116620377

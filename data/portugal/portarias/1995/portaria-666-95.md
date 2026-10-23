@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/666/1995/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-1995-476321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5048772dc43b84660d31c05242a5fbe4fc1ad7da775184b2ca4aa02ede0378d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de2385bdb2f382692e50727fb649cd071d97f4520343d6b518e912d023ac122
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:251637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251637:por
+  label: "Renovada por doze anos a concessão da zona de caça pela PORT.567/2004.26.05.2004.MADRP, DR.IS-B [123] de 26.05.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/567-2004-251637
+  date: '2004-05-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +92,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-b3/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-b3/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:11Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Junho de 1995.**
+Assinada em 7 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/146b00/41254126.pdf))](https://files.diariodarepublica.pt/1s/1995/06/146b00/41254126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/146b00/41254126.pdf)

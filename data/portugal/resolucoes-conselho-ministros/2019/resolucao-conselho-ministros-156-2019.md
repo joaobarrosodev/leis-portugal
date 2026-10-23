@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/156/2019/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2019-124716449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 501994e66ddb0aa3b160c8039c44bc1cd8baafb9ec8cf44cf46b284d748b9653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cbc71e911215bf809e785541d4d3ea559f5eda89817203eaddab5de6d2a71f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
 subjects:
 - ÁREA Metropolitana
 - Autorização de Despesas
-- Financiamento
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
-- Lisboa
-- Secretaria Geral
-- Ministério do Ambiente Ordenamento do Território e Energia
+- Financiamento
 - Indemnização Compensatória
 - Instituto da Mobilidade e dos Transportes
+- Lisboa
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Passe Jovem
 - Passe Social
+- Porto
+- Secretaria Geral
 - Serviço Público
 - Soflusa-sociedade Fluvial de Transportes
 - Transporte de Passageiros
 - Transporte Escolar
 - Transporte Público
 - Transtejo
-- Porto
-- Passe Jovem
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -121,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:39Z'
   warnings: []
   errors: []
 ---
@@ -197,8 +229,10 @@ Presidência do Conselho de Ministros, 5 de setembro de 2019. - O Primeiro-Minis
 
 ## ANEXO I — (a que se referem os n.os 5 e 9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf)
 
 ## ANEXO II — (a que se refere o n.º 10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17700/0003000033.pdf)
+
+112581425

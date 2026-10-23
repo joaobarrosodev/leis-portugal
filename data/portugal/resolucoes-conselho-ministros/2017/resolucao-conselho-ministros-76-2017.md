@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10800/0276902770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/76/2017/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2017-107468876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16c905846f908b81fe2443e4ec20bd44a3577b54e74f97a8d1fe61c8e21fb160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f2a6d2ad359abb8da53ead2e8b49ff33ed160688807f21918175187215f2c38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Caderneta Predial
-- Obras Particulares
-- Especificação Técnica
-- Indústria da Construção
 - Documento Eletrónico
-- Programa Simplex
-- Obras Municipais
-- Obras Públicas
+- Especificação Técnica
 - Habitação
+- Indústria da Construção
+- Modernização Administrativa
+- Obras Municipais
+- Obras Particulares
+- Obras Públicas
+- Programa Simplex
 relationships:
+- type: amended_by
+  target: pt:dre:123036563:por
+  label: Determinada a atribuição ao Ministro das Infraestruturas e da Habitação das competências anteriormente atribuídas
+    ao Ministro do Planeamento e das Infraestruturas e ao Ministro do Ambiente e da Transição Energética pelo presente diploma,
+    pelo(a) Resolução do Conselho de Ministros n.º 112/2019 - Diário da República n.º 129/2019, Série I de 2019-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2019-123036563
+  date: '2019-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2013/08/20/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1268/2008/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1268/2008/11/06/p/dre
+- type: cites
+  target: pt:dre:211028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:12Z'
   warnings: []
   errors: []
 ---

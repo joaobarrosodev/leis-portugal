@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09100/0003200033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/52/2021/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-2021-163092610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5506a15f749b9e2aba44ce1258c6ed0c6b5da5a26d7bab8c4dfa41867eedf75a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0aca3b1f21e0b75c28bff5657daad8c33ff4687ea05def5354f0d4d5657fcd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Camões - Instituto da Cooperação e da Língua
+- Centenário do Nascimento de Luís Vaz de Camões
+- Comemoração
 - Comissão de Honra
 - Comissário
 - Definição de Competências
-- Comemoração
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
-- Presidente da República
-- Camões - Instituto da Cooperação e da Língua
 - Nomeação
+- Presidente da República
 - Remuneração
-- Centenário do Nascimento de Luís Vaz de Camões
 relationships:
 - type: amended_by
   target: pt:dre:867741524:por
@@ -84,16 +84,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:867741524:por
+  label: Revogada, a partir de 29 de maio de 2024, a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 69/2024
+    - Diário da República n.º 106/2024, Série I de 2024-06-03, nos termos do seu n.º 22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2024-867741524
+  date: '2024-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:44Z'
   warnings: []
   errors: []
 ---
@@ -157,3 +167,5 @@ Levou a cabo a revitalização de publicações históricas, tais como as revist
 Colaborou em vários projetos internacionais, integrou comissões científicas de numerosos congressos e júris de diversos prémios, como o Premio Strega, tendo presidido ao júri do Prémio Camões. Foi-lhe atribuído pelo Presidente da República Italiana, Carlo Azeglio Ciampi, o título honorífico de Grande Ufficiale della Repubblica, grau superior do Ordine della Stella della Solidarietà Italiana. Recebeu o Premio Flaiano per l'Italianistica - XXXII Premi Internazionali Flaiano.
 
 Fazem parte das suas mais recentes publicações em volume: Ut pictura poesis (Coord., 2019: Cauc); Carolina Michaëlis de Vasconcelos, La saudade portoghese (Coord., 2019: Lithos); Cortegiano e cortesão. Baldassarre Castiglione e D. Miguel da Silva (2017: Centre International d'Études Portugaises de Genève); Vanguardas (Coord., 2016: Cauc); Comentário a Camões (4 vols., Coord., 2012-2016: Cotovia, Centre International d'Études Lusophones, Ciec); O petrarquismo português do «Cancioneiro Geral» a Camões (2015: Imprensa Nacional-Casa da Moeda); Luís de Camões, Os Lusíadas (Ed., 2016: Almedina); Fernando Távora. Diário de «bordo»/«On board» Diary (4 vols., Ed.; Coord. Álvaro Siza, 2016: Casa da Arquitectura, Fundação Instituto Arquitecto Marques da Silva); Maria Luisa Meneghetti, Cesare Segre, Giuseppe Tavani. Cinco ensaios circum-camonianos. (Coord., 2012: Ciec).
+
+114222606

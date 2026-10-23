@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10700/0010700107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/48/2023/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2023-213881449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60512a3cf20ef8453910dd98663bd9c9a1dfe0f9b023e35973366b9d243afa1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e48caea55dbc1676d78342359681626dfda001d9f72bcea8b595d0dfeeaa802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autorização de Despesas
-- Financiamento
 - Agência Nacional para a Gestão do Programa Eramus Juventude em Acção
+- Autorização de Despesas
 - Conselho de Ministros
 - Delegação de Competências
-- Estudante
-- Ministro da Ciência Tecnologia e Ensino Superior
-- Residência de Estudantes
-- Plano de Recuperação e Resiliência
 - Estrutura de Missão Recuperar Portugal
+- Estudante
+- Financiamento
 - Governo XXIII
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Plano de Recuperação e Resiliência
+- Residência de Estudantes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177453864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206350929:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:26Z'
   warnings: []
   errors: []
 ---
@@ -131,3 +143,5 @@ Nos termos dos artigos 5.º e 6.º do [Decreto-Lei n.º 53-B/2021](https://diari
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 4 de maio de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116528012

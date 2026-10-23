@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 130/2015, 1º Suplemento, Série I de 2015-07-07
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4686-(2) a 4686-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45-a/2015/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-a-2015-69736233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb81449c65962f0b9c913c83eabb1bc7be67672dec57ca2c86b86c9bdd8d5692
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3594f1c43041165f1e5adb61e845137a79b9d62008fd640b088508f927125306
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Economia
-- Auto-estrada da Grande Lisboa
-- Estrada
-- Contrato de Concessão
-- Rede de Estradas
 - Auto-estrada
-- Parceria Público-Privada
+- Auto-estrada da Grande Lisboa
+- Contrato de Concessão
+- Estrada
+- Ministro da Economia
 - Ministro de Estado e das Finanças
+- Parceria Público-Privada
+- Rede de Estradas
 relationships:
 - type: cites
   target: celex:31997L0011
@@ -127,16 +127,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39-f/2010/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39-f/2010/06/04/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67540640:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:05Z'
   warnings: []
   errors: []
 ---
@@ -407,61 +487,61 @@ gggg) «Vocabulário de Estradas e Aeródromos» - a publicação, de 1962, do L
 
 Fazem parte integrante do presente Contrato de Concessão, para todos os efeitos legais e contratuais, os seus seguintes anexos e respetivos apêndices:
 
-## Anexo 1: Lista dos Contratos do Projeto;
+Anexo 1: Lista dos Contratos do Projeto;
 
-## Anexo 2: Estrutura acionista da Concessionária;
+Anexo 2: Estrutura acionista da Concessionária;
 
-## Anexo 3: Programa de Trabalhos;
+Anexo 3: Programa de Trabalhos;
 
-## Anexo 4: Declaração dos Acionistas;
+Anexo 4: Declaração dos Acionistas;
 
 ## Anexo 5: Caso Base;
 
-## Anexo 6: Acordos diretos referentes ao Contrato de Projeto e Construção e ao Contrato de Condução e Realização de Processos de Expropriação;
+Anexo 6: Acordos diretos referentes ao Contrato de Projeto e Construção e ao Contrato de Condução e Realização de Processos de Expropriação;
 
-## Anexo 7: Acordo direto com os Bancos Financiadores;
+Anexo 7: Acordo direto com os Bancos Financiadores;
 
-## Anexo 8: Definição dos Lanços e Sublanços;
+Anexo 8: Definição dos Lanços e Sublanços;
 
-## Anexo 9: Critérios Chave;
+Anexo 9: Critérios Chave;
 
-## Anexo 10: Acordo Direto referente ao Contrato de Operação e Manutenção;
+Anexo 10: Acordo Direto referente ao Contrato de Operação e Manutenção;
 
-## Anexo 11: Minuta de garantia bancária referente à caução;
+Anexo 11: Minuta de garantia bancária referente à caução;
 
-## Anexo 12: Limites da Concessão;
+Anexo 12: Limites da Concessão;
 
-## Anexo 13: Contrato de Projeto e Construção e Contrato de Condução e Realização de Processos de Expropriação;
+Anexo 13: Contrato de Projeto e Construção e Contrato de Condução e Realização de Processos de Expropriação;
 
-## Anexo 14: Contratos de Financiamento;
+Anexo 14: Contratos de Financiamento;
 
 ## Anexo 15: Estatutos;
 
-## Anexo 16: Acordo de Subscrição e Realização de Fundos Próprios;
+Anexo 16: Acordo de Subscrição e Realização de Fundos Próprios;
 
-## Anexo 17: Acordo Parassocial;
+Anexo 17: Acordo Parassocial;
 
-## Anexo 18: Minuta de garantia bancária referente aos fundos próprios da Concessionária;
+Anexo 18: Minuta de garantia bancária referente aos fundos próprios da Concessionária;
 
-## Anexo 19: Programa de seguros;
+Anexo 19: Programa de seguros;
 
-## Anexo 20: Contrato de Operação e Manutenção;
+Anexo 20: Contrato de Operação e Manutenção;
 
-## Anexo 21: Pagamentos ao Concedente;
+Anexo 21: Pagamentos ao Concedente;
 
-## Anexo 22: Tarifas diárias de disponibilidade;
+Anexo 22: Tarifas diárias de disponibilidade;
 
-## Anexo 23: Estrutura Acionista Atual da Concessionária;
+Anexo 23: Estrutura Acionista Atual da Concessionária;
 
-## Anexo 24: Pressupostos e projeções económico-financeiras;
+Anexo 24: Pressupostos e projeções económico-financeiras;
 
-## Anexo 25: Grandes Reparações de Pavimento;
+Anexo 25: Grandes Reparações de Pavimento;
 
-## Anexo 26: Plano de Controlo de Qualidade;
+Anexo 26: Plano de Controlo de Qualidade;
 
-## Anexo 27: Manual de Operação e Manutenção;
+Anexo 27: Manual de Operação e Manutenção;
 
-## Anexo 28: Telemática rodoviária.
+Anexo 28: Telemática rodoviária.
 
 3 - Epígrafes e remissões
 
@@ -907,7 +987,7 @@ b) A apresentação ao Concedente, nos prazos previstos no Programa de Trabalhos
 
 30.1 - A construção dos Lanços de Autoestrada referidos nos n.os 6.1. e 6.2. obedece ao Programa de Trabalhos, no respeito pelas seguintes datas de início da construção e de entrada em serviço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 30.2 - As datas de entrada em serviço e as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos.
 
@@ -1519,7 +1599,7 @@ e) Outros parâmetros que se considerem necessários para alcançar a classifica
 
 53.1 - Os equipamentos de classificação e contagem descritos na cláusula 52.ª devem classificar os veículos nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 53.2 - Os limites de erro absoluto aceitáveis para os equipamentos referidos no número anterior são os seguintes:
 
@@ -1531,7 +1611,7 @@ c) Erro na classificação entre as classes: (igual ou menor que) 15 % (quinze p
 
 53.3 - Para efeitos da aplicação das tarifas de portagem, as classes a ter em conta são, por ordem crescente do respetivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 53.4 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2 300 kg e inferior ou igual a 3 500 kg, com lotação igual ou superior a 5 (cinco) lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às 4 (quatro) rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando cumpram o disposto no número seguinte.
 
@@ -1813,7 +1893,7 @@ Sin(índice t) = montante correspondente à dedução ou incremento imposto em r
 
 67.2 - O apuramento da componente da remuneração anual relativa à disponibilidade da Autoestrada (Dis(índice t)), a que se refere o número anterior, é efetuado nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 67.3 - O montante total das deduções a efetuar em cada ano em virtude da ocorrência de falhas de disponibilidade (Ded(índice t)), a que se refere o n.º 67.1., é calculado de acordo com a seguinte fórmula:
 
@@ -1829,11 +1909,11 @@ F(Dis)(índice t) = montante correspondente à dedução diária imposta em resu
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
@@ -1857,11 +1937,11 @@ b) IS(índice t)(Conc) (maior que) IS(índice t-1)(ponderado), o Concedente dedu
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 67.8 - Para efeitos do cálculo do índice de sinistralidade previsto nos números anteriores, não é considerado o eventual aumento de acidentes registados no Sublanço ou Grupo de Sublanços, conforme aplicável, no período relativamente ao qual se verifique, por facto imputável ao Concedente, o adiamento, total ou parcial, de uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade deste e cuja necessidade tenha sido determinada nos termos da cláusula 41.ªA, ou se opte pela não realização de um aumento do número de vias na data em que tal devesse ocorrer, nos termos da cláusula 41.ª, considerando-se, para o efeito, e com as devidas adaptações, a média anual do número de acidentes ocorrido nos 3 (três) anos anteriores.
 
@@ -1917,7 +1997,7 @@ iv) Os sistemas de ventilação de túneis e outros equipamentos integrantes da 
 
 67.18 - O montante relativo às falhas de disponibilidade corresponde à soma das deduções diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 67.19 - Para efeitos de cálculo do montante referente às falhas de disponibilidade, não são considerados o número total de quilómetros relativamente aos quais não se verifique o cumprimento da condição prevista na subalínea i) da alínea c) do n.º 67.15., relativa à regularidade e aderência do pavimento, que resulte da não realização, por facto imputável ao Concedente, dos trabalhos inerentes a uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade deste e cuja necessidade tenha sido determinada nos termos da cláusula 41.ªA, pelo período de tempo correspondente ao atraso na realização desses trabalhos.
 
@@ -2011,7 +2091,7 @@ c) Praça de portagem localizada no Sublanço CREL - Idanha: soma das taxas corr
 
 69.1 - As tarifas de portagem podem ser atualizadas anualmente, no primeiro mês de cada ano civil, por despacho do ME, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 69.2 - A IP, após parecer da IGF, deve comunicar à Concessionária o valor das novas tarifas de portagem com uma antecedência mínima de 15 (quinze) dias face à data da entrada em vigor das mesmas.
 
@@ -2071,7 +2151,7 @@ l) Veículos afetos à Autoridade Nacional da Segurança Rodoviária, no âmbito
 
 73.1 - No caso de as receitas de portagem obtidas pela Concessionária e entregues à IP, em determinado ano, serem superiores, a preços constantes de 2010, aos montantes previstos no Anexo 24, a Concessionária tem direito a uma remuneração de valor equivalente a 25 % (vinte e cinco por cento) do montante excedente, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 73.2 - Até ao dia 15 de março de cada ano de vigência do presente contrato, a IP comunica, por escrito, à Concessionária o montante das receitas de portagem referentes ao ano civil anterior, identificando, se aplicável, o excedente verificado face ao previsto no Anexo 24 e o valor da remuneração que eventualmente lhe cabe nos termos do número anterior.
 
@@ -2417,7 +2497,7 @@ O presente Contrato de Concessão caduca quando se verificar o fim do prazo da C
 
 88.4 - No Termo da Concessão cessam para a Concessionária todos os direitos relativos aos Lanços identificados na cláusula 6.ª, sendo entregues ao Concedente todos os bens que integram os Lanços referidos nos n.os 6.1. a 6.3. em estado que satisfaça as seguintes condições, salvo se, no que respeita aos pavimentos, o âmbito, extensão, caraterísticas ou calendarização de Grandes Reparações de Pavimento cujos encargos sejam da responsabilidade do Concedente não tenha tido em conta, por ação ou omissão deste, as medidas para atender a essas condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0000200047.pdf)
 
 88.5 - Todos os bens não contemplados no quadro constante do número anterior devem ser entregues em estado que garanta 50 % (cinquenta por cento) da vida útil de cada um dos seus componentes.
 

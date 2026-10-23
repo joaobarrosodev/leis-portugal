@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/154/2019/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2019-124500728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1fb32f767d74fdde5983b6cff7da4fbcbca7f6209c179aa4cba6a5ea9fa28f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c6b0c633dcbf76abbf838a491838f31dcc1ddfca8a5b0aeec649c99af47b884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2018/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2018/06/15/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115524220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116844475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:37Z'
   warnings: []
   errors: []
 ---
@@ -147,8 +175,10 @@ Presidência do Conselho de Ministros, 22 de agosto de 2019. - O Primeiro-Minist
 
 ## ANEXO I — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf)
 
 ## ANEXO II — (a que se referem os n.os 2 e 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17100/0008600087.pdf)
+
+112559459

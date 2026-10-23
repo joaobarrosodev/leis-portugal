@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19600/0002200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/132/2024/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-2024-890389080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59e206efe3da782492e200289c7eaf06321962c9542b125301d713df280e5a3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a9ce5326fba86bd3770d5ffdf430e941e63eddafe84a383065b53fa8db2ab61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Comité das Regiões
 - Conselho da União Europeia
-- União Europeia
 - Nomeação
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/1/1994/01/25/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2024/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2024/07/15/p/dre
+- type: cites
+  target: pt:dre:127177762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149971741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156974203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871917721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:29Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +133,7 @@ Em conformidade, os respetivos mandatos cessam, designadamente, por termo do man
 
 Neste âmbito, e face às recentes alterações ao nível de alguns executivos municipais, decorrentes quer das eleições legislativas, quer das eleições europeias, verificou-se a cessação de vários mandatos, tanto de membros efetivos, como de membros suplentes.
 
-Considerando as anteriores propostas aprovadas pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[192/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2019-127177762), de 16 de dezembro, [104-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-a-2020-149971741), de 27 de novembro, [10/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2021-156974203), de 10 de fevereiro, e [89/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2024-871917721), de 15 de julho, importa agora propor novas nomeações que assegurem aquela representatividade para o quinquénio em curso (2020-2025), tendo, para o efeito, sido ouvida a Associação Nacional de Municípios Portugueses.
+Considerando as anteriores propostas aprovadas pelas Resoluções do Conselho de Ministros n.os[192/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2019-127177762), de 16 de dezembro, [104-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-a-2020-149971741), de 27 de novembro, [10/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2021-156974203), de 10 de fevereiro, e [89/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2024-871917721), de 15 de julho, importa agora propor novas nomeações que assegurem aquela representatividade para o quinquénio em curso (2020-2025), tendo, para o efeito, sido ouvida a Associação Nacional de Municípios Portugueses.
 
 Assim:
 
@@ -140,3 +160,5 @@ e) Rogério David Sádio da Silva, presidente da Câmara Municipal de Fronteira,
 3 - Estabelecer que a presente resolução produz efeitos a 16 de julho de 2024.
 
 Presidência do Conselho de Ministros, 19 de setembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118197772

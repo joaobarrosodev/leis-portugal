@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45/2022/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2022-183691732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7affe167fd8f555b742021b592668dd8f866a53e57f11c8b51f40b68dbdec087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35a905f471a853b27b39f9def783aca899175165b766b366ea1c5c1cf88239c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARTE Contemporânea
+- Belas-artes
+- Cultura
 - Definição de Competências
 - Direcção Geral das Artes
-- Cultura
-- Belas-artes
 - Plano Nacional das Artes
 - Rede Portuguesa de Arte Contemporânea
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:221225700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221225700:por
+  label: Determinada a cessação da comissão de serviço da curadora da Coleção de Arte Contemporânea do Estado pelo(a) Decreto-Lei
+    n.º 79/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04, nos termos do art. 10.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2023-221225700
+  date: '2023-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/2021/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/2021/05/11/p/dre
+- type: cites
+  target: pt:dre:163092608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:17Z'
   warnings: []
   errors: []
 ---
@@ -122,3 +136,5 @@ Presidência do Conselho de Ministros, 12 de maio de 2022. - O Primeiro-Ministro
 Nota biográfica da curadora da Coleção de Arte Contemporânea do Estado
 
 Sandra Cristina Piedade Vieira Jürgens (Lisboa, 1969) é licenciada em História da Arte pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa (1997), pós-graduada em História da Arte Contemporânea pela mesma faculdade (2000) e em Comunicação, Cultura e Tecnologias da Informação pelo ISCTE - Instituto Superior de Ciências do Trabalho e da Empresa (2003) e doutorada pela Faculdade de Belas-Artes da Universidade de Lisboa (2014). É curadora, historiadora de arte, professora universitária e investigadora do Instituto de História da Arte da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa. Entre 2005 e 2010 foi responsável pelo módulo de Publicações e Projetos Editoriais no mestrado de Estudos Curatoriais da Faculdade de Belas-Artes da Universidade de Lisboa. Foi membro de júris em alguns dos mais destacados prémios nacionais de arte contemporânea. Foi consultora editorial da ARTE LISBOA - Feira de Arte Contemporânea. Coordenou a comunicação nacional e internacional das representações oficiais portuguesas na Bienal de Veneza e na Bienal de São Paulo, nas áreas da arte e da arquitetura (2008-2010), na Direção-Geral das Artes. Dirige a revista online Wrong Wrong e a plataforma digital raum: residências artísticas online. Entre as mais recentes exposições que comissariou, destacam-se: João Fonte Santa - Bem Vindo à Cidade do Medo (MAAT, 2018); André Alves - Double Exposure (MNAC, 2018); Nikolai Nekh - Calcanhar de Aquiles (MNAC, 2018). Desenvolveu o ciclo COSMO/POLÍTICA no Museu do Neo-Realismo (2017-2020) e o programa de itinerâncias da CGD/Culturgest (2017-2019) com a exposição Contra a Abstracção. Foi curadora-geral da BF18 - Bienal de Fotografia de Vila Franca de Xira (2019) e BF20 (2021). É vice-presidente da AICA Portugal - Associação Internacional de Críticos de Arte. É autora do livro Instalações Provisórias: Independência, Autonomia, Alternativa e Informalidade. Artistas e Exposições em Portugal no Século XX (2016). Entre 2019 e 2020 foi coordenadora da Comissão para a Aquisição de Arte Contemporânea, responsável pelo programa anual de aquisição de arte contemporânea.
+
+115342407

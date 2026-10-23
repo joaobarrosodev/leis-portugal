@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/2014/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2014-606123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 599859e33a9f070b099dad8c419d6238d1cc1330a5096f69cb41d47ee6798a2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f7da6d391c507f89b5ed2a7b385268fdef976609032e77e86ef381b9d56a69a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
 - Estratégia Nacional de Segurança Rodoviária 2008-2015
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/64-a/2011/12/30/p/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/54/2009/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/54/2009/06/26/p/dre
+- type: cites
+  target: pt:dre:243768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491955:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:29Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +177,7 @@ O segundo, em que estiveram envolvidos responsáveis por um significativo númer
 
 Para a realização do diagnóstico foi editado um documento de apoio(ii) que foi sendo atualizado na fase de elaboração interna do desenvolvimento e serviu de orientação para os grupos de trabalho (GT) constituídos pelos membros da estrutura técnica. Este documento foi enviado a todos os elementos do grupo consultivo e esteve disponível para consulta no sítio na Internet da ANSR, tendo em vista a obtenção de contributos para a revisão.
 
-# PARTE 1 — Diagnóstico
+## PARTE 1 — Diagnóstico
 
 1.1 Sinistralidade rodoviária: Um problema à escala planetária...
 
@@ -243,7 +251,7 @@ Consequentemente, não se concretizaram importantes processos operacionais do qu
 
 Neste período da ENSR também se verificou uma diminuição acentuada no investimento em campanhas de comunicação e em estudos de comportamentos e atitudes dos utilizadores do sistema de transporte rodoviário.
 
-# PARTE 2 — Desenvolvimento
+## PARTE 2 — Desenvolvimento
 
 2.1 Análise e redefinição de objetivos estratégicos e operacionais
 
@@ -263,85 +271,85 @@ Objetivos estratégicos (OE)
 
 OE1 - Melhoria da segurança dos condutores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE2 - Proteção dos utentes vulneráveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE3 - Aumento da segurança dentro das localidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE4 - Redução dos principais comportamentos de risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE5 - Melhoria do socorro, do tratamento e do seguimento das vítimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE6 - Infraestruturas mais seguras e mobilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OE7 - Promoção da segurança nos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivos operacionais (OO)
 
 OO1 - Programas e Iniciativas de Educação e Formação para o Desenvolvimento de uma Cultura de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO2 - Aperfeiçoamento do ensino da condução, do exame de condução e da atualização dos condutores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO3 - Aplicação da recomendação da Comissão Europeia relativa à Fiscalização dos Grupos e Fatores de Risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO4 - Aperfeiçoamento da legislação e da aplicação do regime sancionatório no âmbito da segurança rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO5 - Desenvolvimento de um programa integrado de gestão da rede viária urbana e de incentivo à utilização de modos suaves de transporte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO6 - PMSR como instrumento de gestão do ordenamento de território
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO7 - Melhoria da eficácia do socorro, do tratamento especializado e da integração das vítimas de sinistros rodoviários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO8 - Infraestrutura rodoviária mais segura e incremento de programas ITS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO9 - Melhoria e controlo das condições de segurança dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO10 - Melhoria da gestão do sistema de informação de segurança rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO11 - Desenvolvimento de campanhas de comunicação com vista à redução de comportamentos e atitudes de risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO12 - Desenvolvimento de programas de redução de comportamentos e atitudes de risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OO13 - Modelo de financiamento da segurança rodoviária e atribuição de recursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 2.2 Desenvolvimento das ações chave
 
@@ -411,7 +419,7 @@ Quanto ao GT 13 tratou-se de um GT de caráter embrionário que, neste período,
 
 Nos trabalhos estiveram envolvidos 40 organismos da Administração Pública, dependentes de 10 Ministérios e da Presidência do Conselho de Ministros (PCM), e da sociedade civil. Os GT realizaram 71 reuniões presenciais e os seus planos de ação contemplam um total de 127 ações chave. Comparativamente ao número de organizações envolvidas nos GT, estas ações chave serão desenvolvidas por um número ainda mais alargado de entidades.
 
-# PARTE 3 — Conclusão
+## PARTE 3 — Conclusão
 
 3.1 Recomendações para a implementação eficiente da ENSR
 
@@ -441,79 +449,79 @@ Objetivo operacional 1 - Programas e Iniciativas de Educação e Formação para
 
 Coordenação: Direção-Geral da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 2 - Aperfeiçoamento do ensino da condução, do exame de condução e da atualização dos condutores
 
 Coordenação: Instituto da Mobilidade e Transportes, I.P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 3 - Aplicação da Recomendação da Comissão Europeia relativa à Fiscalização dos Grupos e Fatores de Risco
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 OBJETIVO OPERACIONAL 4 - Aperfeiçoamento da Legislação e da Aplicação do Regime Sancionatório no Âmbito da Segurança Rodoviária
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 5 - Melhoria do ambiente rodoviário em meio urbano com requalificação do espaço público
 
 Coordenação: Instituto da Mobilidade e Transportes, I.P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 6 - Os PMSR como instrumento de planeamento e gestão do território, da mobilidade e dos transportes e a articulação entre a Administração Central e Local
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 7 - Melhoria da Eficácia do Socorro, do Tratamento Especializado e da Integração das Vítimas de Acidentes Rodoviários
 
 Coordenação: Direção-Geral de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 8 - Infraestrutura rodoviária mais segura e Incremento de programas de ITS
 
 Coordenação: Instituto da Mobilidade e Transportes, I.P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 9 - Melhoria e controlo das condições de segurança dos veículos
 
 Coordenação: Instituto da Mobilidade e Transportes, I.P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 10 - Melhoria do Sistema de Informação de Segurança Rodoviária
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 11 - Desenvolvimento de campanhas de comunicação com vista à redução de comportamentos e atitudes de Risco
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 12 - Desenvolvimento de Estudos e/ou Programas visando a Alteração de Comportamentos e Atitudes de Risco
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 Objetivo operacional 13 - Modelo de Financiamento da Segurança Rodoviária e atribuição de recursos
 
 Coordenação: Autoridade Nacional de Segurança Rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00800/0009800113.pdf)
 
 SIGLAS
 

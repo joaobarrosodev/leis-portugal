@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/1996/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1996-198079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d28766ad874f4d4d5a547d2ae87c2b25d7895524adb89187b5460c5f437e91b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63af18a12ee24a059e249435a81e2b5ad7d9b4b3359bfdcfde6905f443016f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Bacharelato
 - Caldas da Rainha
-- Plano de Estudos
 - Curso de Artes Plásticas
 - Curso de Artes Plásticas - Pintura-escultura
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia Gestão ARTE e Design
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:592730:por
@@ -85,16 +85,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/713/1993/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/713/1993/08/02/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573558:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592730:por
+  label: "Revogada, pela PORT.1117/2000.2000.11.28.ME DR.IS-B [275], findo o processo de transição fixado no art. 31.º do\
+    \ Regulamento dos Cursos Bietápicos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-2000-592730
+  date: '2000-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:53Z'
   warnings: []
   errors: []
 ---
@@ -197,10 +227,10 @@ São revogadas as Portarias n.os [677/90](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 21 de Outubro de 1996.**
+Assinada em 21 de Outubro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Instituto Politécnico de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/270b00/42034206.pdf))](https://files.diariodarepublica.pt/1s/1996/11/270b00/42034206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/270b00/42034206.pdf)

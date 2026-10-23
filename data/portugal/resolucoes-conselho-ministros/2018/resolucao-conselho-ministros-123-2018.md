@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/18700/0485404856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/123/2018/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2018-116515456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcf7288975d66757ee1052c3ffc97d49a50b31278e861cf00a299dd804e65eba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7bf181338b9c48c0b8f33c3bb8d1dd083f903101d0cfdb1fec55ce01cd541e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
-- Nomeação
-- Figueira da Foz
-- Presidente
 - Estabelecimento Hospitalar
+- Figueira da Foz
+- Nomeação
+- Presidente
 - Vogal
 relationships:
 - type: cites
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:106434234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:47Z'
   warnings: []
   errors: []
 ---
@@ -191,3 +211,5 @@ Licenciatura em Enfermagem, Curso de Pós-Licenciatura de Especialização em En
 Exerceu funções no Hospital Distrital de Vila Franca de Xira de 10 de maio de 1993 a fevereiro de 1996; Exerce funções no Hospital Distrital da Figueira da Foz, EPE (HDFF), desde 01 de março de 1996, desempenhando atualmente funções de Enfermeiro Responsável pelo Serviço de Cirurgia Geral; Exerceu funções no Instituto Nacional de Emergência Médica (INEM), em regime de requisição, no período compreendido entre 16 de junho de 2007 e 31 de dezembro de 2009.
 
 Auditor e formador da Triagem de Prioridades - Protocolo de Manchester (2003-2018); Membro do Grupo de Reestruturação da Sala de Emergência do HDFF; Enfermeiro Coordenador da Sala de Emergência do Serviço de Urgência do HDFF (2004-2007); Enfermeiro Tutor em diversos Ensinos Clínicos no contexto de Licenciatura em Enfermagem, Pós-Graduação em Enfermagem de Urgência e Emergência e Especialização em Enfermagem de Reabilitação; Membro e Coordenador do Grupo de Parametrização dos Sistemas de Apoio à Prática de Enfermagem; Membro da Comissão Técnica para a dotação do novo Serviço de Urgência em 2011; Membro da Comissão de Acompanhamento da Avaliação de Desempenho do HDFF (SIADAP); Membro da Comissão Executiva da Direção de Enfermagem; Auditor da Qualidade no HDFF; Membro da Comissão Local de Informatização Clínica (CLIC) do HDFF; Presidente do júri dos Procedimentos para a constituição de Bolsa de Recrutamento para Enfermeiros do HDFF (2015, 2016 e 2017); Embaixador e dinamizador da Plataforma de Dados da Saúde do HDFF desde janeiro de 2014; Presidente da Mesa da Assembleia Regional do Centro, da Ordem dos Enfermeiros, no mandato de 2012-2015; Membro de Comissão Organizadora e Científica de diversas jornadas/congressos.
+
+111677003

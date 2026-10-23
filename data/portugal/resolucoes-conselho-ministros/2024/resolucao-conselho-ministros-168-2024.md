@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23000/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/168/2024/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcdba06b3fe54aa8379f79a6b556c8da77afaa3bef09c66a6e5fd8b40c16b564
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 158d71a955ee1d0d648748d42985aba041faddafdff2446b85b1973b7b2e67d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,17 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Obras Públicas
-- Universidade de Coimbra
 - Governo XXIV
 - Ministro da Educação Ciência e Inovação
+- Obras Públicas
+- Universidade de Coimbra
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:32/2021
+  label: Altera, a partir de 28 de novembro de 2024, os n.ºs 1, 2 e 5 da Resolução do Conselho de Ministros n.º 32/2021, de
+    24 de março, Diário da República n.º 58/2021, Série I
+  source: null
+  date: '2021-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -99,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57-h/2024/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57-h/2024/03/28/p/dre
+- type: cites
+  target: pt:dre:160076721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858093998:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:22Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +157,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 2 e 5 da [Resolução do Conselho de Ministros n.º 32/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2021-160076721), de 24 de março, alterada pela [Resolução do Conselho de Ministros n.º 57-H/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-h-2024-858093998), de 28 de março, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 2 e 5 da [Resolução do Conselho de Ministros n.º 32/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2021-160076721), de 24 de março, alterada pela [Resolução do Conselho de Ministros n.º 57-H/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-h-2024-858093998), de 28 de março, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Universidade de Coimbra a realizar a despesa decorrente da celebração do contrato de empreitada da obra pública de construção das instalações do MIA Portugal - Centro de Excelência em Investigação do Envelhecimento, até ao montante global máximo de € 25 103 468,23, ao qual acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.
 
@@ -148,3 +178,5 @@ e) 2025 - € 500 000,00.
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 14 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118393313

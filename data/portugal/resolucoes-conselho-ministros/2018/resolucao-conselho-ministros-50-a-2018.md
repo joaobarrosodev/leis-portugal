@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 84/2018, 1º Suplemento, Série I de 2018-05-02
   number: '84'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1784-(2) a 1784-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-a-2018-115211109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf1d997185872a3bd0c6d230c245968782703066733dc180bcb5ae5f7689bb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5111ae8187ea60fef39b02c39889dd9a8dfe20fa36acdfde397bd5dbdb91c668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Financiamento
-- Ordenamento do Território
+- Arrendamento Urbano para Habitação
 - Construção Civil
-- Urbanização
-- Propriedade Horizontal
-- Obras de Conservação e Restauro
-- Renovação Urbana
+- Financiamento
+- Fundo Nacional de Reabilitação do Edificado
 - Industrial da Construção Civil
 - Investimento
+- Obras de Conservação e Restauro
+- Ordenamento do Território
 - Política de Habitação
-- Urbanismo
+- Prédio Urbano
+- Propriedade Horizontal
 - Propriedade Imobiliária
 - Propriedade Privada
 - Reabilitação
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Fundo Nacional de Reabilitação do Edificado
+- Renovação Urbana
+- Urbanismo
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:140346285:por
@@ -96,16 +96,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:06Z'
   warnings: []
   errors: []
 ---
@@ -296,7 +300,7 @@ Apontam-se ainda como metas de médio prazo (8 anos), também no sentido de conv
 
 Figura 1 - Ambição em termos de modelo de política e dimensão do setor (3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 (1) Fogos destinados a famílias carenciadas ou em situação de sobrecarga de custos habitacionais de propriedade pública ou de outras entidades, sempre que disponibilizados no regime de arrendamento apoiado, no regime de renda condicionada, no regime de propriedade resolúvel ou ao abrigo do Programa de Arrendamento Acessível.
 
@@ -366,7 +370,7 @@ Este modelo revela-se cada vez mais desajustado face às carências habitacionai
 
 Figura 2 - Alargamento do âmbito da política de promoção do arrendamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 De uma política de habitação cujos principais instrumentos assentaram na construção de novos alojamentos e no apoio à compra de casa para uma política que privilegia a reabilitação e o arrendamento
 
@@ -376,7 +380,7 @@ Reflexo deste desequilíbrio em termos de política pública, fortemente reforç
 
 Figura 3 - Articulação entre os obstáculos ao arrendamento e à reabilitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 A reabilitação é hoje considerada consensualmente como um objetivo central das políticas urbanas e como um imperativo a que urge dar resposta. No entanto, convém clarificar que há neste âmbito dois domínios de atuação que, embora proximamente interligados, são de facto distintos e requerem enquadramentos e instrumentos de intervenção diferenciados: a reabilitação do edificado e a reabilitação urbana.
 
@@ -432,7 +436,7 @@ Para alcançar a missão da Nova Geração de Políticas de Habitação foram de
 
 Figura 4 - Articulação entre missão, princípios e objetivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 3.2 - Dar resposta às famílias que vivem em situação de grave carência habitacional
 
@@ -616,7 +620,7 @@ Para alcançar os níveis desejáveis de desenvolvimento do setor, urge alavanca
 
 Figura 5 - Relação entre o tipo de promotores de oferta habitacional, rendas e instrumentos de apoio financeiro mobilizáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 Instrumentos
 
@@ -678,8 +682,10 @@ Chave na Mão - Programa de mobilidade habitacional para a coesão territorial: 
 
 3.6 - Matriz dos instrumentos existentes e a criar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
 
 3.7 - Dotações orçamentais necessárias por instrumento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/08401/0000200018.pdf)
+
+111312105

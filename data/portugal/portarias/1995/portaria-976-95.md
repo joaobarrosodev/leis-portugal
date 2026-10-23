@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/976/1995/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/976-1995-477335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c6df394ee5d97d036bf76c47805e4ac47ba14cf975c4ba57c52e72cd076698b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf7d2425b28cb90172da83cae69ac8813da5693a4f52ba589058a166533311c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
 - Direcção Geral do Património do Estado
 - Equipamento de Escritório
-- Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:2272085:por
@@ -85,16 +85,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
+- type: cites
+  target: pt:dre:165037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2272085:por
+  label: "REVOGADO PELA PORT.633/98(2ªSÉRIE).1998.06.16.MF, DR.IIS [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/633-1998-2272085
+  date: '1998-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:44Z'
   warnings: []
   errors: []
 ---
@@ -135,17 +164,17 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Tesouro, ao abrigo do d
 
 Ministério das Finanças.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
-**O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.**
+O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.
 
 ## ANEXO I — Máquinas de escrever
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf))](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf)
 
 ## ANEXO II — Máquinas de calcular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf))](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/186b00/50385042.pdf)
 
 ## ANEXO III — Contrato tipo de assistência pós-venda
 

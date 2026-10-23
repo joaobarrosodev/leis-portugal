@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/731/1995/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-1995-464183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31f7ad9f8a606b663fd47741e547ef0dff4b39320bcba90f39f9dfbb744ad596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3913aa192d0800abce0484d313f49d455b62b3aacf15c04129d21d6f3c8890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:607756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651756:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa, pela PORT.675/2003.30.07.2003.MADRP,\
+    \ DR.IS-B [174] de 30.07.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/675-2003-651756
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:607756:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa atribuída pelo presente diploma,\
+    \ renovada pela Port 675/2003, de 30-Jul, pela PORT.443/2009.27.04.2009.MADRP, DR.IS [81] de 27.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/443-2009-607756
+  date: '2009-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:42Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Junho de 1995.**
+Assinada em 21 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/155b00/43164316.pdf))](https://files.diariodarepublica.pt/1s/1995/07/155b00/43164316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/155b00/43164316.pdf)

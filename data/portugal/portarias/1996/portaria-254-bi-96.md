@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1996, 1º Suplemento, Série I-B de 1996-07-15
   number: '162'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1970-(29) a 1970-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b01/00290030.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254-bi/1996/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-bi-1996-157437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95518ef44ca5bdcdd72c9e352a7d2f87ece42573ce21dd8818d939607ddd55f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 894516ed2e1115d5e2845a913b033fb9eb0af1fcb73df3f99c09d242a07e5958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,37 @@ relationships:
   target: pt:dre:483138:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673203:por
+  label: "Suspenso o exercício da caça pela PORT.545-D/2002.2002.05.29.MADRP DR.IS-B [124]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-d-2002-673203
+  date: '2002-05-29'
+- type: amended_by
+  target: pt:dre:197125:por
+  label: "Renovada por seis anos a concessão de zona de caça turística renovada pelo presente diploma, pela PORT.934/2002.2002.08.01.MADRP\
+    \ DR.IS-B [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-2002-197125
+  date: '2002-08-01'
+- type: amended_by
+  target: pt:dre:455970:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pela Port 615-U2/91 de 08-Jul,\
+    \ renovada pelo presente diploma, pela PORT.510/2008.24.06.2008.MADRP, DR.IS [120] de 24.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/510-2008-455970
+  date: '2008-06-24'
+- type: amended_by
+  target: pt:dre:453485:por
+  label: "Extinta, na parte respeitante aos prédios que, de passam a integrar a zona de caça turística da Herdade de São Miguel,\
+    \ a zona de caça associativa da Herdade das Pereiras e outras concessionada pela Port 615-U2/91, de 08-Jul, renovada pelo\
+    \ presente diploma, e concessionada, por um período de seis anos, a zona de caça turística da Herdade de São Miguel, pela\
+    \ PORT.970/2008.29.08.2008.MADRP, DR.IS [167] de 29.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-2008-453485
+  date: '2008-08-29'
+- type: amended_by
+  target: pt:dre:483138:por
+  label: "Anexado um prédio rústico à zona de caça associativa da Herdade das Pereiras e outras criada pela Port 615-U2/91,\
+    \ de 08-Jul, renovada pelo presente diploma, pela PORT.1352/2009.26.10.2009.MADRP, DR.IS [207] de 26.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1352-2009-483138
+  date: '2009-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-u2/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-u2/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:50Z'
   warnings: []
   errors: []
 ---
@@ -117,8 +160,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Junho de 1996.**
+Assinada em 14 de Junho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/162b01/00290030.pdf))](https://files.diariodarepublica.pt/1s/1996/07/162b01/00290030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/162b01/00290030.pdf)

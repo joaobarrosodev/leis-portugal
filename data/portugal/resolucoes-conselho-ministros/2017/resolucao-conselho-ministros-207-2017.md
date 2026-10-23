@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/207/2017/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/207-2017-114406174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a19673e9c909cd00cdaf3acf9d8a35109e93d8c3d266b65300568a1dce17083
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a48eba172a1bc1ae4d53c9ea9cc6aabf1ca3d008683d815d7cadc0768933b9c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
+- Despesas Públicas
 - Financiamento
 - Fundação para a Ciência e a Tecnologia
-- Despesas Públicas
 - Subvenção Pública
 relationships:
 - type: cites
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/57-a/2015/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/57-a/2015/02/27/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66619906:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:38Z'
   warnings: []
   errors: []
 ---
@@ -132,8 +148,10 @@ Presidência do Conselho de Ministros, 21 de dezembro de 2017. - O Primeiro-Mini
 
 ## ANEXO I — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24800/0670806711.pdf)
+
+111022377

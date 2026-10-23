@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/641/1996/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1996-177382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01814bbf24be8c2e35781c52647d932ad8d073b9c38b09e55d8206882e38af3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c74295c8e42b4fdc81978fc748c8a1f8774c6f5d51dc21a3933e7e261e3ee92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,46 @@ relationships:
   target: pt:dre:693178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693178:por
+  label: "Alterado o quadro de pessoal do Hospital de São Teotónio pela PORT.508/2003.2003.06.30.MF, DR.IS-B [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-2003-693178
+  date: '2003-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/963/1995/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/963/1995/08/08/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:516907:por
+  label: "Rectificada pela Decl-Rect.16-N/96.1996.11.29.PCM, DR.IS-B [278]2ºSupl de 1996.11.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-n-1996-516907
+  date: '1996-11-29'
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:48Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +137,7 @@ Unidades orgânicas de natureza técnica:
 
 Direcção de Serviços Farmacêuticos;
 
-##### Divisão de Instalações e Equipamentos.
+Divisão de Instalações e Equipamentos.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -119,37 +145,37 @@ Repartição de Pessoal, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Secretaria;
+Secção de Secretaria;
 
 Repartição de Admissão de Doentes, com:
 
 #### Secção de Doentes;
 
-#### Secção de Arquivo Clínico;
+Secção de Arquivo Clínico;
 
 Repartição de Contabilidade, com:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento, com:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 3.º Os conteúdos funcionais das carreiras de operador de meios áudio-visuais, de secretária dos serviços de saúde e de desenhador, do grupo de pessoal técnico-profissional, nível 4, e da carreira de secretária-recepcionista, do grupo de pessoal técnico-profissional, nível 3, são os constantes do anexo I à presente portaria.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 11 de Outubro de 1996.**
+Assinada em 11 de Outubro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital de São Teotónio - Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/259b00/39433949.pdf))](https://files.diariodarepublica.pt/1s/1996/11/259b00/39433949.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/259b00/39433949.pdf)
 
 ## ANEXO I — Grupo de pessoal técnico-profissional, nível 4
 

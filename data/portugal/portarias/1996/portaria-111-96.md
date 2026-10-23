@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/1996/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1996-555414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4b2c36b5cc77f8a78afb46a5766acc1423fa57b381d7c9011603f43471585b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e88172bd5515cf20ae6d9f61dcabb26279972338106c55a2f8a864678920fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Electrotécnica
 - CEE
 - Controlo de Qualidade
-- Segurança Pública
+- Indústria Electrotécnica
 - Normas de Segurança
 - Proteção do Consumidor
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:279778:por
@@ -89,16 +89,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1248/1993/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1248/1993/12/07/p/dre
+- type: repealed_by
+  target: pt:dre:279778:por
+  label: "Revogada, a partir de 16.03.2011, a Port 1248/93, de 07-Dez, na radacção dada pelo presente diploma, pelo DEC LEI.25/2011.14.02.2011.MEID,\
+    \ DR.IS [31] de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2011-279778
+  date: '2011-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:32Z'
   warnings: []
   errors: []
 ---
@@ -187,17 +193,17 @@ A documentação relativa à concepção deve estar à disposição do organismo
 
 6.5 - O fabricante ou o seu mandatário deve estar em condições de apresentar, a pedido, os atestados de conformidade do organismo notificado.
 
-## ANEXO III
+ANEXO III
 
 1 - A marcação CE é constituída pelas iniciais 'CE', de acordo com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf))](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf)
 
 A marcação CE é seguida do número de identificação do organismo notificado que intervém na fase de controlo da produção.
 
 2 - O aparelho ou a sua chapa sinalética devem ostentar a marcação CE, juntamente com as seguintes inscrições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf))](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07850787.pdf)
 
 Nome ou número de identificação do fabricante;
 
@@ -217,6 +223,6 @@ Os diferentes elementos da marcação CE devem ter sensivelmente a mesma dimens�
 
 Ministérios da Economia e do Ambiente.
 
-**Assinada em 29 de Fevereiro de 1996.**
+Assinada em 29 de Fevereiro de 1996.
 
-**O Ministro da Economia, Daniel Bessa Fernandes Coelho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Daniel Bessa Fernandes Coelho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

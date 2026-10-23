@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 162/2015, 1º Suplemento, Série I de 2015-08-20
   number: '162'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6222-(2) a 6222-(1049)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/61-a/2015/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-a-2015-70064710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ede53afe1c7cc42d015e03135db31ca60e4cd0e6cef739eae6e904a65d84874
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc8ac4b0adeee5c06e99ea6cba3e1a166c16a34c9a420e3621688e7917cbd71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Rodoviário
-- Transporte Ferroviário
-- Delegação de Competências
-- Plano Estratégico Nacional
-- Projeto de Investimento
-- Grupo de Trabalho
 - Avaliação de Impacte Ambiental
+- Delegação de Competências
+- Grupo de Trabalho
 - Infraestrutura dos Transportes
 - Investimento
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
+- Plano Estratégico Nacional
 - Política de Transportes
+- Projeto de Investimento
+- Transporte Ferroviário
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -126,16 +126,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91/2013/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91/2013/12/23/p/dre
+- type: cites
+  target: pt:dre:260429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:34Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +274,7 @@ O Plano Estratégico dos Transportes - Mobilidade Sustentável (PET) estabeleceu
 
 Desta forma, importa realizar um balanço das medidas já executadas desde a aprovação daquele plano, as quais são apresentadas, de forma resumida, no quadro seguinte, seguindo a organização estabelecida no PET:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 1 - Balanço das medidas implementadas
 
@@ -294,25 +298,25 @@ Pretende-se com este sumário realizar uma análise crítica mas construtiva do 
 
 4.1 - PONTOS FORTES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 2 - Análise SWOT: Pontos fortes
 
 4.2 - PONTOS FRACOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 3 - Análise SWOT: Pontos fracos
 
 4.3 - OPORTUNIDADES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 4 - Análise SWOT: Oportunidades
 
 4.4 - AMEAÇAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 5 - Análise SWOT: Ameaças
 
@@ -374,7 +378,7 @@ São assim definidos três corredores principais:
 
 O PNPOT define ainda as principais infraestruturas marítimo-portuárias e aeroportuárias de conectividade internacional de Portugal no quadro ibérico, europeu, atlântico e global.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 6 - Grandes corredores de acessibilidade e conectividade em Portugal Continental previstos no PNPOT
 
@@ -386,13 +390,13 @@ A rede principal da RTE-T encontra-se dividida em nove corredores que constituem
 
 O objetivo de longo prazo com a total implementação da RTE-T é assumir-se como um dos pilares do mercado único europeu e da integração europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 7 - Corredores da RTE-T core (fonte: www.ec.Europa.eu)
 
 Portugal encontra-se inserido no Corredor do Atlântico da RTE-T, que liga os portos de Sines, Lisboa e Porto a Espanha, França e Alemanha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 8 - Corredor Atlântico da RTE-T (fonte: www.ec.Europa.eu)
 
@@ -496,7 +500,7 @@ Afigura-se agora oportuno iniciar uma transição responsável para um novo cicl
 
 Neste contexto, determinam-se os Objetivos Estratégicos para o período 2014-2020 a seguir indicados, caracterizados precisamente por um equilíbrio entre um esforço de promoção do crescimento, um esforço reformista e de promoção da sustentabilidade do sistema de transportes e um esforço de coesão social e territorial:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 9 - Objetivos estratégicos do PETI3+ para o horizonte 2014-2020
 
@@ -518,7 +522,7 @@ O GTIEVA procedeu ao levantamento dos principais constrangimentos deste sector e
 
 Através da criação do GTIEVA o Governo pretendeu provocar um amplo debate público sobre o modelo de investimento e desenvolvimento das nossas infraestruturas, partindo de um documento de base que recolhesse as propostas e contributos de todos os atores económicos e sociais relevantes. Para o efeito, o GTIEVA foi constituído pelos seguintes elementos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 10 - Constituição do GTIEVA
 
@@ -598,7 +602,7 @@ Em cada um dos sectores é realizado um diagnóstico crítico e isento que inclu
 
 Da sistematização desta fase de diagnóstico e constrangimentos, derivam os seguintes resultados, por sector:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 11 - Resultados da fase de diagnóstico e constrangimentos (Fonte: GTIEVA)
 
@@ -606,7 +610,7 @@ A fase de diagnóstico resultou na identificação e descrição dos principais 
 
 Os principais constrangimentos identificados foram classificadas na escalda seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 12 - Escala de avaliação dos constrangimentos
 
@@ -616,7 +620,7 @@ Apresenta-se de seguida um resumo dos principais constrangimentos identificados 
 
 7.3.1 - Sector ferroviário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 13 - Principais constrangimentos do sector ferroviário
 
@@ -624,7 +628,7 @@ Ilustração 13 - Principais constrangimentos do sector ferroviário
 
 7.3.2 - Sector marítimo-portuário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 14 - Principais constrangimentos do sector marítimo-portuário
 
@@ -632,7 +636,7 @@ Ilustração 14 - Principais constrangimentos do sector marítimo-portuário
 
 7.3.3 - Sector rodoviário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 15 - Principais constrangimentos do sector rodoviário
 
@@ -640,7 +644,7 @@ Ilustração 15 - Principais constrangimentos do sector rodoviário
 
 7.3.4 - Sector aéreo e aeroportuário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 16 - Principais constrangimentos do sector aéreo e aeroportuário (Fonte: GTIEVA)
 
@@ -856,7 +860,7 @@ Por outro lado, os sistemas públicos de transporte de passageiros têm também 
 
 Tendo por base os Objetivos Estratégicos estabelecidos no capítulo 6, as recomendações do GTIEVA, as recomendações do processo de consulta pública e a análise SWOT do sector dos transportes, é estabelecido um conjunto de prioridades de intervenção para os projetos de investimento a concretizar no horizonte 2014-2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 17 - Prioridades de intervenção para os projetos de investimento a concretizar no horizonte 2020
 
@@ -880,7 +884,7 @@ Nestes termos, ponderando as recomendações do GTIEVA, todos os contributos rec
 
 . Transportes público de passageiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 18 - Corredores de desenvolvimento
 
@@ -900,11 +904,11 @@ Consolidação de um corredor vertical atlântico integrado multimodal que reún
 
 . Desenvolvimento dos aeroportos do Porto e Lisboa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 19 - Corredor da fachada atlântica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 20 - Projetos prioritários no corredor da fachada atlântica
 
@@ -916,11 +920,11 @@ O corredor internacional norte liga o arco metropolitano do Porto e o sistema me
 
 . Fecho da malha rodoviária integrante da RTE-T constituída pelo eixo do IP3 (Coimbra - Viseu), IP4 - Túnel do Marão e IP5 (Vilar Formoso - Fronteiro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 21 - Corredor internacional norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 22 - Projetos prioritários no corredor internacional norte
 
@@ -932,11 +936,11 @@ O corredor internacional sul liga o arco metropolitano de Lisboa, incluindo os p
 
 . Reabilitação do IC33 entre Relvas Verdes e Grândola.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 23 - Corredor internacional sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 24 - Projetos prioritários no corredor internacional sul
 
@@ -950,11 +954,11 @@ Relevância de um novo corredor horizontal no Algarve, estratégico para o secto
 
 . Desenvolvimento dos portos de Portimão e Faro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 25 - Corredor do Algarve
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 26 - Projetos prioritários no corredor do Algarve
 
@@ -974,11 +978,11 @@ Desenvolvimento de toda a região interior do país através da potenciação do
 
 . Projetos estruturais para o desenvolvimento do interior do país.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 27 - Corredor do interior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 28 - Projetos prioritários no corredor do interior (3)
 
@@ -994,11 +998,11 @@ Desenvolvimento dos sistemas de transporte público de passageiros, reduzindo a 
 
 . Desenvolvimento de outros serviços públicos de transporte de passageiros a nível nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 29 - Cobertura atual de serviços públicos de transporte de passageiros a nível nacional (fonte: IMT/SIGESCC 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 30 - Projetos prioritários nos transportes públicos de passageiros
 
@@ -1006,7 +1010,7 @@ Ilustração 30 - Projetos prioritários nos transportes públicos de passageiro
 
 Este conjunto de investimentos prioritários em infraestruturas de transportes corresponde a um montante global de investimento de 6.067 milhões de euros a realizar no horizonte 2014-2020, de grande valor acrescentado para as exportações nacionais, fomentando a criação de riqueza, de emprego e o relançamento da economia nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 31 - Mapa resumo dos projetos de investimento prioritários 2014-2020 e corredores principais do PNPOT e RTE-T
 
@@ -1020,11 +1024,11 @@ Projetos de investimento prioritários 2014-2015
 
 Repartição de investimento por corredores prioritários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 32 - Distribuição de investimento por corredor prioritário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 33 - Distribuição de investimento por corredor prioritário
 
@@ -1032,11 +1036,11 @@ Ilustração 33 - Distribuição de investimento por corredor prioritário
 
 A distribuição por sector mostra que a maior fatia do investimento vai para o sector ferroviário, com 2.639 milhões de euros (43% do total e 75% do esforço direto do Orçamento do Estado), seguindo-se o sector marítimo-portuário com 25% do total.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 34 - Distribuição de investimento por sector
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 35 - Distribuição de investimento por sector
 
@@ -1046,11 +1050,11 @@ O conjunto de projetos de investimento prioritários constitui um significativo 
 
 Com efeito, cerca de 83% do investimento previsto é relativo a infraestruturas pertencentes à RTE-T e 61% insere-se na RTE-T principal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 36 - Distribuição por tipo de rede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 37 - Distribuição por tipo de rede
 
@@ -1074,7 +1078,7 @@ Importa referir a mobilização de fundos provenientes do programa Connecting Eu
 
 . Via Navegável do Douro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 38 - Distribuição de fontes de financiamento
 
@@ -1092,7 +1096,7 @@ Os projetos prioritários no sector ferroviário ascendem a 2.639 milhões de eu
 
 Destacam-se os projetos inseridos na RTE-T principal relativos ao corredor Aveiro/Leixões - Vilar Formoso, corredor Sines/Setúbal/Lisboa - Caia, e conclusão do programa de modernização da linha do Norte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 39 - Projetos prioritários no sector ferroviário
 
@@ -1102,7 +1106,7 @@ Salienta-se que, sem prejuízo do descritivo adotado neste documento, que o fina
 
 No anexo VI ao presente documento são apresentados os mapas da rede ferroviária nacional em 2013 e em 2020/22.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 40 - Características da rede ferroviária nacional em 2013 vs 2020/22
 
@@ -1164,7 +1168,7 @@ Deverá ser criado um grupo de trabalho conjunto entre o regulador, o gestor da 
 
 Os projetos prioritários no sector marítimo-portuário ascendem a 1.534 milhões de euros de investimento, dos quais se estima que 62% possam ser financiados através de fundos privados e 25% através de fundos comunitários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 41 - Projetos prioritários no sector marítimo-portuário
 
@@ -1284,7 +1288,7 @@ Os projetos prioritários no sector rodoviário ascendem a 898 milhões de euros
 
 Destacam-se os projetos inseridos na RTE-T relativos ao Túnel do Marão, corredor do IP3 Coimbra-Viseu, IP5 Vilar Formoso - Fronteira, reabilitação do IC33 entre Relvas Verdes e Grândola e IP8 entre Santa Margarida do Sado e Beja.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 42 - Projetos prioritários no sector rodoviário
 
@@ -1366,7 +1370,7 @@ Está em curso a revisão do estatuto das estradas nacionais, o qual visa delimi
 
 Os projetos prioritários no sector aéreo e aeroportuário ascendem a 241 milhões de euros de investimento, integralmente financiados através de fundos privados, destacando-se os projetos inseridos no Plano Estratégico da ANA relativos aos aeroportos de Porto, Lisboa e Faro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 43 - Projetos prioritários no sector aéreo e aeroportuário
 
@@ -1426,7 +1430,7 @@ Os transportes públicos de passageiros apresentam baixas emissões de carbono, 
 
 Nesse sentido, o desenvolvimento dos novos projetos relativos aos transportes públicos de passageiros encontra-se fortemente dependente da disponibilidade de financiamento comunitário para a sua execução, através do Programa Operacional da Sustentabilidade e Eficiência no Uso de Recursos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 44 - Projetos prioritários 2014-2020 nos transportes públicos de passageiros
 
@@ -1490,7 +1494,7 @@ O novo regime jurídico estabelece o princípio da equidade de oportunidades dos
 
 Para o efeito serão estabelecidos níveis mínimos de serviço público de transporte de passageiros a serem assegurados em todo o território nacional, o que constitui um importante passo para a coesão social e territorial, em especial quanto às zonas de baixa densidade populacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 45 - Cobertura atual de serviços públicos de transporte de passageiros a nível nacional (fonte: IMT/SIGESCC 2012)
 
@@ -1546,7 +1550,7 @@ Trata-se de um novo serviço, organizado em articulação entre o Estado, as Aut
 
 . Para os operadores de transporte, uma vez que os serviços flexíveis poderão atrair mais passageiros para o sistema de transportes, numa lógica de complementaridade e não de competição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 46 - Experiência piloto de transportes públicos flexíveis na CIM Médio Tejo
 
@@ -1604,7 +1608,7 @@ Com esta reforma, o IMT e a AMT passam a prosseguir as seguintes missões:
 
 Para acompanhamento do grau de sucesso da implementação das reformas e investimentos previstos no presente documento é estabelecido um conjunto metas de resultados, ambicioso mas realista, para o horizonte 2014-2020, tomando como referência os dados relativos ao ano de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 17 - AVALIAÇÃO E MITIGAÇÃO DE RISCOS
 
@@ -1704,7 +1708,7 @@ Em paralelo, deverá ser promovida a monitorização dos impactes ambientais da 
 
 Sem prejuízo da identificação dos projetos prioritários estabelecidos neste documento, determinam-se um conjunto de princípios que deverão ser assegurados pelas respetivas entidades promotoras públicas como condição prévia à implementação de cada um dos projetos a concretizar no horizonte 2014-2020:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 Ilustração 47 - Princípios a assegurar nos projetos de investimento
 
@@ -1720,28 +1724,28 @@ Ilustração 47 - Princípios a assegurar nos projetos de investimento
 
 18 - ANEXO I - RELATÓRIO DO GTIEVA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 19 - ANEXO II - PROCESSO DE CONSULTA PÚBLICA DO GTIEVA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 20 - ANEXO III - PLANO ESTRATÉGICO DA ANA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 21 ANEXO IV - MAPA GLOBAL DOS PROJETOS PRIORITÁRIOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 22 ANEXO V - FICHAS DOS PROJETOS DE INVESTIMENTO PRIORITÁRIOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 23 ANEXO VI - MAPAS DA REDE FERROVIÁRIA NACIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
 
 24 ANEXO VII - MAPA DA REDE RODOVIÁRIA NACIONAL EM 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16201/0000201049.pdf)

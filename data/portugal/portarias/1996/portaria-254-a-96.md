@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1996, 1º Suplemento, Série I-B de 1996-07-13
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1954-(2) a 1954-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/161b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254-a/1996/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-a-1996-677031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 009c4b6fb61acd2116152c5cfa546987dc692a65eae1bc567149f020f460fb26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a43f9f8f0f380817ee080c2ad06e1ff1ac75d26cae6b7831dc95de86575f7ae9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Oficial
+- Ensino Superior
 - Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:305588:por
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/241/1996/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/241/1996/07/04/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:09Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +119,7 @@ Alteração
 
 O item 1 do anexo I ao Regulamento do Concurso Nacional de Acesso ao Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 1996-1997, aprovado pela [Portaria n.º 241/96](https://diariodarepublica.pt/dr/detalhe/portaria/241-1996-424144), de 4 de Julho, passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/161b01/00020002.pdf))](https://files.diariodarepublica.pt/1s/1996/07/161b01/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/161b01/00020002.pdf)
 
 2.º
 
@@ -121,6 +129,6 @@ Esta portaria entra imediatamente em vigor.
 
 Ministério da Educação.
 
-**Assinada em 10 de Julho de 1996.**
+Assinada em 10 de Julho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

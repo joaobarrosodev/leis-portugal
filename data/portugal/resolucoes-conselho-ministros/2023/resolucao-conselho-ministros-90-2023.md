@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15300/0003200035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/90/2023/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2023-216771970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 658f6d4e1dca78848624370e96b1f538ac5c522106b5a9d9db02411e028f04dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be972fd8dfccc7cd25fb5b38ec64c9e586be299424a13b129f9272c49f234b37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Administração Central
 - Autorização de Despesas
-- Financiamento
 - Conselho de Ministros
-- Portugal
 - Despesas Públicas
+- Financiamento
 - Fundos CE
 - Gestão Orçamental
-- Regulamento CE
-- Plano de Recuperação e Resiliência
 - Governo XXIII
+- Plano de Recuperação e Resiliência
+- Portugal
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32021R0241
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:23Z'
   warnings: []
   errors: []
 ---
@@ -156,10 +172,10 @@ Presidência do Conselho de Ministros, 27 de julho de 2023. - Pelo Primeiro-Mini
 
 ## ANEXO — (a que se referem os n.os 1, 2, 3, 6 e 8)
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
+| Componente | Subinvestimento | Beneficiário | Área governativa | Investimento (descrição) | Repartição anual (euros) | Total | Total anterior |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Componente | Subinvestimento | Beneficiário | Área governativa | Investimento (descrição) | Repartição anual (euros) | Repartição anual (euros) | Repartição anual (euros) | Repartição anual (euros) | Repartição anual (euros) | Total | Total anterior |
-| Componente | Subinvestimento | Beneficiário | Área governativa | Investimento (descrição) | Até 2022 | 2023 | 2024 | 2025 | 2026 | Total | Total anterior |
+| Até 2022 | 2023 | 2024 | 2025 | 2026 |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | C01 | C01-i01 | Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.) | Ministério da Saúde (MS)... | Cuidados de Saúde primários com mais respostas. | 121 060 000 | 158 380 000 | 143 940 000 | 100 080 000 | 54 940 000 | 578 400 000 | 466 404 083 |
 | C01 | C01-i02 | ACSS, I. P.... | MS... | Rede nacional de cuidados continuados integrados e rede nacional de cuidados paliativos. | 115 000 000 | 85 655 774 | 56 924 160 | 18 220 066 | 0 | 275 800 000 | 205 000 000 |
 | C02 | C02-i01 | Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.) | Ministério da Habitação (MH)... | Programa de apoio ao acesso à habitação | 51 159 326 | 287 600 000 | 315 000 000 | 446 074 106 | 307 006 568 | 1 406 840 000 | 1 210 340 000 |
@@ -184,3 +200,5 @@ Presidência do Conselho de Ministros, 27 de julho de 2023. - Pelo Primeiro-Mini
 | C16 | C16-i02 | IAPMEI - Agência para a Competitividade e Inovação, I. P. | MEM... | Bairros Comerciais Digitais... | 7 730 000 | 13 100 000 | 19 480 000 | 16 190 000 | 0 | 56 500 000 | 55 000 000 |
 | C19 | C19-i01.01 | Agência para a Modernização Administrativa, I. P. | Secretário de Estado da Digitalização e da Modernização Administrativa. | Reformulação do atendimento dos serviços público e consulares. | 61 510 000 | 33 060 000 | 24 750 000 | 20 540 000 | 4 480 000 | 144 340 000 | 136 800 000 |
 | C20 | C20-i01 | Secretaria-Geral da Educação e Ciência. | Ministério da Educação... | Transição digital na educação... | 80 580 000 | 90 420 000 | 181 000 000 | 170 000 000 | 18 000 000 | 540 000 000 | 500 000 000 |
+
+116745733

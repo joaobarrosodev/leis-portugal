@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/606/1996/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-1996-226427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f243cc7cca40d257ae8f93e614c2d0d94c40c6e31657d972d2a59125e176affe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4e8bb03579e27adc743434c2f71ffb1869031ad286e09ad0e1702210e49e065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Arborização
+- Ajuda Comunitária
 - Apoio ao Investimento
-- Projeto de Investimento
+- Arborização
 - Exploração Florestal
-- Programa
-- Regulamento
 - Ifadap
+- Programa
+- Projeto de Investimento
+- Regulamento
 - Regulamento do Programa de Desenvolvimento Florestal
 relationships:
 - type: amended_by
   target: pt:dre:197727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209846:por
+  label: "Alterado o nº 2 do art. 15º e o nº 1 do art. 17º do Regulamento aprovado pela Port 809-D/94 de 12-Set, na redacção\
+    \ do presente diploma, pela PORT.83/98.1998.02.19.MADRP, DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-1998-209846
+  date: '1998-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
   label: null
@@ -100,16 +106,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:516902:por
+  label: "Rectificada pela Decl-Rect.16-H/96.1996.11.26.PCM DR.IS-B [278]2Supl de 30/Nov/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-h-1996-516902
+  date: '1996-11-26'
+- type: repealed_by
+  target: pt:dre:197727:por
+  label: "Revogada pela PORT.199/98.1998.03.25.MADRP, DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1998-197727
+  date: '1998-03-25'
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:50Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +186,7 @@ e) Reprodução de plantas por via seminal e vegetativa e selecção e preparaç
 
 4 - Não são concedidas ajudas à beneficiação de povoamentos puros de espécies de crescimento rápido ou de povoamentos em que estas espécies sejam dominantes.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Podem ainda ser concedidas ajudas à elaboração de estudos de âmbito local na área do ordenamento e planeamento florestal que visem uma aplicação integrada do PDF.
 
@@ -154,7 +194,7 @@ e) Reprodução de plantas por via seminal e vegetativa e selecção e preparaç
 
 3 - A aplicação do presente Regulamento será condicionada, na área geográfica a que respeitam, aos estudos aprovados pela DGF, ouvida a direcção regional de agricultura respectiva, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Podem beneficiar das ajudas previstas nas alíneas a) a e) do n.º 1 do artigo 4.º e nos artigos 5.º e 6.º deste Regulamento as pessoas singulares ou colectivas de direito público ou privado, os órgãos gestores dos terrenos baldios e os organismos públicos.
 
@@ -170,7 +210,7 @@ d) Direcções regionais de agricultura;
 
 e) Autarquias locais, desde que em associação com um dos beneficiários referidos nas alíneas anteriores.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Para efeitos do presente diploma, consideram-se associações de proprietários e produtores florestais as associações e cooperativas constituídas sob a forma legal, de duração nunca inferior ao prazo de vigência do contrato a celebrar com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), cujo fim social vise, principal ou acessoriamente, a prossecução dos interesses dos seus associados ou cooperantes mediante a gestão conjunta das áreas florestais de que sejam legítimos titulares.
 
@@ -180,7 +220,7 @@ e) Autarquias locais, desde que em associação com um dos beneficiários referi
 
 4 - Para efeitos do artigo 6.º, podem ser concedidas ajudas aos agrupamentos de beneficiários constituídos ao abrigo da redacção original do artigo 9.º do Regulamento anexo à [Portaria n.º 809-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288), de 12 de Setembro.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Os projectos de investimento referentes às acções constantes das alíneas a), b) e c) do n.º 1 do artigo 4.º devem incidir sobre uma área mínima contígua definida regionalmente nos termos do anexo I a este Regulamento.
 
@@ -198,19 +238,19 @@ b) Nenhum dos associados ou cooperantes referidos na alínea anterior pode ser t
 
 6 - O disposto nos números anteriores não se aplica às áreas submetidas a regime florestal obrigatório, total ou parcial.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Os projectos de investimento devem ser elaborados e acompanhados na sua execução por técnicos, cujos requisitos são objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 2 - As despesas com a elaboração e acompanhamento dos projectos são consideradas para efeitos de atribuição das ajudas, de acordo com os níveis de ajuda e montantes máximos elegíveis constantes do anexo III.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se junto dos serviços centrais e regionais do IFADAP, através do preenchimento de um formulário a distribuir por esses serviços.
 
 2 - O formulário deve ser acompanhado de todos os documentos indicados nas respectivas normas de preenchimento.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - As candidaturas podem ser entregues ao IFADAP durante todo o ano.
 
@@ -218,7 +258,7 @@ b) Nenhum dos associados ou cooperantes referidos na alínea anterior pode ser t
 
 3 - As candidaturas não aprovadas por falta de dotação orçamental transitarão para as épocas de decisão seguintes, até ao máximo de duas épocas e sem alteração do orçamento apresentado inicialmente.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - A deliberação sobre as candidaturas técnica e financeiramente viáveis obedece aos seguintes critérios de prioridade:
 
@@ -254,7 +294,7 @@ f) Ajuda referida na alínea e) do n.º 1 do artigo 4.º - projectos que envolva
 
 2 - As candidaturas do ponto iii) da alínea a) do número anterior passam para primeira prioridade quando integradas em áreas abrangidas por planos municipais de intervenção na floresta em vigor ou por planos especiais de recuperação de áreas ardidas.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados entre o IFADAP e os beneficiários no prazo máximo de um mês após a decisão de aprovação.
 
@@ -266,20 +306,20 @@ f) Ajuda referida na alínea e) do n.º 1 do artigo 4.º - projectos que envolva
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 4 de Setembro de 1986.**
+Assinada em 4 de Setembro de 1986.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
-## ANEXO I A QUE SE REFERE O N.º 2.º
+ANEXO I A QUE SE REFERE O N.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf))](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)
 
-## ANEXO II A QUE SE REFERE O N.º 2.º
+ANEXO II A QUE SE REFERE O N.º 2.º
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf))](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf))](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/248b00/37703773.pdf)

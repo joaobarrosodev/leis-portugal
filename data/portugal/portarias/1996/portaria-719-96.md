@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/719/1996/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/719-1996-187770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d4db36d75f90aaf794b348221e8470387ecf84e18118cf2ea8172f8a0c5726
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8462b5dbeda2f2524c6173bef9f229adf518674e2aa41335f9dd0c975dc4d4b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,35 @@ relationships:
   target: pt:dre:386218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386218:por
+  label: "Substituídos os anexos II e III da Port 12/90, de 09-Jan, na redacção da presente Port, pelos anexos I e II da PORT.122/2001.2001.02.23.MADRP,\
+    \ DR.IS-B [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2001-386218
+  date: '2001-02-23'
+- type: cites
+  target: pt:dre:313790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612857:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:235336:por
+  label: "Rectificada pela Decl-Rect 4-N/97.1997.01.31.PCM, DR.IS-B [26]3ºSupl2\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-n-1997-235336
+  date: '1997-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:01Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +121,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 25 de Novembro de 1996.**
+Assinada em 25 de Novembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Moura Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
 
@@ -110,7 +129,7 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Mari
 
 2 - Categorias profissionais e respectivo enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/285b00/44154416.pdf))](https://files.diariodarepublica.pt/1s/1996/12/285b00/44154416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/285b00/44154416.pdf)
 
 ## ANEXO II — Caracterização das carreiras profissionais (conteúdo funcional)
 

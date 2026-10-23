@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/126/2023/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-2023-222877162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ccd22d0e1828fff39feccf9071df4c1ae380b77bb612a1b5f35027ad4298f37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d12b8fe461c200a46604a6b7413d5ab506f947e244373ea68fcce3bf2628f4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Luta contra a Pobreza
-- Pobreza
+- Ação Social
 - Comissão Interministerial
 - Comissão Técnica de Acompanhamento
 - Conselho de Ministros
 - Coordenador Nacional
-- Ação Social
-- Publicitação
-- Página na Internet
-- Política Social
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
 - Estratégia Nacional de Combate à Pobreza 2021-2030
 - Governo XXIII
+- Luta contra a Pobreza
+- Página na Internet
 - Plano de Ação da Estratégia Nacional de Combate à Pobreza 2022-2025
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
+- Pobreza
+- Política Social
+- Publicitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
@@ -121,16 +121,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2023/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2023/01/17/p/dre
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186721643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203227729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204841038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206198898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:03Z'
   warnings: []
   errors: []
 ---
@@ -401,7 +449,7 @@ O sentimento de partilha em torno deste plano e dos seus objetivos estratégicos
 
 A totalidade das atividades inscritas no Plano de Ação 2022-2025 da Estratégia Nacional de Combate à Pobreza está apresentada na tabela abaixo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf))](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf)
 
 B.5 - Sistema de monitorização e avaliação
 
@@ -413,7 +461,7 @@ Um aspeto distintivo do plano de monitorização e avaliação que importa real�
 
 Painel de Indicadores para monitorização do impacto da ENCP:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf))](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20100/0004200125.pdf)
 
 B.6 - Modelo de Governança
 
@@ -444,3 +492,5 @@ Tal como as medidas, também os indicadores de acompanhamento e monitorização 
 A ENCP resulta numa concentração de esforços dos atores do Estado, sejam da administração direta, indireta ou local, bem como reconhece e incentiva as importantes contribuições de organizações de direitos humanos e da sociedade civil, incluindo organizações não governamentais, instituições académicas, empresas e sindicatos, para o respeito, a proteção, a garantia e a promoção dos direitos económicos, sociais e culturais.
 
 O êxito na realização da missão assinalada à ENCP estará diretamente relacionado com a capacidade que esta possa revelar na articulação da ação das políticas setoriais e locais, bem como na capacidade para congregar vontades e mobilizar para a ação os agentes públicos, privados e cívicos na temática do combate à pobreza.
+
+116954649

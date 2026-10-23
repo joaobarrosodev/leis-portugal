@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0006700067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79/2023/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2023-215647924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a52303c9daf31abf0115da54cf1a1819670930915c5d1e516fdb898d6b68d6bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10170c8a9faf8c5ce3908cfa5895e2c216876263fa5eea9c5b90743c71fe42ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - África
 - Austrália
-- Tecnologia da Informação
-- Fundação para a Ciência e a Tecnologia
-- Portugal
+- Cooperação Internacional
 - Delegação de Competências
 - Despesas Públicas
+- Fundação para a Ciência e a Tecnologia
 - Gestão Orçamental
-- TIC
 - Ministro da Ciência e do Ensino Superior
 - Ministro da Ciência Tecnologia e Ensino Superior
 - Observatório Astronómico
-- Cooperação Internacional
-- Prestação de Serviços
 - Observatório Square Kilometre Array
+- Portugal
+- Prestação de Serviços
+- Tecnologia da Informação
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/1/2021/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/1/2021/01/15/p/dre
+- type: cites
+  target: pt:dre:154193677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154193678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:03Z'
   warnings: []
   errors: []
 ---
@@ -152,3 +176,5 @@ c) Em 2023: (euro) 4 981 242.
 4 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 6 de julho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116665632

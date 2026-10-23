@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/182/2017/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-2017-114288877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fccf037ceb26ff023b58fbfc61fbc616eed71423d35e8f3b89147b2e9ef233b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12660b8ddc99b98c5096bbc8310e2f5fb74cc95f406a7c60b4d560dbd77df676
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Definição de Competências
+- Fardamento
 - Heráldica
+- Horário de Trabalho
 - Orgânica
 - Polícia Municipal
 - Quadro de Pessoal
-- Câmara Municipal
-- Horário de Trabalho
 - Regulamento
 - Santo Tirso
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/19/2002/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2002/01/30/p/dre
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 76
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:07Z'
   warnings: []
   errors: []
 ---
@@ -727,20 +751,22 @@ O presente regulamento entra em vigor no prazo de cinco dias a contar da data da
 
 ## ANEXO I — Organigrama Organizativo da Polícia Municipal de Santo Tirso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf))](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
 
 ## ANEXO II — Identificação Heráldica e Gráfica da Polícia Municipal de Santo Tirso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf))](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
 
 Crachá de peito: Assume um formato oval com cerca de 5,5 cm de largura e 7,5 cm de altura, onde a fundo preto com raiado cinzento se enquadra o brasão da cidade de Santo Tirso (Escudo de azul, com um leão de ouro sustendo nas mãos um báculo do mesmo metal. Em contra-chefe um rio ondado de prata aguado de azul. Coroa mural de prata de cinco torres. Listel branco com os dizeres a negro: «SANTO TIRSO»), possuindo no topo a inscrição Polícia Municipal a preto sob fundo branco.
 
 Crachá de boné: As mesmas indicações que o crachá de peito com as devidas adaptações de tamanho de acordo com a peça de uniforme.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf))](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/23100/0647206481.pdf)
 
 Emblema de braço: Assume um formato de um trapézio com as bordas arredondadas com o brasão da cidade de Santo Tirso ao centro e no topo a inscrição Polícia Municipal a branco sob fundo preto.
 
 Placa com a identificação: Assume uma forma retangular com cerca de 6 cm de largura e 1,5 cm de altura, de fundo cinzento e letras pretas, com a inscrição Ag. seguida do primeiro e último nome de cada elemento.
 
 O crachá e cartão de identificação, as divisas e o modelo de caracterização das viaturas encontram-se definidos na [Portaria n.º 304-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2015-70361627), devendo a estes ser acrescentado o brasão da cidade de Santo Tirso, conforme descrito em cima.
+
+110944359

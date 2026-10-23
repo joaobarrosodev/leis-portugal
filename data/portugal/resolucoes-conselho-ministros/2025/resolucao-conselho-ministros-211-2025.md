@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/211/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/211-2025-992627258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6328c2091c16112d484dfda463559d01b7c8914adb011d229520b6404ab1e9b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25453ed59335d60bc34c3434c97540177531483edd860fcbd3cd0ce1c7eacf0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Estrutura de Missão para a Extensão da Plataforma Continental
-- Instituto Português do Mar e da Atmosfera
 - Direção Geral de Política do Mar
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Estrutura de Missão para a Extensão da Plataforma Continental
 - Gabinete de Planeamento Políticas e Administração Geral
+- Instituto Português do Mar e da Atmosfera
 - Prazo
 - Prorrogação de Prazo
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:84-A/2016
+  label: Altera, a partir de 25 de dezembro de 2025, os n.ºs 6, 7, 14 e 16 e revoga o n.º 17 da Resolução do Conselho de Ministros
+    n.º 84-A/2016, de 28 de dezembro, Diário da República n.º 248/2016, 1º Suplemento, Série I, que republica em anexo
+  source: null
+  date: '2016-12-28'
 - type: cites
   target: eli:htt
   label: null
@@ -114,16 +120,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/2005/01/17/p/dre
+- type: cites
+  target: pt:dre:105639086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127095318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204953814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:15Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +186,7 @@ validation:
 
 A Estrutura de Missão para a Extensão da Plataforma Continental (EMEPC) foi criada pela [Resolução do Conselho de Ministros n.º 9/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2005-626231), de 17 de janeiro, ao abrigo do n.º 1 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, com a missão de preparar a submissão portuguesa para a extensão da plataforma continental, para além das 200 milhas náuticas (M), junto da Comissão de Limites da Plataforma Continental das Nações Unidas (CLPC).
 
-Embora o primeiro mandato da EMEPC tenha tido uma duração de pouco mais de um ano, até 30 de abril de 2006, o mesmo foi sendo prorrogado pelas Resoluções do Conselho de Ministros n.<sup>os</sup> [26/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2006-667476), de 14 de março, [55/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2007-520227), de 4 de abril, [32/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2009-603878), de 16 de abril, [84-A/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-a-2016-105639086), de 28 de dezembro, [191/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-2019-127095318), de 11 de dezembro, e [130/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2022-204953814), de 20 de dezembro, respetivamente, até 30 de abril de 2007, 13 de maio de 2009 e 31 de dezembro de 2010, 2019, 2022 e 2025.
+Embora o primeiro mandato da EMEPC tenha tido uma duração de pouco mais de um ano, até 30 de abril de 2006, o mesmo foi sendo prorrogado pelas Resoluções do Conselho de Ministros n.os [26/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2006-667476), de 14 de março, [55/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2007-520227), de 4 de abril, [32/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2009-603878), de 16 de abril, [84-A/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-a-2016-105639086), de 28 de dezembro, [191/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-2019-127095318), de 11 de dezembro, e [130/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2022-204953814), de 20 de dezembro, respetivamente, até 30 de abril de 2007, 13 de maio de 2009 e 31 de dezembro de 2010, 2019, 2022 e 2025.
 
 A sucessiva necessidade de prorrogação do mandato da EMEPC deveu-se ao facto de não ter sido possível estimar, no momento da sua criação, a duração do processo de extensão, bem como o facto de, durante esse período, a EMEPC vir progressivamente a desempenhar um papel central e imprescindível no domínio do conhecimento do mar profundo, especialmente do solo e subsolo marinho para além das 200 M.
 
@@ -162,7 +216,7 @@ Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/
 
 1 - Prorrogar, até 31 de dezembro de 2029, o mandato da EMEPC, continuando esta a reger-se pelo disposto na [Resolução do Conselho de Ministros n.º 84-A/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-a-2016-105639086), de 28 de dezembro, com as alterações introduzidas pela presente resolução.
 
-2 - Alterar os n.<sup>os</sup>6, 7, 14 e 16 da [Resolução do Conselho de Ministros n.º 84-A/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-a-2016-105639086), de 28 de dezembro, na sua redação atual, que passam a ter a seguinte redação:
+2 - Alterar os n.os6, 7, 14 e 16 da [Resolução do Conselho de Ministros n.º 84-A/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-a-2016-105639086), de 28 de dezembro, na sua redação atual, que passam a ter a seguinte redação:
 
 «6 - [...]
 
@@ -293,3 +347,5 @@ b) O uso e a gestão dos bens do Estado afetos à EMEPC.
 20 - (Revogado.)
 
 21 - Revogar a [Resolução do Conselho de Ministros n.º 3/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2011-485641), de 12 de janeiro.
+
+119919865

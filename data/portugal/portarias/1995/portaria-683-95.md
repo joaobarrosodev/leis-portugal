@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/147b00/41494149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/683/1995/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/683-1995-475762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f745148dfd6e08084ee78fcf5ee249d1d89e9f65818ce632f25bd7b1c0b4c3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ec22c529b364a1d7e6828abe2b821f9e928ec85d3fe9257101baaa4335d40c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carne
-- Produto Cárneo
+- Controlo Sanitário
 - Decisão CE
 - Definição de Competências
-- Controlo Sanitário
-- Saúde Pública
 - Fabrico Industrial
 - Higiene Alimentar
 - Instituto de Protecção da Produção Agro-Alimentar
 - Política Agrícola Comum
+- Produto Animal
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Produto Animal
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223273:por
+  label: "Mantida em vigor pelo DEC LEI.342/98.1998.11.05.MADRP, DR.IS-A [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1998-223273
+  date: '1998-11-05'
 - type: cites
   target: celex:31977L0099
   label: null
@@ -97,16 +102,21 @@ relationships:
   target: celex:31994D0383
   label: null
   source: http://data.europa.eu/eli/dec/1994/383/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:34Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +151,6 @@ c) Capacidade de armazenagem das matérias-primas e dos produtos acabados.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 13 de Junho de 1995.**
+Assinada em 13 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.

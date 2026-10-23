@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/156/2025/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2025-938923394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94b81be781e0255d8a36ad7c444b5149d0ef3184670d2a9431145e87917040c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37ab6e1dcae2d47a2700cf262ef3521e0d7295efd62dbe050dfb7e318379abc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estratégia Nacional de Adaptação as Alterações Climáticas
-- Política Energética
-- Direção Geral de Energia e Geologia
-- Política do Ambiente
-- Energia
+- Agência para o Clima
 - Alteração Climática
 - Clima
-- Snierpa
-- Plano Nacional Energia e Clima 2030
-- Sistema Nacional de Políticas e Medidas
 - Comissão interministerial para a Ação Climática
-- Agência para o Clima
+- Direção Geral de Energia e Geologia
+- Energia
+- Estratégia Nacional de Adaptação as Alterações Climáticas
+- Plano Nacional Energia e Clima 2030
+- Política do Ambiente
+- Política Energética
+- Sistema Nacional de Políticas e Medidas
+- Snierpa
 relationships:
 - type: amended_by
   target: pt:dre:1139897689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:56/2015
+  label: Prorroga, até 30 de junho de 2026, a vigência da Estratégia Nacional para a Adaptação às Alterações Climáticas, aprovada
+    pela Resolução do Conselho de Ministros n.º 56/2015, de 30 de julho, Diário da República n.º 147/2015, Série I
+  source: null
+  date: '2015-07-30'
 - type: cites
   target: celex:32018R1999
   label: null
@@ -111,16 +117,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:914597185:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:53/2020
+  label: Revoga, a partir de 10 de outubro de 2025, a Resolução do Conselho de Ministros n.º 53/2020, de 10 de julho, Diário
+    da República n.º 133/2020, Série I
+  source: null
+  date: '2020-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:59Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +193,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 7 - Determinar que a avaliação de progresso da execução do PNEC 2030 é realizada de dois em dois anos, em alinhamento com o previsto no [Regulamento (UE) 2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, e disponibilizada ao público pelo Grupo de Coordenação do PNEC 2030 nos sítios na Internet das respetivas entidades.
 
-8 - Fixar a obrigatoriedade de publicitação anual, pelas entidades do Grupo de Coordenação, no «Portal Mais Transparência», do progresso alcançado no cumprimento das metas estabelecidas nos n.<sup>os</sup>2 e 3.
+8 - Fixar a obrigatoriedade de publicitação anual, pelas entidades do Grupo de Coordenação, no «Portal Mais Transparência», do progresso alcançado no cumprimento das metas estabelecidas nos n.os2 e 3.
 
 9 - Estabelecer que o PNEC 2030 constitui o plano de mitigação relativo ao setor da energia, a que se referem os artigos 22.º e 74.º da Lei de Bases do Clima, aprovada pela [Lei n.º 98/2021](https://diariodarepublica.pt/dr/detalhe/lei/98-2021-176907481), de 31 de dezembro.
 
@@ -170,3 +206,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 13 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua aprovação.
 
 Presidência do Conselho de Ministros, 3 de outubro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119626303

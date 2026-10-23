@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16800/0001300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/113/2024/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-2024-886311871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1cf67743e4cb383a4e4c126a98a6c91305363e3521614de7485b27234212508
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d05bcaee5f211b7c574b5041fde1960c868345e44450bd3b6a208926c614b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Comissão de Acompanhamento
 - Energia Renovável
-- Política Energética
-- Licenciamento
-- Política do Ambiente
-- Plano Nacional Energia e Clima 2030
-- Agência Portuguesa do Ambiente
 - Estrutura de Missão para o Licenciamento de Projetos de Energias Renováveis
+- Licenciamento
+- Plano Nacional Energia e Clima 2030
+- Política do Ambiente
+- Política Energética
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:50/2024
+  label: Altera, a partir de 4 de setembro de 2024, nos termos do n.º 2 do presente diploma, a Resolução do Conselho de Ministros
+    n.º 50/2024, de 26 de março, Diário da República n.º 61/2024, Série I
+  source: null
+  date: '2024-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/88/2023/10/10/p/dre
   label: null
@@ -99,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2024/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2024/07/10/p/dre
+- type: cites
+  target: pt:dre:222583134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871466268:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:59Z'
   warnings: []
   errors: []
 ---
@@ -246,3 +276,5 @@ i) [Anterior alínea h).]
 2 - Determinar que o previsto no n.º 10 da [Resolução do Conselho de Ministros n.º 50/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2024-857366012), de 26 de março, na redação dada pela presente resolução, se aplica igualmente à Estrutura de Missão criada através da [Resolução do Conselho de Ministros n.º 87/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2024-871466268), de 10 de julho.
 
 Presidência do Conselho de Ministros, 26 de julho de 2024. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+118064997

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/12000/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103/2025/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2025-922403555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cecdee81f6acb8dd1fbb25fbb38814499893e380b3e03ab58434acc801a3d773
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0e08e7534f9fffe54e3f09eaa95f8aca539eb27307f2c969ba903552282cd32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
 subjects:
 - Cargo Público
 - Cargos Políticos
-- Pessoal Dirigente
 - Código de Conduta
 - Gestor Público
+- Governo
+- Governo XXV
 - Membros do Governo
 - Pessoal de Gabinete
-- Governo
+- Pessoal Dirigente
 - Plano de Prevenção de Riscos
-- Governo XXV
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:102/2025
+  label: Determina que permanece em vigor o Plano de Prevenção de Riscos do Governo, aprovado em anexo à Resolução do Conselho
+    de Ministros n.º 102/2025, de 5 de junho, Diário da República n.º 108/2025, Série I
+  source: null
+  date: '2025-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109-e/2021/12/09/p/dre
   label: null
@@ -92,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/102/2025/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102/2025/06/05/p/dre
+- type: cites
+  target: pt:dre:123610180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:920668875:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:43Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +250,7 @@ Considera-se que existe conflito de interesses quando os membros do Governo, ou 
 
 ###### Artigo 10.º — Convites ou benefícios similares
 
-1 - Os membros do Governo abstêm-se de aceitar, a qualquer título, convites de pessoas singulares ou coletivas, privadas ou públicas, nacionais ou estrangeiras, para assistência a eventos sociais, institucionais ou culturais, ou outros benefícios similares, que possam condicionar a imparcialidade e a integridade do exercício das suas funções, sem prejuízo do disposto nos n.<sup>os</sup>3 e 4.
+1 - Os membros do Governo abstêm-se de aceitar, a qualquer título, convites de pessoas singulares ou coletivas, privadas ou públicas, nacionais ou estrangeiras, para assistência a eventos sociais, institucionais ou culturais, ou outros benefícios similares, que possam condicionar a imparcialidade e a integridade do exercício das suas funções, sem prejuízo do disposto nos n.os3 e 4.
 
 2 - Entende-se que existe um condicionamento da imparcialidade e da integridade do exercício de funções quando haja aceitação de convites ou outros benefícios similares com valor estimado superior a € 150,00.
 
@@ -269,3 +291,5 @@ O presente Código de Conduta será adaptado em função das eventuais alteraç�
 ###### Artigo 15.º — Códigos de conduta setoriais
 
 Os membros do Governo promovem a adoção de códigos de conduta nos serviços que dirigem e nos institutos e empresas públicas sobre os quais exercem superintendência ou tutela, nos termos do regime geral de prevenção da corrupção, aprovado em anexo ao [Decreto-Lei n.º 109-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), de 9 de dezembro, na sua redação atual, quando aplicável.
+
+119217278

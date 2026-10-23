@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/112/2021/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2021-169418566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c0dec607f354b47720ba8edeeeed5e45836d88916d14893dce8ce261bd8ea6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5fdc7a2100d9cb9d5c204c33c9505847c18078337db07686501908def939996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Proteção Civil
-- Incêndio
-- Financiamento
-- Definição de Competências
 - Acidente Ecológico
+- Açores
+- Autoridade Nacional de Protecção Civil
 - Catástrofe
+- Cheias
+- Definição de Competências
+- Estratégia Nacional para uma Proteção Civil Preventiva
+- Financiamento
 - Fundos CE
 - Grupo de Trabalho
-- SECA
-- Medidas Preventivas
+- Incêndio
 - Madeira.região Autónoma
-- Autoridade Nacional de Protecção Civil
+- Medidas Preventivas
+- Proteção Civil
+- Região Autónoma
+- SECA
 - Sismo
-- Açores
-- Cheias
 - Temporal
-- Estratégia Nacional para uma Proteção Civil Preventiva
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2019/04/01/p/dre
@@ -116,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71-a/2021/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71-a/2021/06/08/p/dre
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121748966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164798802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:37Z'
   warnings: []
   errors: []
 ---
@@ -446,11 +478,11 @@ OE 5 - Envolver os cidadãos no conhecimento dos riscos: o conhecimento dos risc
 
 Para cada um dos cinco objetivos estratégicos estabelecidos encontra-se associado um conjunto de AP de ação, tal como se esquematiza seguidamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 As 10 AP têm associado um conjunto de 136 objetivos operacionais, os quais traduzem projetos e atividades a implementar pela administração central (perspetiva interministerial) e local (câmaras municipais e juntas de freguesia), num horizonte temporal até 2030, de acordo com um plano de ação específico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 Este quadro de iniciativas pretende, assim, ir ao encontro do objetivo plasmado no Programa do Governo de «[p]ugnar por uma segurança interna ainda mais robusta», designadamente por via do reforço da proteção civil «com o acento tónico na prevenção e na preparação». Portanto, reforça-se a intenção de romper com abordagens clássicas do tipo reativo, apenas focadas na resposta à emergência, e fomentar políticas e práticas de gestão do tipo antecipatório em que é valorizada a redução de vulnerabilidades e a mitigação dos riscos.
 
@@ -460,20 +492,22 @@ Deste modo, assumindo-se como pressuposto a necessidade de operacionalizar o con
 
 Objetivo estratégico n.º 1 - Fortalecer a governança na gestão de riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 Objetivo estratégico n.º 2 - Melhorar o conhecimento sobre os riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 Objetivo estratégico n.º 3 - Implementar estratégias para redução de riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 Objetivo estratégico n.º 4 - Melhorar a preparação face à ocorrência de riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
 
 Objetivo estratégico n.º 5 - Envolver os cidadãos no conhecimento dos riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0013300156.pdf)
+
+114480308

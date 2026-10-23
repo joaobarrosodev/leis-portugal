@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/690/1995/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/690-1995-476724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d49b929026a7f77cf5d1c2e9b965a7cdd29e4dc4bcbbf43fcc88e0072ddd0ef8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 717e5faa304a3fa3a9c89fca6e08041e8ee9ec07c2a0cd61b03d509259438b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Centro Nacional de Protecção da Produção Agrícola
-- Multa
 - Comunidade Europeia
 - Decisão CE
 - Definição de Competências
 - Fiscalização
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto Florestal
-- Proteção Fitossanitária
+- Multa
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
@@ -101,16 +101,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogada pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:44Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +144,7 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do disposto no n.º 1 d
 
 3) À parte B, alínea a), a seguir ao n.º 1, do anexo I é aditado o seguinte número:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 4) À parte B, alínea a), n.º 2, do anexo I é aditado, à coluna da direita o seguinte:
 
@@ -167,15 +172,15 @@ bb) Em áreas onde a ocorrência de Pseudomonas solanacearum (Smith) Smith é co
 
 12) À parte A, secção I, do anexo IV é aditado o seguinte número:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 13) À parte A, secção I, do anexo IV é aditado o seguinte número:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 14) Na parte A, secção I, do anexo IV, o n.º 36 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 15) Na parte A, secção II, do anexo IV, o texto seguinte é aditado à coluna da direita do n.º 19.1:
 
@@ -191,19 +196,19 @@ Pseudomonas solanacearum (Smith) Smith.
 
 17) À parte A, secção II, do anexo IV é aditado o seguinte número:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 18) À parte B, n.os 20.1, 20.2, 22, 23, 24, 25.1, 25.2, 26 e 30, do anexo IV são aditadas, à coluna da direita, as letras «S, FI»;
 
 19) À parte B, a seguir ao n.º 20.2, do anexo IV é aditado o seguinte número:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 20) À parte B, n.º 21, do anexo IV são aditadas, à coluna da direita, as letras «A, FI»;
 
 21) Na parte B do anexo IV, o n.º 27 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 22) À alínea a), n.º 2, do anexo VI é aditado, à coluna da direita, o seguinte:
 
@@ -211,7 +216,7 @@ Finlândia, Suécia.
 
 23) À alínea a), a seguir ao n.º 5, do anexo VI são aditados os seguintes números:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf))](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/149b00/41954198.pdf)
 
 24) À alínea a), n.º 12, do anexo VI é aditado, à coluna da direita, o seguinte:
 
@@ -231,6 +236,6 @@ Finlândia, Suécia.
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Junho de 1995.**
+Assinada em 7 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

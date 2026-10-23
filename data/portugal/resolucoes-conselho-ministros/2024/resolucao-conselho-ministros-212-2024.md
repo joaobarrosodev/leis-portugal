@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25300/0008100105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/212/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/212-2024-901661924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2493eeea6483ad9f64102eb7d9231e56ed4ef584d71c4e3bf6a7fb6b83aa8423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee40028a40ffc4c9e53bd3f076667d5450923dc23b95fa48d18f15e252590d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Delegação de Competências
-- Serviço Nacional de Saúde
+- Governo XXIV
 - Medicamento
 - Ministério da Saúde
-- Governo XXIV
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/55/2013/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/55/2013/02/07/p/dre
+- type: cites
+  target: pt:dre:106616121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71066565:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:18Z'
   warnings: []
   errors: []
 ---
@@ -128,13 +160,13 @@ De acordo com o disposto no artigo 3.º do [Decreto-Lei n.º 19/2010](https://di
 
 Através da aquisição centralizada visa-se a promoção de eficácia e eficiência em organizações dos setores público e privado, permitindo não só elevadas poupanças, criação de sinergias e aumento de produtividade, como também benefícios ao nível da qualidade do serviço prestado e da qualidade e celeridade da informação de gestão produzida.
 
-A [Portaria n.º 55/2013](https://diariodarepublica.pt/dr/detalhe/portaria/55-2013-258096), de 7 de fevereiro, alterada pelas Portariasn.<sup>os</sup>[406/2015](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), de 23 de novembro, e [111/2017](https://diariodarepublica.pt/dr/detalhe/portaria/111-2017-106616121), de 16 de março, veio proceder à definição das categorias de bens e serviços abrangidos nas atribuições da SPMS, E. P. E., na qualidade de central de compras, para celebrar contratos públicos de aprovisionamento e ainda à concretização dos termos em que será efetuada a contratação da aquisição de bens e serviços.
+A [Portaria n.º 55/2013](https://diariodarepublica.pt/dr/detalhe/portaria/55-2013-258096), de 7 de fevereiro, alterada pelas Portariasn.os[406/2015](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), de 23 de novembro, e [111/2017](https://diariodarepublica.pt/dr/detalhe/portaria/111-2017-106616121), de 16 de março, veio proceder à definição das categorias de bens e serviços abrangidos nas atribuições da SPMS, E. P. E., na qualidade de central de compras, para celebrar contratos públicos de aprovisionamento e ainda à concretização dos termos em que será efetuada a contratação da aquisição de bens e serviços.
 
 Neste contexto, verificada a necessidade de aquisição de medicamentos para as entidades do SNS, e atendendo a que os contratos atualmente em vigor nos organismos do MS terminam no corrente ano, revela-se necessário autorizar a respetiva despesa relativa à aquisição de medicamentos, para o ano de 2025, no montante máximo global de 2 122 374 865,26, para um conjunto de entidades do MS.
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar as entidades adjudicantes, constantes do anexo à presente resolução e da qual faz parte integrante, a realizar a despesa relativa à aquisição de medicamentos, por um período de 12 meses, para o ano de 2025, no montante máximo global de 2 122 374 865,26, ao qual acresce o imposto sobre valor acrescentado, à taxa legal em vigor.
 
@@ -146,7 +178,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do
 
 Presidência do Conselho de Ministros, 12 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem osn.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem osn.os1 e 2)
 
 Repartição de encargos por entidades adjudicantes
 
@@ -1010,3 +1042,5 @@ Repartição de encargos por entidades adjudicantes
 | Sistema Nervoso Central | 619 473,92 |
 | Vitaminas, sais minerais e captadores de iões | 8 783,46 |
 | Total geral | 2 122 374 865,26 |
+
+118502096

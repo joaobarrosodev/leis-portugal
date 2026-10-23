@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/109/1996/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fabe8d33fd134fb54442408f9652fd1975ac538b754c191059739170020ab231
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351b1718717fc8bc2afe83e92937d76269bc34a7995daa591157999fa68bab88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Controlo de Qualidade
-- Saúde
-- Marca
 - Equipamento
+- Marca
 - Normas de Segurança
 - Proteção do Consumidor
+- Saúde
 relationships:
 - type: amended_by
   target: pt:dre:1737149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195211:por
+  label: "Alterado no anexo I o 1º parg do num 2.8 e eliminado o num 1.5 do anexo V na redacção dada à Port 1131/93 de 04-Nov,\
+    \ pela Port 695/97.1997.08.19.MECO, DR.IS-B [190] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-1997-195211
+  date: '1997-08-19'
 - type: cites
   target: celex:31989L0686
   label: null
@@ -96,13 +102,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:28Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +205,7 @@ Feito em ... de ...
 
 1.2 - A marcação CE de conformidade é constituída pelas iniciais CE de acordo com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/085b00/07620763.pdf))](https://files.diariodarepublica.pt/1s/1996/04/085b00/07620763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07620763.pdf)
 
 1.3 - No caso de redução ou de ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.
 
@@ -213,6 +219,6 @@ b) No caso de intervenção de organismo notificado, o número distintivo atribu
 
 Ministérios da Economia e da Saúde.
 
-**Assinada em 29 de Fevereiro de 1996.**
+Assinada em 29 de Fevereiro de 1996.
 
-**O Ministro da Economia, Daniel Bessa Fernandes Coelho. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Economia, Daniel Bessa Fernandes Coelho. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

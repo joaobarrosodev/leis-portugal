@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10400/0002500025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/47/2022/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2022-184108565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b61312892b7f2967213a3011242107c838575ab634f3fd152b46997bc51b698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c846c9eac58e497943480b8e9662779f8fc4f54a068ea6559e5a358d5d8823a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
 subjects:
 - Circulação de Pessoas
 - Controlo Sanitário
-- Saúde Pública
-- Política de Saúde
-- Isolamento Profiláctico
+- Cuidados Médicos
 - Doença Infecciosa
 - Epidemia
-- Cuidados Médicos
 - Equipamento de Proteção
-- Vigilância Epidemiológica
+- Isolamento Profiláctico
+- Política de Saúde
+- Saúde Pública
 - Situação de Alerta
+- Vigilância Epidemiológica
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considerada revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da
+    República n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -109,16 +115,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41-a/2022/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41-a/2022/04/21/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165865578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182432342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:21Z'
   warnings: []
   errors: []
 ---
@@ -142,3 +176,5 @@ Nos termos do artigo 12.º do [Decreto-Lei n.º 54-A/2021](https://diariodarepub
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 26 de maio de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115370839

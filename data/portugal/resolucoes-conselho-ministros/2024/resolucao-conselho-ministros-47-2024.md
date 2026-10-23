@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06000/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/47/2024/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2024-857110190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fab903fc572d5017eae60029e0a764d8665f61f36c54764893109f336651a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04c2630f8c1a1822127fcc0e770feb17db626f76da6c937d3a0a48e4a91511bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2023/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2023/09/19/p/dre
+- type: cites
+  target: pt:dre:125009061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221797720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225044439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:59Z'
   warnings: []
   errors: []
 ---
@@ -129,3 +141,5 @@ Nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 146/2019](https://diari
 7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117503414

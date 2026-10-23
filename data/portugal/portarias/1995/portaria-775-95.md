@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/775/1995/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/775-1995-465994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12ed804c07d87a3fc5e96630b471b0a9fb0963cf45ec9730696d7a997de1a4f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 044dc505ea0dc7a593115deb5660c2770eb4b2a875b8403d9cffb87688707ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,31 @@ reuse:
 subjects:
 - Arraiolos
 - CAÇA
-- Montemor-o-Novo
 - Évora
+- Montemor-o-Novo
 relationships:
 - type: amended_by
   target: pt:dre:642037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235491:por
+  label: "Anexados vários prédios rústicos à concessão atribuída pelo presente diploma, pela PORT.872/98.1998.10.09.MADRP,\
+    \ DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/872-1998-235491
+  date: '1998-10-09'
+- type: amended_by
+  target: pt:dre:637410:por
+  label: "Renovada por um período de 12 anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Portaria\
+    \ 872/98, de 09 de Outubro, pela PORT.842/2007.07.08.2007.MADRP, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/842-2007-637410
+  date: '2007-08-07'
+- type: amended_by
+  target: pt:dre:642037:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 872/98 de\
+    \ 09-Out, pela PORT.1247/2007.25.09.2007.MADRP, DR.IS [185] de 25.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1247-2007-642037
+  date: '2007-09-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -84,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:42Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/158b00/43834383.pdf))](https://files.diariodarepublica.pt/1s/1995/07/158b00/43834383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/158b00/43834383.pdf)

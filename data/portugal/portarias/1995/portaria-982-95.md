@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/188b00/50955096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/982/1995/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/982-1995-477872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f09782d4b1cf056a8fe17b6afe4a60cb042e8d2cbc2e909b13f983bd5586be8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aad2fc50891c812a44ee6cdb55cd3a6a7baf01fb794fd1eb2d4f0069e6f8bc27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Base de Dados
 - Cartão de Identificação
 - Documentação Administrativa
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Impresso
-- Base de Dados
+- Modernização Administrativa
+- Política de Saúde
 - Segurança da Informação
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:647535:por
@@ -83,16 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/198/1995/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/198/1995/07/29/p/dre
+- type: cites
+  target: pt:dre:484575:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:647535:por
+  label: "Revogada pela Port.753-A/96.1996.12.20.MS, DR.IS-B [294]2ºSuplR\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/753-a-1996-647535
+  date: '1996-12-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:51Z'
   warnings: []
   errors: []
 ---
@@ -111,12 +120,12 @@ Manda o Governo, pelo Ministro da Saúde, que o modelo e as instruções de pree
 
 Ministério da Saúde.
 
-**Assinada em 1 de Agosto de 1995.**
+Assinada em 1 de Agosto de 1995.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Modelo e instruções de preenchimento do formulário de identificação do utente do Serviço Nacional de Saúde
 
 Modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188b00/50955096.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188b00/50955096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188b00/50955096.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/59/2015/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2015-69920312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17259fbf1380329c773ab11e2b2c6c23706e3d4a8b02e3db8c4035cb1a4e6474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6909143a56824229eaed400ebf6291ee55c3d495769fe45c7dfdd44fe135c0bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CABO de são Vicente
-- Lista
 - Instituto da Conservação da Natureza e das Florestas
+- Lista
 - Património Subaquático
 - Rede Natura 2000
 relationships:
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:25Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +187,11 @@ Latitude: 36º 34' 40,6" W
 
 Limites - os valores das coordenadas geográficas que marcam os pontos do polígono do Sítio Banco Gorringe apresentados em seguida seguem o sistema de referência de coordenadas ITRF 2005 e são apresentados em graus, minutos e segundos decimais. A área foi calculada com recurso à projeção universal Transversa de Mercator associada ao sistema.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf)
 
 ITRF 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0518105183.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20000/0001300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/2020/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2020-145359682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 587fb00c5e38e27f7dc018a4d98939afe8d4b62a291dda9c7d06e0bcba43d093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f3115079814efcbd86f6482ad57c2c43b9111d42cd4d59112f01129ca012fa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,39 @@ reuse:
 subjects:
 - Acesso à Informação
 - Administração Central
-- Função Pública
+- Administração Pública
+- Agência para a Modernização Administrativa
+- Atendimento Público
 - Circulação de Pessoas
-- Direção Geral da Saúde
+- Condições de Higiene e Segurança no Trabalho
+- Controlo Sanitário
 - Definição de Competências
-- Regime Laboral
+- Direção Geral da Saúde
 - Documentação
 - Documento Autentico
-- Controlo Sanitário
+- Documento Eletrónico
+- Doença Infecciosa
+- Educação Pré-escolar
 - Ensino Oficial
 - Ensino Profissional
-- Saúde Pública
-- Administração Pública
 - Ensino Secundário
-- Linha de Atendimento Telefónico
-- Documento Eletrónico
-- Página na Internet
-- Doença Infecciosa
 - Epidemia
-- Informação do Consumidor
-- Posto de Atendimento
-- Estabelecimento de Ensino
-- Serviço Público
-- Prestação de Serviços
-- Agência para a Modernização Administrativa
-- Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
-- Serviço de Atendimento ao Cidadão
-- Loja do Cidadão
-- Funcionário Público
-- Educação Pré-escolar
-- Atendimento Público
-- Plataforma Eletrónica
 - Equipamento de Proteção
+- Estabelecimento de Ensino
+- Função Pública
+- Funcionário Público
+- Informação do Consumidor
+- Linha de Atendimento Telefónico
+- Loja do Cidadão
+- Página na Internet
+- Plataforma Eletrónica
+- Posto de Atendimento
+- Prestação de Serviços
+- Regime Jurídico
+- Regime Laboral
+- Saúde Pública
+- Serviço de Atendimento ao Cidadão
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:172153528:por
@@ -130,16 +130,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70-a/2020/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70-a/2020/09/11/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142601170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:172153528:por
+  label: Revogada, a partir de 01.10.2021, pelo(a) Resolução do Conselho de Ministros n.º 135-A/2021 - Diário da República
+    n.º 190/2021, 1º Suplemento, Série I de 2021-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-a-2021-172153528
+  date: '2021-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:14Z'
   warnings: []
   errors: []
 ---
@@ -225,3 +255,5 @@ d) Deve reforçar-se os serviços de proximidade existentes, considerando as nec
 12 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 1 de outubro de 2020. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113636045

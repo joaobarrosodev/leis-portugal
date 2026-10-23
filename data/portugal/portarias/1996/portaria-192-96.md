@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/1996/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-1996-444876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac3da11111b668ffdea556bc2ac24bccdf4b7cc8c5f6b1d5f1a2921f52e2699f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a935ca13f368e78d46632dec538b4f7b68f124185fa1afa1a099f0b1574f2ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Desemprego Sazonal
 - Atividade Ocupacional
-- IPSS
+- Autarquia Local
+- Centro de Emprego
 - Desemprego
-- Projeto
+- Desemprego Sazonal
+- Instituto do Emprego e Formação Profissional
+- IPSS
 - Política de Emprego
+- Projeto
 - Proteção no Desemprego
 - Regimes de Segurança Social
 - Segurança Social
@@ -84,7 +85,6 @@ subjects:
 - Trabalhador
 - Trabalhador por Conta de Outrem
 - Trabalho Temporário
-- Autarquia Local
 - VIDA Activa
 relationships:
 - type: amended_by
@@ -103,16 +103,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1994/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1994/06/27/p/dre
+- type: cites
+  target: pt:dre:172969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647355:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218319:por
+  label: "Rectificada pela DECL-RECT.11-F/96.1996.06.24.PCM, DR.IS-B [149]3ºSupl de 29/Jun/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-f-1996-218319
+  date: '1996-06-24'
+- type: repealed_by
+  target: pt:dre:601747:por
+  label: "Revogado, a partir de 04.02.2009, sem prejuízo do disposto no n.º1 do art. 19.º, pela PORT.128/2009.30.01.2009.MTSSO,\
+    \ DR.IS [21] de 30.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-2009-601747
+  date: '2009-01-30'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:30Z'
   warnings: []
   errors: []
 ---
@@ -367,6 +398,6 @@ Disposições finais e transitórias
 
 Ministérios para a Qualificação e o Emprego e da Solidariedade e Segurança Social.
 
-**Assinada em 8 de Maio de 1996.**
+Assinada em 8 de Maio de 1996.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.

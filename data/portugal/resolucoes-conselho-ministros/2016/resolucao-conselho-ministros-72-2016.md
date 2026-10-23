@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2016-75796596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c869d862da14a83968e00881c380bbc33a92f9db165b684ef17a3a982cdb286
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b42b25822411627da835711101161cfc9c4c5a1e90844ceeed4c5532bd767d80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Rural
-- Ordenamento do Território
 - Definição de Competências
 - Descentralização
-- Ministro Adjunto
-- Prazo
 - Desenvolvimento Local
+- Desenvolvimento Rural
+- Ministro Adjunto
+- Ordenamento do Território
 - PORTUGAL 2020
-- Unidade de Missão para a Valorização do Interior
+- Prazo
 - Programa Nacional para a Coesão Territorial
+- Unidade de Missão para a Valorização do Interior
 relationships:
 - type: amended_by
   target: pt:dre:229915933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:130776793:por
+  label: Aprovada a revisão do Programa de Valorização do Interior e mantidas em vigor as restantes medidas aprovadas pela
+    presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 18/2020 - Diário da República n.º 62/2020, Série I
+    de 2020-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-2020-130776793
+  date: '2020-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
   label: null
@@ -104,16 +111,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2016/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2016/09/01/p/dre
+- type: cites
+  target: pt:dre:398490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74985437:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:17Z'
   warnings: []
   errors: []
 ---
@@ -2700,11 +2723,11 @@ Enquadramento
 
 Em Portugal, em 1950, a esperança de vida à nascença era de 58 anos. Se os ciclos de vida não tivessem aumentado, no recenseamento geral da população de 2011, todos os que nasceram antes de 1950 já tinham provavelmente falecido. Portugal não teria 10 milhões de habitantes mas apenas 8 milhões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Qual seria o cenário nos territórios do interior? Em 2011, nos territórios identificados de baixa densidade residiam 2 milhões de indivíduos, dos quais cerca de 523 mil tinham mais de 65 anos. Se a esperança de vida não tivesse aumentado, previsivelmente a população residente seria muito menor, cerca de 1,5 milhões de habitantes, e estes territórios estariam mais despovoados. Isto significa que 24 % da população residente nestes territórios tem mais de 65 anos e que esta população é um recurso crucial para o seu desenvolvimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 As pessoas vivem hoje mais anos porque têm melhores condições de vida e um melhor acesso a cuidados de saúde. Atualmente o desafio não é viver mais anos, mas viver mais anos com qualidade de vida. Se a evolução científica e tecnológica continuar aos ritmos atuais, iremos possivelmente viver ainda mais tempo de uma forma mais saudável.
 
@@ -2770,7 +2793,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Do ponto de vista do desenvolvimento económico, a situação do interior do país apresenta um diagnóstico conhecido e amplamente consensual, que se prende fundamentalmente com uma questão central: a sua dificuldade em gerar riqueza e emprego, criando e captando valor.
 
@@ -2830,7 +2853,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Os territórios do interior, em resultado dos usos do solo, das práticas de ordenamento, das atividades económicas dominantes, e da evolução demográfica, asseguraram uma maior preservação dos ecossistemas naturais e são hoje particularmente ricos em biodiversidade. A valorização destes recursos é um requisito indispensável à elaboração de uma agenda para o desenvolvimento do interior, e este entendimento é hoje consensual. Embora persista alguma conflitualidade nos territórios, pela falsa perceção de uma relação antagónica entre conservação e desenvolvimento económico, muitas vezes por insuficiente clarificação ou intervenção política, nunca esteve em causa a instituição e a manutenção de um amplo conjunto de áreas com estatuto de proteção, que constitui hoje uma inequívoca mais-valia para o desenvolvimento do interior.
 
@@ -2880,7 +2903,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 O programa Interreg, criado em 1990, contribuiu nos últimos 25 anos para a alterar o relacionamento entre os territórios de fronteira de Portugal e Espanha.
 
@@ -2924,7 +2947,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Nas últimas décadas, a diferenciação rural-urbana tem vindo a atenuar-se, tanto em termos de estilos de vida das populações como em termos dos fatores territoriais (mobilidade, atividades económicas, tecnologia da informação e comunicação, importância de atividades de lazer). Tradicionalmente, o desenvolvimento económico das áreas rurais e urbanas era considerado separadamente. No entanto, as áreas urbanas e rurais estão cada vez mais integradas fisicamente, funcionalmente e socialmente. Como têm recursos distintos e complementares, um reforço da integração rural-urbana pode trazer benefícios para ambas.
 
@@ -2984,7 +3007,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 As Tecnologias da Informação e Comunicações, e em particular a Internet, têm hoje um papel central na vida quotidiana, na cultura, na difusão de informação, na economia e nos negócios bem como na interação com a administração pública.
 
@@ -2996,7 +3019,7 @@ Em matéria de conectividade, apesar de Portugal ter um desempenho acima da méd
 
 A evolução digital deve-se sobretudo à cobertura muito superior à média europeia e ao pioneirismo no rol out de redes de nova geração, quer fixas quer móveis. No entanto, a maior clivagem digital em Portugal é o capital humano, em que os grupos mais vulneráveis têm menos competências digitais: mais velhos, com rendimentos mais baixos e com baixos níveis de escolaridade. Esta clivagem digital traduz-se numa clivagem territorial na medida em que os grupos mais vulneráveis e com menor acessibilidade digital apresentam uma forte concentração nos territórios do interior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Principais Desafios
 
@@ -3022,7 +3045,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Há uma clara sensação de que, de uma forma geral, a imagem e as perceções relativas ao Interior de Portugal se encontram muito desajustadas relativamente ao seu real valor, ou seja, de que existe um gap de perceção e um défice de conhecimento sobre a qualidade dos recursos e ofertas destes territórios, das dinâmicas que neles se têm vindo a afirmar, bem como das inúmeras oportunidades que neles poderão ser aproveitadas e potenciadas. Não existe, inclusivamente, uma ideia muito clara sobre o que é e o que representa o «Interior de Portugal», antes associações a outras realidades, geralmente bastante redutoras e/ou distorcidas sobre o mesmo.
 
@@ -3036,7 +3059,7 @@ Iniciar uma ação desta natureza implica estar consciente de que se verifica ho
 
 Por que o que se pretende com esta iniciativa consiste em ativar um novo quadro estratégico e operacional de afirmação e valorização do Interior, que contribua para a sua competitividade e diferenciação, será fundamental abordar a sua identidade de forma abrangente, conforme a figura seguinte descreve.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 A Identidade tem valor económico e, adicionalmente, é algo que é difícil de replicar, pelo que deve ser entendida como um ativo essencial para alavancar o processo de desenvolvimento do Interior, até porque se assiste, cada vez mais, a uma valorização das dimensões positivas associadas à baixa densidade e ao rural, enquanto espaços de tranquilidade, de harmonia e de qualidade de vida, ou ainda porque neles é possível identificar, tal como um recente estudo demonstra, muitas das dimensões associadas ao conceito de Portugalidade (1), o que valoriza o seu contributo para o referencial de identidade nacional.
 
@@ -3066,7 +3089,7 @@ Constituem objetivos específicos desta iniciativa:
 
 Enquadramento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 A procura de soluções para problemas complexos e o aproveitamento das oportunidades com que se defrontam os territórios do interior no seu processo de desenvolvimento implicam novas formas de organização coletiva e de coordenação de políticas, assentes em redes que promovam relações sociais de confiança. Capazes de articular de forma transversal as ações dos diferentes níveis de governação e dos atores, públicos e privados relevantes.
 
@@ -3100,7 +3123,7 @@ Os principais desafios que colocam ao nível da adoção de novas abordagens, do
 
 - A busca sistemática de soluções inovadoras para problemas e constrangimentos sentidos pelos territórios do interior através da adoção de metodologias mais experimentais, com base em processos de «aprender fazendo», em ferramentas inovadoras (design thinking, prototipagem, cenarização, service design, etc.), e na criação de espaços e oportunidades para o diálogo e cocriação de novas abordagens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
 
 Objetivos Específicos
 
@@ -3126,4 +3149,4 @@ Constituem objetivos específicos desta iniciativa:
 
 Territórios abrangidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22600/0415404190.pdf)

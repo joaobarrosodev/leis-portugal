@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/56/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2025-911303065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96cf901b24ee81ce619018f0c207293c52eba3f2d7e8982353f02e6b90e90302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a8d7777bc454119a7ebe6d482c378684648467f067bdfc7c40de1cfd53cfe34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
+- Arquivo Nacional do Som
+- Conselho Consultivo
 - Coordenador
 - Definição de Competências
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
 - Equipa de Missão
-- Património Cultural
-- Conselho Consultivo
-- Nomeação
-- Património Fonográfico
-- Arquivo Nacional do Som
+- Investigador
 - Museus e Monumentos de Portugal
+- Nomeação
+- Património Cultural
+- Património Fonográfico
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:36/2019
+  label: Altera, a partir de 19 de março de 2025, com efeitos a partir de 28 de fevereiro de 2025, os n.ºs 2 e 11 da Resolução
+    do Conselho de Ministros n.º 36/2019, de 18 de fevereiro, Diário da República n.º 34/2019, Série I
+  source: null
+  date: '2019-02-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2019/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2019/02/18/p/dre
+- type: cites
+  target: pt:dre:119674803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175865941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:21Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +137,7 @@ Assim:
 
 Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>2 e 11 da [Resolução do Conselho de Ministros n.º 36/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2019-119674803), de 18 de fevereiro, alterada pela [Resolução do Conselho de Ministros n.º 174/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2021-175865941), de 14 de dezembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os2 e 11 da [Resolução do Conselho de Ministros n.º 36/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2019-119674803), de 18 de fevereiro, alterada pela [Resolução do Conselho de Ministros n.º 174/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2021-175865941), de 14 de dezembro, que passam a ter a seguinte redação:
 
 «2 - [...]
 
@@ -152,3 +170,5 @@ k) Articular com entidades nacionais detentoras de património sonoro no sentido
 3 - Estabelecer que a presente resolução entra em vigor no dia seguinte à sua publicação.
 
 Presidência do Conselho de Ministros, 7 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118813388

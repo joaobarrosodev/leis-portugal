@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/694/1996/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-1996-198908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb5c5284e11e5ed9d14714ee9a276563ccb639ce55815436bc8402b0bc0d1da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbc0b600aff3c7be3ca73950580d08622e75f388ff4b31c71d9f4b643064067a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Hospital de Pulido Valente
+- Médico
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
@@ -74,20 +74,34 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423203:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 1277/95 de 27-Out, na redacção do presente diploma, pela Port 646/99\
+    \ de 13-Ago DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1999-423203
+  date: '1999-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1277/1995/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1277/1995/10/27/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668134:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:18Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +120,10 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, que o quadr
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Outubro de 1996.**
+Assinada em 30 de Outubro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/276b00/43154316.pdf))](https://files.diariodarepublica.pt/1s/1996/11/276b00/43154316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/276b00/43154316.pdf)

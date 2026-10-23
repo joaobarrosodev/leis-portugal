@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 25/2016, 1º Suplemento, Série I de 2016-02-05
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 390-(2) a 390-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02501/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5-a/2016/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-a-2016-73448601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b032d92cca5f9d903ccfcfd75ebe251563b6d629d5641a0f8aefbf57308e59f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abf0412d1f1b9fe58a523d8943dd65b793676193627ffc9a33490c3aecefae84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Direção Geral da Saúde
-- Ministro da Saúde
+- Centro de Atendimento do Serviço Nacional de Saúde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Centro de Atendimento do Serviço Nacional de Saúde
+- Direção Geral da Saúde
 - Governo XXI
+- Ministro da Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/67/2015/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/67/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237677:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:02Z'
   warnings: []
   errors: []
 ---

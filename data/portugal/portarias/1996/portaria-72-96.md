@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/72/1996/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1996-621275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e3e0563ab220dfce297d111aea127b0c15139f1540ecd46f0333886e9d333c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2b5929736924752603914b141fc06248a0ad03632b0dfa6dd696a507460d148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infarmed
 - Comissão Técnica de Medicamentos
+- Infarmed
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:515428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515428:por
+  label: "Transferidas para a Comissão de Avaliação de Medicamentos as competências atribuídas à Comissão Técnica de Medicamentos\
+    \ pelo presente diploma, pela Port.1028/2004.09.08.2004.MS, DR.IS-B [DR.IS-B] de 09.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1028-2004-515428
+  date: '2004-08-09'
 - type: cites
   target: celex:31993R2309
   label: null
@@ -84,13 +90,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:00Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +133,7 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 13 de Fevereiro de 1996.**
+Assinada em 13 de Fevereiro de 1996.
 
 Pela Ministra da Saúde, José Arcos dos Reis, Secretário de Estado da Saúde.
 

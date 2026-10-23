@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 224/2022, 1º Suplemento, Série I de 2022-11-21
   number: '224'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9-(2) a 9-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22401/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/107-a/2022/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-a-2022-203747047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fcf80ffb58604e71532b4ead6e83e0752f49ab27137444e659bbdd9591d5240
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de51472181bd3d789104806598a8fb636ed12e700a16cc34751f6db0a102f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Alienação de Acções
 - Caderno de Encargos
 - Empresa Nacionalizada
-- Setor Empresarial do Estado
 - Parpública
 - Privatização
+- Setor Empresarial do Estado
 - Venda Directa
 relationships:
 - type: cites
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/58/2021/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/58/2021/05/14/p/dre
+- type: cites
+  target: pt:dre:137126910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151662903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163332291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170934685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179671636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:54Z'
   warnings: []
   errors: []
 ---
@@ -341,3 +369,5 @@ Os proponentes excluídos e preteridos no processo de seleção do adquirente da
 ###### Artigo 21.º — Definição dos demais termos do processo de reprivatização
 
 Compete à PARPÚBLICA definir os demais termos a que deve obedecer o processo de reprivatização, incluindo determinar as demais condições acessórias que se afigurem convenientes, bem como praticar os atos de execução que se revelem necessários à concretização da operação de reprivatização, em consonância com o presente caderno de encargos e com o disposto no [Decreto-Lei n.º 33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 2 de julho.
+
+115901259

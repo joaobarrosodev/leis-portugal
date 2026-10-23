@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 250/2016, 2º Suplemento, Série I de 2016-12-30
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5158-(110) a 5158-(110)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/25002/0011000110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84-g/2016/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-g-2016-105657336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78019c0d127a5693ea3667fdb9662fc4a999ee4e69a036bbb721896748855f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a63c7aa34b0fdfa057b276f0247a11b1df472eb6b7a2bb715fe1e0379e5e5ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Autorização de Despesas
 - Centro de Medicina de Reabilitação do Alcoitão
-- Ministro da Saúde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Serviço Nacional de Saúde
-- Lisboa
-- Santa Casa da Misericórdia
 - Governo XXI
+- Lisboa
+- Ministro da Saúde
+- Santa Casa da Misericórdia
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:37Z'
   warnings: []
   errors: []
 ---

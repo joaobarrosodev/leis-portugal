@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2024/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2024-870515826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7ae7484bd2f775633cb9bb808aa78317643334ad7a3c71722c64e5094a43b62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a70ec30a7886fa976e04f5d397d811b326775a46111cfdaf10f5336ba61e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade de Gestão
 - Estrutura de Missão para a Gestão de Fundos Comunitários
 - Fundos CE
-- Política Governamental
-- Secretariado Técnico
 - Gestão de Recursos Humanos
-- Autoridade de Gestão
+- Política Governamental
 - Portugal 2030
+- Secretariado Técnico
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:14/2023
+  label: Altera, a partir de 3 de julho de 2024, o n.º 20 e o anexo da Resolução do Conselho de Ministros n.º 14/2023, de
+    10 de fevereiro, Diário da República n.º 30/2023, Série I
+  source: null
+  date: '2023-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272802:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:08Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +123,7 @@ Nesta circunstância, importa alterar a [Resolução do Conselho de Ministros n.
 
 Assim:
 
-Nos termos do n.º 4 do artigo 13.º, dos n.<sup>os</sup>8 e 9 do artigo 14.º e dos n.<sup>os</sup>2 e 4 do artigo 49.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 4 do artigo 13.º, dos n.os8 e 9 do artigo 14.º e dos n.os2 e 4 do artigo 49.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Alterar o n.º 20 da [Resolução do Conselho de Ministros n.º 14/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2023-207272802), de 10 de fevereiro, o qual passa a ter a seguinte redação:
 
@@ -260,3 +274,5 @@ MAPA XI
 3 - [...]
 
 4 - [...]
+
+117843161

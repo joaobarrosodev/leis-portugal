@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/1996/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-1996-571192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b2450e74767af283d53aefed34753a2e03b322270c2bd2c2d6286c277bfcfdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c7b3cc414c2092b2dd06a78bad698cd65a2e3e8af08f2646c360f84f183b06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Canto
 - Curso de Composição
 - Curso de Instrumento
 - Escola Superior de Música e das Artes do Espectáculo
 - Instituto Politécnico
 - Licenciatura
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:361489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361489:por
+  label: "Revogada, nos termos do art 31º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, pela PORT.628/2001.2001.06.23.ME,\
+    \ DR.IS-B [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-2001-361489
+  date: '2001-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:55Z'
   warnings: []
   errors: []
 ---
@@ -340,8 +358,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 18 de Março de 1996.**
+Assinada em 18 de Março de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/095b00/09310934.pdf))](https://files.diariodarepublica.pt/1s/1996/04/095b00/09310934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/095b00/09310934.pdf)

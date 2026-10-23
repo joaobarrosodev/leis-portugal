@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23600/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/2024/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2024-898989647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ea2846ef2743fb1bc6123922f23f4262548dc50548baf0688b722ff7682ebd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ee2bc56d166239b44a4cd0970f9249b1db9c309b471103b33c1c68aae6d5857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Serviços de Segurança
-- Ministro da Justiça
-- Ministério da Justiça
-- Pessoal de Vigilância
 - Governo XXIV
+- Ministério da Justiça
+- Ministro da Justiça
+- Pessoal de Vigilância
+- Serviços de Segurança
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:33Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +167,7 @@ Considerando que os contratos a celebrar darão lugar a encargos orçamentais no
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigos 36.º, do n.º 1 do artigo 109.º e do artigo 259.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigos 36.º, do n.º 1 do artigo 109.º e do artigo 259.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar as entidades adjudicantes, constantes no anexo i à presente resolução e da qual faz parte integrante, a realizar a despesa relativa à aquisição de serviços de vigilância e segurança, por um período de 24 meses, para os anos de 2025 e 2026, até ao montante máximo global de € 20 101 865,82, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com recurso a procedimento efetuado ao abrigo do acordo-quadro para prestação de serviços de vigilância e segurança (AQ-VS-2022), e a assumir os encargos plurianuais daí decorrentes, até aos montantes máximos ali fixados, respetivamente, por ano económico.
 
@@ -153,11 +185,11 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do
 
 Presidência do Conselho de Ministros, 22 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>1, 3, 4 e 5)
+## ANEXO I — (a que se referem os n.os1, 3, 4 e 5)
 
 Repartição de encargos por entidade adjudicante
 
-| Entidades adjudicantes | Valor 2025(s/IVA) | Valor 2026(s/IVA) | Valor total(s/IVA) | Fonte de financiamento |
+| Entidades<br>adjudicantes | Valor 2025(s/IVA) | Valor 2026(s/IVA) | Valor total(s/IVA) | Fonte de financiamento |
 | --- | --- | --- | --- | --- |
 | Secretaria-Geral do Ministério da Justiça | € 137 024,16 | € 137 310,21 | € 274 334,37 | 541 - Transferências de Receitas Próprias entre organismos |
 | Inspeção-Geral dos Serviços de Justiça | € 24 480,00 | € 24 577,92 | € 49 057,92 | 311 - Receitas de Impostos não afetas a projetos cofinanciados |
@@ -170,11 +202,11 @@ Repartição de encargos por entidade adjudicante
 | Instituto Nacional da Propriedade Industrial, I. P. | € 73 044,20 | € 73 327,08 | € 146 371,28 | 513 - Receitas Próprias do ano - com outras origens |
 | Total | € 10 046 793,66 | € 10 055 072,16 | € 20 101 865,82 |  |
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>2, 4 e 5)
+## ANEXO II — (a que se referem os n.os2, 4 e 5)
 
 Repartição de encargos por entidade adjudicante
 
-| Entidades adjudicantes | Valor 2025(s/IVA) | Valor 2026(s/IVA) | Valor total(s/ IVA) | Fonte de financiamento |
+| Entidades<br>adjudicantes | Valor 2025(s/IVA) | Valor 2026(s/IVA) | Valor total(s/ IVA) | Fonte de financiamento |
 | --- | --- | --- | --- | --- |
 | Supremo Tribunal de Justiça | € 104 384,16 | € 104 539,65 | € 208 923,81 | 541 - Transferências de Receitas Próprias entre organismos |
 | Supremo Tribunal Administrativo | € 65 541,12 | € 65 541,12 | € 131 082,24 | 311 - Receitas de Impostos não afetas a projetos cofinanciados |
@@ -186,3 +218,5 @@ Repartição de encargos por entidade adjudicante
 | Tribunal Central Administrativo Norte | € 27 530,80 | € 27 530,80 | € 55 061,60 | 541 - Transferências de Receitas Próprias entre organismos |
 | Tribunal Central Administrativo Sul | € 32 770,56 | € 32 770,56 | € 65 541,12 | 541 - Transferências de Receitas Próprias entre organismos |
 | Total | € 793 142,34 | € 794 095,97 | € 1 587 238,31 |  |
+
+118414932

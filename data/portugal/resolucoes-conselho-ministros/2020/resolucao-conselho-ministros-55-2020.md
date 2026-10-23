@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/55/2020/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-2020-139209032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c4b05a9810e09c788fb4498ea21d0d336e87f01e2977b56ef19f9d504177f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18dc282ab4af4fe6cd3296ad30fffabbb64b0a65e780d491d839d6757785507c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,53 +66,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Aproximar - Programa de Descentralização de Políticas Públicas
+- Administração Pública
 - Agenda para a Inovação em Portugal
+- Agenda Portugal Digital
+- Apoio ao Investimento
+- Aproximar - Programa de Descentralização de Políticas Públicas
 - Auditoria de Gestão de Recursos Humanos
+- Autarquia Local
+- Centro Nacional de Cibersegurança
+- Chave Móvel Digital
+- Código do Trabalho
 - Comissão Administrativa
-- Tecnologia da Informação
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão Interministerial para a Inovação e Conhecimento
 - Comissão Nacional de Protecção de Dados
+- Competitividade Empresarial
 - Definição de Competências
 - Descentralização
-- Código do Trabalho
-- Agenda Portugal Digital
-- Competitividade Empresarial
-- Administração Pública
-- SIADAP
-- Apoio ao Investimento
-- Comissão de Coordenação e Desenvolvimento Regional
-- Inclusão Digital
-- Sociedade da Informação
-- Intervenção Desconcentrada da Sociedade de Informação
-- Laboratório
+- Desenvolvimento Local
 - Direcção Geral da Qualificação dos Trabalhadores em Funções Públicas
 - Direcção Geral de Protecção Social dos Trabalhadores em Funções Públicas
-- Modernização Tecnológica
-- Programa Simplex
-- Plano de Actividades
-- Internet
-- Portugal Digital
-- Serviço Público
-- Centro Nacional de Cibersegurança
-- REDE Interministerial TIC
-- Proteção Social
-- Teletrabalho
-- Desenvolvimento Local
 - Documento de Enquadramento Estratégico
-- Responsabilidade Solidária
-- Loja do Cidadão
-- Tratado sobre Estabilidade Coordenação e Governação na União Económica e Monetaria
-- Autarquia Local
-- Chave Móvel Digital
-- Programa Nacional para a Coesão Territorial
-- Orçamento Participativo Portugal
-- Sistema de Incentivos à Inovação na Gestão Pública
-- Programa de Valorização do Interior
 - Governo XXII
-- Programa Conciliação e Igualdade de Género
-- Plano de Ação para a Transição Digital
+- Inclusão Digital
+- Internet
+- Intervenção Desconcentrada da Sociedade de Informação
+- Laboratório
+- Loja do Cidadão
 - Medida 11 Estratégia Cloud para a Administração Pública
+- Modernização Tecnológica
+- Orçamento Participativo Portugal
+- Plano de Ação para a Transição Digital
+- Plano de Actividades
+- Portugal Digital
+- Programa Conciliação e Igualdade de Género
+- Programa de Valorização do Interior
+- Programa Nacional para a Coesão Territorial
+- Programa Simplex
+- Proteção Social
+- REDE Interministerial TIC
+- Responsabilidade Solidária
+- Serviço Público
+- SIADAP
+- Sistema de Incentivos à Inovação na Gestão Pública
+- Sociedade da Informação
+- Tecnologia da Informação
+- Teletrabalho
+- Tratado sobre Estabilidade Coordenação e Governação na União Económica e Monetaria
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
@@ -126,16 +126,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130776793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:41Z'
   warnings: []
   errors: []
 ---
@@ -328,15 +340,15 @@ Metas do Eixo 1
 
 Objetivo estratégico 1: Desenvolver e renovar as lideranças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 2: Mobilizar e capacitar os trabalhadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 3: Envolver os trabalhadores na mudança cultural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Eixo 2: Desenvolver a gestão
 
@@ -408,19 +420,19 @@ Metas do Eixo 2
 
 Objetivo estratégico 4: Fortalecer a gestão do desempenho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 5: Planear os recursos humanos de forma integrada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 6: Investir na simplificação administrativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 7: Promover a inovação na gestão pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Eixo 3: Explorar a tecnologia
 
@@ -482,15 +494,15 @@ Metas do Eixo 3
 
 Objetivo estratégico 8: Reforçar a governação global das tecnologias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 9: Melhorar a interoperabilidade e a integração de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 10: Gerir o ecossistema de dados com segurança e transparência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Eixo 4: Reforçar a proximidade
 
@@ -574,16 +586,18 @@ Metas do Eixo 4
 
 Objetivo estratégico 11: Promover a integração e a inclusão no atendimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 12: Incentivar a participação dos cidadãos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 13: Aprofundar a descentralização de competências para as autarquias locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
 
 Objetivo estratégico 14: Fortalecer serviços públicos de proximidade, designadamente através da desconcentração de serviços públicos para o nível regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14800/0000800028.pdf)
+
+113436097

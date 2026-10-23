@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/674/1995/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1995-475764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cc13e6aa3aa6920617208aefa9251453944f8c3536f13b236be1eec53716833
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a5539964c04b95ab32c2ac2409717fd83dfeb8dfe98cadbc959d947ff4d8dc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,18 @@ relationships:
   target: pt:dre:543678:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540175:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 754/94, de 17-Ago, na redacção do presente diploma, pela PORT.988/2000.2000.10.14.MF\
+    \ DR.IS-B [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-2000-540175
+  date: '2000-10-14'
+- type: amended_by
+  target: pt:dre:543678:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 754/94 de 17-Ago, com a redacção deste diploma, pela PORT.449/2003.2003.06.02.MF\
+    \ DR.IS-B [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-2003-543678
+  date: '2003-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
   label: null
@@ -85,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/754/1994/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/754/1994/08/17/p/dre
+- type: cites
+  target: pt:dre:224783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:22Z'
   warnings: []
   errors: []
 ---
@@ -121,10 +145,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Junho de 1995.**
+Assinada em 1 de Junho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Quadro de pessoal do Hospital de Garcia de Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/147b00/41364137.pdf))](https://files.diariodarepublica.pt/1s/1995/06/147b00/41364137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/147b00/41364137.pdf)

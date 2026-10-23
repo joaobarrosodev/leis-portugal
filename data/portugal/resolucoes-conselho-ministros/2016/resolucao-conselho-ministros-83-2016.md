@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2016/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2016-105371716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f7c788e8ce141ace8b4e65ae0f241054d12c8cfd3aeb774339a9173f2af3bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1709ace2a6248c76e50ff6b5c77b963b39b3beccc49d2c6a52450296a3495dd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Ordenamento do Território
 - Definição de Competências
-- Proteção da Floresta
+- Incêndio
 - Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
 - Parque Nacional da Peneda-Gerês
-- Proteção do Ambiente
 - Política de Solos
 - Política Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Proteção do Ambiente
 - Sector Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/11-a/2011/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/11-a/2011/02/04/p/dre
+- type: cites
+  target: pt:dre:337242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644352:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:30Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +242,7 @@ Tendo por base estes princípios e o quadro de problemas já identificado, assum
 
 Estes objetivos gerais desdobram-se em objetivos específicos a que se associarão metas devidamente quantificadas, que explicitarão o resultado esperado dos projetos a inscrever no Plano-Piloto. Os objetivos específicos esclarecem as dimensões da atuação pretendida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Assim no que respeita ao objetivo mencionado supra no n.º 1, pretende-se assegurar a rearborização da área florestal ardida, com recurso às espécies autóctones, a regulação do pastoreio, a reconstituição de habitats naturais perdidos e a monitorização da evolução dos habitats naturais prioritários.
 
@@ -288,7 +296,7 @@ Por fim, é de referir que as ações de conservação de habitats e de gestão 
 
 Apresenta-se de seguida um quadro que relaciona os Projetos com os Objetivos Gerais para os quais concorrem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 6 - Fichas de Projeto
 
@@ -316,7 +324,7 @@ Estimativa orçamental: (euro) 1 233 620,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos (POSEUR)
 
@@ -344,7 +352,7 @@ Estimativa orçamental: (euro) 468 990,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -378,7 +386,7 @@ Estimativa orçamental: (euro) 324 440,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -410,7 +418,7 @@ Estimativa orçamental: (euro) 430 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -442,7 +450,7 @@ Estimativa orçamental: (euro) 503 900,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, PO Norte
 
@@ -468,7 +476,7 @@ Estimativa orçamental: (euro) 250 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -498,7 +506,7 @@ Estimativa orçamental: (euro) 50 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -524,7 +532,7 @@ Estimativa orçamental: (euro) 360 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental
 
@@ -548,7 +556,7 @@ Estimativa orçamental: (euro) 430 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental, POSEUR
 
@@ -580,7 +588,7 @@ Estimativa orçamental: (euro) 574 860,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Norte 2020
 
@@ -602,7 +610,7 @@ Estimativa orçamental: (euro) 3 800 000,00
 
 Cronograma financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23900/0471004717.pdf)
 
 Eventuais fontes de financiamento: Fundo Ambiental
 

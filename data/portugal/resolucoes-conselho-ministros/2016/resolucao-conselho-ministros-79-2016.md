@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/23000/0425304255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79/2016/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2016-105283925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b19de1420f9a0bcc0c1386449657aa36744c38c43e2c1f91235ba6e4978f29dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e56db7e1c416446843baba0f809d3b4b2d54a1382214f82053425e49efc6615e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARTE Rupestre
-- Fundação Côa Parque
 - Fundação
-- Património Arqueológico
+- Fundação Côa Parque
 - Museu de Arte e Arqueologia do Vale do Côa
 - Parque Arqueológico
+- Património Arqueológico
 - Plano de Recuperação e Viabilização
 - Protecção do Património
 - Saneamento Económico e Financeiro
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79-a/2012/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79-a/2012/09/25/p/dre
+- type: cites
+  target: pt:dre:279426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:25Z'
   warnings: []
   errors: []
 ---

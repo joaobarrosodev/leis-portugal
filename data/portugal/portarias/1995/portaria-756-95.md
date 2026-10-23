@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/756/1995/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/756-1995-465987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86fb87f514735fb7b663759893d8592c61bc2da97066f8c0dd5ad5f6e8f0f278
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9dddabd8557a28ef7e1f7b1bd804ff92106d3830a91c9d0b5f3e7d95cd6fc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,19 @@ relationships:
   target: pt:dre:641751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273197:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, pela PORT.649/2004.16.06.2004.MADRP,\
+    \ DR.IS-B [140] de 16.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-2004-273197
+  date: '2004-06-16'
+- type: amended_by
+  target: pt:dre:641751:por
+  label: "Renovada a concessão da zona de caça concessionada pelo presente diploma, alterada pela Port 649/2004 de 16-Jun,\
+    \ e anexados vários prédios rústicos à citada zona de caça, pela PORT.1313/2007.04.10.2007.MAOTDR, DR.IS [192] de 04.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1313-2007-641751
+  date: '2007-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -80,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:17Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +157,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/158b00/43684369.pdf))](https://files.diariodarepublica.pt/1s/1995/07/158b00/43684369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/158b00/43684369.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18
   number: '292'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4532-(18) a 4532-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/292b02/00180020.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745-l/1996/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-l-1996-584815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4ec23f06a61e0724e7b3d168073481e6a88d0179ef96a0f259861cf6d24ed3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbad774c552d1f093c545cf1917db0460f970a252f3d43c87a282e8946a8c2c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempos Livres
+- Desporto
+- Instituto do Desporto
 - Instituto Português da Juventude
 - Jovem
-- Instituto do Desporto
-- Programa Férias Desportivas
 - Política de Juventude
+- Programa Férias Desportivas
 - Regulamento
-- Desporto
+- Tempos Livres
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1993/04/26/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/141/1996/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/141/1996/05/04/p/dre
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665345:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:51Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +132,9 @@ Manda o Governo, pelos Secretários de Estado da Juventude e do Desporto, ao abr
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 17 de Dezembro de 1996.**
+Assinada em 17 de Dezembro de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro. - O Secretário de Estado do Desporto, Júlio Francisco Miranda Calha.**
+O Secretário de Estado da Juventude, António José Martins Seguro. - O Secretário de Estado do Desporto, Júlio Francisco Miranda Calha.
 
 REGULAMENTO DO PROGRAMA FÉRIAS DESPORTIVAS
 

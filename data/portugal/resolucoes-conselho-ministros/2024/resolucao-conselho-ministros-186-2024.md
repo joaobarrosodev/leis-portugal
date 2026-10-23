@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24200/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/186/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/186-2024-900079875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 964f9676c706e98388f0ec5bc726e85519813c10dda39bf8e667bc77bdb653b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f1ca30aa479952f4bd5b19ada1470138493556b0d7019735757e48ab8f769d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/105/2017/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/105/2017/07/19/p/dre
+- type: cites
+  target: pt:dre:107709507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ O Conselho das Finanças Públicas (CFP) é uma entidade administrativa independ
 
 O Conselho Superior é o órgão máximo do CFP, sendo constituído por cinco personalidades de reconhecido mérito, com experiência nas áreas económica e de finanças públicas e com elevado grau de independência, podendo integrar até dois membros não nacionais, preferencialmente de outros Estados membros da União Europeia, conforme estabelecem os artigos 11.º e 12.º do respetivos Estatutos.
 
-Nos termos do disposto no n.º 1 do artigo 13.º e nos n.<sup>os</sup>1 e 3 do artigo 14.º dos Estatutos do CFP, os membros do respetivo Conselho Superior são nomeados pelo Conselho de Ministros, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal, para um mandato com duração de sete anos, não renovável, salvo no caso dos dois vogais não executivos, cujo mandato pode ser renovado uma única vez.
+Nos termos do disposto no n.º 1 do artigo 13.º e nos n.os1 e 3 do artigo 14.º dos Estatutos do CFP, os membros do respetivo Conselho Superior são nomeados pelo Conselho de Ministros, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal, para um mandato com duração de sete anos, não renovável, salvo no caso dos dois vogais não executivos, cujo mandato pode ser renovado uma única vez.
 
 Acresce que os membros do conselho superior do CFP não podem ser todos do mesmo género, conforme dispõe o n.º 7 do artigo 12.º dos Estatutos.
 
@@ -167,3 +179,5 @@ Tem vasta experiência na análise e composição da conta das administrações 
 É presidente do Conselho de Acompanhamento das Políticas Financeiras, desde março de 2018, sendo ainda membro de diversos grupos de trabalho na área da estatística e de contas nacionais, tais como: Estatísticas das Administrações Públicas, Estatísticas do PDE no Eurostat (EDP Statistics Working Group) e subcomité de estatísticas do Comité Económico e Financeiro da Comissão Europeia.
 
 É técnica superior especialista em estatística do mapa de pessoal do Instituto Nacional de Estatística, I. P. (INE, I. P.), onde exerceu funções entre 2001 e 2012, em particular na área da Conta das Administrações Públicas.
+
+118454233

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21700/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,26 +46,39 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/173/2025/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2025-945116917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0533b3d9cc3765360d1b846df0b7a24560bce0561a1b6ead68da175fc69be0a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c043a77cbc96d1b7eedc611032f858a427665ab8948467ed54a43021950585c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Unidade Local de Saúde do Alentejo Central
+- Vogal
 relationships:
+- type: amended_by
+  target: pt:dre:1178225512:por
+  label: Exonerado, com efeitos a 01 de outubro de 2026, o vogal executivo, enfermeiro-diretor do conselho de administração
+    da Unidade Local de Saúde do Alentejo Central, E. P. E., Emanuel António Zambujo Boieiro, designado pela presente Resolução
+    do Conselho de Ministros, pelo(a) Resolução do Conselho de Ministros n.º 195/2026 - Diário da República n.º 195/2026,
+    Série I de 2026-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/195-2026-1178225512
+  date: '2026-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -90,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204011804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:20Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +155,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde do Alentejo Central, E. P. E., o presidente e quatro vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -150,9 +187,9 @@ Carlos António Mateus Gomes
 
 Carlos António Mateus Gomes, nascido em 8 de maio de 1964 (61 anos), morador em Arraiolos, distrito de Évora, casado, licenciado Pré-Bolonha em 1988 em Organização e Gestão de Empresas pelo ISCTE (Instituto Superior de Ciências do Trabalho e da Empresa). Pós-graduado no Programa de Alta Direção para a Saúde (PADIS) da AESE, pós-graduado em Gestão de Equipas pela AESE, pós-graduado em Gestão de Unidades de Saúde pelo ISCPS e ainda Curso de Qualidade nos Serviços de Saúde públicos e privados e Curso de Auditor Interno de Qualidade na Saúde, pelo ISCPS.
 
-É atualmente gerente da sociedade Biocrumb, L.<sup>da</sup> (padaria biológica) detentora da marca registada «MIOLO» e também gerente da Habitual Cálculo, Consultoria Unipessoal L.<sup>da</sup>, microempresa de consultoria.
+É atualmente gerente da sociedade Biocrumb, L.da (padaria biológica) detentora da marca registada «MIOLO» e também gerente da Habitual Cálculo, Consultoria Unipessoal L.da, microempresa de consultoria.
 
-Foi sócio fundador da empresa Referência Célebre, L.<sup>da</sup>, detentora da marca registada «SAÚDE@HOME» desde 2017 até janeiro de 2025 e com atividade empresarial em Portugal e Angola. Foi entre 2012 e 2016 vogal executivo do conselho de administração do Hospital do Espírito Santo de Évora com responsabilidades de gestão, especialmente nas áreas dos recursos humanos, gestão de utentes, formação, segurança e hoteleira. foi diretor financeiro e diretor-geral das empresas Grupo Português de Saúde e UNIMED. Foi administrador-delegado do Hospital da Cruz Vermelha Portuguesa, em Lisboa e ainda auditor interno do Millenniumbcp, a nível nacional.
+Foi sócio fundador da empresa Referência Célebre, L.da, detentora da marca registada «SAÚDE@HOME» desde 2017 até janeiro de 2025 e com atividade empresarial em Portugal e Angola. Foi entre 2012 e 2016 vogal executivo do conselho de administração do Hospital do Espírito Santo de Évora com responsabilidades de gestão, especialmente nas áreas dos recursos humanos, gestão de utentes, formação, segurança e hoteleira. foi diretor financeiro e diretor-geral das empresas Grupo Português de Saúde e UNIMED. Foi administrador-delegado do Hospital da Cruz Vermelha Portuguesa, em Lisboa e ainda auditor interno do Millenniumbcp, a nível nacional.
 
 Profissionalmente destaca-se também a experiência na elaboração de business plan, elaboração de dossiers de candidatura e submissão de projetos de investimento no âmbito dos apoios da União Europeia. Prestou ainda serviços de consultoria digital em empresa de serviços na área da moda e colocação de pessoal em regime de outsourcing. Foi responsável de equipa de gestão do projeto e pela relação entre os Parceiros do Projeto, nomeadamente o Millenniumbcp e a IBM e coordenação geral da internacionalização para Moçambique da Parceria Millenniumbcp/IBM. Como outras atividades curriculares destacam-se ainda ter sido orador convidado (anos de transição do escudo para o euro) - «Implicações da Moeda Única para as Empresas», promovido pelo Banco Comercial Português, a nível nacional; Elaboração de publicação sobre o impacto do EURO nas empresas (Grupo BCP/Atlântico); Orador «Encerramento das Contas de 1999 e 2000: o 1.º ano com o EURO», patrocinado pelo Millenniumbcp e IBM; Autor do livro Como Planear, publicado na revista Exame em 1998, patrocinado pelo BCP; Orador «Como Investir em Moçambique» patrocinado pelo Millenniumbcp em 1998; Curso de Primeiros Socorros efetuado em 2011 e suporte básico de vida em 2014; Formação em «Trabalhar as Emoções», em 2015; Curso de Sisqual em 2015 - Recursos Humanos - Team Managment Suite.
 
@@ -203,3 +240,5 @@ Emanuel António Zambujo Boieiro, nascido em 23 de janeiro de 1981 (44 anos), so
 É atualmente enfermeiro especialista em Enfermagem de Reabilitação na UCC Ponte para a Saúde (Coruche) na Unidade Local de Saúde da Lezíria e também presidente da Direção do SNE - Sindicato Nacional dos Enfermeiros.
 
 Profissionalmente, destaca-se a experiência de prestação de cuidados como enfermeiro no Serviço de Hematologia (2004-2006) e Serviço de Medicina Interna 2.3/Dermatologia (2006-2012) do Hospital dos Capuchos no Centro Hospitalar de Lisboa Central, E. P. E., e como enfermeiro especialista em Enfermagem de Reabilitação no Serviço de Medicina Interna 1.4 (2012-2015) e Serviço de Cirurgia (2015-2018) no Hospital de São José no Centro Hospitalar de Lisboa Central, E. P. E. Em janeiro de 2018 iniciou funções na UCC Ponte para a Saúde (Coruche) no ACES Lezíria/ ARSLVT (2018-2023) e Unidade Local de Saúde da Lezíria, E. P. E., desde janeiro de 2024 até à atualidade, com a assunção de responsabilidades na liderança de equipas multidisciplinares, supervisão clínica e formação, para além de cuidados de enfermagem especializados em reabilitação. É membro do Colégio de Especialidade de Enfermagem de Reabilitação (desde 2012). Fundador e presidente do SNE - Sindicato Nacional dos Enfermeiros (desde 12 de fevereiro de 2022), é especialista em negociação coletiva, tendo participado na negociação com o XXIII Governo do decreto-lei que permitiu a contagem de todo o tempo de exercício profissional dos enfermeiros ([Decreto-Lei n.º 80-B/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-b-2022-204011804), de 28 de novembro), na negociação do acordo com o setor privado através da convenção coletiva de trabalho com a Associação Portuguesa de Hospitalização Privada em 2024, na negociação dos acordos de empresa com a Santa Casa da Misericórdia de Lisboa em 2024 e 2025 e na negociação do acordo com o XXIV Governo para valorização salarial dos enfermeiros do SNS (Decreto-Lei n.º 111/2024, de 19 de dezembro). Foi secretário-executivo da UGT Portugal de 27 de junho de 2019 a 14 de fevereiro de 2022 com a coordenação de três pelouros (Envelhecimento Activo, Inclusão da Pessoa com Deficiência e Organizações não Governamentais) tendo integrado ainda cinco outros pelouros (Saúde, Segurança Social, Negociação Coletiva, Sector Público Empresarial e Ação Sindical) com responsabilidades em vários grupos de trabalho e conselhos consultivos a nível nacional e internacional. Membro do Conselho Nacional de Saúde (entre setembro de 2021 e fevereiro de 2022). Vogal do Conselho Fiscal da Secção Regional do Sul da Ordem dos Enfermeiros entre 30 de janeiro de 2016 e novembro de 2016 (mandato 2015-2019). Autor de vários trabalhos técnico-científicos na área de especialização, na área sindical, das políticas de Saúde e Enfermagem.
+
+119742547

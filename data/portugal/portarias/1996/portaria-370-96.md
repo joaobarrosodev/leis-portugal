@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/370/1996/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1996-406679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7235518c1af9e082fe7f0380baa316ca6bc9e0658da88d6671e67d61ccff3a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a2b8fbb907ce007f60594f3f6abe70928ab2797c507cabff988b05b73a05168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1326/1993/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1326/1993/12/31/p/dre
+- type: cites
+  target: pt:dre:151505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:02Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +117,6 @@ Manda o Governo, pelos Ministros das Finanças, da Economia e Adjunto, que sejam
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Economia.
 
-**Assinada em 16 de Julho de 1996.**
+Assinada em 16 de Julho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.

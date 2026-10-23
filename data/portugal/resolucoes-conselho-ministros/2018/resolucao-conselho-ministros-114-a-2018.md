@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 170/2018, 1º Suplemento, Série I de 2018-09-04
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4444-(2) a 4444-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/114-a/2018/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-a-2018-116330692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1913525442e02228f7885b82a9bbbc6c7f9e9bd7aaf7f21b575f2732597e21c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1e1559c2f1b2f7bd4b1ed6472722f285f87cfb8df6ac7d87fd4ed37ef8dfe72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
 - Comissão de Acompanhamento
 - Definição de Competências
-- Jovem
 - Instituto Português do Desporto e Juventude
-- Protecção à Juventude
-- Política de Juventude
+- Jovem
+- Juventude
 - Plano Nacional para a Juventude
+- Política de Juventude
+- Protecção à Juventude
 relationships:
 - type: amended_by
   target: pt:dre:222877160:por
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:41Z'
   warnings: []
   errors: []
 ---
@@ -244,25 +244,25 @@ Educação formal e não formal
 
 Prioridade: Garantir a efetivação do direito ao ensino e à educação numa perspetiva holística e inclusiva, designadamente aproximando os domínios das aprendizagens não formal e informal ao sistema educativo formal, centrando-se no desenvolvimento e reconhecimento de competências, com vista à integração das pessoas jovens na vida ativa e ao exercício da cidadania e da participação cívica, considerando as suas condições específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Emprego
 
 Prioridade: Promover a efetivação do direito ao emprego digno e inclusivo, generalizando um mais rápido e melhor acesso ao primeiro emprego e combatendo a precariedade, com vista à sustentabilidade do processo emancipatório e criação de autonomia das pessoas jovens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Habitação
 
 Prioridade: Promover a efetivação do direito à habitação, garantido o acesso das pessoas jovens a uma habitação adequada, entendida no sentido amplo de habitat e orientada para as pessoas, contribuindo para a sustentabilidade do processo emancipatório e criação de autonomia das pessoas jovens e para um maior grau de liberdade na mobilidade estudantil, profissional e familiar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Saúde
 
 Prioridade: Garantir a efetivação do direito à saúde, tendo em consideração as dimensões bio-psico-sociais particulares desta fase da vida na promoção de políticas e programas de saúde e de um estilo de vida saudável, com vista ao bem-estar das pessoas jovens e à aquisição de competências que potenciem a qualidade de vida adulta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Temas-chave
 
@@ -270,19 +270,19 @@ Ambiente e desenvolvimento sustentável
 
 Prioridade: Garantir o envolvimento e a participação das pessoas jovens no cumprimento dos Objetivos de Desenvolvimento Sustentável e da Agenda 2030, assegurando, da mesma forma, que estes encontram ações, medidas e objetivos inclusivos desenvolvidos para e com pessoas jovens, monitorizando e avaliando o seu impacto na juventude.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Governança e participação
 
 Prioridade: Promover práticas de governança multinível, inclusivas, participadas e participativas, com vista ao reforço institucional das políticas de juventude.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Igualdade e inclusão social
 
 Prioridade: Promover a efetivação do direito à igualdade e inclusão social de todas as pessoas jovens, combatendo a exclusão social e todas as formas de desigualdade e discriminação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Outras Áreas Relevantes
 
@@ -290,43 +290,43 @@ Administração Interna
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Agricultura, Florestas e Desenvolvimento Rural
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Cultura
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Defesa
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Desporto
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Justiça
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Mar
 
 Prioridade: Promover a transversalidade das políticas de juventude em todas as áreas governativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17001/0000200048.pdf)
 
 Glossário da Estrutura do Plano Nacional para a Juventude
 
@@ -607,3 +607,5 @@ TNSC - Teatro Nacional São Carlos
 TNSJ - Teatro Nacional São João, E. P. E.
 
 UE - União Europeia
+
+111621972

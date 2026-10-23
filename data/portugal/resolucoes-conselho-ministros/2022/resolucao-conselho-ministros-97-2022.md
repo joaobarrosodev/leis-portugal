@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20500/0006800073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2022/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2022-202552709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00fd8c5c0d4198ee763885ee873ea6b542f40a6f22a9016c4b207b230e30f693
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 719d66c72806e83257a15bc0cc85012a7965d77a16ffc155233b88fd0451be9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
+- Anadia
 - Aquisição de Bens e Serviços
+- Autarquia Local
 - Autorização de Despesas
-- Ministro da Saúde
+- Combustível
 - Conselho de Ministros
+- Conselho Diretivo
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
-- Combustível
-- Presidência da República
-- Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro das Finanças
-- Anadia
-- Conselho Diretivo
+- Entidade de Serviços Partilhados da Administração Pública
+- Gás Natural
+- Governo XXIII
 - Junta de Freguesia
 - Lamego
-- Entidade de Serviços Partilhados da Administração Pública
-- Ministro da Ciência Tecnologia e Ensino Superior
-- Presidência do Conselho de Ministros
-- Ribeira de PENA
-- Ministro da Defesa Nacional
-- Ministro da Educação
 - Ministro da Administração Interna
-- Tagusparque
-- Autarquia Local
-- VILA Pouca de Aguiar
-- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro da Agricultura e da Alimentação
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Coesão Territorial
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia e do Mar
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Saúde
+- Ministro das Finanças
 - Ministro das Infraestruturas e da Habitação
 - Ministro do Ambiente e da Ação Climática
-- Ministro da Coesão Territorial
-- Governo XXIII
-- Ministro da Economia e do Mar
-- Ministro da Agricultura e da Alimentação
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Presidência da República
+- Presidência do Conselho de Ministros
+- Ribeira de PENA
+- Tagusparque
+- VILA Pouca de Aguiar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
@@ -130,16 +130,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:23Z'
   warnings: []
   errors: []
 ---
@@ -180,4 +208,6 @@ Presidência do Conselho de Ministros, 13 de outubro de 2022. - O Primeiro-Minis
 
 ## ANEXO — (a que se referem os n.os 1, 2 e 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/10/20500/0006800073.pdf))](https://files.diariodarepublica.pt/1s/2022/10/20500/0006800073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/10/20500/0006800073.pdf)
+
+115804067

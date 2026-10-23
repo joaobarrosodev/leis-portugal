@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/135/2025/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2025-934744197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b5e41a1c87f3b2443c78d30aec3b6a5f4ea00c36b73e5ae5ba3725a5645f514
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173fd31028bff9e3faa5a83cfdeb0483c9c5155d99d607ff938f38978affc69e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Alienação de Participações do Estado
 - Caixa Geral de Depósitos
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
 - Empresa Participada
-- Setor Empresarial do Estado
 - Privatização
+- Regulamentação de Atos Legislativos
+- Setor Empresarial do Estado
 - Setor Público
 relationships:
 - type: cites
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/9/2023/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/2023/02/03/p/dre
+- type: cites
+  target: pt:dre:114406168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115502168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123675745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134022074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163332290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207026136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:26Z'
   warnings: []
   errors: []
 ---
@@ -142,3 +166,5 @@ Nos termos do artigo 1.º, do n.º 4 do artigo 2.º e do n.º 1 do artigo 5.º d
 4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 4 de setembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119514556

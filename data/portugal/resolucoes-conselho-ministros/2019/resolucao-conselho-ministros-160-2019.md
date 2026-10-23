@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18500/0000500008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/160/2019/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2019-125002928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23f4fe371edf6407afff09f5636b0ca39a62f0751740c92349b40d9a1986a710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2950023bd0a83a2eadfde2d96fd28fb738f850da6102223e08d00d8652adf61f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Incêndio
 - Autorização de Despesas
-- Transporte Aéreo
 - Conselho de Ministros
-- Força Aérea
 - Delegação de Competências
-- Ministro da Defesa Nacional
 - Equipamento de Combate a Incêndios
+- Força Aérea
 - Governo XXI
+- Incêndio
+- Ministro da Defesa Nacional
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dr
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/2019/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/2019/01/10/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116747965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117658785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117663340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606156:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:44Z'
   warnings: []
   errors: []
 ---
@@ -262,3 +302,5 @@ v) 2023 - (euro) 10 000,00.»
 15 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 5 de setembro de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+112607978

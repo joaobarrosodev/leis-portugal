@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/72/2021/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2021-164870234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4c071de81468ddb2b73b40d1578276998905d9affea0ec229eba625f476bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 050b82c0b45394887d3da4b7dc39f12de327bd2260d22da911817af9a9178d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Ministério da Defesa Nacional
 - Conselho de Ministros
-- Portugal
 - Delegação de Competências
-- Marinha
-- Ministro da Defesa Nacional
 - Governo XXII
+- Marinha
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
@@ -115,16 +115,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: pt:dre:107725088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122592080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:11Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +195,7 @@ Em concomitância, a revisão compreende, naturalmente, a incorporação dos req
 
 Ainda nesta vertente, o estabelecimento de uma arquitetura de sistemas SEWACO (SEnsors WeApons And COmmunications), comum a diferentes classes de navios, e a outros programas de reequipamento da Marinha Portuguesa, constitui-se como um instrumento para assegurar o adequado desempenho operacional, desde logo no seu processo de aquisição, pelo fator de escala que induz e, sobretudo, na operação, formação e treino, e sustentação, ao longo do respetivo ciclo de vida. Esta abordagem, potenciadora de sinergias e de eficiência económica, configura-se ainda como uma oportunidade para as indústrias de defesa nacionais, através do estabelecimento e exploração de parcerias para a respetiva capacitação, com o objetivo de assegurar a sustentação destes sistemas comuns, ao longo do respetivo ciclo de vida, ancorada em sistemas com elevado índice tecnológico e produção com elevado valor acrescentado.
 
-# Parte dos sistemas que irão ser instalados nos navios serão provenientes deste programa, constituindo-se assim como material de fornecimento do Estado, a providenciar pelo Ministério da Defesa Nacional (MDN), devendo os respetivos encargos estar previstos no programa de aquisição e construção dos NPO da 3.ª série, obedecendo a uma estruturação de partilha de custos entre programas.
+Parte dos sistemas que irão ser instalados nos navios serão provenientes deste programa, constituindo-se assim como material de fornecimento do Estado, a providenciar pelo Ministério da Defesa Nacional (MDN), devendo os respetivos encargos estar previstos no programa de aquisição e construção dos NPO da 3.ª série, obedecendo a uma estruturação de partilha de custos entre programas.
 
 É assim imperativo prosseguir a edificação da capacidade de vigilância e fiscalização na vertente oceânica, de forma a assegurar o sistema de forças, em consonância com as orientações e determinações decorrentes do Conceito Estratégico de Defesa Nacional, aprovado pela [Resolução do Conselho de Ministros n.º 19/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2013-259967), de 5 de abril, com o Conceito Estratégico Militar e com as Missões das Forças Armadas.
 
@@ -195,7 +239,7 @@ Programa de aquisição de seis Navios de Patrulha Oceânicos
 
 Calendário de entregas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf)
 
 ## ANEXO II — (a que se referem os n.os 2 a 4)
 
@@ -203,7 +247,7 @@ Programa de aquisição de seis Navios de Patrulha Oceânicos
 
 Montantes máximos da despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11100/0002800033.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4)
 
@@ -242,3 +286,5 @@ c) Uma componente final indexada à performance dos serviços prestados, medida 
 8 - A IdD, S. A., deve explorar, na máxima extensão possível e no respeito pelo quadro legal aplicável, a participação da indústria nacional no programa de aquisição em causa, tendo em conta designadamente os requisitos de segurança de abastecimento e de segurança da informação, que vierem a ser definidos, quer na fase de construção dos navios, quer na perspetiva da fase de manutenção dos navios durante o seu ciclo de vida, e maximizar as parcerias internacionais que se mostrem ajustadas, nomeadamente tendo em conta a participação portuguesa em projetos cooperativos no âmbito da União Europeia ou da Organização do Tratado do Atlântico Norte.
 
 9 - Todos os contratos outorgados em representação do MDN, em execução do Programa de Aquisição dos seis NPO, serão remetidos a «visto prévio» ou a «declaração de conformidade» pelo Tribunal de Contas, nos termos da lei.
+
+114284848

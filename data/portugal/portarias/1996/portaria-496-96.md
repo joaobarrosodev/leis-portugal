@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/496/1996/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-1996-219483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c57c534c2c4f381a366e29177dcfc9076ac6f3b8aae209cae22f36ef24bf2ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 759d652fcf6c0a6f81b76e8091cebfb6089211016178846b14076eb2dd3b1f2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Curso de Estudos Superiores Especializados em Gestão de Empresas de Turismo
-- Produção Cinematográfica
-- Instituto Português da ARTE Cinematográfica e Audiovisual
 - Cinema
+- Curso de Estudos Superiores Especializados em Gestão de Empresas de Turismo
+- Financiamento
 - Indústria Cinematográfica
+- Instituto Português da ARTE Cinematográfica e Audiovisual
+- Produção Cinematográfica
 - Subsídio
 - Subsídio não Reembolsável
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:621142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193582:por
+  label: "Mantida em vigor pelo DEC LEI.15/99.1999.01.15.MC DR.IS-A [12], até à aprovação das respectivas normas de execução.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1999-193582
+  date: '1999-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -86,16 +92,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621141:por
+  label: "Revogados os artºs 12º e 16º, e na parte em que se aplicam à produção de documentários os arts. 1º, 2º, 3º, 4º,\
+    \ 5º, 6º, 7º, 8º, 9º, 10º, 13º, 14º, 17º, 19, 20º e 21º do Regulamento aprovado pela presente Portaria, pela PORT.1166/2001.2001.10.04.MC\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1166-2001-621141
+  date: '2001-10-04'
+- type: repealed_by
+  target: pt:dre:621142:por
+  label: "Revogados os arts. 11º, 15º, 18º e na parte em que se aplicam ao desenvolvimento de documentários os arts. 1º, 2º,\
+    \ 3º, 5º, 6º, 7º, 8º, 9º, 10º, 13º, 14º, 17º, 19º, 20º, 21º, pela PORT.1167/2001.2001.10.04.MC, DR.IS-B [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1167-2001-621142
+  date: '2001-10-04'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:03Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +145,7 @@ Manda o Governo, pelo Ministro da Cultura, que seja aprovado o Regulamento de Ap
 
 Ministério da Cultura.
 
-**Assinada em 22 de Agosto de 1996.**
+Assinada em 22 de Agosto de 1996.
 
 Pelo Ministro da Cultura, Rui Vieira Nery, Secretário de Estado da Cultura.
 

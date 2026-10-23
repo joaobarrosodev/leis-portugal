@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/120/2025/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2025-928506358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d0ed6b3d4899e5cf0394cb86f081343fe9651c23b06f3a7cccfcc7f374b5235
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53cd2898782d3999520053a1771d9430c8dd5c2667d678e9be898524b2b5870f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
-- Proteção do Ambiente
 - Águas Residuais
 - Desenvolvimento Económico
-- Abastecimento de Água
 - Plano Estratégico para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030
+- Proteção do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:23/2024
+  label: Altera, a partir de 13 de agosto de 2025, nos termos do n.º 4 do presente diploma, o volume 1 do Plano Estratégico
+    para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030, aprovado pela Resolução do Conselho de Ministros
+    n.º 23/2024, de 5 de fevereiro, Diário da República n.º 25/2024, Série I
+  source: null
+  date: '2024-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/109/2024/08/22/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
+- type: cites
+  target: pt:dre:840278736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885032308:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:07Z'
   warnings: []
   errors: []
 ---
@@ -143,3 +158,5 @@ Ações transversais de incentivo e estímulo à melhoria do setor, nomeadamente
 Estes objetivos estratégicos são beneficiados por lógicas de agregação e de exploração de economias de escala e/ou de gama, justificando-se um critério de distribuição de apoios públicos que incentive projetos que as promovam. Deste modo, podem concorrer aos apoios públicos todos os municípios, quer concorram agregados, quer concorram sozinhos. Aos municípios que concorram sozinhos sem fazer prova de que não se pode agregar, é atribuída uma taxa de financiamento inferior, equivalente a uma redução de 15 pontos percentuais na taxa de financiamento aplicável. Contudo, ao ser identificada a necessidade de reforçar as políticas de financiamento de investimentos relativos ao Ciclo Urbano da Água relativamente às especificidades dos territórios, determinando uma maior flexibilidade na atribuição dos apoios no âmbito do Quadro Financeiro Plurianual - Portugal 2030, todos os municípios que integrem regiões hidrográficas com índice de escassez (WEI+) igual ou superior a 50 %, conforme o Plano de Gestão da respetiva região hidrográfica, quer concorram agregados, quer concorram sozinhos, podem aceder aos apoios públicos sem qualquer penalização associada. Em paralelo, devem merecer prioridade as situações identificadas com passivos ambientais graves no setor, bem como as situações no domínio da resiliência e do combate à escassez de água. No que se refere aos passivos ambientais graves, a prioridade dos apoios públicos deve ser dirigida às situações identificados pela APA, IP, na tabela 1, promovendo uma articulação estreita do Plano com os objetivos constantes da legislação que resulta da transposição da Diretiva Quadro da Água para a melhoria da qualidade das massas da água.
 
 [...].»
+
+119419519

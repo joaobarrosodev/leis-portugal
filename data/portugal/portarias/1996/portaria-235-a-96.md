@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 148/1996, 1º Suplemento, Série I-B de 1996-06-28
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1682-(2) a 1682-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/148b01/00020007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235-a/1996/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-a-1996-496529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d7dd6cfed6d944741a2d5d066c4e69472886d9fdb40f24112c0ce9b8c60c317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63f466208ae9b9852a290cbf133699c6666474fc67964f1a34e6d6e55fe3f2e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Formação Sindical e Aperfeiçoamento Profissional
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:70064735:por
+  label: Homologada a alteração ao protocolo que criou o CEFOSAP, publicado em anexo ao presente diploma pelo(a) Portaria
+    n.º 258/2015 - Diário da República n.º 163/2015, Série I de 2015-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/258-2015-70064735
+  date: '2015-08-21'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:34Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +112,9 @@ Manda o Governo, pela Ministra para a Qualificação e o Emprego, o seguinte:
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 7 de Junho de 1996.**
+Assinada em 7 de Junho de 1996.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 PROTOCOLO
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02000/0020700208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/7/2021/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2021-155732596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26c094320d5341d12540b324f8fbd1bd3682d9779741e39d7205a3e5f5f997b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5ee46a6147c82dd0659e07260e3a5f87b1a140990ddd47e0889622b35265cf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Governo XXII
+- Ministério do Trabalho Solidariedade e Segurança Social
+- Ministro do Trabalho Solidariedade e Segurança Social
 - Pessoal de Limpeza
 - Produto de Limpeza
-- Ministro do Trabalho Solidariedade e Segurança Social
-- Ministério do Trabalho Solidariedade e Segurança Social
-- Governo XXII
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/139/2015/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/139/2015/05/20/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:07Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +159,6 @@ Presidência do Conselho de Ministros, 21 de janeiro de 2021. - O Primeiro-Minis
 
 Repartição de encargos pelas entidades adjudicantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/02000/0020700208.pdf))](https://files.diariodarepublica.pt/1s/2021/01/02000/0020700208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/02000/0020700208.pdf)
+
+113917756

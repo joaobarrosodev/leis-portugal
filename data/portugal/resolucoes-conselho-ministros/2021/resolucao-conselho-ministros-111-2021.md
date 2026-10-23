@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111/2021/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2021-169418565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4304cf101fa61bdf7c330c89f61e75ae5befdc156c6daf325762cac65816a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c07eb2178996bcfd192b0359c905ae0049534148cfe93a38e9fc25225bbaec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Caminha
-- Ordenamento do Território
-- Domínio Público do Estado
-- Espinho
-- Protecção do Litoral
 - Comissão de Coordenação e Desenvolvimento Regional
+- Domínio Público do Estado
+- Domínio Público Hídrico
+- Espinho
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
 - Política de Solos
 - Prazo
-- Domínio Público Hídrico
-- Agência Portuguesa do Ambiente
+- Protecção do Litoral
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -122,6 +122,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+- type: cites
+  target: pt:dre:107987275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75025069:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -129,13 +213,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:36Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +354,7 @@ a) Zona Marítima de Proteção, que corresponde à "faixa compreendida entre a 
 
 b) Zona Terrestre de Proteção, que "é composta pela margem das águas do mar e por uma faixa, medida na horizontal, com uma largura de 500 m, contados a partir da linha que limita a margem das águas do mar, podendo ser ajustada para uma largura máxima de 1000 m quando se justifique acautelar a integração de sistemas biofísicos fundamentais no contexto territorial objeto do plano".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 1 - Âmbito territorial do POC-CE
 
@@ -282,7 +366,7 @@ Como previamente referido, o processo de programação estende-se a toda a orla 
 
 Na área de intervenção do POC-CE é proposto o aumento de 500 para 1000 m nas situações em que ocorre uma continuidade e interdependência dos sistemas biofísicos costeiros, nomeadamente áreas consideradas geologicamente dunares e nas áreas em que há uma interdependência dos sistemas costeiros e hídricos. É, assim, proposto o alargamento da área de intervenção do POC-CE nas áreas dos estuários do Minho, Lima, Âncora, Neiva, Cávado, Ave e Douro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 2 - Área de intervenção do POC-CE
 
@@ -300,7 +384,7 @@ A riqueza natural e a diversidade paisagística associada à área em estudo ref
 
 No passado, este sector já apresentava problemas relacionados com os processos de dinâmica costeira. Algumas ocorrências de natureza erosiva já se manifestavam em meados do século passado. Contudo, a presença de um importante cordão dunar relativamente bem preservado constituía um importante mecanismo de resiliência aos processos erosivos. Nalguns casos, ocorriam grandes fluxos sedimentares decorrentes de transporte eólico, que levavam à formação de extensas coberturas arenosas, com dunas, que se alastravam e cobriam zonas mais interiores, prejudicando as atividades agrícolas que aí se desenvolviam. Nesta fase, observou-se desenvolvimento e expansão de extensas zonas de dunas (Figura 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 3 - A - Campo dunar a norte da Amorosa, 1973; B - Zona a norte da Amorosa, 2012; C - Campo dunar a sul do rio Neiva, 1973; D - Zona a sul do rio Neiva, 2012
 
@@ -308,13 +392,13 @@ A partir da década de oitenta do século passado, e durante as décadas seguint
 
 Estes fatores de origem antrópica conjugaram-se com processos de origem natural, que já apresentavam, desde o início do século xx, tendência para forçar a regressão da faixa costeira. Salienta-se a subida do nível médio da água do mar e a penúria de fornecimento sedimentar aos espaços costeiros, quer provocada pela própria subida do nível do mar, quer pela construção de barragens nos cursos dos principais rios deste trecho, sensivelmente iniciada em meados do século passado. A pressão erosiva que se tornou evidente sobre alguns núcleos urbanos importantes conduziu à decisão de construção de inúmeras obras de defesa costeira com engenharia pesada. Estas obras resolveram localmente alguns problemas, mas contribuíram também para aumentar a pressão erosiva noutras zonas, nomeadamente a sul de estruturas transversais do tipo esporão. Assistiu-se, desde a década de 80, a uma forte mobilidade e reconfiguração da linha de costa neste trecho. Um dos exemplos é a praia da Bonança, em Ofir, que se mantém como um dos sectores deste trecho costeiro em que a erosão é mais evidente (Figura 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 4 - Evolução da praia da Bonança, em Ofir - Esposende, entre os anos de 1965 e 2012
 
 Embora não haja a desejável disponibilidade de linhas de costa vetorizadas para todo o trecho Caminha-Espinho, a análise da mobilidade das linhas de costa disponíveis permitiu concluir que existem sectores importantes em erosão. Alguns deles apresentam tendência erosiva para todo o intervalo temporal em análise, nalguns casos desde 1958 (data da linha de costa mais antiga) até 2012 (data da linha de costa mais recente). Noutros casos, há sectores que apresentavam tendência erosiva no passado e que, fundamentalmente após a construção de obras de defesa costeira, passaram a apresentar tendência de acreção. Os exemplos mais evidentes são o sector a norte da Pedra Alta e o sector da restinga de Ofir, a norte do esporão colocado mais a norte nesta estrutura arenosa natural. Alguns sectores que apresentavam uma tendência estável ou moderadamente erosiva até aos anos 90 do século passado passaram a migrar a um ritmo mais intenso a partir desta década até à atualidade. Na maioria dos casos de estabilidade ou tendência moderadamente erosiva, a presença de afloramentos rochosos parece ter desempenhado um papel fundamental de resiliência à pressão erosiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 5 - Evolução da Linha de Costa na praia da Bonança, Ofir - Esposende, entre 1958 e 2012
 
@@ -338,7 +422,7 @@ A situação de referência carateriza a situação anterior à existência de u
 
 Na situação atual, considerada representativa das últimas duas décadas, de acordo com o GTL, o balanço sedimentar na célula 1 alterou-se - a atividade antrópica no litoral e nas bacias hidrográficas potenciou uma acentuada redução no fornecimento sedimentar. Para tentar contrariar esta tendência e minimizar o risco em zonas costeiras com ocupação humana, foram construídas numerosas obras rígidas de engenharia costeira (paredões e esporões) que conduziram à crescente artificialização da linha de costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Subcélula (1a): litoral compreendido entre «[...] a foz do rio Minho e a foz do rio Douro, o litoral corresponde a uma costa rochosa baixa que se desenvolve com orientação NNW-SSE. Apresenta numerosas praias de areia e cascalho, por vezes extensas, que frequentemente ocorrem na dependência da foz das linhas de água que drenam para esta subcélula. O desenvolvimento das praias encontra-se muito associado à geometria do substrato rochoso, existindo pequenos tômbolos enraizados em afloramentos graníticos. A planície litoral, que corresponde a uma plataforma de abrasão fóssil, encontra-se por vezes coberta por dunas. Na situação de referência o fornecimento sedimentar associado aos rios Minho, Lima, Cávado e Ave... pode ser estimado em 2 x 105m3ano-1» (GTL, 2014).
 
@@ -346,7 +430,7 @@ Figura 6 - Célula 1, subcélula 1a: balanço sedimentar na situação de refer�
 
 Fonte: GTL, 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 «Na subcélula 1a, à redução no fornecimento sedimentar de natureza fluvial associou-se um recuo generalizado das praias arenosas que, aparentemente, se tem vindo a acentuar. A erosão das praias passou a constituir uma fonte sedimentar ativa, que compensou parcialmente o défice gerado. Nesta subcélula, o elevado défice sedimentar existente relaciona-se com a construção de barragens, que diminuiu significativamente o caudal sólido arenoso debitado pelos rios, e com as numerosas operações de dragagem e extração de sedimentos realizadas no domínio hídrico. A combinação destes dois fatores fez inclusivamente com que o estuário de alguns rios passasse, na prática, a funcionar como sumidouro sedimentar... Admitiu-se que o estuário do rio Lima deverá capturar toda a areia transportada de norte. Assim, a subcélula 1a pode ser dividida em dois troços que atualmente podem ser considerados independentes do ponto de vista sedimentar: rio Minho - rio Lima e rio Lima - rio Douro. No primeiro troço, as fontes sedimentares correspondem ao caudal sólido do rio Minho e das ribeiras costeiras e à erosão do litoral; os sumidouros principais correspondem às dragagens realizadas no canal de navegação do rio Minho e nos portos de Vila Praia de Âncora e Viana do Castelo... As fontes sedimentares neste troço são dominadas pela erosão costeira, sendo a contribuição do caudal sólido proveniente das linhas de água que drenam para este troço secundária. O litoral entre o rio Lima e a foz do Cávado deverá ter constituído, no passado recente, a fonte sedimentar com maior magnitude para o troço rio Lima - rio Douro; no entanto, a substituição das praias de areias por praias de cascalho, sugere um esgotamento desta fonte, pelo que no futuro próximo esta contribuição tenderá a ser muito reduzida. A estimativa da deriva litoral que atravessa a fronteira sul desta subcélula foi efetuada considerando o volume médio das dragagens, com reposição na praia, efetuado no porto de Leixões» (GTL, 2014).
 
@@ -354,7 +438,7 @@ Figura 7 - Célula 1, subcélula 1a: balanço sedimentar na situação atual
 
 Fonte: GTL, 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 «[...] da foz do Douro até ao cabo Mondego (subcélula 1b), o litoral pode ser dividido em três troços: 1) um troço norte (Douro até Espinho) com orientação e características geomorfológicas semelhantes à subcélula 1a; 2) um troço central, com orientação NNE-SSW, mais extenso e que corresponde a uma costa arenosa baixa e 3) um troço em arriba marginado por praia, que se desenvolve para sul de Quiaios e termina no cabo Mondego que constitui uma barreira natural ao transporte sedimentar residual.
 
@@ -368,7 +452,7 @@ Fonte: GTL, 2014.
 
 Apenas o primeiro troço, correspondente à subcélula 1b, se encontra abrangido pelo POC-CE. No entanto, face à sensibilidade do troço a sotamar, não pode deixar de ser retida uma parte da caracterização do trecho imediatamente a sul, sem o que não se poderão equacionar quaisquer ações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 «[...] A sul da foz do Douro, o défice sedimentar é atualmente extremamente elevado, uma vez que à redução da entrada de sedimentos pela fronteira norte se associa uma diminuição muito significativa do caudal sólido do rio Douro (estimado em 2 x 105m3ano-1).
 
@@ -460,7 +544,7 @@ Objetivo Geral 4 - valorização e qualificação das praias marítimas
 
 Objetivo Geral 5 - monitorização e avaliação das dinâmicas costeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 10 - Modelo Estratégico do POC-CE
 
@@ -490,7 +574,7 @@ No que está relacionado com a salvaguarda e gestão do domínio hídrico, o Mod
 
 As componentes complementares, que, como referido, constituem recursos territoriais relevantes para o desenvolvimento da orla costeira, tanto na sua componente marinha como terrestre, são identificadas no Modelo Territorial. Destacam-se, pela sua relevância biofísica, as Áreas com Especial Interesse para a Conservação da Natureza e da Biodiversidade, assim como os Recursos Hídricos Superficiais, que se encontram sujeitos a regimes de proteção previstos em regimes específicos. Pela sua relevância social e económica, destacam-se as Áreas Portuárias, os Núcleos Piscatórios, as Ondas com Especial Valor para Desportos de Deslize e as Áreas Predominantemente Artificializadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Figura 11 - Estrutura do Modelo Territorial
 
@@ -1618,7 +1702,7 @@ Tabela 1
 
 Critérios e Parâmetros para o Dimensionamento dos Apoios de Praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 NGe4 - A definição do dimensionamento máximo dos apoios de praia, segundo a tipologia prevista em regulamento, considera de forma conjugada critérios que ponderem a sensibilidade ecológica das praias, a sua vulnerabilidade aos riscos costeiros, as necessidades de oferta de funções e serviços públicos e as restrições legais para o desempenho de funções e serviços complementares.
 
@@ -1646,7 +1730,7 @@ Tabela 2
 
 Características construtivas das instalações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 4.4.2 - Normas a Observar na Gestão dos Acessos e das Áreas de Estacionamento
 
@@ -1660,7 +1744,7 @@ Tabela 3
 
 Parâmetros para a definição de Acessos, Parques e Zonas de Estacionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 4.4.3 - Normas a Observar na Gestão das Infraestruturas
 
@@ -1672,7 +1756,7 @@ Tabela 4
 
 Parâmetros para Utilização das Infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 NGe13 - As infraestruturas que servem as instalações nas praias marítimas devem ser ligadas à rede pública, sempre que esta exista, pelo que as soluções autónomas devem obedecer a critérios preestabelecidos pelas autoridades licenciadoras.
 
@@ -1786,7 +1870,7 @@ Tabela 5
 
 Monitorização do POC-CE | Indicadores de Realização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 5.2.2 - Indicadores de resultado
 
@@ -1796,11 +1880,11 @@ Tabela 6
 
 Monitorização do POC-CE | Indicadores de Resultado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 ## ANEXO III — [a que se refere a alínea b) do n.º 2]
 
@@ -1808,79 +1892,79 @@ Identificação das disposições dos PMOT incompatíveis com o POC-CE
 
 PDM de Caminha (Aviso n.º 1712/2017, de 14 de fevereiro, alterado pelo Aviso n.º 18188/2020, de 10 de novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Espinho (Aviso n.º 10906/2016, de 1 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PP do Estádio do Sporting Clube de Espinho (Aviso n.º 23499/2011, de 5 de dezembro, com as correções materiais introduzidas pelo Aviso n.º 8483/2019, de 16 de maio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Esposende (Aviso n.º 10643/2015, de 18 de setembro, alterado pelo Aviso n.º 17167/2019, de 25 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PU da área central da cidade de Esposende (Declaração n.º 11-12-96, de 2 de janeiro, alterado pela Declaração n.º 261/97, de 14 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Matosinhos (Aviso n.º 13198/2019, de 21 de agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM do Porto (Aviso n.º 12773/2021, de 8 de julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM da Póvoa de Varzim (Aviso n.º 2157/2015, de 26 de fevereiro, com as correções materiais introduzidas pelo Aviso n.º 1500/2018, de 31 de janeiro, alterado pelo Aviso n.º 9437/2018, de 12 de julho, e suspenso parcialmente pelo Aviso n.º 11232/2018, de 14 de agosto, e pelo Aviso n.º 4877/2020, de 23 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PU da Aguçadoura (Aviso n.º 1482/2013, de 30 de janeiro, retificado pela Declaração de Retificação n.º 331/2013, de 14 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PU da Póvoa de Varzim ([Resolução do Conselho de Ministros n.º 15/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2006-545659), de 27 de janeiro, alterado pelo Aviso n.º 9222/2011, de 18 de abril, retificado pela Declaração de Retificação n.º 47/2012, de 12 de janeiro, e alterado e republicado pelo Aviso n.º 19268/2019, de 29 de novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PP da faixa poente da marginal de Aver-o-Mar (Aviso n.º 1893/2013, de 6 de fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Viana do Castelo (Aviso n.º 10601/2008, de 4 de abril, alterado pelo Aviso n.º 1817/2014, de 6 de fevereiro, alterado por adaptação e republicado pelo Aviso n.º 4754/2017, de 2 de maio, alterado e republicado pelo Aviso n.º 15613/2018, de 29 de outubro, e alterado por adaptação e republicado pelo Aviso n.º 5203/2021, de 19 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PU da cidade de Viana do Castelo ([Resolução do Conselho de Ministros n.º 92/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-1999-423209), de 13 de agosto, alterado por adaptação pelo Aviso n.º 20245/2008, de 16 de julho, e pelo Aviso n.º 4077/2017, de 17 de abril, alterado e republicado pelo Aviso n.º 14876/2018, de 16 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PP do Centro Histórico de Viana do Castelo (Declaração n.º 248/2002, de 9 de agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PP da Frente Ribeirinha e Campo da Agonia ([Resolução do Conselho de Ministros n.º 134/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2002-449962), de 13 de novembro, alterado e republicado pelo Aviso n.º 7644/2011, de 25 de março, retificado pela Declaração de Retificação n.º 1178/2011, de 25 de julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Plano de Intervenção em Espaço Rústico para Afife, Carreço e Areosa (Aviso n.º 6139/2021, de 31 de março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Vila do Conde ([Resolução do Conselho de Ministros n.º 166/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-1995-632459), de 12 de dezembro, alterado e republicado pelo Aviso n.º 2525/2016, de 26 de fevereiro, alterado pelo Aviso n.º 937/2017, de 23 de janeiro, retificado pela Declaração de Retificação n.º 172/2017, de 13 de março, alterado e republicado pelo Aviso n.º 12371/2018, de 28 de agosto, alterado pelo Aviso n.º 10970/2019, de 3 de julho, e pelo Aviso n.º 12639/2019, de 7 de agosto, suspenso parcialmente pelo Aviso n.º 13685/2019, de 2 de setembro, e alterado pelo Aviso n.º 14537/2019, de 18 de setembro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PP da Seca do Bacalhau (Declaração n.º 234/2004, de 3 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 PDM de Vila Nova de Gaia (Aviso n.º 14327/2009, de 12 de agosto, com as correções materiais introduzidas pelo Aviso n.º 904/2013, de 18 de janeiro, alterado pelo Aviso n.º 980/2018, de 19 de janeiro, pelo Aviso n.º 9505/2018, de 13 de julho, pelo Aviso n.º 4183/2020, de 10 de março, e pelo Aviso n.º 14064/2020, de 16 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0002100132.pdf)
 
 Identificadores das imagens e respetivos endereços do sítio do SNIT
 
@@ -1913,3 +1997,5 @@ Identificadores das imagens e respetivos endereços do sítio do SNIT
 [http://ssaigt.dgterritorio.pt/i/Pecas_graficas_60762_POC_MT_13.jpg](http://ssaigt.dgterritorio.pt/i/Pecas_graficas_60762_POC_MT_13.jpg)
 
 [http://ssaigt.dgterritorio.pt/i/Pecas_graficas_60762_POC_MT_14.jpg](http://ssaigt.dgterritorio.pt/i/Pecas_graficas_60762_POC_MT_14.jpg)
+
+114462545

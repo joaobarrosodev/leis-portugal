@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/689/1996/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-1996-198076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d33478680b2b732ae52cc7d7e15ecaf966dc8ce7e385fd959ed295974d5b21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b128a0abeb6e9250a19adf5b67acfca239326c5c95c6d934c37b1c9cf67385df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Comunicação Social
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Viseu
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1291/1995/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1291/1995/10/31/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678994:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:58Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +156,7 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 31 de Outubro de 1996.**
+Assinada em 31 de Outubro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -144,4 +164,4 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Instituto Politécnico de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/270b00/42104213.pdf))](https://files.diariodarepublica.pt/1s/1996/11/270b00/42104213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/270b00/42104213.pdf)

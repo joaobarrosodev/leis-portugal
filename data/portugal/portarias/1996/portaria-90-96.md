@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/1996/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-1996-544670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c00ce00e79c7d3402737e6ea6cc0575e33681f1c5316e69b35fb5e5d9775fb6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4335ef3c77bcb43a7b9bb145801d70bb891464cd6f5856bc17653ed5433739d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
+- Fundo de Calamidades
 - Regulamento
 - Seguro Agrícola
-- Fundo de Calamidades
+- Sipac
 relationships:
 - type: amended_by
   target: pt:dre:160511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A SUBAL II) DA AL B) DO NUM 4 DA SECÇÃO 6 DO CAP I E O NUM 4 DO CAP III, AMBOS DO REGULAMENTO PELA PORT\
+    \ 269/96 DE 19-JUL DR.IS-B [166]\0.IS-B [166]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-19'
+- type: amended_by
+  target: pt:dre:413224:por
+  label: "Alterado o n.º 4.º, alínea b), subalínea ii), da secção 6 do capítulo I do Regulamento do Sistema Integrado de Protecção\
+    \ contra as Aleatoriedades Climáticas, anexo ao presente diploma, pela PORT.269/96.19.07.1996.MF, DR.IS-B [166] de 19.07.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1996-413224
+  date: '1996-07-19'
+- type: amended_by
+  target: pt:dre:160511:por
+  label: "Totalmente revogada pela PORT.430/97.1997.07.01.MF, DR.IS-B [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-1997-160511
+  date: '1997-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/1994/04/20/p/dre
   label: null
@@ -86,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/326/1995/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/326/1995/12/05/p/dre
+- type: cites
+  target: pt:dre:264701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633725:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:06Z'
   warnings: []
   errors: []
 ---
@@ -118,15 +148,15 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvime
 
 Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Março de 1996.**
+Assinada em 20 de Março de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 ## ANEXO — REGULAMENTO DO SISTEMA INTEGRADO DE PROTECÇÃO CONTRA AS ALEATORIEDADES CLIMÁTICAS
 
 ### CAPÍTULO I — Seguro de colheitas
 
-#### Secção 1 - Culturas cobertas
+Secção 1 - Culturas cobertas
 
 As culturas abrangidas pelo seguro de colheitas, bem como as limitações decorrentes da localização, da área de cultivo e idade de plantação, quando existam, são as seguintes:
 
@@ -236,7 +266,7 @@ Não ficam abrangidas pelo seguro de colheitas as árvores, estufas ou qualquer 
 
 Não ficam também abrangidas as culturas cujas sementeiras ou plantações tenham sido feitas fora das épocas normais para as respectivas regiões e ainda quando tenham sido feitas ou mantidas em condições tecnicamente desaconselháveis; em caso de dúvida compete o seu esclarecimento aos serviços regionais do MADRP.
 
-#### Secção 2 - Riscos cobertos
+Secção 2 - Riscos cobertos
 
 1.º O seguro de colheitas garante a cobertura dos seguintes riscos:
 
@@ -402,7 +432,7 @@ Distrito de Viseu - concelhos de Castro Daire, Moimenta da Beira, Penalva do Cas
 
 7.º A produção de efeitos do contrato de seguro é regulada pelas condições da apólice.
 
-#### Secção 3 - Celebração do contrato de seguro
+Secção 3 - Celebração do contrato de seguro
 
 1.º O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo a que se refere o n.º 9) do artigo 114.º do [Decreto-Lei n.º 102/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1994-264701), de 20 de Abril, através da celebração de um contrato individual ou colectivo.
 
@@ -412,7 +442,7 @@ Distrito de Viseu - concelhos de Castro Daire, Moimenta da Beira, Penalva do Cas
 
 4.º O recibo do prémio de seguro deve indicar, se for o caso, o valor da bonificação atribuída pelo Estado.
 
-#### Secção 4 - Valor seguro
+Secção 4 - Valor seguro
 
 1.º Para efeitos de cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de mercado correntes na região.
 
@@ -436,7 +466,7 @@ e) Correcção de erros de cálculo cometidos pelo segurado nas declarações in
 
 5.º Sem prejuízo das datas limite de produção definidas nas condições especiais da apólice uniforme, o contrato caduca na data da conclusão da colheita e, no caso específico das culturas arbóreas e arbustivas, no momento em que os frutos são retirados da árvore ou da planta.
 
-#### Secção 5 - Indemnizações
+Secção 5 - Indemnizações
 
 1.º O seguro de colheitas garante ao agricultor uma indemnização sobre o montante dos prejuízos sofridos pelas culturas que tenham origem em qualquer dos riscos abrangidos pela apólice.
 
@@ -460,7 +490,7 @@ e) Quando o sinistro ocorrer numa fase de ciclo produtivo em que, técnica e eco
 
 6.º Os limites referidos na alínea b) do n.º 4.º podem ser alterados por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-#### Secção 6 - Bonificação dos prémios do seguro de colheitas
+Secção 6 - Bonificação dos prémios do seguro de colheitas
 
 1.º Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, uma vez cumpridas as disposições regulamentares em vigor.
 
@@ -510,7 +540,7 @@ Serão ainda concedidos 5% de bonificação aos prémios dos contratos de seguro
 
 Por forma a facilitar a interpretação da atribuição de bonificações, apresenta-se o seguinte quadro resumo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf))](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf)
 
 5.º Sem prejuízo do referido nos números anteriores, o critério de bonificação a aplicar deverá seguir as seguintes determinações:
 
@@ -968,7 +998,7 @@ Boa disponibilidade de água para rega.
 
 6.º As tarifas de referência para cálculo das bonificações referidas no n.º 3.º desta secção são as que a seguir se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf))](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/072b00/05860597.pdf)
 
 7.º Para efeitos de cálculo da bonificação a atribuir, considerar-se-á a totalidade do prémio pago pelo tomador do seguro, com excepção da comparticipação para o fundo de calamidades, adiante referido.
 

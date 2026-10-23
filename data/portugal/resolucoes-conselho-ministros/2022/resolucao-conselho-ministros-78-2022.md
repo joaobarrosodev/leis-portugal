@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17900/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/78/2022/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2022-201089599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91d1b66e431cb6f6cf321b0e44b1fc5f1220539c4595cd1e171982815a01ee37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa03b5dca3fc0b62593430ab3b494f676ac2c334d938baca7154346d971efec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Autorização de Despesas
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Conselho de Ministros
 - Contrato
 - Delegação de Competências
-- Despesas Públicas
-- Projeto de Investimento
-- Orçamento
 - Desenvolvimento Local
+- Despesas Públicas
+- Governo XXIII
+- Ministro da Coesão Territorial
+- Orçamento
+- Plano de Recuperação e Resiliência
+- Projeto de Investimento
 - RIO Maior
 - Setor Empresarial
-- Autarquia Local
-- Ministro da Coesão Territorial
-- Plano de Recuperação e Resiliência
-- Governo XXIII
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
@@ -90,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:03Z'
   warnings: []
   errors: []
 ---
@@ -139,3 +147,5 @@ d) Em 2025 - (euro) 3 865 277,45.
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 25 de agosto de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115677449

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/52/2023/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-2023-213918210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f872b6ea6c3cdde8edee02facbe6b89867f70a632b9cf0d5abc79163100afdc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81e8e59103be319fe4b5f83749468ca2ce87e277ae9df7e3e864d2e7004bbfc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança Interna
+- Armamento
 - Definição de Competências
 - Desenvolvimento Industrial
-- Mudança Tecnológica
+- Direção Geral de Recursos da Defesa Nacional
 - Equipamento Militar
-- Armamento
+- Estratégia de Desenvolvimento da Base Tecnológica e Industrial de Defesa
+- idD - Portugal Defence
+- Mudança Tecnológica
 - Política de Defesa
 - Prazo
 - Relatório
-- Estratégia de Desenvolvimento da Base Tecnológica e Industrial de Defesa
-- Direção Geral de Recursos da Defesa Nacional
-- idD - Portugal Defence
+- Segurança Interna
 relationships:
 - type: cites
   target: celex:32009L0081
@@ -122,16 +122,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:114832287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114848692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122498962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202899924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:31Z'
   warnings: []
   errors: []
 ---
@@ -398,7 +438,7 @@ EI 4.7 - Mapear e monitorizar, a partir de uma visão integrada e de uma abordag
 
 4.7 - Estes eixos de intervenção, concorrem para a concretizam dos objetivos estratégicos, cujas interligações se encontram sintetizadas na seguinte matriz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf))](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf)
 
 4.8 - Tendo em consideração a caracterização e composição da BTID, a sua organização e o seu contributo para a economia nacional, identificam-se os seguintes setores industriais-chave e as áreas tecnológicas prioritárias:
 
@@ -462,7 +502,7 @@ ii) A nível da OTAN, também foi feito o mesmo tipo de análise preditiva, com 
 
 iii) No contexto da defesa nacional, identificam-se as seguintes áreas tecnológicas de interesse prioritário, organizadas em três vetores - tecnologias, sistemas e domínios de integração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf))](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/10800/0002600039.pdf)
 
 5 - Governação, monitorização, avaliação e revisão
 
@@ -477,3 +517,5 @@ Operacionalização do nível de ambição
 5.4 - A monitorização e acompanhamento da implementação e do grau de concretização do Plano de Ação, inclui a avaliação anual conjunta entre a Defesa Nacional, a indústria de defesa e o SCTN, a submeter à aprovação do membro do Governo responsável pela área da defesa nacional.
 
 5.5 - A presente estratégia tem o horizonte de dez anos, sem prejuízo de eventual atualização sempre que necessário e que se justifique num contexto de rápida evolução intrínseca ao setor da indústria de defesa.
+
+116527949

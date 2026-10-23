@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 23/2024, 2º Suplemento, Série I de 2024-02-01
   number: '23'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 16-(2) a 16-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02302/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22-a/2024/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-a-2024-840060214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18aa68680390cda8393202e45bec804b909b8e9ab392cdb5f6faaeb30d521efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57692d6ab4cc89af5d633012e396f534536f56eff93bfa6cab24442935702ce6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,17 @@ subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Autorização de Despesas
 - Despesas Públicas
+- Hospital de Lisboa Oriental
 - Obras Públicas
 - Parceria Público-Privada
-- Hospital de Lisboa Oriental
 - Plano de Recuperação e Resiliência
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:178/2017
+  label: Altera, com efeitos a 1 de fevereiro de 2024, a Resolução do Conselho de Ministros n.º 178/2017, de 28 de novembro,
+    Diário da República n.º 229/2017, Série I
+  source: null
+  date: '2017-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -102,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:114251184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114264986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114360526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:25Z'
   warnings: []
   errors: []
 ---
@@ -227,3 +265,5 @@ c) 2026 - (euro) 40 303 180,52.
 2 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
 
 Presidência do Conselho de Ministros, 1 de fevereiro de 2024. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117320338

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19500/0002400024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/120/2023/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2023-222547760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5bd8286232a38b72b462ecafe0485ffd48bc1b71df08a41c2286b792efb7309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d94a0f79be3f3beb0d81d288d151f835e537dde66535840822556dda10e20ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Autoridade Tributária e Aduaneira
 - Cidadão Estrangeiro
 - Conselho de Ministros
-- Serviço Nacional de Saúde
+- Governo XXIII
 - Política Social
 - Prorrogação de Prazo
 - Protecção Temporária
 - Segurança Social
+- Serviço Nacional de Saúde
 - Titulo de Residência
 - Ucrânia
 - Vítima de Guerra
-- Governo XXIII
 relationships:
 - type: amended_by
   target: pt:dre:853918462:por
@@ -107,6 +107,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29-d/2022/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29-d/2022/03/11/p/dre
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180365447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205378560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208581828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0055
   label: null
@@ -114,13 +134,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:58Z'
   warnings: []
   errors: []
 ---
@@ -144,3 +164,5 @@ Nos termos do n.º 1 do artigo 7.º da [Lei n.º 67/2003](https://diariodarepubl
 2 - Estabelecer que a presente resolução produz efeitos a 1 de setembro de 2023.
 
 Presidência do Conselho de Ministros, 28 de setembro de 2023. - Pelo Primeiro-Ministro, Maria Helena Chaves Carreiras, Ministra da Defesa Nacional.
+
+116916221

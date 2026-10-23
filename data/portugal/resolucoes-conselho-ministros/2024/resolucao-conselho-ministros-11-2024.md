@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/2024/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2024-836222486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db98030d8aeaf289922f08890d1d619aae02e7056a20bfec06108a227d7cdd2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e1e62baa3d582e07d17fb1d51a8152e00b9b0357223e41a0159683549cdbdf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Protecção à Família
-- Energia Elétrica
 - Conselho de Ministros
-- Política Energética
-- Gestão Orçamental
 - Eficiência Energética
-- Plano Nacional Energia e Clima 2030
-- Programa de Apoio a Edifícios Mais Sustentáveis
+- Energia Elétrica
 - Estratégia Nacional de Longo Prazo para o Combate à Pobreza Energética 2023-2050
+- Gestão Orçamental
 - Observatório Nacional da Pobreza Energética
+- Plano Nacional Energia e Clima 2030
+- Pobreza
+- Política Energética
+- Programa de Apoio a Edifícios Mais Sustentáveis
+- Protecção à Família
 relationships:
 - type: cites
   target: celex:32010L0031
@@ -145,16 +145,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
+- type: cites
+  target: pt:dre:122286662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143616729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149707127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156295372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158545440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181368678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183313988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183432853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200734336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202402507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58895505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74848641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74848642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:56Z'
   warnings: []
   errors: []
 ---
@@ -291,7 +411,7 @@ Tabela 0.1
 
 Indicadores estratégicos principais para aferir a pobreza energética em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Os indicadores principais agora selecionados para determinar o universo da população em situação de pobreza energética devem ser entendidos de forma crítica, podendo ser alvo de revisão e aprofundamento, nomeadamente, em resultado do objetivo de aumentar a capacidade de identificação de agregados familiares em situação de pobreza energética associados do EE4.
 
@@ -395,13 +515,13 @@ Em média, são cerca de 800 mil os beneficiários da TSE, tal como apresentado 
 
 No que se refere à tarifa social de energia elétrica, tendo por base os dados de janeiro de 2023, verifica-se que mais de metade dos beneficiários (51 %) são elegíveis por cumprimento do critério do rendimento, 30 % são elegíveis por cumprimento do critério da carência socioeconómica e os restantes 19 % são elegíveis pelo cumprimento de ambos os critérios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 1 - Evolução do número total de beneficiários de TSE em Portugal (Entidade Reguladora dos Serviços Energéticos (ERSE), DGEG)
 
 Em termos de dispersão geográfica, verifica-se que, embora seja nos distritos de Lisboa e do Porto onde se situa o maior número de beneficiários, é nos distritos de Bragança, Vila Real, Guarda e Viseu onde é maior o número de beneficiários em relação à população residente (vide figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 2 - Número de beneficiários da TSE de eletricidade (esquerda) e de gás natural (direita) por distrito em janeiro de 2023 (DGEG, INE, I. P.)
 
@@ -409,7 +529,7 @@ A aplicação da tarifa social de energia materializa-se num desconto sobre as t
 
 A título de exemplo, ilustra-se na figura 3 a aplicação da tarifa social na fatura de eletricidade de um consumidor doméstico cuja potência contratada é de 3,45 kVA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 3 - Exemplo da aplicação da tarifa social de eletricidade (fonte: ERSE)
 
@@ -433,7 +553,7 @@ As tarifas de acesso às redes, fixadas pela ERSE, são pagas por todos os consu
 
 De acordo com a ERSE(6), em cinco anos (de 2019 a 2023), a variação na tarifa de acesso às redes evidenciará uma redução acumulada de 124 % para consumidores em baixa tensão normal (BTN). Os consumidores domésticos de eletricidade observam, em cinco anos, uma redução média de 0,4 % no preço final (vide figura 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 4 - Variação do preço médio de eletricidade para os consumidores domésticos (fonte: ERSE)
 
@@ -583,7 +703,7 @@ Relativamente ao nível do desempenho energético nos alojamentos, os primeiros 
 
 De acordo com a informação existente, baseada em cerca de 1,7 milhões de certificados energéticos emitidos entre 2014 e 2022, apenas 17 % dos alojamentos se qualifica como muito eficiente, isto é, com uma classe de eficiência A e A+, e cerca de 66,3 % dos alojamentos certificados apresentam uma classe de eficiência C ou menos, conforme ilustra a figura 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 5 - Desempenho energético para o setor residencial com base nas classes dos certificados energéticos emitidos até 2022 (fonte: ADENE, SCE)
 
@@ -591,11 +711,11 @@ De um modo geral, e dada a caracterização por via dos certificados energético
 
 No que se refere ao estado de conservação e desempenho energético do parque nacional de edifícios residenciais, de acordo com os dados, ilustrados na figura 6 e figura 7, é possível verificar a existência de uma relação entre o estado de conservação e o desempenho energético, tendo em conta a época construtiva. Uma vez que uma parte significativa do parque de edifícios se encontra envelhecido e com necessidade de renovação, é importante não só criar as condições para aumentar o ritmo da renovação dos edifícios, mas também garantir que, durante a renovação, são igualmente realizados melhoramentos ao nível da sua eficiência energética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 6 - Estado de conservação por época construtiva (fonte: INE, I. P., 2011)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 7 - Desempenho energético por época construtiva (fonte: ADENE)
 
@@ -603,17 +723,17 @@ Figura 7 - Desempenho energético por época construtiva (fonte: ADENE)
 
 De acordo com as estatísticas mais recentes(17), o setor residencial representa atualmente cerca de 18,6 % do consumo total de energia final em Portugal, verificando-se uma taxa de crescimento média anual de 0,7 % na última década. Em termos de consumo final, a eletricidade representa atualmente 40 % do total da energia final consumida no setor residencial, seguido das renováveis, com 37 % (que, na sua grande maioria, diz respeito à utilização de biomassa), dos produtos de petróleo, com 13 % (que corresponde a um consumo principalmente de gás de petróleo liquefeito (GPL), e o gás natural, com 10 % (figura 8). Na última década, verificou-se um decréscimo do consumo de produtos de petróleo, substituído por eletricidade e gás natural, conforme é possível observar na figura 9 e na figura 10.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 8 - Consumo de energia final no setor doméstico por tipo de fonte em 2021 (tep) (fonte: DGEG)
 
 Importa referir a importância da biomassa no consumo de energia nas habitações. Para além de ser um recurso renovável, é uma fonte energética de baixo custo, assente num princípio de economia circular pela utilização dos resíduos e produtos florestais advenientes das atividades de limpeza/manutenção da floresta, preservando-se a floresta e mitigando o risco de incêndio. A biomassa é especialmente importante em territórios onde a sua disponibilidade é elevada e na promoção do desenvolvimento rural. Por um lado, evitam-se os constrangimentos de transporte e armazenamento. Por outro, a aposta nos recursos endógenos permite criar oportunidades económicas, levando a uma maior coesão social e à valorização e proteção ambiental.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 9 - Consumo de energia final por forma no setor residencial em Portugal em 2011 (fonte: DGEG)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 10 - Consumo de energia final por forma no setor residencial em Portugal em 2021 (fonte: DGEG)
 
@@ -623,7 +743,7 @@ No que diz respeito ao consumo de energia por tipo de utilização (figura 11), 
 
 Importa realçar que os anos de 2020 e 2021 foram anos atípicos, marcados pela pandemia da doença COVID-19, não só pelo tremendo impacto na saúde e na economia, como também pela forma como impactou o dia-a-dia da população. Os longos períodos de confinamento nas habitações, e a opção pelo teletrabalho, conduziram a uma alteração dos padrões de consumo de energia nos alojamentos. Ainda assim, de acordo com os dados constantes do 4.º relatório de progresso da ELPRE, o consumo de eletricidade em 2020 e 2021 manteve-se praticamente inalterado face a 2019, enquanto o consumo de gás registou um aumento de 3,6 % em 2020 e de 0,9 % em 2021 face a 2019.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 11 - Distribuição do consumo de energia no alojamento por tipo de uso (fonte: ICESD 2020)
 
@@ -637,19 +757,19 @@ Desde que todos os consumidores (domésticos e não-domésticos) passaram a ter 
 
 No que diz respeito ao preço da eletricidade no setor doméstico em Portugal (figura 12 e figura 13), no primeiro semestre de 2021 o preço médio final (incluindo todos os impostos) situou-se em 0,209 euros/kWh (Banda DC) verificando-se uma redução de 1,5 % face ao semestre homólogo de 2020. Comparando com o preço médio na UE 27, verifica-se que o preço médio final em Portugal é 4,7 % inferior (figura 14). Relativamente ao preço do gás natural no setor doméstico em Portugal (figura 15), no primeiro semestre de 2021, o preço médio final situou-se em 21,171 euros/GJ (Banda D2) verificando-se uma redução de 1,5 % face ao semestre homólogo de 2020. Comparando com o preço médio na EU 27, verifica-se que o preço médio final em Portugal é cerca de 19,2 % superior (figura 15).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 12 - Preços de eletricidade no setor doméstico em Portugal e na EU 27 em 2021 (euros/kWh - Banda DC(19) (fonte: DGEG)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 13 - Preços do gás natural no setor doméstico em Portugal e na EU 27 em 2021 (euros/GJ - Banda D2(20) (Fonte: DGEG)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 14 - Preços da eletricidade no setor doméstico na EU 27 em 2021 (euros/kWh - Banda DC) (fonte: DGEG)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 15 - Preço do gás natural no setor doméstico na EU 27 em 2021 (euros/GJ - Banda D2) (fonte: DGEG)
 
@@ -659,11 +779,11 @@ Em Portugal, as duas principais fontes de informação estatística sobre os agr
 
 De acordo com os dados mais recentes do ICOR, verifica-se que, em Portugal, 16,4 % da população encontrava-se em risco de pobreza em 2021 (-2,0 % p.p. face a 2020), após transferências sociais, verificando-se uma tendência de redução deste indicador (figura 16). A taxa de risco de pobreza em 2021 correspondeu à proporção de habitantes com rendimentos monetários líquidos por adulto equivalente inferiores a 6608 (euro)/ano, ou seja, a 550 (euro)/mês. Este limiar, ou linha de pobreza relativa, corresponde a 60 % da mediana (10 800 (euro)/ano ou 900 (euro)/mês) da distribuição dos rendimentos monetários líquidos equivalentes (figura 17).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 16 - Evolução da taxa de risco de pobreza após transferências sociais em Portugal (fonte: INE, I. P.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 17 - Evolução do limiar de risco de pobreza em Portugal (fonte: INE, I. P.)
 
@@ -675,17 +795,17 @@ Se for analisado este indicador tendo em conta os rendimentos dos agregados (dad
 
 De acordo com o Eurostat, em 2020, a taxa de privação severa das condições de habitação em Portugal era de 3,9 % (sendo 4,3 % a média da UE), enquanto 6,8 % dos portugueses consideravam a sua casa demasiado escura (sendo a média da UE cerca de 6,5 %).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 18 - Evolução do indicador geral de privação material em Portugal (fonte: INE, I. P.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 19 - População a viver em agregados sem capacidade para manter a casa adequadamente aquecida em Portugal (fonte: INE, I. P., Eurostat)
 
 Em termos da composição do agregado familiar, verifica-se que 24,4 % da população em agregados constituídos por apenas um adulto não tem capacidade para manter a casa suficientemente aquecida, valor bastante superior ao valor total nacional (figura 20). Por outro lado, são os agregados constituídos por dois adultos e uma ou duas crianças dependentes aqueles onde a incapacidade para manter a casa suficientemente aquecida é mais baixa, 6,2 % (com duas crianças dependentes) e 8,5 % (com uma criança dependente).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 20 - Incapacidade para manter a casa adequadamente aquecida em Portugal por tipo de agregado em 2021 (fonte: Eurostat)
 
@@ -695,7 +815,7 @@ Quanto à capacidade para manter a casa adequadamente arrefecida no verão, veri
 
 No que respeita à ocorrência de patologias nos elementos construtivos passíveis de contribuírem para agravar as condições de habitabilidade nos alojamentos, em Portugal cerca de 25 % da população vive em habitações com problemas de infiltrações, humidade ou elementos apodrecidos (a média da UE é cerca de 15 %), 36 % no caso da população que vive abaixo do limiar de risco de pobreza (figura 21). As ocorrências destas patologias nos alojamentos causam, entre outros, problemas de saúde aos seus ocupantes, não permitindo uma qualidade do ar interior satisfatória e níveis de conforto interior adequados, o que contribui para acentuar as situações de pobreza energética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 21 - População que vive em habitações com problemas de infiltrações, humidade ou elementos apodrecidos (fonte: Eurostat)
 
@@ -705,9 +825,9 @@ Tabela 1
 
 Número de agregados familiares com sistemas de regulação de temperatura no interior do alojamento em 2015-2016 (fonte: INE, I. P.)
 
-|  |  |  |
-| --- | --- | --- |
 | Aparelho de ar condicionado | Sistema de aquecimento central | Outro aparelho de aquecimento de ar |
+| --- | --- | --- |
+|  |  |  |
 | 643 488 | 663 934 | 2 616 874 |
 
 A despesa total anual média por agregado em eletricidade, gás e outros combustíveis (tabela 2) situa-se nos 1278 (euro)/ano, correspondente a 106,5 (euro)/mês, a qual representa 6,3 % da despesa total anual média por agregado e 5,4 % face ao rendimento total anual médio por agregado (23 635 (euro)).
@@ -716,9 +836,9 @@ Tabela 2
 
 Despesa total anual média por agregado na componente «Eletricidade, gás e outros combustíveis» em 2015/2016 (fonte: INE, I. P.)
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Despesa total | Eletricidade | Gás | Combustíveis líquidos | Combustíveis sólidos (22) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | 1 278 (euro)/ano | 745 (euro)/ano | 378 (euro)/ano | 37 (euro)/ano | 119 (euro)/ano |
 | 106,5 (euro)/mês | 62,1 (euro)/mês | 31,5 (euro)/mês | 3,1 (euro)/mês | 9,9 (euro)/mês |
 
@@ -732,24 +852,24 @@ Tabela 3
 
 Despesa total anual média por agregado na componente «Eletricidade, gás e outros combustíveis» por escalão de rendimento em 2015/2016 (fonte: INE, I. P.)
 
-|  |  |  |  |  |  |  |  |
+|  | Escalão de rendimento |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Escalão de rendimento | Escalão de rendimento | Escalão de rendimento | Escalão de rendimento | Escalão de rendimento | Escalão de rendimento | Escalão de rendimento |
-|  | Total | (menor que) 6 790 (euro) | 6 790 (euro) - 13 580 (euro) | 13 580 (euro) - 20 370 (euro) | 20 370 (euro) - 27 160 (euro) | 27 160 (euro) - 40 740 (euro) | (maior que) 40 740 (euro) |
+| Total | (menor que) 6 790 (euro) | 6 790 (euro) - 13 580 (euro) | 13 580 (euro) - 20 370 (euro) | 20 370 (euro) - 27 160 (euro) | 27 160 (euro) - 40 740 (euro) | (maior que) 40 740 (euro) |  |
+|  |  |  |  |  |  |  |  |
 | Rendimento total anual médio por agregado | 23 635 (euro)/ano | 5 121 (euro)/ano | 10 365 (euro)/ano | 16 847 (euro)/ano | 23 502 (euro)/ano | 32 623 (euro)/ano | 60 043 (euro)/ano |
-| Total da despesa ... | 1 278 (euro)/ano 106,5 (euro)/mês | 726 (euro)/ano 60,5 (euro)/mês | 995 (euro)/ano 83 (euro)/mês | 1 182 (euro)/ano 98,5 (euro)/mês | 1 282 (euro)/ano 107 (euro) | 1 519 (euro)/ano 126,5 (euro)/mês | 1 959 (euro)/ano 163 (euro)/mês |
+| Total da despesa ... | 1 278 (euro)/ano<br>106,5 (euro)/mês | 726 (euro)/ano<br>60,5 (euro)/mês | 995 (euro)/ano<br>83 (euro)/mês | 1 182 (euro)/ano<br>98,5 (euro)/mês | 1 282 (euro)/ano<br>107 (euro) | 1 519 (euro)/ano<br>126,5 (euro)/mês | 1 959 (euro)/ano<br>163 (euro)/mês |
 | Despesa face ao rendimento ... | 5,4 % | 14,2 % | 9,6 % | 7,0 % | 5,5 % | 4,7 % | 3,3 % |
 | Número de agregados | 4 104 709 | 263 033 | 939 534 | 944 228 | 743 549 | 742 819 | 471 546 |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 22 - População com dívidas aos serviços de utilidade pública (fonte: Eurostat)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 23 - Número de interrupções do fornecimento de eletricidade (fonte: ERSE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 24 - Número de interrupções do fornecimento de gás natural (fonte: ERSE)
 
@@ -759,15 +879,15 @@ Pela complexidade do tema, ainda existe um nível considerável de iliteracia en
 
 De acordo com um estudo da ERSE(25), que teve como objetivo avaliar o grau de literacia dos consumidores relativamente ao mercado de energia, o índice de literacia dos consumidores particulares é de 42,8 pontos (escala de 0 a 100 pontos, em que 0 é «desconhece todos os aspetos estudados sobre literacia energética» e 100 é «conhece todos os aspetos estudados sobre literacia energética»). O estudo, além de caracterizar o perfil socioeconómico dos consumidores, incidiu sobre temas como o mercado e as fontes de energia, o conhecimento de ferramentas de poupança, os direitos dos consumidores e medidas de promoção ambiental e revela que o índice de literacia é mais elevado nos consumidores com nível de escolaridade superior ao 10.º ano, com despesas médias mensais mais elevadas e com responsabilidade pela contratação do fornecedor de energia. Os resultados são apresentados nas figuras 25, 26 e 27.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 25 - Nível de literacia global dos consumidores particulares (fonte: ERSE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 26 - Nível de literacia global dos consumidores particulares por nível de escolaridade (fonte: ERSE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Figura 27 - Nível de literacia global dos consumidores particulares por nível médio das despesas mensais (fonte: ERSE)
 
@@ -825,31 +945,31 @@ Tabela 4
 
 Indicadores principais para aferir a pobreza energética em Portugal
 
-|  |  |  |
-| --- | --- | --- |
 | Indicador | Valor | Referência(26) |
-| (IP1.1) População a viver em agregados sem capacidade para manter a casa adequadamente aquecida ... | 17, 5 % (aproximadamente)1,8 milhões de pessoas) | 2020 (INE, I. P.) |
-| (IP1.2) População em situação de pobreza e a viver em agregados sem capacidade para manter a casa adequadamente aquecida ... | 33,8 % (aproximadamente)609 mil pessoas) | 2020 (INE, I. P.) |
-| (IP2) Desempenho energético das habitações ... | 69,6 % (classe de eficiência C ou abaixo) | 2020 (ADENE) |
-| (IP3.1) População a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos ... | 25,2 % (aproximadamente)2,6 milhões de pessoas) | 2020 (INE, I. P.) |
-| (IP3.2) População em situação de pobreza e a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos ... | 36,4 % (aproximadamente)944 mil pessoas) | 2020 (INE, I. P.) |
-| (IP4) População a viver em habitações não confortavelmente frescas durante o verão ... | 35,7 % (aproximadamente)3,7 milhões de pessoas) | 2012 (INE, I. P.) |
-| (IP5.1) População em agregados familiares cuja despesa com energia representa +10 % do total de rendimentos ... | 1 202 567 (aproximadamente)3,0 milhões de pessoas) | 2016 (INE, I. P.) |
-| (IP5.2) Agregados familiares em situação de pobreza cuja despesa com energia representa +10 % do total de rendimentos ... | 263 033 (aproximadamente)660 mil pessoas) | 2016 (INE, I. P.) |
+| --- | --- | --- |
+|  |  |  |
+| (IP1.1) População a viver em agregados sem capacidade para manter a casa adequadamente aquecida ... | 17, 5 %<br>(aproximadamente)1,8 milhões<br>de pessoas) | 2020<br>(INE, I. P.) |
+| (IP1.2) População em situação de pobreza e a viver em agregados sem capacidade para manter a casa adequadamente aquecida ... | 33,8 %<br>(aproximadamente)609 mil pessoas) | 2020<br>(INE, I. P.) |
+| (IP2) Desempenho energético das habitações ... | 69,6 %<br>(classe de eficiência C ou abaixo) | 2020<br>(ADENE) |
+| (IP3.1) População a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos ... | 25,2 %<br>(aproximadamente)2,6 milhões<br>de pessoas) | 2020<br>(INE, I. P.) |
+| (IP3.2) População em situação de pobreza e a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos ... | 36,4 %<br>(aproximadamente)944 mil pessoas) | 2020<br>(INE, I. P.) |
+| (IP4) População a viver em habitações não confortavelmente frescas durante o verão ... | 35,7 %<br>(aproximadamente)3,7 milhões<br>de pessoas) | 2012<br>(INE, I. P.) |
+| (IP5.1) População em agregados familiares cuja despesa com energia representa +10 % do total de rendimentos ... | 1 202 567<br>(aproximadamente)3,0 milhões<br>de pessoas) | 2016<br>(INE, I. P.) |
+| (IP5.2) Agregados familiares em situação de pobreza cuja despesa com energia representa +10 % do total de rendimentos ... | 263 033<br>(aproximadamente)660 mil pessoas) | 2016<br>(INE, I. P.) |
 
 Tabela 5
 
 Indicadores complementares para aferir a pobreza energética em Portugal
 
-|  |  |  |
-| --- | --- | --- |
 | Indicador | Valor | Referência |
-| (IC1) População em risco de pobreza ... | 16,2 % (aproximadamente)1,7 milhões de pessoas) | 2020 (INE, I. P.) |
-| (IC2.1) População com dívidas aos serviços de utilidade pública ... | 3,5,% (aproximadamente)443 mil de pessoas) | 2020 (Eurostat) |
-| (IC2.2) População em situação de pobreza e com dívidas aos serviços de utilidade pública ... | 8,6 % (aproximadamente)60 mil pessoas) | 2020 (Eurostat) |
-| (IC3) Interrupções por facto imputável ao consumidor ... | 524 143 (27) | 2019 (ERSE) |
-| (IC4) Percentagem do consumo residencial de energia satisfeito por produção local de energia renovável ... | 6,6 % (1 139,9 ktep) | 2021 (DGEG) |
-| (IC5) Literacia energética global dos consumidores particulares ... | 43,8 pontos(28) | 2020 (ERSE) |
+| --- | --- | --- |
+|  |  |  |
+| (IC1) População em risco de pobreza ... | 16,2 %<br>(aproximadamente)1,7 milhões<br>de pessoas) | 2020<br>(INE, I. P.) |
+| (IC2.1) População com dívidas aos serviços de utilidade pública ... | 3,5,%<br>(aproximadamente)443 mil<br>de pessoas) | 2020<br>(Eurostat) |
+| (IC2.2) População em situação de pobreza e com dívidas aos serviços de utilidade pública ... | 8,6 %<br>(aproximadamente)60 mil pessoas) | 2020<br>(Eurostat) |
+| (IC3) Interrupções por facto imputável ao consumidor ... | 524 143 (27) | 2019<br>(ERSE) |
+| (IC4) Percentagem do consumo residencial de energia satisfeito por produção local de energia renovável ... | 6,6 %<br>(1 139,9 ktep) | 2021<br>(DGEG) |
+| (IC5) Literacia energética global dos consumidores particulares ... | 43,8 pontos(28) | 2020<br>(ERSE) |
 
 Tendo por base os indicadores principais, estima-se que em Portugal estejam em situação de pobreza energética entre 1,8 e 3 milhões de pessoas, das quais entre 609 mil e 660 mil encontram-se em pobreza energética severa.
 
@@ -921,55 +1041,55 @@ Tabela 6
 
 Resumo de medidas por objetivo estratégico e eixo de intervenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 7
 
 Linhas de ação por medida e objetivo estratégico: Eixo Estratégico 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 8
 
 Instrumentos de ação por linhas de ação: Eixo Estratégico 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 9
 
 Linhas de ação por medida e objetivo estratégico: Eixo Estratégico 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 10
 
 Instrumentos de ação por linhas de ação: Eixo Estratégico 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 11
 
 Linhas de ação por medida e objetivo estratégico: Eixo Estratégico 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 12
 
 Instrumentos de ação por linhas de ação: Eixo Estratégico 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 13
 
 Linhas de ação por medida e objetivo estratégico: Eixo Estratégico 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 Tabela 14
 
 Instrumentos de ação por linhas de ação: Eixo Estratégico 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 4.2 - Objetivos estratégicos e metas
 
@@ -981,7 +1101,7 @@ Tabela 15
 
 Objetivos estratégicos e metas da ELPPE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf))](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2024/01/00500/0006900121.pdf)
 
 4.3 - Monitorização
 
@@ -995,34 +1115,34 @@ Calendarização da ELPPE e PACPE
 
 |  |  |
 | --- | --- |
-| ELPPE ... | Publicação no 4.º trimestre de 2023 e revisão com periodicidade quinquenal em: 3.º trimestre dos seguintes anos: 2028, 2033, 2038, 2043 e 2048. |
-| PACPE ... | Planos de Ação para o Combate à Pobreza Energética decenais (horizontes 2030, 2040 e 2050), revistos com periodicidade trienal: PACPE 2024-2030 - O ONPE - PT deve apresentar proposta no 4.º trimestre de 2023 Avaliação e revisão do PACPE 2024-2030, no 4.º trimestre de 2027 e 2030 Elaboração do PACPE 2031-2040, no 4.º trimestre de 2030 Avaliação e revisão do PACPE 2031-2040, no 4.º trimestre de 2033, 2036 e em 2039 PACPE 2041-2050, no 4.º trimestre de 2040 Avaliação e revisão do PACPE 2041-2050, no 4.º trimestre de 2042, 2045 e 2048 |
+| ELPPE ... | Publicação no 4.º trimestre de 2023 e revisão com periodicidade quinquenal em:<br>3.º trimestre dos seguintes anos: 2028, 2033, 2038, 2043 e 2048. |
+| PACPE ... | Planos de Ação para o Combate à Pobreza Energética decenais (horizontes 2030, 2040 e 2050), revistos com periodicidade trienal:<br>PACPE 2024-2030 - O ONPE - PT deve apresentar proposta no 4.º trimestre de 2023<br>Avaliação e revisão do PACPE 2024-2030, no 4.º trimestre de 2027 e 2030<br>Elaboração do PACPE 2031-2040, no 4.º trimestre de 2030<br>Avaliação e revisão do PACPE 2031-2040, no 4.º trimestre de 2033, 2036 e em 2039<br>PACPE 2041-2050, no 4.º trimestre de 2040<br>Avaliação e revisão do PACPE 2041-2050, no 4.º trimestre de 2042, 2045 e 2048 |
 
 Tabela 17
 
 Cronograma da ELPPE e PACPE
 
-|  |  |  |  |  |  |  |  |  |
+| Cronograma | Anos |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cronograma | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos |
-| Cronograma | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
+| 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |  |
+|  |  |  |  |  |  |  |  |  |
 | Publicação ELPPE 2023-2050 ... | 3.º T |  |  |  |  |  |  |  |
 | Avaliação e revisão ELPPE ... |  |  |  |  |  | 3.º T |  |  |
 | Elaboração do PACPE 2024-2030 ... | 4.º T |  |  |  |  |  |  |  |
 | Avaliação e revisão PACPE 2024-2030 ... |  |  |  |  | 4.º T |  |  | 4.º T |
 | Elaboração PACPE 2031-2040 ... |  |  |  |  |  |  |  | 4.º T |
 
-|  |  |  |  |  |  |  |  |  |  |  |
+| Cronograma | Anos |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cronograma | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos |
-| Cronograma | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 | 2040 |
+| 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 | 2040 |  |
+|  |  |  |  |  |  |  |  |  |  |  |
 | Avaliação e revisão ELPPE ... |  |  | 3.º T |  |  |  |  | 3.º T |  |  |
 | Avaliação e revisão PACPE 2031-2040 ... |  |  | 4.º T |  |  | 4.º T |  |  | 4.º T |  |
 | Elaboração PACPE 2041-2050 ... |  |  |  |  |  |  |  |  |  | 4.º T |
 
-| Cronograma | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos | Anos |
+| Cronograma | Anos |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cronograma | 2041 | 2042 | 2043 | 2044 | 2045 | 2046 | 2047 | 2048 | 2049 | 2050 |
+| 2041 | 2042 | 2043 | 2044 | 2045 | 2046 | 2047 | 2048 | 2049 | 2050 |  |
 |  |  |  |  |  |  |  |  |  |  |  |
 | Avaliação e revisão ELPPE ... |  |  | 3.º T |  |  |  |  | 3.º T |  |  |
 | Avaliação e revisão PACPE 2041-2050 ... |  | 4.º T |  |  | 4.º T |  |  | 4.º T |  |  |
@@ -1153,9 +1273,9 @@ Posteriormente, decorreu um processo de consulta pública, entre 14 de abril de 
 
 ## ANEXO I — Medidas de ação previstas no PNEC 2030 para o combate à pobreza energética
 
-|  |  |
-| --- | --- |
 | Medida de ação | Objetivo |
+| --- | --- |
+|  |  |
 | 8.2.1. Promover uma estratégia de longo prazo para o combate à pobreza energética. | Aprovar uma estratégia de longo prazo para o combate à pobreza energética que melhore o conhecimento sobre esta problemática, procurando a melhor resposta ao problema e que crie uma mudança estrutural para mitigar o mesmo. |
 |  | Esta estratégia, que será elaborada em conjunto com as entidades relevantes, contará, entre outros, com representantes de entidades da administração central e local, associações de consumidores, representantes do setor da energia e academia. Terá como objetivo obter um diagnóstico e uma caracterização do problema, desenvolver indicadores de acompanhamento, estratégias de monitorização, estabelecer objetivos de redução da pobreza energética a médio e longo prazo, à escala nacional, regional e local, e propor medidas específicas para alcançar estes objetivos, bem como formas de financiamento. |
 |  | O acompanhamento da implementação desta estratégia será feito através de um grupo de trabalho multidisciplinar criado para o efeito. [Data prevista: 2020-2021] |
@@ -1190,24 +1310,24 @@ Fonte: ELPRE.
 
 ## ANEXO III — Número de beneficiários por prestação social
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Apoio | Destinatários | Condição | Apoio mensal | Beneficiários |
-| Complemento solidário para idosos. | Idosos de baixos recursos com +66 anos e 4 meses e residentes em Portugal. | Recursos (igual ou menor que) 10 252,60 (euro)/ano (casal) ou recursos (igual ou menor que)5 858,63 (euro)/ano (casado 1 titular e não casado). | 488,12 (euro)(30) | 162 646 (2022) |
-| Rendimento social de inserção. | Todos em situação de pobreza extrema. | Sozinho - a soma dos rendimentos mensais não pode ser superior ou igual a 209,11 (euro). Com familiares - a soma dos rendimentos mensais de todos os elementos do agregado familiar não pode ser igual ou superior ao valor máximo de RSI, calculado em função da composição do agregado familiar. | O valor máximo de RSI corresponde à soma dos seguintes valores, por cada elemento do agregado familiar: | 262 251 (2022) |
-|  |  | Sozinho - a soma dos rendimentos mensais não pode ser superior ou igual a 209,11 (euro). Com familiares - a soma dos rendimentos mensais de todos os elementos do agregado familiar não pode ser igual ou superior ao valor máximo de RSI, calculado em função da composição do agregado familiar. | - Pelo titular - 209,11 (euro) (100 %) do valor do RSI |  |
-|  |  | Sozinho - a soma dos rendimentos mensais não pode ser superior ou igual a 209,11 (euro). Com familiares - a soma dos rendimentos mensais de todos os elementos do agregado familiar não pode ser igual ou superior ao valor máximo de RSI, calculado em função da composição do agregado familiar. | - Por cada individuo maior - 146,38 (euro) (70 %) do valor do RSI |  |
-|  |  | Sozinho - a soma dos rendimentos mensais não pode ser superior ou igual a 209,11 (euro). Com familiares - a soma dos rendimentos mensais de todos os elementos do agregado familiar não pode ser igual ou superior ao valor máximo de RSI, calculado em função da composição do agregado familiar. | - Por cada individuo menor - 104,56 (euro) (50 %) do valor do RSI(31) |  |
-| Prestações de desemprego(32). | Desempregados para compensar a falta de remuneração. | - Residência no território nacional; | Varia consoante a tipologia. | 38 836 (2022) |
-|  | Desempregados para compensar a falta de remuneração. | - Situação de desemprego involuntário; |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Complemento solidário para idosos. | Idosos de baixos recursos com +66 anos e 4 meses e residentes em Portugal. | Recursos (igual ou menor que) 10 252,60 (euro)/ano (casal) ou recursos (igual ou menor que)5 858,63 (euro)/ano (casado 1 titular e não casado). | 488,12 (euro)(30) | 162 646<br>(2022) |
+| Rendimento social de inserção. | Todos em situação de pobreza extrema. | Sozinho - a soma dos rendimentos mensais não pode ser superior ou igual a 209,11 (euro).<br>Com familiares - a soma dos rendimentos mensais de todos os elementos do agregado familiar não pode ser igual ou superior ao valor máximo de RSI, calculado em função da composição do agregado familiar. | O valor máximo de RSI corresponde à soma dos seguintes valores, por cada elemento do agregado familiar: | 262 251<br>(2022) |
+|  |  | - Pelo titular - 209,11 (euro) (100 %) do valor do RSI |  |  |
+|  |  | - Por cada individuo maior - 146,38 (euro) (70 %) do valor do RSI |  |  |
+|  |  | - Por cada individuo menor - 104,56 (euro) (50 %) do valor do RSI(31) |  |  |
+| Prestações de desemprego(32). | Desempregados para compensar a falta de remuneração. | - Residência no território nacional; | Varia consoante a tipologia. | 38 836<br>(2022) |
+|  | - Situação de desemprego involuntário; |  |  |  |
 |  |  | - Capacidade e disponibilidade para o trabalho; |  |  |
 |  |  | - Inscrição para procura de emprego no centro de emprego da área da residência; |  |  |
 |  |  | - Cumprimento do prazo de garantia exigido (360 dias de trabalho por conta de outrem com registo de remunerações nos 24 meses anteriores à data do desemprego) |  |  |
-| Abono de família(33) ... | Agregados familiares com crianças/jovens. | 1.º escalão: rendimentos do agregado (igual ou menor que) 3 102,40 (euro); | Calculado em função: - Da idade da criança ou jovem; | 1 221 794 (2022) |
-|  |  | 2.º escalão: rendimentos do agregado (maior que) 3 102,40 (euro) e (igual ou menor que) 6 204,80 (euro). | - Da composição do agregado familiar; - Do rendimento de |  |
+| Abono de família(33) ... | Agregados familiares com crianças/jovens. | 1.º escalão: rendimentos do agregado (igual ou menor que) 3 102,40 (euro); | Calculado em função:<br>- Da idade da criança ou jovem; | 1 221 794<br>(2022) |
+|  |  | 2.º escalão: rendimentos do agregado (maior que) 3 102,40 (euro) e (igual ou menor que) 6 204,80 (euro). | - Da composição do agregado familiar;<br>- Do rendimento de |  |
 |  |  | 3.º escalão: rendimentos do agregado (maior que) 6 204,80 (euro) e(igual ou menor que) 10 548,16 (euro). | referência do agregado familiar, em que a mesma se insere, agrupados |  |
 |  |  | 4.º escalão: rendimentos do agregado 10 548,16 (euro) e(igual ou menor que) 15 512,00 (euro). | em escalões indexados. |  |
-| Pensão social de invalidez do regime especial de proteção na invalidez ou do complemento da prestação social para a inclusão. | Pensão social de invalidez do regime especial de proteção na invalidez - Incapacidade permanente para o trabalho. | Pensão social de invalidez do regime especial de proteção na invalidez: - Idade superior a 18 anos; | 278,05 (euro)(34) n.e.(35) | n.e. |
+| Pensão social de invalidez do regime especial de proteção na invalidez ou do complemento da prestação social para a inclusão. | Pensão social de invalidez do regime especial de proteção na invalidez - Incapacidade permanente para o trabalho. | Pensão social de invalidez do regime especial de proteção na invalidez:<br>- Idade superior a 18 anos; | 278,05 (euro)(34)<br>n.e.(35) | n.e. |
 |  | Complemento da prestação social para a inclusão - Tem como objetivo combater a pobreza das pessoas com deficiência. | - Não estar abrangido por qualquer regime de proteção social obrigatório ou pelos transitórios dos rurais ou, estando, não ter os períodos de garantia exigidos para acesso à pensão de invalidez; |  |  |
 |  |  | - Ser pensionista de invalidez ou de sobrevivência com pensão de valor inferior ao da pensão social. |  |  |
 |  |  | Complemento da prestação social para a inclusão: |  |  |
@@ -1306,3 +1426,7 @@ O modelo de financiamento da tarifa social de eletricidade foi recentemente revi
 (34) Pensão social de invalidez do regime especial de proteção na invalidez http://www.seg-social.pt/pensao-de-invalidez.
 
 (35) Complemento da prestação social para a inclusão.
+
+117208275
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl14 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl15 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl16 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl17 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl20 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl21 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl22 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl23 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl24 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl25 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl26 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl27 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl28 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl29 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl30 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl31 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl32 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl33 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl34 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

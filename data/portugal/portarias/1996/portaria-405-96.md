@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/405/1996/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/405-1996-406519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe89b21aa173282b00d91d42ebf62541f917e8997c88841696c8d1dc3467b60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880e4baf395a874ad16f2cb89e51a999ef148f7643a46ed85b165d12c145e648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Contrato de Concessão
 - Combustível
+- Contrato de Concessão
 - Importação
 - Serviço Público
 relationships:
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:51Z'
   warnings: []
   errors: []
 ---
@@ -183,10 +183,10 @@ O incumprimento das disposições estabelecidas no número anterior são conside
 
 Ministério da Economia.
 
-**Assinada em 31 de Julho de 1996.**
+Assinada em 31 de Julho de 1996.
 
 Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estado da Indústria e Energia.
 
 ## ANEXO — Lista das entidades a que se refere o n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/194b00/26572658.pdf))](https://files.diariodarepublica.pt/1s/1996/08/194b00/26572658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/194b00/26572658.pdf)

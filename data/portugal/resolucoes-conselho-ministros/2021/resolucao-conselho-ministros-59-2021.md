@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/59/2021/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2021-163332292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d476cf933762eea0db22b0a4cd6a4092953fba5f7fd8b91956762396b82305a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31e0fb4381746461fb062a6ad0719ea2cc1f8d6925f08b1945f4cbdbad338787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
-- Financiamento
-- Tecnologia da Informação
-- Fundação para a Ciência e a Tecnologia
+- Agenda Portugal Digital
+- Apoio ao Investimento
 - Coordenador
 - Definição de Competências
-- Mudança Tecnológica
-- Agenda Portugal Digital
-- União Europeia
-- Apoio ao Investimento
-- Inclusão Digital
-- TIC
-- Ministério da Educação e Ciência
-- Investigação
 - Direção Geral de Estatísticas da Educação e Ciência
-- Modernização Tecnológica
-- Nova Tecnologia
-- Política Governamental
-- Secretariado Técnico
-- PORTUGAL 2020
+- Economia Digital
 - Estratégia de Inovação Tecnológica e Empresarial para Portugal 2018-2030
-- Iniciativa Nacional Competências Digitais e.2030
-- Fórum Permanente para as Competências Digitais
-- Observatório das Competências Digitais
 - Estrutura de Missão Portugal Digital
+- Financiamento
+- Fórum Permanente para as Competências Digitais
+- Fundação para a Ciência e a Tecnologia
+- Inclusão Digital
+- Iniciativa Nacional Competências Digitais e.2030
+- Investigação
+- Ministério da Educação e Ciência
+- Modernização Tecnológica
+- Mudança Tecnológica
+- Nova Tecnologia
+- Observatório das Competências Digitais
 - Plano de Ação para a Transição Digital
+- Política Governamental
+- PORTUGAL 2020
+- Secretariado Técnico
+- Tecnologia da Informação
+- TIC
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:993031449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a coordenação do programa "Iniciativa Nacional Competências Digitais e.2030-INCoDe.2030"
+    aprovado pelo presente diploma seja exercida pelo Primeiro-Ministro em articulação com a Ministra da Ciência, Tecnologia
+    e Ensino Superior, com o Ministro da Educação e com a Ministra do Trabalho, Solidariedade e Segurança Social pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09, nos termos do n.º 4 do art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja coordenado pela Ministra da Juventude e Modernização, em
+    articulação com o Ministro da Educação, Ciência e Inovação e com a Ministra do Trabalho, Solidariedade e Segurança Social,
+    o programa "Iniciativa Nacional Competências Digitais e.2030-INCoDe.2030" pelo(a) Decreto-Lei n.º 32/2024 - Diário da
+    República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2018/03/08/p/dre
   label: null
@@ -116,16 +132,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:114832288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:993031449:por
+  label: Revogada, a partir de 31 de dezembro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 216/2025 - Diário da
+    República n.º 250/2025, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/216-2025-993031449
+  date: '2025-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:52Z'
   warnings: []
   errors: []
 ---
@@ -328,28 +370,30 @@ Tabela 1
 
 Educação - Indicadores e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
 
 Tabela 2
 
 Formação e qualificação - Indicadores e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
 
 Tabela 3
 
 Inclusão - Indicadores e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
 
 Tabela 4
 
 Formação avançada - Indicadores e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
 
 Tabela 5
 
 Investigação - Indicadores e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf))](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/05/09400/0002300030.pdf)
+
+114236814

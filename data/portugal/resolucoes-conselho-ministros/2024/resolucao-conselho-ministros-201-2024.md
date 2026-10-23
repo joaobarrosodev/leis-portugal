@@ -46,36 +46,49 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/201/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2024-901536075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e990375d0505f89e128c5b01b714b01b3da827c0292093373be3b895a44f0dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d818ed07a931cbd95bd7c57d77453f1790338314337359f570109d785cef6de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência para a Modernização Administrativa
+- Comité de Acompanhamento
+- Estratégia Digital Nacional
+- Fundação para a Ciência e a Tecnologia
+- Língua Portuguesa
+- Modelo de Linguagem em Grande Escala da Língua Portuguesa de Portugal
+relationships:
+- type: repealed_by
+  target: pt:dre:1171008705:por
+  label: Revogado, a partir de 16 de setembro de 2026, com efeitos desde 1 de julho de 2026, o n.º 4 da presente Resolução
+    do Conselho de Ministros, pelo(a) Resolução do Conselho de Ministros n.º 178/2026 - Diário da República n.º 179/2026,
+    Série I de 2026-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/178-2026-1171008705
+  date: '2026-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:05Z'
   warnings: []
   errors: []
 ---
@@ -158,9 +171,9 @@ g) Criar sinergias e potenciar investimentos já realizados em outros Grandes Mo
 
 Este projeto tem uma duração prevista de 18 meses, de acordo com a seguinte calendarização:
 
-|  | 1.ºT | 2.ºT | 3.ºT | 4.ºT | 1.ºT | 2.º T |
+|  | 2025 | 2026 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 2025 | 2025 | 2025 | 2025 | 2026 | 2026 |
+| 1.ºT | 2.ºT | 3.ºT | 4.ºT | 1.ºT | 2.º T |  |
 | 1 - Modelo de Texto |  |  |  |  |  |  |
 | Recolha e pré-processamento de dados de texto |  |  |  |  |  |  |
 | Desenvolvimento e treino do Modelo versão Beta (v1.0) |  |  |  |  |  |  |
@@ -198,7 +211,8 @@ c) O investimento realizado pelo Governo Português nas infraestruturas de compu
 
 4 - Modelo de governação
 
-![](https://files.diariodarepublica.pt/images/901536075/901535647.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536075/901535647.png) |
+| --- |
 
 O projeto de desenvolvimento do AMÁLIA é um projeto do Governo Português que, em virtude da sua conexão com os diversos setores, é assegurado conjuntamente pelos membros do Governo responsáveis pelas áreas da Ciência e da Modernização e da Digitalização, com o envolvimento dos organismos sobre os quais exercem os poderes de direção, de superintendência e de tutela.
 
@@ -223,3 +237,5 @@ iii) Pelo tratamento e curadoria dos dados que serão utilizados para este trein
 c) Os centros de investigação são responsáveis pelo desenvolvimento, pelo treino e pelo teste do modelo, bem como pelo desenvolvimento das integrações necessárias para a sua posterior aplicação para outras finalidades;
 
 d) O Comité de Acompanhamento Especializado é responsável por formular recomendações sobre as melhores práticas de desenvolvimento de Modelos de Linguagem de Grande Escala e o cumprimento dos princípios éticos e de segurança, bem como por aconselhar potenciais aplicações do modelo AMÁLIA nos diversos setores de atividade. Este Comité é constituído por peritos em Inteligência Artificial e presidido por uma personalidade de reconhecido mérito na área.
+
+118502128

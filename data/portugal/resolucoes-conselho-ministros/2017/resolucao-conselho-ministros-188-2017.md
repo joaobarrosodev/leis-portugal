@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23300/0651306516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/188/2017/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2017-114303789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36ce85e95ea61f6357e9e74d3ff108f623a8ebb720ca105539a5c97a939cb828
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166715c6eb3a0465a20c8aac2f246bc9f7230da6a840a131357fcb0577a14814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança Interna
+- Base de Dados
+- Confidencialidade
 - Informática
 - Política de Defesa
-- Base de Dados
-- Segurança da Informação
-- Serviço Público
-- Confidencialidade
 - Regulamento
+- Segurança da Informação
+- Segurança Interna
 - Serviço de Informações de Segurança
 - Serviço de Informações Estratégicas de Defesa
+- Serviço Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15/1996/04/30/p/dre
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/22/1998/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/22/1998/02/12/p/dre
+- type: cites
+  target: pt:dre:187112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56057575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56057576:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:13Z'
   warnings: []
   errors: []
 ---
@@ -280,3 +320,5 @@ A segurança física do Centro de Dados compreende o conjunto de medidas de prot
 ###### Artigo 14.º — Segurança dos dados
 
 O conjunto de critérios e normas técnicas, medidas e procedimentos destinados a garantir a segurança da informação e dos sistemas de informação, de forma a impedir o acesso, a alteração e a destruição de informação de uma forma não prevista ou autorizada é o previsto nas instruções para a segurança nacional, nos acordos firmados no âmbito de convenções internacionais de que Portugal seja parte ou em resoluções adotadas no seu seguimento.
+
+110961117

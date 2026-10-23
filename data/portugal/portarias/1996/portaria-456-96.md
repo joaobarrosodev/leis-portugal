@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/209b00/30753076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/456/1996/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-1996-241844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bd4c3df86aaa70eac8479f3f52f160681ef8deacdb1ccf0f88cf35baf06c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8568975e9e49f8428d3790d5d5e779a1a017cdc5ddca05709f67711fb81f3d23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instalação de Serviços
-- Tribunal de Comarca
 - MAIA
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:375191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375191:por
+  label: "Totalmente Revogada Pela Port.759-B/96.1996.12.26.MJ, DR.IS-B [298]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/759-b-1996-375191
+  date: '1996-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/300/1996/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/300/1996/07/26/p/dre
+- type: cites
+  target: pt:dre:408351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:06Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +118,6 @@ Manda o Governo, pelo Ministro da Justiça, em conformidade com o preceituado no
 
 Ministério da Justiça.
 
-**Assinada em 23 de Agosto de 1996.**
+Assinada em 23 de Agosto de 1996.
 
 Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça.

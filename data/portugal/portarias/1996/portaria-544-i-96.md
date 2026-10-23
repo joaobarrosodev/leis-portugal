@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 231/1996, 1º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3500-(7) a 3500-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b01/00070008.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-i/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-i-1996-391448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9afea2881315e339b94120830528e5173b454868af2d1525aedf5f876793fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a3472180fb86f81ae73c4a709f919e215628116e5daf13b84c87c5342044b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,31 @@ relationships:
   target: pt:dre:493747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310827:por
+  label: "Anexados vários prédios rústicos e desanexados outros criados pelo presente diploma, pela PORT.423/99.1999.06.09.MECO,\
+    \ DR.IS-B [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1999-310827
+  date: '1999-06-09'
+- type: amended_by
+  target: pt:dre:651876:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e de actividades\
+    \ de carácter venatório na zona de caça, pela PORT.673/2003.2003.07.30.MADRP, DR.IS-B [174]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/673-2003-651876
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:431069:por
+  label: "Renovada a concessão de zona de caça concedida pelo presente diploma, pela PORT.1352/2003.11.12.2003.MECO, DR.IS-B\
+    \ [285] de 11.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1352-2003-431069
+  date: '2003-12-11'
+- type: amended_by
+  target: pt:dre:493747:por
+  label: "Anexado um prédio rústico e corrigida a delimitação da zona de caça turística constante da planta anexa à Port.\
+    \ 1352/2003, de 11-Dez, na redacção conferida à presente portaria, pela PORT.894/2009.14.08.2009.MADRP, DR.IS [157] de\
+    \ 14.08.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-2009-493747
+  date: '2009-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -88,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-t7/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-t7/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:39Z'
   warnings: []
   errors: []
 ---
@@ -138,8 +187,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 26 de Setembro de 1996.**
+Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b01/00070008.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b01/00070008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b01/00070008.pdf)

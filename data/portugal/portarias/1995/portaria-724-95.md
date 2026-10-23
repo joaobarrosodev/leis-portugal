@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/724/1995/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/724-1995-464182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28b0cfd3b7da1690fb1fd5c773e2a53b500391881889cab2402ac134681ba4b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a17a54b375c9bb224f9c4241afbe0b684870be23f49672b0e60a697329fd3c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,22 @@ relationships:
   target: pt:dre:182429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251437:por
+  label: "Corrigida a validade da zona de caça pela PORT.189/2002.2002.03.04.MADRP, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2002-251437
+  date: '2002-03-04'
+- type: amended_by
+  target: pt:dre:145814:por
+  label: "Suspenso o exercício da caça, pela PORT.613/2002.2002.06.07.MADRP, DR.IS-B [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-2002-145814
+  date: '2002-06-07'
+- type: amended_by
+  target: pt:dre:182429:por
+  label: "Renovada a concessão da zona de caça associativa constante da presente portaria, corrigida pela Port 189/2002, de\
+    \ 04-Mar, pela PORT.986/2002.2002.08.06.MADRP, DR.IS-B [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/986-2002-182429
+  date: '2002-08-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:32Z'
   warnings: []
   errors: []
 ---
@@ -132,8 +172,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Junho de 1995.**
+Assinada em 21 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/155b00/43114312.pdf))](https://files.diariodarepublica.pt/1s/1995/07/155b00/43114312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/155b00/43114312.pdf)

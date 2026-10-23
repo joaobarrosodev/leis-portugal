@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/08400/0178101783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/2018/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2018-115203959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98be6f32c77abe034fc2b547823f7a6c4b9ccbdfa18aebd478f58c23333cf1fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96cd2766f34df8bddcc6bad79c49ab16942bc6b7bc6828267d3651bc8eeb12a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão Executiva
 - Coordenador
 - Definição de Competências
 - Divulgação Cultural
+- Estrutura de Missão para o Projeto Meridiano
+- Governo XXI
+- Ministério dos Negócios Estrangeiros
 - Nomeação
 - Nova Tecnologia
-- Ministério dos Negócios Estrangeiros
-- Comissão Executiva
 - Plataforma Eletrónica
-- Governo XXI
-- Estrutura de Missão para o Projeto Meridiano
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:04Z'
   warnings: []
   errors: []
 ---
@@ -223,3 +227,5 @@ O teatro também faz parte do seu percurso profissional, tendo composto para as 
 Ao longo de mais 40 anos de música portuguesa, João Gil distingue-se como compositor de algumas das músicas que farão, para sempre, parte da memória coletiva nacional: "Saudade", "125 Azul", "Loucos de Lisboa", "Postal dos Correios", entre tantas outras, são exemplos de canções com a assinatura de João Gil que se tornaram verdadeiros fenómenos de popularidade.
 
 A Sociedade Portuguesa de Autores conta com mais de 300 obras originais da autoria de João Gil, muitas das quais fazem parte da memória coletiva dos portugueses. Destaque para temas como "Timor" que, mais do que uma canção, tornou-se um verdadeiro hino da liberdade de Timor Leste.
+
+111290552

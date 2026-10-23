@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/567/1996/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1996-233105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aa9fcddf1f1265009370a544553f7cf76834515738f928abae5c53c7b5385c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c004a179db5201486350a6ba9f3190fd790e48a8d799f1e1ce38faf50da6f9a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/55/1995/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/55/1995/01/25/p/dre
+- type: cites
+  target: pt:dre:139751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:29Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +126,8 @@ Manda o Governo, pelos Ministros das Finanças e da Cultura e pelo Secretário d
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Cultura.
 
-**Assinada em 11 de Setembro de 1996.**
+Assinada em 11 de Setembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - O Secretário de Estado da Administração Pública, Fausto de Sousa Correia.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf))](https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/198/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/198-2024-901400371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b819b24c016f460a5f2016f3b3c7bf3b22d29d1ef4069883ee8fd37b5913e3a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f117da2ee3366e7b96a33002ff7b2cb5d12a157e0c534445618773c8cfd637d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,19 @@ subjects:
 - Autorização de Despesas
 - Cartão de Cidadão
 - Conselho de Ministros
-- Instituto dos Registos e do Notariado
 - Delegação de Competências
 - Despesas Públicas
 - Gestão Orçamental
-- Ministro da Justiça
 - Governo XXIV
+- Instituto dos Registos e do Notariado
+- Ministro da Justiça
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:206/2021
+  label: Altera, a partir de 28 de dezembro de 2024, os n.ºs 1 e 3 da Resolução do Conselho de Ministros n.º 206/2021, de
+    31 de dezembro, Diário da República n.º 253/2021, Série I
+  source: null
+  date: '2021-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2023/02/08/p/dre
   label: null
@@ -116,23 +122,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/206/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/206/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:107114304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169832468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840716420:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:59Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 198/2024
 
-A [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, alterada pelas Leis n.<sup>os</sup>[91/2015](https://diariodarepublica.pt/dr/detalhe/lei/91-2015-69992903), de 12 de agosto, [32/2017](https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304), de 1 de junho, [61/2021](https://diariodarepublica.pt/dr/detalhe/lei/61-2021-169832468), de 19 de agosto, e [19-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/19-a-2024-840716420), de 7 de fevereiro, que criou o cartão de cidadão e rege a sua emissão, substituição, utilização e cancelamento, visou reforçar os padrões de segurança da identificação civil e, simultaneamente, introduzir na Administração Pública e na sociedade em geral um importante instrumento para a sua modernização.
+A [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, alterada pelas Leis n.os[91/2015](https://diariodarepublica.pt/dr/detalhe/lei/91-2015-69992903), de 12 de agosto, [32/2017](https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304), de 1 de junho, [61/2021](https://diariodarepublica.pt/dr/detalhe/lei/61-2021-169832468), de 19 de agosto, e [19-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/19-a-2024-840716420), de 7 de fevereiro, que criou o cartão de cidadão e rege a sua emissão, substituição, utilização e cancelamento, visou reforçar os padrões de segurança da identificação civil e, simultaneamente, introduzir na Administração Pública e na sociedade em geral um importante instrumento para a sua modernização.
 
 Nos termos do artigo 20.º da referida lei, compete ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), conduzir as operações relativas à emissão, substituição e cancelamento do cartão de cidadão, assegurar que as operações relativas à sua personalização sejam executadas em observância dos requisitos técnicos e de segurança aplicáveis, definir os procedimentos de controlo e de segurança em matéria de credenciação dos funcionários e agentes, e assegurar que sejam emitidos os certificados para autenticação e os certificados qualificados para assinatura eletrónica qualificada.
 
@@ -156,9 +210,9 @@ Considerando que o contrato a celebrar dará lugar a encargos orçamentais nos a
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 36.º e 38.º e do n.º 1 do 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, do artigo 4.º do [Decreto-Lei n.º 235/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2015-70686126), de 14 de outubro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 36.º e 38.º e do n.º 1 do 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, do artigo 4.º do [Decreto-Lei n.º 235/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2015-70686126), de 14 de outubro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1 e 3 da [Resolução do Conselho de Ministros n.º 206/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/206-2021-176907493), de 31 de dezembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1 e 3 da [Resolução do Conselho de Ministros n.º 206/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/206-2021-176907493), de 31 de dezembro, que passam a ter a seguinte redação:
 
 «1 - Autorizar o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), a realizar a despesa inerente à aquisição dos serviços de produção, personalização, emissão e expedição do cartão de cidadão e de produtos conexos, designadamente os relativos à alteração de morada e emissão de carta PIN/Braille e de recuperação de PUK, por um período de três anos, de 1 de janeiro de 2022 a 31 de dezembro de 2024, até ao montante global de € 48 900 000, isento do imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.
 
@@ -191,3 +245,5 @@ c) 2027 - € 17 000 000.
 8 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118502266

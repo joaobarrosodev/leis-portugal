@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15200/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103/2021/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2021-169184185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1490c619f755bbc7f1ef4ebbfbe58de1442c2ee769031ef1ca080b0e6bba0d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8b430a6da28dc6c0d6306d231242cf865366e6fd2b1afcbd8fbed409ff8eb04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade da Mobilidade e dos Transportes
 - Conselho de Administração
-- Primeiro-ministro
+- Governo XXII
+- Ministro das Infraestruturas e da Habitação
 - Nomeação
 - Prazo
 - Presidente
-- Autoridade da Mobilidade e dos Transportes
-- Ministro das Infraestruturas e da Habitação
-- Governo XXII
+- Primeiro-ministro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/78/2014/05/14/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:31Z'
   warnings: []
   errors: []
 ---
@@ -163,3 +171,5 @@ Foi a primeira Ministra do Mar em Portugal com competências transversais sobre 
 Recebeu os prémios «Ambassador of the Ocean 2017» - República Popular da China, «Ocean Sustainability - 2017», NY, entre outros, e é Cidadã Honorária da Cidade de Viana do Castelo;
 
 Desde 2005 até ao presente foi Deputada eleita à Assembleia da República, sendo na presente legislatura Presidente da Comissão Parlamentar da Cultura e Comunicação, membro efetivo da Comissão de Orçamento e Finanças e suplente da Comissão de Economia, Inovação, Obras Públicas e Habitação e da Comissão dos Assuntos Constitucionais, Direitos, Liberdades e Garantias.
+
+114473107

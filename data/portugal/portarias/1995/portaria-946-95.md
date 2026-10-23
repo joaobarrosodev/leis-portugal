@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/176b00/49074907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/946/1995/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/946-1995-484403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7b5b887a9700f9bc2a3624cb00c951631211cd53b2621662e17e46f6cfb107d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15d172850a5e7a0119abf3b4e0156b5059b81af568d38fb2e314bdf2ce475fe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
-- Direcção Geral das Florestas
-- Instituto Florestal
 - Certificado de Qualidade
-- Política Agrícola Comum
-- Exploração Florestal
-- Regulamento
-- Política Florestal
 - Comércio
+- Direcção Geral das Florestas
+- Exploração Florestal
+- Instituto Florestal
+- Política Agrícola Comum
+- Política Florestal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:118051706:por
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/134/1994/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/134/1994/03/04/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505211:por
+  label: "Revogada a partir da entrada em vigor do DEC LEI.205/2003.2003.09.12.MADRP DR.IS-A [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2003-505211
+  date: '2003-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:56Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +141,6 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, o segu
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 5 de Julho de 1995.**
+Assinada em 5 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.

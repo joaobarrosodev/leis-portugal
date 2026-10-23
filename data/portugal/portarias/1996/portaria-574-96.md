@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/574/1996/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1996-230956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d655a1f05054ce0c0a830330a998d387fc0c203f9696250d43f940173ae77f2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af86d13c4e4fade9b1b610f0ca695bec819d9d59f5671eba1f2fd9bc75562d14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Inspeção Geral da Administração Interna
 - Livre Trânsito
 - Pessoal de Chefia
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
+- type: cites
+  target: pt:dre:561468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:53Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +121,9 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 Ministério da Administração Interna.
 
-**Assinada em 16 de Setembro de 1996.**
+Assinada em 16 de Setembro de 1996.
 
-**O Ministro da Administração Interna, Alberto Bernardes Costa.**
+O Ministro da Administração Interna, Alberto Bernardes Costa.
 
 ## ANEXO — Modelo I
 
@@ -145,7 +149,7 @@ O resto: preto;
 
 Escudo: dourado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf))](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf)
 
 Modelo II
 
@@ -169,4 +173,4 @@ O resto: preto;
 
 Escudo: dourado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf))](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/237b00/35823584.pdf)

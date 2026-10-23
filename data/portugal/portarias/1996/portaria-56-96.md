@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56/1996/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-1996-609373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e03fe4d0ff3aa18301d83997e4b636c46cfdc2b868166491cde9da07ae112b44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5953c718658a37d93a2698a6d1990ece8444b34f4770c3a6f0fcd9c234b0c472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - CEE
-- Leite
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Exploração Pecuária
 - Higiene Alimentar
 - Importação
 - Inspecção dos Alimentos
 - Lacticínios
-- Embalagem
+- Leite
 - Política Agrícola Comum
 - Produção Leiteira
+- Produto Alimentar
 - Proteção do Consumidor
 - Queijo
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
@@ -105,16 +105,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533/1993/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533/1993/05/21/p/dre
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada a Port 533/93, de 21-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:17Z'
   warnings: []
   errors: []
 ---
@@ -147,15 +153,19 @@ i) Que pertençam a uma exploração ovina e caprina oficialmente indemne ou ind
 
 ...
 
-## ANEXO C — [...]
+ANEXO C
 
-### CAPÍTULO II — [...]
+[...]
+
+CAPÍTULO II
+
+[...]
 
 A - ...
 
 1 - Critérios obrigatórios - germes patogénicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf))](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf)
 
 Além disso, os microrganismos patogénicos e as respectivas toxinas não devem estar presentes em quantidades susceptíveis de afectarem a saúde dos consumidores.
 
@@ -165,7 +175,7 @@ Os programas de amostragem serão estabelecidos em função da natureza dos prod
 
 2 - Critérios analíticos - germes testemunhas de falta de higiene:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf))](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/045b00/03400341.pdf)
 
 Caso estas normas sejam ultrapassadas, deve ser efectuada uma revisão dos métodos de controlo dos pontos críticos aplicados no estabelecimento de transformação. A autoridade competente deve ser informada dos processos de rectificação introduzidos no sistema de controlo da produção.
 
@@ -177,6 +187,6 @@ Além disso, no que diz respeito aos queijos com leite cru e com leite termizado
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 25 de Janeiro de 1996.**
+Assinada em 25 de Janeiro de 1996.
 
-**O Ministro da Economia, Daniel Bessa Fernandes Coelho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.**
+O Ministro da Economia, Daniel Bessa Fernandes Coelho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

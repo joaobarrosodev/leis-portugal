@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29
   number: '249'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5142-(32) a 5142-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24903/0003200032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84-b/2016/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-b-2016-105658702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36b096dece1cc70fdcf5e7a222e5c2b941895e4e42137e185452bd5acef3b852
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dae8d037a1cf854a1f56854331596b319f206e4b38f53216da5df872f51295a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Centro de Conferência de Facturas
-- Ministro da Saúde
 - Delegação de Competências
 - Despesas Públicas
-- Serviço Nacional de Saúde
 - Governo XXI
+- Ministro da Saúde
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/6/2013/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/2013/01/22/p/dre
+- type: cites
+  target: pt:dre:174548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73943937:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:32Z'
   warnings: []
   errors: []
 ---

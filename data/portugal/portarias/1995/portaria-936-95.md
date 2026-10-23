@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/936/1995/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-1995-485272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a215766dccee9bd12714eeb238c4d15a6d8c8ee9463a5817b29b2c4d33ae1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac36b9fcbe2de79f428f25c2a340b46cc72d5e6240a76f32006569b7127ccc97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Imóvel Classificado
 - Património Cultural
+- Protecção do Património
 - Setúbal
 - Zona de Proteção
-- Protecção do Património
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
@@ -80,16 +80,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:38Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +120,8 @@ Manda o Governo, pelo Subsecretário de Estado da Cultura, que seja fixado, conf
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 7 de Julho de 1995.**
+Assinada em 7 de Julho de 1995.
 
 O Subsecretário de Estado da Cultura, Manuel Joaquim Barata Frexes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/170b00/47354735.pdf))](https://files.diariodarepublica.pt/1s/1995/07/170b00/47354735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/170b00/47354735.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/173b00/21462147.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/310/1996/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-1996-408488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c65eb6c3e87d4365768127b70126221892eca4eac3d0ba9d6d198683d70783
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6830ee3c23549c796be7227f2b4b3cf05ca2590ec75b1308c75e3adee2512c46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
 - Curso de Engenharia Civil
 - Curso de Engenharia de Construção Civil
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Castelo Branco
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:694179:por
@@ -84,16 +84,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/215/1995/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/215/1995/03/24/p/dre
+- type: cites
+  target: pt:dre:172499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694179:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.991/99.1999.11.03.ME,DR.IS-B [256] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-1999-694179
+  date: '1999-11-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:30Z'
   warnings: []
   errors: []
 ---
@@ -166,8 +184,8 @@ Disposição revogatória
 
 Ministério da Educação.
 
-**Assinada em 25 de Junho de 1996.**
+Assinada em 25 de Junho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/173b00/21462147.pdf))](https://files.diariodarepublica.pt/1s/1996/07/173b00/21462147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/173b00/21462147.pdf)

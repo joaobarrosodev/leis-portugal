@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/339/1996/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1996-411785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 013211e7934225f8c01edf2c463f3d256c4370639e9f888d60c676461f71badf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce15791e9ae5f2e7278fab48a213a82a06ab1c57d389f0d0ed4f129bb9ad4ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Seguro
 - Responsabilidade Civil
+- Seguro
 - Seguro Obrigatório de Responsabilidade Civil
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:17Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +100,6 @@ Manda o Governo, pelo Ministro da Economia, que o valor mínimo de garantia do s
 
 Ministério da Economia.
 
-**Assinada em 10 de Julho de 1996.**
+Assinada em 10 de Julho de 1996.
 
 Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estado da Indústria e Energia.

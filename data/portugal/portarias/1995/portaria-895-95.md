@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/895/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1995-460249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7998ee1d7f3d0db312f086ea0c5cadd37c10f138abd6e4a3dc758a65897a7f02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b3da76b935e3cc9431136c24f70342d4e8dbe59234711f9b03fde09bcd18e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,23 @@ relationships:
   target: pt:dre:640327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253623:por
+  label: "Alterado o nº 1 e substituída a planta anexa pela PORT.647-D/96.1996.11.11.MADRP, DR.IS-B [261]Supl de 11/Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-d-1996-253623
+  date: '1996-11-11'
+- type: amended_by
+  target: pt:dre:194613:por
+  label: "Alterado o num 1 e aditado um num 1-A pela Port 758/97.1997.08.28.MADRP, DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-1997-194613
+  date: '1997-08-28'
+- type: amended_by
+  target: pt:dre:640327:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pelo presente diploma, alterada pelas\
+    \ Portarias 647-D/96, de 11 de Novembro e 758/97, de 28 de Agosto e anexados vários prédios rústicos à citada zona de\
+    \ caça, pela PORT.1124/2007.10.09.2007.MAOTDR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1124-2007-640327
+  date: '2007-09-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:35Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +162,8 @@ Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturai
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 26 de Junho de 1995.**
+Assinada em 26 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/45024503.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/45024503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45024503.pdf)

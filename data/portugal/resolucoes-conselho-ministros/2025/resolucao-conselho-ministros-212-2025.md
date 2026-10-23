@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/212/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/212-2025-992627259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dce17598e8027b56b49180908b5bb1017a7b17caf5d93e19ef8fa891e0cbb50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bd4b016b6d28f3a540bdc03b71526fc26e30039fa096775b2227cc42937d8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caderno de Encargos
-- Transporte Aéreo
 - Empresa Pública
 - Parpública
 - Privatização
 - TAP
 - Transporte
+- Transporte Aéreo
 - Venda
 relationships:
 - type: cites
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/141-b/2025/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/141-b/2025/09/22/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:936209684:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:15Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +129,9 @@ Determina o n.º 6 do artigo 11.º do Caderno de Encargos que os interessados qu
 
 Assim:
 
-Nos termos das alíneas g) e h) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 92/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302), de 14 de agosto, do n.º 1 do artigo 5.º, dos n.<sup>os</sup> 1 e 6 do artigo 11.º e dos n.<sup>os</sup>1 e 7 do artigo 12.º do caderno de encargos da venda direta de referência, aprovado como anexo i da [Resolução do Conselho de Ministros n.º 141-B/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-b-2025-936209684), de 22 de setembro, e das alíneas c) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos das alíneas g) e h) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 92/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302), de 14 de agosto, do n.º 1 do artigo 5.º, dos n.os 1 e 6 do artigo 11.º e dos n.os1 e 7 do artigo 12.º do caderno de encargos da venda direta de referência, aprovado como anexo i da [Resolução do Conselho de Ministros n.º 141-B/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-b-2025-936209684), de 22 de setembro, e das alíneas c) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Sem prejuízo do disposto no n.º 4 do artigo 7.º e nos n.<sup>os</sup>7 e 8 do artigo 11.º do caderno de encargos da venda direta de referência, aprovado como anexo i da [Resolução do Conselho de Ministros n.º 141-B/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-b-2025-936209684), de 22 de setembro (Caderno de Encargos), convidar os interessados Air France-KLM S. A., Deutsche Lufthansa Aktiengesellschaft e International Consolidated Airlines Group, S. A., a integrar a segunda etapa da venda direta de referência.
+1 - Sem prejuízo do disposto no n.º 4 do artigo 7.º e nos n.os7 e 8 do artigo 11.º do caderno de encargos da venda direta de referência, aprovado como anexo i da [Resolução do Conselho de Ministros n.º 141-B/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-b-2025-936209684), de 22 de setembro (Caderno de Encargos), convidar os interessados Air France-KLM S. A., Deutsche Lufthansa Aktiengesellschaft e International Consolidated Airlines Group, S. A., a integrar a segunda etapa da venda direta de referência.
 
 2 - Determinar que a PARPÚBLICA - Participações Públicas (SGPS), S. A. (PARPÚBLICA), remeta o referido convite, nos termos do disposto no n.º 6 do artigo 11.º do Caderno de Encargos, bem como a carta de processo da segunda etapa da venda direta de referência, a cada um dos interessados referidos no n.º 1 da presente resolução.
 
@@ -134,3 +146,5 @@ b) A competência para, nos termos do n.º 3 do artigo 19.º do Caderno de Encar
 5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119919873

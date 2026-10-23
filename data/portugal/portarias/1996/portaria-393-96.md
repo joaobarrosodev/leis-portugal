@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/1996/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1996-406542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9afa983c521af6ea2398b992e84f441f0ea641706cc5466d7179f4b4f6f3b22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e83204b39297cb483c2ba2c1d5f4e994ed5408b38d521f55b478baf720f7c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Ajuda Comunitária
-- Produção Animal
+- Agricultor
+- Agricultura
 - Agrupamento de Produtores
-- Vida Selvagem
+- Ajuda Comunitária
 - Castro Verde
 - CEE
-- Formação Profissional
-- Exploração Agrícola
-- Proteção do Ambiente
 - Espécie Protegida
+- Exploração Agrícola
 - Exploração Florestal
-- Programa
-- Programa Agrícola
-- Proteção Fitossanitária
-- Agricultor
+- Formação Profissional
+- Ifadap
+- Pesticida
 - Política Agrícola
 - Produção Agrícola
+- Produção Animal
+- Produto Fitofarmacêutico
+- Produto Químico
+- Programa
+- Programa Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Recursos Naturais
 - Regulamento CE
-- Pesticida
-- Produto Fitofarmacêutico
-- Agricultura
-- Ifadap
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:475972:por
@@ -120,16 +120,31 @@ relationships:
   target: celex:31995R2772
   label: null
   source: http://data.europa.eu/eli/reg/1995/2772/oj
+- type: corrected_by
+  target: pt:dre:516522:por
+  label: "Rectificada pela DECL-RECT.14-I/96.1996.09.30.PCM DR.IS-B [227]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-i-1996-516522
+  date: '1996-09-30'
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogados os nºs 1 a 5 e 8 pela PORT.85/98.1998.02.19.MADRP, DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
+- type: repealed_by
+  target: pt:dre:475972:por
+  label: "Revogado o nº 7 a pela PORT.346/98.1998.06.05.MADRP, DR.IS-B [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1998-475972
+  date: '1998-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:32Z'
   warnings: []
   errors: []
 ---
@@ -170,11 +185,11 @@ N.º 10.º, alínea b), i): 573,6 ECU.
 
 3.º Os valores fixados no anexo da Portaria n.º 858/94, de 23 de Setembro, rectificada pela Declaração de Rectificação n.º 180/94, publicada no DR, 1.ª série, n.º 227, de 30 de Setembro de 1994, são alterados para os seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf))](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
 
 4.º Os valores fixados nos anexos II, III, IV e V da Portaria n.º 698/94, de 26 de Junho, são alterados para os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf))](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
 
 5.º Os valores fixados na Portaria n. 703/94, de 28 de Julho, são alterados para os seguintes montantes:
 
@@ -184,7 +199,7 @@ N.º 10.º: 84,5 ECU;
 
 N.º 12.º: 144,9 ECU;
 
-## Anexo II: — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf))](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
+## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
 
 6.º Os valores fixados na Portaria n.º 693/94, de 23 de Julho, são alterados para os montantes:
 
@@ -214,12 +229,12 @@ N.º 7.º, n.º 2:
 
 28376,5 ECU.
 
-## Anexo V: — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf))](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
+## Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
 
 8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 25 de Julho de 1996.**
+Assinada em 25 de Julho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

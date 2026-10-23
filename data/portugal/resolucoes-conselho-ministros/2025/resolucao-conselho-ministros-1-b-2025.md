@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1-b/2025/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-b-2025-903628802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14fcea4739dce88047e6d33d8c3f7ddd1e5cc87d3513babfe655e7386faac35b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 121e890b7b22ad25fbcf51ddcecf1a60f160a30ef194fee53ea7ad1a565b01e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Comissão de Coordenação e Desenvolvimento Regional
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Governo XXIV
 - Ministro da Agricultura e Pescas
 - Nomeação
 - Vice-presidente
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2024/12/06/p/dre
@@ -96,23 +96,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225125603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204480:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:34Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 1-B/2025
 
-Nos termos do disposto nos n.<sup>os</sup>1 e 5 do artigo 13.º da lei orgânica das comissões de coordenação e desenvolvimento regional, aprovada em anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, na sua redação atual (lei orgânica das CCDR), conjugado com o n.º 2 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, EGP, um dos vice-presidentes de cada CCDR, I. P., é designado por resolução do Conselho de Ministros sob proposta do membro do Governo responsável pela área da agricultura e pescas, de cuja superintendência e tutela depende, e é responsável pelos departamentos da CCDR, I. P., dedicados à agricultura, desenvolvimento rural e pescas, por um mandato de quatro anos.
+Nos termos do disposto nos n.os1 e 5 do artigo 13.º da lei orgânica das comissões de coordenação e desenvolvimento regional, aprovada em anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, na sua redação atual (lei orgânica das CCDR), conjugado com o n.º 2 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, EGP, um dos vice-presidentes de cada CCDR, I. P., é designado por resolução do Conselho de Ministros sob proposta do membro do Governo responsável pela área da agricultura e pescas, de cuja superintendência e tutela depende, e é responsável pelos departamentos da CCDR, I. P., dedicados à agricultura, desenvolvimento rural e pescas, por um mandato de quatro anos.
 
 Decorre do n.º 2 do artigo 7.º da lei orgânica das CCDR que ao presidente e aos membros do conselho diretivo das CCDR, I. P., é aplicável o estatuto remuneratório estabelecido no EGP.
 
@@ -120,7 +140,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do EGP, a Comissão de Recrutam
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1 e 5 do artigo 13.º do anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 4 de dezembro, [68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, e [103/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), de 6 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1 e 5 do artigo 13.º do anexo ao [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, alterado pelos Decretos-Leis n.os[114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 4 de dezembro, [68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, e [103/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), de 6 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do membro do Governo responsável pela área da agricultura e pescas, para os cargos de vice-presidente de cada comissão de coordenação e desenvolvimento regional, I. P. (CCDR, I. P.), por um mandato de quatro anos, as seguintes personalidades, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante:
 
@@ -163,3 +183,5 @@ Joaquim Roberto Pereira Grilo.
 Licenciatura em Economia pela Universidade de Évora (2000). Curso de Especialização de Mestrado em Relações Internacionais e Estudos Europeus da Universidade de Évora (2006). Seminário de Alta Direção pelo INA (2005). CAGEP - Curso Avançado de Gestão Pública pelo INA (2013).
 
 Economista sénior (2023). Desde 2021, funções de coordenador do órgão de acompanhamento das Dinâmicas Regionais do Alentejo na CCDR Alentejo. Presidente da CCDR Alentejo e presidente da Autoridade de Gestão do Programa Operacional Regional Alentejo 2020 (2015-2020). Vice-presidente da CCDR Alentejo (2012-2015). Técnico superior na Entidade Regional do Turismo do Alentejo (2009-2012).
+
+118567667

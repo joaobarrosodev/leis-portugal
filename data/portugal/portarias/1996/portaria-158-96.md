@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/114b00/11691169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/1996/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1996-468780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6660c90c6d6866f15913a6eb5615b9ec7dad3314dea80e9fd549a077dc8bd90a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2ae3e304e7f9d32d893308fbfa6e0801c33f70d2f787df37aa887e077831cb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Justiça
 - Magistrado do Ministério Público
-- Quadro de Pessoal
 - Ministério Público
+- Pessoal de Justiça
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:543372:por
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/676/1994/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/676/1994/07/20/p/dre
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543372:por
+  label: "Revogada pela PORT.265/99.1999.04.12.MJ, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-1999-543372
+  date: '1999-04-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:40Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +129,6 @@ Manda o Governo, pelo Ministro da Justiça, em conformidade com o disposto no n.
 
 Ministério da Justiça.
 
-**Assinada em 26 de Abril de 1996.**
+Assinada em 26 de Abril de 1996.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

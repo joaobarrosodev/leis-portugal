@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/387/1996/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1996-406538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c898af888783f7dbb73ce23eb70fb999ff4a79faacd60289ffabb0c55b8287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59234cbcb90aeb9743b1b720ad344c5014699ffe28d4e95e9598ce06c58ef808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Criação de Lugares
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Pessoal de Informática
 - Quadro de Pessoal
 relationships:
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/771/1993/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/771/1993/09/03/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:516521:por
+  label: "Rectificada pela DECL-RECT.14-H/96.1996.09.27.PCM DR.IS-B [227]4ºSupl de 30.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-h-1996-516521
+  date: '1996-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:25Z'
   warnings: []
   errors: []
 ---
@@ -116,10 +133,10 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvime
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 11 de Julho de 1996.**
+Assinada em 11 de Julho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - Pelo Ministro Adjunto, Fausto da Fonseca Correia, Secretário de Estado da Administração Pública.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/193b00/26052605.pdf))](https://files.diariodarepublica.pt/1s/1996/08/193b00/26052605.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26052605.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/158b00/18551862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/252/1996/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/252-1996-423031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 595e93ba9090d4235cb4d67990d805f3c844de6b2ac28f3abdf58939d7efc959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 737876dbe002af07a791f2bd4a54e37be0ea966970591303c692a4bc828fd589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Matadouro
-- Produção Animal
+- Abate de Animais
 - Carne
 - Carne de Caprino
 - Carne de Cavalo
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
-- Definição de Competências
-- Controlo Sanitário
-- Saúde Pública
-- Carne de Ovino
-- Abate de Animais
 - Certificado de Qualidade
-- Embalagem
-- Regulamento
 - Comércio
+- Controlo Sanitário
+- Definição de Competências
+- Embalagem
+- Matadouro
+- Produção Animal
+- Regulamento
+- Saúde Pública
 - Troca Intracomunitária
 - Veterinário
 relationships:
@@ -117,16 +117,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/971/1994/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/971/1994/10/29/p/dre
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada a Port 971/94, de 29-Out, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 6
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:05Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +161,7 @@ Manda o Governo, pelos Ministros da Economia, da Agricultura, do Desenvolvimento
 
 q) Centro de reacondicionamento: um estabelecimento ou um entreposto em que se proceda ao reagrupamento e ou à reembalagem de carnes acondicionadas destinadas a serem colocadas no mercado.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -223,7 +229,7 @@ a) Preencher as condições referidas nos n.os 1 a 7;
 
 b) Ser desembaladas e reembaladas num centro de reacondicionamento que satisfaça as condições enunciadas no capítulo I do anexo I, aprovado e controlado nos termos do artigo 10.º
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Em derrogação do disposto no artigo 3.º, pode ser autorizada a colocação no mercado de carnes provenientes de matadouros que não preencham as condições enunciadas nos capítulos I e II do anexo I, desde que respeitem os requisitos seguintes:
 
@@ -297,7 +303,7 @@ b) Na parte inferior: o número de aprovação veterinária do estabelecimento.
 
 9 - Os matadouros que beneficiem das derrogações previstas no presente artigo serão sujeitos à inspecção comunitária prevista para os estabelecimentos aprovados.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Serão declaradas impróprias para consumo humano pelo veterinário oficial:
 
@@ -401,7 +407,7 @@ d) A análise prevista na alínea a) não será efectuada em relação à carne 
 
 3 - As garantias previstas no n.º 2 serão aplicáveis de acordo com os programas operacionais apresentados pela Finlândia e pela Suécia.
 
-###### Artigo 6.º
+Artigo 6.º
 
 ...
 
@@ -417,7 +423,7 @@ e) Aquando do transporte para o matadouro, o animal deve ser acompanhado de ates
 
 8 - As carnes devem ser munidas da marca de salubridade prevista no n.º 6 do artigo 4.º
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - ...
 
@@ -427,7 +433,7 @@ c) A presença periódica de um veterinário oficial num entreposto frigorífico
 
 ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 ...
 
@@ -443,7 +449,9 @@ c) A presença periódica de um veterinário oficial num entreposto frigorífico
 
 ...
 
-### CAPÍTULO II — Condições especiais de aprovação dos matadouros
+CAPÍTULO II
+
+Condições especiais de aprovação dos matadouros
 
 ...
 
@@ -459,7 +467,9 @@ i) ...
 
 ...
 
-### CAPÍTULO VI — Inspecção sanitária ante mortem
+CAPÍTULO VI
+
+Inspecção sanitária ante mortem
 
 25 - Os animais devem ser sujeitos à inspecção ante mortem num prazo inferior a vinte e quatro horas após a sua chegada ao matadouro e inferior a vinte e quatro horas antes do abate, podendo o veterinário oficial efectuar uma inspecção em qualquer outro momento.
 
@@ -469,7 +479,9 @@ Todos os animais a abater devem apresentar uma identificação que permita à au
 
 ...
 
-### CAPÍTULO VII — Higiene do abate dos animais, da desmancha e da manipulação das carnes frescas
+CAPÍTULO VII
+
+Higiene do abate dos animais, da desmancha e da manipulação das carnes frescas
 
 ...
 
@@ -477,13 +489,17 @@ Todos os animais a abater devem apresentar uma identificação que permita à au
 
 ...
 
-### CAPÍTULO IX — Normas relativas às carnes destinadas a serem desmanchadas
+CAPÍTULO IX
+
+Normas relativas às carnes destinadas a serem desmanchadas
 
 43 - A desmancha em peças mais pequenas que as referidas no n.º 1 do artigo 3.º do Regulamento, a desossa ou o corte das miudezas só é autorizado em estabelecimentos de desmancha aprovados.
 
 ...
 
-### CAPÍTULO XI — Marcação de salubridade
+CAPÍTULO XI
+
+Marcação de salubridade
 
 49 - A marcação de salubridade deve ser efectuada sob controlo do veterinário oficial. Para o efeito, este deverá supervisionar:
 
@@ -543,7 +559,9 @@ Sempre que as carnes forem reembaladas num estabelecimento diferente daquele em 
 
 58 - Os corantes utilizados na marca de salubridade devem ser os previstos no n.º 8 do artigo 2.º da Directiva n.º [94/36/CE](http://data.europa.eu/eli/dir/1994/36/oj?locale=pt).
 
-### CAPÍTULO XII — Acondicionamento e embalagem de carnes frescas
+CAPÍTULO XII
+
+Acondicionamento e embalagem de carnes frescas
 
 59 - a) As embalagens devem obedecer a todas as regras de higiene e, nomeadamente:
 
@@ -589,11 +607,15 @@ As carnes frescas também podem ser embaladas num estabelecimento de desmancha, 
 
 64 - As embalagens referidas no presente capítulo só podem conter carnes desmanchadas que pertençam à mesma espécie animal, excepto no caso de porções comerciais destinadas à venda directa ao consumidor.
 
-### CAPÍTULO XIII — Certificado de salubridade
+CAPÍTULO XIII
+
+Certificado de salubridade
 
 ...
 
-### CAPÍTULO XIV — Armazenagem
+CAPÍTULO XIV
+
+Armazenagem
 
 66 - As carnes frescas devem ser arrefecidas imediatamente após a inspecção post mortem e mantidas, permanentemente, a uma temperatura igual ou inferior a 7ºC para as carcaças e peças respectivas e a 3ºC para as miudezas.
 
@@ -601,11 +623,13 @@ O IPPAA pode conceder, caso a caso, derrogações a esta exigência, tendo em vi
 
 ...
 
-## ANEXO II
+ANEXO II
 
 ...
 
-### CAPÍTULO II — Condições especiais de aprovação dos matadouros de fraca capacidade
+CAPÍTULO II
+
+Condições especiais de aprovação dos matadouros de fraca capacidade
 
 10 - ...
 
@@ -623,7 +647,9 @@ f) Instalações de refrigeração de capacidade proporcional à importância e 
 
 ...
 
-## ANEXO IV — Modelo
+ANEXO IV
+
+Modelo
 
 ...
 
@@ -655,6 +681,6 @@ iii) A carne é proveniente de um estabelecimento abrangido por um programa refe
 
 Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e do Ambiente.
 
-**Assinada em 14 de Junho de 1996.**
+Assinada em 14 de Junho de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra do Ambiente, José Sócrates Carvalho Pinto de Sousa, Secretário de Estado Adjunto da Ministra do Ambiente.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra do Ambiente, José Sócrates Carvalho Pinto de Sousa, Secretário de Estado Adjunto da Ministra do Ambiente.

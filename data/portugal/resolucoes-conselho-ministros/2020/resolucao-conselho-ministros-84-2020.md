@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19700/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84/2020/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2020-145012184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5584d5ab9da919abe4f34ee2e36f7165c324c031b4afc0354bcfdd2a4c6196d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b7b8bf43fe4371d34b454880424df938b2c631ef55414001fb6ad9b1ce0dd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autoridade Nacional de Segurança
-- Modernização Administrativa
-- Definição de Competências
-- Regulamentação de Atos Legislativos
 - Administração Pública
+- Autoridade Nacional de Segurança
+- Conselho para as Tecnologias de Informação e Comunicação
+- Definição de Competências
+- Estratégia para a Inovação e Modernização do Estado e da Administração Pública 2020-2023
 - Gabinete Nacional de Segurança
 - Grupo de Trabalho
-- TIC
+- Modernização Administrativa
+- Plano de Ação para a Transição Digital
+- Plataforma Eletrónica
 - Programa Simplex
 - Prorrogação de Prazo
 - REDE Interministerial TIC
-- Plataforma Eletrónica
-- Conselho para as Tecnologias de Informação e Comunicação
-- Plano de Ação para a Transição Digital
-- Estratégia para a Inovação e Modernização do Estado e da Administração Pública 2020-2023
+- Regulamentação de Atos Legislativos
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
@@ -94,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/33/2016/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33/2016/06/03/p/dre
+- type: cites
+  target: pt:dre:107757007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605299:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:07Z'
   warnings: []
   errors: []
 ---
@@ -179,3 +191,5 @@ e) Um plano de qualificação de recursos humanos da Administração Pública qu
 8 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação, com exceção do n.º 1 que produz efeitos desde o dia 1 de janeiro de 2020.
 
 Presidência do Conselho de Ministros, 1 de outubro de 2020. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113618444

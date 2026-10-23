@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 296/1996, 3º Suplemento, Série I-B de 1996-12-23
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4594-(8) a 4594-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/296b03/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754-c/1996/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-c-1996-146234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca47ec5e304e594b25a41876d5edb90156f637076e031c5c4dbbc8436c34a4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0f55927a479e2de802a6bb6b131d01d2d923156b620ce076d811b9c03b44198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:692630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176534:por
+  label: "Suspenso pelo prazo máximo de nove meses o exercício da caça e actividades venatórias, pela PORT.38/2003.2003.01.15.MADRP\
+    \ DR.IS-B [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-2003-176534
+  date: '2003-01-15'
+- type: amended_by
+  target: pt:dre:692630:por
+  label: "Renovada a concessão da zona de caça turística concessionada pela Port 372/90, de 14-Mai DR.IS [110] na redacção\
+    \ do presente diploma, pela PORT.495/2003.2003.06.21.MECO DR.IS-B [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-2003-692630
+  date: '2003-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -83,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/483/1996/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/483/1996/09/10/p/dre
+- type: cites
+  target: pt:dre:219935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571416:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:11Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +149,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 23 de Dezembro de 1996.**
+Assinada em 23 de Dezembro de 1996.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

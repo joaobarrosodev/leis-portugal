@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/203b00/28912891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/431/1996/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/431-1996-241212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 879f727a3c2a9ce3856498ee5cc8fffe82ef5aab273ff9eae906aef14cb1b995
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a105aebe3db6d74b3fa2dc4077c9a84603170d98a8e53026dc6dcf86299899e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,16 +121,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/199
   label: null
   source: http://data.europa.eu/eli/dir/199
+- type: repealed_by
+  target: pt:dre:343084:por
+  label: "Revogada pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:32Z'
   warnings: []
   errors: []
 ---
@@ -151,10 +156,10 @@ Ao abrigo do n.º 1 do artigo 8.º do Decreto-Lei n.º 82/95, de 22 de Abril, ma
 
 Ministérios das Finanças e do Ambiente.
 
-**Assinada em 30 de Julho de 1996.**
+Assinada em 30 de Julho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 ## ANEXO — Taxas devidas pela apreciação de notificações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/203b00/28912891.pdf))](https://files.diariodarepublica.pt/1s/1996/09/203b00/28912891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/203b00/28912891.pdf)

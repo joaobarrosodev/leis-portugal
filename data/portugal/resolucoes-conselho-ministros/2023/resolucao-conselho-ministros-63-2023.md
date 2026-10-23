@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/12100/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2023/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2023-214724641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4548a9dc4988284f73402efea028fe434e2ffd566f3c4fc9fd97a85796f5477f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bd22d37ada586810112447f0e2ef023bb232118a51d26707b79285a74440807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Adjudicação por Concurso Público
 - Autorização de Despesas
-- Transporte Aéreo
 - Concurso Público
 - Conselho de Ministros
 - Contrato de Concessão
 - Delegação de Competências
 - Despesas Públicas
 - Funchal
-- Porto Santo
-- Prestação de Serviços
+- Governo XXIII
 - Madeira.região Autónoma
 - Ministro das Infraestruturas e da Habitação
-- Governo XXIII
+- Porto Santo
+- Prestação de Serviços
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/165/2021/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/165/2021/12/10/p/dre
+- type: cites
+  target: pt:dre:175659858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:42Z'
   warnings: []
   errors: []
 ---
@@ -144,3 +164,5 @@ d) 2026 - (euro) 1 084 600.
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 15 de junho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116588367

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00200/0002000020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2017/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2017-105687058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8480c4a182e1398ea73a08bac2c275173cd626a21619b4adc1dd90b0d2141d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16aa5e4db5971730735ae93226db7f72fdf6140a23842205d2fe5349493a4cb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Contrato de Investimento
 - Apoio ao Investimento
-- Investimento
-- Proteção do Ambiente
-- IRC
+- Contrato de Investimento
 - Indústria Transformadora
+- Investimento
+- IRC
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:117638813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117638813:por
+  label: Aprovada, com efeitos a 03.01.2019, a minuta do aditamento ao contrato fiscal de investimento a celebrar entre o
+    Estado Português representado pela AICEP, E. P. E., e a sociedade Faurécia - Sistemas de Escape Portugal, Lda., cuja minuta
+    de contrato foi aprovada pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 1/2019 - Diário da República
+    n.º 5/2019, Série I de 2019-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1-2019-117638813
+  date: '2019-01-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:48Z'
   warnings: []
   errors: []
 ---

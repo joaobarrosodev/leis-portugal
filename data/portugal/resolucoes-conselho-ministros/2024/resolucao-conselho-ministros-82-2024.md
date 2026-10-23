@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/12400/0002200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/82/2024/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2024-870265824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a0fac02e8dabd1b943f120f8c9654e99f0b326fb4bb7e49c753f90594f0d13a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b3c04537953d27d383b9982c420b7a9959a09eb03b1372bfc9dacfb5be2414d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Aeronave com Motor
 - Ajuda Comunitária
 - Aquisição de Bens e Serviços
-- Incêndio
-- Prevenção de Incêndios
 - Autorização de Despesas
 - Conselho de Ministros
-- Força Aérea
 - Despesas Públicas
+- Força Aérea
+- Incêndio
 - Plano Nacional de Gestão Integrada de Fogos Rurais
+- Prevenção de Incêndios
 - Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/27/2021/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/2021/03/22/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841269:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:06Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +129,7 @@ Neste contexto, por motivos relacionados com o desajuste entre os valores inicia
 
 Assim:
 
-Nos termos do disposto na alínea e) do n.º 1 do artigo 17.º e nos n.<sup>os</sup>1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do disposto na alínea e) do n.º 1 do artigo 17.º e nos n.os1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Alterar o n.º 1 da Resolução de Conselho de Ministros n.º 27/2021, de 22 de março, na sua redação atual, passando a ter a seguinte redação:
 
@@ -139,11 +147,12 @@ c) Aquisição de dois aviões bombardeiros pesados, formação, infraestrutura�
 
 Presidência do Conselho de Ministros, 25 de junho de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO I — (a que se referem os n.os1 e 2)
 
 ## ANEXO I — [...]
 
-![](https://files.diariodarepublica.pt/images/870265824/870264744.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870265824/870264744.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2)
 
@@ -151,4 +160,7 @@ Presidência do Conselho de Ministros, 25 de junho de 2024. - O Primeiro-Ministr
 
 [...]
 
-![](https://files.diariodarepublica.pt/images/870265824/870264745.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870265824/870264745.png) |
+| --- |
+
+117847852

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18600/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/81/2022/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2022-201450533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86303f14c7ae04c2d50f1aa15eb1ac01da12e8464a27be5cc6b9810a64fa7322
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc2a01aab433add8248aafff7130e812b30fd982ee7359b984d9f635288f717a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,30 @@ subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
+- Centro Qualifica
 - Conselho de Ministros
+- Curso de Educação e Formação de Adultos
 - Delegação de Competências
 - Despesas Públicas
-- Curso de Educação e Formação de Adultos
 - Educação dos Adultos
-- Prestação de Serviços
+- Governo XXIII
 - Ministro da Educação
 - Ministro do Trabalho Solidariedade e Segurança Social
-- Programa Qualifica
-- Centro Qualifica
 - Plano de Recuperação e Resiliência
+- Prestação de Serviços
 - Programa Impulso Adultos
-- Governo XXIII
+- Programa Qualifica
 relationships:
 - type: amended_by
   target: pt:dre:213069298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213069298:por
+  label: Autorizada a Agência Nacional para a Qualificação e o Ensino Profissional, I. P. a proceder à reprogramação dos encargos
+    plurianuais pela Portaria n.º 222/2023 - Diário da República n.º 93/2023, Série II de 2023-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-2023-213069298
+  date: '2023-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
   label: null
@@ -95,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:03Z'
   warnings: []
   errors: []
 ---
@@ -148,3 +162,5 @@ d) Em 2025 - (euro) 9 780 000,00.
 6 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
 
 Presidência do Conselho de Ministros, 8 de setembro de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115704307

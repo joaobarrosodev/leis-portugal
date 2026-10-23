@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/189b00/51485148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/990/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/990-1995-429387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bec47598e334a9f572d3af58138a0471c2b9a7b277e4f3a97088ca1df17c69e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f58ad72836010f95bce8b14485983ddc7f5584a902d2953ebd9d5da3b5915059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desenvolvimento Rural
-- QCA
-- Programa Operacional de Protecção Ambiental e BEM Estar Animal
 - Programa de Apoio à Modernização Agrícola e Florestal
+- Programa Operacional de Protecção Ambiental e BEM Estar Animal
+- QCA
 - Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas
 relationships:
 - type: amended_by
@@ -88,16 +88,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:199637:por
+  label: "Revogada pela PORT.196/98.1998.03.24.MADRP, DR.IS-B [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1998-199637
+  date: '1998-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:02Z'
   warnings: []
   errors: []
 ---
@@ -118,10 +135,10 @@ Assim:
 
 Manda o Governo, pelo Ministro da Agricultura, que ao Regulamento aprovado pela [Portaria n.º 809-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-c-1994-617287), de 12 de Setembro, seja aditado o artigo 75.º-A, com a seguinte redacção:
 
-###### Art. 75.º-A - No caso de projectos apresentados ao abrigo do Programa Operacional de Protecção Ambiental e Bem-Estar Animal do QCA I, mas não aprovados por insuficiência orçamental, são elegíveis as despesas efectuadas a partir de 9 de Julho de 1993, desde que as mesmas se enquadrem nas condições estabelecidas neste Regulamento.
+Art. 75.º-A - No caso de projectos apresentados ao abrigo do Programa Operacional de Protecção Ambiental e Bem-Estar Animal do QCA I, mas não aprovados por insuficiência orçamental, são elegíveis as despesas efectuadas a partir de 9 de Julho de 1993, desde que as mesmas se enquadrem nas condições estabelecidas neste Regulamento.
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Julho de 1995.**
+Assinada em 24 de Julho de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.

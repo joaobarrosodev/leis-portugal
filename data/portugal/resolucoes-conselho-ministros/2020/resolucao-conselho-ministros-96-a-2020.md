@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 221/2020, 1º Suplemento, Série I de 2020-11-12
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 18-(2) a 18-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22101/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/96-a/2020/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-a-2020-148443991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8766cdaaf32614ba6d1fe6c6e78e4cbe6837120c7b19593a4aa06cb3839bee52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b853f743e949151ede5186d5f3526487fdb789f2f402a847f7dee79d589e5d18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:21Z'
   warnings: []
   errors: []
 ---
@@ -161,3 +169,5 @@ Desde 1980, docente da Faculdade de Economia da Universidade do Porto, atualment
 Atividade Profissional não docente mais relevante:
 
 Desde 1982, desenvolveu a atividade de consultoria como profissional independente, em áreas contabilísticas, fiscais, económico-financeiras, controlo de gestão, sistemas de informação e estratégia; entre 2018 e 2020 exerceu o cargo de Presidente dos Conselhos Fiscais do Centro Hospitalar de Vila Nova de Gaia-Espinho, do Centro Hospitalar do Tâmega e Sousa e do Centro Hospitalar de Entre Douro e Vouga; entre 2019 e 2020 exerceu o cargo de Presidente da Comissão de Parceria Pública do Sistema de Águas da Região do Noroeste e, durante o mesmo período, de Presidente da Comissão de Acompanhamento da Concessão da Exploração e Gestão dos Sistemas de Abastecimento de Água para Consumo Público e de Recolha, Tratamento e Rejeição de Efluentes do Concelho de Valongo. Entre 2009 e 2014, foi Presidente do Conselho Fiscal da Associação Fraunhofer Portugal Research, de 1990 a 2008, foi Diretor Administrativo-Financeiro da Quaternaire Portugal, S. A., e de 2000 a 2001, Diretor Financeiro da Fundação de Serralves. De 1990 a 2000 foi diretor da Culturporto e do Teatro Rivoli, de 1994 a 1996, Vogal dos Conselhos Fiscais da SPR - Sociedade Portuguesa de Capital de Risco, S. A., e da SLAG - Sociedade Luso-Atlântica de Gestão S. G. P. S., S. A. [Grupo BPA]. Entre 1988 e 1990, foi Diretor do Controlo de Gestão da Sonae Indústria, S. A., e entre 1985 e 1987, Diretor Financeiro de Corticeira Amorim, S. A.
+
+113731382

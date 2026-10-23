@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15801/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103-b/2024/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-b-2024-877330547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c94a1e13c433eb64a456bcf97dfddc2bb43d20976de66067d20625f5ec32b0e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250cadf91a39a206c887acee4f9106cd94a32418f60777f45e1df1ad2907a889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Autorização de Despesas
-- Financiamento
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Direção Geral dos Estabelecimentos Escolares
+- Ensino Artístico
 - Ensino Cooperativo
 - Ensino Particular
-- Direção Geral dos Estabelecimentos Escolares
 - Estabelecimento de Ensino
+- Financiamento
 - Governo XXIV
 - Ministro da Educação Ciência e Inovação
 relationships:
@@ -119,16 +119,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/2022/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2022/07/22/p/dre
+- type: cites
+  target: pt:dre:115304968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186166484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186522361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:874401819:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:48Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +187,7 @@ Segundo o n.º 2 do referido artigo 19.º, os contratos de patrocínio têm por 
 
 Os contratos de patrocínio destinam-se, ainda, a promover a articulação entre diferentes modalidades de ensino especializado, designadamente o artístico, e o ensino regular, nomeadamente ao nível da gestão curricular e do modelo de funcionamento, tendo em vista a respetiva otimização, de acordo com o disposto no n.º 3 do artigo 19.º do EEPC.
 
-Por sua vez, a [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.<sup>os</sup>[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto, define o regime de concessão do apoio financeiro por parte do Estado, através do Ministério da Educação, Ciência e Inovação, no âmbito dos contratos de patrocínio, às entidades titulares de autorização de funcionamento de estabelecimentos de ensino artístico especializado de música, de dança, de artes visuais e audiovisuais e de teatro da rede do ensino particular e cooperativo para frequência das iniciações em dança e em música, dos cursos de níveis básico e secundário de dança e música, dos cursos de nível secundário de artes visuais e audiovisuais, bem como dos cursos de nível básico de teatro no elenco de cursos artísticos especializados para o 2.º e o 3.º ciclos do ensino básico. Resulta do disposto no n.º 1 do artigo 4.º da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, na sua redação atual, que a celebração de contratos de patrocínio depende de abertura de concurso a determinar, de dois em dois anos, pelo membro do Governo responsável pela área da educação, ciência e inovação, considerando a necessidade de financiamento de novos ciclos de ensino, tendo em conta os objetivos definidos no artigo 19.º do EEPC, designadamente estimular e apoiar o ensino em domínios não abrangidos, ou insuficientemente abrangidos, pela rede pública, a criação de cursos com planos próprios e a melhoria pedagógica.
+Por sua vez, a [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, alterada pelas Portarias n.os[140/2018](https://diariodarepublica.pt/dr/detalhe/portaria/140-2018-115304968), de 16 de maio, [182/2022](https://diariodarepublica.pt/dr/detalhe/portaria/182-2022-186166484), de 15 de julho, e [180/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/180-2024-874401819), de 6 de agosto, define o regime de concessão do apoio financeiro por parte do Estado, através do Ministério da Educação, Ciência e Inovação, no âmbito dos contratos de patrocínio, às entidades titulares de autorização de funcionamento de estabelecimentos de ensino artístico especializado de música, de dança, de artes visuais e audiovisuais e de teatro da rede do ensino particular e cooperativo para frequência das iniciações em dança e em música, dos cursos de níveis básico e secundário de dança e música, dos cursos de nível secundário de artes visuais e audiovisuais, bem como dos cursos de nível básico de teatro no elenco de cursos artísticos especializados para o 2.º e o 3.º ciclos do ensino básico. Resulta do disposto no n.º 1 do artigo 4.º da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, na sua redação atual, que a celebração de contratos de patrocínio depende de abertura de concurso a determinar, de dois em dois anos, pelo membro do Governo responsável pela área da educação, ciência e inovação, considerando a necessidade de financiamento de novos ciclos de ensino, tendo em conta os objetivos definidos no artigo 19.º do EEPC, designadamente estimular e apoiar o ensino em domínios não abrangidos, ou insuficientemente abrangidos, pela rede pública, a criação de cursos com planos próprios e a melhoria pedagógica.
 
 A [Resolução do Conselho de Ministros n.º 65/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2022-186522361), de 22 de julho, autorizou a realização da despesa relativa aos apoios decorrentes da celebração de contratos de patrocínio, no âmbito do ensino artístico especializado, para os anos letivos de 2022/2023, 2023/2024, 2024/2025, 2025/2026, 2026/2027 e 2027/2028, abrangendo exclusivamente o financiamento de ciclos de ensino iniciados nos anos letivos de 2022/2023 e de 2023/2024.
 
@@ -189,7 +233,7 @@ Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministr
 
 ## ANEXO — (a que se refere o n.º 3)
 
-| Curso e regime | Número máximo de alunos que iniciam o ciclo em 2024-2025 | Número máximo de alunos que iniciam o ciclo em 2025-2026 |
+| Curso e regime | Número máximo de alunos<br>que iniciam o ciclo em 2024-2025 | Número máximo de alunos<br>que iniciam o ciclo em 2025-2026 |
 | --- | --- | --- |
 | Iniciações | 1 789 | 1 789 |
 | Cursos Básicos de Música em regime integrado | 264 | 264 |
@@ -201,3 +245,7 @@ Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministr
 | Cursos Secundários de Música em regime supletivo | 102 | 102 |
 | Cursos Secundários de Dança em regime articulado | 51 | 51 |
 | Cursos de Artes Visuais e Audiovisuais | 47 | 47 |
+
+118030092
+
+.Tbl2 { height:31px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-decoration:none; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { text-align:center; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl12 { text-decoration:none; }

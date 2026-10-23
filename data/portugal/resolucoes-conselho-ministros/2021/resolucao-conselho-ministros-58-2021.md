@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09400/0002100022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2021/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2021-163332291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe3fba325e73f41009a557675829b9401b9b1c60f364914999ce4a8de8f298ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b84dd38bc5d6fd9bef7107b63c650f9f838216e8d967ff4c45815058f0b9896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Autorização de Despesas
 - Caderno de Encargos
 - Capital Social
-- Ministro da Economia
 - Conselho de Ministros
 - Definição de Competências
 - Empresa Nacionalizada
-- Setor Empresarial do Estado
+- Governo XXII
+- Ministro da Economia
+- Ministro de Estado da Economia e da Transição Digital
 - Parpública
 - Privatização
+- Setor Empresarial do Estado
 - Venda Directa
-- Ministro de Estado da Economia e da Transição Digital
-- Governo XXII
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33-a/2020/07/02/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/113/2020/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/113/2020/12/21/p/dre
+- type: cites
+  target: pt:dre:137126910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151662903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:51Z'
   warnings: []
   errors: []
 ---
@@ -146,3 +158,5 @@ e) Sing - Investimentos Globais, SGPS, S. A.
 3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 6 de maio de 2021. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+114236458

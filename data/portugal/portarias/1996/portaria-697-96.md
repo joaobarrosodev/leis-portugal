@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/276b00/43184318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/697/1996/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-1996-198909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70f2d8ebc90c61d4ff53757f20654f383b8d7d37cd22555b7ed3a4f4fec37293
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 549afc0ed4a4638cb41494f6fff65e849699ade4c62b7d386c23de897d770815
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Avicultura
 - Batata
 - Desenvolvimento Rural
-- Proteção dos Animais
+- Exploração Agrícola
 - Floricultura
-- Apoio ao Investimento
+- Fruticultura
 - Horticultura
-- QCA
 - Investimento
 - Olivicultura
-- Exploração Agrícola
-- Proteção do Ambiente
+- Pecuária
 - Programa
+- Programa de Apoio à Modernização Agrícola e Florestal
+- Proteção do Ambiente
+- Proteção dos Animais
+- QCA
 - Regulamento
 - Regulamento CE
-- Programa de Apoio à Modernização Agrícola e Florestal
 - Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas
-- Fruticultura
-- Pecuária
-- Agricultura
 - Suinicultura
 - Unidade de Gestão
 - Vinha
@@ -108,16 +108,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/809-c/1994/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/809-c/1994/09/12/p/dre
+- type: repealed_by
+  target: pt:dre:199637:por
+  label: "Revogada pela PORT.196/98.1998.03.24.MADRP, DR.IS-B [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1998-199637
+  date: '1998-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:23Z'
   warnings: []
   errors: []
 ---
@@ -184,6 +189,6 @@ b) E nos seguintes sectores:
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 30 de Outubro de 1996.**
+Assinada em 30 de Outubro de 1996.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.

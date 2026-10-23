@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190/1996/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-1996-444878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b9d17d1c7454df9e64293f358b1512b082f55255c0578d73e5a2d05ae0577ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0df54d19fc1f7059c13c210140eaf870ba83f667d57e1636d295c3b0fd87c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,24 +71,28 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Prazo
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Prazo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:27Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +121,6 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 14 de Maio de 1996.**
+Assinada em 14 de Maio de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

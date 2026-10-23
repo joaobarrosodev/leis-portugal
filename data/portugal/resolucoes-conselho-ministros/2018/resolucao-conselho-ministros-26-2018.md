@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2018/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2018-114832288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4b1f6fc68eede2e778b2d33784d0922c66442bbcd7655c5f4a16308eace5150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0503adce41dee13cbf2cadaf81278fbfdd18426e8ee33eaa8a27c1756ae47d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
-- Tecnologia da Informação
-- Fundação para a Ciência e a Tecnologia
 - Coordenador
 - Definição de Competências
 - Desenvolvimento
-- Mudança Tecnológica
+- Economia Digital
+- Fórum Permanente para as Competências Digitais
+- Fundação para a Ciência e a Tecnologia
 - Inclusão Digital
-- TIC
+- Iniciativa Nacional Competências Digitais e.2030
 - Investigação
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Nova Tecnologia
-- Tecnologia
-- Secretariado Técnico
 - PORTUGAL 2020
-- Iniciativa Nacional Competências Digitais e.2030
-- Fórum Permanente para as Competências Digitais
+- Secretariado Técnico
+- Tecnologia
+- Tecnologia da Informação
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:163332292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o programa «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030»,
+    aprovado pela presente resolução, é da responsabilidade do Ministro de Estado, da Economia e da Transição Digital em coordenação
+    com o Ministro da Ciência, Tecnologia e Ensino Superior e com a Ministra do Trabalho, Solidariedade e Segurança Social,
+    pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: repealed_by
+  target: pt:dre:163332292:por
+  label: Revogada a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 59/2021 - Diário da República n.º 94/2021,
+    Série I de 2021-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/59-2021-163332292
+  date: '2021-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:37Z'
   warnings: []
   errors: []
 ---
@@ -191,28 +205,30 @@ TABELA 1.1
 
 Metas de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
 
 TABELA 1.2
 
 Metas de potencial humano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
 
 TABELA 1.3
 
 Metas de utilização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
 
 TABELA 1.4
 
 Metas de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
 
 TABELA 1.5
 
 Metas de formação e certificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+
+111179112

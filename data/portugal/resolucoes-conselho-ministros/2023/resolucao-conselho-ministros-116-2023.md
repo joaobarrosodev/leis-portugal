@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19200/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/116/2023/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/116-2023-222367461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68c9fc0d0da17066118398ddda934674ef949216e7fb175802504ed5410e65b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b05ec58a1c979ec41e1bd4c062fd0749ee1fde9928f41685545fb8a35f4ce35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade da Mobilidade e dos Transportes
 - Autorização de Despesas
-- Titulo de Transporte
-- Transporte Rodoviário
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Subvenção Pública
-- Lisboa
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 - Indemnização Compensatória
-- Publicitação
+- Lisboa
 - Passe Social
-- Serviço Público
+- Porto
 - Prestação de Serviços
+- Publicitação
+- Serviço Público
+- Subvenção Pública
+- Titulo de Transporte
 - Transporte de Passageiros
 - Transporte Gratuito
 - Transporte Público
-- Porto
-- Autoridade da Mobilidade e dos Transportes
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2023/02/08/p/dre
@@ -121,16 +121,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2472435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:50Z'
   warnings: []
   errors: []
 ---
@@ -191,10 +231,10 @@ Presidência do Conselho de Ministros, 21 de setembro de 2023. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere o n.º 10)
 
-|  |  |
+| Unidade: EUR |  |
 | --- | --- |
-| Unidade: EUR | Unidade: EUR |
-| Setor/empresa | Indemnizações compensatórias- Ano de 2023 |
+| Setor/empresa | Indemnizações<br>compensatórias-<br>Ano de 2023 |
+|  |  |
 | Transportes ferroviários - setor público... | 11 598 367,58 |
 | a) A processar pelo Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários (GPIAAF): |  |
 | CP - Comboios de Portugal, E. P. E... | 4 626 291,00 |
@@ -236,3 +276,7 @@ Presidência do Conselho de Ministros, 21 de setembro de 2023. - O Primeiro-Mini
 | Passe sub23 @ superior.tp... | 2 800 000,00 |
 | Passe Social+... | 3 200 000,00 |
 | Total... | 29 238 066,76 |
+
+116903229
+
+.Tbl1 { text-align:right; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:7.5; vertical-align:top; } .Tbl2 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Bold; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

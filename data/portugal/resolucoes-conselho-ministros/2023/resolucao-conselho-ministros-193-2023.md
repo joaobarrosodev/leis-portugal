@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0010000101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/193/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/193-2023-835674298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c63c663cfa767de0308550127825332f6d4e069721f7dd73d4d7842f4c0b3fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7b638e2b7f86af97bb61350700057ea06ac53b2e62e842d98736909b0920f8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
-- Despesas Públicas
-- Cooperação Tecnológica
 - Cooperação Científica
+- Cooperação Tecnológica
+- Despesas Públicas
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
 relationships:
 - type: amended_by
   target: pt:dre:900079877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:900079877:por
+  label: Alterados, a partir de 14 de dezembro de 2024, os n.ºs 2, 3, 4, 5, 6, 7, 8, 9, 10 e os anexos i e ii e aditado o
+    anexo iii pelo(a) Resolução do Conselho de Ministros n.º 188/2024 - Diário da República n.º 242/2024, Série I de 2024-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/188-2024-900079877
+  date: '2024-12-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -93,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
+- type: cites
+  target: pt:dre:114832286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:22Z'
   warnings: []
   errors: []
 ---
@@ -143,10 +165,10 @@ Presidência do Conselho de Ministros, 7 de dezembro de 2023. - O Primeiro-Minis
 
 Programa «GoPortugal - Global Science and Technology Partnerships - Portugal»
 
-|  |  |
-| --- | --- |
 |  | (em euros) |
+| --- | --- |
 |  | 2024 |
+|  |  |
 | Fraunhofer Portugal... | 1 000 000,00 |
 | MIT-Portugal... | 4 500 000,00 |
 | CMU - Portugal... | 3 800 000,00 |
@@ -157,10 +179,10 @@ Programa «GoPortugal - Global Science and Technology Partnerships - Portugal»
 
 Quotas de organizações internacionais
 
-|  |  |
-| --- | --- |
 |  | (em euros) |
+| --- | --- |
 |  | 2024 |
+|  |  |
 | CERN - European Organization for Nuclear Research... | 14 430 951,55 |
 | CYTED - Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo... | 250 000,00 |
 | EMBC - European Molecular Biology Conference... | 330 000,00 |
@@ -171,3 +193,5 @@ Quotas de organizações internacionais
 | INL - International Iberian Nanotechnology Laboratory ... | 3 800 000,00 |
 | Pequenas organizações... | 5 030 982,68 |
 | Total... | 54 491 934,23 |
+
+117177317

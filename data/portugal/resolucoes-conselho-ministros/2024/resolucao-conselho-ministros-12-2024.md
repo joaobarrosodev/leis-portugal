@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00500/0012200138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/12/2024/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2024-836222487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5848dc3936a03bea5ea9dd29dc215b5e2810fb92cdda2fdff2e5851c325b2239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eaf774ee97db078e94120eca7c2f9fb138fd8e74eae4006b6815dbc8f4311cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ANI-Agência Nacional de Inovação
 - Autorização de Despesas
-- Fundação para a Ciência e a Tecnologia
 - Despesas Públicas
 - Equipamento Eletrónico
+- Estratégia Nacional para os Semicondutores
+- Fundação para a Ciência e a Tecnologia
 - Indústria
 - Tecnologia
-- ANI-Agência Nacional de Inovação
-- Estratégia Nacional para os Semicondutores
 relationships:
 - type: cites
   target: celex:32021R0694
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:09Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +246,8 @@ Na área do encapsulamento, montagem, assemblagem e teste de chips, Portugal con
 
 Quanto ao desenvolvimento de equipamentos, ferramentas e subsistemas relevantes para o setor de semicondutores, a Critical Manufacturing dedica-se a capacitar os fabricantes de produtos complexos e de alta tecnologia com sistemas de execução e inteligência de fabrico, que rastreia, documenta e fornece informações para a gestão das condições na linha de produção, otimizando a sua eficiência. A empresa atua nos setores do fabrico de semicondutores, montagem de dispositivos eletrónicos, fabrico de dispositivos médicos e fabrico de produtos discretos. Adicionalmente, a EMEA Electro Solutions desenvolve equipamento para processos back-end de semicondutores, permitindo o ensaio/aprovação de processos de fabrico, a escolha de materiais e a produção de protótipos em colaboração com fabricantes de equipamento.
 
-![](https://files.diariodarepublica.pt/images/836222487/836147467.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836222487/836147467.png) |
+| --- |
 
 Figura 1 - Mapeamento e distribuição geográfica das empresas com atividade direta no setor da microeletrónica e semicondutores, incluindo a principal área de atividade.
 
@@ -248,17 +257,20 @@ Portugal conta ainda com uma rede de entidades dedicadas à I&D, atuando em áre
 
 Das instituições sinalizadas, cinco delas possuem salas limpas, infraestruturas com um ambiente rigorosamente controlado para minimizar a presença de partículas e contaminantes que podem afetar a produção de componentes à micro e nano escala. No seu todo, esta rede de infraestruturas oferece produção de bolachas até 200 mm, projetos em bolachas multi-projeto (MPW), modelação e conceção de dispositivos, deposição de materiais, litografia por feixe de eletrões, UV, laser e nanoimprint, etching, encapsulamento avançado e processos de back-end, metrologia, inspeção e ensaio de dispositivos à escala da bolacha. Estas instalações são complementadas com uma rede de laboratórios dedicados aos domínios da eletrónica, física, química e materiais, oferecendo serviços de caracterização de microscopia eletrónica de varrimento, microscopia eletrónica de transmissão, espetroscopia e análise de raios X, caracterização elétrica e caracterização morfológica.
 
-![](https://files.diariodarepublica.pt/images/836222487/836147468.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836222487/836147468.png) |
+| --- |
 
 Figura 2 - Principais áreas de investigação e desenvolvimento presentes em universidades, centros de investigação e laboratórios colaborativos portugueses.
 
-![](https://files.diariodarepublica.pt/images/836222487/836147469.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836222487/836147469.png) |
+| --- |
 
 Figura 3 - Mapeamento e distribuição geográfica das universidades, centros de investigação e laboratórios colaborativos com atividade direta no setor da microeletrónica e semicondutores, incluindo informação das entidades com infraestrutura de sala limpa.
 
 A formação académica desempenha um papel crucial na indústria de semicondutores, sendo um dos pilares fundamentais para impulsionar a inovação e o desenvolvimento tecnológico neste setor altamente especializado. Profissionais com uma base sólida em disciplinas como a eletrónica, física, materiais e nanotecnologia são pilares essenciais para enfrentar os desafios complexos associados à conceção, fabricação e melhoria contínua de dispositivos eletrónicos. Neste sentido, a ação colaborativa de universidades, centros de investigação e laboratórios colaborativos em Portugal tem sido responsável pela formação de excelência nas áreas identificadas. Na Figura 4, pode ser evidenciado o crescente número de formados, incluindo licenciaturas, mestrados, doutoramentos e cursos profissionais, nas áreas da eletrónica, engenharia física e materiais (e nanotecnologia), englobando todos os cursos presentes em Portugal com valências diretamente aplicáveis e relevantes para o setor da microeletrónica e semicondutores.
 
-![](https://files.diariodarepublica.pt/images/836222487/836147470.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836222487/836147470.png) |
+| --- |
 
 Figura 4 - Número de formados em Portugal, entre 2017/18 e 2021/22, nas áreas da a) eletrónica; b) engenharia física; e c) materiais, com programas curriculares diretamente relevantes para o setor de microeletrónica e semicondutores.
 
@@ -416,13 +428,17 @@ Uma Linha Piloto para o desenvolvimento da capacidade de fabricação de sensore
 
 ## ANEXO II — (a que se referem os n.os 4 e 5)
 
-|  |  |  |  |  |
+| Ano | Montante (Em euros) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Ano | Montante (Em euros) | Montante (Em euros) | Montante (Em euros) | Montante (Em euros) |
-| Ano | PT (Em Euros) | PT (Em Euros) | PT (Em Euros) | UE |
-| Ano | Fundação para a Ciência e a Tecnologia, I. P. | ANI - Agência Nacional de Inovação, S. A. | Montante total |  |
+| PT<br>(Em Euros) | UE |  |  |  |
+| Fundação para a Ciência<br>e a Tecnologia, I. P. | ANI - Agência Nacional<br>de Inovação, S. A. | Montante total |  |  |
+|  |  |  |  |  |
 | 2024... | 5 342 000 | 33 931 000 | 39 273 000 | 69 515 000 |
 | 2025... | 5 225 000 | 30 977 000 | 36 202 000 | 63 463 000 |
 | 2026... | 4 718 000 | 18 139 000 | 22 857 000 | 37 162 000 |
 | 2027... | 4 715 000 | 18 069 000 | 22 784 000 | 37 018 000 |
 | Total... | 15 282 000 | 101 116 000 | 121 116 000 | 207 158 000 |
+
+117212098
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:right; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:right; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:right; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:right; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:right; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:right; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

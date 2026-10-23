@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 242/2014, 1º Suplemento, Série I de 2014-12-16
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6130-(4) a 6130-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24201/0000400019.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/73-b/2014/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-b-2014-65908879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a14b62e62af688d1ba8ed3afeab7370ef0a3d7a66fbc6c83f169f3f00375e4f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 348bed2df64e23283b4caa6f897c1205649a54ac99a93c99af6f3baa760d6363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,46 +70,190 @@ subjects:
 - Agência para o Desenvolvimento e Coesão
 - Apoio Administrativo
 - Apoio Técnico
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- CIC Portugal 2020
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão Directiva
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
-- Feader
 - Equipa de Projecto
 - Equiparação de Cargos
+- Feader
 - FEDER
-- Secretaria Geral
-- Fundos CE
-- Ministério do Ambiente Ordenamento do Território e Energia
-- Ministério da Educação e Ciência
 - FSE
-- Ministério da Solidariedade Emprego e Segurança Social
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
-- Nomeação
-- Presidente
-- Programa Operacional
-- Secretariado Técnico
-- Secretário
+- Fundos CE
 - IAPMEI
-- Unidade de Gestão
-- Vogal
+- Ministério da Educação e Ciência
+- Ministério da Solidariedade Emprego e Segurança Social
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Nomeação
 - PDR 2020
 - PORTUGAL 2020
-- Programa Operacional Temático Inclusão Social e Emprego
-- CIC Portugal 2020
-- Programa Operacional Temático Sustentabilidade e Eficiência no Uso dos Recursos
+- Presidente
+- Programa Operacional
+- Programa Operacional de Assistência Técnica
 - Programa Operacional Temático Capital Humano
 - Programa Operacional Temático Competitividade e Internacionalização
-- Programa Operacional de Assistência Técnica
+- Programa Operacional Temático Inclusão Social e Emprego
+- Programa Operacional Temático Sustentabilidade e Eficiência no Uso dos Recursos
+- Secretaria Geral
+- Secretariado Técnico
+- Secretário
+- Unidade de Gestão
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:67164532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66762659:por
+  label: Determinada a extinção da autoridade de gestão do Programa Operacional Potencial Humano (POPH), prevista no Dec Lei
+    312/2007 de 17-set, sendo as respetivas competências, direitos e obrigações assumidas pela autoridade de gestão do Programa
+    Operacional Inclusão Social e Emprego (PO ISE), criada pelo presente diploma, pelo(a) Despacho n.º 2702-C/2015 - Diário
+    da República n.º 51/2015, 3º Suplemento, Série II de 2015-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2702-c-2015-66762659
+  date: '2015-03-13'
+- type: amended_by
+  target: pt:dre:66902695:por
+  label: Alterados os n.os 3 dos mapas VI e VIII do anexo I, aditada uma nota curricular ao anexo II na parte relativa ao
+    Programa Operacional Regional do Norte e alteradas notas curriculares constantes do anexo II na parte relativa ao Programa
+    Operacional Regional de Lisboa pelo(a) Resolução do Conselho de Ministros n.º 15/2015 - Diário da República n.º 65/2015,
+    Série I de 2015-04-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/15-2015-66902695
+  date: '2015-04-02'
+- type: amended_by
+  target: pt:dre:67164532:por
+  label: Alterados o n.º 3 do mapa iv do anexo i bem como o anexo ii na parte relativa ao Programa Operacional Temático Sustentabilidade
+    e Eficiência no Uso de Recursos ambos do presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 30/2015 - Diário
+    da República n.º 88/2015, Série I de 2015-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/30-2015-67164532
+  date: '2015-05-07'
+- type: amended_by
+  target: pt:dre:67323977:por
+  label: Determinada a extinção, com efeitos a 27.05.2015, da Autoridade de Gestão do Programa Operacional Factores de Competitividade
+    (COMPETE) prevista no Dec Lei 312/2007 de 17-set, sendo as suas competências, direitos e obrigações assumidas pela Autoridade
+    de Gestão do Programa Operacional Temático Competitividade e Internacionalização (COMPETE 2020) criada pela presente Resolução,
+    pelo(a) Despacho n.º 5579/2015 - Diário da República n.º 102/2015, Série II de 2015-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5579-2015-67323977
+  date: '2015-05-27'
+- type: amended_by
+  target: pt:dre:74403528:por
+  label: Alterados os n.os 2, 3 e 6 do mapa I do anexo I e o anexo II ao presente diploma pelo(a) Resolução do Conselho de
+    Ministros n.º 29/2016 - Diário da República n.º 91/2016, Série I de 2016-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/29-2016-74403528
+  date: '2016-05-11'
+- type: amended_by
+  target: pt:dre:75069301:por
+  label: Exonerados Pedro Miguel Valentim Taborda do cargo de presidente e Félix Reinaldo Ramalho de Sousa Esménio do cargo
+    de vogal executivo da comissão diretiva do Programa Operacional Temático Capital Humano e alterados os n.os 2 e 3 do mapa
+    III do anexo I e o anexo II na parte relativa ao mesmo Programa pelo(a) Resolução do Conselho de Ministros n.º 39/2016
+    - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2016-75069301
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:106654346:por
+  label: Alterados, com efeitos a 09.02.1017, o n.º 3 do mapa IX do anexo I e o anexo II, este na parte relativa ao Programa
+    Operacional Regional do Alentejo, pelo(a) Resolução do Conselho de Ministros n.º 43/2017 - Diário da República n.º 60/2017,
+    Série I de 2017-03-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/43-2017-106654346
+  date: '2017-03-24'
+- type: amended_by
+  target: pt:dre:116432994:por
+  label: Alterados o n.º 4 do mapa ii do anexo i (este com efeitos a partir de 01.10.2018) e o anexo II, este na parte relativa
+    ao Programa Operacional Inclusão Social e Emprego, pelo(a) Resolução do Conselho de Ministros n.º 121/2018 - Diário da
+    República n.º 181/2018, Série I de 2018-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/121-2018-116432994
+  date: '2018-09-19'
+- type: amended_by
+  target: pt:dre:124097550:por
+  label: Alterados, a partir de 18.07.2019, o n.º 3 do mapa VI do anexo I e o anexo II, este na parte relativa ao Programa
+    Operacional Regional do Norte, do presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 142/2019 - Diário da
+    República n.º 159/2019, Série I de 2019-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/142-2019-124097550
+  date: '2019-08-21'
+- type: amended_by
+  target: pt:dre:132431492:por
+  label: Alterados os n.ºs 3 dos mapas VI e VIII do anexo I, assim como é alterado, nas partes relativas aos Programas Operacionais
+    Regionais do Norte e de Lisboa, o anexo II, ambos do presente diploma, pelo(a) Despacho n.º 4952/2020 - Diário da República
+    n.º 81/2020, Série II de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4952-2020-132431492
+  date: '2020-04-24'
+- type: amended_by
+  target: pt:dre:148113973:por
+  label: Alterado o n.º 2 do mapa i do anexo i pelo Despacho n.º 11046/2020 - Diário da República n.º 220/2020, Série II de
+    2020-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/11046-2020-148113973
+  date: '2020-11-11'
+- type: amended_by
+  target: pt:dre:159174092:por
+  label: Alterado, com efeitos a 01.03.2021, o n.º 3 do mapa vii do anexo i e alterado o anexo ii, da presente resolução,
+    pelo(a) Despacho n.º 2635/2021 - Diário da República n.º 48/2021, Série II de 2021-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2635-2021-159174092
+  date: '2021-03-10'
+- type: amended_by
+  target: pt:dre:174516729:por
+  label: Alterado pelo(a) Despacho n.º 11338/2021 - Diário da República n.º 224/2021, Série II de 2021-11-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/11338-2021-174516729
+  date: '2021-11-18'
+- type: amended_by
+  target: pt:dre:187352846:por
+  label: Alterados o n.º 3 do mapa ix do anexo i e o anexo ii pelo(a) Despacho n.º 9933/2022 - Diário da República n.º 155/2022,
+    Série II de 2022-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9933-2022-187352846
+  date: '2022-08-11'
+- type: amended_by
+  target: pt:dre:211911936:por
+  label: Extinta, com efeitos a 11 de abril de 2023, a autoridade de gestão do Programa Operacional Regional do Alentejo 2020,
+    bem como o respetivo secretariado técnico e equipas de projeto ou o seu equivalente, sendo as suas atribuições e competências
+    assumidas pela autoridade de gestão do Programa Regional do Alentejo 2030, pelo(a) Despacho n.º 4654/2023 - Diário da
+    República n.º 76/2023, Série II de 2023-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4654-2023-211911936
+  date: '2023-04-18'
+- type: amended_by
+  target: pt:dre:211911937:por
+  label: Extinta, com efeitos a 11 de abril de 2023, a autoridade de gestão do Programa Operacional Regional do Algarve 2020,
+    bem como o respetivo secretariado técnico e equipas de projeto ou o seu equivalente, sendo as suas atribuições e competências
+    assumidas pela autoridade de gestão do Programa Regional do Algarve 2030, pelo(a) Despacho n.º 4655/2023 - Diário da República
+    n.º 76/2023, Série II de 2023-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4655-2023-211911937
+  date: '2023-04-18'
+- type: amended_by
+  target: pt:dre:211911938:por
+  label: Extinta, com efeitos a 11 de abril de 2023, a autoridade de gestão do Programa Operacional Regional do Centro 2020,
+    bem como o respetivo secretariado técnico e equipas de projeto ou o seu equivalente, sendo as suas atribuições e competências
+    assumidas pela autoridade de gestão do Programa Regional do Centro 2030, pelo(a) Despacho n.º 4656/2023 - Diário da República
+    n.º 76/2023, Série II de 2023-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4656-2023-211911938
+  date: '2023-04-18'
+- type: amended_by
+  target: pt:dre:211911939:por
+  label: Extinta, com efeitos a 11 de abril de 2023, a autoridade de gestão do Programa Operacional Regional de Lisboa 2020,
+    bem como o respetivo secretariado técnico e equipas de projeto ou o seu equivalente, sendo as suas atribuições e competências
+    assumidas pela autoridade de gestão do Programa Regional de Lisboa 2030, pelo(a) Despacho n.º 4657/2023 - Diário da República
+    n.º 76/2023, Série II de 2023-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4657-2023-211911939
+  date: '2023-04-18'
+- type: amended_by
+  target: pt:dre:211911940:por
+  label: Extinta, com efeitos a 11 de abril de 2023, a autoridade de gestão do Programa Operacional Regional do Norte 2020,
+    bem como o respetivo secretariado técnico e equipas de projeto ou o seu equivalente, sendo as suas atribuições e competências
+    assumidas pela autoridade de gestão do Programa Regional do Norte 2030, pelo(a) Despacho n.º 4658/2023 - Diário da República
+    n.º 76/2023, Série II de 2023-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4658-2023-211911940
+  date: '2023-04-18'
+- type: amended_by
+  target: pt:dre:214424479:por
+  label: Extinta a autoridade de gestão do Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos
+    (PO SEUR), prevista no mapa IV da presente resolução, e sendo as suas atribuições e competências assumidas pela autoridade
+    de gestão do Programa Temático Ação Climática e Sustentabilidade, pelo(a) Despacho n.º 6501/2023 - Diário da República
+    n.º 115/2023, Série II de 2023-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6501-2023-214424479
+  date: '2023-06-15'
 - type: cites
   target: celex:32013R1303
   label: null
@@ -117,13 +261,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:54Z'
   warnings: []
   errors: []
 ---

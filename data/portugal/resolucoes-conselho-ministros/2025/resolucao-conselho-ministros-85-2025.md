@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/85/2025/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/85-2025-915525578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 778d675aed784ae1578e3908a372ac5dcfd53bd12bd249f56e7aac7623ea3b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30188dcdf32411255eac1e4af08138fac802d95e23ebaaa04d57daa59538b4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
 - Autorização de Despesas
-- Interconexão de Dados
-- Tecnologia da Informação
-- Educação
-- Delegação de Competências
-- Informática
 - Comunicação por Satélite
-- Direção Geral dos Estabelecimentos Escolares
-- Tecnologia
-- Internet
-- Tecnologias de Informação e Comunicação no Sistema Educativo
 - Comunidade Virtual
 - Conteúdo Digital
+- Delegação de Competências
+- Direção Geral dos Estabelecimentos Escolares
+- Educação
 - Governo XXIV
+- Informática
+- Interconexão de Dados
+- Internet
 - Ministro da Educação Ciência e Inovação
+- Rede
+- Tecnologia
+- Tecnologia da Informação
+- Tecnologias de Informação e Comunicação no Sistema Educativo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:877330548:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:57Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +159,7 @@ O Programa do XXIV Governo Constitucional assenta em seis pilares estratégicos,
 
 Deste modo, é essencial que as escolas tenham as condições técnicas e pedagógicas necessárias para uma educação de qualidade e que assegurem a igualdade de oportunidades para todos os alunos e para todas as famílias, em todo o território nacional, designadamente no acesso e na utilização dos recursos digitais.
 
-Por outro lado, importa dar continuidade ao programa de transição digital na educação, tendo presentes o Plano de Ação para a Transição Digital (PATD) e o Programa de Estabilização Económica e Social (PEES), aprovados, respetivamente, pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[30/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2020-132133788), de 21 de abril, e [41/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2020-135391594), de 6 de junho, em particular o Programa de Digitalização para as Escolas, medida contemplada no mencionado PATD.
+Por outro lado, importa dar continuidade ao programa de transição digital na educação, tendo presentes o Plano de Ação para a Transição Digital (PATD) e o Programa de Estabilização Económica e Social (PEES), aprovados, respetivamente, pelas Resoluções do Conselho de Ministros n.os[30/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2020-132133788), de 21 de abril, e [41/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2020-135391594), de 6 de junho, em particular o Programa de Digitalização para as Escolas, medida contemplada no mencionado PATD.
 
 A [Resolução do Conselho de Ministros n.º 103-C/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-c-2024-877330548), de 16 de agosto, autorizou a realização da despesa com a aquisição de serviços de conectividade, durante os meses de outubro a dezembro de 2024 e os meses de janeiro a junho de 2025, correspondentes ao ano letivo de 2024/2025, para disponibilização aos alunos beneficiários da ação social escolar dos ensinos básico e secundário que frequentem escolas públicas e estabelecimentos de ensino particulares e cooperativos abrangidos por contratos de associação com o Estado, aos alunos abrangidos pelo projeto-piloto «Manuais Digitais» e aos alunos que realizem provas em suporte digital, bem como de um dispositivo de conectividade, em cada sala de aula, nos ensinos básico e secundário dos estabelecimentos de ensino públicos.
 
@@ -170,3 +198,5 @@ b) Em 2026 - € 9 000 000,00.
 6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 10 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118958557

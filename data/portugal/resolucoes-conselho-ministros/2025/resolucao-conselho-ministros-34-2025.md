@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34/2025/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2025-909307237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36cd7ec02c04351e2dddd56a432810d766702055ea486371236efabd7eaaea84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0aacf7967e30c3513eeef723fdbc1ed92f2fe0d9eb8ef8b68e46674143fc88c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Exclusão Social
-- Pobreza
-- Criança
-- Direitos da Criança
-- Jovem
 - Centro de Acolhimento
-- Proteção à Infância
 - Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
 - Conteúdo Digital
+- Criança
+- Direitos da Criança
 - Estratégia Única dos Direitos das Crianças e Jovens 2025-2035
+- Exclusão Social
+- Família
+- Jovem
+- Pobreza
+- Proteção à Infância
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2020/12/18/p/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2024/1238/oj
   label: null
   source: http://data.europa.eu/eli/reco/2024/1238/oj
+- type: cites
+  target: pt:dre:151557423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206198898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875838784:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:45Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +264,7 @@ Para a implementação da EUDCJ foram definidas as seguintes áreas estratégica
 | Área estratégica | Linhas de ação |
 | --- | --- |
 | 1 - Desenvolvimento integral e bem-estar de todas as crianças e jovens | Valorizar e apoiar o período pré-natal |
-| 1 - Desenvolvimento integral e bem-estar de todas as crianças e jovens | Promover o acesso a serviços essenciais de qualidade |
+| Promover o acesso a serviços essenciais de qualidade |  |
 |  | Promover a saúde e prevenir a doença |
 |  | Promover cuidados e uma educação de infância de qualidade |
 |  | Promover um ambiente saudável e habitação digna |
@@ -288,3 +304,7 @@ Para a implementação da EUDCJ foram definidas as seguintes áreas estratégica
 |  | Promover a produção de conhecimento e organização de dados qualitativos e quantitativos sobre a situação das crianças e jovens |
 |  | Investir no desenvolvimento de competências dos profissionais que lidam com crianças e jovens orientadas para a relação empática |
 |  | Criar uma plataforma digital que permita a recolha, consulta e monitorização da implementação da EUDCJ |
+
+118733562
+
+.Tbl1 { margin-left:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-indent:0px; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { text-indent:0px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { min-height:28px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { min-height:27px; } .Tbl14 { min-height:46px; } .Tbl15 { min-height:37px; } .Tbl16 { text-indent:0px; text-align:justify; text-align-last:justify; } .Tbl17 { min-height:31px; }

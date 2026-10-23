@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 174/1996, 2º Suplemento, Série I-B de 1996-07-29
   number: '174'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2166-(14) a 2166-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b02/00140015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/317-a/1996/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-a-1996-629157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96c327553e7ebf2222d7ddd6338ef9ecfe1439ea3217746ba2969974ae8e072c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6b83a3af1335b30cf30123af60fc47c33d1c754ac7132d23a090757ac93a9ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
 - Mudança de Curso
 - Numerus Clausus
-- Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 - Regulamento dos Regimes de Reingresso Mudança de Curso e Transferência no Ensino Superior
 - Transferência de Alunos
 - Universidade Católica Portuguêsa
@@ -98,16 +98,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/96/1995/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/96/1995/02/01/p/dre
+- type: cites
+  target: pt:dre:138091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521985:por
+  label: "Revogado o nrº 1 do art. 5º do Regulamento aprovado pela Port. 612/93 de 29-Jun, DR.IS-B [150], na redacção dada\
+    \ pela presente portaria, pela PORT.953/2001.2001.08.09.ME, DR.IS-B [184] de 2001/AGO/09\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/953-2001-521985
+  date: '2001-08-09'
+- type: repealed_by
+  target: pt:dre:520215:por
+  label: "Revogada a Port 612/93 de 29-Jun, alterada pelo presente diploma, pela PORT.401/2007.05.04.2007.MCTES, DR.IS [68]\
+    \ de 05.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/401-2007-520215
+  date: '2007-04-05'
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:40Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +166,9 @@ Objecto
 
 O presente Regulamento disciplina os regimes de reingresso, mudança de curso e transferência nos estabelecimentos de ensino superior.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - O disposto no presente Regulamento aplica-se aos seguintes estabelecimentos de ensino superior:
 
@@ -146,13 +184,17 @@ c) Estabelecimentos de ensino superior particular e cooperativo.
 
 4 - O disposto no presente Regulamento aplica-se ainda aos estudantes que tenham tido uma matrícula e inscrição válida num curso da Universidade Católica Portuguesa e que pretendam ingressar num dos estabelecimentos a que se refere o n.º 1.
 
-###### Artigo 3.º — Limitações quantitativas
+Artigo 3.º
+
+Limitações quantitativas
 
 1 - ...
 
 2 - Aos estudantes do ensino superior que sejam praticantes em regime de alta competição, ao abrigo do disposto no [Decreto-Lei n.º 125/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1995-527406), de 31 de Maio, aplicam-se os regimes de reingresso, mudança de curso e transferência sem quaisquer limitações quantitativas.
 
-###### Artigo 5.º — Incompatibilidades
+Artigo 5.º
+
+Incompatibilidades
 
 1 - Não podem apresentar candidatura através de um dos regimes a que se refere o presente Regulamento os estudantes que, para o mesmo ano lectivo:
 
@@ -164,7 +206,9 @@ c) Requeiram o ingresso através de um dos regimes especiais a que se refere o c
 
 2 - ...
 
-###### Artigo 12.º — Condições para a mudança de curso
+Artigo 12.º
+
+Condições para a mudança de curso
 
 1 - Pode requerer a mudança para um determinado par estabelecimento/curso o estudante que satisfaça a uma das seguintes condições:
 
@@ -174,7 +218,9 @@ b) Ter realizado no ano em causa os exames nacionais das disciplinas específica
 
 2 - ...
 
-###### Artigo 13.º — Cursos com pré-requisitos ou que exijam aptidões vocacionais específicas
+Artigo 13.º
+
+Cursos com pré-requisitos ou que exijam aptidões vocacionais específicas
 
 1 - A candidatura a cursos para os quais sejam exigidos pré-requisitos, nos termos dos artigos 17.º a 20.º do [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), ou aptidões vocacionais específicas nos termos da alínea c) do n.º 2 do artigo 21.º do mesmo diploma legal, está condicionada à satisfação dos mesmos.
 
@@ -186,7 +232,9 @@ a) A matrícula dos estudantes colocados só pode ter lugar após a verificaçã
 
 b) Caso não haja lugar a matrícula, aplica-se o disposto no n.º 4 do artigo 27.º
 
-###### Artigo 15.º — Fixação dos limites quantitativos
+Artigo 15.º
+
+Fixação dos limites quantitativos
 
 1 - As vagas para cada curso, em cada um dos concursos, são, salvo disposição diversa constante do estatuto do estabelecimento de ensino superior em causa, fixadas:
 
@@ -202,7 +250,9 @@ c) Nos restantes estabelecimentos de ensino superior, pelo presidente do conselh
 
 4 - As entidades a que se refere o n.º 1 comunicam ao Departamento do Ensino Superior as vagas que tiverem aprovado.
 
-###### Artigo 26.º — Reclamação
+Artigo 26.º
+
+Reclamação
 
 1 - Da decisão prevista no artigo 24.º poderão os interessados apresentar reclamação, devidamente fundamentada, no prazo de 15 dias a partir da data da afixação da mesma.
 
@@ -212,7 +262,9 @@ c) Nos restantes estabelecimentos de ensino superior, pelo presidente do conselh
 
 4 - Os estudantes que tenham apresentado reclamação nos termos do presente artigo procedem à matrícula e ou inscrição no prazo de sete dias após a recepção da notificação a que se refere o número anterior.
 
-###### Artigo 31.º — Aproveitamento de vagas
+Artigo 31.º
+
+Aproveitamento de vagas
 
 As vagas de um par estabelecimento/curso eventualmente sobrantes num dos regimes a que se refere o presente Regulamento podem ser utilizadas nos outros regimes, por decisão da entidade a que se refere o artigo 15.º e nos termos por ela definidos.»
 
@@ -222,6 +274,6 @@ As vagas de um par estabelecimento/curso eventualmente sobrantes num dos regimes
 
 Ministério da Educação.
 
-**Assinada em 22 de Julho de 1996.**
+Assinada em 22 de Julho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/292/1996/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1996-420805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6103c070167f7bb09b3fd3de44206739b7e7f02d4fe61643d2c5e4890ed79273
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b820f00286918884220bc33287a1117bddf7437be1c561ffd7cf4dcfa0aa3a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Contabilidade Empresarial
 - Ensino Superior Politécnico
 - Escola Superior de Gestão
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:321355:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321355:por
+  label: "Revogada (findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul) pela PORT.486/2000.2000.07.24.ME, DR.IS-B [167]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-2000-321355
+  date: '2000-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:01Z'
   warnings: []
   errors: []
 ---
@@ -148,8 +162,8 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 21 de Junho de 1996.**
+Assinada em 21 de Junho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/170b00/20882088.pdf))](https://files.diariodarepublica.pt/1s/1996/07/170b00/20882088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/170b00/20882088.pdf)

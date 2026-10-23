@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/189b00/51445145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/983/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/983-1995-429379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45890e2275bf31355cb7af98fca040e1337c213218e5912f1970703b3194c14d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84aed9f48e53e28e797bdab9d2ebb59b4ea73b3d52205633a841bfbefa696975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
-- Veículo
 - Preço
 - Regulamento
-- Direcção Geral das Contribuições e Impostos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:437224:por
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/672/1994/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/672/1994/07/20/p/dre
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296794:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437224:por
+  label: "Revogada pela PORT.539/98.1998.08.18.MF DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-1998-437224
+  date: '1998-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:52Z'
   warnings: []
   errors: []
 ---
@@ -180,8 +193,8 @@ b) 500$00 para os dísticos modelos n.os 4 e 5.
 
 Ministério das Finanças.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189b00/51445145.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189b00/51445145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189b00/51445145.pdf)

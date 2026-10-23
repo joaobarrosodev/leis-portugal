@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17100/0016300180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/107/2023/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2023-221225702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 270f10f1213d7a6b3b8eb7caf5dadce431f37f0ba0d0e4602585970c789ad2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d12fc733f749b21d453b34178580b31207a7e68024f2487803a0bc812bc707d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Energia Elétrica
+- Combustível
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Combustível
+- Energia Elétrica
 - Entidade de Serviços Partilhados da Administração Pública
+- Gás Natural
 - Governo XXIII
 relationships:
 - type: cites
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:37Z'
   warnings: []
   errors: []
 ---
@@ -165,9 +197,9 @@ Presidência do Conselho de Ministros, 24 de agosto de 2023. - Pelo Primeiro-Min
 
 Despesas inerentes à aquisição de combustíveis rodoviários a realizar no âmbito do acordo-quadro de fornecimento de combustíveis rodoviários
 
-|  |  |  |
+| Número<br>de identificação<br>de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
 | --- | --- | --- |
-| Número de identificação de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
+|  |  |  |
 |  | Administração Interna |  |
 | 600082490 | Autoridade Nacional de Emergência e Proteção Civil... | 1 228 080,00 (euro) |
 | 600082563 | Autoridade Nacional de Segurança Rodoviária... | 65 269,61 (euro) |
@@ -451,9 +483,9 @@ Despesas inerentes à aquisição de combustíveis rodoviários a realizar no â
 
 Despesas inerentes à aquisição de gás natural a realizar no âmbito do acordo-quadro para o fornecimento de gás natural em regime de mercado livre para Portugal Continental
 
-|  |  |  |
+| Número<br>de identificação<br>de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
 | --- | --- | --- |
-| Número de identificação de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
+|  |  |  |
 |  | Administração Interna |  |
 | 600082490 | Autoridade Nacional de Emergência e Proteção Civil... | 1 500,00 (euro) |
 | 600008878 | Guarda Nacional Republicana... | 1 178 861,79 (euro) |
@@ -637,9 +669,9 @@ Despesas inerentes à aquisição de gás natural a realizar no âmbito do acord
 
 Despesas inerentes à aquisição de eletricidade a realizar no âmbito do acordo-quadro para o fornecimento de eletricidade em regime de mercado livre para Portugal Continental
 
-|  |  |  |
+| Número<br>de identificação<br>de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
 | --- | --- | --- |
-| Número de identificação de pessoa coletiva | Designação da entidade | Valor s/IVA 2024 |
+|  |  |  |
 |  | Administração Interna |  |
 | 600082490 | Autoridade Nacional de Emergência e Proteção Civil... | 626 184,74 (euro) |
 | 600082563 | Autoridade Nacional de Segurança Rodoviária... | 64 000,00 (euro) |
@@ -1000,3 +1032,7 @@ Despesas inerentes à aquisição de eletricidade a realizar no âmbito do acord
 |  | Total (s/IVA)... | 227 887 979,86 (euro) |
 
 (1) Atento o processo de extinção, por fusão, do Alto Comissariado para as Migrações, I. P., e do Serviço de Estrangeiros e Fronteiras, é feita referência, no presente anexo, à Agência para a Integração, Migrações e Asilo, I. P., nos termos do [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho.
+
+116812355
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl7 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:top; } .Tbl9 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl10 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl12 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:left; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl16 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl17 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl18 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; }

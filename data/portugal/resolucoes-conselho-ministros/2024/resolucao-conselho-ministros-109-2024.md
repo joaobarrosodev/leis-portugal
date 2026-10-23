@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16200/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2024/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2024-885032308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b36849cb4088df917a0e8ed0de7d262a8ad1af20aa5743ea4be01aa020d5e06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9f48d50c58b0995b7c74dde1c2af4d289a01e9e66cc4d33632c83c957e3d60a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
-- Proteção do Ambiente
 - Águas Residuais
 - Desenvolvimento Económico
-- Abastecimento de Água
 - Plano Estratégico para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:928506358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:23/2024
+  label: Altera, a partir de 23 de agosto de 2024, nos termos do n.º 4 do presente diploma, o volume 1 do Plano Estratégico
+    para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030, aprovado pela Resolução do Conselho de Ministros
+    n.º 23/2024, de 5 de fevereiro, Diário da República n.º 25/2024, Série I
+  source: null
+  date: '2024-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
@@ -84,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2024/02/05/p/dre
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840278736:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:54Z'
   warnings: []
   errors: []
 ---
@@ -424,7 +439,7 @@ A redução de afluências indevidas nos sistemas de águas residuais vai promov
 
 A redução de afluências indevidas/indesejadas nos sistemas de águas pluviais vai promover o desenvolvimento pelas entidades gestoras de intervenções construtivas e operacionais de redução dessas afluências indevidas/indesejadas, cuja concretização deve ser precedida de prévia avaliação técnica e financeira de oportunidade. Evita-se, principalmente, o problema da afluência indevida de águas residuais através das redes pluviais, por ligações clandestinas, que origina descargas poluentes nos meios recetores, reduzindo-se também o potencial de utilização das águas pluviais para outros fins.
 
-Este objetivo de eficiência hídrica será monitorizado através de indicadores cobrindo aspetos de medição de caudal, de perdas de água nos sistemas públicos, de afluências indesejadas e indevidas e de eficiência hídrica de instalações domésticas, não domésticas e de outros usos urbanos. Destacam-se como metas a atingir em 2030 perdas reais de água em baixa não superiores a 90 l/ramal/dia em zonas urbanas e a 3 m<sup>3</sup>/(km.dia) em zonas rurais e pelo menos 90 % das entidades com plano de ação para o controlo de afluências indevidas.
+Este objetivo de eficiência hídrica será monitorizado através de indicadores cobrindo aspetos de medição de caudal, de perdas de água nos sistemas públicos, de afluências indesejadas e indevidas e de eficiência hídrica de instalações domésticas, não domésticas e de outros usos urbanos. Destacam-se como metas a atingir em 2030 perdas reais de água em baixa não superiores a 90 l/ramal/dia em zonas urbanas e a 3 m3/(km.dia) em zonas rurais e pelo menos 90 % das entidades com plano de ação para o controlo de afluências indevidas.
 
 f) Eficiência na alocação de recursos financeiros
 
@@ -512,7 +527,7 @@ As necessidades totais de investimento a preços correntes serão de 5500 milhõ
 
 Os gastos com os serviços devem ser tendencialmente recuperados por tarifas para os serviços de abastecimento de água e de águas residuais (e eventualmente pluviais), sendo prevista também a utilização dos impostos para os serviços de águas pluviais e, em situações pontuais, para os restantes dois serviços, apenas quando se ultrapassem os limites de acessibilidade económica estabelecidos. Naturalmente, há que deduzir eventuais transferências, nomeadamente através dos fundos europeus existentes.
 
-Sem considerar uma eventual subsidiação, os investimentos necessários e os correspondentes gastos operacionais apontam para um tendencial acréscimo das tarifas médias domésticas de valores de 2,06 €/m<sup>3</sup> (situação de partida) para valores da ordem de 2,45 €/m<sup>3</sup> a 3,28 €/m<sup>3</sup>, em função do cenário, sendo de 2,90 €/m<sup>3</sup> no cenário 3 (central).
+Sem considerar uma eventual subsidiação, os investimentos necessários e os correspondentes gastos operacionais apontam para um tendencial acréscimo das tarifas médias domésticas de valores de 2,06 €/m3 (situação de partida) para valores da ordem de 2,45 €/m3 a 3,28 €/m3, em função do cenário, sendo de 2,90 €/m3 no cenário 3 (central).
 
 Este acréscimo é justificado pela tendencial recuperação de gastos por via tarifária e pelo previsível grande aumento dos investimentos de reabilitação de que o País necessita, para assegurar a sustentabilidade a longo prazo das infraestruturas e, consequentemente, dos serviços. Este nível previsível de tarifas dos serviços é aceitável em termos de macro acessibilidade económica média nacional dos consumidores, seguindo, aproximadamente, os valores de referência estipulados pela entidade reguladora.
 
@@ -576,3 +591,7 @@ A monitorização dos incentivos considerados necessários será feita anualment
 A monitorização do investimento e do financiamento do setor será realizada anualmente ao longo da vigência do PENSAARP 2030 e comparada a sua realização com as estimativas previstas.
 
 Para a concretização do PENSAARP 2030 será implementada uma estratégia alargada e articulada de mobilização do setor, com o poder político e a Administração Pública a assumirem, naturalmente, um papel de especial relevo, mas envolvendo também os restantes agentes do setor. Para o reforço da mobilização destes agentes preconiza-se a criação de um Pacto de Compromisso Nacional pelos Serviços de Águas, com um conjunto de iniciativas para apresentação e discussão da estratégia com cada um destes agentes, que serão convidados a assumir os seus compromissos através da realização de um plano de ação específico.
+
+118032466
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:31px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl12 { min-height:40px; } .Tbl13 { text-decoration:none; } .Tbl14 { min-height:50px; } .Tbl15 { min-height:33px; } .Tbl16 { min-height:21px; }

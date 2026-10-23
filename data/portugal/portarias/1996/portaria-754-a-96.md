@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 296/1996, 2º Suplemento, Série I-B de 1996-12-23
   number: '296'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4594-(6) a 4594-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/296b02/00060006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754-a/1996/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-a-1996-146227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01c98843e3787a2c36b6024b983c7a221e9d04eca1ee9ac4258dcc854cdd3ccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e520de14cda59eba91f61537a02037f8d09593af385e4579d46d94b3cfa41871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- RDP
 - Radiodifusão
+- RDP
 - Taxa
 - TAXA de Radiodifusão
 relationships:
@@ -78,16 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/37/1996/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/37/1996/02/13/p/dre
+- type: cites
+  target: pt:dre:247046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620076:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:272846:por
+  label: "Revogada pela PORT.1278-A/97.1997.12.30.PCM DR.IS-B [300]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-a-1997-272846
+  date: '1997-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:09Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +127,6 @@ Nos termos da alínea b) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 389/76](h
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Economia.
 
-**Assinada em 23 de Dezembro de 1996.**
+Assinada em 23 de Dezembro de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro Adjunto, Jorge Paulo Sacadura Almeida Coelho.

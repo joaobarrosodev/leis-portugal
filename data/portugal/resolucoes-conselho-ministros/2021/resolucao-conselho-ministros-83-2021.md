@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12500/0002000022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2021/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2021-166099793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80b0a2d08e14a52e25e1556456708a7b02abad801fb5e4ce195a5e42869db7ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825514bda31defd35c693944d7d6f08f3369a6a904baa4dbc34bceb0722627fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ subjects:
 - Centro Hospitalar de Trás-os-montes e ALTO Douro
 - Centro Hospitalar do Baixo Vouga
 - Conselho de Ministros
-- Obras de Conservação e Restauro
 - Despesas Públicas
-- Empreitada de Obras Públicas
-- Hospital Conde de são Bento
-- Programa Operacional
 - Eficiência Energética
+- Empreitada de Obras Públicas
 - Governo XXII
+- Hospital Conde de são Bento
+- Obras de Conservação e Restauro
+- Programa Operacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2019/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2019/05/02/p/dre
+- type: cites
+  target: pt:dre:122202591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127957581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162562465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:26Z'
   warnings: []
   errors: []
 ---
@@ -292,3 +320,5 @@ iii) Em 2023: (euro) 525 000;
 2 - Estabelecer que a presente resolução produz efeitos à data da sua aprovação.
 
 Presidência do Conselho de Ministros, 9 de junho de 2021. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+
+114345419

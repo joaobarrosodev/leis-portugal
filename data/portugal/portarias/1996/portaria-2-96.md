@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/2/1996/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-1996-621336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a52c85061d297575ccfe771d99363f906b2fc240b7116e685e6bfdccd6e843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a38f7a51d1b6d17909f85617ed0b1e68bbdb44bf7a81e459b2f384616bcaa06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Formação de Professores
-- Ensino Preparatório
 - Carreira Profissional
+- Ensino Básico
+- Ensino Preparatório
+- Formação de Professores
 - Habilitações Literárias
 - Pessoal Docente
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Básico
 - Sistema Educativo
 relationships:
 - type: amended_by
@@ -85,16 +85,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1141-d/1995/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1141-d/1995/09/15/p/dre
+- type: cites
+  target: pt:dre:672133:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:40Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +117,6 @@ Manda o Governo, pelo Ministro da Educação, que fique suspensa a vigência da 
 
 Ministério da Educação.
 
-**Assinada em 27 de Novembro de 1995.**
+Assinada em 27 de Novembro de 1995.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo.

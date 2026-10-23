@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2025-911693279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b52dd81afc78b126de20f14829cc1626d27dd715602dcc199fc4848ca7d0bea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffc79df4c2d3a73f38edf90cd2455482df0f1f35034d253d58774dab8bcd655f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Rodoviário
 - Domínio Público Rodoviário
+- Infraestruturas de Portugal
 - Instituto da Mobilidade e dos Transportes
 - Obras Públicas
 - Plano Rodoviario
 - Plano Rodoviario Nacional
 - Projeto
 - Tráfego Rodoviário
-- Infraestruturas de Portugal
+- Transporte Rodoviário
 relationships:
+- type: amended_by
+  target: pt:dre:1152409211:por
+  label: Alterados, com efeitos a partir de 17 de julho de 2026, o n.º 11 e o anexo do presente diploma pelo(a) Resolução
+    do Conselho de Ministros n.º 154/2026 - Diário da República n.º 143/2026, Série I de 2026-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/154-2026-1152409211
+  date: '2026-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
   label: null
@@ -107,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-a/2021/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-a/2021/05/03/p/dre
+- type: cites
+  target: pt:dre:162666782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674297:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:36Z'
   warnings: []
   errors: []
 ---
@@ -221,13 +259,13 @@ k) EN224-1 - troço entre EN222 e EN224 - requalificação e Via Lordelo-Codal/n
 
 6 - Determinar que a IP, S. A., apresenta ao membro do Governo responsável pela área das infraestruturas, até final de abril de 2025, uma proposta de planeamento das ações e necessidades inerentes à concretização das determinações referidas nos números anteriores.
 
-7 - Determinar que a IP, S. A., em articulação com o Instituto da Mobilidade e dos Transportes, I. P., apresenta ao membro do Governo responsável pela área das infraestruturas, até ao final do segundo semestre de 2025, uma proposta fundamentada que permita uma tomada de decisão relativamente ao modelo de contratação e de gestão a adotar para a concretização dos projetos referidos nos n.<sup>os</sup>3 e 5, sem prejuízo de outros que se entendam pertinentes.
+7 - Determinar que a IP, S. A., em articulação com o Instituto da Mobilidade e dos Transportes, I. P., apresenta ao membro do Governo responsável pela área das infraestruturas, até ao final do segundo semestre de 2025, uma proposta fundamentada que permita uma tomada de decisão relativamente ao modelo de contratação e de gestão a adotar para a concretização dos projetos referidos nos n.os3 e 5, sem prejuízo de outros que se entendam pertinentes.
 
 8 - Determinar que, para efeitos do disposto no número anterior, a proposta fundamentada pode considerar o agrupamento de infraestruturas rodoviárias novas e existentes, sobretudo que careçam de investimento em conservação, requalificação e alargamento no sentido de garantir as condições de circulação e segurança contratual e legalmente exigidas, e que integrem atualmente a rede rodoviária sob gestão direta da IP, S. A., ou que passem a integrá-la, uma vez terminados os contratos de concessão de que são atualmente objeto.
 
 9 - Estabelecer igualmente como projeto de infraestrutura rodoviária prioritário o Eixo Rodoviário Aveiro-Águeda, que integra o âmbito do Plano de Recuperação e Resiliência como Investimento RE-C07-i02.02, designado por «Missing links e aumento da capacidade da Rede - Eixo Rodoviário Aveiro-Águeda», determinando que a Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P., conjuntamente com as entidades para o efeito competentes e em colaboração com a IP, S. A., nos termos acordados, prossiga com os estudos tendo em vista a implementação do mesmo e o referido Eixo passe a constituir-se, após a construção, como EN 235.
 
-10 - Autorizar a IP, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à implementação dos projetos referidos nos n.<sup>os</sup>1 e 2, até ao montante máximo global de € 446 710 000, ao qual acresce, se aplicável, o imposto sobre o valor acrescentado, à taxa legal em vigor.
+10 - Autorizar a IP, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à implementação dos projetos referidos nos n.os1 e 2, até ao montante máximo global de € 446 710 000, ao qual acresce, se aplicável, o imposto sobre o valor acrescentado, à taxa legal em vigor.
 
 11 - Determinar que os encargos orçamentais resultantes do número anterior são repartidos, nos termos discriminados na tabela anexa à presente resolução e da qual faz parte integrante, de acordo com os seguintes limites anuais:
 
@@ -239,13 +277,13 @@ c) 2027 - € 218 760 000;
 
 d) 2028 - € 157 920 000.
 
-12 - Estabelecer que os montantes fixados nos n.<sup>os</sup>10 e 11 podem ser repartidos de forma diferente da determinada na presente resolução, desde que:
+12 - Estabelecer que os montantes fixados nos n.os10 e 11 podem ser repartidos de forma diferente da determinada na presente resolução, desde que:
 
 a) O montante global não ultrapasse o valor autorizado no n.º 10 e não difira do horizonte temporal estabelecido no número anterior;
 
 b) Os encargos sejam repartidos entre as atividades identificadas em cada um dos números da tabela anexa à presente resolução.
 
-13 - Estabelecer que os montantes fixados nos n.<sup>os</sup>10 e 11:
+13 - Estabelecer que os montantes fixados nos n.os10 e 11:
 
 a) Para cada ano económico podem ser acrescidos do saldo apurado no ano anterior;
 
@@ -253,7 +291,7 @@ b) São suportados diretamente por verbas a transferir do Orçamento do Estado n
 
 c) São suportados por verbas inscritas ou a inscrever no orçamento da IP, S. A., no que se refere às atividades constantes do ponto ii da tabela anexa à presente resolução, sem prejuízo do previsto no n.º 5 da [Resolução do Conselho de Ministros n.º 46-A/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-a-2021-162666782), de 3 de maio, relativamente à intervenção «EN341 - Alfarelos (EN342)/Taveiro (acesso ao Terminal Ferroviário de Alfarelos)».
 
-14 - Determinar que os encargos financeiros referidos nos n.<sup>os</sup>3, 4 e 5 são satisfeitos por verbas adequadas do orçamento da IP, S. A., sem prejuízo dos alocados a outras entidades competentes para o efeito.
+14 - Determinar que os encargos financeiros referidos nos n.os3, 4 e 5 são satisfeitos por verbas adequadas do orçamento da IP, S. A., sem prejuízo dos alocados a outras entidades competentes para o efeito.
 
 15 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
@@ -278,3 +316,7 @@ Presidência do Conselho de Ministros, 10 de março de 2025. - O Primeiro-Minist
 | EN341 - Alfarelos (EN342)/Taveiro (acesso ao Terminal Ferroviário de Alfarelos) - empreitada e aquisição de serviços | 2 510 000 | 3 940 000 | 260 000 |  | 6 710 000 |
 | Subtotal II | 3 510 000 | 17 940 000 | 21 760 000 | 8 500 000 | 51 710 000 |
 | Total | 8 840 000 | 61 190 000 | 218 760 000 | 157 920 000 | 446 710 000 |
+
+118818701
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:20px; } .Tbl8 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { text-align:justify; text-align-last:justify; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { text-align:right; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { min-height:31px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl20 { min-height:18px; } .Tbl22 { min-height:28px; } .Tbl23 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

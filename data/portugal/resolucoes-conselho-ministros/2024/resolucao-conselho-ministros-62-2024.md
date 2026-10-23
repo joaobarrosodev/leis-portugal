@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06600/0002000088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/62/2024/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2024-858631718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8f7e05aaf561e7af8f45898962a6b0937668537ab08e6b585104123694f5ab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177754cf0390cb8df6b1c113bb42225e19b6fd11f3f3c8dc2059bf76675364df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Agência Portuguesa do Ambiente
 - ÁGUA Superficial
-- RIO Vouga
-- Recursos Hídricos
-- Algarve
-- RIO TEJO
-- Grupo de Trabalho
-- Rio Sado
-- RIO Douro
-- RIO Mondego
 - Águas Subterrâneas
+- Algarve
+- Grupo de Trabalho
+- Plano de Gestão de Região Hidrográfica
+- Recursos Hídricos
 - RIO AVE
 - Rio Cávado
+- RIO Douro
 - Rio Guadiana
 - RIO LEÇA
 - RIO LIMA
 - RIO LIS
 - RIO Minho
 - RIO MIRA
-- Abastecimento de Água
-- Plano de Gestão de Região Hidrográfica
-- Agência Portuguesa do Ambiente
+- RIO Mondego
+- Rio Sado
+- RIO TEJO
+- RIO Vouga
 relationships:
 - type: amended_by
   target: pt:dre:932559322:por
@@ -131,6 +131,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75701996:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -142,13 +182,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:36Z'
   warnings: []
   errors: []
 ---
@@ -237,15 +277,15 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Min
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Minho e Lima - RH1 é uma região hidrográfica (RH) internacional com uma área total em território português de 2464 km<sup>2</sup>, que integra as bacias hidrográficas dos rios Minho e Lima e as bacias hidrográficas das ribeiras de costa, como o Âncora e o Neiva, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Minho e Lima - RH1 é uma região hidrográfica (RH) internacional com uma área total em território português de 2464 km2, que integra as bacias hidrográficas dos rios Minho e Lima e as bacias hidrográficas das ribeiras de costa, como o Âncora e o Neiva, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
 O rio Minho nasce em Espanha, na serra de Meira, a uma altitude de 700 m e desagua em Portugal no oceano Atlântico, frente a Caminha e La Guardia, após um percurso de 300 km, dos quais 230 km se situam em Espanha, servindo os restantes 70 km de fronteira entre os dois países.
 
-A parte portuguesa da bacia hidrográfica do rio Minho localiza-se no extremo noroeste de Portugal. A bacia cobre uma área total de 17 072 km<sup>2</sup>, dos quais 16 257 km<sup>2</sup> (95 %) situam-se em Espanha (Miño-Sil) e 814 km<sup>2</sup> (5 %) em Portugal. Os principais afluentes do rio Minho em território português são os rios Trancoso, Mouro, Gadanha e Coura.
+A parte portuguesa da bacia hidrográfica do rio Minho localiza-se no extremo noroeste de Portugal. A bacia cobre uma área total de 17 072 km2, dos quais 16 257 km2 (95 %) situam-se em Espanha (Miño-Sil) e 814 km2 (5 %) em Portugal. Os principais afluentes do rio Minho em território português são os rios Trancoso, Mouro, Gadanha e Coura.
 
-O rio Lima nasce em Espanha, na serra de São Mamede, a cerca de 950 m de altitude. Tem cerca de 108 km de extensão, dos quais 67 km em território português, e desagua em Viana do Castelo, no oceano Atlântico. A sua bacia é limitada a norte pelas bacias hidrográficas dos rios Minho e Âncora, a leste pela do rio Douro e a sul pelas bacias dos rios Cávado e Neiva. A bacia hidrográfica do rio Lima ocupa uma área de cerca de 2524 km<sup>2</sup>, dos quais 1199 km<sup>2</sup> (48 %) localizam-se em território português e 325 km<sup>2</sup> (52 %) em Espanha. Os principais afluentes são os rios Vez e Castro Laboreiro.
+O rio Lima nasce em Espanha, na serra de São Mamede, a cerca de 950 m de altitude. Tem cerca de 108 km de extensão, dos quais 67 km em território português, e desagua em Viana do Castelo, no oceano Atlântico. A sua bacia é limitada a norte pelas bacias hidrográficas dos rios Minho e Âncora, a leste pela do rio Douro e a sul pelas bacias dos rios Cávado e Neiva. A bacia hidrográfica do rio Lima ocupa uma área de cerca de 2524 km2, dos quais 1199 km2 (48 %) localizam-se em território português e 325 km2 (52 %) em Espanha. Os principais afluentes são os rios Vez e Castro Laboreiro.
 
-A parte espanhola da RH compreende as bacias hidrográficas dos rios Minho, Sil e Lima e tem uma superfície total de 17 582 km<sup>2</sup>. Uma parte importante da superfície da RH corresponde à Galiza e a Castilla e Léon, incluindo ainda uma extensão mais reduzida das Astúrias.
+A parte espanhola da RH compreende as bacias hidrográficas dos rios Minho, Sil e Lima e tem uma superfície total de 17 582 km2. Uma parte importante da superfície da RH corresponde à Galiza e a Castilla e Léon, incluindo ainda uma extensão mais reduzida das Astúrias.
 
 A RH1 abrange 15 dos 278 municípios portugueses do continente (5,4 %), sendo que 10 estão totalmente englobados na RH e 5 estão apenas parcialmente abrangidos. A região concentra cerca de 273 486 pessoas (população residente), o que corresponde a 2,8 % do total do continente (2018). Em termos económicos, as empresas não financeiras nesta RH representam cerca de 3 % do valor nacional, sendo o seu volume de negócios cerca de 2 % do valor nacional (2018). O valor acrescentado bruto destas empresas representa cerca de 2 % do valor nacional. O pessoal ao serviço das empresas não financeiras representa cerca de 2 % do valor nacional, sendo a produtividade aparente do trabalho destas empresas cerca de 4 % do valor nacional (2018). As importações representam cerca de 2 % do valor nacional, sendo que as exportações representam cerca de 4 % (2018). Perante a análise das importações e exportações, é possível concluir que o saldo do rácio entre estes dois indicadores oscilou entre a subida e a descida, mas sendo sempre valores positivos, com um aumento entre 2014 e 2018 de cerca de 18 %.
 
@@ -255,17 +295,17 @@ Foram classificadas 50 zonas protegidas, conforme definido na alínea jjj) do ar
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, 1989-2015, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 17 185 hm<sup>3</sup>, 13 123 hm<sup>3</sup> e 8628 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 34 % relativamente ao ano médio e de 50 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 70 % em novembro até menos 24 % em junho.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 17 185 hm3, 13 123 hm3 e 8628 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 34 % relativamente ao ano médio e de 50 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 70 % em novembro até menos 24 % em junho.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 16 854 hm<sup>3</sup>, 12 662 hm<sup>3</sup> e 7815 hm<sup>3</sup>, respetivamente. Neste período, observa-se que o valor em ano seco representa, em média, uma redução de cerca de 38 % relativamente ao ano médio e de 54 % relativamente ao ano húmido. Quanto às disponibilidades mensais, verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, variando essa redução entre 66 % em novembro e menos 21 % em agosto.
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 16 854 hm3, 12 662 hm3 e 7815 hm3, respetivamente. Neste período, observa-se que o valor em ano seco representa, em média, uma redução de cerca de 38 % relativamente ao ano médio e de 54 % relativamente ao ano húmido. Quanto às disponibilidades mensais, verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, variando essa redução entre 66 % em novembro e menos 21 % em agosto.
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 219,97 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 219,97 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas e, em paralelo, gerir os consumos de forma sustentável, adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas, podendo-se agravar as situações de escassez, pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito, realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações ainda mais críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 96 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 144 hm<sup>3</sup>/ano, com 67 % correspondente ao setor agrícola e pecuário, seguindo-se o setor industrial com 21 % e o setor urbano com 11 %.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 96 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 144 hm3/ano, com 67 % correspondente ao setor agrícola e pecuário, seguindo-se o setor industrial com 21 % e o setor urbano com 11 %.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH não apresenta escassez (3 %) para o período de 1989-2015. A nível mensal, os valores do WEI+ variam entre 10 % em agosto e 0,3 % em janeiro.
 
@@ -319,7 +359,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub>, que vai desde 12 % no cenário minimalista a 26 % no cenário maximalista;
+a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5, que vai desde 12 % no cenário minimalista a 26 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um aumento para todos os cenários, com tendência crescente do minimalista (7 %) até ao maximalista (12 %) quanto à carga gerada em termos de CQO;
 
@@ -439,13 +479,13 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Cá
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Cávado, Ave e Leça - RH2, com uma área total de 3585 km<sup>2</sup>, integra as bacias hidrográficas dos rios Cávado, Ave e Leça e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Cávado, Ave e Leça - RH2, com uma área total de 3585 km2, integra as bacias hidrográficas dos rios Cávado, Ave e Leça e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
-O rio Cávado nasce na serra do Larouco, a uma altitude de cerca de 1520 m, percorrendo aproximadamente 129 km até à foz, em Esposende. A área abrangida pela bacia hidrográfica do rio Cávado é de 1699 km<sup>2</sup>, sendo que os seus afluentes mais importantes são, na margem direita, o rio Homem e, na margem esquerda, o rio Rabagão.
+O rio Cávado nasce na serra do Larouco, a uma altitude de cerca de 1520 m, percorrendo aproximadamente 129 km até à foz, em Esposende. A área abrangida pela bacia hidrográfica do rio Cávado é de 1699 km2, sendo que os seus afluentes mais importantes são, na margem direita, o rio Homem e, na margem esquerda, o rio Rabagão.
 
-O rio Ave nasce na serra da Cabreira, a cerca de 1200 m de altitude, no Pau da Bela, percorrendo cerca de 85 km até desaguar no oceano Atlântico a sul de Vila do Conde, ocupando uma área de 1391 km<sup>2</sup>. Os seus principais tributários são, na sua margem esquerda, o rio Vizela e, na margem direita, o rio Este.
+O rio Ave nasce na serra da Cabreira, a cerca de 1200 m de altitude, no Pau da Bela, percorrendo cerca de 85 km até desaguar no oceano Atlântico a sul de Vila do Conde, ocupando uma área de 1391 km2. Os seus principais tributários são, na sua margem esquerda, o rio Vizela e, na margem direita, o rio Este.
 
-O rio Leça nasce no monte de Santa Luzia, a cerca de 420 m de altitude, percorrendo 48 km até à sua foz no oceano Atlântico, ocupando uma área de cerca de 185 km<sup>2</sup>. Os principais tributários do rio Leça são a ribeira do Arquinho e a ribeira de Leandro, ambos afluentes da margem direita.
+O rio Leça nasce no monte de Santa Luzia, a cerca de 420 m de altitude, percorrendo 48 km até à sua foz no oceano Atlântico, ocupando uma área de cerca de 185 km2. Os principais tributários do rio Leça são a ribeira do Arquinho e a ribeira de Leandro, ambos afluentes da margem direita.
 
 A RH2 abrange 28 dos 278 municípios portugueses do continente (10 %), sendo que 9 estão totalmente englobados na região hidrográfica (RH). A região concentra uma população residente de cerca de 1 428 995 habitantes, o que corresponde a 14,8 % do total do continente (2018). Em termos económicos, as empresas não financeiras nesta RH representam cerca de 13 % do valor nacional, sendo o seu volume de negócios cerca de 15 % do valor nacional (2018). O valor acrescentado bruto destas empresas representa cerca de 15 % do valor nacional. O pessoal ao serviço das empresas não financeiras representa cerca de 16 % do valor nacional, sendo a produtividade aparente do trabalho destas empresas cerca de 7 % do valor nacional (2018). As importações representam cerca de 13 % do valor nacional, sendo que as exportações representam cerca de 21 % (2018). Perante a análise das importações e exportações, é possível concluir que o saldo do rácio entre estes dois indicadores oscilou entre a subida e a descida, mas sendo sempre valores positivos, com um aumento entre 2014 e 2018 de cerca de 22 %.
 
@@ -455,17 +495,17 @@ Foram classificadas 82 zonas protegidas, conforme definido na alínea jjj) do ar
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, 1989-2015, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 3772 hm<sup>3</sup>, 2715 hm<sup>3</sup> e 1308 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 52 % relativamente ao ano médio e de 65 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 89 % em março e menos 32 % em julho.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 3772 hm3, 2715 hm3 e 1308 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 52 % relativamente ao ano médio e de 65 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 89 % em março e menos 32 % em julho.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 3534 hm<sup>3</sup>, 2452 hm<sup>3</sup> e 1075 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 56 % relativamente ao ano médio e de 70 % relativamente ao ano húmido. Quanto às disponibilidades mensais, verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, verificando-se mesmo um défice para os meses de junho a agosto na sub-bacia do Cávado, que se reflete também na região (considerando os consumos de 2018).
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 3534 hm3, 2452 hm3 e 1075 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 56 % relativamente ao ano médio e de 70 % relativamente ao ano húmido. Quanto às disponibilidades mensais, verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, verificando-se mesmo um défice para os meses de junho a agosto na sub-bacia do Cávado, que se reflete também na região (considerando os consumos de 2018).
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 254,60 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 254,60 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas e, em paralelo, gerir os consumos de forma sustentável, adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas, podendo-se agravar as situações de escassez, pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito, realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 96 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 466 hm<sup>3</sup>/ano, sendo que 79 % corresponde ao setor agrícola, seguido do urbano com 13 % e do setor industrial com 6 %.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 96 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 466 hm3/ano, sendo que 79 % corresponde ao setor agrícola, seguido do urbano com 13 % e do setor industrial com 6 %.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez elevada (44 %) para o período de 1989-2015. A nível mensal, os valores do WEI+ variam entre 94 % em agosto e 8 % em janeiro.
 
@@ -521,7 +561,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub>, que vai desde 24 % no cenário minimalista a 39 % no cenário maximalista;
+a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5, que vai desde 24 % no cenário minimalista a 39 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um ligeiro aumento para todos os cenários, com tendência crescente do minimalista (3 %) até ao maximalista (6 %) quanto à carga gerada em termos de CQO;
 
@@ -649,11 +689,11 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Dou
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Douro - RH3 é uma região hidrográfica (RH) internacional com uma área total em território português de 19 218 km<sup>2</sup>, que integra, para além da bacia hidrográfica do rio Douro, as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Douro - RH3 é uma região hidrográfica (RH) internacional com uma área total em território português de 19 218 km2, que integra, para além da bacia hidrográfica do rio Douro, as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
 O rio Douro nasce na serra de Urbion (Cordilheira Ibérica) a cerca de 1700 m de altitude. Ao longo do seu curso de 927 km (terceiro maior rio da Península Ibérica) até à foz no oceano Atlântico, junto à cidade do Porto, atravessa o território espanhol numa extensão de 597 km e serve de fronteira ao longo de 122 km.
 
-A bacia hidrográfica do rio Douro tem uma área total de 97 477 km<sup>2</sup>, dos quais 18 588 km<sup>2</sup> em Portugal (19 %) e 78 889 km<sup>2</sup> em Espanha (81 %). A parte portuguesa ocupa também o primeiro lugar em dimensão entre as bacias dos rios nacionais ou internacionais que atravessam o território nacional.
+A bacia hidrográfica do rio Douro tem uma área total de 97 477 km2, dos quais 18 588 km2 em Portugal (19 %) e 78 889 km2 em Espanha (81 %). A parte portuguesa ocupa também o primeiro lugar em dimensão entre as bacias dos rios nacionais ou internacionais que atravessam o território nacional.
 
 Os principais afluentes na margem direita são: em Espanha, o Pisuerga, o Valderaduey e o Esla; em Portugal, o Sabor, o Tua e o Tâmega. Na margem esquerda são de realçar: em Espanha, o Adaja, o Tormes, o Huebra e o Águeda; em Portugal, realçam-se os rios Côa e Paiva.
 
@@ -667,17 +707,17 @@ Foram classificadas 152 zonas protegidas, conforme definido na alínea jjj) do a
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe a disponibilidade hídrica para este último período, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 24 416 hm<sup>3</sup>, 16 544 hm<sup>3</sup> e 6744 hm<sup>3</sup>, respetivamente. Neste período, observa-se que o valor em ano seco representa, em média, uma redução de cerca de 59 % relativamente ao ano médio e de 72 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 82 % em dezembro e menos 41 % em agosto.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 24 416 hm3, 16 544 hm3 e 6744 hm3, respetivamente. Neste período, observa-se que o valor em ano seco representa, em média, uma redução de cerca de 59 % relativamente ao ano médio e de 72 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 82 % em dezembro e menos 41 % em agosto.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 18 555 hm<sup>3</sup>, 11 995 hm<sup>3</sup> e 3707 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 69 % relativamente ao ano médio e de 80 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice em várias sub-bacias e que se reflete nos meses de agosto e setembro ao nível da RH (considerando os consumos de 2018).
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 18 555 hm3, 11 995 hm3 e 3707 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 69 % relativamente ao ano médio e de 80 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice em várias sub-bacias e que se reflete nos meses de agosto e setembro ao nível da RH (considerando os consumos de 2018).
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 796,25 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 796,25 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 99 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 1199 hm<sup>3</sup>/ano, sendo que 78 % corresponde ao setor agrícola, seguido do urbano com 20 %, tendo os restantes setores um consumo residual.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 99 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 1199 hm3/ano, sendo que 78 % corresponde ao setor agrícola, seguido do urbano com 20 %, tendo os restantes setores um consumo residual.
 
 O índice de escassez WEI+ (Water Exploitation Index +) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez elevada (39 %) para o período de 1989-2015. A nível mensal os valores do WEI+ variam entre 88 % em agosto e 5 % em janeiro.
 
@@ -733,7 +773,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub> que vai desde 5 % no cenário minimalista a 15 % no cenário maximalista;
+a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5 que vai desde 5 % no cenário minimalista a 15 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um ligeiro aumento para todos os cenários, com tendência crescente do minimalista (3 %) até ao maximalista (7 %) quanto à carga gerada em termos de CQO;
 
@@ -863,13 +903,13 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Vou
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Vouga, Mondego e Lis - RH4A, com uma área total de 12 144 km<sup>2</sup>, integra as bacias hidrográficas dos rios Vouga, Mondego e Lis e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Vouga, Mondego e Lis - RH4A, com uma área total de 12 144 km2, integra as bacias hidrográficas dos rios Vouga, Mondego e Lis e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
-O rio Vouga nasce na serra da Lapa, a cerca de 930 m de altitude e percorre 148 km até desaguar na barra de Aveiro. A sua bacia hidrográfica, com uma área de 3685 km<sup>2</sup>, situa-se na zona de transição entre o Norte e o Sul de Portugal.
+O rio Vouga nasce na serra da Lapa, a cerca de 930 m de altitude e percorre 148 km até desaguar na barra de Aveiro. A sua bacia hidrográfica, com uma área de 3685 km2, situa-se na zona de transição entre o Norte e o Sul de Portugal.
 
 O rio Mondego é o maior rio português com a sua bacia hidrográfica integralmente em território nacional. Nasce na serra da Estrela, a 1525 m de altitude e percorre 258 km até desaguar no oceano Atlântico, junto à Figueira da Foz. A área da bacia hidrográfica do rio Mondego é de 6645 km² e os seus principais afluentes são os rios Dão, Alva, Ceira e Arunca.
 
-O rio Lis nasce na povoação de Fontes, no concelho de Leiria, e percorre tem cerca de 40 km até desaguar no oceano Atlântico, a norte de Praia da Vieira. A bacia hidrográfica do rio Lis ocupa uma área de 945 km<sup>2</sup> sendo os seus principais afluentes o rio de Fora e a ribeira da Caranguejeira, na margem direita, e o rio Lena e a ribeira do Rio Seco, na margem esquerda.
+O rio Lis nasce na povoação de Fontes, no concelho de Leiria, e percorre tem cerca de 40 km até desaguar no oceano Atlântico, a norte de Praia da Vieira. A bacia hidrográfica do rio Lis ocupa uma área de 945 km2 sendo os seus principais afluentes o rio de Fora e a ribeira da Caranguejeira, na margem direita, e o rio Lena e a ribeira do Rio Seco, na margem esquerda.
 
 A RH4A abrange 64 dos 278 municípios portugueses do continente (23 %), sendo que 39 estão totalmente englobados na RH e 25 estão parcialmente abrangidos. A região concentra uma população residente de 1 435 081 habitantes o que corresponde a 14,7 % do total do continente (2018). Em termos económicos as empresas não financeiras nesta região hidrográfica (RH) representam cerca de 14 % do valor nacional, sendo o seu volume de negócios cerca de 12 % do valor nacional (2018). O valor acrescentado bruto destas empresas representa cerca de 12 % do valor nacional. O pessoal ao serviço das empresas não financeiras representa cerca de 13 % do valor nacional, sendo a produtividade aparente do trabalho destas empresas cerca de 21 % do valor nacional (2018). As importações representam cerca de 11 % do valor nacional, sendo que as exportações representam cerca de 18 % (2018). Perante a análise das importações e exportações, é possível concluir que o saldo do rácio entre estes dois indicadores oscilou entre a subida e a descida, mas sendo sempre valores positivos, com um decréscimo entre 2014 e 2018 de cerca de 9 %.
 
@@ -879,17 +919,17 @@ Foram classificadas 185 zonas protegidas, conforme definido na alínea jjj) do a
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, 1989-2015, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 6826 hm<sup>3</sup>, 4827 hm<sup>3</sup> e 1785 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 63 % relativamente ao ano médio e de 74 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 83 % em dezembro e menos 33 % em agosto.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 6826 hm3, 4827 hm3 e 1785 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 63 % relativamente ao ano médio e de 74 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 83 % em dezembro e menos 33 % em agosto.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 6383 hm<sup>3</sup>, 4404 hm<sup>3</sup> e 1449 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 67 % relativamente ao ano médio e de 77 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice para o mês de outubro, na sub-bacia do Mondego (considerando os consumos de 2018).
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 6383 hm3, 4404 hm3 e 1449 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 67 % relativamente ao ano médio e de 77 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice para o mês de outubro, na sub-bacia do Mondego (considerando os consumos de 2018).
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 1199,88 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 1199,88 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 90 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 839 hm<sup>3</sup>/ano, sendo que 55 % correspondem ao setor agrícola, 30 % ao setor indústria, 12 % ao setor urbano e o restante volume ao turismo e outros usos.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 90 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 839 hm3/ano, sendo que 55 % correspondem ao setor agrícola, 30 % ao setor indústria, 12 % ao setor urbano e o restante volume ao turismo e outros usos.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez elevada (42 %) para o período de 1989-2015. A nível mensal os valores do WEI+ variam entre 90 % em agosto e 7 % em janeiro.
 
@@ -945,7 +985,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub> que vai desde 10 % no cenário minimalista a 23 % no cenário maximalista;
+a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5 que vai desde 10 % no cenário minimalista a 23 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um aumento para todos os cenários, com tendência crescente do minimalista (9 %) até ao maximalista (15 %) quanto à carga gerada em termos de CQO;
 
@@ -1069,13 +1109,13 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Tej
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Tejo e Ribeiras do Oeste - RH5A, é uma região hidrográfica (RH) internacional com uma área total em território português de 30 502 km<sup>2</sup> e integra a bacia hidrográfica do rio Tejo e ribeiras adjacentes, a bacia hidrográfica das Ribeiras do Oeste, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o disposto no [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Tejo e Ribeiras do Oeste - RH5A, é uma região hidrográfica (RH) internacional com uma área total em território português de 30 502 km2 e integra a bacia hidrográfica do rio Tejo e ribeiras adjacentes, a bacia hidrográfica das Ribeiras do Oeste, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o disposto no [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
-A bacia do Tejo cobre uma área total de 80 795 km<sup>2</sup>, dos quais 55 779 km<sup>2</sup> (69 %) situam-se em Espanha e 25 016 km<sup>2</sup> (31 %) em Portugal e está limitada a sul pela bacia hidrográfica do rio Sado e a norte pelas bacias hidrográficas dos rios Mondego e Douro.
+A bacia do Tejo cobre uma área total de 80 795 km2, dos quais 55 779 km2 (69 %) situam-se em Espanha e 25 016 km2 (31 %) em Portugal e está limitada a sul pela bacia hidrográfica do rio Sado e a norte pelas bacias hidrográficas dos rios Mondego e Douro.
 
 O rio Tejo nasce na serra de Albarracín (Espanha) a cerca de 1600 m de altitude e apresenta um comprimento de 1100 km, dos quais 230 km em Portugal e 43 km de troço internacional, definido desde a foz do rio Erges até à foz do rio Sever. Os principais afluentes do rio Tejo em território espanhol são: o rio Jarama, o rio Alberche, o rio Tietar e o rio Alagon na margem direita; e o rio Guadiela e rio Almonte, na margem esquerda. Em Portugal, os principais afluentes são os rios Erges, Pônsul, Ocreza e Zêzere, na margem direita, e os rios Sever e Sorraia, na margem esquerda. Destes afluentes merecem referência especial, pela dimensão das bacias hidrográficas, o rio Zêzere e o rio Sorraia que totalizam cerca de 50 % da área da bacia portuguesa.
 
-A bacia hidrográfica das ribeiras do Oeste engloba todas as pequenas bacias da fachada atlântica entre, aproximadamente, a Nazaré e a foz do rio Tejo. Constitui uma estreita faixa, com cerca de 120 km de extensão, com eixo no sentido NNE-SSW, aproximadamente, e máxima largura, na linha Peniche-Cadaval, da ordem dos 35 km. A área total da bacia hidrográfica das ribeiras do Oeste é de 2175,14 km<sup>2</sup>.
+A bacia hidrográfica das ribeiras do Oeste engloba todas as pequenas bacias da fachada atlântica entre, aproximadamente, a Nazaré e a foz do rio Tejo. Constitui uma estreita faixa, com cerca de 120 km de extensão, com eixo no sentido NNE-SSW, aproximadamente, e máxima largura, na linha Peniche-Cadaval, da ordem dos 35 km. A área total da bacia hidrográfica das ribeiras do Oeste é de 2175,14 km2.
 
 A parte espanhola da RH está limitada a norte pela RH do Douro, a este pelo rio Ebro e o rio Júcar, e a sul pela RH do Guadiana. Está situada na parte central da península Ibérica, com limites naturais muito bem definidos: Cordilheira Central, a norte, Ibérica a leste e Montes de Toledo para sul.
 
@@ -1089,15 +1129,15 @@ Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidr
 
 Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 19 843 hm³, 13 354 hm³ e 3 991 hm³, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 70 % relativamente ao ano médio e de 80 % relativamente ao ano húmido. Quanto às disponibilidades, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 88 % em dezembro até menos 48 % em agosto.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 13 273 hm<sup>3</sup>, 9852 hm<sup>3</sup> e 3308 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 66 % relativamente ao ano médio e de 75 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, variando essa redução entre menos 74 % em maio e menos 89 % em julho, verificando-se mesmo um défice em vários meses nas sub-bacias do Seda e do Raia (considerando os consumos de 2018).
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 13 273 hm3, 9852 hm3 e 3308 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 66 % relativamente ao ano médio e de 75 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, variando essa redução entre menos 74 % em maio e menos 89 % em julho, verificando-se mesmo um défice em vários meses nas sub-bacias do Seda e do Raia (considerando os consumos de 2018).
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 2643,28 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 2643,28 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados nesta RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 89 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 2004 hm<sup>3</sup>/ano, com 70 %, correspondente ao setor agrícola e pecuário, seguindo-se o setor urbano com 18 % e a indústria com um peso de aproximadamente 9 %.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados nesta RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 89 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 2004 hm3/ano, com 70 %, correspondente ao setor agrícola e pecuário, seguindo-se o setor urbano com 18 % e a indústria com um peso de aproximadamente 9 %.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez elevada (47 %) para o período de 1989-2015. A nível mensal os valores do WEI+ variam entre 98 % em agosto e 6,9 % em janeiro.
 
@@ -1155,7 +1195,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub> que vai desde 13 % no cenário minimalista a 25 % no cenário maximalista;
+a) Setor urbano e setor turismo: no médio e longo prazo verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5 que vai desde 13 % no cenário minimalista a 25 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um ligeiro aumento para todos os cenários, com tendência crescente do minimalista (3 %) até ao maximalista (7 %) quanto à carga gerada em termos de CQO;
 
@@ -1285,11 +1325,11 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Sad
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Sado e Mira - RH6, com uma área total de 12 149 km<sup>2</sup>, integra as bacias hidrográficas dos rios Sado e Mira e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Sado e Mira - RH6, com uma área total de 12 149 km2, integra as bacias hidrográficas dos rios Sado e Mira e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
-O rio Sado nasce na serra da Vigia, a 230 m de altitude e desenvolve se ao longo de 180 km até à foz, no oceano Atlântico, junto a Setúbal. A sua bacia hidrográfica abrange uma área de 7692 km<sup>2</sup>. Os seus principais afluentes, na margem direita, são as ribeiras da Marateca, São Martinho, Alcáçovas, Xarrama, Odivelas e Roxo e na margem esquerda, destacam-se as ribeiras de Grândola, Corona e Campilhas.
+O rio Sado nasce na serra da Vigia, a 230 m de altitude e desenvolve se ao longo de 180 km até à foz, no oceano Atlântico, junto a Setúbal. A sua bacia hidrográfica abrange uma área de 7692 km2. Os seus principais afluentes, na margem direita, são as ribeiras da Marateca, São Martinho, Alcáçovas, Xarrama, Odivelas e Roxo e na margem esquerda, destacam-se as ribeiras de Grândola, Corona e Campilhas.
 
-O rio Mira nasce na serra do Caldeirão, a cerca de 470 m de altitude e desenvolve-se ao longo de cerca de 130 km até à foz, no oceano Atlântico, junto a Vila Nova de Milfontes. A bacia hidrográfica do rio Mira abrange uma área de 1581 km<sup>2</sup>. Entre os principais afluentes destacam-se a ribeira do Torgal, os rios Luzianes e Perna Seca, na margem direita e ainda, Macheira, Guilherme e Telhares na margem esquerda.
+O rio Mira nasce na serra do Caldeirão, a cerca de 470 m de altitude e desenvolve-se ao longo de cerca de 130 km até à foz, no oceano Atlântico, junto a Vila Nova de Milfontes. A bacia hidrográfica do rio Mira abrange uma área de 1581 km2. Entre os principais afluentes destacam-se a ribeira do Torgal, os rios Luzianes e Perna Seca, na margem direita e ainda, Macheira, Guilherme e Telhares na margem esquerda.
 
 A RH6 abrange áreas compreendidas nas sub-regiões da península de Setúbal, do Alentejo Central, do Alentejo Litoral e do Baixo Alentejo e engloba 23 dos 278 municípios portugueses do continente (8,3 %), sendo que 7 estão totalmente englobados na RH e 16 estão parcialmente abrangidos. A região concentra uma população residente cerca de 295 mil habitantes o que corresponde a 3 % do total do continente (2018). Em termos económicos as empresas não financeiras nesta RH representam cerca de 3 % do valor nacional, sendo o seu volume de negócios cerca de 3 % do valor nacional (2018). O valor acrescentado bruto destas empresas representa cerca de 3 % do valor nacional. O pessoal ao serviço das empresas não financeiras representa cerca de 3 % do valor nacional, sendo a produtividade aparente do trabalho destas empresas cerca de 6 % do valor nacional (2018). As importações representam cerca de 3 % do valor nacional, sendo que as exportações representam cerca de 8 % (2018). Perante a análise das importações e exportações, é possível concluir que o saldo do rácio entre estes dois indicadores oscilou entre a subida e a descida, mas sendo sempre valores positivos, com um aumento entre 2014 e 2018 de cerca de 27 %.
 
@@ -1299,17 +1339,17 @@ Foram classificadas 79 zonas protegidas, conforme definido na alínea jjj) do ar
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 1868 hm<sup>3</sup>, 1062 hm<sup>3</sup> e 91 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 91 % relativamente ao ano médio e de 95 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 99 % em dezembro e menos 75 % em setembro.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 1868 hm3, 1062 hm3 e 91 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 91 % relativamente ao ano médio e de 95 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 99 % em dezembro e menos 75 % em setembro.
 
-Os valores das disponibilidades hídricas, média anual para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 1204 hm<sup>3</sup>, 816 hm<sup>3</sup> e 117 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 86 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses, variando entre menos 97 % em dezembro e menos 42 % em agosto.
+Os valores das disponibilidades hídricas, média anual para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 1204 hm3, 816 hm3 e 117 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 86 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses, variando entre menos 97 % em dezembro e menos 42 % em agosto.
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 390,5 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 390,5 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 65 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 620,6 hm<sup>3</sup>/ano, sendo que 75 % corresponde ao setor agrícola e pecuário, 17 % corresponde ao setor indústria, 6 % aos outros setores e apenas 3 % ao setor urbano.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica e termoelétrica (volumes não consumptivos), com cerca de 65 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 620,6 hm3/ano, sendo que 75 % corresponde ao setor agrícola e pecuário, 17 % corresponde ao setor indústria, 6 % aos outros setores e apenas 3 % ao setor urbano.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez extrema (75 %) para o período de 1989-2015. A nível mensal os valores do WEI+ variam entre 100 % em julho/agosto e 51 % em fevereiro.
 
@@ -1367,7 +1407,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: no longo prazo verifica-se um ligeiro aumento no cenário maximalista (3 %) quanto à carga gerada em termos de CBO<sub>5</sub>;
+a) Setor urbano e setor turismo: no longo prazo verifica-se um ligeiro aumento no cenário maximalista (3 %) quanto à carga gerada em termos de CBO5;
 
 b) Setor indústria: no médio e longo prazo verifica-se um decréscimo para todos os cenários, com tendência decrescente do minimalista (-10 %) até ao maximalista (-12 %) quanto à carga gerada em termos de CQO;
 
@@ -1493,9 +1533,9 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica do Gua
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Guadiana - RH7, é uma região hidrográfica (RH) internacional com uma área total em território português de 11 611 km<sup>2</sup>. Integra a bacia hidrográfica do rio Guadiana localizada em território português e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o disposto no [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica do Guadiana - RH7, é uma região hidrográfica (RH) internacional com uma área total em território português de 11 611 km2. Integra a bacia hidrográfica do rio Guadiana localizada em território português e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme o disposto no [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
-O rio Guadiana nasce nas lagoas de Ruidera em Espanha, a 868 m de altitude, desenvolvendo-se ao longo de mais de 800 km até à foz, no oceano Atlântico, junto a Vila Real de Santo António. Em Portugal, o rio tem um desenvolvimento total de 260 km, dos quais 110 km delimitam a fronteira. A bacia do Guadiana cobre uma área total de 67 026 km<sup>2</sup>, dos quais 55 492 km<sup>2</sup> (83 %) situam-se em Espanha e 11 534 km<sup>2</sup> (17 %) em Portugal.
+O rio Guadiana nasce nas lagoas de Ruidera em Espanha, a 868 m de altitude, desenvolvendo-se ao longo de mais de 800 km até à foz, no oceano Atlântico, junto a Vila Real de Santo António. Em Portugal, o rio tem um desenvolvimento total de 260 km, dos quais 110 km delimitam a fronteira. A bacia do Guadiana cobre uma área total de 67 026 km2, dos quais 55 492 km2 (83 %) situam-se em Espanha e 11 534 km2 (17 %) em Portugal.
 
 A parte espanhola da RH é limitada a norte pela RH do Tejo, a este pela região do Júcar e a sul pela região do Guadalquivir e pelos rios Tinto, Odiel e Piedras. Abrange três Comunidades Autónomas: Castilla La Mancha, Extremadura e Andalucia e oito províncias, sendo que Ciudad Real e Badajoz somam a maior parte do território da bacia (75 % da sua extensão total).
 
@@ -1507,17 +1547,17 @@ Foram classificadas 48 zonas protegidas, conforme definido na alínea jjj) do ar
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, 1989-2015, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 9973 hm<sup>3</sup>, 4909 hm<sup>3</sup> e 1021 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 79 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 95 % em dezembro e menos 56 % em agosto.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 9973 hm3, 4909 hm3 e 1021 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 79 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 95 % em dezembro e menos 56 % em agosto.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 4080 hm<sup>3</sup>, 2261 hm<sup>3</sup> e 421 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice para os meses de agosto, setembro e de outubro na sub-bacia do Guadiana e que se refletem também ao nível da RH para o mês de outubro.
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 4080 hm3, 2261 hm3 e 421 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 90 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio verificando-se mesmo um défice para os meses de agosto, setembro e de outubro na sub-bacia do Guadiana e que se refletem também ao nível da RH para o mês de outubro.
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 306,06 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 306,06 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
 A escassez hídrica define-se por um desequilíbrio entre a procura e a oferta de água em condições sustentáveis, com base em análises efetuadas a longo prazo. Neste âmbito realiza-se um balanço hídrico, com desagregação mensal, entre disponibilidades e volumes captados de água. O crescimento contínuo dos consumos de água face às disponibilidades limitadas pode levar a situações críticas quando estas disponibilidades diminuem em consequência da ocorrência de secas.
 
-Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 29 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 772,4 hm<sup>3</sup>/ano, sendo que 92 % corresponde ao setor agrícola e pecuário e 6 % ao setor urbano.
+Em termos de pressões quantitativas, os principais volumes captados/utilizados na RH dizem respeito à produção hidroelétrica (volumes não consumptivos), com cerca de 29 % do total captado. Tendo em conta apenas os volumes consumptivos, estima-se um volume de cerca de 772,4 hm3/ano, sendo que 92 % corresponde ao setor agrícola e pecuário e 6 % ao setor urbano.
 
 O índice de escassez WEI+ (Water Exploitation Index+) corresponde à razão entre a procura média anual de água e os recursos médios disponíveis a longo prazo e permite assim avaliar o stress hídrico a que se encontra sujeito um território. Para Portugal continental foi obtido um índice WEI+ de 30 % para o período de 1989-2015, o que indica que Portugal continental se encontra em situação de escassez moderada. Considerando as disponibilidades hídricas em regime modificado correspondente aos valores médios anuais, verifica-se que a RH apresenta escassez severa (51 %) para o período de 1989-2015. A nível mensal os valores do WEI+ variam entre 94 % em agosto e 9,3 % em dezembro e fevereiro.
 
@@ -1577,7 +1617,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub> que, no longo prazo, vai desde 5 % no cenário BAU a 21 % no cenário maximalista;
+a) Setor urbano e setor turismo: verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5 que, no longo prazo, vai desde 5 % no cenário BAU a 21 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um aumento para todos os cenários, com tendência crescente do minimalista (14 %) até ao maximalista (23 %) quanto à carga gerada em termos de CQO;
 
@@ -1703,7 +1743,7 @@ Relatório técnico resumido do Plano de Gestão da Região Hidrográfica das Ri
 
 1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica das Ribeiras do Algarve - RH8, com uma área total de 5511 km<sup>2</sup>, integra as bacias hidrográficas das ribeiras do Algarve incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
+A Região Hidrográfica das Ribeiras do Algarve - RH8, com uma área total de 5511 km2, integra as bacias hidrográficas das ribeiras do Algarve incluindo as respetivas águas subterrâneas e águas costeiras adjacentes, conforme [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-2007-629135), de 19 de outubro, alterado pelo [Decreto-Lei n.º 117/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744), de 23 de junho.
 
 Os principais cursos de água da região hidrográfica (RH) nascem nas serras de Monchique e Espinhaço de Cão, a ocidente, e na do Caldeirão no setor nordeste, sendo o mais importante o rio Arade. As bacias hidrográficas correspondentes são, em geral, de área reduzida.
 
@@ -1723,11 +1763,11 @@ Foram classificadas 159 zonas protegidas, conforme definido na alínea jjj) do a
 
 Quanto às disponibilidades hídricas superficiais, obtidas por modelação hidrológica, dividiu-se o período de referência da análise (1930-2015) em dois períodos: 1930-1988 e 1989-2015, uma vez que as disponibilidades hídricas têm sofrido grandes alterações neste século. Desta forma, foi possível analisar em maior detalhe as disponibilidades hídricas para este último período, 1989-2015, que mais se aproxima da realidade atual.
 
-Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 896 hm<sup>3</sup>, 649 hm<sup>3</sup> e 122 hm<sup>3</sup>, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 86 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 96 % em outubro e menos 74 % em maio.
+Os valores das disponibilidades hídricas, média anual em regime natural, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 896 hm3, 649 hm3 e 122 hm3, respetivamente. Neste período observa-se que o valor em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 86 % relativamente ao ano húmido. Quanto às disponibilidades mensais, em ano seco, diminuem em todos os meses em relação ao ano médio, variando entre menos 96 % em outubro e menos 74 % em maio.
 
-Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 612 hm<sup>3</sup>, 528 hm<sup>3</sup> e 99 hm<sup>3</sup>, respetivamente. Neste período observa-se que o em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 84 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, exceto nos meses de julho e agosto nos quais não existe variação.
+Os valores das disponibilidades hídricas, média anual em regime modificado, para os anos húmido, médio e seco, para o período de referência 1989-2015, nesta região são 612 hm3, 528 hm3 e 99 hm3, respetivamente. Neste período observa-se que o em ano seco representa, em média, uma redução de cerca de 81 % relativamente ao ano médio e de 84 % relativamente ao ano húmido. Quanto às disponibilidades mensais verifica-se que, em ano seco, diminuem em todos os meses em relação ao ano médio, exceto nos meses de julho e agosto nos quais não existe variação.
 
-As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 279,58 hm<sup>3</sup>/ano.
+As disponibilidades hídricas subterrâneas correspondem ao volume de água que uma massa de água subterrânea pode fornecer, anualmente, em condições naturais, apresentando um valor médio de 279,58 hm3/ano.
 
 A assimetria das disponibilidades hídricas em Portugal é bastante elevada tanto em termos espaciais, como sazonais e anuais. Como consequência desta variabilidade, é fundamental dispor de capacidade de armazenamento de águas superficiais e subterrâneas, e em paralelo gerir os consumos de forma sustentável adaptando-os às disponibilidades de cada região e considerando ainda, e previamente, as necessidades associadas à manutenção dos ecossistemas. Em situações extremas de seca prolongada, as disponibilidades de água serão reduzidas podendo-se agravar as situações de escassez pelo que se torna necessário promover as medidas de resiliência e redução do risco associado para garantir os usos prioritários e os ecossistemas.
 
@@ -1791,7 +1831,7 @@ Na cenarização das pressões qualitativas e quantitativas foi analisada a tend
 
 Em síntese, as projeções das cargas provenientes dos vários setores de atividade apresentam as seguintes tendências relativamente à situação atual:
 
-a) Setor urbano e setor turismo: verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO<sub>5</sub> que, no longo prazo, vai desde 21 % no cenário minimalista a 32 % no cenário maximalista;
+a) Setor urbano e setor turismo: verifica-se um aumento em todos os cenários quanto à carga gerada em termos de CBO5 que, no longo prazo, vai desde 21 % no cenário minimalista a 32 % no cenário maximalista;
 
 b) Setor indústria: no médio e longo prazo verifica-se um aumento para todos os cenários, com tendência crescente do minimalista (13 %) até ao maximalista (21 %) quanto à carga gerada em termos de CQO;
 
@@ -1908,3 +1948,5 @@ O acompanhamento e a avaliação do PGRH envolve uma avaliação interna assegur
 No âmbito desta avaliação são realizadas reuniões a nível regional com as entidades cuja ação tem impactes nos recursos hídricos e com os organismos responsáveis pelo ordenamento do território, e a nível luso-espanhol, no contexto da Comissão para Aplicação e Desenvolvimento da Convenção Luso-Espanhola. O facto da execução das medidas a aplicar não depender exclusivamente das entidades da Administração Pública com responsabilidades sobre os recursos hídricos, reforça a importância destas reuniões como pontos de interface de conhecimento e reconhecimento das medidas e da respetiva calendarização.
 
 Paralelamente, no âmbito da comissão interministerial prevista no Plano Nacional da Água que envolve a administração central e regional, poderá acompanhar a evolução da implementação das medidas previstas pelos diferentes setores, bem como do cumprimento dos objetivos estabelecidos, promovendo a recolha da informação necessária para a sua verificação.
+
+117532056

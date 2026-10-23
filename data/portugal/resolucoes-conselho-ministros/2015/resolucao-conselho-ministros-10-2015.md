@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04600/0139301394.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/10/2015/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2015-66674041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34cd28b9e3be9187d2389beab41d0a4026a06774cb86cb0eb7e6c173b167c2d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 929c28bf63a8fc2af693875ba3fc284f3af821692415c130d027e5066f46ad98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metropolitano de Lisboa
-- Ministro da Economia
 - Companhia Carris de Ferro de Lisboa
 - Contrato de Concessão
 - Delegação de Competências
-- Primeiro-ministro
-- Indemnização Compensatória
 - Governo XIX
-- Plano Estratégico dos Transportes
-- Serviço Público
+- Indemnização Compensatória
+- Metropolitano de Lisboa
+- Ministro da Economia
 - Ministro de Estado e das Finanças
+- Plano Estratégico dos Transportes
+- Primeiro-ministro
+- Serviço Público
 - Transporte
 relationships:
 - type: amended_by
@@ -104,16 +104,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/47/2014/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/47/2014/07/22/p/dre
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:61725765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:61725766:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105673279:por
+  label: Revogada, a partir de 01.02.2017, pelo(a) Decreto-Lei n.º 86-D/2016 - Diário da República n.º 250/2016, 3º Suplemento,
+    Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-d-2016-105673279
+  date: '2016-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:10Z'
   warnings: []
   errors: []
 ---

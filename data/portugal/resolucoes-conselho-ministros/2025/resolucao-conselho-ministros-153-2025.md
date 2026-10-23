@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/153/2025/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-2025-938923391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b16a6b89a03893792c07e68e6cd092322d708b7187e8c927bf661f6d3a78c6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a89a99e6cbe3629727aae88364fa460231c97b882c74140bc88531edbca761b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,19 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Equipamento Informático
 - Feader
 - Feoga
-- IFAP
-- Equipamento Informático
-- Ministro da Agricultura e Mar
 - Governo XXV
+- IFAP
+- Ministro da Agricultura e Mar
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:115/2019
+  label: Altera, a partir de 10 de outubro de 2025, os n.os 1, 3, 5 e 6 da Resolução do Conselho de Ministros n.º 115/2019,
+    de 18 de julho, Diário da República n.º 136/2019, Série I
+  source: null
+  date: '2019-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -99,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/175/2024/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/2024/12/04/p/dre
+- type: cites
+  target: pt:dre:123279821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:920848005:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:406/2025
+  label: Revoga, a partir de 10 de outubro de 2025, a alínea a) do n.º 2 da Portaria n.º 406/2025/2, de 9 de junho, Diário
+    da República n.º 110/2025, Série II
+  source: null
+  date: '2025-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:55Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +165,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º, do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 3, 5 e 6 da [Resolução do Conselho de Ministros n.º 115/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2019-123279821), de 18 de julho, alterada pela [Resolução do Conselho de Ministros n.º 175/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2024-898867719), de 4 de dezembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 3, 5 e 6 da [Resolução do Conselho de Ministros n.º 115/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2019-123279821), de 18 de julho, alterada pela [Resolução do Conselho de Ministros n.º 175/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2024-898867719), de 4 de dezembro, que passam a ter a seguinte redação:
 
 «1 - Autorizar o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), a realizar a despesa decorrente da celebração do contrato de aquisição dos serviços de capacidade computacional em private cloud e housing para implementação da infraestrutura em tecnologias de informação e plano de continuidade de negócio, até ao montante global estimado de € 6 312 000,00, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, na condição de ter financiamento europeu com candidatura aprovada anualmente.
 
@@ -158,3 +194,5 @@ g) 2026 - € 1 055 500,00.
 3 - Determinar que a presente resolução entra em vigor no dia seguinte à da sua publicação.
 
 Presidência do Conselho de Ministros, 3 de outubro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119625891

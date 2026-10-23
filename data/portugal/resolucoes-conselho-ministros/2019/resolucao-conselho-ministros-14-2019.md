@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2019-118051703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a37dcab2c2d979e0eb2ba37d661e95d03222ed147557c5f7a178acd08c67706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da10b99ef7182cc70e610699115fdd9c76c162f6facf4f8abc71413243ecaf57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
 subjects:
 - ÁREA de Paisagem Protegida da Arriba Fóssil da Costa da Caparica
 - Área de Paisagem Protegida da Serra do Açor
-- Incêndio
-- Prevenção de Incêndios
+- Diversidade Biológica
 - Financiamento
-- Proteção da Floresta
+- Fundo Ambiental
+- Gestão do Ambiente
+- Incêndio
 - Interesse Público
 - Parque Natural da Arrábida
 - Parque Natural da Ria Formosa
 - Parque Natural da Serra de São Mamede
 - Parque Natural das Serras de Aire e Candeeiros
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
-- Proteção do Ambiente
-- Diversidade Biológica
-- Gestão do Ambiente
-- Política de Solos
-- Recursos Naturais
 - Património Natural
-- ZONA de Protecção Especial da Lagoa da Sancha
+- Política de Solos
 - Política Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Proteção do Ambiente
+- Recursos Naturais
+- Rede Natura 2000
 - Reserva Natural
 - Reserva Natural das Lagoas de Santo Andre e da Sancha
-- Rede Natura 2000
+- ZONA de Protecção Especial da Lagoa da Sancha
 - ZONA de Protecção Especial da Lagoa de Santo Andre
-- Fundo Ambiental
 relationships:
 - type: cites
   target: eli:http://d
@@ -132,16 +132,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2016/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2016/12/15/p/dre
+- type: cites
+  target: pt:dre:105371716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:17Z'
   warnings: []
   errors: []
 ---
@@ -226,11 +298,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -304,11 +376,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -370,11 +442,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -448,11 +520,11 @@ b) Aquisição de viaturas e respetivo equipamento das equipas.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -534,11 +606,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -622,11 +694,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -690,11 +762,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -770,11 +842,11 @@ b) Aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0038700397.pdf)
 
 5 - Fontes de financiamento
 
@@ -783,3 +855,5 @@ POSEUR e Fundo Ambiental.
 6 - Responsáveis pela implementação
 
 ICNF, I. P., com o apoio dos municípios de Almada e Sesimbra.
+
+111993228

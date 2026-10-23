@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21000/0000200068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/148/2024/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/148-2024-893782289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14b7b63f4b4f717337ff6c155b371d5e2e45467373655b5c481f1b7e8681c82c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 540d43cc18b17e8da91bdd4addf24b92acca3a5384dc84ddf9d15fb1dc00fb93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
-- Mar
 - Definição de Competências
-- Proteção do Ambiente
-- Gestão do Ambiente
 - Eliminação de Resíduos
+- Gestão do Ambiente
+- Mar
 - Plano de Ação Nacional para o Lixo Marinho
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:31991L0271
@@ -121,6 +121,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88/2019/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88/2019/09/03/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122419056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551446:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0883
   label: null
@@ -128,13 +160,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:56Z'
   warnings: []
   errors: []
 ---
@@ -305,7 +337,7 @@ O preâmbulo do despacho que orienta o Plano de Ação refere como "o problema d
 
 O lixo marinho é qualquer material sólido persistente, fabricado ou transformado que seja descartado, eliminado ou abandonado no ambiente marinho e costeiro (UNEP, 2009). A sua presença no oceano está intimamente ligada às atividades humanas, sendo mais pronunciada em zonas costeiras com alta densidade populacional, proximidade de instalações industriais e influência de descargas fluviais (Andrady and Neal, 2009). No entanto, tem uma distribuição global devido ao transporte por correntes oceânicas, ação do vento e das ondas (Galgani et al., 2015), sendo encontrado a flutuar à superfície, suspenso na coluna de água ou depositado no fundo do mar.
 
-O lixo marinho abrange uma variedade de materiais, como plástico, metal, vidro, madeira, borracha, têxteis e papel. Entre eles, o plástico é a categoria mais preocupante não só por ser estável e resistente à degradação, mas também pelo crescimento da sua produção mundial, que aumentou de 1,7 milhões de toneladas em 1950 para 390 milhões em 2021 (PlasticsEurope, 2022). A gestão inadequada dos resíduos contribui significativamente para a sua acumulação no oceano. Atualmente, apenas 9 % dos resíduos plásticos são reciclados, 12 % são incinerados, e cerca de 79 % são despejados no ambiente ou depositados em aterros (Geyer et al., 2017). Os produtos descartáveis, em especial os plásticos, são particularmente preocupantes. Embora a quantidade exata de plástico que entra no oceano seja desconhecida, estima-se que 8 milhões de toneladas alcancem o ambiente marinho todos os anos (Geyer et al., 2017). A Organização das Nações Unidas (ONU) estima, com base no relatório de 2021 "Da Poluição à Solução: Uma análise global sobre lixo marinho e poluição plástica" (2021) que, num cenário de não intervenção, a quantidade de resíduos plásticos que entram nos ecossistemas aquáticos poderá quase triplicar, passando de cerca de 9 a 14 milhões de toneladas por ano em 2016 para uma estimativa de 23 a 37 milhões de toneladas por ano até 2040. Importa referir que o plástico é também um problema climático: usando uma análise de ciclo de vida, estimou-se ainda que em 2015 os plásticos estavam associados à produção de 1,7 gigatoneladas de CO<sub>2</sub> equivalente e que em 2050 este valor deverá aumentar para aproximadamente 6,4 gigatoneladas equivalente (ONU, 2021). Um estudo de 2016 do Fórum Económico Mundial com a participação da Fundação Ellen MacArthur prevê que sem uma redução imediata dos plásticos e a transformação de toda a cadeia de valor envolvida, uma mudança para abordagens circulares, incluindo práticas de consumo e produção sustentáveis, a proporção de toneladas de plástico no mar poderá ultrapassar a dos peixes.
+O lixo marinho abrange uma variedade de materiais, como plástico, metal, vidro, madeira, borracha, têxteis e papel. Entre eles, o plástico é a categoria mais preocupante não só por ser estável e resistente à degradação, mas também pelo crescimento da sua produção mundial, que aumentou de 1,7 milhões de toneladas em 1950 para 390 milhões em 2021 (PlasticsEurope, 2022). A gestão inadequada dos resíduos contribui significativamente para a sua acumulação no oceano. Atualmente, apenas 9 % dos resíduos plásticos são reciclados, 12 % são incinerados, e cerca de 79 % são despejados no ambiente ou depositados em aterros (Geyer et al., 2017). Os produtos descartáveis, em especial os plásticos, são particularmente preocupantes. Embora a quantidade exata de plástico que entra no oceano seja desconhecida, estima-se que 8 milhões de toneladas alcancem o ambiente marinho todos os anos (Geyer et al., 2017). A Organização das Nações Unidas (ONU) estima, com base no relatório de 2021 "Da Poluição à Solução: Uma análise global sobre lixo marinho e poluição plástica" (2021) que, num cenário de não intervenção, a quantidade de resíduos plásticos que entram nos ecossistemas aquáticos poderá quase triplicar, passando de cerca de 9 a 14 milhões de toneladas por ano em 2016 para uma estimativa de 23 a 37 milhões de toneladas por ano até 2040. Importa referir que o plástico é também um problema climático: usando uma análise de ciclo de vida, estimou-se ainda que em 2015 os plásticos estavam associados à produção de 1,7 gigatoneladas de CO2 equivalente e que em 2050 este valor deverá aumentar para aproximadamente 6,4 gigatoneladas equivalente (ONU, 2021). Um estudo de 2016 do Fórum Económico Mundial com a participação da Fundação Ellen MacArthur prevê que sem uma redução imediata dos plásticos e a transformação de toda a cadeia de valor envolvida, uma mudança para abordagens circulares, incluindo práticas de consumo e produção sustentáveis, a proporção de toneladas de plástico no mar poderá ultrapassar a dos peixes.
 
 4.2 - Impactes do lixo marinho:
 
@@ -398,38 +430,38 @@ Medidas previstas nos oito eixos de atuação que integram o Plano de Ação
 
 | Medida | Designação das medidas |
 | --- | --- |
-| Eixo 1 - Conhecimento e monitorização do lixo marinho | Eixo 1 - Conhecimento e monitorização do lixo marinho |
+| Eixo 1 - Conhecimento e monitorização do lixo marinho |  |
 | M1 | Monitorizar o lixo marinho |
 | M2 | Mapear zonas de acumulação (hotspots) e circulação de lixo marinho no mar português |
 | M3 | Desenvolver base de dados e plataforma colaborativa sobre lixo marinho |
 | M4 | Monitorizar as áreas sob jurisdição portuária |
 | M5 | Monitorizar rios e outros cursos de água |
 | M6 | Monitorizar áreas marinhas protegidas e parques marinhos |
-| Eixo 2 - Espaços públicos no litoral | Eixo 2 - Espaços públicos no litoral |
+| Eixo 2 - Espaços públicos no litoral |  |
 | M7 | Prevenir o lixo nas praias |
 | M8 | Prevenir o descarte inadequado de pontas de cigarro |
 | M9 | Reduzir a produção de lixo em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral |
 | M10 | Prevenir a perda de plásticos resultantes de obras junto ao litoral |
 | M11 | Prevenir a entrada de resíduos no mar através das linhas de água |
-| Eixo 3 - Atividades marítimas | Eixo 3 - Atividades marítimas |
+| Eixo 3 - Atividades marítimas |  |
 | M12 | Prevenir a perda de plásticos para o mar provenientes da pesca |
 | M13 | Prevenir a perda de plásticos provenientes da aquicultura |
 | M14 | Prevenir a perda de lixo em áreas portuárias e marinas |
 | M15 | Prevenir o lixo marinho gerado pela navegação marítima |
 | M16 | Aumentar a sustentabilidade ambiental da atividade marítimo-turística |
-| Eixo 4 - Indústria | Eixo 4 - Indústria |
+| Eixo 4 - Indústria |  |
 | M17 | Prevenir a perda de péletes industriais de plástico (pellets) |
 | M18 | Promover o ecodesign |
 | M19 | Aumentar a circularidade de produtos e subprodutos em fim de vida |
 | M20 | Reduzir a libertação de microplásticos de relvados desportivos e outros pisos sintéticos |
-| Eixo 5 - Produtos de utilização única | Eixo 5 - Produtos de utilização única |
+| Eixo 5 - Produtos de utilização única |  |
 | M21 | Promover campanhas de divulgação para redução de plásticos e outros materiais de utilização única |
 | M22 | Prevenir a perda de esferovites (poliestireno expandido) para o ambiente marinho |
 | M23 | Prevenir a perda de plásticos utlizados nas atividades agrícolas |
-| Eixo 6 - Águas residuais urbanas | Eixo 6 - Águas residuais urbanas |
+| Eixo 6 - Águas residuais urbanas |  |
 | M24 | Monitorizar as águas residuais urbanas tratadas |
 | M25 | Gerir as redes de saneamento |
-| Eixo 7 - Boas práticas individuais | Eixo 7 - Boas práticas individuais |
+| Eixo 7 - Boas práticas individuais |  |
 | M26 | Promover a sensibilização da população para o consumo e para a gestão de resíduos em casa |
 |  | Eixo 8 - Sociedade civil, ciência, inovação e desenvolvimento |
 | M27 | Apoiar iniciativas educativas e iniciativas meritórias da sociedade civil, dedicadas ao lixo marinho |
@@ -441,7 +473,7 @@ QUADRO 3
 
 Formato de apresentação das ações que integram o Plano de Ação
 
-| Ação # - Designação da ação | Ação # - Designação da ação |
+| Ação # - Designação da ação |  |
 | --- | --- |
 | Identificação do problema | Breve caracterização do problema a que a ação dá resposta. |
 | Objetivos | Principais resultados que se pretende atingir com a execução da ação proposta. |
@@ -515,7 +547,7 @@ Aumentar o conhecimento sobre artes de pesca em fim de vida e artes de pesca per
 
 Medida 4 - Monitorizar as áreas sob jurisdição portuária:
 
-A navegação marítima é uma das principais fontes de resíduos em proximidade com o ambiente marinho. Para minimizar os impactes deste sector, em 2019 a UE implementou a Diretiva 2019/883, que estabelece regras "à criação e à utilização dos meios portuários de receção de resíduos gerados em navios", visando assim proteger o meio marinho. Em Portugal, desde 2021 (<sup>1</sup>), as entidades gestoras dos portos são "responsáveis pela recolha e gestão dos resíduos existentes dentro da respetiva área de jurisdição, incluindo o plano e a coluna de água e o solo marinho" (<sup>2</sup>), reduzindo assim o impacte do lixo marinho nessas áreas de acumulação.
+A navegação marítima é uma das principais fontes de resíduos em proximidade com o ambiente marinho. Para minimizar os impactes deste sector, em 2019 a UE implementou a Diretiva 2019/883, que estabelece regras "à criação e à utilização dos meios portuários de receção de resíduos gerados em navios", visando assim proteger o meio marinho. Em Portugal, desde 2021 (1), as entidades gestoras dos portos são "responsáveis pela recolha e gestão dos resíduos existentes dentro da respetiva área de jurisdição, incluindo o plano e a coluna de água e o solo marinho" (2), reduzindo assim o impacte do lixo marinho nessas áreas de acumulação.
 
 Objetivos:
 
@@ -523,9 +555,9 @@ Reduzir o lixo marinho dos fundos e da superfície da água em zonas portuárias
 
 Melhorar a gestão de resíduos produzidos nas zonas portuárias.
 
-(<sup>1</sup>) Com a aplicação do [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, que transpõe a Diretiva 2019/883, referente aos meios portuários de receção de resíduos provenientes dos navios, tendo em vista uma maior proteção do meio marinho.
+(1) Com a aplicação do [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, que transpõe a Diretiva 2019/883, referente aos meios portuários de receção de resíduos provenientes dos navios, tendo em vista uma maior proteção do meio marinho.
 
-(<sup>2</sup>) De acordo com o exposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro.
+(2) De acordo com o exposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro.
 
 Medida 5 - Monitorizar rios e outros cursos de água:
 
@@ -1054,55 +1086,55 @@ Eixos, medidas e ações que integram o PALM2028
 | Eixo de atuação | Medida | Ação |
 | --- | --- | --- |
 | E1Conhecimento e monitorização do lixo marinho | M1 - Monitorizar o lixo marinho | A1.1 - Atualizar a rede de praias inseridas no programa de monitorização de lixo marinho no âmbito da OSPAR e da DQEM. |
-| E1Conhecimento e monitorização do lixo marinho | M1 - Monitorizar o lixo marinho | A1.2 - Promover a monitorização regular de microplásticos nas praias. |
-| E1Conhecimento e monitorização do lixo marinho | M1 - Monitorizar o lixo marinho | A1.3 - Promover a monitorização dos fundos marinhos e da superfície da coluna de água. |
-| E1Conhecimento e monitorização do lixo marinho | M1 - Monitorizar o lixo marinho | A1.4 - Estabelecer bioindicadores de avaliação de impacte do lixo marinho nos ecossistemas. |
+| A1.2 - Promover a monitorização regular de microplásticos nas praias. |  |  |
+| A1.3 - Promover a monitorização dos fundos marinhos e da superfície da coluna de água. |  |  |
+| A1.4 - Estabelecer bioindicadores de avaliação de impacte do lixo marinho nos ecossistemas. |  |  |
 |  | M2 - Mapear zonas de acumulação (hotspots) e circulação de lixo marinho no mar português | A2.1 - Mapear zonas de acumulação de lixo marinho no litoral português. |
-|  | M3 - Desenvolver base de dados e plataforma colaborativa sobre lixo marinho | A3.1 - Criar uma base de dados e plataforma colaborativa sobre o lixo marinho. |
-|  | M4 - Monitorizar as áreas sob jurisdição portuária | A4.1 - Bacias portuárias sem lixo. |
-|  | M5 - Monitorizar rios e outros cursos de água | A5.1 - Monitorização de cursos de água. |
-|  | M6 - Monitorizar áreas marinhas protegidas e parques marinhos | A6.1 - Monitorização de áreas marinhas protegidas e parques marinhos. |
+| M3 - Desenvolver base de dados e plataforma colaborativa sobre lixo marinho | A3.1 - Criar uma base de dados e plataforma colaborativa sobre o lixo marinho. |  |
+| M4 - Monitorizar as áreas sob jurisdição portuária | A4.1 - Bacias portuárias sem lixo. |  |
+| M5 - Monitorizar rios e outros cursos de água | A5.1 - Monitorização de cursos de água. |  |
+| M6 - Monitorizar áreas marinhas protegidas e parques marinhos | A6.1 - Monitorização de áreas marinhas protegidas e parques marinhos. |  |
 | E2Espaços públicos no litoral | M7 - Prevenir o lixo nas praias | A7.1 - Apoiar os municípios no desenvolvimento de Planos "Praias Zero Resíduos". |
-| E2Espaços públicos no litoral | M8 - Prevenir o descarte inadequado de pontas de cigarro | A8.1 - Disponibilizar gratuitamente cinzeiros nas praias e incentivar o seu uso pelos fumadores. |
-| E2Espaços públicos no litoral | M9 - Reduzir a produção de lixo em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral | A9.1 - "Eventos Zero Resíduos". |
-| E2Espaços públicos no litoral | M9 - Reduzir a produção de lixo em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral | A9.2 - "Lixo Zero" em zonas de lazer junto ao litoral. |
-| E2Espaços públicos no litoral | M9 - Reduzir a produção de lixo em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral | A9.3 - Substituir a utilização de loiça e embalagens descartáveis em festivais e festas, em espaços públicos, por alternativas reutilizáveis. |
-| E2Espaços públicos no litoral | M10 - Prevenir a perda de plásticos resultantes de obras junto ao litoral | A10.1 - Desenvolver instrumentos e boas práticas para a boa gestão de resíduos de obras no litoral. |
-| E2Espaços públicos no litoral | M11 - Prevenir a entrada de resíduos no mar através das linhas de água | A11.1 - Apoiar o desenvolvimento de projetos que visem a instalação de estruturas nas linhas de água, para contenção do lixo flutuante. |
+| M8 - Prevenir o descarte inadequado de pontas de cigarro | A8.1 - Disponibilizar gratuitamente cinzeiros nas praias e incentivar o seu uso pelos fumadores. |  |
+| M9 - Reduzir a produção de lixo em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral | A9.1 - "Eventos Zero Resíduos". |  |
+| A9.2 - "Lixo Zero" em zonas de lazer junto ao litoral. |  |  |
+| A9.3 - Substituir a utilização de loiça e embalagens descartáveis em festivais e festas, em espaços públicos, por alternativas reutilizáveis. |  |  |
+| M10 - Prevenir a perda de plásticos resultantes de obras junto ao litoral | A10.1 - Desenvolver instrumentos e boas práticas para a boa gestão de resíduos de obras no litoral. |  |
+| M11 - Prevenir a entrada de resíduos no mar através das linhas de água | A11.1 - Apoiar o desenvolvimento de projetos que visem a instalação de estruturas nas linhas de água, para contenção do lixo flutuante. |  |
 | E3Atividades marítimas | M12 - Prevenir a perda de plásticos para o mar provenientes da pesca | A12.1 - Realizar estudo sobre economia circular/artes de pesca. |
-| E3Atividades marítimas | M12 - Prevenir a perda de plásticos para o mar provenientes da pesca | A12.2 - Desenvolver ações e boas práticas para o sector da pesca de modo a reduzir a perda e abandono de artes de pesca. |
-| E3Atividades marítimas | M12 - Prevenir a perda de plásticos para o mar provenientes da pesca | A12.3 - Promover a literacia ativa das comunidades piscatórias. |
-| E3Atividades marítimas | M12 - Prevenir a perda de plásticos para o mar provenientes da pesca | A12.4 - Desenvolver medidas para a redução do impacte da pesca lúdica na produção de lixo marinho. |
-| E3Atividades marítimas | M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.1 - Realizar estudo sobre economia circular/aquicultura. |
-| E3Atividades marítimas | M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.2 - Promover a sustentabilidade dos materiais usados para a aquicultura. |
-| E3Atividades marítimas | M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.3 - Promover a integração no licenciamento da atividade aquícola de boas práticas e a utilização de equipamentos e materiais adequados à localização e tipo de cultura. |
-| E3Atividades marítimas | M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.4 - Reforçar a monitorização, fiscalização e controlo dos requisitos ambientais. |
-| E3Atividades marítimas | M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.5 - Aumentar o conhecimento sobre a emissão de microplásticos pela aquicultura e identificar soluções adequadas. |
-| E3Atividades marítimas | M14 - Prevenir a perda de lixo em áreas portuárias e marinas | A14.1 - Promover a criação de ecocentros do mar. |
-| E3Atividades marítimas | M14 - Prevenir a perda de lixo em áreas portuárias e marinas | A14.2 - Desenvolver a Janela Única Nacional (JUL - Janela Única Logística). |
+| A12.2 - Desenvolver ações e boas práticas para o sector da pesca de modo a reduzir a perda e abandono de artes de pesca. |  |  |
+| A12.3 - Promover a literacia ativa das comunidades piscatórias. |  |  |
+| A12.4 - Desenvolver medidas para a redução do impacte da pesca lúdica na produção de lixo marinho. |  |  |
+| M13 - Prevenir a perda de plásticos provenientes da aquicultura | A13.1 - Realizar estudo sobre economia circular/aquicultura. |  |
+| A13.2 - Promover a sustentabilidade dos materiais usados para a aquicultura. |  |  |
+| A13.3 - Promover a integração no licenciamento da atividade aquícola de boas práticas e a utilização de equipamentos e materiais adequados à localização e tipo de cultura. |  |  |
+| A13.4 - Reforçar a monitorização, fiscalização e controlo dos requisitos ambientais. |  |  |
+| A13.5 - Aumentar o conhecimento sobre a emissão de microplásticos pela aquicultura e identificar soluções adequadas. |  |  |
+| M14 - Prevenir a perda de lixo em áreas portuárias e marinas | A14.1 - Promover a criação de ecocentros do mar. |  |
+| A14.2 - Desenvolver a Janela Única Nacional (JUL - Janela Única Logística). |  |  |
 |  | M15 - Prevenir o lixo marinho gerado pela navegação marítima | A15.1 - Adotar e promover a aplicação das recomendações da IMO para reduzir o lixo marinho proveniente da navegação marítima. |
-|  | M16 - Aumentar a sustentabilidade ambiental da atividade marítimo-turística | A16.1 - Implicar as atividades marítimo-turísticas na prevenção e redução do lixo marinho. |
+| M16 - Aumentar a sustentabilidade ambiental da atividade marítimo-turística | A16.1 - Implicar as atividades marítimo-turísticas na prevenção e redução do lixo marinho. |  |
 | E4Indústria | M17 - Prevenir a perda de péletes industriais de plástico (pellets) | A17.1 - Prevenir a perda de péletes industriais de plástico (pellets) para o ambiente. |
-| E4Indústria | M18 - Promover o ecodesign | A18.1 - Promover ações de capacitação em ecodesign junto das indústrias relevantes. |
-| E4Indústria | M18 - Promover o ecodesign | A18.2 - Apoiar projetos de Investigação & Desenvolvimento & Inovação no domínio do ecodesign e da bioeconomia nas indústrias relevantes. |
-| E4Indústria | M18 - Promover o ecodesign | A18.3 - Promover a substituição de matérias-primas de origem fóssil por matérias-primas de base biológica. |
-| E4Indústria | M18 - Promover o ecodesign | A18.4 - Participar em projetos e ações piloto que utilizem recursos renováveis endógenos e promover os seus resultados. |
-| E4Indústria | M18 - Promover o ecodesign | A18.5 - Promover o ecodesign de produtos utilizados nas atividades de praia. |
-| E4Indústria | M19 - Aumentar a circularidade de produtos e subprodutos em fim de vida | A19.1 - Fomentar a formação, intercâmbio de conhecimento e melhores práticas sobre a utilização de recursos de origem renovável. |
-| E4Indústria | M19 - Aumentar a circularidade de produtos e subprodutos em fim de vida | A19.2 - Estabelecer parcerias e colaboração para utilização de subprodutos e materiais. |
-| E4Indústria | M19 - Aumentar a circularidade de produtos e subprodutos em fim de vida | A19.3 - Promover iniciativas que confiram uma nova vida aos plásticos recuperados no mar ou na praia, envolvendo parceiros tecnológicos e industriais. |
-| E4Indústria | M19 - Aumentar a circularidade de produtos e subprodutos em fim de vida | A19.4 - Promover a adoção de ferramentas digitais de rastreabilidade de produtos. |
-| E4Indústria | M20 - Reduzir a libertação de microplásticos de relvados desportivos e outros pisos sintéticos | A20.1 - Introduzir medidas com vista à redução da libertação de microplásticos provenientes de campos desportivos sintéticos. |
+| M18 - Promover o ecodesign | A18.1 - Promover ações de capacitação em ecodesign junto das indústrias relevantes. |  |
+| A18.2 - Apoiar projetos de Investigação & Desenvolvimento & Inovação no domínio do ecodesign e da bioeconomia nas indústrias relevantes. |  |  |
+| A18.3 - Promover a substituição de matérias-primas de origem fóssil por matérias-primas de base biológica. |  |  |
+| A18.4 - Participar em projetos e ações piloto que utilizem recursos renováveis endógenos e promover os seus resultados. |  |  |
+| A18.5 - Promover o ecodesign de produtos utilizados nas atividades de praia. |  |  |
+| M19 - Aumentar a circularidade de produtos e subprodutos em fim de vida | A19.1 - Fomentar a formação, intercâmbio de conhecimento e melhores práticas sobre a utilização de recursos de origem renovável. |  |
+| A19.2 - Estabelecer parcerias e colaboração para utilização de subprodutos e materiais. |  |  |
+| A19.3 - Promover iniciativas que confiram uma nova vida aos plásticos recuperados no mar ou na praia, envolvendo parceiros tecnológicos e industriais. |  |  |
+| A19.4 - Promover a adoção de ferramentas digitais de rastreabilidade de produtos. |  |  |
+| M20 - Reduzir a libertação de microplásticos de relvados desportivos e outros pisos sintéticos | A20.1 - Introduzir medidas com vista à redução da libertação de microplásticos provenientes de campos desportivos sintéticos. |  |
 | E5Produtos de utilização única | M21 - Promover campanhas de divulgação para redução de produtos de plástico e outros materiais de utilização única | A21.1 - Incentivar o financiamento de campanhas de divulgação promovidas por produtores que colocam no mercado produtos de plástico de utilização única e artes de pesca. |
-| E5Produtos de utilização única | M22 - Prevenir a perda de esferovites (poliestireno expandido) para o ambiente marinho | A22.1 - Promover a reciclagem de caixas de acondicionamento de pescado feitas de esferovite. |
-| E5Produtos de utilização única | M23 - Prevenir a perda de plásticos utilizados nas atividades agrícolas | A23.1 - Promover a reciclagem de plásticos utilizados na agricultura e/ou a sua substituição por materiais biodegradáveis. |
+| M22 - Prevenir a perda de esferovites (poliestireno expandido) para o ambiente marinho | A22.1 - Promover a reciclagem de caixas de acondicionamento de pescado feitas de esferovite. |  |
+| M23 - Prevenir a perda de plásticos utilizados nas atividades agrícolas | A23.1 - Promover a reciclagem de plásticos utilizados na agricultura e/ou a sua substituição por materiais biodegradáveis. |  |
 | E6Águas residuais urbanas | M24 - Monitorizar as águas residuais urbanas tratadas | A24.1 - Promover a monitorização de microplásticos provenientes de ETAR. |
-| E6Águas residuais urbanas | M25 - Gestão das redes de saneamento | A25.1 - Conversão de redes de saneamento unitárias em redes separativas. |
+| M25 - Gestão das redes de saneamento | A25.1 - Conversão de redes de saneamento unitárias em redes separativas. |  |
 | E7Boas práticas individuais | M26 - Sensibilização da população para o consumo e para a gestão de resíduos em casa | A26.1 - Promover campanhas de divulgação sobre consumo sustentável. |
-| E7Boas práticas individuais | M26 - Sensibilização da população para o consumo e para a gestão de resíduos em casa | A26.2 - Promover campanhas de divulgação sobre o correto descarte de resíduos de artigos de higiene pessoal com compostos plásticos. |
+| A26.2 - Promover campanhas de divulgação sobre o correto descarte de resíduos de artigos de higiene pessoal com compostos plásticos. |  |  |
 | E8Sociedade civil, ciência, inovação e desenvolvimento | M27 - Apoiar iniciativas educativas e iniciativas meritórias da sociedade civil, dedicadas ao lixo marinho | A27.1 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo marinho. |
-| E8Sociedade civil, ciência, inovação e desenvolvimento | M27 - Apoiar iniciativas educativas e iniciativas meritórias da sociedade civil, dedicadas ao lixo marinho | Ação 27.2 - Promover a transversalização do tema lixo marinho na escola. |
-| E8Sociedade civil, ciência, inovação e desenvolvimento | M28 - Fórum técnico e científico sobre lixo marinho | Ação 28.1 - Promover a Agenda para a Ciência, Inovação e Desenvolvimento. |
+| Ação 27.2 - Promover a transversalização do tema lixo marinho na escola. |  |  |
+| M28 - Fórum técnico e científico sobre lixo marinho | Ação 28.1 - Promover a Agenda para a Ciência, Inovação e Desenvolvimento. |  |
 
 10.2 - Ações que integram o Programa de Medidas do PALM2028 à data da sua publicação
 
@@ -1112,7 +1144,7 @@ Eixo 1 - Conhecer e monitorizar o lixo marinho
 
 Medida 1 - Monitorizar o lixo marinho
 
-| Ação 1.1 - Atualizar a rede de praias inseridas no programa de monitorização de lixo marinho no âmbito da OSPAR e da DQEM | Ação 1.1 - Atualizar a rede de praias inseridas no programa de monitorização de lixo marinho no âmbito da OSPAR e da DQEM |
+| Ação 1.1 - Atualizar a rede de praias inseridas no programa de monitorização de lixo marinho no âmbito da OSPAR e da DQEM |  |
 | --- | --- |
 | Identificação do problema | Os termos de referência OSPAR para a monitorização lixo marinho nas praias evoluíram e importa atualizar a rede de praias portuguesas inseridas nesta monitorização. |
 | Objetivos | Melhorar a representatividade das áreas de monitorização nacional de lixo nas praias. |
@@ -1126,7 +1158,7 @@ Medida 1 - Monitorizar o lixo marinho
 | ODS e outras metas ou compromissos | ODS 14 - Proteger a Vida Marinha. |
 | Referências | Estratégias Marinhas para as Águas Marinhas Portuguesas. Diretiva-Quadro Estratégia Marinha. Programa de Monitorização (2.º ciclo). Ministério da Economia e do Mar; Secretaria Regional do Mar, Ciência e Tecnologia, Açores; Secretaria Regional do Mar e das Pescas, Madeira. Janeiro de 2022;OSPAR ICGML/grupo de peritos em monitorização de praias (BLEG);Secretaria Regional de Agricultura e Ambiente da Madeira. |
 
-| Ação 1.2 - Promover a monitorização regular de microplásticos nas praias | Ação 1.2 - Promover a monitorização regular de microplásticos nas praias |
+| Ação 1.2 - Promover a monitorização regular de microplásticos nas praias |  |
 | --- | --- |
 | Identificação do problema | Esta monitorização é um novo objetivo para o aumento do conhecimento sobre o lixo marinho e passará a integrar as monitorizações europeias de lixo marinho. |
 | Objetivos | Rede nacional de locais de monitorização de microlixo. |
@@ -1140,7 +1172,7 @@ Medida 1 - Monitorizar o lixo marinho
 | ODS e outras metas ou compromissos | ODS 14 - Proteger a Vida Marinha. |
 | Referências | Estratégias Marinhas para as Águas Marinhas Portuguesas. Diretiva-Quadro Estratégia Marinha. Programa de Monitorização (2.º ciclo). Ministério da Economia e do Mar; Secretaria Regional do Mar, Ciência e Tecnologia, Açores; e Secretaria Regional do Mar e das Pescas, Madeira. Janeiro de 2022;Grupo de peritos em monitorização de praias (BLEG). |
 
-| Ação 1.3 - Promover a monitorização dos fundos marinhos e da superfície da coluna de água | Ação 1.3 - Promover a monitorização dos fundos marinhos e da superfície da coluna de água |
+| Ação 1.3 - Promover a monitorização dos fundos marinhos e da superfície da coluna de água |  |
 | --- | --- |
 | Identificação do problema | Conhecimento insuficiente sobre a composição, a quantidade e a distribuição espacial do macrolixo e microlixo nos fundos marinhos e superfície da coluna de água de Portugal. |
 | Objetivos | Aumentar o conhecimento sobre as quantidades e composição do macro e microlixo presente nos fundos marinhos e superfície da coluna de água de Portugal. |
@@ -1154,7 +1186,7 @@ Medida 1 - Monitorizar o lixo marinho
 | ODS e outras metas ou compromissos | ODS 14 - Proteger a Vida Marinha. |
 | Referências | Estratégias Marinhas para as Águas Marinhas Portuguesas. Diretiva-Quadro Estratégia Marinha. Programa de Monitorização (2.º ciclo). Ministério da Economia e do Mar; Secretaria Regional do Mar, Ciência e Tecnologia, Açores; e Secretaria Regional do Mar e das Pescas, Madeira. Janeiro de 2022. |
 
-| Ação 1.4 - Estabelecer bioindicadores de avaliação de impacte do lixo marinho nos ecossistemas | Ação 1.4 - Estabelecer bioindicadores de avaliação de impacte do lixo marinho nos ecossistemas |
+| Ação 1.4 - Estabelecer bioindicadores de avaliação de impacte do lixo marinho nos ecossistemas |  |
 | --- | --- |
 | Identificação do problema | Os bioindicadores propostos para avaliação do lixo marinho no contexto da DQEM e das monitorizações OSPAR são a ave marinha Fulmar (Fulmarus glacialis), que não ocorre em Portugal, e a tartaruga marinha (Caretta caretta) que ocorre com baixa frequência nas subdivisões continente e Madeira, tendo sido adotados para monitorização do lixo marinho na biota apenas na subdivisão Açores. Há por isso uma necessidade de identificar e selecionar bioindicadores específicos para monitorizar o impacte do lixo marinho em Portugal. |
 | Objetivos | Estabelecer bioindicadores de lixo marinho. |
@@ -1170,7 +1202,7 @@ Medida 1 - Monitorizar o lixo marinho
 
 Medida 2 - Mapear zonas de acumulação e circulação de lixo marinho no mar português
 
-| Ação 2.1 - Mapear zonas de acumulação de lixo marinho no litoral português | Ação 2.1 - Mapear zonas de acumulação de lixo marinho no litoral português |
+| Ação 2.1 - Mapear zonas de acumulação de lixo marinho no litoral português |  |
 | --- | --- |
 | Identificação do problema | Insuficiente conhecimento sobre as zonas de acumulação de lixo marinho no litoral português. |
 | Objetivos | Melhorar a prevenção e gestão de lixo marinho e suas fontes;Desenvolvimento de mapa da dinâmica do lixo marinho na costa portuguesa; contribuir para a atualização da rede de praias inseridas no programa de monitorização de lixo marinho no âmbito da OSPAR e da DQEM. |
@@ -1186,7 +1218,7 @@ Medida 2 - Mapear zonas de acumulação e circulação de lixo marinho no mar po
 
 Medida 3 - Desenvolver base de dados e plataforma colaborativa sobre lixo marinho
 
-| Ação 3.1 - Criar uma base de dados e plataforma colaborativa sobre o lixo marinho | Ação 3.1 - Criar uma base de dados e plataforma colaborativa sobre o lixo marinho |
+| Ação 3.1 - Criar uma base de dados e plataforma colaborativa sobre o lixo marinho |  |
 | --- | --- |
 | Identificação do problema | Nos últimos anos, múltiplas organizações de base local preocupam-se com o lixo marinho e organizam ações de recolha de lixo marinho e também, menos frequentemente, de monitorização. Trata-se habitualmente de municípios e também de organizações da sociedade civil ligadas ao ambiente, mas também de instituições de ensino superior que desenvolvem projetos sobre lixo marinho. A informação que recolhem, mesmo quando é pontual e sem seguir os protocolos mais exigentes, tem, mesmo assim, muito valor enquanto conhecimento sobre o lixo marinho, dada a enorme quantidade de ações por todo o país. |
 | Objetivos | Desenvolvimento de uma plataforma colaborativa que permita e facilite o registo de dados relevantes para o mapeamento do lixo marinho em Portugal e que possa integrar os dados fornecidos pelas ações desenvolvidas pelas diversas iniciativas. |
@@ -1202,7 +1234,7 @@ Medida 3 - Desenvolver base de dados e plataforma colaborativa sobre lixo marinh
 
 Medida 4 - Monitorizar as áreas sob jurisdição portuária
 
-| Ação 4.1 - Monitorizar as bacias portuárias sem lixo | Ação 4.1 - Monitorizar as bacias portuárias sem lixo |
+| Ação 4.1 - Monitorizar as bacias portuárias sem lixo |  |
 | --- | --- |
 | Identificação do problema | As bacias portuárias são uma fonte de contaminação do meio marinho, em resultado da acumulação de resíduos gerados pelas atividades económicas que se desenvolvem nas áreas de jurisdição dos portos onde estão incluídas, como seja a atividade piscatória, o transporte marítimo (comercial, turismo e recreio), e restantes atividades associadas à restauração, comércio, etc.Como medida de combate ao lixo marinho, o [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, prevê que as autoridades portuárias (AP), ou entidades gestoras de portos (EP), sejam responsáveis pela recolha e gestão dos resíduos existentes nas bacias portuárias da respetiva área de jurisdição, incluindo o plano e a coluna de água e o solo/fundo marinho. |
 | Objetivos | Pretende-se que as AP/EP mantenham limpas as bacias portuárias existentes nas suas áreas de jurisdição, com vista a evitar que os resíduos nelas acumulados sejam transferidos para o mar. |
@@ -1218,7 +1250,7 @@ Medida 4 - Monitorizar as áreas sob jurisdição portuária
 
 Medida 5 - Monitorizar rios e outros cursos de água
 
-| Ação 5.1 - Monitorizar os cursos de água | Ação 5.1 - Monitorizar os cursos de água |
+| Ação 5.1 - Monitorizar os cursos de água |  |
 | --- | --- |
 | Identificação do problema | Não existe um programa nacional de monitorização de lixo marinho proveniente de rios, ribeiras e outros cursos de água. |
 | Objetivos | Estabelecer as bases para a criação de um programa nacional de monitorização de lixo marinho proveniente de rios, ribeiras e outros cursos de água. |
@@ -1234,7 +1266,7 @@ Medida 5 - Monitorizar rios e outros cursos de água
 
 Medida 6 - Monitorizar áreas marinhas protegidas e parques marinhos
 
-| Ação 6.1 - Monitorizar as áreas marinhas protegidas e parques marinhos | Ação 6.1 - Monitorizar as áreas marinhas protegidas e parques marinhos |
+| Ação 6.1 - Monitorizar as áreas marinhas protegidas e parques marinhos |  |
 | --- | --- |
 | Identificação do problema | Não existe um programa nacional de monitorização de lixo marinho em áreas marinhas protegidas. |
 | Objetivos | Estabelecer as bases para a criação de um programa nacional de monitorização de lixo marinho proveniente de rios, ribeiras e outros cursos de água. |
@@ -1252,7 +1284,7 @@ Eixo 2 - Espaços públicos no litoral
 
 Medida 7 - Prevenir o lixo nas praias
 
-| Ação 7.1 - Apoiar os municípios e juntas de freguesia no desenvolvimento de Planos "Praias Zero Resíduos" | Ação 7.1 - Apoiar os municípios e juntas de freguesia no desenvolvimento de Planos "Praias Zero Resíduos" |
+| Ação 7.1 - Apoiar os municípios e juntas de freguesia no desenvolvimento de Planos "Praias Zero Resíduos" |  |
 | --- | --- |
 | Identificação do problema | Relativamente aos itens de lixo identificados no programa de monitorização oficial de lixo marinho nas praias portuguesas em 2023, para os quais foi possível atribuir origem, uma das fontes com maior significado é o turismo e atividades recreativas (42 %).É por isso fundamental reforçar as medidas para prevenção da perda de lixo gerada pelas atividades de bebidas e restauração e pelos utilizadores das praias e agir no sentido da redução dos plásticos de utilização única que têm uma utilização tão difundida nas praias e zonas envolventes. |
 | Objetivos | Os Planos irão estabelecer regras e orientações e irão desenvolver iniciativas que encorajem a implementação de boas práticas que visem a redução do lixo nas praias.Melhorar a literacia, a consciência ambiental e a capacitação de gestores, operadores e utilizadores das praias. |
@@ -1268,7 +1300,7 @@ Medida 7 - Prevenir o lixo nas praias
 
 Medida 8 - Prevenir o descarte inadequado de pontas de cigarro
 
-| Ação 8.1 - Disponibilizar gratuitamente cinzeiros nas praias e incentivar o seu uso pelos fumadores | Ação 8.1 - Disponibilizar gratuitamente cinzeiros nas praias e incentivar o seu uso pelos fumadores |
+| Ação 8.1 - Disponibilizar gratuitamente cinzeiros nas praias e incentivar o seu uso pelos fumadores |  |
 | --- | --- |
 | Identificação do problema | Breve caracterização do problema, qualitativa ou quantitativa já realizada: "Estudo de caracterização de resíduos de limpeza urbana que inclui pontas de cigarro descartadas nas praias".As pontas de cigarro estão no topo da lista de itens contabilizados pelas monitorizações de praia realizadas em toda a Europa e também em Portugal. Trata-se de um produto com elevada ecotoxicidade no ambiente marinho. |
 | Objetivos | Sensibilização dos fumadores para o problema do lixo marinho;Aumento do uso de cinzeiros de praia pelos fumadores. |
@@ -1284,7 +1316,7 @@ Medida 8 - Prevenir o descarte inadequado de pontas de cigarro
 
 Medida 9 - Reduzir a produção de resíduos em eventos públicos ao ar livre e em zonas muito visitadas junto ao litoral
 
-| Ação 9.1 - Promover "Eventos Zero Resíduos" | Ação 9.1 - Promover "Eventos Zero Resíduos" |
+| Ação 9.1 - Promover "Eventos Zero Resíduos" |  |
 | --- | --- |
 | Identificação do problema | A realização de atividades festivas, recreativas e desportivas na praia ou junto ao litoral, gera muitos resíduos associados aos plásticos de utilização única. Uma parte destes resíduos acaba por ser arrastada pelo vento e o seu destino é frequentemente a orla marítima. A realização destes eventos exige a adoção de boas práticas para reduzir ou mesmo eliminar os plásticos de utilização única. No planeamento e licenciamento da atividade, as autoridades competentes devem exigir a adoção de boas práticas relacionadas com:A escolha do material das embalagens de utilização única e incentivar sistemas de reutilização da loiça que vier a ser utilizada;A presença de número suficiente de ecopontos temporários para triagem dos resíduos;A afixação de sinalética sobre a existência e localização da triagem de resíduos, bem como sinalética para sensibilização dos participantes;A limpeza da área utilizada imediatamente após a hora de encerramento da atividade, o mesmo se aplicando aos percursos usados para atividades como corridas, maratonas ou caminhadas. |
 | Objetivos | Redução considerável da produção de lixo durante estes eventos;Um ambiente mais limpo, gerando maior bem-estar;Disseminação de boas práticas por outros municípios. |
@@ -1298,7 +1330,7 @@ Medida 9 - Reduzir a produção de resíduos em eventos públicos ao ar livre e 
 | ODS e outras metas ou compromissos | ODS 3 - Saúde de Qualidade;ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação. |
 
-| Ação 9.2 - Promover "Lixo Zero" em zonas de lazer junto ao litoral | Ação 9.2 - Promover "Lixo Zero" em zonas de lazer junto ao litoral |
+| Ação 9.2 - Promover "Lixo Zero" em zonas de lazer junto ao litoral |  |
 | --- | --- |
 | Identificação do problema | As zonas de lazer junto ao litoral representam um risco acrescido para a entrada de lixo no mar. Miradouros, passeios ribeirinhos, passeios marítimos, passadiços no litoral e zonas de pesca lúdica são zonas de elevada procura e onde é particularmente importante prevenir a perda e descarte para o meio ambiente de resíduos gerados pelos visitantes. |
 | Objetivos | Redução considerável da perda de lixo para o ambiente em zonas de visitação junto ao litoral;Um ambiente mais limpo, gerando maior bem-estar;Disseminação de boas práticas. |
@@ -1312,7 +1344,7 @@ Medida 9 - Reduzir a produção de resíduos em eventos públicos ao ar livre e 
 | ODS e outras metas ou compromissos | ODS 3 - Saúde de Qualidade;ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação. |
 
-| Ação 9.3 - Substituir a utilização de loiça e embalagens descartáveis em festivais e festas, em espaços públicos, por alternativas reutilizáveis | Ação 9.3 - Substituir a utilização de loiça e embalagens descartáveis em festivais e festas, em espaços públicos, por alternativas reutilizáveis |
+| Ação 9.3 - Substituir a utilização de loiça e embalagens descartáveis em festivais e festas, em espaços públicos, por alternativas reutilizáveis |  |
 | --- | --- |
 | Identificação do problema | Em Portugal inúmeras festas e feiras (festivais gastronómicos, feiras medievais, etc.) são organizados durante o verão, utilizando-se loiça e embalagens descartáveis para o consumo de alimentos e bebidas. Por conseguinte uma quantidade apreciável de resíduos é gerada.Eventos deste tipo possuem regras de saúde e segurança que podem dificultar a adoção de materiais reutilizáveis, como o vidro. Uma opção é substituir os materiais plásticos sintéticos por materiais biodegradáveis, orgânicos. No entanto estes materiais alternativos são muitas vezes não recicláveis, mais complexos de tratar e apenas compostáveis com métodos industriais. O plástico rígido de polipropileno é seguro, resistente e pode ser lavado e reutilizado diversas vezes. |
 | Objetivos | Tornar estes festivais "Eventos de Zero Resíduos", com benefícios económicos, ecológicos e reputacionais;Redução significativa da produção de lixo;Um ambiente mais limpo, gerando maior bem-estar;Criar potencial para o desenvolvimento de novas empresas (que gerem a atividade de lavagem e disponibilização/aluguer da loiça reutilizável). |
@@ -1329,7 +1361,7 @@ Medida 9 - Reduzir a produção de resíduos em eventos públicos ao ar livre e 
 
 Medida 10 - Prevenir a perda de plásticos e outros materiais leves resultantes de obras junto ao litoral
 
-| Ação 10.1 - Desenvolver instrumentos e boas práticas para a boa gestão de resíduos resultantes de obras realizadas junto ao litoral | Ação 10.1 - Desenvolver instrumentos e boas práticas para a boa gestão de resíduos resultantes de obras realizadas junto ao litoral |
+| Ação 10.1 - Desenvolver instrumentos e boas práticas para a boa gestão de resíduos resultantes de obras realizadas junto ao litoral |  |
 | --- | --- |
 | Identificação do problema | Lixo que se perde para o ambiente, especialmente resíduos mais leves. |
 | Objetivos | Prevenir a libertação para o ambiente de resíduos resultantes de obras realizadas junto ao litoral. |
@@ -1345,7 +1377,7 @@ Medida 10 - Prevenir a perda de plásticos e outros materiais leves resultantes 
 
 Medida 11 - Prevenir a entrada de resíduos no mar através das linhas de água
 
-| Ação 11.1 - Apoiar o desenvolvimento de projetos que visem a instalação de estruturas nas linhas de água, para contenção do lixo flutuante | Ação 11.1 - Apoiar o desenvolvimento de projetos que visem a instalação de estruturas nas linhas de água, para contenção do lixo flutuante |
+| Ação 11.1 - Apoiar o desenvolvimento de projetos que visem a instalação de estruturas nas linhas de água, para contenção do lixo flutuante |  |
 | --- | --- |
 | Identificação do problema | Os rios e linhas de água são uma fonte importante de lixo marinho, sobretudo nos seus troços mais a jusante. Em zonas costeiras densamente urbanizadas, as ribeiras costeiras são recetoras dos mais variados tipos de resíduos. Abandonados ou descartados involuntariamente, são arrastados pela chuva e pelo vento para as ribeiras, ou entram nas linhas de água canalizadas, através das sarjetas. Se não forem capturados, estes itens de lixo são transportados pelos rios e linhas de água chegando à orla marítima e ao oceano.Diversas medidas existem, algumas já postas em prática em Portugal, e que visam reter os resíduos flutuantes, por exemplo através da instalação de redes em locais específicos, nas bocas das passagens hidráulicas duma linha de água encanada. Outras medidas tecnológicas podem ser desenvolvidas com o propósito de intercetar o lixo nos rios. |
 | Objetivos | Capturar o lixo que é transportado pelo caudal dos rios e outras linhas de água, antes deste atingir o mar e o litoral. |
@@ -1363,7 +1395,7 @@ Eixo 3 - Atividades marítimas
 
 Medida 12 - Prevenir a perda de plásticos para o mar provenientes da pesca
 
-| Ação 12.1 - Realizar estudo sobre economia circular/artes de pesca | Ação 12.1 - Realizar estudo sobre economia circular/artes de pesca |
+| Ação 12.1 - Realizar estudo sobre economia circular/artes de pesca |  |
 | --- | --- |
 | Identificação do problema | Fraca circularidade das artes de pesca em fim de vida. |
 | Objetivos | Potenciar o mercado e as oportunidades para a reciclagem ou uptake para outros usos de artes de pesca em fim de vida; estimular a devolução ou entrega de artes de pesca em fim de vida. |
@@ -1377,7 +1409,7 @@ Medida 12 - Prevenir a perda de plásticos para o mar provenientes da pesca
 | ODS e outras metas ou compromissos | ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 
-| Ação 12.2 - Desenvolver ações e boas práticas para o sector da pesca de modo a reduzir a perda e abandono de artes de pesca | Ação 12.2 - Desenvolver ações e boas práticas para o sector da pesca de modo a reduzir a perda e abandono de artes de pesca |
+| Ação 12.2 - Desenvolver ações e boas práticas para o sector da pesca de modo a reduzir a perda e abandono de artes de pesca |  |
 | --- | --- |
 | Identificação do problema | Presença de plásticos provenientes da pesca no ambiente marinho; fraca circularidade das artes de pesca em todo o seu ciclo de vida. |
 | Objetivos | Reduzir o impacte ambiental das artes de pesca e aumentar a sua sustentabilidade: boas práticas ambientais e economia circular. |
@@ -1392,7 +1424,7 @@ Medida 12 - Prevenir a perda de plásticos para o mar provenientes da pesca
 | ODS e outras metas ou compromissos | ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente;Plano de Ação OSPAR para o Lixo Marinho. |
 
-| Ação 12.3 - Promover a literacia ativa das comunidades piscatórias | Ação 12.3 - Promover a literacia ativa das comunidades piscatórias |
+| Ação 12.3 - Promover a literacia ativa das comunidades piscatórias |  |
 | --- | --- |
 | Identificação do problema | Lixo marinho resultante da atividade piscatória. |
 | Objetivos | Aumentar o conhecimento e a sensibilização das comunidades piscatórias para os impactes do lixo marinho e divulgar boas práticas para a pesca sustentável. |
@@ -1406,7 +1438,7 @@ Medida 12 - Prevenir a perda de plásticos para o mar provenientes da pesca
 | ODS e outras metas ou compromissos | ODS 8 - Trabalho Digno e Crescimento Económico;ODS 14 - Proteger a Vida Marinha;ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis. |
 | Referências | Plano de Ação OSPAR para o Lixo Marinho;Projeto CleanAtlantic (cofinanciado pelo programa Interreg Área Atlântica). |
 
-| Ação 12.4 - Desenvolver medidas para a redução do impacte da pesca lúdica na produção de lixo marinho. | Ação 12.4 - Desenvolver medidas para a redução do impacte da pesca lúdica na produção de lixo marinho. |
+| Ação 12.4 - Desenvolver medidas para a redução do impacte da pesca lúdica na produção de lixo marinho. |  |
 | --- | --- |
 | Identificação do problema | A pesca lúdica é uma fonte de lixo marinho. |
 | Objetivos | Reduzir o impacte da pesca lúdica na produção de lixo marinho. |
@@ -1422,7 +1454,7 @@ Medida 12 - Prevenir a perda de plásticos para o mar provenientes da pesca
 
 Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 
-| Ação 13.1 - Realizar estudo sobre economia circular/aquicultura | Ação 13.1 - Realizar estudo sobre economia circular/aquicultura |
+| Ação 13.1 - Realizar estudo sobre economia circular/aquicultura |  |
 | --- | --- |
 | Identificação do problema | A aquicultura é uma fonte de lixo marinho e verifica-se baixa circularidade dos materiais e equipamentos em fim de vida usados pela atividade. |
 | Objetivos | Potenciar o mercado e as oportunidades para a reciclagem ou uptake para outros usos dos materiais e equipamentos em fim de vida; estimular a sua devolução ou entrega em fim de vida. |
@@ -1436,7 +1468,7 @@ Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 | ODS e outras metas ou compromissos | ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 
-| Ação 13.2 - Promover a sustentabilidade dos materiais usados na aquicultura | Ação 13.2 - Promover a sustentabilidade dos materiais usados na aquicultura |
+| Ação 13.2 - Promover a sustentabilidade dos materiais usados na aquicultura |  |
 | --- | --- |
 | Identificação do problema | A aquicultura é uma fonte de lixo marinho e verifica-se baixa circularidade dos materiais e equipamentos em fim de vida usados pela atividade. |
 | Objetivos | Desenvolver medidas legislativas, instrumentos e boas práticas para o sector de modo a promover a redução da emissão de resíduos provenientes da aquicultura para o ambiente marinho. |
@@ -1452,7 +1484,7 @@ Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 | ODS e outras metas ou compromissos | ODS 3 - Saúde de Qualidade;ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 
-| Ação 13.3 - Promover a integração no licenciamento da atividade aquícola de boas práticas e a utilização de equipamentos e materiais adequados à localização e tipo de cultura. | Ação 13.3 - Promover a integração no licenciamento da atividade aquícola de boas práticas e a utilização de equipamentos e materiais adequados à localização e tipo de cultura. |
+| Ação 13.3 - Promover a integração no licenciamento da atividade aquícola de boas práticas e a utilização de equipamentos<br>e materiais adequados à localização e tipo de cultura. |  |
 | --- | --- |
 | Identificação do problema | A aquicultura é uma fonte de lixo marinho. |
 | Objetivos | Melhorar o desempenho ambiental das aquiculturas. |
@@ -1466,7 +1498,7 @@ Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 | ODS e outras metas ou compromissos | ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente;Plano de Ação OSPAR para o Lixo Marinho. |
 
-| Ação 13.4 - Reforçar a monitorização, fiscalização e controlo dos requisitos ambientais | Ação 13.4 - Reforçar a monitorização, fiscalização e controlo dos requisitos ambientais |
+| Ação 13.4 - Reforçar a monitorização, fiscalização e controlo dos requisitos ambientais |  |
 | --- | --- |
 | Identificação do problema | A aquicultura é uma fonte de lixo marinho. |
 | Objetivos | Melhorar o desempenho ambiental das aquiculturas. |
@@ -1480,7 +1512,7 @@ Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 | ODS e outras metas ou compromissos | ODS 3 - Saúde de Qualidade;ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;[Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente. |
 | Referências | [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação, relativo à redução do impacte de certos produtos de plástico no ambiente;Plano de Ação OSPAR para o Lixo Marinho. |
 
-| Ação 13.5 - Aumentar o conhecimento sobre a emissão de microplásticos pela aquicultura e identificar soluções sustentáveis | Ação 13.5 - Aumentar o conhecimento sobre a emissão de microplásticos pela aquicultura e identificar soluções sustentáveis |
+| Ação 13.5 - Aumentar o conhecimento sobre a emissão de microplásticos pela aquicultura e identificar soluções sustentáveis |  |
 | --- | --- |
 | Identificação do problema | A aquicultura é fonte de lixo marinho. Importa conhecer a relação da atividade com a emissão de microplásticos para o ambiente marinho. |
 | Objetivos | Aumentar o conhecimento sobre as emissões de microplásticos pelas aquiculturas. |
@@ -1496,7 +1528,7 @@ Medida 13 - Prevenir a perda de plásticos provenientes da aquicultura
 
 Medida 14 - Prevenir a perda de lixo em áreas portuárias e marinas
 
-| Ação 14.1 - Promover a criação de ecocentros do mar | Ação 14.1 - Promover a criação de ecocentros do mar |
+| Ação 14.1 - Promover a criação de ecocentros do mar |  |
 | --- | --- |
 | Identificação do problema | O [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, que transpõe a Diretiva 2019/883/UE, de 17 de abril (Diretiva PRF), obriga à existência de meios de receção para os resíduos gerados a bordo das embarcações que utilizam os portos nacionais, incluindo os portos de pesca com todas as tipologias de resíduos geradas por esta atividade, nos quais se incluem as artes de pesca em fim de vida, os resíduos de poliestireno expandido, e outros. Esta legislação obriga ainda à existência de meios para a receção de resíduos, que não sendo gerados a bordo das embarcações, são recolhidos pelas redes de pesca e têm de ser entregues no primeiro porto de escala do navio de pesca. A Docapesca detém a gestão dos portos de pesca com maior importância a nível nacional e dispõe, com larga cobertura, de meios de receção nos portos sob a sua jurisdição e dos respetivos PRGR aprovados. Verifica-se, no entanto, a existência de diversos portos de pesca de menor dimensão e importância económica que, em virtude da transferência de competências no domínio das áreas portuárias, e ao abrigo do [Decreto-Lei n.º 72/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2019-122419056), de 28 de maio, são atualmente geridos pelas respetivas câmaras municipais. Estes portos não se encontram dotados dos meios necessários de receção de resíduos. Nesta situação poderão encontrar-se também alguns portos de recreio. |
 | Objetivos | Dotar todo o universo de portos de pesca e náutica de recreio de PRGR aprovados;Dotar todo o universo de portos de pesca e portos de recreio, de meios de receção para todas as tipologias de resíduos geradas a bordo das embarcações, embalagens, artes de pesca em fim de vida, resíduos recolhidos nas redes de pesca e poliestireno expandido gerado pela atividade piscatória, de acordo com o previsto no PRGR aprovado;Desenvolver ações dirigidas para a melhoria da gestão de resíduos por parte das comunidades piscatórias, em especial no que respeita a resíduos específicos da atividade, através da literacia e sensibilização da comunidade e da instalação de infraestruturas adequadas;Contribuir para uma alteração nos comportamentos dos cidadãos, nomeadamente da comunidade de pescadores e da comunidade náutica;Disponibilizar meios para melhor saber como proceder e que facilitem o envolvimento pessoal/grupo no objetivo de reduzir a quantidade de resíduos no mar e nas zonas costeiras. |
@@ -1510,7 +1542,7 @@ Medida 14 - Prevenir a perda de lixo em áreas portuárias e marinas
 | ODS e outras metas ou compromissos | ODS 9 - Indústria, Inovação e Infraestruturas;ODS 14 - Proteger a Vida Marinha. |
 | Referências | Diretiva 2019/883/UE, de 17 de abril;[Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro. |
 
-| Ação 14.2 - Desenvolver a Janela Única Nacional (JUL - Janela Única Logística) | Ação 14.2 - Desenvolver a Janela Única Nacional (JUL - Janela Única Logística) |
+| Ação 14.2 - Desenvolver a Janela Única Nacional (JUL - Janela Única Logística) |  |
 | --- | --- |
 | Identificação do problema | O [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, relativo a meios de receção de resíduos gerados a bordo dos navios, estabelece que as comunicações e/ou intercâmbio de informações previstas com a Comissão Europeia decorram por meio da Janela Única Nacional, identificada a nível nacional como Janela Única Logística (JUL). A JUL já se encontra implementada e em funcionamento ao nível dos portos comerciais nacionais no que respeita ao seu funcionamento interno, à interação com os navios e seus representantes legais e restantes entidades que intervêm no processo de receção, recolha e gestão dos resíduos gerados a bordo dos navios.A JUL não foi ainda implementada na DGRM, entidade da administração central com responsabilidade pela coordenação global da implementação e fiscalização desta legislação a nível nacional. A comunicação entre a DGRM e as autoridades portuárias através da JUL, para além de dar cumprimento ao previsto na legislação em vigor, facilitará, em muito, o acompanhamento da implementação da diretiva comunitária relativa aos meios portuários de receção de resíduos. |
 | Objetivos | Acesso direto da DGRM enquanto entidade responsável pela implementação da diretiva dos meios de receção de resíduos nos portos às diversas informações/comunicações previstas na legislação entre as AP e os navios, permitindo-lhe melhor acompanhamento da implementação da diretiva comunitária relativa aos meios de receção portuários, nomeadamente: a tramitação dos procedimentos relativos à análise e aprovação dos Planos de Receção e Gestão de Resíduos (PRGR), submetidos pelas AP e entidades gestoras de portos; e o respetivo reporte ao SafeSeaNet. |
@@ -1526,7 +1558,7 @@ Medida 14 - Prevenir a perda de lixo em áreas portuárias e marinas
 
 Medida 15 - Prevenir o lixo marinho gerado pela navegação marítima
 
-| Ação 15.1 - Adotar e promover a aplicação das recomendações da IMO para reduzir o lixo marinho proveniente da navegação marítima | Ação 15.1 - Adotar e promover a aplicação das recomendações da IMO para reduzir o lixo marinho proveniente da navegação marítima |
+| Ação 15.1 - Adotar e promover a aplicação das recomendações da IMO para reduzir o lixo marinho proveniente da navegação marítima |  |
 | --- | --- |
 | Identificação do problema | Os diversos tipos de atividade de navegação marítima são fonte de lixo marinho. |
 | Objetivos | Reduzir o impacte da atividade de navegação marítima na produção de lixo marinho. |
@@ -1542,7 +1574,7 @@ Medida 15 - Prevenir o lixo marinho gerado pela navegação marítima
 
 Medida 16 - Aumentar a sustentabilidade ambiental da atividade marítimo-turística
 
-| Ação 16.1 - Implicar as atividades marítimo-turísticas e da sociedade civil para a redução do lixo marinho | Ação 16.1 - Implicar as atividades marítimo-turísticas e da sociedade civil para a redução do lixo marinho |
+| Ação 16.1 - Implicar as atividades marítimo-turísticas e da sociedade civil para a redução do lixo marinho |  |
 | --- | --- |
 | Identificação do problema | A presença de lixo flutuante é um problema ambiental com influência na atividade marítimo-turística.Muitos operadores turísticos de atividades no mar têm demonstrado sensibilidade para este problema e muitos praticam a sensibilização dos seus clientes para o problema do lixo marinho.Importa sensibilizar os operadores marítimo-turísticos para os resíduos gerados pela sua atividade. |
 | Objetivos | Dinamizar os operadores turísticos de atividades no mar para ativamente contribuírem para a prevenção e redução do lixo marinho;Sensibilizar e envolver a sociedade civil na problemática do lixo marinho e em ações para a sua redução. |
@@ -1560,7 +1592,7 @@ Eixo 4 - Indústria
 
 Medida 17 - Prevenir a perda de péletes industriais de plástico (pellets)
 
-| Ação 17.1 - Prevenir a perda de péletes industriais de plástico para o ambiente | Ação 17.1 - Prevenir a perda de péletes industriais de plástico para o ambiente |
+| Ação 17.1 - Prevenir a perda de péletes industriais de plástico para o ambiente |  |
 | --- | --- |
 | Identificação do problema | Os derramamentos de péletes industriais de plástico podem ocorrer durante todas as etapas da cadeia de produção, inclusive nos locais de produção e zonas de processamento, e durante o carregamento e transporte dos péletes. A má gestão de derrames acidentais ou sistemáticos durante a operação de rotina é uma das razões pelas quais os péletes podem ser encontrados no ambiente, particularmente em rios, oceanos e praias. |
 | Objetivos | Reduzir a perda de péletes para o ambiente, com vista a diminuir a sua entrada no ambiente marinho. |
@@ -1576,7 +1608,7 @@ Medida 17 - Prevenir a perda de péletes industriais de plástico (pellets)
 
 Medida 18 - Promover o ecodesign
 
-| Ação 18.1 - Promover ações de capacitação em ecodesign junto das indústrias relevantes | Ação 18.1 - Promover ações de capacitação em ecodesign junto das indústrias relevantes |
+| Ação 18.1 - Promover ações de capacitação em ecodesign junto das indústrias relevantes |  |
 | --- | --- |
 | Identificação do problema | As empresas necessitam de formação orientada para o ecodesign dos produtos que promovam o fabrico de produtos que evitem ou mitiguem o lixo marinho. |
 | Objetivos | Diminuir os resíduos de plástico nos oceanos. |
@@ -1590,7 +1622,7 @@ Medida 18 - Promover o ecodesign
 | ODS e outras metas ou compromissos | ODS 9 - Indústria, Inovação e Infraestruturas;ODS 14 - Proteger a Vida Marinha. |
 | Referências | PAEC. |
 
-| Ação 18.2 - Apoiar projetos de investigação & desenvolvimento & inovação no domínio do ecodesign e da bioeconomia nas indústrias relevantes | Ação 18.2 - Apoiar projetos de investigação & desenvolvimento & inovação no domínio do ecodesign e da bioeconomia nas indústrias relevantes |
+| Ação 18.2 - Apoiar projetos de investigação & desenvolvimento & inovação no domínio do ecodesign e da bioeconomia nas indústrias relevantes |  |
 | --- | --- |
 | Identificação do problema | Impactes ambientais negativos causados por um modelo de produção linear que utiliza matérias-primas fósseis de forma intensiva, para criação de produtos pouco duradouros e de baixa reciclabilidade. |
 | Objetivos | Utilização de matérias-primas de origem biológica que permitam um aproveitamento dos materiais e circularidade dos recursos na economia. |
@@ -1604,7 +1636,7 @@ Medida 18 - Promover o ecodesign
 | ODS e outras metas ou compromissos | ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;PRR. |
 | Referências | PAEC, PABS, ENEI2030, ENM 2020-2030. |
 
-| Ação 18.3 - Promover a substituição de matérias-primas de origem fóssil por matérias-primas de base biológica | Ação 18.3 - Promover a substituição de matérias-primas de origem fóssil por matérias-primas de base biológica |
+| Ação 18.3 - Promover a substituição de matérias-primas de origem fóssil por matérias-primas de base biológica |  |
 | --- | --- |
 | Identificação do problema | Uso elevado de produtos de origem fóssil, como o plástico, e com reduzida reciclabilidade e biodegradabilidade. |
 | Objetivos | O desenvolvimento e utilização de materiais de proveniência de fontes renováveis. |
@@ -1618,7 +1650,7 @@ Medida 18 - Promover o ecodesign
 | ODS e outras metas ou compromissos | ODS 8 - Trabalho Digno e Crescimento Económico;ODS 9 - Indústria, Inovação e Infraestruturas;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha. |
 | Referências | Plano de Ação para a Bioeconomia Sustentável (PABS), PAEC; ENEI 2030. |
 
-| Ação 18.4 - Participar em projetos e ações piloto que utilizem recursos renováveis endógenos e promover os seus resultados | Ação 18.4 - Participar em projetos e ações piloto que utilizem recursos renováveis endógenos e promover os seus resultados |
+| Ação 18.4 - Participar em projetos e ações piloto que utilizem recursos renováveis endógenos e promover os seus resultados |  |
 | --- | --- |
 | Identificação do problema | Reduzida valorização dos recursos renováveis endógenos em sectores industriais. |
 | Objetivos | Comunicar e disseminar os resultados do trabalho desenvolvido, de modo a potenciar a expansão e aumento da valorização dos recursos nos sectores industriais. |
@@ -1632,7 +1664,7 @@ Medida 18 - Promover o ecodesign
 | ODS e outras metas ou compromissos | ODS 9 - Indústria, Inovação e Infraestruturas;ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;ODS 17 - Parcerias para a Implementação dos Objetivos;PRR. |
 | Referências | PABS; ENEI 2030, PAEC. |
 
-| Ação 18.5 - Promover o ecodesign de produtos utilizados nas atividades de praia | Ação 18.5 - Promover o ecodesign de produtos utilizados nas atividades de praia |
+| Ação 18.5 - Promover o ecodesign de produtos utilizados nas atividades de praia |  |
 | --- | --- |
 | Identificação do problema | Determinados produtos, como os chapéus de sol de ponta destacável, brinquedos, almofadas de praia, contêm componentes ou partes amovíveis que aquando da sua utilização facilmente se perdem. |
 | Objetivos | Prevenir a perda desses produtos através do ecodesign tudo e no estudo e sequente fabrico de produtos alternativos. |
@@ -1648,7 +1680,7 @@ Medida 18 - Promover o ecodesign
 
 Medida 19 - Aumentar a circularidade de produtos e subprodutos em fim de vida
 
-| Ação 19.1 - Fomentar a formação, intercâmbio de conhecimento e melhores práticas sobre a utilização de recursos de origem renovável | Ação 19.1 - Fomentar a formação, intercâmbio de conhecimento e melhores práticas sobre a utilização de recursos de origem renovável |
+| Ação 19.1 - Fomentar a formação, intercâmbio de conhecimento e melhores práticas sobre a utilização de recursos de origem renovável |  |
 | --- | --- |
 | Identificação do problema | Pouca informação sobre o potencial de utilização de recursos de origem renovável. |
 | Objetivos | Dinamizar o debate e a troca de experiências e difusão do conhecimento. |
@@ -1662,7 +1694,7 @@ Medida 19 - Aumentar a circularidade de produtos e subprodutos em fim de vida
 | ODS e outras metas ou compromissos | ODS 13 - Ação Climática;ODS 14 - Proteger a Vida Marinha;ODS 17 - Parcerias para a Implementação dos Objetivos;PRR. |
 | Referências | ENEA, PAEC, PABS, ENEI 2030. |
 
-| Ação 19.2 - Estabelecer parcerias e colaboração para utilização de subprodutos e materiais | Ação 19.2 - Estabelecer parcerias e colaboração para utilização de subprodutos e materiais |
+| Ação 19.2 - Estabelecer parcerias e colaboração para utilização de subprodutos e materiais |  |
 | --- | --- |
 | Identificação do problema | Os processos produtivos dão origem à produção de subprodutos que nem sempre são incorporados no processo produtivo do estabelecimento ou da própria empresa, por não se enquadrarem nas respetivas necessidades. No entanto, os subprodutos de uma unidade produtiva podem corresponder a necessidades de produção de outras unidades produtivas. Para evitar o desperdício de recursos e a perda de valor económico importa estabelecer formas em que se estabelecem fluxos de produtos/materiais entre várias unidades produtivas. |
 | Objetivos | Reduzir a extração de recursos naturais. Aumentar a utilização de subprodutos no processo produtivo. |
@@ -1676,7 +1708,7 @@ Medida 19 - Aumentar a circularidade de produtos e subprodutos em fim de vida
 | ODS e outras metas ou compromissos | ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | PAEC. |
 
-| Ação 19.3 - Promover iniciativas que confiram uma nova vida aos plásticos recuperados no mar ou na praia, envolvendo parceiros tecnológicos e industriais | Ação 19.3 - Promover iniciativas que confiram uma nova vida aos plásticos recuperados no mar ou na praia, envolvendo parceiros tecnológicos e industriais |
+| Ação 19.3 - Promover iniciativas que confiram uma nova vida aos plásticos recuperados no mar ou na praia, envolvendo parceiros tecnológicos e industriais |  |
 | --- | --- |
 | Identificação do problema | São várias as iniciativas, institucionais e da sociedade civil, que recuperam do mar e das praias quantidades significativas de plásticos. Os destinos a dar esses plásticos podem ser diversos e com tratamentos diferenciados. |
 | Objetivos | Assegurar que uma maior parcela de plásticos recuperados volta a entrar no ciclo produtivo, incluindo em novas utilizações e em produtos de qualidade. |
@@ -1690,7 +1722,7 @@ Medida 19 - Aumentar a circularidade de produtos e subprodutos em fim de vida
 | ODS e outras metas ou compromissos | ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | PAEC |
 
-| Ação 19.4 - Promover a adoção de ferramentas digitais de rastreabilidade de produtos | Ação 19.4 - Promover a adoção de ferramentas digitais de rastreabilidade de produtos |
+| Ação 19.4 - Promover a adoção de ferramentas digitais de rastreabilidade de produtos |  |
 | --- | --- |
 | Identificação do problema | Muitos produtos em circulação não apresentam informação relativa às respetivas características, dificultando os processos de decisão quer nas cadeias de valor que integram, quer dos consumidores finais. A disponibilização acessível de informação sobre as características dos produtos potencia processos de decisão mais informados, incluindo os processos de fim de vida dos produtos. |
 | Objetivos | Fomentar a utilização de ferramentas digitais de rastreabilidade dos produtos, que permitam o acompanhamento da sua utilização, possibilitando a avaliação dos seus impactes ambientais. |
@@ -1706,7 +1738,7 @@ Medida 19 - Aumentar a circularidade de produtos e subprodutos em fim de vida
 
 Medida 20 - Reduzir a libertação de microplásticos de relvados desportivos e outros pisos sintéticos
 
-| Ação 20.1 - Introdução de medidas tendo em vista a redução da libertação de microplásticos provenientes de campos desportivos sintéticos | Ação 20.1 - Introdução de medidas tendo em vista a redução da libertação de microplásticos provenientes de campos desportivos sintéticos |
+| Ação 20.1 - Introdução de medidas tendo em vista a redução da libertação de microplásticos provenientes de campos desportivos sintéticos |  |
 | --- | --- |
 | Identificação do problema | Os campos de jogos com pisos sintéticos com enchimento por grânulos são uma fonte de microplásticos. |
 | Objetivos | Reduzir a libertação de microplásticos para o ambiente. |
@@ -1725,7 +1757,7 @@ Eixo 5 - Plásticos de utilização única
 
 Medida 21 - Promover campanhas de divulgação para redução de produtos de utilização única
 
-| Ação 21.1 - Campanhas de divulgação para redução e boa gestão de produtos de utilização única e de artes de pesca | Ação 21.1 - Campanhas de divulgação para redução e boa gestão de produtos de utilização única e de artes de pesca |
+| Ação 21.1 - Campanhas de divulgação para redução e boa gestão de produtos de utilização única e de artes de pesca |  |
 | --- | --- |
 | Identificação do problema | Necessitamos de alterar os nossos comportamentos e para isso a educação é essencial. Uma das formas de chegar ao cidadão é através de eficazes campanhas de divulgação e informação. Para algumas tipologias de produtos de utilização única, a responsabilidade pela sua gestão, incluindo as campanhas de comunicação e sensibilização, é do produtor do produto. |
 | Objetivos | Diminuição das quantidades de resíduos de produtos de plástico ou de outros materiais de utilização única e artes de pesca perdidas para o mar. |
@@ -1741,7 +1773,7 @@ Medida 21 - Promover campanhas de divulgação para redução de produtos de uti
 
 Medida 22 - Prevenir a perda de esferovite (poliestireno expandido) para o ambiente marinho
 
-| Ação 22.1 - Promover a reciclagem de caixas de acondicionamento de pescado feitas de esferovite | Ação 22.1 - Promover a reciclagem de caixas de acondicionamento de pescado feitas de esferovite |
+| Ação 22.1 - Promover a reciclagem de caixas de acondicionamento de pescado feitas de esferovite |  |
 | --- | --- |
 | Identificação do problema | As caixas para acondicionamento de pescado são produtos de utilização única muitas vezes utilizados e descartados perto do mar e reportados com frequência nas monitorizações de lixo marinho em praias. |
 | Objetivos | Reduzir o descarte de caixas de peixe para o ambiente em zonas perto do mar. |
@@ -1757,7 +1789,7 @@ Medida 22 - Prevenir a perda de esferovite (poliestireno expandido) para o ambie
 
 Medida 23 - Prevenir a perda de plásticos utilizados nas atividades agrícolas
 
-| Ação 23.1 - Promover a reciclagem de plásticos utilizados na agricultura e/ou a sua substituição por materiais biodegradáveis | Ação 23.1 - Promover a reciclagem de plásticos utilizados na agricultura e/ou a sua substituição por materiais biodegradáveis |
+| Ação 23.1 - Promover a reciclagem de plásticos utilizados na agricultura e/ou a sua substituição por materiais biodegradáveis |  |
 | --- | --- |
 | Identificação do problema | São produtos de utilização única muitas vezes utilizados e descartados perto do mar e de cursos de água reportados com frequência nas monitorizações de lixo marinho em praias. |
 | Objetivos | Reduzir a presença no ambiente de resíduos de plásticos utilizados em estufas, estufins, filmes plásticos e coberturas, fitas de rega, etc. em explorações agrícolas. |
@@ -1775,7 +1807,7 @@ Eixo 6 - Águas residuais urbanas
 
 Medida 24 - Monitorizar as águas residuais urbanas tratadas
 
-| Ação 24.1 - Promover a monitorização de microplásticos provenientes de ETAR | Ação 24.1 - Promover a monitorização de microplásticos provenientes de ETAR |
+| Ação 24.1 - Promover a monitorização de microplásticos provenientes de ETAR |  |
 | --- | --- |
 | Identificação do problema | A Diretiva de Tratamento de Águas Residuais Urbanas (Diretiva 91/271/CEE) demonstrou eficácia ao longo de mais de três décadas na redução de certos poluentes nas massas de água. No entanto, a falta de regulamentação abrangente para micropoluentes, como os microplásticos, evidencia a necessidade urgente de uma abordagem mais específica e rigorosa. A atual proposta de diretiva visa preencher essa lacuna, propondo o controlo rigoroso desses micropoluentes como parâmetros críticos para monitorização das descargas no meio recetor. No entanto, a informação sobre as características e abundâncias de microplásticos nas águas nacionais é escassa, bem como o conhecimento sobre a eficiência da sua remoção nas estações de tratamento de águas residuais portuguesas. |
 | Objetivos | Promover estudos piloto para avaliar a eficiência das estações de tratamento de águas residuais urbanas na remoção de microplásticos. |
@@ -1791,7 +1823,7 @@ Medida 24 - Monitorizar as águas residuais urbanas tratadas
 
 Medida 25 - Gestão de redes de saneamento
 
-| Ação 25.1 - Conversão de redes de saneamento unitárias em redes separativas | Ação 25.1 - Conversão de redes de saneamento unitárias em redes separativas |
+| Ação 25.1 - Conversão de redes de saneamento unitárias em redes separativas |  |
 | --- | --- |
 | Identificação do problema | As redes unitárias de drenagem, ainda existentes em algumas zonas urbanas, causam sobrecarga nas ETAR sobretudo em situações de pluviosidade intensa, ocasionando o desvio parcial do caudal afluente à ETAR para o meio recetor, sem passar pelo processo de tratamento. |
 | Objetivos | Minimizar a descarga de águas residuais urbanas sem tratamento. |
@@ -1809,7 +1841,7 @@ Eixo 7 - Boas práticas individuais
 
 Medida 26 - Sensibilização da população para o consumo e para a gestão de resíduos em casa
 
-| Ação 26.1 - Promover campanhas de divulgação sobre consumo sustentável | Ação 26.1 - Promover campanhas de divulgação sobre consumo sustentável |
+| Ação 26.1 - Promover campanhas de divulgação sobre consumo sustentável |  |
 | --- | --- |
 | Identificação do problema | O cidadão necessita de alterar o seu comportamento no que respeita ao consumo. Educar as pessoas sobre os impactos ambientais do consumo excessivo e do descarte inadequado de resíduos é fundamental. Isso pode ser feito por meio de campanhas de sensibilização, programas educacionais em escolas e universidades, e divulgação de informações sobre práticas sustentáveis. |
 | Objetivos | Redução do consumo numa perspetiva de diminuição da produção de resíduos que se podem transformar em lixo marinho;Uso eficiente dos recursos naturais;Garantir que os cidadãos, em todos os lugares, tenham informação relevante e sejam sensibilizadas para o desenvolvimento sustentável e estilos de vida em harmonia com a natureza;Sensibilização dos consumidores para os impactes do plástico e de outros materiais no ambiente marinho;Promoção de maiores e melhores hábitos de separação dos resíduos, que promovam e incentivem os consumidores para uma correta separação e reciclagem de resíduos. |
@@ -1823,7 +1855,7 @@ Medida 26 - Sensibilização da população para o consumo e para a gestão de r
 | ODS e outras metas ou compromissos | ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | Regime Geral de Gestão de Resíduos, [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), na sua atual redação; [Decreto-Lei n.º 78/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), de 24 de setembro, na sua atual redação. |
 
-| Ação 26.2 - Campanha de divulgação sobre como descartar resíduos sanitários em casa | Ação 26.2 - Campanha de divulgação sobre como descartar resíduos sanitários em casa |
+| Ação 26.2 - Campanha de divulgação sobre como descartar resíduos sanitários em casa |  |
 | --- | --- |
 | Identificação do problema | O cidadão necessita de alterar o seu comportamento colocando os resíduos no local adequado. |
 | Objetivos | Diminuição das quantidades de resíduos colocadas na sanita. |
@@ -1841,7 +1873,7 @@ Eixo 8 - Sociedade civil, ciência, inovação e desenvolvimento
 
 Medida 27 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo marinho
 
-| Ação 27.1 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo marinho | Ação 27.1 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo marinho |
+| Ação 27.1 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo marinho |  |
 | --- | --- |
 | Identificação do problema | Diversidade de ações. |
 | Objetivos | Apoiar a divulgação e a demonstração de boas práticas;Promover a capacitação e suporte técnico para as partes interessadas, especialmente para comunidades locais e organizações não governamentais, para fortalecer sua capacidade de contribuir efetivamente para a implementação do Plano de Ação. |
@@ -1854,7 +1886,7 @@ Medida 27 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo mari
 | ODS e outras metas ou compromissos | ODS 11 - Cidades e Comunidades Sustentáveis;ODS 12 - Produção e Consumo Sustentáveis;ODS 14 - Proteger a Vida Marinha. |
 | Referências | Plano de Ação OSPAR para o Lixo Marinho. |
 
-| Ação 27.2 - Promover a transversalização do tema lixo marinho na escola | Ação 27.2 - Promover a transversalização do tema lixo marinho na escola |
+| Ação 27.2 - Promover a transversalização do tema lixo marinho na escola |  |
 | --- | --- |
 | Identificação do problema | Carência de conhecimento e sensibilização para a problemática do lixo marinho e insuficiente integração do tema nas estratégias públicas ligadas à educação. |
 | Objetivos | Apoiar a divulgação e a demonstração de boas práticas para a prevenção e redução do lixo marinho. |
@@ -1869,7 +1901,7 @@ Medida 27 - Apoiar iniciativas voluntárias e meritórias dedicadas ao lixo mari
 
 Medida 28 - Fórum técnico e científico sobre o lixo marinho
 
-| Ação 28.1 - Promover a Agenda para a Ciência, Inovação e Desenvolvimento | Ação 28.1 - Promover a Agenda para a Ciência, Inovação e Desenvolvimento |
+| Ação 28.1 - Promover a Agenda para a Ciência, Inovação e Desenvolvimento |  |
 | --- | --- |
 | Identificação do problema | A falta de acesso à informação compromete os esforços para abordar eficazmente o problema do lixo marinho, limitando a capacidade de desenvolver soluções inovadoras e coordenadas. |
 | Objetivos | Apoiar a partilha e a divulgação de informação e conhecimento sobre o lixo marinho. |
@@ -1967,7 +1999,7 @@ UE - União Europeia;
 
 "Macroplásticos e microplásticos", o limite comum de tamanho de partículas de 5 mm é aplicado. Partículas de lixo de plástico maiores que 5 mm são consideradas lixo macroplástico, partículas de dimensão inferior a 5 mm são considerados microplásticos;
 
-"Material biodegradável", que tem a capacidade de se degradar em moléculas simples (ou seja, H<sub>2</sub>O, CO<sub>2</sub>, CH<sub>4</sub> e matéria orgânica) sob a ação de micro-organismos.
+"Material biodegradável", que tem a capacidade de se degradar em moléculas simples (ou seja, H2O, CO2, CH4 e matéria orgânica) sob a ação de micro-organismos.
 
 "Meios portuários de receção", as instalações fixas, flutuantes ou móveis, aptas a prestar o serviço de receber os resíduos provenientes de navios;
 
@@ -2010,3 +2042,5 @@ c) O teor de substâncias nocivas presentes nos materiais e nos produtos;
 "Resíduos provenientes da indústria pesqueira e da aquicultura", macro e microrresíduos gerados por estas atividades e que incluem resíduos plásticos como redes, boias, armadilhas para polvo e marisco, resíduos metálicos como mesas de criação de ostras, resíduos resultantes da degradação mecânica de estruturas flutuantes usadas na aquicultura, incluindo esferovite, resíduos orgânicos como conchas vazias, pilhas de madeira, e caixas, sacos e caixotes de embalamento;
 
 "Subproduto", substância ou objeto resultante de um processo de produção, cujo objetivo principal não é a produção dessa substância ou objeto.
+
+118258968

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20200/0000900227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/127/2023/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/127-2023-222939628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86da0c878ac4653f9eb7c4cd722e94d8a3e07e10d4393dd96980999d66d0f672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15515aca4d7599d5c06318f40aa671d7c088da16d984cc5db252ff0d5c9005ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Agência Portuguesa do Ambiente
+- Eliminação de Resíduos
 - Financiamento
 - Fundos CE
-- Resíduo
+- Gestão de Resíduos
 - Página na Internet
-- Proteção do Ambiente
 - Pesgri
-- Tratamento de Resíduos
+- Plano Estratégico para os Resíduos Não Urbanos
+- Plano Nacional de Gestão de Resíduos
 - Política do Ambiente
 - Poluição
+- Portugal 2030
+- Proteção do Ambiente
+- Resíduo
 - Resíduo Agrícola
 - Resíduo Hospitalar
 - Resíduo Industrial
-- Eliminação de Resíduos
-- Substância Perigosa
-- Plano Nacional de Gestão de Resíduos
-- Agência Portuguesa do Ambiente
-- Portugal 2030
 - Resíduo Não Urbano
-- Plano Estratégico para os Resíduos Não Urbanos
+- Substância Perigosa
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102-d/2020/12/10/p/dre
@@ -106,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210923318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210923319:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:05Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +178,6 @@ Presidência do Conselho de Ministros, 12 de outubro de 2023. - O Primeiro-Minis
 
 ## ANEXO — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/10/20200/0000900227.pdf))](https://files.diariodarepublica.pt/1s/2023/10/20200/0000900227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/10/20200/0000900227.pdf)
+
+116954657

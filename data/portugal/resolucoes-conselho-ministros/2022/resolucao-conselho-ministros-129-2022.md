@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/129/2022/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-2022-204953813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f577ba660f0c9fbc5dca0b1275e197e74e2c4237545a84a010aa3608f185c65e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af79fc2c2bf2de76f59742e22184abdb6abad6cc37229bb70e15ec6a979f6acf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente Nuclear
+- Agência Portuguesa do Ambiente
 - Armazenagem
-- Gestão de Resíduos
-- Radiactividade
-- Radioprotecção
-- Segurança Nuclear
-- Definição de Competências
-- Controlo Sanitário
-- Energia Nuclear
-- Saúde Pública
-- Segurança Pública
-- Combustível
-- Fiscalização
+- Autoridade Competente
+- Autoridade Nacional de Emergência e Proteção Civil
 - Avaliação de Impacte Ambiental
-- Transporte de Resíduos
+- Combustível
+- Controlo Sanitário
+- Definição de Competências
+- Eliminação de Resíduos
+- Energia
+- Energia Nuclear
+- Fiscalização
+- Gestão de Resíduos
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Instituto Superior Técnico
-- Publicitação
+- Internet
+- Inventário
 - Junta de Energia Nuclear
 - Licenciamento
-- Proteção do Ambiente
 - Plano de Emergência
-- Tratamento de Resíduos
-- Internet
-- Energia
-- Inventário
-- Resíduo Radioactivo
-- Segurança das Instalações
-- Eliminação de Resíduos
-- Substância Perigosa
-- Autoridade Competente
 - Programa Nacional de Gestão do Combustível Irradiado e dos Resíduos Radioativos
-- Autoridade Nacional de Emergência e Proteção Civil
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
+- Publicitação
+- Radiactividade
+- Radioprotecção
+- Resíduo Radioactivo
+- Saúde Pública
+- Segurança das Instalações
+- Segurança Nuclear
+- Segurança Pública
+- Substância Perigosa
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32001L0042
@@ -164,6 +164,138 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/122/2017/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/122/2017/09/07/p/dre
+- type: cites
+  target: pt:dre:108113697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116320540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122279881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122279882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122279883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66372276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66558696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676589:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0070
   label: null
@@ -175,13 +307,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:27Z'
   warnings: []
   errors: []
 ---
@@ -754,11 +886,11 @@ TABELA 1
 
 Inventário dos RR recebidos no PRR entre 2001 e 2021, por tipologia, comunicado pelo IST
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 Verifica-se que a maior contribuição para a atividade total enviada para gestão no PRR corresponde a isótopos com semivida física entre os 100 dias e os 30 anos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 Figura 1 - Atividade total enviada para o PRR entre 2017 e 2020 (Bq)
 
@@ -790,7 +922,7 @@ TABELA 2
 
 Estimativa dos RR do tipo LLW e ILW gerados com o desmantelamento do RPI. Fonte: IST
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 O plano de desmantelamento, a elaborar pelo operador, deverá conter uma atualização destas estimativas.
 
@@ -880,7 +1012,7 @@ TABELA 3
 
 Classificação de RR e vias de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 3.2 - Gestão de combustível irradiado e de resíduos radioativos existentes e futuros
 
@@ -1042,7 +1174,7 @@ TABELA 4
 
 Metas originais do PNGCIRR ([Resolução do Conselho de Ministros n.º 122/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2017-108113697), de 7 de setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 7.2 - Atualização das medidas
 
@@ -1174,7 +1306,7 @@ O PNGCIRR foi acompanhado em função das metas definidas, bem como através dos
 
 A presente atualização do PNGCIRR considera os seguintes indicadores-chave de desempenho, que serão objeto de acompanhamento anual:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24300/0000300038.pdf)
 
 A autoridade competente publica um relatório de avaliação do PNGCIRR, tendo em conta o acompanhamento dos indicadores de desempenho e a experiência operacional recolhida. O relatório de avaliação é publicado previamente a cada ciclo de revisão.
 
@@ -1385,3 +1517,5 @@ A revisão e atualização do PNGCIRR tem por base os relatórios de avaliação
 (99) Atual Plataforma Resíduos Radioativos da APA, I. P.
 
 (100) O procedimento adotado ainda pela COMRSIN e presentemente pela APA, I. P., permite a exclusão de resíduos radioativos contendo NORM, que possuam concentrações de atividade ligeiramente superiores aos níveis de liberação, mas ainda assim inferiores aos níveis de isenção previstos para a prática (cf. anterior [Portaria n.º 44/2015](https://diariodarepublica.pt/dr/detalhe/portaria/44-2015-66558696), de 20 de fevereiro, e atual [Portaria n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/portaria/138-2019-122279883), de 10 de maio).
+
+115958405

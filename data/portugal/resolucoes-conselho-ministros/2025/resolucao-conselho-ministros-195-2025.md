@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/195/2025/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/195-2025-986558785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bf169d42fbbc87d006028fb9e996f9e7b2fdf415bc8df8f3e7c57466d39268c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dff43c040712dff9d7e11a2f81a8bba1f57287afa54940e1f55cb934324210da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,18 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Governo XXV
 - Instituto Português do Desporto e Juventude
 - Jogos Olímpicos
 - LOS Angeles
 - Ministro da Cultura Juventude e Desporto
-- Governo XXV
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:84/2022
+  label: Altera, a partir de 17 de dezembro de 2025, os n.ºs 1 e 2 da Resolução do Conselho de Ministros n.º 84/2022, de 28
+    de setembro, Diário da República n.º 188/2022, Série I
+  source: null
+  date: '2022-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/84/2022/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/84/2022/09/28/p/dre
+- type: cites
+  target: pt:dre:201509740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:50Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +158,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 2 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas a inscrever no orçamento do IPDJ, I. P., por contrapartida de verbas a transferir do capítulo 60 - Despesas excecionais, gerido pela Entidade do Tesouro e Finanças, ficando autorizado o respetivo pagamento em 2025.
 
-3 - Alterar os n.<sup>os</sup>1 e 2 da [Resolução do Conselho de Ministros n.º 84/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2022-201509740), de 28 de setembro, que passam a ter a seguinte redação:
+3 - Alterar os n.os1 e 2 da [Resolução do Conselho de Ministros n.º 84/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2022-201509740), de 28 de setembro, que passam a ter a seguinte redação:
 
 «1 - Autorizar a realização da despesa relativa à execução do Programa de Preparação Olímpica Paris 2024, até ao montante global de € 23 000 000,00.
 
@@ -151,3 +177,5 @@ d) Em 2025 - € 5 800 000,00.»
 5 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 20 de novembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119880741

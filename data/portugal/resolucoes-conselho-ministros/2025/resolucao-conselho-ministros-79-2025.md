@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07600/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79/2025/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2025-915381294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c60b32117e2957b4a44f831f2281dd1ef3c56730443cc4e695939a0b986af2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 410a706afb352283606b1450557af9ac96b65f5de6acb8ed7d1f65e8bbc23e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Conselho de Administração
 - Mandato
 - Nomeação
 - Vice-presidente
 - Vogal
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
 relationships:
 - type: amended_by
   target: pt:dre:924201273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:924201273:por
+  label: Confirmada, a designação, para o cargo de vice-presidente de Rui Nuno Garcia de Pina Neves Baleiras e para o cargo
+    de vogal de Maria Paula dos Reis Vaz Freire, ambos do conselho de administração da Autoridade de Supervisão de Seguros
+    e Fundos de Pensões (ASF),clarificando que a vogal Maria Paula dos Reis Vaz Freire, com efeitos a 11 de Julho de 2025,
+    substitui no mesmo cargo, Manuel de Herédia Caldeira Cabral, cujo mandato cessou no final do ano de 2024, do conselho
+    de administração da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), efetuada pela presente Resolução pelo(a)
+    Resolução do Conselho de Ministros n.º 107/2025 - Diário da República n.º 131/2025, Série I de 2025-07-10, nos termos
+    do seus n.ºs 1 e 2
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/107-2025-924201273
+  date: '2025-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2015/01/06/p/dre
   label: null
@@ -113,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2019/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2019/05/23/p/dre
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115879178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122376529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203898240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911678593:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:48Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +178,7 @@ validation:
 
 Os estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), aprovados em anexo ao [Decreto-Lei n.º 1/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), de 6 de janeiro, alterado pelo [Decreto-Lei n.º 59/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2018-115879178), de 2 de agosto, estabelecem, no seu artigo 12.º, que o conselho de administração é composto por um presidente e até quatro vogais, ocupando um deles o cargo de vice-presidente sempre que a composição total do órgão seja de cinco membros, escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela área das finanças.
 
-A designação efetua-se por resolução do Conselho de Ministros, após audição e parecer da comissão competente da Assembleia da República, precedida de parecer da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), relativo à adequação do perfil às funções a desempenhar, nos termos dos n.<sup>os</sup>2 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro (doravante designada LQER).
+A designação efetua-se por resolução do Conselho de Ministros, após audição e parecer da comissão competente da Assembleia da República, precedida de parecer da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), relativo à adequação do perfil às funções a desempenhar, nos termos dos n.os2 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro (doravante designada LQER).
 
 De acordo com o disposto no n.º 1 do artigo 13.º dos respetivos estatutos, o mandato dos membros do conselho de administração da Autoridade de Supervisão de Seguros e Fundos de Pensões tem a duração de seis anos, não sendo renovável.
 
@@ -139,17 +186,17 @@ Na sequência da renúncia ao cargo apresentada pela administradora designada pe
 
 Por conseguinte, torna-se indispensável e urgente proceder à designação de, pelo menos, um vice-presidente e um vogal, sob pena de aquele órgão poder vir a ficar, em breve, sem quórum para assegurar a gestão da entidade.
 
-Nos termos e para os efeitos do disposto nos n.<sup>os</sup>3 e 4 do artigo 17.º da LQER, as personalidades indigitadas para os referidos cargos foram objeto de avaliação e parecer favorável da CReSAP, através da Deliberação n.º 6/2025, aprovada no dia 27 de janeiro, bem como da subsequente audição na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, a qual aprovou, em 17 de março de 2025, os respetivos pareceres fundamentados.
+Nos termos e para os efeitos do disposto nos n.os3 e 4 do artigo 17.º da LQER, as personalidades indigitadas para os referidos cargos foram objeto de avaliação e parecer favorável da CReSAP, através da Deliberação n.º 6/2025, aprovada no dia 27 de janeiro, bem como da subsequente audição na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, a qual aprovou, em 17 de março de 2025, os respetivos pareceres fundamentados.
 
 Por conseguinte, a despeito da dissolução da Assembleia da República e, bem assim, da fixação do dia 18 de maio de 2025 para a eleição dos Deputados àquela Assembleia, pelo [Decreto do Presidente da República n.º 31-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-a-2025-911678593), de 19 de março, dada a vacatura dos cargos em causa e a urgência da designação, torna-se imperioso proceder desde já à designação de novos membros para aqueles cargos, naturalmente sujeita à confirmação pelo Governo que vier a ser empossado na sequência e em resultado daquele ato eleitoral, nos termos do disposto no n.º 7 do artigo 17.º da LQER.
 
 Assim:
 
-Nos termos dos artigos 12.º e 13.º dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões, aprovados em anexo ao [Decreto-Lei n.º 1/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), de 6 de janeiro, alterado pelo [Decreto-Lei n.º 59/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2018-115879178), de 2 de agosto, dos n.<sup>os</sup>2 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 12.º e 13.º dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões, aprovados em anexo ao [Decreto-Lei n.º 1/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), de 6 de janeiro, alterado pelo [Decreto-Lei n.º 59/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2018-115879178), de 2 de agosto, dos n.os2 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças, para os cargos de vice-presidente e de vogal do conselho de administração da Autoridade de Supervisão de Seguros e Fundos de Pensões, respetivamente, Rui Nuno Garcia de Pina Neves Baleiras e Maria Paula dos Reis Vaz Freire, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciadas nas respetivas notas curriculares e nas conclusões dos pareceres fundamentados da Comissão de Orçamento, Finanças e Administração Pública, da Assembleia da República, que constam, respetivamente, dos anexos i e ii da presente resolução e da qual fazem parte integrante.
 
-2 - Determinar que os mandatos do vice-presidente e da vogal ora designados têm a duração, respetivamente, de seis anos e de cinco anos e seis meses, nos termos do n.º 6 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e sem prejuízo do disposto na parte final do n.º 7 da mesma disposição.
+2 - Determinar que os mandatos do vice-presidente e da vogal ora designados têm a duração, respetivamente, de seis anos e de cinco anos e seis meses, nos termos do n.º 6 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e sem prejuízo do disposto na parte final do n.º 7 da mesma disposição.
 
 3 - Determinar que a presente resolução produz efeitos a 21 de abril de 2025.
 
@@ -231,7 +278,7 @@ A - Rui Nuno Garcia de Pina Neves Baleiras:
 
 «Parte IV - Conclusões
 
-A Assembleia da República, através da 5.ª Comissão - Orçamento, Finanças e Administração Pública, procedeu à audição do Doutor Rui Nuno Garcia de Pina Neves Baleiras, personalidade indigitada para o cargo de Vice-Presidente do Conselho de Administração da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
+A Assembleia da República, através da 5.ª Comissão - Orçamento, Finanças e Administração Pública, procedeu à audição do Doutor Rui Nuno Garcia de Pina Neves Baleiras, personalidade indigitada para o cargo de Vice-Presidente do Conselho de Administração da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), nos termos e para os efeitos dos n.os3 e 4 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
 
 Nos termos da Lei-Quadro das Entidades Reguladoras, a escolha dos membros do Conselho de Administração faz-se ‘de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções’, devendo, em síntese, o perfil da personalidade indigitada ser compatível com a função a desempenhar.
 
@@ -241,8 +288,10 @@ B - Maria Paula dos Reis Vaz Freire:
 
 «Parte IV - Conclusões
 
-A Assembleia da República, através da 5.ª Comissão - Orçamento, Finanças e Administração Pública, procedeu a audição da Doutora Maria Paula dos Reis Vaz Freire, personalidade indigitada para o cargo de Vogal do Conselho de Administração da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
+A Assembleia da República, através da 5.ª Comissão - Orçamento, Finanças e Administração Pública, procedeu a audição da Doutora Maria Paula dos Reis Vaz Freire, personalidade indigitada para o cargo de Vogal do Conselho de Administração da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), nos termos e para os efeitos dos n.os3 e 4 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
 
 Nos termos da Lei-Quadro das Entidades Reguladoras, a escolha dos membros do Conselho de Administração faz-se ‘de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções’, devendo, em síntese, o perfil da personalidade indigitada ser compatível com a função a desempenhar.
 
 Com base na avaliação que foi possível fazer sobre o perfil da indigitada, é entendimento da 5.ª Comissão que a Doutora Maria Paula dos Reis Vaz Freire reúne os requisitos necessários para o exercício do cargo para que se encontra indigitada.»
+
+118952449

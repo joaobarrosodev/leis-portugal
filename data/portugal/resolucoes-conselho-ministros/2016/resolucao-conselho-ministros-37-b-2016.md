@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2032-(2) a 2032-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/37-b/2016/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-b-2016-74843536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 977cdf994e8be10f151f5665ae744c9514c00d978cb192eff041819691bf5860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eec2290a50a512962323d40ee1605de2a6774594a92b889693c6316c033c77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Autorização de Despesas
-- Empresa
-- Titulo de Transporte
 - Comparticipação do Estado
 - Contrato de Concessão
 - Contrato Programa
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Lisboa
-- Secretaria Geral
+- Empresa
 - Indemnização Compensatória
 - Instituto da Mobilidade e dos Transportes
+- Lisboa
 - Ministério do Ambiente
 - Passe Social
-- Serviço Público
-- Presidência do Conselho de Ministros
-- Soflusa-sociedade Fluvial de Transportes
-- Transtejo
-- Autarquia Local
 - Porto
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+- Serviço Público
+- Soflusa-sociedade Fluvial de Transportes
+- Titulo de Transporte
+- Transtejo
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -119,16 +119,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/36/2012/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/36/2012/02/08/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74126124:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:50Z'
   warnings: []
   errors: []
 ---
@@ -203,10 +231,14 @@ d) A Secretaria-Geral da Presidência do Conselho de Ministros a processar as in
 
 Presidência do Conselho de Ministros, 30 de junho de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
 
-## ANEXO I — (a que se referem os n.os 8 e 12)
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf)
+(a que se referem os n.os 8 e 12)
 
-## ANEXO II — (a que se refere o n.º 13)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf)
+ANEXO II
+
+(a que se refere o n.º 13)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/12401/0000200004.pdf)

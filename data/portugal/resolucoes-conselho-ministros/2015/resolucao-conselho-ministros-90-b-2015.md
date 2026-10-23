@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 219/2015, 1º Suplemento, Série I de 2015-11-09
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9470-(7) a 9470-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/21901/0000700015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/90-b/2015/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-b-2015-70961384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75dbfb56b7e83002b9fbabcdb18821f22b9f2b9c1135fa10472857dfec3bd9da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f93041e171e80b64a70ebdde18ea4bb2e43d81ce099fc33aac28ac4e8fa6a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ subjects:
 - Conselho de Ministros
 - Deliberação da Reunião de Secretários de Estado
 - Deliberação do Conselho de Ministros
+- Governo
+- Governo XX
 - Legística
-- Primeiro-ministro
 - Ministro
-- Presidente do Conselho de Ministros
+- Ministro da Presidência
+- Ministro da Presidência e do Desenvolvimento Regional
 - Presidência do Conselho de Ministros
+- Presidente do Conselho de Ministros
+- Primeiro-ministro
+- Processo Legislativo
 - Regimento
 - Reunião de Secretários de Estado
-- Ministro da Presidência
-- Governo
-- Processo Legislativo
 - Vice-primeiro Ministro
-- Governo XX
-- Ministro da Presidência e do Desenvolvimento Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249-a/2015/11/09/p/dre
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2010/10/11/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70961383:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:16Z'
   warnings: []
   errors: []
 ---

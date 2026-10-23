@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2020-135391594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66a4ae2695c47e35d779ed36a3d7cc9db6ffd553d4ba2af27f44d36f32b6adf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10f093bac3865a1e7184fb6edd30d74e055179eaa66feb468674b2fde713d42e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,95 +65,95 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
 - Ação Social Escolar
-- Função Pública
-- Insolvência
+- Administração Pública
+- Agricultura
 - Águas de Portugal
 - Amianto
-- Pobreza
-- Empreendedorismo
-- Prevenção de Incêndios
-- Pessoal de Saúde
-- Financiamento
+- Apoio à Exportação
+- Apoio Domiciliário
+- Autarquia Local
 - Banco de Fomento Nacional
-- Empresa
+- Banco Português de Fomento
 - Cadastro Geométrico
-- Turismo
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Política Fiscal
-- Terceira Idade
-- Finanças Locais
+- Comércio Eletrónico
+- Comércio Local
+- Contratação de Pessoal
 - Contribuições da Segurança Social
+- Contribuições e Impostos
+- Criação de Emprego
+- Desemprego
+- Desenvolvimento Económico
 - Desenvolvimento Social
+- Diversidade Biológica
+- Doença Infecciosa
+- Economia Azul
+- Economia Social
+- Eficiência Energética
+- Empreendedorismo
+- Emprego
+- Empresa
+- Ensino Superior
 - Ensino Superior Politécnico
-- Proteção da Floresta
-- Saúde Pública
-- União Europeia
-- Administração Pública
-- Serviço Nacional de Saúde
-- INA
-- Rendimento Mínimo Garantido
+- Epidemia
+- Estabelecimento de Ensino
+- Finanças Locais
+- Finanças Regionais
+- Financiamento
+- Formação Profissional
+- FSE
+- Função Pública
+- Fundo Ambiental
 - Fundo de Apoio Municipal
 - Fundos CE
-- Recrutamento de Pessoal
-- Contribuições e Impostos
+- Habitação
+- INA
 - Inflação
-- Apoio à Exportação
+- Insolvência
 - Instituição Financeira de Desenvolvimento
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto do Emprego e Formação Profissional
 - Investimento Público
-- Pagamento por Conta
-- Tribunal de Contas
 - LAY OFF
-- Finanças Regionais
 - Linha de Crédito
-- FSE
-- Contratação de Pessoal
-- Criação de Emprego
 - Mercado de Capitais
 - Mercado de Emprego
-- Instituto da Habitação e da Reabilitação Urbana
-- Segurança Rodoviária
-- Proteção do Ambiente
-- Doença Infecciosa
-- Epidemia
-- Diversidade Biológica
-- Proteção à Infância
-- Desenvolvimento Económico
-- Política Económica
-- Política Social
-- Estabelecimento de Ensino
-- Primeiro Emprego
-- Economia Social
-- Desemprego
-- Rendimento Social de Inserção
-- Emprego
-- Protecção à Juventude
-- Apoio Domiciliário
+- Mercado do Trabalho
+- Pagamento por Conta
 - Pequenas e Médias Empresas
-- Teletrabalho
-- Habitação
-- Ensino Superior
-- Agricultura
+- Pessoal de Saúde
+- Pobreza
+- Política Económica
+- Política Fiscal
+- Política Social
+- PORTUGAL 2020
+- Prevenção de Incêndios
+- Primeiro Emprego
+- Programa de Estabilização Económica e Social
+- Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública
+- Programa Operacional de Apoio às Pessoas Mais Carenciadas
+- Proteção à Infância
+- Proteção da Floresta
+- Proteção do Ambiente
+- Protecção à Juventude
+- Recrutamento de Pessoal
+- Rendimento Mínimo Garantido
+- Rendimento Social de Inserção
+- Saúde Pública
+- Segurança Rodoviária
 - Segurança Social
 - Seguro de Créditos
-- Comércio Eletrónico
-- Eficiência Energética
-- Mercado do Trabalho
+- Serviço Nacional de Saúde
 - Sociedade de Investimento
-- Abono de Família
 - Subsídio Social de Desemprego
+- Teletrabalho
+- Terceira Idade
 - Transferência de Verbas
 - Transporte
-- Autarquia Local
-- PORTUGAL 2020
-- Programa Operacional de Apoio às Pessoas Mais Carenciadas
-- Fundo Ambiental
-- Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública
-- Programa de Estabilização Económica e Social
-- Comércio Local
-- Banco Português de Fomento
-- Economia Azul
+- Tribunal de Contas
+- Turismo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:203083713:por
@@ -179,16 +179,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/198/2019/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/198/2019/12/27/p/dre
+- type: cites
+  target: pt:dre:127582894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133250480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:23Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +267,7 @@ Cenário macroeconómico 2020-2021
 
 (taxa de variação, em percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
 
 Estima-se que a pandemia tenha um efeito negativo na procura externa relevante para as exportações portuguesas em 2020, prevendo-se uma redução de 15,4 % nas exportações, após registar-se um crescimento de 3,7 % em 2019. Parte deste efeito reflete uma redução nas exportações de serviços do setor do turismo, onde o impacto da pandemia se espera particularmente severo.
 
@@ -447,7 +467,7 @@ O pagamento pela empresa da totalidade das horas trabalhadas;
 
 A progressiva redução da isenção das contribuições para a Segurança Social e a compensação da perda de receita da segurança social pelo Orçamento do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
 
 Condicionalidades:
 
@@ -775,7 +795,7 @@ Responsáveis: MAAC (AdP)
 
 Principais Intervenções a Desenvolver em 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
 
 Conservação Ferroviária:
 
@@ -805,7 +825,7 @@ Montante: 81 M(euro) + 98 M(euro)
 
 Responsáveis: MIH (IP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
 
 2.5.4.5 - Conservação e reabilitação do parque habitacional do Instituto da Habitação e da Reabilitação Urbana, I. P.
 
@@ -985,7 +1005,7 @@ O SNS tem um elevado número de profissionais de apoio em idade próxima da refo
 
 Sem prejuízo das contratações de outros profissionais de saúde ao abrigo de procedimentos concursais específicos, prevê-se a contratação de profissionais de saúde para atividades de apoio e para a prestação direta de cuidados, sempre que possível, conferindo estabilidade no emprego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/110a00/0000200037.pdf)
 
 Montante: 29 M(euro)
 
@@ -1712,3 +1732,5 @@ Permitir que, nas mesmas situações, caso os planos prestacionais em curso term
 Destinatários: Empresas em dificuldades
 
 Responsáveis: MEF/MTSSS
+
+100000244

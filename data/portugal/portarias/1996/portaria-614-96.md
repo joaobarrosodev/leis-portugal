@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/614/1996/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1996-175548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5734a1043d405eb0666d7ecf9a56a46dde3a96b1e921124f383165fda65cacb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee46eeff0277a7386cf9040079cbce7f1e0f65e7249b1f117a50c3bf9b3c47e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- Criação de Lugares
 - Condutor
+- Criação de Lugares
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Quadro de Pessoal
@@ -77,16 +77,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:02Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e Adjunto, que ao quadro de pesso
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 30 de Setembro de 1996.**
+Assinada em 30 de Setembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/250b00/37943794.pdf))](https://files.diariodarepublica.pt/1s/1996/10/250b00/37943794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/250b00/37943794.pdf)

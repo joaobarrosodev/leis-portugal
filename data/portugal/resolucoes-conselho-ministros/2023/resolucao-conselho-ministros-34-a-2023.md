@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 78/2023, 1º Suplemento, Série I de 2023-04-20
   number: '78'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11-(2) a 11-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34-a/2023/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-a-2023-212137682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47d4ec78dd289efb1d927d8d5412dc188d6be1722b4909d26858490afeae7f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8453699685c7247371ed461d5dfb0eef4a4fc58ac5213ba76f737d0b512e2050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56152680:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:03Z'
   warnings: []
   errors: []
 ---
@@ -160,3 +168,5 @@ Oradora convidada nas mais relevantes conferências internacionais da área de p
 Formadora em cursos destinados a juízes e economistas de concorrência no âmbito de programas financiados pela UE e dos centros regionais de concorrência da OCDE;
 
 Representante da AdC em reuniões dos Economistas Chefe da European Competition Network, da International Competition Network e do OCDE Competition Committee, entre outras.
+
+116396875

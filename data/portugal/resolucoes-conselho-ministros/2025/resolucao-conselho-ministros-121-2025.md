@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/121/2025/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-2025-928506359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f315d8b66625cd398cbec53cb46e08779b287ff4fe1e499e87f6906783af5c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca825a6332672511eaf20740547f1ce119f685edb80a5a67837695aef89648d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reforma da Administração Pública
-- Conselho de Ministros
 - Administração Pública
+- Conselho de Ministros
+- Governo XXV
 - Grupo de Trabalho
+- Ministro Adjunto e da Reforma do Estado
 - Orgânica
 - Reforma
-- Ministro Adjunto e da Reforma do Estado
-- Governo XXV
+- Reforma da Administração Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-a/2024/07/02/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+- type: cites
+  target: pt:dre:870757937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876110681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:08Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +122,7 @@ Melhorar os serviços públicos ao cidadão e às empresas, requer dos governant
 
 Para ser bem-sucedida, a Reforma do Estado terá de ser tarefa premente e permanente de cada membro do Governo, em estreita coordenação com o Ministro Adjunto e da Reforma do Estado.
 
-O XXIV Governo Constitucional estabeleceu um conjunto de princípios e objetivos fundamentais da Reforma, vertidos em instrumentos como os Decretos-Leis n.<sup>os</sup>[43-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937) e [43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), ambos de 2 de julho. Foram dados passos importantes para a criação de um verdadeiro Centro de Governo, com a criação da Secretaria-Geral do Governo, com o processo em curso de transferência de atribuições de antigas Secretarias-Gerais para o centro do Governo, e com a valorização de carreiras especializadas de apoio à decisão governativa. O XXV Governo Constitucional reforça a ambição, nomeando um Ministro Adjunto e da Reforma do Estado e colocando o tema no centro da agenda transformadora.
+O XXIV Governo Constitucional estabeleceu um conjunto de princípios e objetivos fundamentais da Reforma, vertidos em instrumentos como os Decretos-Leis n.os[43-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937) e [43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), ambos de 2 de julho. Foram dados passos importantes para a criação de um verdadeiro Centro de Governo, com a criação da Secretaria-Geral do Governo, com o processo em curso de transferência de atribuições de antigas Secretarias-Gerais para o centro do Governo, e com a valorização de carreiras especializadas de apoio à decisão governativa. O XXV Governo Constitucional reforça a ambição, nomeando um Ministro Adjunto e da Reforma do Estado e colocando o tema no centro da agenda transformadora.
 
 Assim, para além de pretender continuar o trabalho em curso, o XXV Governo Constitucional considera necessário ir mais longe, assegurando o compromisso de todas as áreas governativas para a Reforma, que deverá assentar numa abordagem estruturada em dois níveis: (i) Reforma Orgânica e (ii) Transformação Organizacional.
 
@@ -201,3 +217,5 @@ c) No início do segundo semestre de 2026 (ou antes, nos ministérios com graus 
 8 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 31 de julho de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119420814

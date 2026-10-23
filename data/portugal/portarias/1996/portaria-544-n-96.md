@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 231/1996, 1º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3500-(10) a 3500-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b01/00100011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-n/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-n-1996-391452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a06f56c1281fb2b7f74fb9cc9d193aec3ac88d026ed3d77a6a13e7661522049c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b56fc7af03f1ebc9c8bf527dd1f2bd637400c047422900c7b6bf2019e0b8610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almodôvar
-- Castro Verde
 - CAÇA
+- Castro Verde
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:494262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483897:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com a redacção dada pelas Port\
+    \ 844/98 de 02-Out e 1160/2002 de 29-Ago, pela PORT.1119/2003.01.10.2003.MECO, DR.IS-B [227] de 01.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1119-2003-483897
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:245117:por
+  label: "Anexados vários prédios rústicos à zona de caça turística pela PORT.844/98.1998.10.02.MECO, DR.IS-B [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/844-1998-245117
+  date: '1998-10-02'
+- type: amended_by
+  target: pt:dre:174087:por
+  label: "Anexado um prédio rústico à zona de caça turística pela PORT.1160/2002.2002.08.29.MECO, DR.IS-B [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2002-174087
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:494262:por
+  label: "Renovada por um período de 12 anos a concessão da zona de caça turística do Poço Durão e do Neves de Tizelas, concessionada\
+    \ pelo presente diploma, na redacção das Ports 844/98 de 02-Out, 1160/2002 de 29-Ago e 1119/2003 de 01-Out, pela PORT.585/2009.02.06.2009.MAOTDR,\
+    \ DR.IS [106] de 02.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-2009-494262
+  date: '2009-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -84,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:44Z'
   warnings: []
   errors: []
 ---
@@ -132,8 +175,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 26 de Setembro de 1996.**
+Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b01/00100011.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b01/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b01/00100011.pdf)

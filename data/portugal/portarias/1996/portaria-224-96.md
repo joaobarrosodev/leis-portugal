@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/1996/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-1996-428051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8c77cf52eec30b4ab4ffcbf336433142a402e258904d1e6a9db9864f662215a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a335daa7d40b83985327d6f837ecb6d1f84ebe69158972b527e75c99266675ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Departamento de Relações Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Relações Internacionais de Segurança Social
 - Destacamento de Pessoal
+- Empresa
 - País Estrangeiro
 - Regime Geral da Segurança Social
 - Segurança Social
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/1993/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/1993/03/05/p/dre
+- type: cites
+  target: pt:dre:626418:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:15Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +123,6 @@ Manda o Governo, pelo Ministro da Solidariedade e Segurança Social, o seguinte:
 
 Ministério da Solidariedade e Segurança Social.
 
-**Assinada em 27 de Maio de 1996.**
+Assinada em 27 de Maio de 1996.
 
 Pelo Ministro da Solidariedade e Segurança Social, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social.

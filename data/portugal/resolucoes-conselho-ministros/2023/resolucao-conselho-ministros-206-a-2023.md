@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 250/2023, 2º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 342-(6) a 342-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25002/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/206-a/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/206-a-2023-835959022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fbcb5256c341f707b76ab7db1f5772e5d7ec82f3d2e32f96e779ac18ff76f84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d351f52950e77372706d9707bbc5d2874dbc9dda7dd2793ce0e885ef5293377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Agrícola
 - Equipa de Projecto
-- Apoio ao Investimento
-- Prorrogação de Prazo
 - PDR 2020
 - Programa Nacional de Regadio
+- Prorrogação de Prazo
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:133/2018
+  label: Altera, a partir de 30 de dezembro de 2023, o n.º 14 (prorrogando a duração da UEP do PNRegadios até 2028) e o anexo
+    i e revoga o anexo ii à Resolução do Conselho de Ministros n.º 133/2018, de 12 de outubro, Diário da República n.º 197/2018,
+    Série I
+  source: null
+  date: '2018-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/133/2018/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/133/2018/10/12/p/dre
+- type: cites
+  target: pt:dre:116649879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:42Z'
   warnings: []
   errors: []
 ---
@@ -176,10 +191,10 @@ O investimento previsto no âmbito do PNRegadios ascende a 608 milhões de euros
 
 A respetiva repartição temporal é a seguinte:
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (Milhões de euros) |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) | (Milhões de euros) |
 |  | Até 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | Total |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Investimento total ... | 33 | 31 | 43 | 22 | 17 | 72 | 37 | 62 | 126 | 117 | 48 | 608 |
 
 6 - [...]
@@ -189,3 +204,7 @@ A respetiva repartição temporal é a seguinte:
 7 - [...]
 
 [...]
+
+117208178
+
+.Tbl1 { text-align:right; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:7.5; vertical-align:bottom; } .Tbl2 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

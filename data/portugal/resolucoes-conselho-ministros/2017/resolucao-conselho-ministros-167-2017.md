@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/167/2017/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/167-2017-114133923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:11:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4a759c77653b192b4731b2ac355cd9a9ca42a07499e3eb32150a5e808e480dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d4f44148a4d499c73aaca558f1747daaeb47923704ec20b8314f0f0a8f345f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Incêndio
-- Prevenção de Incêndios
 - Monumento Natural
 - Parque Natural de Montesinho
 - Parque Natural do Douro Internacional
 - Parque Natural do Tejo Internacional
 - Património Natural
+- Prevenção de Incêndios
 - Reserva Natural
 - Reserva Natural da Serra da Malcata
 - Vila Velha de Ródão
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:121748968:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121748968:por
+  label: Alterado o n.º 6 do ponto iii do anexo pelo(a) Resolução do Conselho de Ministros n.º 62/2019 - Diário da República
+    n.º 64/2019, Série I de 2019-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/62-2019-121748968
+  date: '2019-04-01'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -129,16 +135,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2016/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2016/12/15/p/dre
+- type: cites
+  target: pt:dre:105371716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639904:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:11:56Z'
   warnings: []
   errors: []
 ---
@@ -243,11 +297,11 @@ b) Proceder à aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 5 - Fontes de financiamento
 
@@ -311,11 +365,11 @@ b) Proceder à aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 5 - Fontes de financiamento
 
@@ -407,11 +461,11 @@ b) Proceder à aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 5 - Fontes de financiamento
 
@@ -491,11 +545,11 @@ b) Proceder à aquisição de viatura e respetivo equipamento da equipa.
 
 3 - Estimativa orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 4 - Cronograma financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0585805863.pdf)
 
 5 - Fontes de financiamento
 

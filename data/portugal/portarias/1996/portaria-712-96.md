@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/284b00/44074408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/712/1996/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1996-186760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 779ef9326fab57244f2cb7506553c4c2290f8e86fcf4afffcefe7a5c125d50d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe5ba4617136eced141c0e96894cd1fbd0df293b65ad3fb0a892069c2af9984b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
+- Aditivo Alimentar
 - Aproximação das Legislações
 - CEE
-- Saúde Pública
-- Aditivo Alimentar
-- Proteção do Consumidor
 - Indústria Alimentar
+- Produto Alimentar
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 - Solvente
 relationships:
 - type: amended_by
@@ -101,16 +101,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/263/1994/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/263/1994/04/30/p/dre
+- type: repealed_by
+  target: pt:dre:235926:por
+  label: "Revogado pelo DEC LEI.304/98.1998.10.07.MADRP DR.IS-A [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1998-235926
+  date: '1998-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:54Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +138,6 @@ Manda o Governo, pelos Ministros da Economia, da Agricultura, do Desenvolvimento
 
 Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e do Ambiente.
 
-**Assinada em 15 de Novembro de 1996.**
+Assinada em 15 de Novembro de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

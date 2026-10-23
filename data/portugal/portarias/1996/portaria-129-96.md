@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/129/1996/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-1996-570977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1f0ec92bea6f8ecbf26a53d2c8b870a2656108e80f04415a72009761d32d9a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17beac8d0f68f0c629296207be141caf3324c2b9cac1ca685cf753183eaa4f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
+- Emprego
 - Formação Profissional
-- Indústria Têxtil
 - Indústria do Vestuário e Confecção
+- Indústria Têxtil
+- Proteção no Desemprego
 - Reestruturação Industrial
 - VALE do AVE
-- Emprego
-- Proteção no Desemprego
-- Abono de Família
 relationships:
 - type: amended_by
   target: pt:dre:230359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570304:por
+  label: "Prorrogado até 30 de Junho de 1997 o prazo de vigência do presente diploma, pela Port.78/97.1997.02.01.MQE, DR.IS-B\
+    \ [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1997-570304
+  date: '1997-02-01'
+- type: amended_by
+  target: pt:dre:197304:por
+  label: "Prorrogada, até 31 de Dezembro de 1997, a vigência do disposto neste diploma, com excepção da medida especial contida\
+    \ no art. 3º pela Port.792/97.1997.08.29.MQE e MSSS DR.IS-B [199]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/792-1997-197304
+  date: '1997-08-29'
+- type: amended_by
+  target: pt:dre:230359:por
+  label: "Prorrogado até 30 de Junho de 1998, com excepção da medida especial respeitante ao abono de família, o prazo de\
+    \ vigência do presente diploma, pela PORT.57/98.1998.02.06.MTS DR.IS-B [31]\01]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-1998-230359
+  date: '1998-02-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -120,16 +138,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57/1995/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57/1995/06/17/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:57Z'
   warnings: []
   errors: []
 ---
@@ -442,6 +508,6 @@ As medidas previstas na presente portaria produzem efeitos desde 1 de Abril de 1
 
 Ministérios para a Qualificação e o Emprego e da Solidariedade e Segurança Social.
 
-**Assinada em 27 de Março de 1996.**
+Assinada em 27 de Março de 1996.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.

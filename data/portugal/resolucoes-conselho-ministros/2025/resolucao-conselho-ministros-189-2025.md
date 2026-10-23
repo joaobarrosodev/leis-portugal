@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/189/2025/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2025-962603404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b569a8d92482a9dfe6d6d4e2ab68de250475cb95a6ee0de454fb0e005c3b29d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579b3058c77487dc74dfee353f813b8ce48f20999f13da61333fb4ded0fa11ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Ministério da Defesa Nacional
+- Cabo Verde
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Cabo Verde
-- Ministro da Defesa Nacional
-- Paz
 - Direção-Geral de Armamento e Património da Defesa Nacional
 - Governo XXV
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Paz
 relationships:
 - type: cites
   target: celex:32021D0509
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:42Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +136,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 28 de novembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119836978

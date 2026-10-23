@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/131/2021/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-2021-171096337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04226eef9c229bede3de8c684e9943f7222e5bb8de06aa76b980177bbdbffb1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 032776d7c559b68ed6194fb224942d5fc02bf11080d345427351a6e1065477fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Definição de Competências
 - Administração Pública
-- Projeto de Investimento
-- TIC
-- Investimento Público
-- Modernização Tecnológica
+- Agência para a Modernização Administrativa
+- Conselho para as Tecnologias de Informação e Comunicação
+- Definição de Competências
 - Epidemia
+- Estratégia Nacional de Segurança do Ciberespaço
+- Estratégia para a Transformação Digital da Administração Pública
 - Governo Electrónico
 - Internet
-- Sistema de Informação
-- Agência para a Modernização Administrativa
-- Plataforma Eletrónica
-- Conselho para as Tecnologias de Informação e Comunicação
-- Estratégia Nacional de Segurança do Ciberespaço
+- Investimento Público
+- Modernização Administrativa
+- Modernização Tecnológica
 - Plano de Ação para a Transição Digital
-- Plano de Recuperação e Resiliência
-- Estratégia para a Transformação Digital da Administração Pública
 - Plano de Ação Transversal para a Transformação Digital da Administração Pública 2021-2023
+- Plano de Recuperação e Resiliência
+- Plataforma Eletrónica
+- Projeto de Investimento
+- Sistema de Informação
+- TIC
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -126,16 +126,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre
+- type: cites
+  target: pt:dre:107757007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122498962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145012184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156848060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605299:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:00Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +236,7 @@ Presidência do Conselho de Ministros, 26 de agosto de 2021. - Pelo Primeiro-Min
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 1]
 
-# PARTE A — Relatório de Avaliação da Estratégia TIC 2020
+## PARTE A — Relatório de Avaliação da Estratégia TIC 2020
 
 1 - Enquadramento
 
@@ -210,13 +250,13 @@ A Estratégia TIC 2020, na sua atualização de 2018, estimava um investimento t
 
 A Estratégia TIC 2020 permitiu aos organismos da AP operar a transformação digital dos seus processos de negócio e estruturas de suporte. As sinergias criadas entre diferentes áreas e serviços permitiram a melhoria da qualidade de vida dos cidadãos e promoveram a competitividade das empresas. A tabela abaixo apresenta um subconjunto destes projetos emblemáticos desenvolvidos sob a Estratégia e que hoje se apresentam no quotidiano do relacionamento dos cidadãos e empresas com a AP:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Em termos globais, entre 2017 e 2020, foram concluídos 702 projetos (60 %), com um impacto aproximado de 721 milhões de euros de benefícios suportados num investimento de 300 milhões de euros.
 
 Em relação aos três eixos de ação, destacam-se os projetos inseridos no eixo ii - inovação e competitividade, pela relevância para a promoção da melhoria dos serviços da AP em termos de projetos de inovação setorial e serviços eletrónicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Por outro lado, fruto do trabalho colaborativo do «Conselho para as Tecnologias de Informação e Comunicação na Administração Pública» (CTIC), foram identificados três aspetos chave para o avanço da transformação digital da AP, tendo sido constituídos grupos de trabalho para cada um deles e desenvolvidas as ações subsequentes às recomendações coligidas, que se consideram marcos estruturantes:
 
@@ -260,7 +300,7 @@ i) Definir e adotar metodologias comuns, que respeitem a especificidade de cada 
 
 j) Melhorar os mecanismos de reporte de execução e de quantificação e comunicação de resultados obtidos.
 
-# PARTE B — Estratégia para a Transformação Digital da Administração Pública 2021-2026
+## PARTE B — Estratégia para a Transformação Digital da Administração Pública 2021-2026
 
 1 - Enquadramento
 
@@ -362,7 +402,7 @@ i) Objetivos estratégicos - Linha Estratégica I: Serviços Públicos Digitais
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Linha Estratégica II: Valorização dos Dados
 
@@ -376,7 +416,7 @@ i) Objetivos estratégicos - Linha Estratégica II: Valorização dos Dados
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Linha Estratégica III: Arquiteturas de Referência
 
@@ -386,7 +426,7 @@ i) Objetivos estratégicos - Linha Estratégica III: Arquiteturas de Referência
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Linha Estratégica IV: Competências das TIC
 
@@ -400,7 +440,7 @@ i) Objetivos estratégicos - Linha Estratégica IV: Competências das TIC
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Linha Estratégica V: Infraestrutura e Serviços das TIC
 
@@ -412,7 +452,7 @@ i) Objetivos estratégicos - Linha Estratégica V: Infraestrutura e Serviços da
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 Linha Estratégica VI: Segurança e Confiança
 
@@ -424,7 +464,7 @@ i) Objetivos estratégicos - Linha Estratégica VI: Segurança e Confiança
 
 Para esta linha estratégica foram definidos os seguintes objetivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do n.º 1]
 
@@ -444,28 +484,30 @@ O Plano de Ação inclui, assim, as ações de implementação transversal ident
 
 Estima-se que a implementação do Plano de Ação apresente um investimento total de 643 milhões de euros, dos quais pelo menos 80 % através do Plano de Recuperação e Resiliência ou de outras fontes de financiamento europeias e, o remanescente, de acordo com o quadro da respetiva dotação de recursos financeiros das entidades com competências nas matérias específicas, com uma repartição por linha estratégica de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 1 - Linha Estratégica I - Serviços Públicos Digitais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 2 - Linha Estratégica II - Valorização dos Dados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 3 - Linha Estratégica III - Arquiteturas de Referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 4 - Linha Estratégica IV - Competências TIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 5 - Linha Estratégica V - Infraestrutura e Serviços TIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
 
 6 - Linha Estratégica VI - Segurança e Confiança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17700/0001700034.pdf)
+
+114543504

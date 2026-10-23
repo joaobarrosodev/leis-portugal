@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/1996/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-1996-571582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39a16d7f30cedb4f4e6367dc735c6fa44759dbd9212cf5511b3a4616edbfbc68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0392c18ce1cb681e303a48a32cd90b98c82a75766cf91c55b55d2747128f88c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Desenvolvimento Rural
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- QCA
 - Exploração Agrícola
 - Exploração Florestal
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Programa de Apoio à Modernização Agrícola e Florestal
-- Agricultura
+- QCA
 relationships:
 - type: amended_by
   target: pt:dre:649094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149614:por
+  label: "Substituido o quadro referido no num 1 da presente Port, pela PORT.521/97.1997.07.22.MADRP, DR.IS-B [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-1997-149614
+  date: '1997-07-22'
+- type: amended_by
+  target: pt:dre:649094:por
+  label: "Substituido o quadro referido no num 1 pela PORT.969/97.1997.09.15.MADRP, DR.IS-B [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/969-1997-649094
+  date: '1997-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
   label: null
@@ -86,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:00Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +140,12 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Abril de 1996.**
+Assinada em 3 de Abril de 1996.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
 
 QUADRO ANEXO A QUE SE REFERE O N.º 1.º
 
 Organismos para apresentação das candidaturas ao PAMAF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/097b00/09650966.pdf))](https://files.diariodarepublica.pt/1s/1996/04/097b00/09650966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/097b00/09650966.pdf)

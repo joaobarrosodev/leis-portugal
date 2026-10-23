@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 172/1995, 1º Suplemento, Série I-B de 1995-07-27
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4834-(2) a 4834-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/172b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/940-b/1995/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/940-b-1995-402700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b48a0fa43ef3bce62a7bce1801c87ec18da4da6173090673760f44ec219d75f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80e44b22cfec0ddaa2bac4fd8410f0d5a53146e1b60ee549dee1ddb881345bb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574946:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332247:por
+  label: "Revogada pela PORT.552/2001.31.05.2001.MS, DR.IS-B [126] de 31.05.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-2001-332247
+  date: '2001-05-31'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:46Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +121,9 @@ Manda o Governo, pelos Ministros da Saúde e do Emprego e da Segurança Social, 
 
 Ministérios da Saúde e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Julho de 1995.**
+Assinada em 25 de Julho de 1995.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
 ## ANEXO — Regulamento Geral do Concurso da Lotaria Instantânea
 

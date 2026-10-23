@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00700/0009500097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/8/2019/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-2019-117663340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e3789b725106b53ea412ce73aacbd6dd319ac2ea23628c7c4aed26ec8b4d1ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25fe545f42595f089aabf62766a3e0bca4756b235ffd50b9d5af4657f3261eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuste Direto
-- Incêndio
+- Autoridade Nacional de Protecção Civil
 - Autorização de Despesas
 - Avião
 - Chefe do Estado Maior da Força Aérea
-- Concurso Público Internacional
 - Concurso Público
+- Concurso Público Internacional
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Helicóptero
-- Autoridade Nacional de Protecção Civil
 - Equipamento de Combate a Incêndios
 - Governo XXI
+- Helicóptero
+- Incêndio
 relationships:
+- type: amended_by
+  target: pt:dre:118813190:por
+  label: Despacho n.º 1057/2019 - Diário da República n.º 21/2019, Série II de 2019-01-30 (N.º 8)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1057-2019-118813190
+  date: '2019-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -116,16 +121,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/21/2018/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/2018/03/06/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114380263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114819069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116747965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606156:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:05Z'
   warnings: []
   errors: []
 ---
@@ -211,3 +252,5 @@ c) Coadjuva a Força Aérea no acompanhamento da execução do contrato.
 14 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 20 de dezembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111967551

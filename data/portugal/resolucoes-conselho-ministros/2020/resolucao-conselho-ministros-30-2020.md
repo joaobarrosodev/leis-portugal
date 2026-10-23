@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2020-132133788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc977186b4a045c624f788e42e79b88113b1a3df2ca568f7450795698346305
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04bc829df8150e6c0746c43aa5c70285c7aec063396a906135ca18f10a08ae0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Tecnologia da Informação
-- Definição de Competências
-- Agenda Portugal Digital
 - Administração Pública
-- Inclusão Digital
-- Sociedade da Informação
-- Modernização Tecnológica
-- Programa Simplex
-- Página na Internet
-- Internet
-- Portugal Digital
+- Agenda Portugal Digital
 - Chave Móvel Digital
+- Definição de Competências
+- Empresa
 - Estrutura de Missão Portugal Digital
-- Plano de Ação para a Transição Digital
+- Inclusão Digital
+- Internet
 - Medida 1 Programa de Digitalização para as Escolas
+- Medida 10 Aumento da Oferta e Tradução de Serviços Digitais de Interesse à Internacionalização no ePortugal
+- Medida 11 Estratégia Cloud para a Administração Pública
+- Medida 12 Simplificação da Contratação de Serviços de Tecnologias de Informação e Comunicação pela Administração Pública
 - Medida 2 Programa de Formação Intensiva e Especializada na Área Digital-UpSkill
 - Medida 3 Programa de Inclusão Digital de Adultos
 - Medida 4 Tarifa Social de Acesso a Serviços de Internet
@@ -89,14 +85,25 @@ subjects:
 - Medida 7 Programa da Capacitação Digital de PMEs no Interior +CO3SO Digital
 - Medida 8 Digital Innovation Hubs para o Empreendedorismo
 - Medida 9 Digitalização dos 25 Serviços Públicos mais Utilizados pelos Cidadãos e Empresas
-- Medida 10 Aumento da Oferta e Tradução de Serviços Digitais de Interesse à Internacionalização no ePortugal
-- Medida 11 Estratégia Cloud para a Administração Pública
-- Medida 12 Simplificação da Contratação de Serviços de Tecnologias de Informação e Comunicação pela Administração Pública
+- Modernização Tecnológica
+- Página na Internet
+- Plano de Ação para a Transição Digital
+- Portugal Digital
+- Programa Simplex
+- Sociedade da Informação
+- Tecnologia da Informação
 relationships:
 - type: amended_by
   target: pt:dre:835994077:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a direção da execução do Plano de Ação para a Transição Digital criado pelo
+    presente diploma seja exercida pelo Primeiro-Ministro pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022,
+    Série I de 2022-05-09, nos termos do n.º 4 do art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -113,16 +120,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:124171136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189514:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:835994077:por
+  label: Revogada, a partir de 30 de dezembro de 2023, com efeitos a partir de 31 de dezembro de 2023, pelo(a) Decreto-Lei
+    n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29 nos termos do artigo 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-2023-835994077
+  date: '2023-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:09Z'
   warnings: []
   errors: []
 ---
@@ -309,13 +330,13 @@ Comprometido com a atuação sobre três principais focos - pessoas, empresas e 
 
 Áreas estratégicas de intervenção para a transição digital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 B.4 - Contributos para o Plano de Ação
 
 No decorrer do processo de definição do Plano de Ação para a Transição Digital, foram analisados 21 programas e estratégias, nacionais e da Comissão Europeia, do domínio digital, quer da esfera pública quer privada, tendo sido identificados e priorizados para cada um dos pilares aqueles que serão acompanhados de forma mais próxima pela Estrutura de Missão Portugal Digital, nomeadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 Num trabalho exaustivo de inventariação de programas, estratégias e outros instrumentos de política, foram examinadas mais de mil iniciativas, as quais foram ainda complementadas com a análise de estratégias e planos de ação de outros países europeus, no âmbito da transição digital.
 
@@ -361,7 +382,7 @@ No âmbito desta simbiose de estratégias importa, desde já, identificar um con
 
 Pilar I - Capacitação e Inclusão Digital das Pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 De entre as iniciativas e ações identificadas supra, existem quatro que merecem particular destaque (assinaladas com *), tendo em conta o seu contributo para a capacitação e inclusão digital das pessoas. Nesse sentido, entende-se ser de enunciar já as medidas abaixo descritas, com respetiva identificação de ações a implementar, benefícios esperados, entidade coordenadora e entidades envolvidas:
 
@@ -487,7 +508,7 @@ III - Transferência de conhecimento científico e tecnológico para a economia.
 
 Pilar II - Transformação digital do tecido empresarial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 No contexto deste Pilar II, e de entre as iniciativas e ações identificadas supra, existem medidas que merecem particular destaque, atento o seu contributo para a transformação digital do tecido empresarial. Nesse sentido, entende-se ser de enunciar já as medidas abaixo descritas, com respetiva identificação de ações a implementar, benefícios esperados, entidade coordenadora e entidades envolvidas:
 
@@ -651,7 +672,7 @@ III - Administração regional e local conectada e aberta.
 
 Pilar III - Digitalização do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 De entre as iniciativas e ações identificadas supra, existem medidas, que no contexto da digitalização do Estado merecem particular destaque (assinaladas com *). Nesse sentido, entende-se ser de enunciar já as medidas abaixo descritas, com respetiva identificação de ações a implementar, benefícios esperados, entidade coordenadora e entidades envolvidas:
 
@@ -759,7 +780,7 @@ VI - Comunicação e promoção.
 
 Catalisação da Transição Digital de Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 D - Modelo de governação
 
@@ -777,19 +798,19 @@ No final, foi obtido um catálogo global com 97 indicadores, divididos por níve
 
 Pilar I - Capacitação e inclusão digital das pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 Pilar II - Transformação digital do tecido empresarial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 Pilar III - Digitalização do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 Catalisação da transição digital de Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07800/0000600032.pdf)
 
 * Fonte - índice de referência:
 
@@ -816,3 +837,5 @@ Sendo a digitalização um conceito volátil e em constante evolução, também 
 Tal como as medidas, também os indicadores de acompanhamento e monitorização poderão evoluir, através da inclusão de novos conceitos ou redefinição das prioridades do Plano de Ação para a Transição Digital, enquanto instrumentos de aferição dos objetivos propostos e metas estabelecidas, promovendo a excelência nacional e melhorando o posicionamento de Portugal nos principais índices de referência a nível europeu e global.
 
 Na era da quarta revolução industrial, o Portugal Digital assume-se assim como o motor de transformação do país. Através da capacitação digital das pessoas, da transformação digital das empresas e da digitalização do Estado, o Portugal Digital vai acelerar Portugal, sem deixar ninguém para trás, e projetar o país no mundo.
+
+113194822

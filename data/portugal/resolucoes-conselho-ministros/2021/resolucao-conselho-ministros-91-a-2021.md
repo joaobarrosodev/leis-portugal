@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/2021, 1º Suplemento, Série I de 2021-07-09
   number: '132'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 61-(5) a 61-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13201/0000500011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91-a/2021/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-a-2021-166981178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3af4d159677699f04dac94b6c74687b140e245057314109f6e6de9603548fc21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3619dbf00a24b4f974931249137384df0ab11502aaf1dd69c24e21f012b03f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,102 +67,108 @@ reuse:
 subjects:
 - Acordo de Schengen
 - Aeroporto
-- PSP
+- ANA
 - Análises Clínicas
-- Rede
-- Crime
-- Equipamento Desportivo
-- Proteção Civil
+- ASAE
+- Atendimento Público
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
+- Autoridade para as Condições do Trabalho
 - Bebida Alcoólica
-- Jogos de Fortuna e Azar
 - Braga
 - Cabeleireiro
-- Lares
-- INEM
+- Casamento
+- Centro de Acolhimento
+- Centro Educativo
+- Cinema
 - Circulação de Pessoas
-- Transporte Marítimo
-- Estabelecimento Comercial
 - Comércio a Retalho
-- Manifestação Cultural
-- Transporte Terrestre
-- Direção Geral da Saúde
 - Comissão Nacional de Protecção Civil
-- Transporte Aéreo
-- Terceira Idade
 - Contra-ordenação
-- Transporte Rodoviário
-- Corpo da Guarda Prisional
-- Transporte Ferroviário
-- Definição de Competências
-- Local de Divertimento
 - Controlo Sanitário
+- Corpo da Guarda Prisional
+- Crime
+- Definição de Competências
+- Desporto
+- Direção Geral da Saúde
+- Direcção Geral de Reinserção e Serviços Prisionais
+- Doença Infecciosa
+- Ensino Básico
 - Ensino Profissional
+- Ensino Secundário
+- Ensino Superior
+- Epidemia
+- Equipamento de Proteção
+- Equipamento Desportivo
 - Equipamento Social
-- Saúde Pública
-- União Europeia
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
+- Estabelecimento Hospitalar
 - Estabelecimento Industrial
+- Estabelecimento Prisional
+- Estrutura de Monitorização da Situação de Calamidade
 - Estudante
 - Feira
 - Fiscalização
-- Lisboa
+- Forças Armadas
 - Fronteiras
 - Funeral
-- Horário de Funcionamento
-- Medicina de Urgência
-- Inquérito
-- Estabelecimento Prisional
-- Isolamento Profiláctico
-- Centro de Acolhimento
-- Ensino Secundário
-- ASAE
-- Massagista de Estética
 - GNR
-- Direcção Geral de Reinserção e Serviços Prisionais
-- Museu
-- Forças Armadas
-- Serviço de Estrangeiros e Fronteiras
-- Organismo do Estado
-- Parque de Diversões
-- Parque Arqueológico
-- Doença Infecciosa
-- Epidemia
-- Polícia Municipal
-- Prestação de Serviços
-- Ensino Básico
-- ANA
+- Horário de Funcionamento
 - Horário de Trabalho
-- Teletrabalho
-- Estabelecimento Hospitalar
-- Centro Educativo
-- Cinema
-- Ensino Superior
+- INEM
+- Infraestrutura Turística
+- Inquérito
+- Isolamento Profiláctico
+- Jogos de Fortuna e Azar
+- Lares
+- Lisboa
+- Local de Divertimento
+- Manifestação Cultural
+- Massagista de Estética
+- Medicina de Urgência
+- Museu
+- Organismo do Estado
+- Parque Arqueológico
+- Parque de Diversões
+- Polícia Municipal
 - Posto de Abastecimento de Combustíveis
-- Casamento
+- Prestação de Serviços
+- Proteção Civil
+- PSP
+- Rede
+- Saúde Pública
+- Serviço de Estrangeiros e Fronteiras
 - Serviços de Urgência
-- Atendimento Público
+- Situação de Calamidade
+- Teletrabalho
+- Terceira Idade
 - Termalismo
 - Trabalhador por Conta de Outrem
 - Tráfego Aéreo
+- Transporte Aéreo
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Fluvial
+- Transporte Marítimo
 - Transporte Público
-- Desporto
-- Autarquia Local
-- Infraestrutura Turística
+- Transporte Rodoviário
+- Transporte Terrestre
+- União Europeia
 - Unidade de Saúde Pública
 - Veículo de Aluguer
 - Veículo de Aluguer sem Condutor
-- Autoridade Nacional de Emergência e Proteção Civil
-- Equipamento de Proteção
-- Estrutura de Monitorização da Situação de Calamidade
-- Situação de Calamidade
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considerada revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da
+    República n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -199,16 +205,48 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2020/912/oj
   label: null
   source: http://data.europa.eu/eli/reco/2020/912/oj
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164955319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165865578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:36Z'
   warnings: []
   errors: []
 ---
@@ -375,7 +413,9 @@ ff) Vagos;
 
 gg) Vila Franca de Xira.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -403,7 +443,9 @@ d) [Anterior alínea c).]
 
 9 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -425,7 +467,9 @@ c) [...].
 
 7 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -467,7 +511,9 @@ b) [...].
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...].
 
@@ -485,7 +531,9 @@ b) [...].
 
 8 - [...].
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...].
 
@@ -535,7 +583,9 @@ Exceções às regras sobre testagem
 
 Sem prejuízo do disposto nas alíneas b) e c) do n.º 1 do artigo anterior e de rastreios a efetuar, designadamente em estabelecimentos educativos, de ensino e de formação profissional ou outras estruturas e respostas dedicadas a crianças e jovens, os menores de 12 anos estão dispensados da obrigação de se sujeitarem a testes de despistagem da infeção por SARS-CoV-2 para efeitos do presente regime.
 
-###### Artigo 9.º-A — Estabelecimentos turísticos ou de alojamento local
+Artigo 9.º-A
+
+Estabelecimentos turísticos ou de alojamento local
 
 1 - O acesso a estabelecimentos turísticos ou a estabelecimentos de alojamento local, independentemente do dia da semana ou do horário, depende da apresentação, pelos clientes, no momento do check-in, de Certificado Digital COVID da UE admitido nos termos do [Decreto-Lei n.º 54-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2021-165865578), de 25 de junho, ou de um teste com resultado negativo, realizado nos termos do artigo seguinte.
 
@@ -547,7 +597,9 @@ Sem prejuízo do disposto nas alíneas b) e c) do n.º 1 do artigo anterior e de
 
 5 - O presente artigo é norma especial e prevalece sobre o artigo 10.º
 
-###### Artigo 9.º-B — Certificado ou teste para acesso a estabelecimentos
+Artigo 9.º-B
+
+Certificado ou teste para acesso a estabelecimentos
 
 Para efeitos do disposto no artigo anterior e nos n.os 3 dos artigos 44.º e 51.º, consoante o que seja aplicável:
 
@@ -570,3 +622,5 @@ iv) A realização de teste rápido de antigénio (TRAg), na modalidade de autot
 6 - Determinar que o n.º 2 da presente resolução, na parte respeitante à alteração ao n.º 3 dos artigos 44.º e 51.º do regime anexo à [Resolução do Conselho de Ministros n.º 74-A/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-a-2021-164955319), de 9 de junho, relativo à testagem, produz efeitos a partir das 15:30 h do dia seguinte ao da publicação da presente resolução.
 
 Presidência do Conselho de Ministros, 8 de julho de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114398734

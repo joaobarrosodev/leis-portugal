@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/15500/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/2025/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2025-928803703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 005e1c347cd6b7d3ed694235318e3164e20a6b4b1ea65ecf859c854b1accef56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be6a6359eef41298e8e7e1f78388ce579eac9178ec46048ebf16edc0aeedad02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Serviços Sociais da Administração Pública
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Ministro de Estado e das Finanças
 - Governo XXV
+- Ministro de Estado e das Finanças
+- Serviços Sociais da Administração Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2007/04/27/p/dre
@@ -103,16 +103,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/129/2023/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/129/2023/10/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223154121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:129/2023
+  label: Revoga, a partir de 14 de agosto de 2025, a alínea c) do n.º 2 da Resolução do Conselho de Ministros n.º 129/2023,
+    de 23 de outubro, Diário da República n.º 205/2023, Série I
+  source: null
+  date: '2023-10-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:12Z'
   warnings: []
   errors: []
 ---
@@ -152,3 +186,5 @@ c) 2028 - € 4 376 332,80.
 6 - Sem prejuízo do disposto no número anterior, determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 7 de agosto de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119422386

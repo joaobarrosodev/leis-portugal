@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18700/0003500040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2022/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2022-201509700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f8339b5427668dec8a51c5974f195f54595c123eaaf65f6aaae295732f23036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa027d92d35007c732f754e16af36ae98340cbbc2c39f62239f869fb380d15ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa de Desenvolvimento Rural
-- Proteção Civil
-- Incêndio
-- Financiamento
+- Agricultura
+- Alimento para Animais
+- Apicultura
+- Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
+- Catástrofe
 - Celorico da Beira
-- Turismo
 - Comissão de Acompanhamento
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Covilhã
 - Definição de Competências
 - Desenvolvimento Social
 - Dotação Orçamental
-- Catástrofe
+- Financiamento
+- Fundo Ambiental
 - Fundo de Emergência Municipal
-- Comissão de Coordenação e Desenvolvimento Regional
 - Gouveia
 - Grupo de Trabalho
-- Bombeiro
+- Guarda
+- Habitação
+- Incêndio
 - Linha de Crédito
 - Manteigas
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Medida N.º 6 Gestão do Risco e Restabelecimento do Potencial Produtivo
 - Ordenamento Florestal
 - Parque Natural da Serra da Estrela
+- PDR 2020
+- Pecuária
+- Plano de Recuperação e Resiliência
+- Política Agrícola
+- Política de Emprego
 - Política de Habitação
 - Política Económica
-- Política Social
-- Prédio Rústico
-- Apicultura
-- Programa de Alargamento da Rede de Equipamentos Sociais
-- Política de Emprego
-- Alimento para Animais
-- Política Agrícola
-- Habitação
-- Pecuária
-- Agricultura
 - Política Florestal
+- Política Social
+- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
+- Prédio Rústico
+- Programa de Alargamento da Rede de Equipamentos Sociais
+- Programa de Desenvolvimento Rural
+- Proteção Civil
 - Segurança Social
 - Seia
 - Subsídio não Reembolsável
+- Turismo
 - Turismo da Serra da Estrela
-- Guarda
-- PDR 2020
-- Fundo Ambiental
-- Medida N.º 6 Gestão do Risco e Restabelecimento do Potencial Produtivo
-- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
-- Autoridade Nacional de Emergência e Proteção Civil
-- Plano de Recuperação e Resiliência
 relationships:
 - type: amended_by
   target: pt:dre:207062864:por
@@ -132,16 +132,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73-b/2022/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73-b/2022/08/29/p/dre
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180830534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187529943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200360506:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:07Z'
   warnings: []
   errors: []
 ---
@@ -301,3 +321,5 @@ i) Outras entidades que se venham a tornar relevantes consoante a área de inter
 10 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 15 de setembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115722313

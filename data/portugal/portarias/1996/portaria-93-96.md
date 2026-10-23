@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/073b00/06110611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/93/1996/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-1996-545982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdaed5e0e833f28b0a44fdc5fca13a494f311f6477eafd67b8175826da1fbd5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 595d3d21461150bc963cd87b8dc95a0f526815fe2b3845e04c98f2d526e44119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Felgueiras
 - Estabelecimento Prisional
+- Felgueiras
 - Recluso
 relationships:
 - type: amended_by
   target: pt:dre:520652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3629661:por
+  label: "Encerrado o estabelecimento prisional, pelo DESP.12764/2006(2ªSérie).06.06.2006.MJ, DR.IIS [117] de 20.06.2006\0\
+    06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12764-2006-3629661
+  date: '2006-06-06'
+- type: cites
+  target: pt:dre:200410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520652:por
+  label: "Revogada a partir de 13.06.2007, extinto o Estabelecimento Prisional Regional de Felgeiras, criado pelo presente\
+    \ diploma e transferidas as suas competências para os demais estabelecimentos prisionais, pelo DEC LEI.192/2007.14.05.2007.MJ,\
+    \ DR.IS [92] de 14.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2007-520652
+  date: '2007-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:09Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +126,6 @@ Manda o Governo, pelo Ministro da Justiça, nos termos do disposto nas alíneas 
 
 Ministério da Justiça.
 
-**Assinada em 1 de Março de 1996.**
+Assinada em 1 de Março de 1996.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

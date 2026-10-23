@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11600/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79/2024/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2024-868787349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f3989df0e8878d83cef7009fe5b1c8b7c7c3526b4eb73e3942307ff4a7623b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a87a9279de4b043151b874be1c01e577cd59859278da5385b19fec486efafc01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Conselho de Administração
-- Setor Empresarial do Estado
+- Exoneração
 - Gestor Público
+- Museus e Monumentos de Portugal
 - Nomeação
 - Presidente
+- Setor Empresarial do Estado
 - Vogal
-- Museus e Monumentos de Portugal
 relationships:
+- type: amends
+  target: pt:numero:despacho:10108-A/2023
+  label: Dissolve, com efeitos a 17 de junho de 2024, o conselho de administração da Museus e Monumentos de Portugal, E. P.
+    E., nomeado pelo Despacho n.º 10108-A/2023, de 29 de setembro, Diário da República n.º 190/2023, 1º Suplemento, Série
+    II
+  source: null
+  date: '2023-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -91,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:03Z'
   warnings: []
   errors: []
 ---
@@ -163,4 +186,6 @@ Foi consultora de nível 1 da UTAM - Unidade Técnica de Acompanhamento e Monito
 
 Foi diretora administrativa e financeira da OPART, Organismo de Produção Artística, E. P. E., entidade onde é quadro, de 2007 a 2014.
 
-Foi diretora financeira e administrativa da Adega de Borba, de 2005 a 2007 e responsável pelo departamento administrativo e financeiro da Jervis Pereira, L.<sup>da</sup>, de 2002 a 2005, pelo departamento administrativo e financeiro da Over & Jervis MCW - Marketing e Comunicação, de 2002 a 2005, e consultora da Jervis Pereira, L.<sup>da</sup>, de 1998 a 2005.
+Foi diretora financeira e administrativa da Adega de Borba, de 2005 a 2007 e responsável pelo departamento administrativo e financeiro da Jervis Pereira, L.da, de 2002 a 2005, pelo departamento administrativo e financeiro da Over & Jervis MCW - Marketing e Comunicação, de 2002 a 2005, e consultora da Jervis Pereira, L.da, de 1998 a 2005.
+
+117805675

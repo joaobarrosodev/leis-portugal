@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24100/0000400009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/106/2020/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-2020-151036059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f20bb08c0eb4aebc78a09b67125da115bff5a805cd09d76bf8d7bec123e1637
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87a713803d1438f9e0ea2eac2feaa48f738622bdbecdc3e7a1498f1891bbdd8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,67 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - Almeida
+- Apoio Domiciliário
 - Assistência Médica
-- Financiamento
-- Turismo
-- Formação Profissional
-- Investigação Científica e Tecnológica
+- Aviação Civil
+- Beja
+- Bragança
+- Castelo Branco
 - Chaves
-- Desenvolvimento Rural
-- Saneamento Básico
-- Mar
 - Covilhã
+- Desenvolvimento Económico
 - Desenvolvimento Regional
+- Desenvolvimento Rural
 - Desenvolvimento Social
 - Elvas
-- Internacionalização Empresarial
-- Política Energética
-- Património Arqueológico
-- Política de Saúde
+- Estratégia Portugal 2030
+- Évora
+- Exploração Florestal
+- Financiamento
+- Formação Profissional
 - Fundão
-- Projeto de Investimento
 - Fundos CE
+- Guarda
+- Internacionalização Empresarial
+- Investigação Científica e Tecnológica
 - Investimento Público
+- Mar
 - Mirandela
+- Modernização do Sector Agrícola
+- Modernização dos Transportes
 - Modernização Industrial
 - Modernização Tecnológica
-- Beja
-- Desenvolvimento Económico
-- Castelo Branco
-- Vila Real
+- Património Arqueológico
+- Património Natural
+- Política Agrícola
+- Política de Educação
+- Política de Emprego
 - Política de Investigação e Desenvolvimento
-- Modernização dos Transportes
+- Política de Saúde
 - Política do Ambiente
 - Política Económica
-- Política de Educação
+- Política Energética
+- Política Florestal
 - Ponte de Sor
 - Portalegre
-- Exploração Florestal
+- Programa de Valorização do Interior
+- Programa DOT@R
+- Programa EXPANDIR
 - Projecto de Investigação
-- Política de Emprego
-- Política Agrícola
-- Apoio Domiciliário
-- Aviação Civil
-- Património Natural
-- Teletrabalho
-- Modernização do Sector Agrícola
-- Agricultura
-- Política Florestal
+- Projeto de Investimento
+- Saneamento Básico
 - Santarém
-- Bragança
-- Évora
 - Serpa
+- Teletrabalho
 - Termalismo
 - Transporte Público
-- Guarda
+- Turismo
+- Vila Real
 - Vilar Formoso
 - Viseu
-- Programa de Valorização do Interior
-- Estratégia Portugal 2030
-- Programa EXPANDIR
-- Programa DOT@R
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
@@ -152,16 +152,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130776793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:26Z'
   warnings: []
   errors: []
 ---
@@ -355,3 +379,5 @@ l) Promoção de parcerias para a gestão territorial capacitando os atores para
 11 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 27 de novembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113799683

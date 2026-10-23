@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05600/0001100013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25/2021/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2021-159841267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93793078342b30c8225183fa88573ff696ba5cb5849767d7f5b9bca50445d7ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5e92af0ded45619ed727b9fba8339e21a2b5c95868e60ada3dbd6afc392801
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Agência para a Gestão Integrada de Fogos Rurais
 - Aljezur
-- Jurisdição
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
+- Arganil
+- Autoridade Nacional de Emergência e Proteção Civil
 - Boticas
 - Chaves
+- Coimbra
 - Definição de Competências
+- Forças Armadas
+- GNR
 - Góis
 - Grupo de Trabalho
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
+- Jurisdição
 - Lagos
 - Lousã
-- GNR
-- Instituto da Conservação da Natureza e das Florestas
 - Miranda do Corvo
 - Monchique
 - Montalegre
-- Forças Armadas
 - Pampilhosa da Serra
 - Penela
-- Arganil
-- Coimbra
-- Portimão
-- Projeto
+- Plano Nacional de Gestão Integrada de Fogos Rurais
 - Polícia Judiciária
+- Portimão
+- Prevenção de Incêndios
+- Projeto
+- Proteção Civil
+- PSP
 - Ribeira de PENA
 - Silves
 - Valpaços
 - VILA do Bispo
 - VILA Pouca de Aguiar
-- Plano Nacional de Gestão Integrada de Fogos Rurais
-- Agência para a Gestão Integrada de Fogos Rurais
-- Autoridade Nacional de Emergência e Proteção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2018/01/03/p/dre
@@ -108,16 +108,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45-a/2020/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45-a/2020/06/16/p/dre
+- type: cites
+  target: pt:dre:114440371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:16Z'
   warnings: []
   errors: []
 ---
@@ -209,3 +217,5 @@ c) Até 31 de março de 2023, o relatório de avaliação final da execução do
 11 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 4 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114071988

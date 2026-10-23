@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/771/1996/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-1996-492208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b9d26f8c594cbb8e9596ca7254a3b5fef33c50eaae6681651d63c69fca2d992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc70fff77e74c01b80d35d2f8303a2b1dcd299634d7bc0f6f46e88eb4f61494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424/1996/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424/1996/08/29/p/dre
+- type: cites
+  target: pt:dre:243906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665971:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:43Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +132,6 @@ Reuniões
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Dezembro de 1996.**
+Assinada em 10 de Dezembro de 1996.
 
 Pelo Ministro da Defesa Nacional, José Júlio Pereira Gomes, Secretário de Estado da Defesa Nacional.

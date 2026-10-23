@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/151/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2024-893982649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa55c17925ebcec0d88368046a2524ac96b12522b66906eb90d22a4248d4939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7013676655d44ba9a7ff98e4de0e10e17b741b8c70fcb0afa28c4801d6fa8d9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administrador
-- Conselho de Administração
 - Banco de Portugal
-- Nomeação
-- Ministro de Estado e das Finanças
+- Conselho de Administração
 - Governo XXIV
+- Ministro de Estado e das Finanças
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:59Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 151/2024
 
-A Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual e da qual faz parte integrante, estabelece, nos n.<sup>os</sup> 1 a 3 do seu artigo 27.º, que os membros do respetivo conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções, sendo designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após audição e parecer da comissão competente da Assembleia da República.
+A Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual e da qual faz parte integrante, estabelece, nos n.os 1 a 3 do seu artigo 27.º, que os membros do respetivo conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções, sendo designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após audição e parecer da comissão competente da Assembleia da República.
 
 De acordo com o disposto no n.º 2 do artigo 33.º da referida Lei Orgânica, os membros do conselho de administração do Banco de Portugal exercem os respetivos cargos por um prazo de cinco anos, renovável por uma vez e por igual período.
 
 Dada a composição do conselho de administração do Banco de Portugal legalmente estabelecida no n.º 1 do artigo 33.º da respetiva lei orgânica, e considerando a existência de vaga para o efeito, cumpre proceder à designação de novo membro para o cargo de administrador daquele Banco.
 
-Nos termos e para os efeitos do disposto nos n.<sup>os</sup>2 e 3 do artigo 27.º da Lei Orgânica do Banco de Portugal, a personalidade indigitada para o referido cargo foi ouvida na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, no dia 25 de setembro de 2024, a qual elaborou o respetivo parecer fundamentado.
+Nos termos e para os efeitos do disposto nos n.os2 e 3 do artigo 27.º da Lei Orgânica do Banco de Portugal, a personalidade indigitada para o referido cargo foi ouvida na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, no dia 25 de setembro de 2024, a qual elaborou o respetivo parecer fundamentado.
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1 a 4 do artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual e da qual faz parte integrante, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1 a 4 do artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual e da qual faz parte integrante, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças, para o cargo de administrador do Banco de Portugal o mestre Luís Filipe Bruno da Costa de Morais Sarmento, cuja idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções são evidenciados na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, que constam, respetivamente, dos anexos i e ii à presente resolução e da qual fazem parte integrante.
 
@@ -146,8 +150,10 @@ Conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Admi
 
 "Parte V - Conclusões
 
-A Assembleia da República, através da Comissão de Orçamento, Finanças e Administração Pública, procedeu à audição do Mestre Luís Filipe Bruno da Costa de Morais Sarmento, indigitado para o cargo de administrador do Banco de Portugal, nos termos e para os efeitos dos n.<sup>os</sup> 2 e 3 do artigo 27.º[Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375)5/98, de 31 de janeiro (na sua redação atual).
+A Assembleia da República, através da Comissão de Orçamento, Finanças e Administração Pública, procedeu à audição do Mestre Luís Filipe Bruno da Costa de Morais Sarmento, indigitado para o cargo de administrador do Banco de Portugal, nos termos e para os efeitos dos n.os 2 e 3 do artigo 27.º[Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375)5/98, de 31 de janeiro (na sua redação atual).
 
 Das respostas dadas às questões formuladas e da análise e escrutínio da sua nota biográfica, a Comissão de Orçamento, Finanças e Administração Pública reconhece a competência e experiência técnica do mestre Luís Filipe Bruno da Costa de Morais Sarmento para o exercício do cargo de administrador do Banco de Portugal.
 
 Da audição foi produzido o presente relatório, do qual, para os devidos efeitos, será dado conhecimento ao Senhor Presidente da Assembleia da República e ao Governo".
+
+118284044

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 165/2022, 1º Suplemento, Série I de 2022-08-26
   number: '165'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 17-(4) a 17-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16501/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/73-a/2022/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-a-2022-200363307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86d30229c2c2258571639178b7d31c4ab74ab9844c12f2882620aa6dc4780b60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61eaf97cd211ce2f4745f575ce27efda300ee2a839c65bdd83132533ff744b65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Circulação de Pessoas
 - Controlo Sanitário
-- Saúde Pública
-- Política de Saúde
-- Isolamento Profiláctico
+- Cuidados Médicos
 - Doença Infecciosa
 - Epidemia
-- Cuidados Médicos
 - Equipamento de Proteção
+- Isolamento Profiláctico
+- Política de Saúde
+- Saúde Pública
 - Situação de Alerta
 relationships:
 - type: cites
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41-a/2022/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41-a/2022/04/21/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165865578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182432342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:52Z'
   warnings: []
   errors: []
 ---
@@ -139,3 +167,5 @@ Nos termos do artigo 12.º do [Decreto-Lei n.º 54-A/2021](https://diariodarepub
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 25 de agosto de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115644935

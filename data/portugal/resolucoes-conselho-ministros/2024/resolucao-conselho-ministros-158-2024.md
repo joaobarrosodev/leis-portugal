@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21700/0007600085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/158/2024/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/158-2024-895990688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62cecb6e366c686183cd14b3580f55076ddcf80288772f326c45ceaed23ac81c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5118ecce06b5439f11769da50a86230ee070445a956c74c1e4b790daeded3c77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Ministro da Saúde
-- Ministro da Economia
+- Combustível
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Combustível
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro da Agricultura e Pescas
-- Ministro dos Assuntos Parlamentares
-- Órgãos de Soberania
-- Ministro de Estado e das Finanças
-- Ministro da Defesa Nacional
-- Ministro da Presidência
-- Ministro da Administração Interna
-- Ministro do Trabalho Solidariedade e Segurança Social
 - Governo XXIV
 - Ministro Adjunto e da Coesão Territorial
+- Ministro da Administração Interna
+- Ministro da Agricultura e Pescas
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
 - Ministro da Educação Ciência e Inovação
-- Ministro das Infraestruturas e Habitação
-- Ministro do Ambiente e Energia
+- Ministro da Justiça
 - Ministro da Juventude e Modernização
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Infraestruturas e Habitação
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente e Energia
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Assuntos Parlamentares
+- Órgãos de Soberania
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
@@ -119,16 +119,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:08Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +197,7 @@ Presidência do Conselho de Ministros, 29 de outubro de 2024. - O Primeiro-Minis
 
 ## ANEXO — (a que se referem os n.os 1, 2 e 4)
 
-| Número Identificação Pessoa Coletiva | Designação da Entidade | Valor s/ IVA 2025 |
+| Número Identificação<br>Pessoa Coletiva | Designação da Entidade | Valor s/ IVA<br>2025 |
 | --- | --- | --- |
 |  | Administração Interna |  |
 | 600082490 | Autoridade Nacional de Emergência e Proteção Civil | 825 000,00 € |
@@ -438,3 +466,7 @@ Presidência do Conselho de Ministros, 29 de outubro de 2024. - O Primeiro-Minis
 | 600006638 | Supremo Tribunal Administrativo | 20 434,00 € |
 | 600019039 | Supremo Tribunal de Justiça | 7 301,95 € |
 |  | Total (s/IVA) | 42 202 820,40 € |
+
+118324869
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { text-align:right; } .Tbl13 { min-height:18px; } .Tbl14 { text-decoration:none; } .Tbl15 { min-height:28px; } .Tbl16 { min-height:23px; } .Tbl17 { min-height:26px; } .Tbl18 { min-height:29px; } .Tbl19 { min-height:22px; }

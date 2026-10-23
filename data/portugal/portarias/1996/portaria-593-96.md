@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/593/1996/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/593-1996-226175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2edd9903e6936a07d0aaac4ad9723d91bab47a9b2828bf263f66540ef60a972b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a6af73139888c33638ce5ba7330113165005caa8d76c066cc2326a92b513eb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,39 @@ relationships:
   target: pt:dre:520236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:528439:por
+  label: "Renovada por doze anos a concessão de zona de caça turística atribuída pela Port 669/89, de 12-Ago, alterada pelo\
+    \ presente diploma, pela PORT.1037-F/2004.12.08.2004.MAPF, DR.IS-B [189-Supl] de 12.08.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-f-2004-528439
+  date: '2004-08-12'
+- type: amended_by
+  target: pt:dre:345311:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 669/89 de 12-Ago, alterada pelo presente\
+    \ diploma, pela PORT.585/2006.20.06.2006.MADRP, DR.IS-B [117] de 20.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-2006-345311
+  date: '2006-06-20'
+- type: amended_by
+  target: pt:dre:520236:por
+  label: "Transferida para a IP Cinegética - Sociedade Agro-Industrial e Cinegética, S.A., a concessão da zona de caça atribuída\
+    \ pela Port 669/89 de 12-Ago, com a redacção conferida no presente diploma, pela PORT.326/2007.28.03.2007.MAOTDR, DR.IS\
+    \ [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-2007-520236
+  date: '2007-03-28'
+- type: cites
+  target: pt:dre:337024:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:22Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +128,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 26 de Setembro de 1996.**
+Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

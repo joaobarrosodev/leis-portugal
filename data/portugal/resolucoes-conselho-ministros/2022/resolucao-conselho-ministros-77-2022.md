@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2022-200907658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d864016f5800270c5534dae253324124249017230f300982f66197802fb9986d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3294abeecbd10a266fcacc2962ded13e23b94b7cf1833300d66efd5433c01ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Comissão de Acompanhamento
 - Definição de Competências
-- Jovem
 - Instituto Português do Desporto e Juventude
-- Protecção à Juventude
-- Política de Juventude
+- Jovem
 - Plano Nacional para a Juventude
+- Política de Juventude
+- Protecção à Juventude
 relationships:
 - type: amended_by
   target: pt:dre:222877160:por
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114-a/2018/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114-a/2018/09/04/p/dre
+- type: cites
+  target: pt:dre:116330692:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:58Z'
   warnings: []
   errors: []
 ---
@@ -273,22 +277,24 @@ Foi empreendido um esforço de conjugação e de não duplicação entre os obje
 
 Transcrevem-se, de seguida, as medidas, resultantes da contribuição das diferentes áreas governativas, as quais concretizam o II PNJ.
 
-I - Emancipação e autonomia
+I - Emancipação e autonomia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
 
-II - Educação, formação e ciência
+II - Educação, formação e ciência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
 
-III - Cidadania e participação
+III - Cidadania e participação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
 
-IV - Estilos de vida saudáveis
+IV - Estilos de vida saudáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
 
-V - Cultura e criação livre
+V - Cultura e criação livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17700/0001000102.pdf)
+
+115658721

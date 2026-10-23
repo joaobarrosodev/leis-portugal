@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20100/0026900270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/138/2024/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/138-2024-891107799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 946bd14048523a5a7bcda23b161282bf5cf9094b9d5b9c40fc95b434cf88d2ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c7cd5c8d93296f50ac968834d91f507e061857c309720a10dc7a827a7f13f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Incêndio
-- Governo Regional
+- Açores
 - Despesas Públicas
+- Governo Regional
 - Hospital do Divino Espírito Santo
+- Incêndio
 - Orçamento
 - Ponta Delgada
-- Açores
+- Região Autónoma
 - Transferência de Verbas
 relationships:
 - type: cites
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71/2024/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71/2024/06/05/p/dre
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161904521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867843037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887629419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:38Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +144,12 @@ Nos termos do n.º 1 do artigo 3.º, da alínea c) do n.º 1 e do n.º 4 do arti
 
 1 - Determinar que, sem prejuízo do reconhecimento de elegibilidade da inventariação e quantificação exata dos danos e prejuízos causados, a apurar pela comissão de trabalho nos termos do [Despacho n.º 10791/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10791-2024-887629419), publicado no Diário da República, 2.ª série, n.º 178, de 13 de setembro de 2024, é, até ao final do ano de 2024, transferido para o Orçamento da Região Autónoma dos Açores um valor máximo de, até, € 20 000 000,00, exclusivamente para o restabelecimento da normalidade assistencial e à continuidade da prestação de cuidados de saúde à população açoriana no Hospital do Divino Espírito Santo de Ponta Delgada, E. P. E. R. (HDES), prévias à deflagração do incêndio, e incorridas em data posterior a 4 de maio de 2024.
 
-2 - Estabelecer que a verba prevista no número anterior constitui um adiantamento por conta da elegibilidade da inventariação e quantificação exata dos danos e prejuízos causados, a realizar nos termos dos n.<sup>os</sup>2 e 3 da [Resolução do Conselho de Ministros n.º 71/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2024-867843037), de 5 de junho, e do [Despacho n.º 10791/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10791-2024-887629419), publicado no Diário da República, 2.ª série, n.º 178, de 13 de setembro de 2024.
+2 - Estabelecer que a verba prevista no número anterior constitui um adiantamento por conta da elegibilidade da inventariação e quantificação exata dos danos e prejuízos causados, a realizar nos termos dos n.os2 e 3 da [Resolução do Conselho de Ministros n.º 71/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2024-867843037), de 5 de junho, e do [Despacho n.º 10791/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10791-2024-887629419), publicado no Diário da República, 2.ª série, n.º 178, de 13 de setembro de 2024.
 
 3 - Determinar que a afetação extraordinária dos meios financeiros previstos no n.º 1 tem como contrapartida orçamental verbas com origem no Orçamento do Estado, através de dotações centralizadas do Ministério das Finanças.
 
 4 - Estabelecer que a presente resolução produz efeitos à data da sua aprovação.
 
 Presidência do Conselho de Ministros, 2 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118222338

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/175/1996/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-1996-445907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ed4063da2eaac321bda6fb4ec401fe49b95b50b66726d479222d08316112a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e020534440d4ecad9a5afcfc7db55d64d0aff83e934bd479a94b689f10eb6dea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Medicina Nuclear
 - Curso de Neurofisiografia
 - Curso de Ortoprotesia
 - Ensino Profissional
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia da Saúde
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/791/1994/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/791/1994/09/05/p/dre
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657621:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239252:por
+  label: "Revogada, nos termos do art. 100.º do Regulamento aprovado pela Port 3/2000, de 04-Jan, pela PORT.20/2001.2001.01.10.ME\
+    \ DR.IS-B [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2001-239252
+  date: '2001-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:05Z'
   warnings: []
   errors: []
 ---
@@ -128,38 +142,38 @@ São aprovadas as unidades curriculares de transição dos planos de estudo dos 
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 17 de Abril de 1996.**
+Assinada em 17 de Abril de 1996.
 
-**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 ## ANEXO I — Curso: Dietética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 ## ANEXO II — Curso: Medicina Nuclear
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 ## ANEXO III — Curso: Neurofisiografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 ## ANEXO IV — Curso: Ortoprotesia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 ## ANEXO V — Curso: Dietética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 Curso: Medicina Nuclear
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 Curso: Nerofisiografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
 
 Curso: Ortoprotesia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf))](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/120b00/12441251.pdf)

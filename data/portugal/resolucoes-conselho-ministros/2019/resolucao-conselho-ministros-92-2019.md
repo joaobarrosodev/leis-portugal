@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/10800/0288802895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2019/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2019-122498962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f0befa0102e5cc1dc8678148f917a96ff7a6ec298df473fcd2b229360a6d8e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0352d87f6f3da204c4333ee73aa10afed056cd451152e7edd3d9f13f659b2d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Informática
-- Processamento de Dados
 - Base de Dados
-- Cibercrime
-- Segurança da Informação
-- Página na Internet
-- Internet
-- Sistema de Informação
 - Centro Nacional de Cibersegurança
+- Cibercrime
 - Conselho Superior de Segurança do Ciberespaço
+- Definição de Competências
 - Estratégia Nacional de Segurança do Ciberespaço
+- Informática
+- Internet
+- Página na Internet
+- Processamento de Dados
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:32016L1148
@@ -94,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2015/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2015/06/12/p/dre
+- type: cites
+  target: pt:dre:108051990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67468089:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:11Z'
   warnings: []
   errors: []
 ---
@@ -425,3 +437,5 @@ Desenvolver o quadro internacional da ciberdiplomacia em que Portugal se deverá
 A presente Estratégia será objeto de avaliação anual pelo Conselho Superior de Segurança do Ciberespaço. Tal avaliação incluirá uma verificação dos objetivos estratégicos e do plano de ação e adequação dos mesmos à evolução das circunstâncias.
 
 Por outro lado, a rápida evolução intrínseca ao ciberespaço exige que a presente Estratégia seja objeto de revisão regular e periódica, considerando-se que, sem prejuízo de processos de revisão extraordinários sempre que as circunstâncias o exijam, aquela deve ocorrer num prazo máximo de cinco anos.
+
+112348267

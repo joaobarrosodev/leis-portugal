@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12500/0329203292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2017/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2017-107596681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ddd7068ffc6e40664e5ae2c4d427a6456de9902b0edc11908727c5fb48abdb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bed61abdd2ccdb64e4d93724b2c8300218c13d919591ad855d98fe82f346572a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,23 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
+- Comunicações
 - Conselho de Ministros
+- Conselho Diretivo
 - Delegação de Competências
 - Despesas Públicas
-- Conselho Diretivo
+- Governo XXI
 - Instituto de Informática
 - Internet
-- Comunicações
-- Governo XXI
 - Ministro do Trabalho Solidariedade e Segurança Social
 relationships:
+- type: amended_by
+  target: pt:dre:122278146:por
+  label: Reprogramados os encargos plurianuais relativos à aquisição de serviços de comunicações de dados, internet e voz,
+    em local fixo, incluindo locação de equipamento pela Portaria n.º 332/2019 - Diário da República n.º 90/2019, Série II
+    de 2019-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-2019-122278146
+  date: '2019-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -106,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:26Z'
   warnings: []
   errors: []
 ---

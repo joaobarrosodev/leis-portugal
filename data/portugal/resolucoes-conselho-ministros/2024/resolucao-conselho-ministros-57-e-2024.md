@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06301/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57-e/2024/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-e-2024-858093995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8ddc1eb90985580dcb4ac7791243395fcb428d9cad3c55f59f7da4226ed2ca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4a60a02579aa6a863bfff14d084e9d2f9c53098c308c6db2fb46fc74ef446e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Autorização de Despesas
 - Campanha de Sensibilização
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Resíduo Urbano
 - Fundo Ambiental
-- Ministro do Ambiente e da Ação Climática
-- Agência Portuguesa do Ambiente
 - Governo XXIII
+- Ministro do Ambiente e da Ação Climática
+- Resíduo Urbano
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:18Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +143,7 @@ a) 2024 - 650 000,00 EUR;
 
 b) 2025 - 8 850 000,00 EUR.
 
-3 - Estabelecer que a despesa dos processos aquisitivos relativos ao desenvolvimento da campanha de comunicação, sensibilização e informação sobre resíduos urbanos, no montante de 9 500 000,00 EUR, é financiada pelo Programa Ação Climática e Sustentabilidade no montante de até 7 647 832,50 EUR na medida da respetiva elegibilidade, sendo o restante, no montante de 1 852 167,50 EUR, financiado pelas fontes nacionais referidas nos n.<sup>os</sup>4 e 6.
+3 - Estabelecer que a despesa dos processos aquisitivos relativos ao desenvolvimento da campanha de comunicação, sensibilização e informação sobre resíduos urbanos, no montante de 9 500 000,00 EUR, é financiada pelo Programa Ação Climática e Sustentabilidade no montante de até 7 647 832,50 EUR na medida da respetiva elegibilidade, sendo o restante, no montante de 1 852 167,50 EUR, financiado pelas fontes nacionais referidas nos n.os4 e 6.
 
 4 - Autorizar o Fundo Ambiental (FA) a realizar a despesa para a "Campanha de Comunicação, Sensibilização e Informação sobre resíduos urbanos", até ao limite de 1 250 000,00 EUR, valor ao qual não acresce o IVA, e estabelecer que os encargos para o Fundo Ambiental não podem exceder, em cada ano económico, os seguintes montantes:
 
@@ -146,3 +162,5 @@ b) 2025 - 1 152 500,00 EUR.
 9 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 21 de março de 2024. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117528858

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 22/2015, 1º Suplemento, Série I de 2015-02-02
   number: '22'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 646-(2) a 646-(70)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/6-a/2015/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-a-2015-66414245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b20e140ad733426655cd10997f4f42eb69b15d720e70a68db111444377ccb300
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bda48543341ba0061f76fbc4ca3001d3bf61403b758e5f7a931fe3b608dbd2b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
-- Financiamento
-- Modernização Administrativa
-- Estabelecimento Comercial
+- Comércio
+- Competitividade da Economia
+- Competitividade Empresarial
+- Conselho Consultivo
 - Conselho de Ministros
+- Criação de Emprego
 - Definição de Competências
 - Delegação de Competências
 - Direção Geral das Atividades Económicas
-- Competitividade Empresarial
+- Economia Digital
+- Estabelecimento Comercial
 - Estabelecimento de Restauração
-- Ministério da Economia
-- Competitividade da Economia
-- Conselho Consultivo
-- Criação de Emprego
+- Financiamento
 - Governo XIX
+- Infraestrutura Turística
+- Ministério da Economia
+- Modernização Administrativa
 - Política Económica
 - Prestação de Serviços
-- Comércio
-- Infraestrutura Turística
 relationships:
 - type: cites
   target: celex:32006L0123
@@ -142,6 +142,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/1998/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/1998/12/16/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
@@ -152,14 +252,14 @@ relationships:
   source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:27Z'
   warnings: []
   errors: []
 ---
@@ -294,7 +394,7 @@ Os setores de comércio, serviços e restauração têm três eixos de influênc
 
 FIGURA 1 | 3 EIXOS DE INFLUÊNCIA DOS SETORES PARA O DESENVOLVIMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Ministério da Economia
 
@@ -346,7 +446,7 @@ Os 5 principais eixos estratégicos - com um total de 36 medidas concretas - da 
 
 FIGURA 2 | MACRO CALENDÁRIO DAS MEDIDAS DA AGENDA PARA A COMPETITIVIDADE DO COMÉRCIO, SERVIÇOS E RESTAURAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 A. PONTO DE PARTIDA
 
@@ -382,7 +482,7 @@ ii) No mercado publicitário.
 
 FIGURA 3 | NIVEIS DE INTERACÇÃO ENTRE EMPRESAS E CONSUMIDORES NOS SETORES DE COMÉRCIO E SERVIÇOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Ministério da Economia
 
@@ -406,7 +506,7 @@ Com efeito, os setores de comércio, serviços e restauração são essenciais p
 
 FIGURA 4 | CRIAÇÃO LIQUIDA DE EMPREGO (MILHARES) POR SETOR (ULTIMOS 9 MESES de 2013)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, INE, I.P.
 
@@ -434,7 +534,7 @@ Embora se reconheça que alguns formatos sejam relativamente pouco afetados (com
 
 FIGURA 5 | EVOLUÇÃO DO SETOR DO COMÉRCIO E RETALHO NOS EUA AO LONGO DOS ANOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Análise The Boston Consulting Group (setor do comércio em constante mudança - evolução verificada nos EUA)
 
@@ -442,7 +542,7 @@ O setor do comércio já vai revelando este fenómeno através da procura de um 
 
 O enfoque no serviço ao consumidor e na relação do setor do comércio ou de serviços com o cliente têm sido uma constante ao longo de qualquer período de adaptação, e devem continuar, especialmente se considerarmos as seguintes macrotendências que continuam a ser principalmente influenciadas pelas necessidades da sociedade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Só analisando o que impulsiona o crescimento e a competitividade nos setores de comércio, serviços e restauração é que o Estado pode ver melhoradas as suas hipóteses de intervir com sucesso.
 
@@ -454,7 +554,7 @@ Os setores do comércio, serviços e restauração são muito importantes na eco
 
 FIGURA 6 | VISÃO GERAL (NÃO EXAUSTIVA) DO QUADRO LEGISLATIVO & REGULAMENTAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Ministério da Economia
 
@@ -524,7 +624,7 @@ A contração da procura interna portuguesa, que se verifica desde o final de 20
 
 FIGURA 7 | PROCURA INTERNA EM PERCENTAGEM DO PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE - INE, I.P. - Dados preliminares para 2013
 
@@ -560,7 +660,7 @@ Os setores do comércio e serviços têm uma forte componente de VAB na economia
 
 FIGURA 8 | SETORES COM MAIOR VALOR ACRESCENTADO BRUTO NA ECONOMIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, a partir de dados de base das Contas Nacionais Portuguesas (B2006).
 
@@ -568,7 +668,7 @@ Os setores de comércio, serviços e restauração diferem quanto ao alcance da 
 
 FIGURA 9 | CARACTERIZAÇÃO DOS SETORES DE COMÉRCIO E SERVIÇOS E A SUA PRESENÇA NA CADEIA DE VALOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 É importante realçar que os clientes finais (sejam empresas ou consumidores) não aparecem apenas no final da cadeia de valor, na medida em que estes também procuram o bem ou serviço junto do seu ponto de produção, de fornecimento, e de distribuição. Há ainda a realçar a maior troca, sobretudo de bens, entre os próprios consumidores, cujo crescimento tem sido potenciado por plataformas sediadas na Internet dedicadas ao mercado de bens em 2.ª mão (ex.: olx.pt, custojusto.pt) ou a compras coletivas (ex.: groupon, letsbonus).
 
@@ -582,13 +682,13 @@ De acordo com os dados do INE, I.P. (Figura 10), o comércio (atividades económ
 
 FIGURA 10 | N.º DE EMPRESAS POR ATIVIDADE ECONÓMICA [2013]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Empresas (N.º) por Atividade económica (Classe - CAE Rev. 3) e Forma jurídica; Anual - INE, I.P., Sistema de Contas Integradas das Empresas; Peso excluindo serviços financeiros e seguros, e administração pública e entidades públicas
 
 FIGURA 11 | VOLUME DE NEGÓCIOS (M(euro)) E % VAB NO TOTAL DAS EMPRESAS POR ATIVIDADE ECONÓMICA [2013]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Volume de negócios ((euro)) e Valor acrescentado bruto ((euro)) das Empresas por Atividade económica (Classe - CAE Rev. 3); Anual - INE, I.P., Sistema de Contas Integradas das Empresas, Peso excluindo serviços financeiros e seguros, e administração pública e entidades públicas
 
@@ -598,7 +698,7 @@ Por outro lado, no que respeita a pessoal ao serviço (Figura 12), estes setores
 
 FIGURA 12 | PESSOAL AO SERVIÇO (N.º) DAS EMPRESAS POR ATIVIDADE ECONÓMICA [2013]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Pessoal ao Serviço (n.º) das empresas por Atividade económica (Classe - CAE Rev. 3); Anual - INE, I.P., Sistema de Contas Integradas das Empresas, Peso excluindo serviços financeiros e seguros, e administração pública e entidades públicas
 
@@ -606,7 +706,7 @@ Outra análise interessante é avaliar o VAB médio por Empresa, e por pessoal a
 
 FIGURA 13 | VALOR ACRESCENTADO BRUTO (VAB) MÉDIO POR EMPRESA ((euro)/EMPRESA) [2013]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Empresas (N.º) e Valor acrescentado bruto ((euro)) das Empresas por Atividade económica (Classe - CAE Rev. 3); Anual - INE, I.P., Sistema de Contas Integradas das Empresas; Peso excluindo serviços financeiros e seguros, e administração pública e entidades públicas
 
@@ -614,7 +714,7 @@ Porém, ao olhar para o VAB médio por pessoa ao serviço, o cenário equilibra-
 
 FIGURA 14 | VALOR ACRESCENTADO BRUTO (VAB) MÉDIO POR PESSOAL AO SERVIÇO ((euro)/PESSOA AO SERVIÇO) [2013]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Pessoal ao Serviço (n.º) e Valor acrescentado bruto ((euro)) das Empresas por Atividade económica (Classe - CAE Rev. 3); Anual - INE, I.P., Sistema de Contas Integradas das Empresas; Peso excluindo serviços financeiros e seguros, e administração pública e entidades públicas
 
@@ -626,13 +726,13 @@ FIGURA 15 | N.º DE ESTABELECIMENTOS - UNIDADES COMERCIAIS DE DIMENSÃO
 
 RELEVANTE - COMÉRCIO A RETALHO - (2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, INE, I.P., Inquérito aos Estabelecimentos Comerciais - Unidades Comerciais de Dimensão Relevante
 
 FIGURA 16 | VOLUME DE NEGÓCIOS - UNIDADES COMERCIAIS DE DIMENSÃO RELEVANTE - COMÉRCIO A RETALHO - (2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, INE, I.P., Inquérito aos Estabelecimentos Comerciais - Unidades Comerciais de Dimensão
 
@@ -648,7 +748,7 @@ A caracterização destas atividades económicas, nas Figura 17 e Figura 18, rev
 
 FIGURA 17 | RESTAURAÇÃO E BEBIDAS: NÚMERO DE EMPRESAS E PESSOAL AO SERVIÇO - (2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: GEE, com base em dados do Sistema de Contas Integradas das Empresas.
 
@@ -660,7 +760,7 @@ Fazendo uma análise similar ao rácio de VAB por pessoal ao serviço, temos uma
 
 FIGURA 18 | RESTAURAÇÃO E BEBIDAS: VOLUME DE NEGÓCIOS, VALOR ACRESCENTADO BRUTO (VAB) E FORMAÇÃO BRUTA DE CAPITAL FIXO (FBCF) EM M(euro) - (2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, com base em dados do Sistema de Contas Integradas das Empresas
 
@@ -668,7 +768,7 @@ Em 2013 houve um saldo positivo da constituição de novas empresas de restaura�
 
 FIGURA 19 | CONSTITUIÇÃO E DISSOLUÇÃO DE EMPRESAS - RESTAURAÇÃO E SIMILARES - POR REGIÃO - (2013)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, com base em dados de base do INE, I.P./Ministério da Justiça - constituição e dissolução de pessoas coletivas e entidades equiparadas.
 
@@ -678,7 +778,7 @@ Além de perceber as dinâmicas macroeconómicas dos setores, é preciso entende
 
 FIGURA 20 | CARACTERIZAÇÃO DO CONSUMIDOR (EMPRESA/CLIENTE) E O MODELO DE CONSUMO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Ministério da Economia
 
@@ -688,7 +788,7 @@ As dinâmicas de impacto do consumo na economia diferem entre os tipos de consum
 
 FIGURA 21 | INDICADOR DE CONFIANÇA DOS CONSUMIDORES (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P. - dados até janeiro 2014
 
@@ -696,7 +796,7 @@ Face à conjuntura económica, os consumidores mudaram alguns dos seus comportam
 
 FIGURA 22 | INDICADOR COINCIDENTE DO CONSUMO PRIVADO - TAXA DE VARIAÇÃO HOMÓLOGA E HISTÓRICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Banco de Portugal - dados até dezembro 2013
 
@@ -730,7 +830,7 @@ Os setores do comércio e dos serviços estão a evoluir na exploração de novo
 
 FIGURA 23 | % DE PESO DE COMPRAS ONLINE EM PORTUGAL - POR TIPO - 2012
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Euromonitor | Travel Retailing in Portugal 2012; Internet Retailing in Portugal 2012; Retailing in Portuagl 2012; Análise BCG
 
@@ -746,7 +846,7 @@ De acordo com a Comissão Europeia, 9% dos consumidores da UE, em 2010 e 8% em 2
 
 FIGURA 24 | HABITAÇÕES COM ACCESSO À INTERNET (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Comissão Europeia
 
@@ -754,7 +854,7 @@ A penetração da Internet está a crescer em Portugal, e apesar das compras onl
 
 FIGURA 25 | ÚLTIMA UTILIZAÇÃO A TITULO PESSOAL DE COMÉRCIO ELETRÓNICO NOS ÚLTIMOS 12 MESES (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Comissão Europeia
 
@@ -768,7 +868,7 @@ Outra das tendências é a expansão das modalidades de pagamento, em particular
 
 FIGURA 26 | PAGAMENTOS DE SERVIÇOS EM ATM (M(euro))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Banco de Portugal, 2014
 
@@ -778,13 +878,13 @@ Apesar da ainda baixa utilização, e tendo em conta a taxa de penetração de t
 
 FIGURA 27 | NÚMERO DE OPERAÇÕES DE COMPRAS NA INTERNET PAGAS COM CARTÃO BANCÁRIO (MILHÕES)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: SIBS, 2012
 
 FIGURA 28 | PROPORÇÃO DE INDIVÍDUOS COM IDADE ENTRE 16 E 74 ANOS QUE UTILIZARAM TELEMÓVEL PARA EFETUAR PAGAMENTOS DE PRODUTOS OU SERVIÇOS PARA FINS PRIVADOS NOS PRIMEIROS 3 MESES DO ANO (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P.
 
@@ -814,13 +914,13 @@ Com a redução do seu poder de compra, os consumidores portugueses tendem a evi
 
 FIGURA 29 | INCREMENTO ANUAL DE AREA (M2) DISPONÍVEL PARA O RETALHO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Imobiliário Comercial - Portugal | CBRE Global Research and Consulting
 
 FIGURA 30 | EVOLUÇÃO DA AREA (M2) DISPONÍVEL PARA O RETALHO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Imobiliário Comercial - Portugal | CBRE Global Research and Consulting
 
@@ -832,7 +932,7 @@ O comércio de rua, por outro lado, recebeu um impulso, devido a característica
 
 FIGURA 31 | EVOLUÇÃO DAS TAXAS DE CAPITALIZAÇÃO PRIME (YIELD) POR FORMATO COMERCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: Guia Imobiliário Comercial - Portugal 1S 2013 | CBRE Global Research and Consulting
 
@@ -840,7 +940,7 @@ A evolução das taxas de capitalização prime (yield) (Figura 31) tem estabili
 
 FIGURA 32 | EVOLUÇÃO DAS RENDAS PRIME ((euro)/M2/MÊS)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: CBRE Global Research and Consulting | Nota: No comércio de rua e nos centros comerciais são considerados lojas com 100m3 e nos retail parks com 1000m2
 
@@ -880,13 +980,13 @@ Há que ressalvar o facto destas estimativas dependerem de duas componentes: a e
 
 FIGURA 33 | DESPESA TOTAL ANUAL MÉDIA POR AGREGADO ((euro)), POR GRUPO ETÁRIO (2010/2011)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, INE, I.P.
 
 FIGURA 34 | EVOLUÇÃO DA PERCENTAGEM DE POPULAÇÃO COM +65 ANOS ATÉ 2050
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: World Population Prospects: The 2012 Revision
 
@@ -900,7 +1000,7 @@ A Internet, o rádio e os outros suportes, cresceram de forma contínua, em peso
 
 FIGURA 35 | VENDA DE SUPORTES PUBLICITÁRIOS ((euro)) DAS EMPRESAS POR TIPO DE SUPORTE PUBLICITÁRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P., Inquérito aos Serviços Prestados às Empresas, versão 2.1
 
@@ -930,7 +1030,7 @@ Nos últimos três anos tem havido uma maior dispersão dos centros de serviços
 
 FIGURA 36 | TOP 10 DAS LOCALIZAÇÕES DE CENTROS DE SERVIÇOS PARTILHADOS POR NÍVEL DE MATURIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: «Global Shares Services Survey» - Deloitte Consulting LLP, 2013
 
@@ -970,13 +1070,13 @@ A Rússia, por exemplo, implementou medidas de maior abertura ou facilidade de a
 
 FIGURA 37 | PRINCIPAIS ESTRATÉGIAS DE OUTROS PAISES EUROPEUS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Os indicadores da Organização para a Cooperação e Desenvolvimento Económico (OCDE) ao nível da regulamentação do setor do comércio a retalho devem igualmente ser tidos em conta (Figura 38). Estes mostram que, em 2008, Portugal tinha um grau de regulamentação para o setor do comércio a retalho acima de outros países na Europa e do mundo, considerando vários eixos: inscrição no registo comercial; licenças ou autorizações necessárias para exercer uma atividade comercial; regulamentação específica de grandes superfícies; proteção das empresas existentes; regulamentação do horário de funcionamento da loja; controlo de preços; barreiras à entrada; restrições operacionais. Um menor indicador de regulamentação significa que as empresas operam num mercado com um menor grau de regulamentação sob o negócio.
 
 FIGURA 38 | GRAU REGULAMENTAÇÃO DO SETOR DE COMÉRCIO DE RETALHO 2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Nota: Valor de 0 (nenhuma regulação especifica) a 6 (regulação máxima)
 
@@ -1002,7 +1102,7 @@ Em Portugal, as PME são os principais empregadores do setor de serviços (em % 
 
 FIGURA 39 | PESO (%) DE CONTRIBUIÇÃO PARA O EMPREGO TOTAL POR TAMANHO DE EMPRESA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: OCDE - STAN Database, dados de 2007 - inclui o setor de serviços financeiros
 
@@ -1020,7 +1120,7 @@ Os 5 principais eixos estratégicos (Figura 40) - com um total de 36 medidas con
 
 FIGURA 40| 5 EIXOS ESTRATÉGICOS DA AGENDA PARA A COMPETITIVIDADE DO COMÉRCIO, SERVIÇOS E RESTAURAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 1. POTENCIAR O CONHECIMENTO E O ACOMPANHAMENTO
 
@@ -1048,19 +1148,19 @@ A visão de crescimento no horizonte 2020 relativamente à Agenda é consubstanc
 
 FIGURA 41 | 6 OBJETIVOS CHAVE NO HORIZONTE 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P.; Eurostat; Previsão dos Objetivos com ME-GEE * - dados de 2011; ** - a preços de 2011
 
 FIGURA 42 | MACRO CALENDÁRIO DAS MEDIDAS DA AGENDA PARA A COMPETITIVIDADE DO COMÉRCIO, SERVIÇOS E RESTAURAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 A visão não pretende introduzir políticas públicas onde o Estado é o ator principal na economia. Isto porque a principal característica dos setores é que estes operam em condições de livre concorrência e permitem que o Governo tenha um grau de intervenção menor, criando condições que desafiem os verdadeiros atores do setor (empresários, empresas e consumidores) a pensar num âmbito local e global (mercados externos), não por necessidade (queda da procura interna) mas como uma ambição de fazer mais e melhor, como demonstram alguns dos casos de sucesso perante a conjuntura económica.
 
 FIGURA 43| INSTRUMENTOS DE POLÍTICA DO ESTADO PRECISAM DE SER ADAPTADOS PARA ATENDER AOS FATORES DE COMPETITIVIDADE DE CADA SETOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: McKinsey Global Institute Analysis
 
@@ -1094,7 +1194,7 @@ O Estado pretende implementar uma estratégia com medidas para promover o cresci
 
 FIGURA 44 | PESO DO VALOR ACRESCENTADO BRUTO (2012), NÚMERO DE EMPRESAS (2012) E A TAXA DE DESEMPREGO (4T2013) POR REGIÃO DOS SETORES DE COMÉRCIO, SERVIÇOS E RESTAURAÇÃO NO TOTAL DA ECONOMIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, a partir de dados de base do INE, I.P., Sistema de Contas Integrado das Empresas e Estatísticas do Emprego
 
@@ -1126,7 +1226,7 @@ O Conselho constituirá um «instrumento operacional», visando concretizar uma 
 
 Nesse sentido, com base nos trabalhos do Conselho, será definido um plano de ação que identifique os setores em que a tomada de mediadas se revele prioritária e estratégica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 1.2 Plataforma de Colaboração do Comércio, Serviços e Restauração
 
@@ -1142,7 +1242,7 @@ Esta plataforma terá como missão construir uma pool de informação centraliza
 
 . Garantir uma permanente monitorização e acompanhamento da Agenda, bem como a avaliação dos seus impactos e resultados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 1.3 Boletim informativo com diagnóstico consolidado e regular dos setores de comércio, serviços e restauração
 
@@ -1170,7 +1270,7 @@ Criação do boletim informativo, com disseminação online regular nos portais 
 
 . Identificação de novas tendências e desafios (análise qualitativa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 1.4 Via Verde para o Comércio, Serviços e Restauração
 
@@ -1188,7 +1288,7 @@ Esta via verde consiste na criação de um canal de comunicação, que integrar�
 
 FIGURA 45 | TAXA DE SOBREVIVÊNCIA DAS EMPRESAS NASCIDAS A [...] %
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: INE, I.P. - não exaustivo para todas as atividades económicas consideradas na presente Agenda
 
@@ -1196,7 +1296,7 @@ Esta medida será implementada após a execução de um diagnóstico, onde se id
 
 Os números mostram que a taxa de sobrevivência de empresas nascidas há 5 anos (2006-2011) para os setores de comércio por grosso e a retalho, reparação de veículos automóveis e motociclos e de alojamento, restauração e similares era de 34% (Figura 45). Tenta-se, desta forma, clarificar outras obrigações e procedimentos nos primeiros anos de operação do negócio, tais como as obrigações fiscais, mecanismos de promoções e saldos, entre outros processos para a gestão diária e de longo prazo do negócio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 1.5 Criação da rede de empresas de comércio, serviços e restauração com proximidade às atividades de investigação científica e de desenvolvimento das universidades e politécnicos
 
@@ -1210,7 +1310,7 @@ Esta medida será acompanhada pelos esforços do eixo 8 - Inovação, Empreended
 
 Adicionalmente, o Governo deve avaliar a abrangência da Rede Nacional de Mentores, que irá ser criada pela EFICE, de forma a garantir o apoio às empresas dos setores de comércio, serviços e restauração, nascidas há menos de dois anos. É necessário fornecer apoios às dificuldades de conhecimento na gestão da tesouraria e de liquidez que empreendedores e comerciantes, por vezes, enfrentam e que podem resultar numa falência precoce.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2. REDUZIR OS CUSTOS DE CONTEXTO E EXECUTAR A SIMPLIFICAÇÃO ADMINISTRATIVA
 
@@ -1228,11 +1328,11 @@ O regime jurídico de acesso e exercício a atividades de comércio, serviços e
 
 FIGURA 46 | PRINCIPAIS OBJETIVOS E SUAS CONCRETIZAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 A sistematização de um vasto conjunto de regimes jurídicos num único diploma permitiu constituir um instrumento facilitador do enquadramento legal das atividades em causa. Um regime desta natureza oferece uma maior segurança jurídica aos agentes económicos e potencia um ambiente mais favorável ao acesso e exercício das atividades abrangidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.2 Melhorar as condições e garantias para empresas e consumidores nas vendas à distância
 
@@ -1252,7 +1352,7 @@ Acresce que o direito de livre resolução passa a estar regulamentado de igual 
 
 A Diretiva estabelece também algumas normas aplicáveis aos contratos de consumo celebrados no estabelecimento comercial. Neste âmbito, prevê-se o aditamento de artigos - com vista ao reforço da proteção dos consumidores - relativos ao prazo de entrega dos bens e ao incumprimento desse prazo, à eventual exigência de pagamentos adicionais no âmbito do contrato, e à proibição de cobranças adicionais pela utilização de linhas telefónicas postas à disposição dos consumidores pelos profissionais no âmbito dos contratos celebrados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.3 Introdução do livro de reclamações eletrónico
 
@@ -1262,7 +1362,7 @@ Volvidos sete anos sobre a data da entrada em vigor do [Decreto-Lei n.º 156/200
 
 Prevê-se, ainda através de um projeto-piloto, a criação do Livro de Reclamações Electrónico a funcionar em setores ou segmentos da atividade económica a definir.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.4 Revisão do código de publicidade
 
@@ -1278,7 +1378,7 @@ Também o desenvolvimento das novas tecnologias de comunicação e a generaliza�
 
 Importa assim proceder à revisão do Código da Publicidade no sentido de o adequar à realidade atual e aos desafios da economia digital, do comércio eletrónico e da expansão de novas formas de comunicação publicitária, bem como refletir e estudar uma eventual alteração da moldura sancionatória aplicável - i.e. o regime geral das contraordenações e coimas - e o seu impacto e eficácia dissuasora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.5 Avaliar os custos de contexto ao nível local
 
@@ -1292,7 +1392,7 @@ Não tendo o Governo legitimidade institucional para interferir no âmbito de ma
 
 Face ao elenco de custos de contexto de âmbito local, o Ministério da Economia (ME) irá articular-se com o Ministro Adjunto e do Desenvolvimento Regional, para uma reflexão profunda, conjunta com a Associação Nacional de Municípios Portugueses (ANMP), sobre esta matéria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.6 Avaliar formas de agilizar as alterações aos Códigos de Atividade Económica
 
@@ -1306,13 +1406,13 @@ O CAE relevante para todos os efeitos legal é o que consta no SICAE.
 
 Desenvolver um estudo para avaliar os desafios colocados pela existência de CAE em setores que pretendem crescer e estão sujeitos a grandes mudanças a nível local e mundial. Pretende-se desafiar o tecido empresarial a identificar os desafios que os CAE apresentam e analisar os casos de recusas/não aprovação de candidaturas a programas públicos de apoio ao investimento, nomeadamente através da identificação de situações que podem ter na sua base uma desadequada compreensão da realidade da atividade das empresas resultante da qualificação estrita por vezes causada a partir do CAE (por exemplo, casos de algumas empresas de consultoria que pretendem internacionalizar-se com apoio dos programas públicos mas cujas candidaturas não são elegíveis para apoios de consultoria fiscal ou jurídica porque - por força dos CAE - são tidas como empresas de consultoria generalizada e sem diferenciação no tipo de consultoria).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.7 Agilizar os processos contratação nos setores e a valorização técnica nas áreas do comércio e dos serviços
 
 POR IMPLEMENTAR
 
-# Parte significativa do crescimento do emprego recentemente observado em Portugal ocorreu no setor do comércio, serviços e restauração e é expetável que esta tendência prevaleça no futuro próximo.
+Parte significativa do crescimento do emprego recentemente observado em Portugal ocorreu no setor do comércio, serviços e restauração e é expetável que esta tendência prevaleça no futuro próximo.
 
 Neste sentido, muitos dos novos negócios no setor do comércio, serviços e restauração precisam de ter modelos de recrutamento e empregabilidade suficientemente flexíveis para, de forma rentável, explorar mercados de pequena dimensão e prestar serviços inovadores (horários alargados, entregas aos domicílios, gestão de plataformas de e-commerce).
 
@@ -1320,7 +1420,7 @@ O emprego no setor do comércio, serviços e restauração deve tornar-se uma op
 
 Uma maior aproximação das empresas do comércio, serviços e restauração às escolas profissionais também seria benéfico. Deve-se valorizar a formação técnica na área do comércio e serviço, por exemplo, enquadrada no Modelo de Ensino Dual (incluído no âmbito do EFICE) e estudar formas de reorganizar a capacidade dos Centros de Emprego para responderem a oportunidades de recrutamento nestes setores, tipicamente fragmentado e com processos informais (vide o tradicional papel colado nas montras).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.8 Resolução alternativa de litígios de consumo
 
@@ -1342,7 +1442,7 @@ Em última instância, a garantia do acesso a meios alternativos de resolução 
 
 A transposição da Diretiva é da competência do Ministério da Justiça (MJ) e conta com a assistência do ME
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.9 Grupo de trabalho para avaliar e promover a utilização de «Big Data» em Portugal
 
@@ -1356,7 +1456,7 @@ A CNPD tem um papel importante na identificação e resolução dos diversos ped
 
 A utilização de ferramentas de análise de dados pode ser uma fonte de informação para decisões estratégicas e de inovação das empresas. A criação de valor para o negócio, a partir da informação existente é, em alguns casos, vital para que as organizações se tornem mais eficientes, produtivas e competitivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 2.10 Criação de regras tendo em vista à proteção de informações comerciais confidenciais
 
@@ -1378,7 +1478,7 @@ A proposta de Diretiva tem relevância no âmbito dos objetivos da Estratégia E
 
 A proteção destes segredos distingue-se da que é conferida à propriedade intelectual e industrial, pois, no caso destes últimos, trata-se de uma proteção absoluta, isto é, a propriedade intelectual, por exemplo, de direito de autor ou de obras de arte e a propriedade industrial, através de patentes, marcas e desenhos e modelos, conferem ao seu titular uma proteção equivalente à do direito de propriedade de imóveis, que constitui um direito exclusivo de exploração, oponível universalmente a terceiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3. INCREMENTAR A COMPETITIVIDADE E O ACESSO AO FINANCIAMENTO
 
@@ -1396,7 +1496,7 @@ A evolução das taxas de juro a empresas/sociedades não financeiras tem sido u
 
 FIGURA 47 | TAXA DE JURO (%) DE NOVOS EMPRÉSTIMOS DOS BANCOS ÀS EMPRESAS - TOTAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Fonte: ME-GEE, a partir de dados de base do INE, I.P., e BCE
 
@@ -1410,7 +1510,7 @@ Entrou em vigor a 25 de fevereiro de 2014, o regime jurídico das práticas indi
 
 Estando em causa uma matéria sensível e práticas comerciais de difícil prova, importa agora acompanhar e monitorizar de perto a aplicação deste regime, no sentido de avaliar os seus impactos, positivos e negativos, e uma eventual clarificação e revisão do mesmo no final do ano 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.2 Programa para a competitividade das pequenas e médias empresas
 
@@ -1430,7 +1530,7 @@ A partir de 2013 e até 2020, 330 mil empresas da UE deverão beneficiar deste m
 
 Importa promover uma ampla divulgação deste Programa, para que as PME portuguesas, que constituem a grande maioria do tecido empresarial nacional, tirem o melhor partido deste programa comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.3 Comércio Investe - Sistema de Incentivos ao Investimento
 
@@ -1448,7 +1548,7 @@ Esta iniciativa, que totaliza 50 milhões de euros de apoio às empresas do seto
 
 À data do fecho das candidaturas (2 de dezembro de 2013), foram submetidos um total de 1.463 projetos, com um valor total de 96 milhões de euros. As decisões de concessão de incentivos foram publicadas no dia 12 de março de 2014, tendo sido aprovados 836 projetos, representando o apoio a 1183 empresas, entre projetos individuais e conjuntos. Os projetos apoiados envolvem a criação potencial de 1516 postos de trabalho, tendo sido esgotado o valor total do sistema de incentivos (25 milhões de euros) para apoiar projetos de investimento, com o valor total de 60,8 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.4 Projetos conjuntos de qualificação comercial
 
@@ -1458,7 +1558,7 @@ No âmbito das medidas de apoio ao comércio de proximidade, pretende dar-se pri
 
 Os apoios vão focar em projetos com crescente conteúdo qualitativo, de qualificação, da oferta comercial, de melhoria de imagem e da gestão e da introdução de marcas, aumentando a atratividade dos espaços individuais e agregados para os clientes. Esta iniciativa, no âmbito do Comércio Investe, será dirigida a empresas comerciais de micro ou pequena dimensão podendo, pela abrangência estratégica integrada, incluir empresas de serviços.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.5 Portugal 2020 - Apoios para a competitividade do próximo período de programação 2014-2020
 
@@ -1476,7 +1576,7 @@ No âmbito dos trabalhos de preparação do Acordo de Parceria entre Portugal e 
 
 . Apoio na participação em feiras nacionais e internacionais, aumentado a visibilidade de marcas de sucesso e alargando o potencial de mercado dos produtos ou serviços.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.6 Promover o financiamento colaborativo (crowdfunding)
 
@@ -1502,7 +1602,7 @@ O Governo acredita no potencial do financiamento colaborativo, na promoção da 
 
 . Acompanhar de perto os esforços das empresas e associações da indústria para desenvolver normas quer a nível nacional, quer a nível europeu em matéria de transparência e melhoria de práticas, tendo o objetivo de informar os proprietários dos projetos e contribuintes, protegendo-os de fraude e garantindo um tratamento adequado em caso de reclamação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.7 Estratégia territorial para o comércio, serviços e restauração
 
@@ -1592,7 +1692,7 @@ A localização da loja rural, em espaços de atração turística é outra vant
 
 A aprovação desta estratégia nacional, com propostas de medidas a implementar, em articulação entre a administração central e os municípios, seria independente dos instrumentos de gestão territorial que, em cada caso, se revelem necessários à sua concretização, para assim assegurar um melhor ajuste à vocação pretendida do documento, que envolve não somente opções de política pública mas também a iniciativa privada ligada ao comércio, serviços e restauração, permitindo o devido dinamismo das atividades empreendedoras, a liberdade aos agentes económicos, e aos próprios municípios, nas opções de instalação das atividades de comércio, serviços e restauração, e promovendo a eliminação de barreiras ao estabelecimento de novos negócios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.8 Alargar a marca «Portugal Sou Eu» junto aos setores dos serviços
 
@@ -1610,7 +1710,7 @@ A adesão das empresas ao programa «Portugal Sou Eu» será importante para apo
 
 Paralelamente, o setor do comércio e serviços poderá depois aliar a visibilidade interna da sua adesão ao «Portugal Sou Eu», na expansão para os mercados internacionais beneficiando da visão integrada, com outras marcas Portuguesas em diversos meios de venda e comunicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 3.9 Capacitação das pequenas e médias empresas para a dinamização de modelos de negócios mais competitivos
 
@@ -1632,7 +1732,7 @@ Estas ações de capacitação visam o fortalecimento das competências dos empr
 
 . Estimular a inovação no setor do comércio e dos serviços, através do envolvimento dos diferentes intervenientes nos negócios na construção de novas soluções (cocriação) e da interação com estruturas de inovação, de que são exemplo os living labs, com vista à dinamização de projetos que permitam, para além da partilha de conhecimentos, experimentar novas formas de atendimento ao cliente e de comercializar os produtos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4. CAPACITAR A INTERNACIONALIZAÇÃO E A ECONOMIA DIGITAL
 
@@ -1656,7 +1756,7 @@ O setor deve procurar a utilização de ferramentas digitais que permitem o aces
 
 O site do programa PME digital inclui informação geral sobre toda a oferta de produtos e de serviços, bem como informação prática para poder escolher as soluções mais adequadas às necessidades de cada empresa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.2 Mentor diáspora portuguesa para apoio à exportação
 
@@ -1668,7 +1768,7 @@ As missões diplomáticas e as embaixadas, em colaboração com outras iniciativ
 
 Esta medida poderá ser aproveitada pelas empresas que pretendem obter uma primeira fonte de informação, de um português que vive e conhece algumas características do mercado e como se opera. Este tipo de informação poderá dar dados mais atuais do que por vezes são disponibilizados em relatórios institucionais elaborados por iniciativa pública ou privada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.3 Marca «Portugal Sou Eu» para apoio à internacionalização
 
@@ -1680,7 +1780,7 @@ A medida pretende dar um maior apoio à internacionalização da marca Portugal.
 
 A criação de uma marca agregadora permite gerar uma maior visibilidade internacional às empresas, organizando-as numa lógica de cluster nacional, beneficiando assim de uma maior projeção e criando sinergias entre si.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.4 Alargamento dos instrumentos de apoio à promoção e internacionalização às empresas
 
@@ -1696,7 +1796,7 @@ Pretende-se o reforço de programas como «Programa Novos Exportadores» e uma m
 
 Neste processo deve-se assegurar que os critérios de seleção minimizem requisitos de maturidade de experiência nos mercados interno e externo, pois há empresas que, pela valência do seu bem ou serviço, têm logo à partida uma vocação para oferecer os seus serviços em mais do que um mercado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.5 Concretizar uma presença unificada na Internet e em aplicações para telemóveis
 
@@ -1712,7 +1812,7 @@ Esta medida pretende avançar em duas frentes:
 
 2. A segunda fase incluiria (numa única página de Internet, e numa aplicação de telemóvel unificada) a geolocalização de todas as empresas aderentes à iniciativa. Este elemento é particularmente importante para - na chegada de touristas ou para a promoção do comércio de rua - que haja uma fonte de informação que ajude a pessoa a identificar um produto ou serviço e receba indicações de como ir ter ao ponto de venda ou estabelecimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.6 Maximização do potencial da Diretiva Serviços no mercado único Europeu
 
@@ -1738,7 +1838,7 @@ Para o efeito, a DGAE deve coordenar a realização de parcerias com as comunida
 
 Em suma, para o operador económico, a DS permite a internacionalização dentro do mercado único e, com esta medida, perspetiva para Portugal uma plataforma de serviços de valor acrescentado para as empresas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 4.7 Protocolo de estágios para recém-licenciados com Organizações Internacionais de Comércio
 
@@ -1754,7 +1854,7 @@ Conhecer as organizações mundiais que contribuem para a regulamentação e sim
 
 Os recém-licenciados podem depois regressar com validos conhecimentos para as empresas portuguesas, com uma visão internacional do panorama de negócios mundiais que afetam diretamente as operações das empresas portuguesas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 5. REVITALIZAR E FOMENTAR A RESTAURAÇÃO E SIMILARES
 
@@ -1780,7 +1880,7 @@ Os objetivos principais eram:
 
 A medida - articulada entre o MS, o ME e o Ministério da Solidariedade, Emprego e Segurança Social (MSESS) - deve procurar criar, para os grupos de trabalhadores elencados no artigo 76.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, um regime alternativo ao prestado pelas empresas prestadoras de serviços em matéria de medicina no trabalho que garanta, simultaneamente, a avaliação eficaz das condições de trabalho e dos riscos profissionais e a existência de uma solução globalmente mais favorável para os empresários individuais e microempresas sem risco elevado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 5.2 Avaliar a criação de uma linha de financiamento específica para o setor da restauração entre as linhas de financiamento existentes
 
@@ -1790,11 +1890,11 @@ Dentro das linhas de financiamento já existentes e os fundos ainda disponíveis
 
 Dado que o FMC não é elegível para empresas do setor da restauração e similares, deve-se avaliar a disponibilidade e estudar as seguintes características da linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Anteriores linhas de financiamento para o setor da restauração e similares estavam destinadas a investimento novo em ativos fixos corpóreos ou incorpóreos e ao aumento de fundo de maneio associado ao incremento da atividade, com exceção de operações de financiamento destinadas à aquisição de terrenos, imóveis, viaturas e bens em estado de uso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 5.3 Estudar a criação de uma linha de financiamento para capitalizar a restauração e similares
 
@@ -1806,7 +1906,7 @@ Analisando o período decorrido entre 2006 e setembro de 2013, verifica-se uma d
 
 As limitações do setor financeiro em suportar financeiramente a economia através de empréstimos com períodos de reembolso mais alargados implicam que o Governo deve avaliar a criação de uma linha de capitalização para as empresas do setor da restauração e similares para melhorar os seus indicadores financeiros e consequente acesso a outras linhas de financiamento. Esta medida visa aumentar a capacidade de gestão financeira e proporcionar condições para a recuperação das empresas no setor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 5.4 Regulação da atividade das entidades de gestão coletiva do direito de autor e dos direitos conexos
 
@@ -1818,7 +1918,7 @@ O objetivo desta medida é assegurar, por um lado, uma cobrança pelas várias e
 
 Esta medida avançou através da Proposta de Lei 245/XII, já aprovada na generalidade, na Assembleia da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 5.5 Protocolo de estágios para recém-licenciados com Organizações Internacionais de Hotelaria e Restauração
 
@@ -1830,23 +1930,23 @@ O objetivo é celebrar um protocolo com uma duração mínima de 3 anos para que
 
 Os recém-licenciados podem depois regressar com validos conhecimentos para as empresas portuguesas com uma visão internacional do panorama hotelaria e restauração e promover algumas das melhores práticas identificadas na sua experiência internacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 LISTAGEM DE MEDIDAS, CRONOGRAMA DE EXECUÇÃO E OBJETIVOS
 
 T = Trimestre | O = por implementar; I = implementado/em curso | n.a. = Não Aplicável | * Identificação preliminar dos responsáveis por acompanhar a implementação da medida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 CRONOGRAMA DE IMPLEMENTAÇÂO DAS MEDIDAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Nota: Existem medidas na ESTRATÉGIA DE FOMENTO INDUSTRIAL PARA O CRESCIMENTO E O EMPREGO 2014-2020 que serão articuladas com a Agenda e que beneficiarão os setores do comércio, serviços e restauração e outras atividades destes setores que ficaram fora do âmbito da Agenda
 
 DETALHE DOS 6 OBJETIVOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 NOTAS EXPLICATIVAS E FONTES
 
@@ -1862,44 +1962,44 @@ Este documento considera as seguintes secções da CAE-Rev. 3 nos setores de com
 
 Comércio: Setor cujas atividades de negócio incluem todas as atividades, funções e empresas envolvidas na transferência de bens dos produtores aos consumidores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Serviços: Setor cujas atividades de negócios incluem todas as atividades, funções e empresas envolvidas no fornecimento de bens e serviços intangíveis, incluindo o alojamento e restauração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Restauração: Setor cujas atividades de negócios incluem todas as atividades, funções e empresas envolvidas no fornecimento de bens e serviços de restauração, incluindo a atividade económica de alojamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
 
 Nota: A inclusão da vertente de "comércio" dos motociclos no setor de Serviços deriva do menor peso destas empresas e por a maioria das mesmas vender também serviços de manutenção e reparação de motociclos.
 
 Foram ainda excluídos as seguintes atividades de serviços das secções:
 
-#### Secção H da CAE Rev. 3 - Transportes e armazenagem
+Secção H da CAE Rev. 3 - Transportes e armazenagem
 
 . São parte integrante da economia e integram à componente logística da cadeia de valor do comércio e da indústria. O EFICE detém medidas direcionadas a estas atividades que irão beneficiar os setores de comércio e serviços.
 
-#### Secção P da CAE Rev. 3 - Educação
+Secção P da CAE Rev. 3 - Educação
 
 . Primordialmente no âmbito do Ministério da Educação e Ciência
 
-#### Secção Q da CAE Rev. 3 - Atividades de saúde humana
+Secção Q da CAE Rev. 3 - Atividades de saúde humana
 
 . Primordialmente no âmbito do Ministério da Saúde
 
-#### Secção R da CAE Rev. 3 - Atividades Artísticas
+Secção R da CAE Rev. 3 - Atividades Artísticas
 
 . Primordialmente no âmbito da Secretaria de Estado da Cultura
 
-#### Secção K da CAE Rev. 3 - Serviços financeiros e seguros
+Secção K da CAE Rev. 3 - Serviços financeiros e seguros
 
 . São setores transversais à economia e não estão limitados ao comércio, serviços e restauração
 
-#### Secção O da CAE Rev. 3 - O Administração Pública
+Secção O da CAE Rev. 3 - O Administração Pública
 
 . É um setor transversal à economia e não estão limitados ao comércio, serviços e restauração
 
 Explicações dos Conceitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02201/0000200070.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12000/0305203053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/105/2019/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2019-122686171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d60785f988ee9202265931ebabcc5292dd2c8fa012503acb1991824d08b5eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90654e8a7aa4ae2ed410ca594510b2307d530a503fe35548c681ff4b3a6c9302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infarmed
 - Conselho Diretivo
+- Infarmed
 - Nomeação
 - Presidente
 - Vice-presidente
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553466:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:51Z'
   warnings: []
   errors: []
 ---
@@ -158,3 +170,5 @@ Cláudia Susana da Conceição Robalo de Jesus Belo Ferreira, nascida a 22 de ag
 Percurso académico: Licenciada em Contabilidade e Gestão, ramo Contabilidade e Gestão Financeira, Instituto Politécnico de Castelo Branco (2000). Bacharel em Contabilidade e Gestão de Pessoal, Instituto Politécnico de Castelo Branco (1994). Formação pós-graduada em Direito e Prática da Contratação Pública (Universidade Católica Portuguesa, 2010). Curso de Alta Direção em Gestão de Unidades de Saúde para Gestores (Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa, 2015), Programa de Direção de Empresas (AESE Business School, Lisboa, 2014), Programa de Formação e Gestão Pública (Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas, 2007).
 
 Percurso profissional: Iniciou a sua carreira profissional como Técnica de Contabilidade na NERcab - Associação Empresarial da região de Castelo Branco em 1996. Entre 1997-1999, exerceu a função de Técnica Administrativa/Financeira na Cooperativa de Produtores de Queijo da Beira Baixa, CRL. Em 1999, ingressou na Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), onde exerce a função de Técnica Licenciada dos Serviços Financeiros até 2002. Na Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), assumiu o cargo de Coordenadora da Unidade Operacional de Gestão Financeira e Patrimonial, entre 2002-2003, o cargo de Diretora do Departamento de Gestão Financeira e Orçamental, entre 2003-2008, o cargo de Diretora da Unidade Financeira e Patrimonial, entre 2008-2010 e desde 2011, o cargo de Diretora da Direção de Recursos Humanos e Patrimoniais.
+
+112387122

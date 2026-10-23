@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/61/2015/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2015-69982738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0bead4b1e9aba9889dbbcf4f293af8312e169bf9644b3462820b9a47b9eec2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166fea6ef5709fca2697bc4b98715e87685ac2773f7b8fa7449a74c6256a5642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
-- Exclusão Social
 - Centro Urbano
 - Cidade
-- Portugal
-- Plano Estratégico Nacional
-- Planeamento Urbano
-- Renovação Urbana
-- Europa
-- Proteção do Ambiente
 - Desenvolvimento Urbano
-- Gestão do Ambiente
 - Equipamento Urbano
-- Programa Operacional
-- Qualidade de VIDA
-- Prédio Urbano
+- Europa
+- Exclusão Social
+- Gestão do Ambiente
+- Organização Territorial
+- Planeamento Urbano
+- Plano Estratégico Nacional
+- Portugal
 - PORTUGAL 2020
+- Prédio Urbano
+- Programa Operacional
+- Proteção do Ambiente
+- Qualidade de VIDA
+- Renovação Urbana
 relationships:
 - type: cites
   target: celex:32013R1301
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:32Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +231,7 @@ Fomento da atratividade, da projeção e da conetividade das áreas metropolitan
 
 A estratégia «Cidades Sustentáveis 2020» configura-se como uma proposta de âmbito nacional, aplicável ao nível local, para um futuro mais sustentável das nossas cidades, articulando uma visão com um conjunto de princípios orientadores e quatro propostas de eixos estratégicos de intervenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 3.1 - Objeto: a cidade nas suas múltiplas dimensões
 
@@ -233,15 +241,15 @@ Além disso, as cidades são hoje realidades muito díspares e heterogéneas, se
 
 Enquanto sistemas abertos e dinâmicos, sobre os quais interagem múltiplos agentes, em distintas escalas temporais e espaciais, as cidades contemporâneas apelam a novas leituras e entendimentos, bem como ao estabelecimento de novas fronteiras e dimensões de análise e de intervenção. Por um lado, há que ultrapassar a referência nostálgica do espaço urbano no seu sentido clássico, ainda muito toldada pelo imaginário da cidade antiga, compacta e limitada. Por outro lado, mais do que os limites impostos por uma jurisdição político-administrativa, a cidade contemporânea conforma-se e carateriza-se a partir de um conjunto de relações funcionais que se estabelecem com a região e os diferentes hinterlands que a envolvem, incluindo o marítimo e o rural, bem como com outras cidades e centros urbanos, constituindo redes urbanas sustentadas em lógicas de complementaridade e interdependência. Nesta ótica, determinam-se três dimensões territoriais estratégicas para a intervenção nas cidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Dimensão intraurbana, relativa aos núcleos urbanos e aos espaços urbanos edificados, tendo em consideração o seu papel no funcionamento social, económico, cultural e ambiental da cidade, bem como os seus territórios-comunidade de base local.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Dimensão cidade-região, relativa às áreas de influência funcional das cidades, às interações e interdependências económicas e sociais entre os centros urbanos e a região urbano-rural onde se inserem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Dimensão interurbana, relativa às redes de relações entre cidades e aos fluxos gerados entre elas numa base de polarização, de complementaridade, de diferenciação e hierarquia urbana, cujo potencial sistémico depende da qualidade das sinergias encontradas e das associações estabelecidas.
 
@@ -267,7 +275,7 @@ A criação de uma estratégia orientadora para as cidades e avaliação da sua 
 
 A estratégia «Cidades Sustentáveis 2020» ambiciona responder às debilidades e necessidades de estruturação urbana do território e atuar no sentido de fortalecer e consolidar a visão de desenvolvimento territorial partilhada entre os agentes do território, contribuindo para a promoção das condições necessárias à competitividade, sustentabilidade e coesão nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Assim, ambicionam-se cidades sustentáveis, que são:
 
@@ -311,7 +319,7 @@ Cidades ligadas com o seu território envolvente e palco privilegiado de coopera
 
 A prossecução da visão descrita no número anterior, e em resposta aos desafios identificados, sustenta-se em oito princípios orientadores, que deverão nortear a política e as decisões de investimento, com vista ao desenvolvimento urbano sustentável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 1 - Estruturação urbana do território, promovendo o reforço do sistema urbano nacional e assumindo-o como referência transversal e critério ordenador na implementação das políticas públicas, para a estruturação equilibrada e eficiente do território nacional e para a coordenação estratégica das regiões e cidades;
 
@@ -331,11 +339,11 @@ A prossecução da visão descrita no número anterior, e em resposta aos desafi
 
 A prossecução da visão descrita no n.º 4 e a resposta aos desafios identificados no diagnóstico territorial realiza-se mediante quatro eixos estratégicos, alinhados com os grandes objetivos da «Estratégia Europa 2020» e com os objetivos temáticos e prioridades de financiamento no âmbito do novo quadro europeu relativo aos FEEI. Assim, apresenta-se um conjunto de medidas organizadas por estes eixos estratégicos, cuja aplicação integrada contribuirá para a transformação das nossas cidades em cidades mais sustentáveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Nota. - As medidas integradas nos eixos estratégicos devem ser entendidas como um quadro de referência orientador, sendo as cidades livres de optar pelo conjunto de diretrizes e orientações estratégicas que considerem prioritárias, selecionadas de acordo com as especificidades próprias dos seus territórios, com as opções políticas locais e com a estratégia de desenvolvimento urbano sustentável que venham a consolidar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 7 - Implementação, acompanhamento e monitorização
 
@@ -365,7 +373,7 @@ As fontes de financiamento FEEI poderão ser complementadas com outras soluçõe
 
 Quadro 1 - Fontes de financiamento mobilizáveis por Eixo Estratégico/sub-eixo CS2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 7.1.2 - Abordagens territoriais integradas
 
@@ -419,11 +427,11 @@ Também a avaliação das propostas apresentadas no âmbito deste instrumento de
 
 Quadro 2 - Prioridades de investimento mobilizáveis por via do Eixo Prioritário de Desenvolvimento Urbano dos POR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Quadro 3 - Prioridades de investimento mobilizáveis por ITI e ou DLBC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 7.2 - Fórum Cidades Sustentáveis 2020: ferramentas de conhecimento para o desenvolvimento urbano sustentável
 
@@ -519,7 +527,7 @@ A metodologia a desenvolver na construção do ISU deverá permitir salvaguardar
 
 O ISU será calculado através de índices parcelares, que expressam a pontuação agregada das cidades no conjunto de descritores que integram cada domínio, tal como exemplificado na figura seguinte. Estes índices parcelares informam sobre a performance em cada um dos domínios de sustentabilidade considerados. A caraterização por domínios de sustentabilidade permite, de uma forma inteligível, ter uma perceção imediata dos benefícios e das fragilidades de cada cidade ou sub-região e informa, adicionalmente, sobre os diferentes perfis urbanos em matéria de sustentabilidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Exemplificação da estrutura de um ISU desenvolvido com base numa série de descritores, agrupados segundo diferentes domínios
 
@@ -591,7 +599,7 @@ Promoverá ainda o necessário alinhamento com o sistema urbano nacional e com o
 
 Urbanização, metropolização e litoralização: tendências mundiais de fundo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 1 - Imagens de satélite de luzes noturnas (NASA, 2012)
 
@@ -605,7 +613,7 @@ Portugal segue um processo de transição demográfica que questiona as estrutur
 
 O modelo de povoamento é assimétrico, com crescimento da população no litoral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 2 - População residente e densidade populacional por freguesia (DGT, 2012; INE, I. P., 2011)
 
@@ -631,7 +639,7 @@ As diferenças regionais requerem distintas abordagens estratégicas articuladas
 
 A expansão urbana em Portugal acompanhou as tendências europeias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 3 - Expansão urbana e evolução demográfica na Europa, 1990-2000 (adaptado de EEA, 2006)
 
@@ -639,13 +647,13 @@ Figura 3 - Expansão urbana e evolução demográfica na Europa, 1990-2000 (adap
 
 Expansão urbana excessiva e formas de ocupação dispersas e fragmentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 4 - Expansão urbana em Portugal e Espanha, 1990-2000 (adaptado de EEA, 2006)
 
 1.3.3 - O crescimento urbano verificado em Portugal nas últimas décadas teve como pressupostos um sistema jurídico associado às políticas fiscais, de solo e de acesso à habitação que estão hoje profundamente desajustadas e cujos efeitos dificilmente poderiam ser contrariados apenas por processos formais de ordenamento do território e de planeamento regional, mesmo que atualizados e adaptados à situação portuguesa. A crise económico-financeira dos últimos anos veio criar a oportunidade de se resolverem as distorções que hoje se verificam no acesso à habitação e na estabilização do crescimento urbano, permitindo repensar adequadamente a criação de novos equilíbrios nas áreas edificadas (regeneração das áreas antigas das cidades, remate das interfaces urbano-rurais, etc.), que deverão ser levados a cabo na próxima fase de crescimento económico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 5 - Ocupação urbana nas Cartas de Ocupação do Solo, COS'90 e COS'2007 (DGT, 2013)
 
@@ -655,7 +663,7 @@ Registou-se uma taxa de variação da ocupação urbana superior a 40 %
 
 Necessidade de reformar o quadro legal do ordenamento do território e urbanismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Figura 6 - Ocupação urbana nas Cartas de Ocupação do Solo, COS'90 e COS'2007, e categorias de solo urbano na Carta do Regime dos Usos do Solo, CRUS (DGT, 2013)
 
@@ -675,7 +683,7 @@ Encurtamento das distâncias entre os principais centros urbanos
 
 Ampla disseminação dos modos de vida e da cultura urbana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 1 - Redes de infraestruturas viárias (DGT, 2013)
 
@@ -699,7 +707,7 @@ Relação entre o depauperamento dos centros das cidades e a desqualificação d
 
 2.1.3 - As periferias urbanas, sobretudo na Área Metropolitana de Lisboa, caracterizam-se, tipicamente, por uma elevada densidade construtiva, infraestruturas muitas vezes incipientes e sem desafogo de vistas e paisagem. Não obstante, começam a registar-se melhorias nos seus espaços edificados e na interface com a rede hidrográfica e com os espaços verdes intersticiais, que um nível supramunicipal de coordenação efetivo poderá ajudar a consolidar nas próximas décadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 2 - Padrões de ocupação urbana (DGT, 2013)
 
@@ -735,7 +743,7 @@ A integração dos riscos e as políticas associadas à resposta às alteraçõe
 
 A sustentabilidade do desenvolvimento urbano passa também pela disciplina dos espaços rústicos adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 3 - Interfaces urbano-rurais (DGT, 2013)
 
@@ -771,7 +779,7 @@ Necessidade de se encontrar equilíbrio no património edificado
 
 Crescimento e «privatização» do parque habitacional português acima das necessidades da população
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 4 - Parque habitacional (DGT, 2013)
 
@@ -779,7 +787,7 @@ Fotografia 4 - Parque habitacional (DGT, 2013)
 
 Carências de regeneração dos centros urbanos degradados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 5 - Prédios devolutos e em estado de ruína (DGT, 2013)
 
@@ -805,7 +813,7 @@ Equação de respostas face aos processos de transformação estrutural
 
 Fenómenos agravados de desigualdade, pobreza e exclusão social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Fotografia 6 - Condições de insalubridade urbana (DGT, 2013)
 
@@ -879,16 +887,16 @@ Legenda:
 
 Eixo 1 - Inteligência & Competitividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Eixo 2 - Sustentabilidade & Eficiência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Eixo 3 - Inclusão & Capital Humano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
 
 Eixo 4 - Territorialização & Governança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15500/0570405741.pdf)

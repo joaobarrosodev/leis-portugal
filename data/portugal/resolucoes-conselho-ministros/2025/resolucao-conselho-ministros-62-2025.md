@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0009400095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,26 +47,42 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/62/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2025-911303071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53e513d2738d8d61ee914c0b4604b4d1c5af47bdb3fb138c22dffc9ace19432c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 440da3e954c0bd31b64ee0d20597be5088e65d6fbf4445d5b58555a7265b475a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Conselho de Ministros
+- Delegação de Competências
+- Despesas Públicas
+- Estado Maior General das Forças Armadas
+- Governo XXIV
+- Hospital das Forças Armadas
+- Ministro da Defesa Nacional
+- Obras Públicas
 relationships:
+- type: amended_by
+  target: pt:dre:1184061222:por
+  label: Alterados, com efeitos a 14 de outubro de 2026, o n.º 1, as alíneas a), b), c), d), e) do n.º 2 , os n.ºs 3,4,5 6,
+    7, 8 (este anterior n.º 5) e 9 (este anterior n.º 6) da presente resolução, pelo(a) Resolução do Conselho de Ministros
+    n.º 204/2026 - Diário da República n.º 204/2026, Série I de 2026-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/204-2026-1184061222
+  date: '2026-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -91,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2014/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2014/06/24/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:28Z'
   warnings: []
   errors: []
 ---
@@ -138,3 +178,5 @@ c) 2027 - € 6 172 700,96.
 6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 10 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118813403

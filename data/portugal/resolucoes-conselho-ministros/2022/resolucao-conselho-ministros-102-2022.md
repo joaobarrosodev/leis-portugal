@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20900/0001000017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/102/2022/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/102-2022-202787490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e28f5108b8bbe441e0a976dc0fc32a5440540d9364604037500b451e41bf0701
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a77088cf146ec14ab18a4d9b3a01e8187eb42b030c30760f93c051aa2925ec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Juventude
 - Coordenador
 - Definição de Competências
 - Despesas Públicas
 - Domínio Público do Estado
+- Fundação Jornada Mundial da Juventude Lisboa 2023
+- Grupo de Projeto para a Jornada Mundial da Juventude 2023
+- Jornada Mundial da Juventude 2023
+- Juventude
 - Lisboa
-- Secretaria Geral
 - Loures
 - Mandato
 - Presidência do Conselho de Ministros
 - Representante do Estado
 - Representante do Governo
-- Jornada Mundial da Juventude 2023
-- Grupo de Projeto para a Jornada Mundial da Juventude 2023
-- Fundação Jornada Mundial da Juventude Lisboa 2023
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
@@ -106,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/2021/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2021/04/28/p/dre
+- type: cites
+  target: pt:dre:162244838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:47Z'
   warnings: []
   errors: []
 ---
@@ -450,4 +474,6 @@ b) 2023 - (euro) 10 000 000;
 
 ## ANEXO — [a que se referem as alíneas a) e b) do n.º 1 e as alíneas a) e b) do n.º 2]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/10/20900/0001000017.pdf))](https://files.diariodarepublica.pt/1s/2022/10/20900/0001000017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/10/20900/0001000017.pdf)
+
+115809576

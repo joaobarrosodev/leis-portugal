@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1996, 4º Suplemento, Série I-B de 1996-07-15
   number: '162'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1970-(95) a 1970-(96)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b04/00950096.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254-fa/1996/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-fa-1996-157220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 629f0cccf4a73859f27defc8d5125030a029cb7d7b7201fc83fb3d050b40189a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3058b6760df1eef42d1b81954f1fe8f49c4dc2bac001e7acf696d6bc9efa09f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:482857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286946:por
+  label: "Renovada a concessão da zona de caça atribuída pelo presente diploma, pela PORT.635/2004.14.06.2004.MADRP, DR.IS-B\
+    \ [138] de 14.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-2004-286946
+  date: '2004-06-14'
+- type: amended_by
+  target: pt:dre:482857:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pelo presente diploma, renovada pela Port 635/2004,\
+    \ de 14-Jun, pela PORT.1302/2009.19.10.2009.MADRP, DR.IS [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1302-2009-482857
+  date: '2009-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-s11/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-s11/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:41Z'
   warnings: []
   errors: []
 ---
@@ -138,8 +174,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 11 de Julho de 1996.**
+Assinada em 11 de Julho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/162b04/00950096.pdf))](https://files.diariodarepublica.pt/1s/1996/07/162b04/00950096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/162b04/00950096.pdf)

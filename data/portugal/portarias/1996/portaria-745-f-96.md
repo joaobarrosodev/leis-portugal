@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18
   number: '292'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4532-(6) a 4532-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/292b02/00060008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745-f/1996/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-f-1996-584810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 785f2196da026516e94d4e9250b5b1fb8b44f6c4cc4e2a42e9f562fd94b18212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3dc46587fd317acb6ec8158bbb74f43d1dd65b8cc70f8c865b0fe5126f12926
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Financiamento
 - Instituto Português da Juventude
 - Jovem
-- Programa Iniciativa
 - Política de Juventude
+- Programa Iniciativa
 - Registo Nacional das Associações Juvenis
 - Regulamento
 relationships:
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
+- type: cites
+  target: pt:dre:226063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:44Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +123,9 @@ Prosseguindo no caminho da transparência na atribuição de dinheiros públicos
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 17 de Dezembro de 1996.**
+Assinada em 17 de Dezembro de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro.**
+O Secretário de Estado da Juventude, António José Martins Seguro.
 
 REGULAMENTO DO PROGRAMA INICIATIVA
 

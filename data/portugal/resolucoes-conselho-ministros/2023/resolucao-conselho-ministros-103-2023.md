@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16800/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103/2023/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2023-221064621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac13a4e319d78570fe86be3c27c59dd2adf8cf41f4237e8ab93915ecc857d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6b949cca105e16e9ad71a2adf88f66c68d6a7cb64ae184648f8d0c727e410a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Alimentação
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Financiamento
 - Conselho de Ministros
+- Conselho Diretivo
 - Delegação de Competências
 - Despesas Públicas
-- Conselho Diretivo
+- Financiamento
 - FSE
-- Membros do Governo
-- Alimentação
-- Indústria Alimentar
-- Ministro do Trabalho Solidariedade e Segurança Social
 - Governo XXIII
+- Indústria Alimentar
+- Instituto da Segurança Social
+- Membros do Governo
+- Ministro do Trabalho Solidariedade e Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:895990768:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:895990768:por
+  label: Alterados a partir de 12 de novembro de 2024 os n.os 1, 2 e 4 pelo(a) Resolução do Conselho de Ministros n.º 161/2024
+    - Diário da República n.º 218/2024, Série I de 2024-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/161-2024-895990768
+  date: '2024-11-11'
 - type: cites
   target: celex:32013R1296
   label: null
@@ -116,16 +122,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553887:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:32Z'
   warnings: []
   errors: []
 ---
@@ -165,3 +191,5 @@ b) Janeiro a dezembro de 2024 - (euro) 58 448 150,46.
 6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 24 de agosto de 2023. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116801955

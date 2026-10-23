@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140/2025/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-2025-934744202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f89ce4a6e2f5313f944868c8f30f68cd456329e9d9ac13632f16a62819c3da0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0179068e33a6da14ca457ac51360d668d63fb6217a18a405e1cf0fdc6262890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,16 +99,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70/2024/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2024/06/04/p/dre
+- type: cites
+  target: pt:dre:176519578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867844484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:922535861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:34Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +184,5 @@ Integrou a AICEP (ex-API - Agência Portuguesa para o Investimento) em fevereiro
 Foi quadro da Agência de Inovação, de 1997 a 2003, tendo desempenhado funções como gestora de projeto, onde desenvolveu auditorias tecnológicas, participou no programa de benchmarking setorial e acompanhou os processos de avaliação de projetos de I&DT empresariais.
 
 É licenciada em Ciências Económicas e Sociais, Economia Aplicada e Gestão do Desenvolvimento e do Emprego pela Université Grenoble Alpes, França (1991-1995), tem mestrado em Avaliação e Domínio da Inovação e Tecnologia pela Université Lumière Lyon 2, França (1996) e tem um Executive MBA Gestão Empresarial pela Porto Business School, Porto, Portugal (2001). É fluente em francês e inglês.
+
+119514604

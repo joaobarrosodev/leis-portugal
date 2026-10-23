@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06300/0001600020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/36/2021/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2021-160631106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a9197b0c2cfa41dd47ea60a1af13372248914775b088031db31084bed1a7767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e20ebb9b4dc903e4bcf7113439a0c55a12845877b398ba79c2bb2ddce81805b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Financiamento
+- Camões - Instituto da Cooperação e da Língua
 - Comissão Interministerial
 - Comissário
-- Reunião Internacional
 - Conselho de Ministros
 - Cooperação Bilateral
-- Política de Cooperação
-- Portugal
+- Cultura
 - Definição de Competências
 - Diretor
 - Embaixador
+- Financiamento
+- França
 - Gestão Orçamental
-- Camões - Instituto da Cooperação e da Língua
+- Governo XXII
+- Ministério dos Negócios Estrangeiros
 - Nomeação
 - Paris
-- Cultura
+- Política de Cooperação
+- Portugal
 - Remuneração
 - Representante do Estado
 - Representante do Governo
-- Ministério dos Negócios Estrangeiros
-- França
-- Governo XXII
+- Reunião Internacional
 - Temporada Cruzada
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:166484085:por
+  label: Exonerada, com efeitos a partir de 22.06.2021, Ana Paula Rosa designada pelo presente diploma pelo(a) Despacho n.º
+    6562/2021 - Diário da República n.º 129/2021, Série II de 2021-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6562-2021-166484085
+  date: '2021-07-06'
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:26Z'
   warnings: []
   errors: []
 ---
@@ -305,3 +315,5 @@ Licenciada em Ciências da Comunicação pela FCSH-UNL (Portugal, pré-Bolonha).
 1991-1992 - assessora do Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, com responsabilidade pelos programas de cooperação e representação nas Comissões Mistas de Cultura e Ciência.
 
 1986 a 1990 - técnica superior na então Direção-Geral da Comunicação Social, tendo integrado a Comissão do Thesaurus Português e o grupo «Concentração dos Media», do Conselho da Europa, em Estrasburgo.
+
+114112316

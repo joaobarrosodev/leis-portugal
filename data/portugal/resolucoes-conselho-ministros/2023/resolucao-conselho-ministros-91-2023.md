@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2023/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2023-216846232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20476fc69cc8dbfebbb6a91a95f8c8b611d411d96ffa712977929498cc682ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99fd87304b4f5232a85372b239693aa8b1ef88d5ed5e3ca228a4c9b8bdac04dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
 - Associação Nacional de Municípios Portugueses
+- Comissão Coordenadora dos Contratos Locais de Segurança
+- Comissão Nacional para os Contratos Locais de Segurança
 - Conselho Municipal de Segurança
-- Segurança Interna
+- Estratégia Integrada de Segurança Urbana
+- Núcleo Operacional dos Contratos Locais de Segurança
 - Polícia Municipal
 - Presidente da Câmara
-- Administração Local
-- Estratégia Integrada de Segurança Urbana
-- Comissão Nacional para os Contratos Locais de Segurança
-- Comissão Coordenadora dos Contratos Locais de Segurança
-- Núcleo Operacional dos Contratos Locais de Segurança
+- Segurança Interna
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2009/05/18/p/dre
@@ -105,16 +105,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
+- type: cites
+  target: pt:dre:108275627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114701945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116587910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203158503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212551390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66567251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:24Z'
   warnings: []
   errors: []
 ---
@@ -213,11 +253,11 @@ A EISU é, por natureza, um documento dinâmico, que pode e deve ser melhorado �
 
 A EISU, enquanto documento de orientação estratégica, está organizada em duas partes:
 
-# Parte I - Respeitante à problemática da segurança urbana e as diferentes dimensões de prevenção e combate aos fenómenos de violência urbana;
+Parte I - Respeitante à problemática da segurança urbana e as diferentes dimensões de prevenção e combate aos fenómenos de violência urbana;
 
-# Parte II - Respeitante à execução operacional da EISU, com a definição de eixos de intervenção, objetivos, medidas, indicadores, metas e entidades envolvidas.
+Parte II - Respeitante à execução operacional da EISU, com a definição de eixos de intervenção, objetivos, medidas, indicadores, metas e entidades envolvidas.
 
-# Parte I — Objeto e dimensões da Estratégia Integrada de Segurança Urbana
+## Parte I — Objeto e dimensões da Estratégia Integrada de Segurança Urbana
 
 A) A problemática da segurança urbana
 
@@ -385,7 +425,7 @@ Esta dimensão expressa-se no plano multinível no domínio do planeamento estra
 
 Figura 1. Relação entre a composição entre o CMS Restrito e a Comissão Coordenadora dos CLS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 4.1.1 - Os Conselhos Municipais de Segurança
 
@@ -407,11 +447,11 @@ Ao conselho restrito compete ainda participar na definição, a nível estratég
 
 Figura 2. Conselhos Municipais de Segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Figura 3. Pareceres relevantes do Conselho Municipal de Segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 4.1.2 - Os Contratos Locais de Segurança
 
@@ -429,7 +469,7 @@ A terceira estrutura do CLS é o núcleo operacional, que integra técnicos das 
 
 Figura 4. Estrutura e composição dos CLS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 É ao nível local, em articulação e complementaridade com a atividade dos (CLAS), que convergem as ações do plano operacional, orientadas para os objetivos que estão na matriz dos CLS, nomeadamente a redução da delinquência juvenil, das vulnerabilidades sociais, à eliminação dos fatores criminógenos e promoção da cidadania, da igualdade e da não discriminação.
 
@@ -437,7 +477,7 @@ Pretende-se, por esta via, evitar duplicações de estruturas, meios e recursos,
 
 Figura 5. Dinâmica de interação local e central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 A prevenção é o melhor instrumento de combate à violência e à prática de ilícitos, o que significa reduzir as causas que lhe dão origem, atuando ao nível do indivíduo (v.g., crianças vítimas de maus tratos, perturbações psicológicas, consumo de substâncias aditivas), das suas relações familiares e sociais (violência doméstica, negligência grave ou abandono, envolvimento em situações de violência), da comunidade local (pobreza, exclusão social, tráfico de droga a nível local, fatores situacionais) e da sociedade em geral (rápidas mudanças sociais, desigualdades económicas, elevada disponibilidade de armas, etc.).
 
@@ -463,7 +503,7 @@ Os elementos recolhidos, sempre anonimizados, permitem também obter informaçã
 
 Figura 6. Relação entre os CLAS e os CLS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 O DLS constitui um instrumento fundamental para a elaboração do plano de ação, no qual se integram e complementam os programas e projetos municipais e governamentais que dão resposta aos problemas identificados (ex.: plano de desenvolvimento social e plano de ação elaborados no contexto da Rede Social) e que traduzem a componente eminentemente social, essencial para a prevenção criminal. Contudo, permite também a sua articulação com a dimensão proativa operacional, dando corpo a uma intervenção estruturada que considera os principais fenómenos criminais identificados no RASI - desde logo, a criminalidade violenta e grave e a criminalidade grupal, mas também as ameaças de terrorismo, cuja Estratégia Nacional(xx) é também por esta via complementada, atendendo aos seus elementos caracterizadores.
 
@@ -471,7 +511,7 @@ Neste contexto, o DLS e, em particular, o plano de ação, focar-se-á nas condi
 
 Figura 7. Elaboração do Diagnóstico Local de Segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Para a elaboração do plano de ação e tipologia de ações a desenvolver, adota-se o modelo ecológico, na medida em que permite identificar as diversas categorias de medidas, direcionadas para um específico contexto (individual, relacional, comunitário ou social).
 
@@ -479,7 +519,7 @@ Figura 8. Modelo Ecológico. Fatores de risco comuns a diversos subtipos de viol
 
 Traduzido e adaptado de Organização Mundial da Saúde (2004)(xxi).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Importa, por outro lado, realçar que os DLS são, por natureza, "retratos" espácio-temporalmente datados, cuja atualização deve ser não apenas periódica, mas também permanentemente alimentada, relevando em particular, a informação recolhida e tratada pelo conselho restrito municipal de segurança, pelas comissões sociais de freguesia e pelas FS.
 
@@ -543,11 +583,11 @@ No âmbito da presente EISU, será elaborado um protocolo de atuação em situa�
 
 Figura 9. Dinâmica de acompanhamento de ocorrências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Figura 10. Dinâmica para eliminação de fatores criminógenos urbanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 4.2.1.2 - Programa Ensino Superior Seguro
 
@@ -683,7 +723,7 @@ A sua capacidade de processamento e de integração de dados e de análise de pa
 
 Figura 11. Quadro explicativo da georreferenciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 O sistema deve evoluir para a georreferenciação de pontos de interesse do ponto de vista criminal, nomeadamente estabelecimentos escolares, zonas comerciais, zonas de elevada concentração de pessoas (em particular quando ocorram grandes eventos), locais de lazer (jardins públicos, zonas de diversão noturna), instituições bancárias e de correios, ATM e plataformas intermodais.
 
@@ -717,11 +757,11 @@ Ao nível da dimensão das Ameaças, além da verificação da presença ou aus�
 
 Figura 12. Parte inicial da Ficha de diagnóstico de segurança detalhado em áreas residenciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Figura 13. Excertos da Ficha de registo para diagnóstico de segurança detalhado em áreas residenciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 A Ficha de Diagnóstico permite adicionar fatores adicionais ao modelo-tipo, de acordo com a especificidade da área residencial, contribuindo para o resultado final em termos de avaliação de risco associado à área objeto de análise.
 
@@ -729,29 +769,29 @@ Figura 14. Excertos da Ficha de registo para diagnóstico de segurança detalhad
 
 Fatores adicionais e instruções de cotação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 O preenchimento desta Ficha permite obter um nível de risco final (classificado de «muito reduzido» a «muito elevado») por dimensão considerada, de modo a que seja percetível de forma imediata quais as ações prioritárias na intervenção a desenvolver.
 
 Figura 15. Excertos da Ficha de registo para diagnóstico de segurança detalhado em áreas residenciais e exemplificação da sua cotação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Figura 16. Excerto da ficha de registo para diagnóstico de segurança detalhado em áreas residenciais ao nível da exemplificação da forma de ilustrar os resultados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 A ficha permite igualmente, no âmbito da avaliação efetuada à dimensão Ameaças, determinar qual a proporção de itens avaliados com nível médio a muito alto e determinar onde se situam ameaças mais graves (se no interior da área em causa, se no exterior da mesma ou se em ambas).
 
 Figura 17. Excerto da ficha de registo para diagnóstico de segurança detalhado em áreas residenciais ao nível da exemplificação da forma de ilustrar os resultados - Ameaças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 5.2 - Estabelecimentos de ensino
 
 Figura 18. Excerto da ficha de registo para diagnóstico de segurança de estabelecimento de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 5.3 - Ficha de análise compreensiva da criminalidade violenta registada
 
@@ -763,15 +803,17 @@ A ficha contempla diversos indicadores ao nível da caracterização dos interve
 
 Figura 19. Excerto da Ficha desenvolvida no contexto da CAIDJCV- Delinquência juvenil e criminalidade violenta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Figura 20. Excerto da Ficha desenvolvida no contexto da CAIDJCV - Delinquência juvenil e criminalidade violenta- avaliação da severidade da violência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 A utilização regular desta ficha permitirá a realização de análises comparadas, espácio-temporalmente definidas, contribuindo para um conhecimento aprofundado da realidade criminal por parte das entidades competentes.
 
-# Parte II — Plano de Ação
+Parte II
+
+Plano de Ação
 
 Eixos de intervenção;
 
@@ -785,7 +827,7 @@ Metas;
 
 Entidades envolvidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0012400167.pdf)
 
 Acrónimos e siglas
 
@@ -970,3 +1012,5 @@ UE | EU - União Europeia |European Union
 (xxxv) A aprovação do Regulamento da BDVMVD está sujeita a parecer prévio da CNPD e consulta ao CSM e PGR.
 
 (xxxvi) Mapeamento em plataforma SIG das ocorrências criminais como instrumento de apoio à decisão, com registo de: Lugar do crime; - Dia e hora da ocorrência; - Tipologia de crimes; - Identificação de perfis (anonimizados) dos autores e das vítimas; - Caracterização sociodemográfica; - Caracterização urbanística; - Equipamentos existentes na zona (escolas, bancos, CTT, ATM, transportes públicos, supermercados, centros comerciais, jardins, etc.).
+
+116752075

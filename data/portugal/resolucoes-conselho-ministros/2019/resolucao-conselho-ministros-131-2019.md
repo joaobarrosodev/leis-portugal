@@ -25,9 +25,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/131/2019/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-2019-123666113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1409650a8930f5764f74a0ec62e9fd8d92eca07abcf8148e3e764cd503b05eb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9dbbe7ef96aca7362a06063b5988fff6e02f81bd62e4ca6f9f34c936ba651c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão Interministerial para a Mobilidade Ativa Ciclável
 - Definição de Competências
+- Estratégia Nacional para a Mobilidade Ativa Ciclável
 - Instituto da Mobilidade e dos Transportes
-- Veículo
 - Mobilidade Sustentável
 - Política de Transportes
-- Estratégia Nacional para a Mobilidade Ativa Ciclável
-- Comissão Interministerial para a Mobilidade Ativa Ciclável
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:215338988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215338988:por
+  label: Alterados a partir de 01.06.2023 os n.os 3 a 6 e 9 a 11 e revogados na mesma data os n.os 7 e 8, as als. d) a f)
+    do n.º 11 e os n.os 13 e 14 pelo(a) Resolução do Conselho de Ministros n.º 67/2023 - Diário da República n.º 131/2023,
+    Série I de 2023-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/67-2023-215338988
+  date: '2023-07-07'
 - type: cites
   target: celex:32018L0844
   label: null
@@ -87,16 +92,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:311201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:12Z'
   warnings: []
   errors: []
 ---
@@ -215,13 +224,13 @@ A deslocação ativa para o trabalho ou escola reduz o absentismo por doença, e
 
 Mais ciclistas em circulação proporcionam maior sensação de segurança nas ruas, e mais oportunidades de interação social, beneficiando a economia de proximidade, pois o número médio de visitas a estabelecimentos comerciais tende a aumentar, bem como o nível total de consumo per capita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Fig. 1 - Velocidade relativa dos vários meios de transporte em contexto urbano
 
 [fonte: Comissão Europeia, Cycling: the way ahead for towns and cities (1999)].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Fig. 2 - Número potencial de pessoas transportadas num canal urbano com 3,5 m de largura, no período de uma hora
 
@@ -273,7 +282,7 @@ QUADRO 1
 
 Objetivos oficiais para a utilização da bicicleta em várias cidades europeias (fonte: ECF, 2015)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Também em relação ao Desempenho Energético dos Edifícios, cuja mais recente [Diretiva da UE (UE 2018/844)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32018L0844) terá de ser transposta para as legislações nacionais até março de 2020, inclui agora referências às questões da mobilidade, nomeadamente indicações aos Estados-Membros para que tenham em consideração políticas coerentes para edifícios, mobilidade ativa e sustentável e planeamento urbano:
 
@@ -287,7 +296,7 @@ O CiclAndo (Plano para a Promoção da Bicicleta e Outros Modos Suaves), apresen
 
 O enorme potencial que Portugal apresenta para se tornar um destino de excelência para a prática de caminhadas e ciclismo de lazer e ciclismo de lazer está materializado no projeto nacional Portuguese Trails, constante da Estratégia Turismo 2027, o qual visa promover Portugal como destino de «Cycling e Walking» junto dos turistas nacionais e internacionais. Este projeto, promovido pelo Governo de Portugal, conta já com mais de 14 200 Km em mais de 400 de percursos cicláveis e pedestres, ao longo dos quais se oferecem 194 programas turísticos distintos, e é desenvolvido em parceria com entidades públicas locais, regionais e nacionais e empresas turísticas. Todos estes percursos estão disponíveis na plataforma www.portuguesetrails.com. Neste âmbito foi ainda desenvolvida uma proposta de Sinalização das Rotas Cicláveis. Com o apoio do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.) e do Instituto Nacional para a Reabilitação, I.P. (INR, I. P.), a Federação Portuguesa de Ciclismo (FPC) lançou em 2014 o Programa Nacional de Ciclismo para Todos, que tem contribuído para apoiar a transição da prática desportiva e recreativa para o contexto quotidiano, e inclui o projeto «O Ciclismo vai à Escola» que, em articulação com a Direção-Geral da Educação (DGE), está a ensinar a pedalar os alunos, alcançando em 2018 um universo de 10 000 alunos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Nas universidades, o programa U-BIKE tem proporcionado a milhares de alunos e também a docentes e funcionários, a possibilidade de utilizarem bicicletas nas suas deslocações, mediante um pioneiro sistema de disponibilização de 2 500 velocípedes tradicionais e com assistência elétrica.
 
@@ -299,7 +308,7 @@ Rede ciclável existente e prevista, em Portugal Continental
 
 (fonte: Fundo Ambiental / IMT, I. P., 2018)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 A estas acrescem os mais de 850 km previstos no âmbito do Programa Portugal Ciclável 2030, destinados sobretudo à interconexão de redes municipais, o que resulta numa rede nacional em 2030, considerando apenas os planos conhecidos no presente, superior aos 7,5000 km. Importa manter o investimento dos municípios para além de 2023, de forma a que a rede completa se aproxime dos 10 000 km em 2030.
 
@@ -311,13 +320,13 @@ Produção e venda de bicicletas, nível de emprego na fileira industrial em Por
 
 (fonte: ABIMOTA, 2017)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 No entanto, e apesar de nos últimos anos terem sido desenvolvidas várias iniciativas, o reduzido uso da bicicleta em contexto quotidiano demonstra a existência de um contexto desafiante para os ciclistas, e a necessidade de uma intervenção estruturada para mudar o paradigma da mobilidade em Portugal.
 
 A ECF colocou Portugal na 27.ª posição em 28 países europeus em relação às condições de contexto para pedalar, devido à elevada sinistralidade e à reduzida quota modal da bicicleta. No que diz respeito à sinistralidade com peões, de acordo com a Comissão Europeia, Portugal apresenta uma taxa de mortalidade (número de mortos por milhão de habitantes) de 11,9, ligeiramente superior à média europeia de 10,6. Quanto aos utentes de velocípedes, Portugal apresenta uma taxa de mortalidade de 3,2, valor inferior à média europeia que é de 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Fig.5 - Percentagem da população que usa a bicicleta como principal modo de transporte
 
@@ -331,7 +340,7 @@ Percentagem de deslocações semanais, por meio de transporte principal nas Áre
 
 (fonte: Inquérito à Mobilidade nas Áreas Metropolitanas - INE, I.P., 2017)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Portugal é um dos países da UE onde menos se pratica exercício físico, constituindo a atual situação um sério problema de saúde pública, contribuindo negativamente para o bem-estar físico e mental de parte significativa da população. Os dados mais recentes mostram que 74% dos portugueses nunca ou raramente praticam exercício, e o número dos que praticam desporto de forma regular desceu de 8% em 2013 para 5% em 2017. Os próximos anos serão decisivos para recuperar o atraso significativo nesta área em relação a outros países europeus.
 
@@ -383,7 +392,7 @@ Para a implementação da Estratégia Nacional para a Mobilidade Ativa Ciclável
 
 Preveem-se quatro grandes áreas transversais: Enquadramento e Legislação, Investigação e Desenvolvimento, Monitorização e Avaliação, e Financiamento. A estas acrescem três eixos específicos de intervenção: Infraestruturas e Intermodalidade, Capacitação e Apoio, e Cultura e Comportamentos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 Fig. 6 - ENMAC (2020-30) - Modelo conceptual de implementação
 
@@ -401,7 +410,7 @@ Em 2030, qualquer cidadão em Portugal deverá poder optar naturalmente por desl
 
 Para garantir a maior eficiência e eficácia no uso dos recursos disponíveis, é importante o estabelecimento de um plano de ação, centrado nos utilizadores finais (peões e ciclistas), e devidamente orientado para os resultados, para maximizar o retorno do investimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 2.1. FATORES CRÍTICOS DE SUCESSO
 
@@ -901,7 +910,7 @@ MA - MONITORIZAÇÃO E AVALIAÇÃO
 
 Cada uma das Dimensões Estratégicas é concretizada por um conjunto de Medidas, num total de 51, cujo mapa se apresenta nas páginas seguintes, incluindo o respetivo cronograma de execução, as entidades responsáveis e as potenciais fontes de financiamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0004600081.pdf)
 
 GLOSSÁRIO
 
@@ -1044,3 +1053,5 @@ ZER (Zona de Emissões Reduzidas)
 Zona de Coexistência
 
 Área urbana delimitada onde são implementadas medidas de acalmia de tráfego, com o objetivo de reduzir o risco rodoviário, bem como o ruído e as emissões poluentes. Numa zona de coexistência, todos os utilizadores da via pública (com ou sem veículo) partilham o espaço de forma não hierarquizada.
+
+112481171

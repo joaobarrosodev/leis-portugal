@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19700/0013000131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/125/2023/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-2023-222645054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b93fc69127a58ab1d9bac2eeb30a238b07bc5b223374224aa44c48e20cd55a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b013a4a1f851622592c37ec535a2f7a2bb3511dc20a8595895f37191c69a0787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Despesas Públicas
+- Fundo Ambiental
 - Guimarães
 - Universidade do Minho
-- Fundo Ambiental
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2021/12/15/p/dre
@@ -100,16 +100,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2008/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2008/05/20/p/dre
+- type: cites
+  target: pt:dre:1035169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163442507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166025433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:02Z'
   warnings: []
   errors: []
 ---
@@ -165,3 +201,5 @@ c) Em 2025: (euro) 274 233,50.
 6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 7 de julho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116926655

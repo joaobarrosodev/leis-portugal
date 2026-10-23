@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/31/2023/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2023-210923319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 857c69aceb4d2312330bc4fce7e7f777c6478f0740b1f7453d0145c45ae80423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3d0a52b3aedaf5ccdbf5f5775372d178d58edb0d21fd21675f8ea15333493bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Gestão de Resíduos
-- Definição de Competências
-- Política Energética
-- Comissão de Acompanhamento da Gestão de Resíduos
-- Conselho Consultivo
-- Resíduo
-- Página na Internet
-- Proteção do Ambiente
-- Política do Ambiente
-- Madeira.região Autónoma
 - Açores
-- Autarquia Local
-- SISTEMA MULTIMUNICIPAL DE ÁGUAS E DE RESÍDUOS DA REGIÃO AUTÓNOMA DA MADEIRA
-- Plano Nacional de Gestão de Resíduos
-- Comissão Interministerial do Ar das Alterações Climáticas e da Economia Circular
-- Roteiro para a Neutralidade Carbónica 2050
-- Plano Nacional Energia e Clima 2030
 - Agência Portuguesa do Ambiente
+- Autarquia Local
+- Comissão de Acompanhamento da Gestão de Resíduos
+- Comissão Interministerial do Ar das Alterações Climáticas e da Economia Circular
 - Comissão interministerial para a Ação Climática
 - Comissão para a Ação Climática
+- Conselho Consultivo
+- Definição de Competências
+- Gestão de Resíduos
+- Madeira.região Autónoma
+- Página na Internet
+- Plano Nacional de Gestão de Resíduos
+- Plano Nacional Energia e Clima 2030
+- Política do Ambiente
+- Política Energética
+- Proteção do Ambiente
+- Região Autónoma
+- Resíduo
+- Roteiro para a Neutralidade Carbónica 2050
+- SISTEMA MULTIMUNICIPAL DE ÁGUAS E DE RESÍDUOS DA REGIÃO AUTÓNOMA DA MADEIRA
 relationships:
 - type: cites
   target: celex:31994L0062
@@ -183,6 +183,142 @@ relationships:
   target: eli:http://data.europa.eu/eli/reg/20
   label: null
   source: http://data.europa.eu/eli/reg/20
+- type: cites
+  target: pt:dre:106833282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107797867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114538726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115191272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1301985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131182918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176631058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181886178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186429710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66762671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060358:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31994L0062
   label: null
@@ -218,13 +354,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:58Z'
   warnings: []
   errors: []
 ---
@@ -351,7 +487,7 @@ c) Produtividade de recursos - 1,19 (euro)/kg.
 
 Figura 1 - Produto interno bruto, consumo interno de materiais e produtividade dos recursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Analisando o comportamento do CIM face ao PIB (base 2016, a preços constantes), constata-se que, entre 1995 e 2019, o CIM aumentou 16,7 % (24,5 milhões de toneladas), enquanto o PIB cresceu 40,5 %.
 
@@ -361,19 +497,19 @@ A produção global de resíduos apresentou oscilações ao longo da última dé
 
 Figura 2 - Produção de resíduos entre 2010 e 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Em termos de destinos, de acordo com a Figura 3, verifica-se que, em 2019, face a 2010, ocorreu um aumento da valorização orgânica e da valorização material, uma manutenção da valorização energética e um decréscimo da deposição em aterro, apesar das oscilações já referidas.
 
 Figura 3 - Resíduos por tipo de operação de tratamento entre 2010 e 2019 (2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Na Figura 4, pode observar-se a representatividade de cada operação de tratamento efetuada no ano de 2019.
 
 Figura 4 - Resíduos por tipo de operação de tratamento em 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.3 - Resíduos urbanos: produção por tipologia de resíduo
 
@@ -389,7 +525,7 @@ Na Figura 5 representam-se os quantitativos das principais tipologias de materia
 
 Figura 5 - Resíduos urbanos recolhidos por tipologia de material reciclável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.4 - Resíduos urbanos: Produção por tipo de recolha
 
@@ -397,7 +533,7 @@ Relativamente ao tipo de recolha de RU, verificou-se, entre 2016 e 2019, um aume
 
 Figura 6 - Resíduos urbanos por tipo de recolha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.5 - Resíduos urbanos: tratamento
 
@@ -415,7 +551,7 @@ Na Figura 7, representam-se os quantitativos de RU, segundo a operação de gest
 
 Figura 7 - Resíduos urbanos por tipo de operação de tratamento (6)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.6 - Resíduos urbanos: recicláveis encaminhados para aterro
 
@@ -425,13 +561,13 @@ Na Figura 8, apresenta-se os quantitativos globais de recicláveis encaminhados 
 
 Figura 8 - Potencial reciclável encaminhado para aterro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Na Figura 9, encontra-se as tipologias de resíduos recicláveis encaminhados para aterro, entre 2016 e 2019, destacando-se os biorresíduos, seguidos dos resíduos de plástico e de papel e cartão.
 
 Figura 9 - Potencial reciclável encaminhado para aterro por material
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.7 - Resíduos não urbanos: produção por tipologia de resíduo
 
@@ -449,7 +585,7 @@ Na Figura 10, representa-se os RNU produzidos entre 2016 e 2019, discriminando-s
 
 Figura 10 - RNU produzidos por tipologia (principais tipologias de não perigosos e totalidade de perigosos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Considerando apenas os RNU perigosos, verifica-se que, em 2019, as principais tipologias produzidas foram as seguintes (percentagem face ao total produzido de RNU perigosos):
 
@@ -463,7 +599,7 @@ Na Figura 11, representa-se os quantitativos produzidos das principais tipologia
 
 Figura 11 - RNU perigosos produzidos por tipologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.8 - Resíduos não urbanos: produção por setor de atividade
 
@@ -479,7 +615,7 @@ Na Figura 12, são representados os principais setores de atividade (em termos d
 
 Figura 12 - RNU produzidos por setor de atividade económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.9 - Resíduos não urbanos: tratamento
 
@@ -499,7 +635,7 @@ Na Figura 13, é exposto o destino e operações de tratamento dos RNU produzido
 
 Figura 13 - RNU por destino e operação de tratamento (7)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.10 - Resíduos não urbanos: taxas de valorização e reciclagem
 
@@ -517,13 +653,13 @@ Em 2019, os RNU que atingiram maiores taxas de valorização, com praticamente 1
 
 Figura 14 - Taxas de valorização de RNU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 No que se refere à taxa de reciclagem, e embora se entenda que esta possa estar a ser subestimada, conforme já referido, verificam-se taxas inferiores a 50 % para a totalidade das tipologias, o que indicia existir ainda um potencial significativo para melhoria para esta tipologia de tratamento. Da análise da figura seguinte, constata-se que os resíduos que alcançaram valores mais elevados em 2019 foram os resíduos de origem animal de preparados e produtos alimentares (66 %) e os resíduos de madeira (41,1 %), seguidos dos resíduos metálicos (40,5 %) e de origem vegetal (39,8 %).
 
 Figura 15 - Taxas de reciclagem de RNU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Nas Figuras 16 e 17, estão contempladas as taxas de valorização e reciclagem referentes aos RNU perigosos, mais representativos, entre 2016 e 2019. Em 2019, os RNU perigosos que atingiram maiores taxas de valorização, com valores superiores a 90 %, foram os seguintes fluxos específicos de resíduos:
 
@@ -535,7 +671,7 @@ c) Equipamento fora de uso: 89,2 %.
 
 Figura 16 - Taxas de valorização de RNU perigosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Relativamente à taxa de reciclagem, os RNU perigosos que alcançaram valores mais elevados em 2019 foram:
 
@@ -547,7 +683,7 @@ c) Óleos usados 48,7 %.
 
 Figura 17 - Taxas de reciclagem de RNU perigosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3.11 - Movimento transfronteiriço de resíduos
 
@@ -581,17 +717,17 @@ c) 99,9 % dos resíduos tiveram como destino operações de valorização.
 
 Figura 18 - Representação das entradas e saídas de resíduos em Portugal de acordo com o procedimento de controlo, perigosidade dos resíduos e operação de tratamento em 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Os principais resíduos encaminhados para valorização para fora de Portugal, bem como para Portugal encontram-se representados nas Figuras 19-a e 19-b, destacando-se os resíduos metálicos, quer no que se refere às saídas, quer no que respeita às entradas, seguidos dos de papel e cartão no caso das saídas e do vidro no que se refere às entradas.
 
 Figura 19-a - Tipologias de resíduos transferidos de Portugal para valorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura 19-b - Tipologias de resíduos transferidos para Portugal para valorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A análise dos diferentes indicadores apresentados neste capítulo demonstra que, não obstante os resultados alcançados, existe ainda um caminho a percorrer na concretização efetiva da circularidade, designadamente em alguns setores da economia.
 
@@ -607,29 +743,29 @@ Tabela 1 - Objetivos estratégicos e respetivas metas definidas até 2020
 
 Objetivo estratégico 1 - Promover a eficiência da utilização de recursos naturais na economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Objetivo estratégico 2 - Prevenir ou reduzir os impactes adversos decorrentes da produção e gestão de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Nas Figuras 17 a 19, pode observar-se a evolução do cumprimento das três metas estratégicas associadas ao objetivo estratégico 1 - Promover a eficiência da utilização de recursos naturais na economia.
 
 Figura 17 - Grau de cumprimento da meta estratégica «Dissociar o crescimento económico do consumo de materiais»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Dissociar o crescimento económico do consumo de materiais», medida pelo quociente entre o PIB e o CIM, foi cumprida em 2016, bem como em 2018 e 2020, ultrapassando os valores definidos para estes três anos. Este indicador fornece uma medida da produtividade dos recursos a nível nacional, permitindo avaliar o grau de desmaterialização relativa da economia.
 
 Figura 18 - Grau de cumprimento da meta estratégica «Dissociar o crescimento económico da produção de resíduos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Dissociar o crescimento económico da produção de resíduos», medida pelo quociente entre a produção de resíduos e o PIB, foi superada nos anos de 2016 e 2018, mas não em 2020, tendo apresentado uma tendência crescente no período considerado. Este indicador representa a eficiência com que a economia utiliza os recursos naturais, na medida em que a produção de resíduos representa um desperdício de materiais, sendo a economia tanto mais eficiente quanto menor for este rácio.
 
 Figura 19 - Grau de cumprimento da meta estratégica «Aumentar a integração de resíduos na economia»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Aumentar a integração de resíduos na economia», medida pelo quociente entre a valorização (exceto valorização energética) e a produção de resíduos, foi superada em 2016 e 2018, mas não em 2020, tendo-se mesmo verificado um decréscimo face a 2018.
 
@@ -641,13 +777,13 @@ As Figuras 20 a 23 demonstram a trajetória do cumprimento das três metas estra
 
 Figura 20 - Grau de cumprimento da meta estratégica «Reduzir a produção de resíduos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Reduzir a produção de resíduos», medida através da percentagem de redução de resíduos produzidos face ao valor de referência considerado (média da produção de resíduos nos anos 2008-2012, que tem o valor de 16,8 Mt), foi ultrapassada em 2016, mas não foi atingido o valor estipulado para 2018 (86), nem para 2020 (82) registando-se, respetivamente um valor de 94,6 e de 98,8. De acordo com a hierarquia de resíduos, a prevenção surge como prioridade, contribuindo para a diminuição dos impactes associados à gestão dos mesmos.
 
 Figura 21 - Grau de cumprimento da meta estratégica «Reduzir a quantidade de resíduos eliminados»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Reduzir a quantidade de resíduos eliminados», medida através da percentagem de redução de resíduos eliminados face ao ano de referência (média de resíduos eliminados nos anos 2008-2012, que tem o valor de 6,4 Mt), foi superada em 2016, mas em 2018 e em 2020 não foi atingido o valor definido (54 e 41, respetivamente), tendo o valor obtido sido de 65,5 e 68,4.
 
@@ -657,11 +793,11 @@ As Figuras 22 e 23 dizem respeito à meta estratégica «Reduzir a emissão de g
 
 Figura 22 - Grau de cumprimento da meta estratégica «Reduzir a emissão de gases com efeito de estufa do setor de resíduos (incluindo águas residuais)»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura 23 - Grau de cumprimento da meta estratégica «Reduzir a emissão de gases com efeito de estufa do setor de resíduos (excluindo águas residuais)»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A meta estratégica «Reduzir a emissão de gases com efeito de estufa do setor de resíduos», com e sem inclusão das águas residuais, medida pela quantidade de CO(índice 2) equivalente (CO(índice 2eq).) emitido pelas operações de gestão de resíduos, foi superada nos anos em análise, tendo-se atingido em 2020 os valores de 4,4 Mt CO(índice 2eq). e 3,5 Mt CO(índice 2eq)., respetivamente.
 
@@ -1013,19 +1149,19 @@ Tendo em consideração o referido anteriormente, apresentam-se, nas Tabelas 3, 
 
 Tabela 3 - Metas estratégicas a alcançar no período de vigência do PNGR 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela 4 - Tendências de evolução definidas para as ações do OE1 - «Prevenir a produção de resíduos ao nível da quantidade e da perigosidade.»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela 5 - Tendências de evolução definidas para as ações do OE2 - «Promover a eficiência e suficiência na utilização de recursos, contribuindo para uma economia circular.»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela 6 - Tendências de evolução definidas para as ações do OE3 - «Reduzir os impactes ambientais negativos, através de uma gestão de resíduos integrada e sustentável.»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 O PERSU 2030 e o PERNU 2030 desenvolvem o disposto no PNGR 2030 no âmbito dos RU e não urbanos, respetivamente, contribuindo, desta forma, para a concretização das medidas e alcance dos objetivos estratégicos definidos neste Plano, como apresentados nas tabelas anteriores. O acompanhamento do comportamento dos indicadores quantitativos e respetivos prazos definidos nos Planos setoriais permite monitorizar o grau de concretização da estratégia preconizada pelo PNGR 2030.
 
@@ -1341,13 +1477,13 @@ A produtividade dos recursos, calculada pelo quociente entre o Produto Interno B
 
 Figura IV.1 - Consumo interno de materiais e produtividade dos recursos (16)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Desde 1995, o CIM atingiu um pico em 2008, apresentando desde então uma tendência decrescente até 2013, ano a partir do qual essa tendência foi invertida, registando-se até 2016 ligeiras variações anuais. Em 2017, verificou-se um aumento de 9,6 %, atingindo-se um valor que se manteve sensivelmente constante, correspondendo, em 2019, a 171 milhões de toneladas.
 
 Figura IV.2 - Produto interno bruto, consumo interno de materiais e produtividade dos recursos (17)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Analisando o comportamento do CIM face ao PIB (Base 2016, a preços constantes), constata-se que, entre 1995 e 2019, o CIM aumentou 16,7 % (24,5 milhões de toneladas), enquanto o PIB cresceu 40,5 %.
 
@@ -1359,7 +1495,7 @@ A evolução deste indicador é assim dependente de dois fatores: a evolução d
 
 Figura IV.3 - Produto interno bruto e rácio de produção de resíduos por produto interno bruto (18)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 II - Produção e gestão de resíduos
 
@@ -1367,17 +1503,17 @@ Na Figura IV.4, encontra-se ilustrada a tendência crescente da produção total
 
 Figura IV.4 - Produção total de resíduos e respetiva diferenciação por resíduos urbanos (RU) e não urbanos (RNU)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Nas Tabelas IV.1 e IV.2, encontra-se a distribuição dos quantitativos de RU e RNU distribuídos por tipologia de operação de tratamento, referentes ao território continental e Regiões Autónomas.
 
 Tabela IV.1 - Quantitativos de RU por operação de tratamento (19)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela IV.2 - Quantitativos de RNU por operação de tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Em 2019, foram tratados a nível nacional 5,03 Mt de RU e 11,43 Mt de RNU, tendo sido eliminados 49,8 % e 15,3 %, respetivamente.
 
@@ -1385,19 +1521,19 @@ Analisando a evolução da percentagem dos quantitativos de resíduos (urbanos e
 
 Figura IV.5 - Quantitativos de resíduos sujeitos a operações de valorização e de eliminação e percentagem da eliminação face ao total de resíduos tratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Na Figura IV.6, é possível observar a evolução dos quantitativos de resíduos sujeitos a valorização energética, verificando-se, em 2019, um aumento (6,5 %), face a 2018, em linha com um aumento de resíduos sujeitos a outros tipos de valorização (6,3 %), sendo que o aumento dos quantitativos sujeitos a eliminação teve uma expressão mais reduzida (1,5 %).
 
 Figura IV.6 - Quantitativos de resíduos por tipologia de operação de tratamento: eliminação, valorização energética e outras operações de valorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A evolução do indicador medido pelo quociente entre a valorização, exceto energética, e a produção de resíduos, que nos fornece indicações sobre a evolução da extração de materiais valorizáveis a partir dos resíduos e o seu direcionamento para novas aplicações na economia, encontra-se na Figura IV.7.
 
 Figura IV.7 - Quantitativos de resíduos sujeitos a operações de valorização exceto energética e representatividade face ao total de resíduos tratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Esta variável apresenta uma tendência de crescimento, apesar de não muito acentuada, desde 2015, atingido, em 2019, o valor de 65,7 %, o que corresponde a um aumento de cerca de 5 % face ao início do período em análise.
 
@@ -1415,25 +1551,25 @@ Considerando que os resíduos perigosos produzidos em Portugal são maioritariam
 
 Tabela IV.3 - Quantitativos de resíduos perigosos em Portugal, por operações de tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Em 2019, a produção de resíduos perigosos foi de 1 066 055 toneladas, tendo aumentado 16,1 % relativamente a 2015. A partir de 2016, verificou-se uma tendência crescente da produção de resíduos perigosos até 2018, observando-se então uma inversão correspondente a uma diminuição de 4,4 % em 2019, conforme se pode verificar na Figura IV.8.
 
 Figura IV.8 - Quantitativos de resíduos perigosos em Portugal, por operações de tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 A deposição de resíduos perigosos em aterro diminuiu 24,1 % entre 2015 e 2017. Contudo, em 2018, verificou-se um aumento de 27,9 % face ao ano anterior, seguido de um ligeiro decréscimo de 5,8 % em 2019, ano em que foram encaminhadas 289 375 toneladas de resíduos perigosos para esta operação de eliminação, correspondendo a 27,1 % do total de resíduos perigosos gerados, conforme a Figura IV.9.
 
 Figura IV.9 - Quantitativos de resíduos perigosos em Portugal, por operações de tratamento, e representatividade da deposição em aterro face ao total de resíduos tratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 O encaminhamento de resíduos perigosos para outras operações de eliminação aumentou 28,9 % entre 2015 e 2019, tendo-se verificado, no mesmo período, um valor idêntico para os resíduos perigosos encaminhados para operações de valorização, com exceção da valorização energética. Considerando somente a operação de valorização energética, registou-se um aumento de 34,3 %, conforme se pode verificar na Figura IV.10.
 
 Figura IV.10 - Quantitativos de resíduos perigosos em Portugal, por operações de tratamento e respetiva representatividade face ao total de resíduos tratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 IV - Movimento transfronteiriço de resíduos
 
@@ -1453,19 +1589,19 @@ Nas Figuras IV.11 e IV.12, pode observar-se a evolução relativamente às entra
 
 Figura IV.11 - Evolução das entradas de resíduos em Portugal sujeitas aos requisitos gerais de informação («Lista Verde»)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.12 - Evolução das saídas de resíduos de Portugal sujeitas aos requisitos gerais de informação («Lista Verde»)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.13 - Evolução das entradas de resíduos em Portugal sujeitas ao procedimento de notificação e consentimento escrito prévios («Lista Laranja»)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.14 - Evolução das saídas de resíduos de Portugal sujeitas ao procedimento de notificação e consentimento escrito prévios («Lista Laranja»)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 V - Fluxos específicos
 
@@ -1511,19 +1647,19 @@ Em matéria de disponibilização de pontos de recolha seletiva municipal de OAU
 
 Figura IV.15 - Evolução do número de pontos de recolha seletiva municipal de óleos alimentares usados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Numa abordagem territorial, para o período em análise, assinala-se que na maioria dos distritos se manteve o número de pontos de recolha seletiva de OAU, verificando-se um ligeiro aumento em alguns distritos, nomeadamente, Beja, Coimbra, Évora, Guarda, Setúbal, Viana do Castelo e Viseu (Figura IV.16), não se traduzindo, no entanto, no cumprimento das metas estabelecidas.
 
 Figura IV.16 - Distribuição geográfica dos pontos de recolha municipal de óleos alimentares usados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Na Tabela IV.4, apresentam-se os quantitativos referentes à colocação no mercado, bem como à valorização de OAU, para o período de 2015 a 2019.
 
 Tabela IV.4 - Evolução da colocação no mercado e da produção e valorização de OAU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 3 - Embalagens e resíduos de embalagens
 
@@ -1541,7 +1677,7 @@ Verifica-se que Portugal atingiu em 2019, uma reciclagem de 62,8 % das embalagen
 
 Figura IV.17 - Resíduos de embalagens - evolução entre 2015 e 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 4 - Sacos de plástico leves
 
@@ -1557,7 +1693,7 @@ Na Tabela IV.5 encontram-se os quantitativos referentes aos SPL, no ano de 2019.
 
 Tabela IV.5 - Sacos de plástico leves (21)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 5 - Resíduos de pilhas e acumuladores
 
@@ -1573,13 +1709,13 @@ Em 2020, existiam em Portugal cinco entidades gestoras de resíduos de pilhas e 
 
 Tabela IV.6 - Tipo de Pilhas e Acumuladores por Entidade Gestora em 2020 (22)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Na Tabela IV.7, apresentam-se os dados relativos à quantidade de P&A portáteis colocados no mercado, à quantidade de resíduos recolhidos e às taxas de recolha obtida de acordo com a metodologia do diploma referido e da [Diretiva 2006/66/CE](http://data.europa.eu/eli/dir/2006/66/oj?locale=pt) do Parlamento Europeu e do Conselho, de 6 de setembro de 2006, nos últimos anos.
 
 Tabela IV.7 - Quantitativos de P&A portáteis colocados no mercado, de resíduos de P&A portáteis recolhidos e respetivas taxas de recolha obtidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 As quantidades globais de P&A colocados no mercado, que inclui as P&A portáteis, as baterias e acumuladores industriais e as baterias e acumuladores para veículos automóveis, têm vindo a aumentar entre 2015 e 2019 (ver Tabela IV.9 e Figura IV.18). A recolha e a reciclagem de resíduos de P&A também aumentaram entre 2015 e 2017, tendo em 2018 havido um ligeiro decréscimo, obtendo-se valores próximos dos alcançados em 2016, mas voltando a aumentar em 2019. Constata-se que a quantidade de resíduos de P&A recolhidos entre 2015 e 2017 é ligeiramente superior às quantidades de P&A novos colocados no mercado, situação que pode dever-se ao ajustamento do mercado e aos resíduos armazenados de anos anteriores. Esta evolução é evidenciada na Tabela IV.8 e na Figura IV.18.
 
@@ -1589,15 +1725,15 @@ A taxa de recolha de resíduos de P&A portáteis alcançada encontra-se refletid
 
 Tabela IV.8 - Evolução da taxa de recolha de P&A portáteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela IV.9 - Evolução da colocação no mercado de P&A e da gestão dos respetivos resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.18 - Evolução da colocação no mercado de P&A e da gestão dos respetivos resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 6 - Óleos usados
 
@@ -1615,11 +1751,11 @@ Não obstante o crescimento da colocação de óleos novos no mercado nos últim
 
 Tabela IV.10 - Evolução da colocação no mercado de óleos, da produção de resíduos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.19 - Evolução da colocação no mercado de óleos, da produção de resíduos e sua gestão (23)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 7 - Pneus usados
 
@@ -1641,11 +1777,11 @@ Em relação às operações de tratamento, em 2019, verificou-se que a reciclag
 
 Tabela IV.11 - Evolução da colocação no mercado de pneus, da produção de resíduos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.20 - Evolução da colocação no mercado de pneus, da produção de resíduos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 8 - Resíduos de equipamentos elétricos e eletrónicos
 
@@ -1663,11 +1799,11 @@ A recolha e a valorização de REEE apresentaram também um aumento no período 
 
 Tabela IV.12 - Evolução da colocação no mercado de EEE, da produção de resíduos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.21 - Evolução da colocação no mercado de EEE, da produção de resíduos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 9 - Veículos em fim de vida
 
@@ -1687,11 +1823,11 @@ As taxas de reutilização/reciclagem e reutilização/valorização dos VFV rec
 
 Figura IV.22 - Taxa de reutilização/reciclagem de VFV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Figura IV.23 - Taxa de reutilização/valorização de VFV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Em 2019, cerca de 262 mil novos veículos ligeiros de passageiros foram registados no território nacional por representantes oficiais das marcas, o que representa um decréscimo de 1,87 % entre 2018 e 2019. O stock português de veículos ligeiros é de aproximadamente 6,5 milhões, com uma idade média de sete anos para veículos ligeiros de passageiros.
 
@@ -1699,13 +1835,13 @@ Segundo informações dos desmanteladores, em 2019, foram recebidos 111 112 VFV,
 
 Figura IV.24 - Número de VFV recebidos pelos operadores de desmantelamento entre 2014 e 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 No que concerne aos fluxos específicos de resíduos cuja gestão assenta total ou parcialmente no princípio da RAP, resume-se na Tabela IV.13 a evolução dos últimos quatro anos.
 
 Tabela IV.13 - Síntese da evolução da colocação no mercado, da produção de resíduos de fluxos específicos e sua gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 ## ANEXO V — Metas estabelecidas na legislação específica relativas aos fluxos específicos de resíduos
 
@@ -1713,7 +1849,7 @@ Portugal mantém o compromisso de alcançar as metas de valorização e reciclag
 
 Tabela V.1 - Metas estabelecidas na legislação específica relativa ao fluxo específico de embalagens e resíduos de embalagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 No domínio da reciclagem a [Diretiva (UE) 2018/852](http://data.europa.eu/eli/dir/2018/852/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, estabelece um objetivo comum para os Estados-Membros de se preparar para reutilizar e reciclar 65 % dos resíduos de embalagens, até 2025, com metas diferenciadas por materiais, nos termos da Tabela V.1.
 
@@ -1723,7 +1859,7 @@ A Tabela V.2 apresenta as metas determinadas pela legislação específica para 
 
 Tabela V.2 - Metas estabelecidas na legislação específica relativa a fluxos específicos de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Os fluxos de resíduos de pilhas e acumuladores não tem meta nacional de reciclagem estabelecida. Todavia, existe meta de recolha de resíduos de pilhas e acumuladores portáteis, definida na referida Diretiva da União Europeia e na legislação nacional, cujo valor é de 45 %, a ser cumprido até 31 de dezembro de 2015, permanecendo inalterável até ao presente.
 
@@ -1737,11 +1873,11 @@ b) A partir de 2019, 65 % do peso médio dos EEE colocados no mercado nos três 
 
 Tabela VI.1 - Instalações de tratamento final de resíduos não perigosos em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela VI.2 - Instalações de tratamento final de resíduos perigosos em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 ## ANEXO VII — Operações de tratamento de resíduos
 
@@ -1749,11 +1885,11 @@ Apresenta-se na Tabela VII.1 as operações de tratamento de resíduos utilizada
 
 Tabela VII.1 - Operações de tratamento de resíduos, definidas no [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, na redação atual
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tabela VII.2 - Operações de tratamento de resíduos, conforme definidas no [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, na sua redação atual
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 ## ANEXO VIII — Definição das metas estratégicas
 
@@ -1859,7 +1995,7 @@ ii) Aumento da recolha separativa multimaterial e desenvolvimento das fileiras d
 
 E estima, para este setor, o seguinte potencial de redução de emissões de GEE em relação a 2005:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 São ainda estabelecidas as seguintes metas:
 
@@ -1875,7 +2011,7 @@ e) Redução do desperdício alimentar em 2050 = 50 % a 80 % face a 2015.
 
 Em articulação com os objetivos do RNC 2050, o Plano Nacional Energia e Clima (PNEC 2030), aprovado pela [Resolução do Conselho de Ministros n.º 53/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2020-137618093), de 10 de julho, que se constitui como o principal instrumento de política energética e climática nacional para a década 2021-2030, estabeleceu metas, para o horizonte 2030, para os restantes setores da economia, não se restringindo ao setor energético, metas essas que deverão contribuir para alcançar estas reduções de emissões. No caso do setor dos resíduos e águas residuais, foram definidos os seguintes valores de redução de emissões de GEE face a 2005:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Tendo sido assumido que a prioridade estará na redução da produção de resíduos, seguindo-se o reforço da recolha seletiva de RU, com prioridade ao tratamento biológico de biorresíduos e à exploração intensiva de soluções de reutilização e reciclagem de materiais.
 
@@ -1891,17 +2027,17 @@ Meta Estratégica 1, que se pretende alcançar para a concretização do Objetiv
 
 Reduzir a produção de resíduos, de modo a que, em 2030, se produzam 13,6 Mt, menos 2,3 Mt do que a quantidade produzida em 2018 (15,9 Mt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Estes valores foram obtidos através de uma cenarização que assenta no pressuposto de uma redução da produção de RU per capita em 2030, com o valor de 9 % face a 2015.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Meta Estratégica 1, relativa ao Objetivo Estratégico 3 «Reduzir os impactes ambientais negativos, através de uma gestão de resíduos integrada e sustentável».
 
 Reduzir a quantidade de resíduos eliminados, de 4,2 Mt para 1,7 Mt, em 2030, indo assim ao encontro da hierarquia de gestão de resíduos, em que as operações de eliminação deverão ser evitadas, sempre que as alternativas sejam económica e ambientalmente viáveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Estes valores foram obtidos através de uma cenarização que assenta nos seguintes pressupostos:
 
@@ -1909,17 +2045,17 @@ Estes valores foram obtidos através de uma cenarização que assenta nos seguin
 
 2) Redução da deposição em aterro de RU, em 2035, de 83 %, face aos valores de 2015.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Meta Estratégica 2, relativa ao Objetivo Estratégico 3 «Reduzir os impactes ambientais negativos, através de uma gestão de resíduos integrada e sustentável».
 
 Reduzir a emissão de gases com efeito de estufa (GEE) do setor dos resíduos e águas residuais, de 6,5 Mt CO(índice 2eq) (valor de referência de 2005) para 4,55 Mt CO(índice 2eq):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 Estes valores foram obtidos através de uma cenarização que assenta no pressuposto de uma redução das emissões de GEE do setor dos resíduos e águas residuais, em 2020, em 14 % e, em 2030, em 30 %, face aos valores de 2005.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06000/0014000276.pdf)
 
 O PNGR 2030, como principal instrumento nacional de política de resíduos e que define as linhas orientadoras para os dois planos estratégicos direcionados para os resíduos urbanos e não urbanos, PERSU 2030 e PERNU 2030, respetivamente, está alinhado com as linhas de orientação e os vetores de descarbonização das restantes políticas, constituindo um contributo essencial para a estratégia nacional traçada, rumo à neutralidade carbónica.
 
@@ -2388,3 +2524,5 @@ Valorização material (64) - Qualquer operação de valorização, que não sej
 (63) Fonte: RGGR.
 
 (64) Fonte: RGGR.
+
+116283141

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/87/1996/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-1996-534648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 549309be0ce19a881a3427b5a59715442f4ad119e06d5ec47e626aabe5745f98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6607c19d9c76343c0f6bce180876fa5363b639c860d3661548245b2132fabd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:245284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372854:por
+  label: "Alterados os arts. 2º, 10º, 20º e 22º da Port 288/94 de 13-Mai, com a redacção conferida pela presente pelo DEC\
+    \ LEI.207/2001.2001.07.27.MADRP DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2001-372854
+  date: '2001-07-27'
 - type: cites
   target: celex:31966L0402
   label: null
@@ -90,16 +96,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/288/1994/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/288/1994/05/13/p/dre
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogada pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:01Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +137,13 @@ Os campos de multiplicação de semente devem ser isolados da contaminação por
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf))](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf)
 
-###### Artigo 10.º
+Artigo 10.º
 
 As variedades das diferentes espécies devem possuir suficiente identidade e pureza varietal e, no caso dos híbridos de centeio, também relativamente às características dos progenitores, incluindo a androesterilidade.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Na determinação da pureza varietal das espécies Phalaris canariensis e Secale cereale, com excepção dos híbridos, os limites máximos de plantas de outras variedades ou fora do tipo admitidas nos campos de multiplicação são os seguintes:
 
@@ -140,15 +151,15 @@ a) Produção de semente pré-base e base: uma por 30 m2;
 
 b) Produção de semente certificada: uma por 10 m2.
 
-###### Artigo 20.º
+Artigo 20.º
 
 As sementes devem possuir suficiente identidade e pureza varietal. Para as sementes de variedades híbridas de Secale cereale, Sorghum spp. e Zea mays, estas condições devem também aplicar-se aos progenitores.
 
-###### Artigo 28.º
+Artigo 28.º
 
 Organismos nocivos, susceptíveis de reduzirem o valor da semente, deverão estar presentes no mais baixo nível possível. As sementes deverão, em particular, estar de acordo com as normas seguintes, relativas a Claviceps purpurea - número máximo de esclerotos ou fragmentos de esclerotos numa amostra de peso especificado no quadro III:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf))](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/069b00/05660568.pdf)
 
 2.º Ao Regulamento Técnico da Produção de Sementes de Espécies de Cereais, aprovado pela Portaria n.º 288/94, de 13 de Maio, são aditados os seguintes artigos:
 
@@ -166,12 +177,12 @@ c) Relativamente à produção de semente base, quando é utilizada androesteril
 
 d) A semente certificada deve, quando adequado, ser produzida em cultura mista de um progenitor feminino androestéril e de um progenitor masculino que restaura a fertilidade masculina.
 
-###### Artigo 23.º-A
+Artigo 23.º-A
 
 A semente de híbridos de centeio só será certificada na categoria de semente certificada após os resultados de um ensaio oficial de pós-controlo realizado durante o período vegetativo das amostras candidatas à certificação, e efectuado sobre amostras de semente base colhidas oficialmente, com vista a determinar se esta preenche as condições definidas pela presente portaria relativamente às mesmas, no que respeita à identidade e pureza varietal para as características dos progenitores, incluindo a androesterilidade.»
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 14 de Fevereiro de 1996.**
+Assinada em 14 de Fevereiro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

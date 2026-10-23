@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/196b00/26782679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/412/1996/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-1996-401888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b8fdd0ae2ed889387e3941455f510a2e9111417854b3bdb7cbe5709baca5cb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 942a214b7e1009057d8dcd19137feba299d0d552692725cc90acfcb813e82301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/848/1991/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/848/1991/08/19/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676791:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544640:por
+  label: "Revogada a Port 848/91 de 19-Ago, com a redacção do presente diploma, pela PORT.963/2000.2000.10.09.ME DR.IS-B [233],\
+    \ nos termos do disposto no respectivo nº 2º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-2000-544640
+  date: '2000-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:01Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +147,6 @@ c) Uma licenciatura em Engenharia.»
 
 Ministério da Educação.
 
-**Assinada em 6 de Agosto de 1996.**
+Assinada em 6 de Agosto de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

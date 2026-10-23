@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 130/2015, 1º Suplemento, Série I de 2015-07-07
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4686-(193) a 4686-(232)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45-e/2015/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-e-2015-69736237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 411e9049d47071a18baa9a7a56d7d7a02bd42ad4b18d9bb64538c37c9a6d2d79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64de4cc8b8d0755439e86c0e0700a34602ead165ddece12a8ebd6a88b3380e2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada Esposende-guimarães-ip4
 - Auto-estrada Famalicão-guimarães
 - Auto-estrada Porto-braga-guimarães
 - Auto-estrada Póvoa de Varzim-fafe-ip3
-- Ministro da Economia
 - Concessão Norte  a 7 -IC 5
-- Estrada
 - Contrato de Concessão
-- Rede de Estradas
-- Auto-estrada
-- Parceria Público-Privada
+- Estrada
+- Ministro da Economia
 - Ministro de Estado e das Finanças
+- Parceria Público-Privada
+- Rede de Estradas
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -123,16 +123,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/67-a/1999/07/06/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67522987:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:10Z'
   warnings: []
   errors: []
 ---
@@ -379,69 +439,69 @@ zzz) UTAP - a Unidade Técnica de Acompanhamento de Projetos ou a entidade que a
 
 2.1 - Fazem parte integrante do presente Contrato de Concessão, para todos os efeitos legais e contratuais, os seus anexos e respetivos apêndices, organizados da forma seguinte:
 
-## Anexo 1: Contrato de Projeto e Construção;
+Anexo 1: Contrato de Projeto e Construção;
 
-## Anexo 2: Contrato de Operação e Manutenção;
+Anexo 2: Contrato de Operação e Manutenção;
 
-## Anexo 3: Contratos de Financiamento;
+Anexo 3: Contratos de Financiamento;
 
-## Anexo 4: Contratos do Projeto;
+Anexo 4: Contratos do Projeto;
 
-## Anexo 5: Nomenclatura dos nós de ligação;
+Anexo 5: Nomenclatura dos nós de ligação;
 
-## Apêndice 1: Representação gráfica dos nós de ligação;
+Apêndice 1: Representação gráfica dos nós de ligação;
 
-## Anexo 6: Composição do Agrupamento;
+Anexo 6: Composição do Agrupamento;
 
 ## Anexo 7: Estatutos;
 
-## Anexo 8: Acordo de Subscrição;
+Anexo 8: Acordo de Subscrição;
 
-## Anexo 9: Acordo Parassocial;
+Anexo 9: Acordo Parassocial;
 
-## Anexo 10: Programa de Trabalhos;
+Anexo 10: Programa de Trabalhos;
 
-## Anexo 11: Estrutura acionista da Concessionária;
+Anexo 11: Estrutura acionista da Concessionária;
 
-## Anexo 12: Limites à oneração de ações;
+Anexo 12: Limites à oneração de ações;
 
 ## Anexo 13: Caso Base;
 
-## Anexo 14: Garantias relativas aos Lanços existentes;
+Anexo 14: Garantias relativas aos Lanços existentes;
 
-## Anexo 15: Pessoal da BRISA;
+Anexo 15: Pessoal da BRISA;
 
-## Anexo 16: Contrato de prestação de serviços com a Briser;
+Anexo 16: Contrato de prestação de serviços com a Briser;
 
-## Anexo 17: Termos da utilização dos fundos do Estado;
+Anexo 17: Termos da utilização dos fundos do Estado;
 
-## Anexo 18: Termos das garantias bancárias;
+Anexo 18: Termos das garantias bancárias;
 
-## Anexo 19: Programa de seguros;
+Anexo 19: Programa de seguros;
 
-## Anexo 20: Acordo Direto;
+Anexo 20: Acordo Direto;
 
-## Anexo 21: Condições de intervenção dos Bancos Financiadores;
+Anexo 21: Condições de intervenção dos Bancos Financiadores;
 
-## Anexo 22: Manual de Operação e Manutenção;
+Anexo 22: Manual de Operação e Manutenção;
 
-## Anexo 23: Corredor Norte/Guimarães - mecanismos de compensação;
+Anexo 23: Corredor Norte/Guimarães - mecanismos de compensação;
 
-## Apêndice 1: Nota técnica;
+Apêndice 1: Nota técnica;
 
-## Apêndice 2: Caso Base (corredor Norte/Guimarães);
+Apêndice 2: Caso Base (corredor Norte/Guimarães);
 
-## Anexo 24: Tarifas diárias de disponibilidade;
+Anexo 24: Tarifas diárias de disponibilidade;
 
-## Anexo 25: Pressupostos e projeções económico-financeiras;
+Anexo 25: Pressupostos e projeções económico-financeiras;
 
-## Anexo 26: Estrutura Acionista Atual da Concessionária;
+Anexo 26: Estrutura Acionista Atual da Concessionária;
 
-## Anexo 27: Grandes Reparações de Pavimento;
+Anexo 27: Grandes Reparações de Pavimento;
 
-## Anexo 28: Limites da Concessão;
+Anexo 28: Limites da Concessão;
 
-## Anexo 29: Plano de Controlo de Qualidade.
+Anexo 29: Plano de Controlo de Qualidade.
 
 2.2 - Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão devem ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior que tenham relevância na matéria em causa, e vice-versa.
 
@@ -841,7 +901,7 @@ Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato d
 
 31.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos no n.º 5.1. são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 31.2 - As datas de entrada em serviço e as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos.
 
@@ -1345,7 +1405,7 @@ As instalações de portagem devem integrar, designadamente, serviços de cobran
 
 54.1 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das tarifas de portagem são, por ordem crescente do respetivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 54.2 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com 2 (dois) eixos, peso bruto superior a 2 300 kg e inferior ou igual a 3 500 kg, com lotação igual ou superior a 5 (cinco) lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tração às 4 (quatro) rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando os seus utilizadores:
 
@@ -1385,7 +1445,7 @@ Ave-Guimarães - (euro) 0,054/km.
 
 55.7 - As taxas de portagem para cada classe de veículos, incluindo IVA e após arredondamento nos termos do n.º 55.3., que a Concessionária se encontra autorizada a cobrar e que se mantêm em vigor até à primeira atualização a efetuar em conformidade com o presente Contrato de Concessão são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 55.8 - A Concessionária tem direito a cobrar aos utentes, além da taxa de portagem, os Custos Administrativos a que haja lugar, nos termos da legislação e regulamentação aplicáveis.
 
@@ -1393,7 +1453,7 @@ Ave-Guimarães - (euro) 0,054/km.
 
 56.1 - As tarifas de portagem podem ser atualizadas anualmente, no primeiro mês de cada ano civil, por despacho do ME, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 56.2 - A IP, após parecer da IGF, deve comunicar à Concessionária o valor das novas tarifas de portagem com uma antecedência mínima de 15 (quinze) dias face à data da entrada em vigor das mesmas.
 
@@ -1641,15 +1701,15 @@ d) Quaisquer outras receitas previstas no presente contrato ou outros rendimento
 
 72.1 - Como contrapartida pelo desenvolvimento das atividades previstas dos n.os 5.1. e 5.2., e até ao final do prazo previsto no n.º 12.1.¸a Concessionária recebe uma remuneração anual, calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 72.2 - O apuramento da componente da remuneração anual relativa à disponibilidade das Autoestradas (Dis(índice t)), a que se refere o número anterior, é efetuado nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 72.3 - O montante total das deduções a efetuar em cada ano em virtude da ocorrência de falhas de disponibilidade (Ded(índice t)), a que se refere o n.º 72.1., é calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 72.4 - Considera-se existir uma falha de disponibilidade quando se verificar alguma das condições de indisponibilidade definidas nos n.os 72.15. a 72.18, considerando o disposto nos n.os 39.2. e 72.20..
 
@@ -1657,11 +1717,11 @@ d) Quaisquer outras receitas previstas no presente contrato ou outros rendimento
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
@@ -1685,11 +1745,11 @@ b) IS(índice t)(Conc) (maior que) IS(índice t-1) (ponderado), o Concedente ded
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 72.8 - Para efeitos do cálculo do índice de sinistralidade previsto nos números anteriores, não é considerado o eventual aumento de acidentes registados no Sublanço ou Grupo de Sublanços, conforme aplicável, no período relativamente ao qual se verifique, por facto imputável ao Concedente, o adiamento, total ou parcial, de uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade deste e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, ou se opte pela não realização de um aumento do número de vias na data em que tal aumento deva ocorrer, nos termos do disposto na cláusula 39.ª, considerando-se, para o efeito, e com as devidas adaptações, a média anual do número de acidentes ocorrido nos 3 (três) anos anteriores.
 
@@ -1745,7 +1805,7 @@ iv) Os sistemas de ventilação de túneis e outros equipamentos integrantes das
 
 72.18 - O montante relativo às falhas de disponibilidade corresponde à soma das deduções diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 72.19 - Para efeitos de cálculo do montante referente às falhas de disponibilidade, não são considerados o número total de quilómetros relativamente aos quais não se verifique o cumprimento da condição prevista na subalínea i) da alínea c) do n.º 72.15., relativa à regularidade e aderência do pavimento, que resulte da não realização, por facto imputável ao Concedente, dos trabalhos inerentes a uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade deste e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, pelo período de tempo correspondente ao atraso na realização desses trabalhos.
 
@@ -1819,7 +1879,7 @@ iii) Centros de manutenção invernal.
 
 74.1 - No caso de as receitas de portagem obtidas pela Concessionária e entregues à IP, em determinado ano, serem superiores, a preços constantes de 2010, aos montantes previstos no Anexo 25, a Concessionária tem direito a uma remuneração de valor equivalente a 25 % (vinte e cinco por cento) do montante excedente, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13001/0019300232.pdf)
 
 74.2 - Até ao dia 15 de março de cada ano de vigência do presente Contrato de Concessão, a IP comunica, por escrito, à Concessionária o montante das receitas de portagem referentes ao ano civil anterior, identificando, se aplicável, o excedente verificado face ao previsto no Anexo 25 e o valor da remuneração que eventualmente lhe cabe nos termos do número anterior.
 

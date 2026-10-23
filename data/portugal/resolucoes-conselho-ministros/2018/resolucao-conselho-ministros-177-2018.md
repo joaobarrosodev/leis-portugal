@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24300/0584205846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/2018/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2018-117428719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10a95ed36d047832d5afea2361242de93535e8bcbe8b7a325fe3b73fc842fca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f710f21690c5f6fc9bd1482123ed47b1d4b44321419693686b15d44ece3c9ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,42 @@ subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
 - Ajuda não Reembolsável
-- Empreendedorismo
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Financiamento
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Desenvolvimento Social
+- Empreendedorismo
+- Estrutura de Missão Portugal Inovação Social
+- Financiamento
 - Fundo Europeu de Investimento
 - Fundos CE
+- Iniciativa Portugal Inovação Social
 - Investimento
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - PCM-Entidades
+- PORTUGAL 2020
 - Programa Operacional
+- Programa Operacional Temático Competitividade e Internacionalização
 - Secretariado Técnico
 - Subsídio não Reembolsável
-- PORTUGAL 2020
-- Estrutura de Missão Portugal Inovação Social
-- Programa Operacional Temático Competitividade e Internacionalização
-- Iniciativa Portugal Inovação Social
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro do Planeamento da direção da Estrutura de Missão Portugal Inovação Social,
+    cuja criação e funcionamento constam da Res 73-A/2014 de 16-dez da PCM, na versão republicada pela presente, pelo(a) Decreto-Lei
+    n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a partir de 30.03.2022, o exercício da direção pela Ministra da Coesão Territorial, em coordenação
+    com a Ministra do Trabalho, Solidariedade e Segurança Social, sobre a Estrutura de Missão Portugal Inovação Social (anteriormente
+    no âmbito do Planeamento), cuja criação e atribuições constam da Res 73-A/2014 de 16-dez, na versão republicada pela presente,
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
@@ -109,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/74/2016/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/74/2016/11/25/p/dre
+- type: cites
+  target: pt:dre:108323924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65908878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796639:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:22Z'
   warnings: []
   errors: []
 ---
@@ -438,3 +473,5 @@ Alguns projetos relevantes:
 Foi investigador responsável, entre 2011 e 2014, do projeto transnacional (Portugal-Espanha-Brasil), financiado pela FCT, com o título A ética dos alunos e a tolerância de professores e instituições perante a fraude académica no ensino superior. Deste projeto resultou um dos mais abrangentes estudos sobre fraude académica em Portugal, envolvendo a participação de docentes e estudantes do ensino superior.
 
 Entre 2013 e 2015, participou no Projeto Sustentabilidade na Ação Social, da Universidade de Coimbra, destinado a repensar e a desenvolver a política e a estratégia de ação social na instituição. Deste projeto resultou uma avaliação e revisão profunda dos serviços sociais prestados pela Universidade de Coimbra, com impactos relevantes na qualidade e extensão da oferta do mais antigo e mais amplo sistema de ação social proporcionado por uma instituição de ensino superior em Portugal.
+
+111915549

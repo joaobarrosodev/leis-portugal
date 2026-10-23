@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/38/2016/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2016-75060358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22bec3d2d3de78b15fbea1ebe888f0d6a2bcde2a1c55bcf2bc46a88e1d7265f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3c563c348609734d1885a694cd710ce3f9cc5202e051b36996c64d6a76da7d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aquisição de Bens e Serviços
 - Definição de Competências
-- Serviços Partilhados do Ministério da Saúde
 - Entidade de Serviços Partilhados da Administração Pública
-- Proteção do Ambiente
-- Sistema Nacional de Compras Públicas
 - Instituto dos Mercados Públicos do Imobiliário e da Construção
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
+- Serviços Partilhados do Ministério da Saúde
+- Sistema Nacional de Compras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:207272801:por
@@ -118,16 +118,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/2007/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2007/05/07/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67120682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:207272801:por
+  label: Revogada a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 13/2023 - Diário da República n.º 30/2023,
+    Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/13-2023-207272801
+  date: '2023-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:51Z'
   warnings: []
   errors: []
 ---
@@ -308,7 +342,7 @@ São estabelecidas, em acréscimo, metas parciais para cada biénio económico, 
 
 Tabela 1 - Objetivos e metas nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)
 
 A.II - Aquisições não integrantes do Sistema Nacional de Compras Públicas
 
@@ -416,13 +450,13 @@ No final do período de implementação da ENCPE 2020, o grupo de trabalho da im
 
 (1) Os quais estão, por regra, na base de futuras empreitadas de obras públicas.
 
-# Parte A
+Parte A
 
 Lista de grupos de bens e serviços prioritários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)
 
-# Parte B
+Parte B
 
 Minuta de declaração de compromisso da Estratégia Nacional para as Compras Públicas Ecológicas 2020
 
@@ -442,4 +476,4 @@ Minuta de declaração de compromisso da Estratégia Nacional para as Compras P�
 
 2 - Bem e/ou serviço e respetiva quota a cumprir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0248402491.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05600/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22/2021/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2021-159841264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b12944e883b35a4df6b41a59df2c2139fad06fd4880c03d1d5932cbd7f2c7ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61c5ee2279cd52226c90b26cca95d48df3a0fb7369fc0625fdc83baaa53de726
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência para a Gestão Integrada de Fogos Rurais
 - Direcção Regional dos Recursos Florestais
+- Fundo Ambiental
 - Instituto da Conservação da Natureza e das Florestas
+- Instituto das Florestas e Conservação da Natureza
+- Madeira.região Autónoma
 - Ordem dos Engenheiros
 - Prémio
-- Madeira.região Autónoma
-- Açores
-- Instituto das Florestas e Conservação da Natureza
-- Fundo Ambiental
-- Agência para a Gestão Integrada de Fogos Rurais
 - Prémio Nacional das Florestas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:12Z'
   warnings: []
   errors: []
 ---
@@ -159,3 +159,5 @@ b) A composição do comité de seleção dos trabalhos premiados, a cooptar ent
 8 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
 
 Presidência do Conselho de Ministros, 4 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114072643

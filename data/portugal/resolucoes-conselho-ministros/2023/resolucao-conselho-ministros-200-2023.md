@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24800/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/200/2023/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/200-2023-835712414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b8a2acb7316eeb8d72bed70d8848f9728bd329980fc676a77c8ee80bac36b77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 302aab71c59ef281f52694cacd2fccffe3d6b1e20bfe1f1319c50f0d65af48a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autorização de Despesas
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
-- Conselho de Ministros
-- Delegação de Competências
-- Política de Saúde
 - Administração Central do Sistema de Saúde
+- Autorização de Despesas
+- Conselho de Ministros
 - Cooperação Científica
+- Delegação de Competências
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
+- Política de Saúde
 - Programa Saúde+Ciência
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:33Z'
   warnings: []
   errors: []
 ---
@@ -165,9 +185,11 @@ Presidência do Conselho de Ministros, 7 de dezembro de 2023. - O Primeiro-Minis
 
 ## ANEXO — (a que se refere os n.os 1 e 3)
 
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
 | Fundação para a Ciência e a Tecnologia, I. P. ... | 517 334 (euro) | 1 191 536 (euro) | 1 348 404 (euro) | 1 269 970 (euro) | 769 168 (euro) | 346 800 (euro) | 173 400 (euro) | 5 616 612 (euro) |
 | Administração Central do Sistema de Saúde, I. P. | 1 600 000 (euro) | 1 600 000 (euro) | 605 063 (euro) | 0 (euro) | 0 (euro) | 0 (euro) | 0 (euro) | 3 805 063 (euro) |
 | Total ... | 2 117 334 (euro) | 2 791 536 (euro) | 1 953 467 (euro) | 1 269 970 (euro) | 769 168 (euro) | 346 800 (euro) | 173 400 (euro) | 9 421 675 (euro) |
+
+117187807

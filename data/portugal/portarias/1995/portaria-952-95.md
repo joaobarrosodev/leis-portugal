@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/952/1995/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-1995-481283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e44138c6ef519d15f422ead2717c961dbe627e04e140de5f26635329e2cbe860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc1d45769414bc25643edde062c2d94b6dd6208b77ad9a3cf238f94e548e99b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
-- CEE
 - Arborização
-- Projeto de Investimento
-- Instituto Florestal
+- CEE
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
+- Financiamento
+- Instituto Florestal
+- Política Agrícola Comum
+- Política Florestal
+- Projeto de Investimento
 - Regulamento
 - Regulamento CE
-- Agricultura
-- Política Florestal
 - Regulamento do Programa de Desenvolvimento Florestal
 relationships:
 - type: cites
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617288:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:04Z'
   warnings: []
   errors: []
 ---
@@ -138,18 +158,18 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 2.º Os artigos 14.º, 15.º e 17.º do Regulamento aprovado pela [Portaria n.º 809-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288), de 12 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 14.º - 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se durante o mês de Novembro, junto dos serviços centrais e regionais do Instituto Florestal, através do preenchimento de um formulário a distribuir por esses serviços.
+Art. 14.º - 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se durante o mês de Novembro, junto dos serviços centrais e regionais do Instituto Florestal, através do preenchimento de um formulário a distribuir por esses serviços.
 
 2 - ...
 
-###### Art. 15.º - 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão competente até 31 de Março do ano seguinte ao da apresentação das candidaturas.
+Art. 15.º - 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão competente até 31 de Março do ano seguinte ao da apresentação das candidaturas.
 
 2 - ...
 
-###### Art. 17.º - As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados entre o IFADAP e os beneficiários até 31 de Maio do ano seguinte ao da apresentação da candidatura.
+Art. 17.º - As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados entre o IFADAP e os beneficiários até 31 de Maio do ano seguinte ao da apresentação da candidatura.
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Julho de 1995.**
+Assinada em 10 de Julho de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.

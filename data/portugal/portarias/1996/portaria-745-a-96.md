@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 290/1996, 1º Suplemento, Série I-B de 1996-12-16
   number: '290'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4486-(2) a 4486-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/290b01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745-a/1996/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-a-1996-437432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9623501a2853662a273fc74336baf3c2b9c43da3f9f768d8e663ca729ffc7b79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84dd5672f24b0586c62f8376a5e992075f5a854cb9aec111b0e6ebb6b5e32a13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Ajuda Comunitária
 - Financiamento
 - Formação Profissional
-- Gestor
-- QCA
 - FSE
+- Gestor
 - Programa
+- QCA
 relationships:
 - type: amended_by
   target: pt:dre:562187:por
@@ -82,16 +82,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/15/1996/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/15/1996/11/23/p/dre
+- type: cites
+  target: pt:dre:197759:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:562187:por
+  label: "Revogada pela PORT.799-B/2000.2000.09.20.MTS DR.IS-B [218]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-b-2000-562187
+  date: '2000-09-20'
 article_structure:
   article_count: 30
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:38Z'
   warnings: []
   errors: []
 ---
@@ -506,6 +515,6 @@ A presente portaria entra em vigor em 16 de Dezembro de 1996.
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e para a Qualificação e o Emprego.
 
-**Assinada em 5 de Dezembro de 1996.**
+Assinada em 5 de Dezembro de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.

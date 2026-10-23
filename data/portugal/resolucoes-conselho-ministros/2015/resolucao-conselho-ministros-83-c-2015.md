@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 192/2015, 1º Suplemento, Série I de 2015-10-01
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8578-(279) a 8578-(449)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83-c/2015/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-c-2015-70433355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4462dd825e0969bfc5c9e46b6bc567dc0ba3eacdddcb25d785d51a78d91cd4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81753c6e1af27768ddc2d8ca3f2b8479bdf807fabca2d3a925530e1299d4b0ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Algarve
 - Auto-estrada com Portagem SCUT
-- SCUT
-- Financiamento
-- Transporte Terrestre
-- Ministro da Economia
+- Auto-estrada do Algarve
 - Contrato de Concessão
 - Definição de Competências
-- Algarve
-- Rede de Estradas
 - Euroscut
+- Financiamento
 - Gestão
+- Ministro da Economia
+- Ministro de Estado e das Finanças
 - Parceria Público-Privada
 - Portagem
-- Ministro de Estado e das Finanças
-- Auto-estrada do Algarve
+- Rede de Estradas
+- SCUT
 - Taxa
+- Transporte Terrestre
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -131,16 +131,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70409925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 76
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:12Z'
   warnings: []
   errors: []
 ---
@@ -397,61 +461,61 @@ uuu) Viagem - o percurso realizado por uma determinada viatura entre a sua entra
 
 ## ANEXO 1: Contrato de Empreitada;
 
-## ANEXO 2: Contratos de Financiamento;
+ANEXO 2: Contratos de Financiamento;
 
-## ANEXO 3: Lista dos Contratos do Projeto;
+ANEXO 3: Lista dos Contratos do Projeto;
 
-## ANEXO 4: Descrição da composição do Agrupamento e descrição da estrutura acionista da Concessionária;
+ANEXO 4: Descrição da composição do Agrupamento e descrição da estrutura acionista da Concessionária;
 
 ## ANEXO 5: Estatutos;
 
-## ANEXO 6: Acordo de Subscrição e Realização do Capital Social da Concessionária;
+ANEXO 6: Acordo de Subscrição e Realização do Capital Social da Concessionária;
 
 ## ANEXO 7: Programa de Trabalhos;
 
-## ANEXO 8: Documento de aceitação expressa dos limites à oneração de ações;
+ANEXO 8: Documento de aceitação expressa dos limites à oneração de ações;
 
 ## ANEXO 9: Caso Base;
 
-## ANEXO 10: Garantias bancárias;
+ANEXO 10: Garantias bancárias;
 
 ## ANEXO 11: Programa de seguros;
 
-## ANEXO 12: Acordo Direto referente ao Contrato de Empreitada;
+ANEXO 12: Acordo Direto referente ao Contrato de Empreitada;
 
-## ANEXO 13: Documento relativo às condições de intervenção das Entidades Financiadoras;
+ANEXO 13: Documento relativo às condições de intervenção das Entidades Financiadoras;
 
-## ANEXO 14: Definição dos Sublanços;
+ANEXO 14: Definição dos Sublanços;
 
-## ANEXO 15: Descrição das garantias relativas aos Lanços já construídos;
+ANEXO 15: Descrição das garantias relativas aos Lanços já construídos;
 
-## ANEXO 16: Estrutura Acionista Atual da Concessionária;
+ANEXO 16: Estrutura Acionista Atual da Concessionária;
 
-## ANEXO 17: Critérios Chave da reposição do equilíbrio financeiro;
+ANEXO 17: Critérios Chave da reposição do equilíbrio financeiro;
 
-## ANEXO 18: Contrato de assessoria;
+ANEXO 18: Contrato de assessoria;
 
-## ANEXO 19: Minuta do Contrato de Prestação de Serviços;
+ANEXO 19: Minuta do Contrato de Prestação de Serviços;
 
 ## ANEXO 20: Acordo Tripartido;
 
-## ANEXO 21: Sistema de cobrança de taxas de portagem;
+ANEXO 21: Sistema de cobrança de taxas de portagem;
 
-## ANEXO 22: Tarifas diárias de disponibilidade;
+ANEXO 22: Tarifas diárias de disponibilidade;
 
-## ANEXO 23: Manual de Operação e Manutenção;
+ANEXO 23: Manual de Operação e Manutenção;
 
-## ANEXO 24: Plano de Controlo de Qualidade;
+ANEXO 24: Plano de Controlo de Qualidade;
 
-## ANEXO 25: Localização dos equipamentos de contagem;
+ANEXO 25: Localização dos equipamentos de contagem;
 
-## ANEXO 26: Grandes Reparações de Pavimento;
+ANEXO 26: Grandes Reparações de Pavimento;
 
-## ANEXO 27: Partilha de receitas de portagem.
+ANEXO 27: Partilha de receitas de portagem.
 
 ## ANEXO 28: Limites da Concessão;
 
-## ANEXO 29: Critérios de medição das falhas de disponibilidade.
+ANEXO 29: Critérios de medição das falhas de disponibilidade.
 
 2.2. Na interpretação, integração ou aplicação de qualquer disposição do presente contrato devem ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa, e vice-versa.
 
@@ -1071,7 +1135,7 @@ b) Do projeto de decisão de adjudicação, desde que respeitando as normas lega
 
 39.10. Caso o Concedente opte por não proceder à realização de um aumento do número de Vias na data em que o mesmo devesse ocorrer, a Concessionária fica apenas obrigada, para efeitos da aplicação do regime de indisponibilidade da Autoestrada, ao cumprimento do nível de serviço resultante da aplicação da tabela seguinte, consoante o número de Vias do Sublanço em causa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 39A. Grandes Reparações de Pavimento
 
@@ -1377,7 +1441,7 @@ b) O fornecimento de dados para sistemas de controlo e de gestão de tráfego, n
 
 54.1 As classes de veículos que os equipamentos descritos nas cláusulas 52.ª e 53.ª devem permitir classificar são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 54.2. Nos Sublanços em que esteja prevista a instalação de equipamentos de cobrança free flow, a classificação dos veículos é efetuada de acordo com as categorias definidas pelo Concedente e identificadas na cláusula 66.ª.
 
@@ -1533,7 +1597,7 @@ b) A compatibilidade com o disposto na [Diretiva n.º 2004/52/CE](https://data.e
 
 66.1. Para efeito da aplicação das tarifas de portagem, as classes de veículos são, por ordem crescente do respetivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 66.2. Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com 2 (dois) eixos, peso bruto superior a 2 300 kg e inferior ou igual a 3 500 kg, com lotação igual ou superior a 5 (cinco) lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às 4 (quatro) rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando os seus utentes:
 
@@ -1557,7 +1621,7 @@ b) Façam prova, perante a entidade gestora do respetivo sistema eletrónico de 
 
 67.1. As tarifas de portagem podem ser atualizadas, anualmente, no primeiro mês de cada ano civil, por despacho do ME, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 67.2. A IP, após parecer da IGF, deve comunicar à Concessionária o valor das novas tarifas de portagem com uma antecedência mínima de 15 (quinze) dias relativamente à data da entrada em vigor das mesmas.
 
@@ -1669,7 +1733,7 @@ b) Componente B, no valor fixado no Contrato de Prestação de Serviços.
 
 74.3. O valor anual da Componente B da remuneração pela disponibilidade do sistema de cobrança de taxas de portagem (Compb t) é atualizado, no primeiro dia de cada ano civil, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 74.4. Os valores das Componentes A e B da remuneração pela disponibilidade do sistema de cobrança de taxas de portagem são objeto de revisão nos termos das cláusulas seguintes, por acordo entre a IP e a Concessionária.
 
@@ -1965,7 +2029,7 @@ c) Caso o montante acumulado das deduções previstas no número 92.6. ou das mu
 
 92.6. Verificando-se um nível de disponibilidade inferior ao previsto no número 92.3., é aplicada uma dedução calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 92.7. O valor da dedução decorrente da aplicação do disposto no número anterior é subtraído ao pagamento de reconciliação previsto na alínea b) do número 77.1..
 
@@ -2067,15 +2131,15 @@ j) As alterações nas condições das apólices de seguros, sem prejuízo do di
 
 98.1. Como contrapartida pelo desenvolvimento das atividades previstas nos números 5.1. e 5.2., a Concessionária recebe uma remuneração anual, calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.2. A componente da remuneração anual pela disponibilidade da Autoestrada (Dist),a que se refere o número anterior, é calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.3. O montante total das deduções a efetuar em cada ano em virtude da ocorrência de falhas de disponibilidade (Dedt), a que se refere o número 98.1., é calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.4. Considera-se existir uma falha de disponibilidade quando se verificar alguma das condições de indisponibilidade definidas nos números 98.15. a 98.20. e no Anexo 29.
 
@@ -2083,15 +2147,15 @@ j) As alterações nas condições das apólices de seguros, sem prejuízo do di
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.6. Sempre que se verifique:
 
@@ -2103,11 +2167,11 @@ b) ISt(conc) (maior que) ISt-1(ponderado), o Concedente deduz à remuneração a
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.8. Para efeitos do cálculo do índice de sinistralidade previsto nos números anteriores, não é considerado o eventual aumento de acidentes registados no Sublanço ou Grupo de Sublanços, conforme aplicável, no período relativamente ao qual se verifique, por facto imputável ao Concedente, o adiamento, total ou parcial, de uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade do Concedente e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, desde a data prevista para a sua conclusão, ou se opte pela não realização de um aumento do número de vias na data em que tal devesse ocorrer, nos termos da cláusula 39.ª, considerando-se, para o efeito, e com as devidas adaptações, a média anual do número de acidentes ocorrido nos 3 (três) anos anteriores.
 
@@ -2167,7 +2231,7 @@ iv) Os outros equipamentos integrantes da Autoestrada.
 
 98.20. O montante relativo às falhas de disponibilidade corresponde à soma das deduções diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.21. Para efeitos de cálculo do montante referente às falhas de disponibilidade, não são considerados o número total de quilómetros relativamente aos quais não se verifique o cumprimento da condição prevista na subalínea i) da alínea c) do número 98.15., relativa à regularidade e aderência do pavimento, que resulte da não realização, por facto imputável ao Concedente, dos trabalhos inerentes a uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade do Concedente e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, pelo período de tempo correspondente ao atraso na realização desses trabalhos.
 
@@ -2559,7 +2623,7 @@ j) Violação grave, não sanada ou sanável, pela Concessionária, das obrigaç
 
 114.3. No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do presente contrato, sendo entregues ao Concedente todos os bens que integram a Concessão, em estado que satisfaça as seguintes condições, salvo se, no que respeita aos pavimentos e à sinalização vertical e horizontal, tenha ocorrido, por facto imputável ao Concedente, qualquer atraso na realização dos trabalhos de uma Grande Reparação de Pavimento, cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA e cujos encargos sejam da responsabilidade deste, na medida em que tal atraso afete comprovadamente o estado dos mesmos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 114.4. Todos os bens não contemplados no quadro constante do número anterior devem ser entregues em estado que garanta 50% (cinquenta por cento) da vida útil de cada um dos seus componentes.
 
@@ -3081,61 +3145,61 @@ uuu) Viagem - o percurso realizado por uma determinada viatura entre a sua entra
 
 ## ANEXO 1: Contrato de Empreitada;
 
-## ANEXO 2: Contratos de Financiamento;
+ANEXO 2: Contratos de Financiamento;
 
-## ANEXO 3: Lista dos Contratos do Projeto;
+ANEXO 3: Lista dos Contratos do Projeto;
 
-## ANEXO 4: Descrição da composição do Agrupamento e descrição da estrutura acionista da Concessionária;
+ANEXO 4: Descrição da composição do Agrupamento e descrição da estrutura acionista da Concessionária;
 
 ## ANEXO 5: Estatutos;
 
-## ANEXO 6: Acordo de Subscrição e Realização do Capital Social da Concessionária;
+ANEXO 6: Acordo de Subscrição e Realização do Capital Social da Concessionária;
 
 ## ANEXO 7: Programa de Trabalhos;
 
-## ANEXO 8: Documento de aceitação expressa dos limites à oneração de ações;
+ANEXO 8: Documento de aceitação expressa dos limites à oneração de ações;
 
 ## ANEXO 9: Caso Base;
 
-## ANEXO 10: Garantias bancárias;
+ANEXO 10: Garantias bancárias;
 
 ## ANEXO 11: Programa de seguros;
 
-## ANEXO 12: Acordo Direto referente ao Contrato de Empreitada;
+ANEXO 12: Acordo Direto referente ao Contrato de Empreitada;
 
-## ANEXO 13: Documento relativo às condições de intervenção das Entidades Financiadoras;
+ANEXO 13: Documento relativo às condições de intervenção das Entidades Financiadoras;
 
-## ANEXO 14: Definição dos Sublanços;
+ANEXO 14: Definição dos Sublanços;
 
-## ANEXO 15: Descrição das garantias relativas aos Lanços já construídos;
+ANEXO 15: Descrição das garantias relativas aos Lanços já construídos;
 
-## ANEXO 16: Estrutura Acionista Atual da Concessionária;
+ANEXO 16: Estrutura Acionista Atual da Concessionária;
 
-## ANEXO 17: Critérios Chave da reposição do equilíbrio financeiro;
+ANEXO 17: Critérios Chave da reposição do equilíbrio financeiro;
 
-## ANEXO 18: Contrato de assessoria;
+ANEXO 18: Contrato de assessoria;
 
-## ANEXO 19: Minuta do Contrato de Prestação de Serviços;
+ANEXO 19: Minuta do Contrato de Prestação de Serviços;
 
 ## ANEXO 20: Acordo Tripartido;
 
-## ANEXO 21: Sistema de cobrança de taxas de portagem;
+ANEXO 21: Sistema de cobrança de taxas de portagem;
 
-## ANEXO 22: Tarifas diárias de disponibilidade;
+ANEXO 22: Tarifas diárias de disponibilidade;
 
-## ANEXO 23: Manual de Operação e Manutenção;
+ANEXO 23: Manual de Operação e Manutenção;
 
-## ANEXO 24: Plano de Controlo de Qualidade;
+ANEXO 24: Plano de Controlo de Qualidade;
 
-## ANEXO 25: Localização dos equipamentos de contagem;
+ANEXO 25: Localização dos equipamentos de contagem;
 
-## ANEXO 26: Grandes Reparações de Pavimento;
+ANEXO 26: Grandes Reparações de Pavimento;
 
-## ANEXO 27: Partilha de receitas de portagem.
+ANEXO 27: Partilha de receitas de portagem.
 
 ## ANEXO 28: Limites da Concessão;
 
-## ANEXO 29: Critérios de medição das falhas de disponibilidade.
+ANEXO 29: Critérios de medição das falhas de disponibilidade.
 
 2.2. Na interpretação, integração ou aplicação de qualquer disposição do presente contrato devem ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa, e vice-versa.
 
@@ -3755,7 +3819,7 @@ b) Do projeto de decisão de adjudicação, desde que respeitando as normas lega
 
 39.10. Caso o Concedente opte por não proceder à realização de um aumento do número de Vias na data em que o mesmo devesse ocorrer, a Concessionária fica apenas obrigada, para efeitos da aplicação do regime de indisponibilidade da Autoestrada, ao cumprimento do nível de serviço resultante da aplicação da tabela seguinte, consoante o número de Vias do Sublanço em causa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 39A. Grandes Reparações de Pavimento
 
@@ -4061,7 +4125,7 @@ b) O fornecimento de dados para sistemas de controlo e de gestão de tráfego, n
 
 54.1 As classes de veículos que os equipamentos descritos nas cláusulas 52.ª e 53.ª devem permitir classificar são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 54.2. Nos Sublanços em que esteja prevista a instalação de equipamentos de cobrança free flow, a classificação dos veículos é efetuada de acordo com as categorias definidas pelo Concedente e identificadas na cláusula 66.ª.
 
@@ -4217,7 +4281,7 @@ b) A compatibilidade com o disposto na [Diretiva n.º 2004/52/CE](https://data.e
 
 66.1. Para efeito da aplicação das tarifas de portagem, as classes de veículos são, por ordem crescente do respetivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 66.2. Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com 2 (dois) eixos, peso bruto superior a 2 300 kg e inferior ou igual a 3 500 kg, com lotação igual ou superior a 5 (cinco) lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às 4 (quatro) rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando os seus utentes:
 
@@ -4241,7 +4305,7 @@ b) Façam prova, perante a entidade gestora do respetivo sistema eletrónico de 
 
 67.1. As tarifas de portagem podem ser atualizadas, anualmente, no primeiro mês de cada ano civil, por despacho do ME, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 67.2. A IP, após parecer da IGF, deve comunicar à Concessionária o valor das novas tarifas de portagem com uma antecedência mínima de 15 (quinze) dias relativamente à data da entrada em vigor das mesmas.
 
@@ -4353,7 +4417,7 @@ b) Componente B, no valor fixado no Contrato de Prestação de Serviços.
 
 74.3. O valor anual da Componente B da remuneração pela disponibilidade do sistema de cobrança de taxas de portagem (Compb t) é atualizado, no primeiro dia de cada ano civil, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 74.4. Os valores das Componentes A e B da remuneração pela disponibilidade do sistema de cobrança de taxas de portagem são objeto de revisão nos termos das cláusulas seguintes, por acordo entre a IP e a Concessionária.
 
@@ -4649,7 +4713,7 @@ c) Caso o montante acumulado das deduções previstas no número 92.6. ou das mu
 
 92.6. Verificando-se um nível de disponibilidade inferior ao previsto no número 92.3., é aplicada uma dedução calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 92.7. O valor da dedução decorrente da aplicação do disposto no número anterior é subtraído ao pagamento de reconciliação previsto na alínea b) do número 77.1..
 
@@ -4751,15 +4815,15 @@ j) As alterações nas condições das apólices de seguros, sem prejuízo do di
 
 98.1. Como contrapartida pelo desenvolvimento das atividades previstas nos números 5.1. e 5.2., a Concessionária recebe uma remuneração anual, calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.2. A componente da remuneração anual pela disponibilidade da Autoestrada (Dist),a que se refere o número anterior, é calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.3. O montante total das deduções a efetuar em cada ano em virtude da ocorrência de falhas de disponibilidade (Dedt), a que se refere o número 98.1., é calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.4. Considera-se existir uma falha de disponibilidade quando se verificar alguma das condições de indisponibilidade definidas nos números 98.15. a 98.20. e no Anexo 29.
 
@@ -4767,15 +4831,15 @@ j) As alterações nas condições das apólices de seguros, sem prejuízo do di
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.6. Sempre que se verifique:
 
@@ -4787,11 +4851,11 @@ b) ISt(conc) (maior que) ISt-1(ponderado), o Concedente deduz à remuneração a
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.8. Para efeitos do cálculo do índice de sinistralidade previsto nos números anteriores, não é considerado o eventual aumento de acidentes registados no Sublanço ou Grupo de Sublanços, conforme aplicável, no período relativamente ao qual se verifique, por facto imputável ao Concedente, o adiamento, total ou parcial, de uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade do Concedente e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, desde a data prevista para a sua conclusão, ou se opte pela não realização de um aumento do número de vias na data em que tal devesse ocorrer, nos termos da cláusula 39.ª, considerando-se, para o efeito, e com as devidas adaptações, a média anual do número de acidentes ocorrido nos 3 (três) anos anteriores.
 
@@ -4851,7 +4915,7 @@ iv) Os outros equipamentos integrantes da Autoestrada.
 
 98.20. O montante relativo às falhas de disponibilidade corresponde à soma das deduções diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 98.21. Para efeitos de cálculo do montante referente às falhas de disponibilidade, não são considerados o número total de quilómetros relativamente aos quais não se verifique o cumprimento da condição prevista na subalínea i) da alínea c) do número 98.15., relativa à regularidade e aderência do pavimento, que resulte da não realização, por facto imputável ao Concedente, dos trabalhos inerentes a uma Grande Reparação de Pavimento cujos encargos sejam da responsabilidade do Concedente e cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA, pelo período de tempo correspondente ao atraso na realização desses trabalhos.
 
@@ -5243,7 +5307,7 @@ j) Violação grave, não sanada ou sanável, pela Concessionária, das obrigaç
 
 114.3. No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do presente contrato, sendo entregues ao Concedente todos os bens que integram a Concessão, em estado que satisfaça as seguintes condições, salvo se, no que respeita aos pavimentos e à sinalização vertical e horizontal, tenha ocorrido, por facto imputável ao Concedente, qualquer atraso na realização dos trabalhos de uma Grande Reparação de Pavimento, cuja necessidade tenha sido determinada nos termos da cláusula 39.ªA e cujos encargos sejam da responsabilidade deste, na medida em que tal atraso afete comprovadamente o estado dos mesmos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0027900449.pdf)
 
 114.4. Todos os bens não contemplados no quadro constante do número anterior devem ser entregues em estado que garanta 50% (cinquenta por cento) da vida útil de cada um dos seus componentes.
 

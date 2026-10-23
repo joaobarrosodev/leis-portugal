@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05400/0003000080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/41/2024/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b4388055d18c8c8ea2d7e4134ea19249e40220ec82c224971e685a90a469941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22fbb69555d653410545ac2ca39a8081bdf517b1e03a89d21b3d1a5b5765dca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Renovável
 - Combustível
+- Energia Renovável
 - Laboratório Nacional de Energia e Geologia
 - Plano de Ação para o Biometano 2024­-2040
 relationships:
@@ -142,6 +142,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/6/2022/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/2022/01/25/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178152679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181886178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32023L2413
   label: null
@@ -149,13 +197,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:48Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +266,7 @@ Plano de Ação para o Biometano 2024-2040
 
 Sumário executivo
 
-Com as novas metas climáticas europeias e nacionais, a produção e o consumo de biogás (<sup>1</sup>) e de biometano (<sup>2</sup>) provenientes de resíduos tornam-se cada vez mais relevantes, ao contribuírem para a descarbonização da economia nacional e para a diminuição da utilização de gás natural estabelecida no âmbito do Pacto Ecológico Europeu. A produção e o consumo de gases renováveis assumem assim um papel importante na atração de novas indústrias verdes e, em particular, na descarbonização da indústria pesada e do setor dos transportes. Além de promover o desenvolvimento de setores estratégicos através da produção e do consumo de um gás renovável, a cadeia de valor do biometano gera ainda um coproduto - o digerido (<sup>3</sup>) - que pode ser utilizado na agricultura enquanto fertilizante ou corretivo orgânico, sendo uma mais-valia para o desenvolvimento regional e para a promoção de uma economia circular. Assim, a utilização do biometano tem impactos positivos em termos socioeconómicos, contribuindo para uma maior coesão territorial, gerando emprego, potenciando o crescimento económico sustentado e contrariando a atual tendência crescente de despovoamento dos territórios do interior e de menor aptidão agrícola; e ambientais, reduzindo as emissões de gases com efeito de estufa (GEE) e promovendo a circularidade e a valorização dos resíduos.
+Com as novas metas climáticas europeias e nacionais, a produção e o consumo de biogás (1) e de biometano (2) provenientes de resíduos tornam-se cada vez mais relevantes, ao contribuírem para a descarbonização da economia nacional e para a diminuição da utilização de gás natural estabelecida no âmbito do Pacto Ecológico Europeu. A produção e o consumo de gases renováveis assumem assim um papel importante na atração de novas indústrias verdes e, em particular, na descarbonização da indústria pesada e do setor dos transportes. Além de promover o desenvolvimento de setores estratégicos através da produção e do consumo de um gás renovável, a cadeia de valor do biometano gera ainda um coproduto - o digerido (3) - que pode ser utilizado na agricultura enquanto fertilizante ou corretivo orgânico, sendo uma mais-valia para o desenvolvimento regional e para a promoção de uma economia circular. Assim, a utilização do biometano tem impactos positivos em termos socioeconómicos, contribuindo para uma maior coesão territorial, gerando emprego, potenciando o crescimento económico sustentado e contrariando a atual tendência crescente de despovoamento dos territórios do interior e de menor aptidão agrícola; e ambientais, reduzindo as emissões de gases com efeito de estufa (GEE) e promovendo a circularidade e a valorização dos resíduos.
 
 Adicionalmente, a necessidade de substituir as importações de gás natural da Federação da Rússia veio reavivar as preocupações com a segurança energética europeia e revalorizar as tecnologias de produção de biogás e de biometano. De acordo com o recente plano da União Europeia (UE) para reduzir a dependência do gás e do petróleo russos (REPowerEU), o biometano pode substituir até 10 % do gás natural fóssil consumido na UE até 2030. A nível nacional, a indústria associada a estes gases está numa fase inicial, sendo fundamental uma estratégia integrada de promoção do seu desenvolvimento.
 
@@ -240,7 +288,7 @@ Para além das 20 linhas de ação, o relatório apresenta ainda os seguintes co
 
 • A criação de um mercado do biometano em Portugal deve focar-se em cinco setores estratégicos para o seu desenvolvimento - RU, águas residuais, agricultura, pecuária e agroindústria - focando-se na reconversão da produção de biogás já existente para biometano e no investimento em novas unidades de biometano em regiões de interesse, em particular através do aproveitamento de resíduos com elevado potencial;
 
-• Estima-se que o potencial de implementação do biometano a partir da digestão anaeróbia (<sup>4</sup>) das matérias-primas residuais destes cinco setores estratégicos atinja cerca de 2,7 TWh em 2030, permitindo a substituição de até 9,1 % do consumo de gás natural previsto para o mesmo ano. Estima-se que em 2040 a digestão anaeróbia permitirá produzir 3,1 TWh, sendo possível, através do uso de novas tecnologias como a gaseificação e o power-to-methane, escalar a produção para 5,6 TWh e atingir valores de substituição do gás natural até 18,6 %, considerando o consumo previsto na Rede Pública de Gás (RPG) em 2030;
+• Estima-se que o potencial de implementação do biometano a partir da digestão anaeróbia (4) das matérias-primas residuais destes cinco setores estratégicos atinja cerca de 2,7 TWh em 2030, permitindo a substituição de até 9,1 % do consumo de gás natural previsto para o mesmo ano. Estima-se que em 2040 a digestão anaeróbia permitirá produzir 3,1 TWh, sendo possível, através do uso de novas tecnologias como a gaseificação e o power-to-methane, escalar a produção para 5,6 TWh e atingir valores de substituição do gás natural até 18,6 %, considerando o consumo previsto na Rede Pública de Gás (RPG) em 2030;
 
 • Para concretizar este potencial é essencial prosseguir o quadro de apoio ao investimento ou à operação, que pode ser via apoios ao CAPEX ou OPEX, nomeadamente pelo enquadramento destes apoios no âmbito das estruturas reguladas dos operadores de distribuição do sistema nacional de gás.
 
@@ -250,22 +298,22 @@ Resumo do PAB
 | --- | --- | --- |
 | Prioridade 1: Acelerar o desenvolvimento da produção de biometano. | Prioridade 3: Escalar a produção de biometano em Portugal. | Prioridade 6: Assegurar a sustentabilidade da fileira do biometano. |
 | L1. Prosseguir um quadro de apoios à produção de biometano. | L9. Incentivar as entidades gestoras do setor das águas residuais a utilizar e maximizar a digestão anaeróbia de lamas. | L18. Garantir uma utilização sustentável do potencial de biometano em Portugal. |
-| L2. Efetivar a recolha seletiva de biorresíduos e capacitar os sistemas de gestão de resíduos urbanos (SGRU) a maximizar a valorização orgânica por digestão anaeróbia. | L10. Escalar a valorização orgânica de efluentes pecuários e agroindustriais no processo de produção de biometano. | L18. Garantir uma utilização sustentável do potencial de biometano em Portugal. |
+| L2. Efetivar a recolha seletiva de biorresíduos e capacitar os sistemas de gestão de resíduos urbanos (SGRU) a maximizar a valorização orgânica por digestão anaeróbia. | L10. Escalar a valorização orgânica de efluentes pecuários e agroindustriais no processo de produção de biometano. |  |
 | L3. Fomentar a reconversão de unidades de biogás já existentes para biometano e acelerar a implementação de projetos já aprovados e/ou em desenvolvimento no setor agropecuário e agroindustrial. | L11. Diversificar a base tecnológica de produção de biometano além da digestão anaeróbia. | Prioridade 7: Estimular e reforçar sinergias entre os atores da cadeia de valor. |
 | L4. Estabelecer metas de incorporação de biometano na RPG. | Prioridade 4: Desenvolver e criar cadeias de valor a nível regional. | L19. Aumentar a consciencialização e capacitar a indústria nacional para o aproveitamento do potencial do biometano nos principais setores de interesse, utilizando os roteiros, clusters e sistemas já existentes. |
-| L5. Explorar oportunidades para o biometano no setor dos transportes e incentivar o consumo de biometano na indústria, em particular nas indústrias abrangidas pelo Sistema de Gestão dos Consumos Intensivos de Energia (SGCIE). | L12. Promover a codigestão de matérias-primas complementares, sem comprometer benefícios ambientais. | L19. Aumentar a consciencialização e capacitar a indústria nacional para o aproveitamento do potencial do biometano nos principais setores de interesse, utilizando os roteiros, clusters e sistemas já existentes. |
-| L6. Realizar estudos prospetivos para a implementação estratégica de projetos e avaliar necessidades de novas ligações à infraestrutura atual para a injeção de biometano a nível regional. | L13. Estimular a criação de comunidades de biometano ou pipelines virtuais para a produção de biometano e sua injeção na rede de gás. | L19. Aumentar a consciencialização e capacitar a indústria nacional para o aproveitamento do potencial do biometano nos principais setores de interesse, utilizando os roteiros, clusters e sistemas já existentes. |
+| L5. Explorar oportunidades para o biometano no setor dos transportes e incentivar o consumo de biometano na indústria, em particular nas indústrias abrangidas pelo Sistema de Gestão dos Consumos Intensivos de Energia (SGCIE). | L12. Promover a codigestão de matérias-primas complementares, sem comprometer benefícios ambientais. |  |
+| L6. Realizar estudos prospetivos para a implementação estratégica de projetos e avaliar necessidades de novas ligações à infraestrutura atual para a injeção de biometano a nível regional. | L13. Estimular a criação de comunidades de biometano ou pipelines virtuais para a produção de biometano e sua injeção na rede de gás. |  |
 | Prioridade 2: Criar um quadro regulatório adequado. | L14. Estimular a criação de soluções de recolha centralizadas a nível regional a associadas a comunidades de biometano ou pipelines virtuais para garantir acesso a matérias-primas de qualidade. | L20. Integrar a sociedade civil e os órgãos de administração pública regionais e locais no desenvolvimento do setor e promover um envolvimento participativo de todos os atores na cadeia de valor. |
 | L7. Promover a injeção de biometano na RPG. | L15. Implementar uma estratégia para o digerido enquanto matéria fertilizante de modo a permitir o crescimento do mercado de biometano. |  |
 | L8. Clarificar o quadro regulamentar e agilizar os processos de licenciamento. | Prioridade 5: Reforçar e promover a investigação e a inovação. |  |
-| L8. Clarificar o quadro regulamentar e agilizar os processos de licenciamento. | L16. Promover a inovação na cadeia de valor, incluindo a valorização do digerido, valorização do CO<sub>2</sub> resultante do processo de purificação do biogás e o uso de tecnologias alternativas de produção de biometano em diferentes setores de atividade. |  |
-| L8. Clarificar o quadro regulamentar e agilizar os processos de licenciamento. | L17. Reforçar a avaliação estratégica para a concretização da produção de biometano e utilização do CO<sub>2</sub> biogénico por tecnologias inovadoras identificadas como de elevado potencial. |  |
+| L16. Promover a inovação na cadeia de valor, incluindo a valorização do digerido, valorização do CO2 resultante do processo de purificação do biogás e o uso de tecnologias alternativas de produção de biometano em diferentes setores de atividade. |  |  |
+| L17. Reforçar a avaliação estratégica para a concretização da produção de biometano e utilização do CO2 biogénico por tecnologias inovadoras identificadas como de elevado potencial. |  |  |
 
 1 - O biometano no contexto europeu e nacional
 
 A volatilidade dos mercados de gás no período pós-pandemia, exacerbada pela existência de tensões geopolíticas junto às fronteiras europeias, veio reacender a discussão em torno do papel do gás natural na matriz energética da Europa. A diversificação do aprovisionamento de gás através da produção de gases renováveis como o hidrogénio e o biometano é uma das soluções para a diminuição das importações de gás natural e a eliminação progressiva da dependência em relação aos combustíveis fósseis, com benefícios também ao nível da exposição dos consumidores aos preços voláteis do gás natural.
 
-No âmbito do plano REPowerEU, a UE assumiu em 2022 a necessidade de aumentar a produção de biometano, duplicando ambições para 2030 (ambição de produzir 35 mil milhões de metros cúbicos de biometano sustentável) e apontando este gás alternativo como um dos pilares para uma energia mais segura e sustentável na Europa. Para alcançar estes objetivos, a UE avançou com uma série de ações que visam alargar a produção sustentável de biogás a partir de resíduos tendo em vista a sua transformação em biometano. Uma das principais ações propostas foi a criação de uma parceria industrial para o biogás e o biometano (<sup>5</sup>), de modo a desenvolver a sua produção e utilização sustentáveis. A esta proposta juntam-se outras como a aceleração da concessão de licenças para projetos de energias renováveis, o incentivo a novos investimentos em biogás e biometano, assim como a avaliação dos desafios e barreiras existentes em matéria de infraestruturas que possam impedir o aproveitamento do potencial dos gases renováveis na Europa (6).
+No âmbito do plano REPowerEU, a UE assumiu em 2022 a necessidade de aumentar a produção de biometano, duplicando ambições para 2030 (ambição de produzir 35 mil milhões de metros cúbicos de biometano sustentável) e apontando este gás alternativo como um dos pilares para uma energia mais segura e sustentável na Europa. Para alcançar estes objetivos, a UE avançou com uma série de ações que visam alargar a produção sustentável de biogás a partir de resíduos tendo em vista a sua transformação em biometano. Uma das principais ações propostas foi a criação de uma parceria industrial para o biogás e o biometano (5), de modo a desenvolver a sua produção e utilização sustentáveis. A esta proposta juntam-se outras como a aceleração da concessão de licenças para projetos de energias renováveis, o incentivo a novos investimentos em biogás e biometano, assim como a avaliação dos desafios e barreiras existentes em matéria de infraestruturas que possam impedir o aproveitamento do potencial dos gases renováveis na Europa (6).
 
 Enquanto alternativa sustentável ao gás fóssil, o biometano é um combustível equivalente ao gás natural que pode ser obtido através do upgrading de biogás (proveniente da digestão anaeróbia) ou da metanação do gás de síntese (procedente da gaseificação), ou ainda, através de um processo designado como power-to-methane, que tem elevado potencial de desenvolvimento num futuro próximo. A tabela 1 apresenta a composição típica do biogás (variável conforme o material a ser degradado e as condições químicas e físicas que influenciam o processo da digestão anaeróbia), biometano e gás natural.
 
@@ -316,7 +364,8 @@ Em linha com esta visão estratégica foram definidos os seguintes objetivos ger
 
 A figura 1 resume a lógica da intervenção sugerida, destacando-se a relação entre os objetivos gerais e as diferentes fases do PAB através de um conjunto de prioridades de desenvolvimento que se traduzem em linhas de ação (L) específicas.
 
-![](https://dre.pt/application/file/855594234)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/855594234) |
+| --- |
 
 Figura 1. Enquadramento lógico do Plano de Ação para o Biometano
 
@@ -324,7 +373,8 @@ Figura 1. Enquadramento lógico do Plano de Ação para o Biometano
 
 A cadeia de valor do biometano integra diversas partes interessadas, com diferentes áreas de atividade que vão desde a recolha e processamento das matérias-primas até à produção do gás e ao respetivo transporte/distribuição e uso final. A figura 2 apresenta as cadeias de valor simplificadas para o biometano, seguindo-se uma breve revisão das tecnologias e matérias-primas mais interessantes para o seu aproveitamento em Portugal.
 
-![](https://dre.pt/application/file/855594235)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/855594235) |
+| --- |
 
 Figura 2. Cadeia de valor simplificada para o biometano
 
@@ -350,9 +400,9 @@ A tabela 2 apresenta dados comparativos das diferentes tecnologias de upgrading 
 
 Tabela 2 - Comparação entre as diferentes tecnologias de upgrading de biogás (11)(12)(13)
 
-| Parâmetro | Membranas | Lavagem com água | Lavagem com aminas | PSA/VPSA |
+| Parâmetro | Tecnologia de upgrading do biogás |  |  |  |
 | --- | --- | --- | --- | --- |
-| Parâmetro | Tecnologia de upgrading do biogás | Tecnologia de upgrading do biogás | Tecnologia de upgrading do biogás | Tecnologia de upgrading do biogás |
+| Membranas | Lavagem<br>com água | Lavagem<br>com aminas | PSA/VPSA |  |
 | Capacidade típica de unidades (Nm3/h biometano) | 50-1200 | 200-1200 | 400-2000 | 50-1200 |
 | Energia elétrica consumida (kWh/Nm3 biometano) | > 0,42 | 0,46 | 0,27 (sem compressão) | < 0,427 |
 | Energia térmica consumida (kWh/Nm3) | – | – | 0,65 | – |
@@ -361,9 +411,9 @@ Tabela 2 - Comparação entre as diferentes tecnologias de upgrading de biogás 
 | Perdas de metano (%) | < 1,5 | <2 | < 0,1 | <0,5 |
 | Metano recuperado (%) | 98,5 | > 98 | > 99,9 | > 99,5 |
 | Limpeza do gás | Sim | Sim | Sim | Sim |
-| Custos, CAPEX (€/m3/h biometano) | Custos, CAPEX (€/m3/h biometano) | Custos, CAPEX (€/m3/h biometano) | Custos, CAPEX (€/m3/h biometano) | Custos, CAPEX (€/m3/h biometano) |
+| Custos, CAPEX (€/m3/h biometano) |  |  |  |  |
 | 250 m3/h | 2 400 | 3 400 | 3 000 | 2 300 |
-| Custos, OPEX (€/Nm3/h biometano) (*) | Custos, OPEX (€/Nm3/h biometano) (*) | Custos, OPEX (€/Nm3/h biometano) (*) | Custos, OPEX (€/Nm3/h biometano) (*) | Custos, OPEX (€/Nm3/h biometano) (*) |
+| Custos, OPEX (€/Nm3/h biometano) (*) |  |  |  |  |
 | 250 m3/h | 0,116 | 0,103 | 0,12 | 0,101 |
 
 (*) Inclui custos de eletricidade, manutenção preventiva e operação com presença física no local.
@@ -412,9 +462,9 @@ Também em Portugal, a primeira geração de centrais de biogás adotou como mod
 
 Tabela 3 - Avaliação prospetiva do potencial teórico e técnico de biogás/biometano em Portugal (2023)
 
-| Tipo | Potencial teórico | Potencial técnico | Potencial teórico | Potencial técnico |
+| Tipo | Biogás (TWh) | Biometano (TWh) |  |  |
 | --- | --- | --- | --- | --- |
-| Tipo | Biogás (TWh) | Biogás (TWh) | Biometano (TWh) | Biometano (TWh) |
+| Potencial teórico | Potencial técnico | Potencial teórico | Potencial técnico |  |
 | Biogás (atual) | ­– | 0,87 | 0,48 | 0,48 |
 | RU (Fração orgânica) ª | 0,65 | 0,44 | 0,59 | 0,40 |
 | Lamas de ETAR b | 0,06 | 0,05 | 0,06 | 0,05 |
@@ -448,33 +498,33 @@ Da análise efetuada, conclui-se que o mercado do biometano em Portugal depende,
 
 Tabela 4 - Avaliação prospetiva do potencial de implementação de biometano (2030 e 2040)
 
-| Matéria-prima | Matéria-prima | Matérias-primas usadas para biogás (%) (*) | Biogás (TWh) | Biogás convertido em biometano (%) | Biometano (TWh) |
+| Matéria-prima | Matérias-primas usadas<br>para biogás (%) (*) | Potencial de implementação |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Matéria-prima | Matéria-prima | Matérias-primas usadas para biogás (%) (*) | Potencial de implementação | Potencial de implementação | Potencial de implementação |
+| Biogás<br>(TWh) | Biogás convertido<br>em biometano (%) | Biometano<br>(TWh) |  |  |  |
 | 2030 | Biogás (atual) | ­– | – | (**) 50 | 0,44 |
-| 2030 | RU (fração orgânica) | 90 | 0,40 | 90 | 0,36 |
-| 2030 | Lamas de ETAR | 100 | 0,05 | 90 | 0,05 |
-| 2030 | Efluentes pecuários | 100 | 1,04 | 90 | 0,94 |
-| 2030 | Resíduos agroindustriais | 75 | 0,08 | 90 | 0,07 |
-| 2030 | Resíduos agrícolas | 56 | 0,62 | 90 | 0,56 |
-| 2030 | Subtotal digestão anaeróbia (DA) | ­– | 2,19 | – | 2,42 |
-| 2030 | Resíduos florestais | 0,3 | ­– | 100 | 0,01 |
-| 2030 | Subtotal G | ­– | ­– |  | 0,01 |
-| 2030 | CO2 biogénico | 100 | – | 10 | 0,29 |
-| 2030 | Subtotal PtM | ­– | ­– | ­– | 0,29 |
-| Total | Total | ­– | 2,19 | ­– | 2,72 |
+| RU (fração orgânica) | 90 | 0,40 | 90 | 0,36 |  |
+| Lamas de ETAR | 100 | 0,05 | 0,05 |  |  |
+| Efluentes pecuários | 100 | 1,04 | 0,94 |  |  |
+| Resíduos agroindustriais | 75 | 0,08 | 0,07 |  |  |
+| Resíduos agrícolas | 56 | 0,62 | 0,56 |  |  |
+| Subtotal digestão anaeróbia (DA) | ­– | 2,19 | – | 2,42 |  |
+| Resíduos florestais | 0,3 | ­– | 100 | 0,01 |  |
+| Subtotal G | ­– | ­– |  | 0,01 |  |
+| CO2 biogénico | 100 | – | 10 | 0,29 |  |
+| Subtotal PtM | ­– | ­– | ­– | 0,29 |  |
+| Total | ­– | 2,19 | ­– | 2,72 |  |
 | 2040 | Biogás (atual) | ­– | – | 90 | 0,78 |
-| 2040 | RU (fração orgânica) | 100 | 0,44 | 90 | 0,40 |
-| 2040 | Lamas de ETAR | 100 | 0,05 | 90 | 0,05 |
-| 2040 | Efluentes pecuários | 100 | 1,04 | 90 | 0,94 |
-| 2040 | Resíduos agroindustriais | 80 | 0,08 | 90 | 0,07 |
-| 2040 | Resíduos agrícolas | 83 | 0,92 | 90 | 0,83 |
-| 2040 | Subtotal AD | ­– | 2,53 | ­– | 3,07 |
-| 2040 | Resíduos florestais (***) | 10 | – | 100 | 0,48 |
-| 2040 | Subtotal G | ­– | ­– | ­– | 0,48 |
-| 2040 | CO2 biogénico (****) | 100 | ­– | 70 | 2,02 |
-| 2040 | Subtotal PtM | ­– | ­– | – | 2,02 |
-| Total | Total | ­– | ­– | ­– | 5,57 |
+| RU (fração orgânica) | 100 | 0,44 | 90 | 0,40 |  |
+| Lamas de ETAR | 100 | 0,05 | 0,05 |  |  |
+| Efluentes pecuários | 100 | 1,04 | 0,94 |  |  |
+| Resíduos agroindustriais | 80 | 0,08 | 0,07 |  |  |
+| Resíduos agrícolas | 83 | 0,92 | 0,83 |  |  |
+| Subtotal AD | ­– | 2,53 | ­– | 3,07 |  |
+| Resíduos florestais (***) | 10 | – | 100 | 0,48 |  |
+| Subtotal G | ­– | ­– | ­– | 0,48 |  |
+| CO2 biogénico (****) | 100 | ­– | 70 | 2,02 |  |
+| Subtotal PtM | ­– | ­– | – | 2,02 |  |
+| Total | ­– | ­– | ­– | 5,57 |  |
 
 (*) Utilização de recursos de biomassa no cenário WAM 1 da Direção-Geral de Energia e Geologia (DGEG). Ver também anexo 2. Fonte: Modelo JANUS, DGEG.
 
@@ -698,7 +748,7 @@ Nesse sentido, recomenda-se a adoção de medidas que diminuam estas e outras ba
 
 | L8 - Linha de ação n.º 8 (2024) |
 | --- |
-| Clarificar o quadro regulamentar e agilizar os processos de licenciamento (<sup>37</sup>)De modo a acelerar o desenvolvimento de novos projetos de produção de biometano, deve ser clarificado o enquadramento regulamentar de toda a cadeia de valor, em especial do digerido, e agilizados todos os procedimentos administrativos e de licenciamento no domínio do RGGR necessários à sua implementação. Este processo implica, por exemplo, a simplificação e diminuição dos custos associados à valorização orgânica no âmbito do atual RGGR (transporte e licenciamento), propondo-se que projetos de produção de biometano e outros gases renováveis possam beneficiar de uma clarificação de todos os procedimentos de licenciamento ambiental. |
+| Clarificar o quadro regulamentar e agilizar os processos de licenciamento (37)De modo a acelerar o desenvolvimento de novos projetos de produção de biometano, deve ser clarificado o enquadramento regulamentar de toda a cadeia de valor, em especial do digerido, e agilizados todos os procedimentos administrativos e de licenciamento no domínio do RGGR necessários à sua implementação. Este processo implica, por exemplo, a simplificação e diminuição dos custos associados à valorização orgânica no âmbito do atual RGGR (transporte e licenciamento), propondo-se que projetos de produção de biometano e outros gases renováveis possam beneficiar de uma clarificação de todos os procedimentos de licenciamento ambiental. |
 
 As medidas seguintes podem contribuir para a simplificação dos procedimentos de autorização e licenciamento de projetos de biometano:
 
@@ -758,7 +808,7 @@ De forma a incentivar sinergias entre o mercado de produção de biometano e as 
 
 | L10 - Linha de ação n.º 10 (2026-2030) |
 | --- |
-| Escalar a valorização orgânica de efluentes pecuários e agroindustriais para a produção de biometano (<sup>26</sup>)Os chorumes e estrumes provenientes da atividade pecuária, assim como outros efluentes agroindustriais, apresentam um potencial considerável para a produção de biogás. Após a entrada em operação dos projetos já aprovados no âmbito do PRR, na generalidade suportados na utilização deste tipo de efluentes, devem continuar a ser criadas condições para reforçar o crescimento da produção de biometano no setor até 2030. A valorização através da digestão anaeróbia deve ser a solução base para a gestão de efluentes pecuários em Portugal já que, além da produção de biogás e/ou biometano, se gera um digerido que pode ser utilizado como corretivo orgânico ou biofertilizante agrícola e possui excelentes propriedades para o melhoramento de solos. |
+| Escalar a valorização orgânica de efluentes pecuários e agroindustriais para a produção de biometano (26)Os chorumes e estrumes provenientes da atividade pecuária, assim como outros efluentes agroindustriais, apresentam um potencial considerável para a produção de biogás. Após a entrada em operação dos projetos já aprovados no âmbito do PRR, na generalidade suportados na utilização deste tipo de efluentes, devem continuar a ser criadas condições para reforçar o crescimento da produção de biometano no setor até 2030. A valorização através da digestão anaeróbia deve ser a solução base para a gestão de efluentes pecuários em Portugal já que, além da produção de biogás e/ou biometano, se gera um digerido que pode ser utilizado como corretivo orgânico ou biofertilizante agrícola e possui excelentes propriedades para o melhoramento de solos. |
 
 A produção de biometano no setor pecuário deve ser incentivada através de procedimentos que incluam:
 
@@ -968,34 +1018,34 @@ Este leilão inaugural visa impulsionar o mercado de biometano em expansão, ant
 
 Monitorizar o progresso da aplicação de políticas é essencial para garantir que o desenvolvimento se encontra alinhado com os objetivos assumidos. Os intervenientes na cadeia de valor devem ter um papel ativo nesta monitorização no sentido de reportarem indicadores que potenciem a rápida e fácil integração das políticas adotadas. No âmbito da monitorização e da avaliação do PAB estabelecem-se abaixo uma série de ambições/indicadores que resultarão da concretização das linhas de ação propostas. O cumprimento da calendarização (não definitiva e a ser ajustada em fase de execução) é importante para acelerar atividades ao longo da cadeia de valor e executar a visão estratégica para o biometano assumida para os horizontes de 2026 e 2040.
 
-| Linhas de ação | 2024-2026 | 2026-2040 |
+| Linhas de ação | Ambição |  |
 | --- | --- | --- |
-| Linhas de ação | Ambição | Ambição |
-| Prioridade 1: Acelerar o desenvolvimento da produção e consumo de biometano | Prioridade 1: Acelerar o desenvolvimento da produção e consumo de biometano | Prioridade 1: Acelerar o desenvolvimento da produção e consumo de biometano |
+| 2024-2026 | 2026-2040 |  |
+| Prioridade 1: Acelerar o desenvolvimento da produção e consumo de biometano |  |  |
 | L1. Prosseguir um quadro de apoios à produção de biometano. | Publicação do quadro de apoio à produção de biometano.Operacionalização dos regulamentos e procedimentos das garantias de origem.Realização dos primeiros leilões. | - |
 | L2. Efetivar a recolha seletiva de biorresíduos e capacitar os SGRU a maximizar a valorização orgânica por digestão anaeróbia. | Estudo do impacte para as atuais infraestruturas de tratamento biológico por compostagem do encaminhamento de biorresíduos para digestão anaeróbia e articulação de objetivos com o PERSU 2030 e demais planos setoriais.Criação de um incentivo específico de forma a comprometer e capacitar os municípios para a recolha seletiva de biorresíduos. |  |
 | L3. Fomentar a reconversão de unidades de biogás já existentes para biometano e acelerar a implementação de projetos já aprovados e/ou em desenvolvimento no setor agropecuário e agroindustrial. | Estudo do impacte para o setor dos RU e das águas residuais da descontinuidade do modelo de valorização de biogás em energia.Promoção do upgrading do biogás em biometano em alternativa à produção de eletricidade a partir do biogás através do quadro de incentivos a ser publicado.Estudo do impacte para o setor agrícola de priorizar o encaminhamento de efluentes pecuários para produção de biogás em detrimento da valorização agrícola e compostagem e articulação de objetivos com a ENEAPAI 2030. |  |
 | L4. Estabelecer metas de incorporação de biometano na RPG. | Avaliação e revisão das metas de incorporação do biometano na rede de gás.Definição de metas de incorporação de biometano na RPG. | Substituição de até 18,6 % do consumo de gás natural em relação aos valores de consumo na RPG previstos para 2030. |
 | L5. Explorar oportunidades para o biometano no setor dos transportes e incentivar o consumo de biometano na indústria, em particular nas indústrias abrangidas pelo SGCIE. | Avaliar incentivos fiscais para o biometano veicular enquanto biocombustível avançado e indústria SGCIE. |  |
 | L6. Realizar estudos prospetivos para a implementação estratégica de projetos e avaliar necessidades de novas ligações à infraestrutura atual para a injeção de biometano a nível regional. | Avaliação do potencial de biometano a nível regional e de utilizações para o digerido.Avaliação de necessidades de desenvolvimento da RPG de acordo com o potencial de biometano.Publicação de resultados para otimização da injeção de biometano na RPG. | - |
-| Prioridade 2: Criar um quadro regulatório adequado | Prioridade 2: Criar um quadro regulatório adequado | Prioridade 2: Criar um quadro regulatório adequado |
+| Prioridade 2: Criar um quadro regulatório adequado |  |  |
 | L7. Promover a injeção de biometano na RPG. | Enquadramento favorável e claro para pedidos de ligação à rede, incluindo critérios técnicos de análise bem definidos e transparentes. | - |
 | L8. Clarificar o quadro regulamentar e agilizar os processos de licenciamento. | Agilização e clarificação de entendimentos dos processos de licenciamento ambiental necessários à implementação de projetos de biometano.Implementação de um portal único para todos os contactos considerados necessários à apreciação e boa execução dos procedimentos de licenciamento requeridos.Disponibilização de normas jurídicas e guias de apoio, assim como definir prazos e clarificar todos os processos de licenciamento necessários ao longo da cadeia de valor.Agregação da legislação dispersa relativa à construção e licenciamento de unidades de produção de biogás e biometano e restante cadeia de valor. | - |
-| Prioridade 3: Escalar a produção de biometano em Portugal | Prioridade 3: Escalar a produção de biometano em Portugal | Prioridade 3: Escalar a produção de biometano em Portugal |
+| Prioridade 3: Escalar a produção de biometano em Portugal |  |  |
 | L9. Incentivar as entidades gestoras do setor das águas residuais a utilizar e maximizar a digestão anaeróbia de lamas. | - | Definição e articulação de objetivos com as políticas do setor.Metas de encaminhamento de lamas de ETAR para produção de biogás e biometano. |
 | L10. Escalar a valorização orgânica de efluentes pecuários e agroindustriais para produção de biometano. | - | Metas para o encaminhamento de efluentes agroindustriais e pecuários para produção de biogás e/ou biometano definidas.Formação e capacitação de empresas do setor agroindustrial e agropecuário. |
 | L11. Diversificar a base tecnológica de produção de biometano além da digestão anaeróbia. | - | Estudos de utilização do CO2 biogénico e da viabilidade de unidades de gasificação ou power-to-methane em regiões de alto interesse.Publicação do estudo das várias opções de utilização do CO2 biogénico tendo em conta a sua dimensão estratégica para a descarbonização de outros setores. |
-| Prioridade 4: Desenvolver e criar cadeias de valor a nível regional | Prioridade 4: Desenvolver e criar cadeias de valor a nível regional | Prioridade 4: Desenvolver e criar cadeias de valor a nível regional |
+| Prioridade 4: Desenvolver e criar cadeias de valor a nível regional |  |  |
 | L12. Promover a codigestão de matérias-primas complementares sem comprometer benefícios ambientais. | - | Publicação do mapeamento do potencial de biomassa alternativa utilizável na produção de biogás.Uso de matérias-primas alternativas na produção de biogás em sistemas de codigestão de lamas e de efluentes pecuários e agroindustriais. |
 | L13. Definir estrategicamente a localização de comunidades de biometano ou pipelines virtuais (transporte rodoviário de mercadorias e marítimo) para a produção de biometano e sua injeção na rede de gás. | - | Definição estratégica da localização de comunidades de biometano ou pipelines virtuais regionais. |
 | L14. Estimular a criação de soluções de recolha centralizadas a nível regional a associadas a comunidades de biometano ou pipelines virtuais para garantir acesso a matérias-primas de qualidade. | - | Publicação de quadro regulatório para os requisitos de qualidade de matérias-primas utilizáveis na produção de biogás publicado. |
 | L15. Implementar uma estratégia para o digerido enquanto matéria fertilizante de modo a permitir o crescimento do mercado de biometano. | - | Implementação de uma estratégia para o digerido enquanto matéria fertilizante.Campanha de promoção da compostagem enquanto biotecnologia de tratamento/valorização complementar do digerido.Digerido bem estabelecido no mercado enquanto alternativa a fertilizantes químicos. |
-| Prioridade 5: Reforçar e promover a investigação e inovação | Prioridade 5: Reforçar e promover a investigação e inovação | Prioridade 5: Reforçar e promover a investigação e inovação |
+| Prioridade 5: Reforçar e promover a investigação e inovação |  |  |
 | L16. Promover a inovação na cadeia de valor, incluindo a valorização do digerido, valorização do CO2 resultante do processo de purificação do biogás e o uso de tecnologias alternativas de produção de biometano em diferentes setores de atividade. | - | Disponibilização de linha de financiamento para projetos de I&D&I na área do biometano, CO2 biogénico e digerido.Projetos concluídos e divulgação ampla dos resultados alcançados. |
 | L17. Reforçar a avaliação estratégica para a concretização do potencial de biometano e utilização do CO2 biogénico por tecnologias inovadoras identificadas como de especial interesse. | - | Definição de opções estratégicas para o aproveitamento do CO2 biogénico resultante da purificação de biogás, para a gaseificação e o power-to-methane. |
-| Prioridade 6: Assegurar a sustentabilidade da fileira do biometano | Prioridade 6: Assegurar a sustentabilidade da fileira do biometano | Prioridade 6: Assegurar a sustentabilidade da fileira do biometano |
+| Prioridade 6: Assegurar a sustentabilidade da fileira do biometano |  |  |
 | L18. Garantir uma utilização sustentável do potencial de biometano em Portugal. | Transposição da estratégia europeia de redução de emissões de metano para a atmosfera. | - |
-| Prioridade 7: Estimular e reforçar sinergias entre os atores da cadeia de valor | Prioridade 7: Estimular e reforçar sinergias entre os atores da cadeia de valor | Prioridade 7: Estimular e reforçar sinergias entre os atores da cadeia de valor |
+| Prioridade 7: Estimular e reforçar sinergias entre os atores da cadeia de valor |  |  |
 | L19. Aumentar a consciencialização e capacitar a indústria nacional para o aproveitamento do potencial do biometano nos principais setores de interesse, utilizando os roteiros, clusters e sistemas já existentes. | Campanha de promoção do biometano como substituto do gás natural fóssil.Criação de um roteiro/academia para o biometano e promoção de ações formativas. | - |
 | L20. Integrar a sociedade civil e os órgãos de administração pública regionais e locais no desenvolvimento do setor e promover um envolvimento participativo de todos os atores na cadeia de valor. | Ciclo de fóruns e workshops para o envolvimento participativo da comunidade no aproveitamento do biometano. | - |
 
@@ -1009,7 +1059,8 @@ Por fim, acrescenta-se que o PAB deve acompanhar o crescimento do mercado de bio
 
 De maneira a apoiar um rápido desenvolvimento do mercado, um dos passos iniciais passa por avaliar de forma prospetiva o modo e locais de incorporação do biometano na rede nacional de gás. A figura A1 apresenta uma base visual das regiões com maior potencial de injeção tendo em consideração possíveis sinergias com o sistema nacional de gás natural (SNG).
 
-![](https://dre.pt/application/file/855594236)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/855594236) |
+| --- |
 
 Figura A1. Estudo prospetivo sobre os locais de incorporação de biometano no SNG considerando os pontos de entrega nos quais se dá a transferência da gestão do gás. Cenário A: interligações estações de redução e medição de gás natural (ERMG) (pontos de entrega da rede nacional de transporte de gás natural (RNTGN); e Cenário B: Interligações unidades autónomas de gás (UAG) (pontos de entrega para redes de distribuição isoladas
 
@@ -1066,7 +1117,7 @@ O potencial técnico para os resíduos agrícolas foi estimado tendo em conta re
 
 Tabela A2 - Estimativa do potencial técnico de biogás a partir de resíduos agrícolas (49)
 
-| Quantidade (*)[ton] | Matéria seca[%] | Produção de biometano[m3 CH4/kg matéria-seca] | Recolha sustentável [%] | Potencial sustentável de utilização[%] | % Volume (CH4) |
+| Quantidade (*)[ton] | Matéria seca[%] | Produção de biometano[m3 CH4/kg matéria-seca] | Recolha sustentável[%] | Potencial sustentável<br>de utilização[%] | % Volume (CH4) |
 | --- | --- | --- | --- | --- | --- |
 | 2 788 491 | 76 | 0.235 | 30 | 75 | 60 |
 
@@ -1092,7 +1143,7 @@ BiogásVol - Produtividade de biogás (m3/m3água residual).
 
 Tabela A3 - Estimativa do potencial de produção de biogás a partir de resíduos agroindustriais (49)
 
-| Quantidade (*)[ton] | Água residual industrial(m3água residual/tonprod) | CQO (kg CQO/m3 água residual) | Produção de biogás (Nm3 biogás/kg CQO) | %Volume(CH4) |
+| Quantidade (*)[ton] | Água residual industrial(m3água residual/tonprod) | CQO (kg CQO/m3 água residual) | Produção de biogás<br>(Nm3 biogás/kg CQO) | %Volume(CH4) |
 | --- | --- | --- | --- | --- |
 | 330 000 | 10 | 13.63 | 0.482 | 57 |
 
@@ -1146,7 +1197,8 @@ Power-to-methane
 
 O conceito Power-to-methane (PtM) é um método de produção de metano renovável (e-metano) baseado na tecnologia de metanação, também conhecido como processo de Sabatier, que envolve a hidrogenação do CO2 de acordo com a equação:
 
-![](https://dre.pt/application/file/855594237)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/855594237) |
+| --- |
 
 Para o cálculo do potencial de produção derivado do PtM assumiu-se a estequiometria da reação como apresentada na equação acima, e apenas foi considerado o CO2 biogénico proveniente do upgrading do biogás, assumindo-se a disponibilidade de H2 verde produzido por eletrólise da água. A composição base do biogás utilizada para a estimativa foi, como já referido, de 55 % (%v/v CH4). Tendo em consideração o grau de maturidade da tecnologia e as estimativas crescentes para a produção de H2 verde no território nacional, estimou-se que 10 % e 90 % do CO2 biogénico produzido nas unidades de biogás será convertido em biometano em 2030 e 2040, respetivamente.
 
@@ -1166,9 +1218,9 @@ Tabela A5 - Sumários das principais barreiras que limitam o desenvolvimento do 
 
 Tabela A6 - Sumário dos incentivos mais relevantes à produção de biogás e biometano a nível europeu
 
-| Países | Políticas económicas | Políticas regulatórias | Finalidade | Horizonte temporal |
+| Países | Instrumentos e políticas para o biogás e biometano |  |  |  |
 | --- | --- | --- | --- | --- |
-| Países | Instrumentos e políticas para o biogás e biometano | Instrumentos e políticas para o biogás e biometano | Instrumentos e políticas para o biogás e biometano | Instrumentos e políticas para o biogás e biometano |
+| Políticas económicas | Políticas regulatórias | Finalidade | Horizonte temporal |  |
 | Alemanha | • Sistema de licitação sem diferenciação do uso do biometano• Taxas mais elevadas para a digestão anaeróbia de resíduos pecuários• Empréstimos a juros baixos para o investimento em biogás | • Registo de biometano• Meta de 80 % de energia renovável até 2050 | Produção | 10-20 anos |
 | Dinamarca | • FiP 35-55 €/MWh dependendo da utilização• Impostos sobre veículos e combustíveis (mais elevados para os combustíveis fósseis) | • Registo de biometano• Meta de rede de gás 100 % renovável até 2050 | Produção | 10 anos |
 | França | • FiT 46-139 €/MWh, para o biometano injetado na rede, com contrato de compra anterior a 23 de novembro de 2020, consoante a dimensão da instalação e os tipos de matéria-prima, durante 15 anos• No caso de biometano injetado na rede, com contrato de compra após 23 de novembro de 2020, e com uma previsão de produção anual inferior ou igual a 25 GWh/ano (300 Nm3/h), as tarifas de referência variam entre 55 e 99 €/MWh para instalações de armazenamento de resíduos não perigosos (aterros sanitários), e 86 a 122€/MWh para outras instalações | • Garantias de origem do biometano;• Meta de produzir 70 TWh de biogás até 2035 | Produção | 15-20 anos |
@@ -1192,10 +1244,10 @@ Com o objetivo de estimar a remuneração necessária para o biometano, consider
 
 Tabela A7 - Cenários de referência para a produção e utilização de biometano em Portugal (aplicáveis à generalidade das matérias-primas com exceção dos biorresíduos)
 
-| Cenário de referência | Utilização para o biometano | CAPEX \\| OPEX | Unidade técnica de referência em Portugal |
+| Cenário de referência | Utilização para o biometano | CAPEX \| OPEX | Unidade técnica de referência<br>em Portugal |
 | --- | --- | --- | --- |
-| Ação 1(Reconversão da produção de biogás já existente para biometano) | Injeção de biometano na rede de gás natural próximo do local de produção para uso no setor doméstico ou industrial | 1,43 M€ (1) \\| 0,15 M€ (2) (incluindo custo de oportunidade do biogás) | 250 Nm3/h de biometano |
-| Ação 2(Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | Injeção de biometano na rede de gás natural próximo do local de produção para uso no setor doméstico ou industrial | 9,8 M€ (1) \\| 0,8 M€ (2) | 250 Nm3/h de biometano |
+| Ação 1(Reconversão da produção de biogás já existente para biometano) | Injeção de biometano na rede de gás natural próximo do local de produção para uso no setor doméstico ou industrial | 1,43 M€ (1) \| 0,15 M€ (2) (incluindo custo de oportunidade do biogás) | 250 Nm3/h de biometano |
+| Ação 2(Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | 9,8 M€ (1) \| 0,8 M€ (2) |  |  |
 
 (1) O CAPEX inclui todos os custos de engenharia, construção e arranque da unidade técnica de digestão anaeróbia de efluentes pecuários, incluindo purificação do biogás e injeção na rede, se aplicável, e excluindo o eventual pré-tratamento dos resíduos.
 
@@ -1203,9 +1255,9 @@ Tabela A7 - Cenários de referência para a produção e utilização de biometa
 
 Tabela A8 - CAPEX e OPEX para a unidade técnica de referência em Portugal no setor dos RU
 
-| Unidade técnica de referência para biometano em Portugal no setor dos RU | CAPEX | OPEX |
+| Unidade técnica de referência para biometano<br>em Portugal no setor dos RU | CAPEX | OPEX |
 | --- | --- | --- |
-| 50 000 t/ano de biorresíduos (500 Nm3/h de biometano) | 50 M€ (1) \\| 1000 €/t de biorresíduos | 6,5 M€ (2) \\| 130 €/t de biorresíduos |
+| 50 000 t/ano de biorresíduos (500 Nm3/h de biometano) | 50 M€ (1) \| 1000 €/t de biorresíduos | 6,5 M€ (2) \| 130 €/t de biorresíduos |
 
 (1) O CAPEX inclui todos os custos de engenharia, construção e arranque da unidade técnica de digestão anaeróbia de biorresíduos, incluindo pré-tratamento dos resíduos, purificação do biogás e injeção na rede, e gestão/valorização do digerido.
 
@@ -1226,12 +1278,12 @@ Tabela A9 - Resultados da simulação económica simplificada realizada para a r
 | Cenário de referência | Componente | Apoio CAPEX 0 % |
 | --- | --- | --- |
 | Ação 1 (Reconversão da produção de biogás já existente para biometano) | Custo biogás (1) | 35 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | CAPEX Upgrading | + 10 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | OPEX Upgrading | + 8 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | CAPEX Injeção | + 7 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | LCOE biometano | 60 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | Impostos | + 2 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | Preço final (TIR de 9 %) | (2) 62 €/MWh |
+| CAPEX Upgrading | + 10 €/MWh |  |
+| OPEX Upgrading | + 8 €/MWh |  |
+| CAPEX Injeção | + 7 €/MWh |  |
+| LCOE biometano | 60 €/MWh |  |
+| Impostos | + 2 €/MWh |  |
+| Preço final (TIR de 9 %) | (2) 62 €/MWh |  |
 
 (1) Custo de oportunidade da não utilização do biogás para produção de energia elétrica, considerando uma amortização quase total dos custos de investimento (principalmente o motogerador).
 
@@ -1244,14 +1296,14 @@ Tabela A10 - Resultados da simulação económica simplificada realizada para a 
 | Cenário de referência | Componente | Apoio CAPEX 0 % | Apoio CAPEX 40 % (1) |
 | --- | --- | --- | --- |
 | Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | CAPEX digestão anaeróbia | 54 €/MWh | 32 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | OPEX digestão anaeróbia | + 36 €/MWh | + 36 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | LCOE biogás | 90 €/MWh | 68 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | CAPEX Upgrading | + 11 €/MWh | + 7 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | OPEX Upgrading | + 8 €/MWh | + 8 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | CAPEX Injeção | + 7 €/MWh | + 5 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | LCOE biometano | 116 €/MWh | 88 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | Impostos | + 9 €/MWh | + 5 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | Preço final (TIR de 9 %) | 125 €/MWh | 93 €/MWh |
+| OPEX digestão anaeróbia | + 36 €/MWh | + 36 €/MWh |  |
+| LCOE biogás | 90 €/MWh | 68 €/MWh |  |
+| CAPEX Upgrading | + 11 €/MWh | + 7 €/MWh |  |
+| OPEX Upgrading | + 8 €/MWh | + 8 €/MWh |  |
+| CAPEX Injeção | + 7 €/MWh | + 5 €/MWh |  |
+| LCOE biometano | 116 €/MWh | 88 €/MWh |  |
+| Impostos | + 9 €/MWh | + 5 €/MWh |  |
+| Preço final (TIR de 9 %) | 125 €/MWh | 93 €/MWh |  |
 
 (1) Valor de apoio ao CAPEX considerado tendo em conta as práticas atuais no âmbito do regime de incentivos do PRR.
 
@@ -1263,14 +1315,14 @@ Baseado nos resultados da simulação económica, a tabela A11 apresenta valores
 
 Tabela A11 - Estimativas para a implementação de um esquema de incentivos baseado em contratos por diferença para os cenários de referência considerados
 
-|  | Preço médio gás natural -Taxa média CO2 | 50 €/MWh (1) -80 €/tCO2 (2) | 50 €/MWh (1) -80 €/tCO2 (2) |
+|  | Preço médio gás natural<br>-Taxa média CO2 | 50 €/MWh (1)<br>-80 €/tCO2 (2) |  |
 | --- | --- | --- | --- |
-| Cenário de referência | – | Apoio CAPEX 0 % | Apoio CAPEX 0 % |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | TIR 9 % | 62 €/MWh | 62 €/MWh |
-| Ação 1 (Reconversão da produção de biogás já existente para biometano) | CfD (remuneração) | - 4 €/MWh | - 4 €/MWh |
+| Cenário de referência | – | Apoio CAPEX 0 % |  |
+| Ação 1 (Reconversão da produção de biogás já existente para biometano) | TIR 9 % | 62 €/MWh |  |
+| CfD (remuneração) | - 4 €/MWh |  |  |
 |  | ­– | Apoio CAPEX 0 % | Apoio CAPEX 40 % |
 | Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | TIR 9 % | 125 €/MWh | 93 €/MWh |
-| Ação 2 (Construção de novas unidades de digestão anaeróbia e upgrading de biogás para biometano) | CfD (remuneração) | 59 €/MWh | 27 €/MWh |
+| CfD (remuneração) | 59 €/MWh | 27 €/MWh |  |
 
 (1) MIBGAS, Organised Gas Market Annual Report, 2021
 
@@ -1297,12 +1349,12 @@ Tabela A12 - DNSH no contexto da produção de biometano de acordo com o artigo 
 |  | • O digerido produzido cumpre os requisitos aplicáveis às matérias fertilizantes estabelecidos no anexo II, categorias de componentes 3 (composto) ou 4 e 5 (digeridos), do Regulamento (UE) 2019/1009, ou as regras nacionais aplicáveis aos adubos ou corretivos do solo de uso agrícola.• Se o digerido produzido se destinar a ser utilizado como adubo ou como corretivo do solo, o comprador ou a entidade responsável pela recolha são informados do seu teor de azoto (com uma tolerância de ±25 %) |
 | Proteção e restauro da biodiversidade e dos ecossistemas | • A atividade satisfaz os critérios estabelecidos no apêndice D do presente anexo |
 
-## Apêndice B: Utilização sustentável e proteção dos recursos hídricos e marinhos - Critérios genéricos DNSH
+Apêndice B: Utilização sustentável e proteção dos recursos hídricos e marinhos - Critérios genéricos DNSH
 
 | Identificação e tratamento dos riscos de degradação ambiental ligados à preservação da qualidade da água e à prevenção do estresse hídrico, com vista a alcançar um bom estado das águas e um bom potencial ecológico, conforme definido no artigo 2.º, pontos 22 e 23, do Regulamento Taxonomia, em conformidade com a Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000 (61) (Diretiva 2000/60/CE) e com um plano de gestão da utilização e da proteção dos recursos hídricos elaborado para a(s) massa(s) de água potencialmente afetada(s), em consulta com as partes interessadas em causa. Se for realizada uma avaliação do impacto ambiental em conformidade com a Diretiva 2011/92/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011 que inclua uma avaliação do impacto nos recursos hídricos em conformidade com a Diretiva 2000/60/CE e tenha em conta os riscos identificados, não é necessário proceder a uma avaliação adicional do impacto nas águas. |
 | --- |
 
-## APÊNDICE D: PROTEÇÃO E RESTAURO DA BIODIVERSIDADE E DOS ECOSSISTEMAS - CRITÉRIOS GENÉRICOS DNSH
+APÊNDICE D: PROTEÇÃO E RESTAURO DA BIODIVERSIDADE E DOS ECOSSISTEMAS - CRITÉRIOS GENÉRICOS DNSH
 
 | Foi realizada uma avaliação de impacto ambiental (AIA) ou uma verificação preliminar (62) em conformidade com a Diretiva 2011/92/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011. Se tiver sido realizada uma AIA, são tomadas as medidas de mitigação e de compensação necessárias para proteger o ambiente. No caso dos sítios/operações em zonas sensíveis do ponto de vista da biodiversidade ou na sua proximidade (incluindo a rede Natura 2000, áreas protegidas, os sítios Património Mundial e as zonas-chave de biodiversidade, da UNESCO, bem como outras áreas classificadas ao abrigo do Regime da Conservação da Natureza e Biodiversidade), foi realizada uma avaliação adequada (63), quando aplicável, e, atentas as suas conclusões, são aplicadas as medidas de mitigação necessárias (64). |
 | --- |
@@ -1436,3 +1488,5 @@ Tabela A12 - DNSH no contexto da produção de biometano de acordo com o artigo 
 (63) Em conformidade com as Diretivas 2009/147/CE do Parlamento Europeu e do Conselho de 30 de novembro de 2009 e 92/43/CEE do Conselho, de 21 de maio de 1992. No caso das atividades desenvolvidas em países terceiros, em conformidade com disposições nacionais equivalentes ou normas internacionais, que visam a conservação dos habitats naturais e da fauna e flora selvagens e que impõem a realização de: 1) uma verificação preliminar para determinar se, em relação a determinada atividade, é necessário efetuar uma avaliação adequada dos eventuais impactos nas espécies e habitats protegidos e 2) uma avaliação adequada, caso a verificação preliminar determine a sua necessidade, por exemplo, a norma de desempenho n.º 6 - Conservação da biodiversidade e gestão sustentável dos recursos naturais vivos, da SFI.
 
 (64) Essas medidas foram identificadas para garantir que o projeto, plano ou atividade não terá efeitos significativos nos objetivos de conservação da área protegida.
+
+117430352

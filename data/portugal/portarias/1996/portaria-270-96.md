@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/166b00/20262026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/270/1996/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/270-1996-413217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4935e7966e4da43fdc2fbaccdae7e780ae2661f9c2435fc0792a594242eed5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec809d3d0c63c4f7fa53f4bce77bc30b22cc970a7d17ee1a987d5012b34c1ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
-- Doença Vegetal
+- Comércio
 - Controlo Sanitário
+- Doença Vegetal
 - Egipto
 - Importação
 - Proteção Fitossanitária
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:582226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196950:por
+  label: "Alterado os nºs 1º e 2º, pela PORT.191/98.1998.03.23.MADRP DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1998-196950
+  date: '1998-03-23'
+- type: amended_by
+  target: pt:dre:275390:por
+  label: "Alterado o nº 1 pela PORT.253/2000.2000.05.11.MADRP, na redacção dada pela Port. 191/98, de 23-Mar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2000-275390
+  date: '2000-05-11'
+- type: amended_by
+  target: pt:dre:592729:por
+  label: "Alterado o nº 1 pela PORT.1113/2000.2000.11.28.MADRP DR.IS-B [275], na redacção dada pela Port 253/2000 de 11-Mai\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1113-2000-592729
+  date: '2000-11-28'
+- type: amended_by
+  target: pt:dre:621526:por
+  label: "Alterado o nº 1 pela PORT.1192/2001.2001.10.15.MADRP, DR.IS-B [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1192-2001-621526
+  date: '2001-10-15'
+- type: amended_by
+  target: pt:dre:174536:por
+  label: "Alterado o nº 1 pela PORT.32/2003.2003.01.14.MADRP DRE.IS-B [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-2003-174536
+  date: '2003-01-14'
 - type: cites
   target: celex:31996D0301
   label: null
   source: http://data.europa.eu/eli/dec/1996/301/oj
+- type: repealed_by
+  target: pt:dre:582226:por
+  label: "Revogada pela PORT.125/2004.06.02.2004.MADRP, DR.IS-B [31] de 06.02.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2004-582226
+  date: '2004-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:31Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +154,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 27 de Junho de 1996.**
+Assinada em 27 de Junho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

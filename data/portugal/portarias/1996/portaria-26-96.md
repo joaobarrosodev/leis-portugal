@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/1996/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-1996-595318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c18953b939542399c9b4b458f2187f94fd8f7375d32e916d853ff0f92075b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50505940d556e871e2cd5a2aaeccb90e1381d20d5e6fe691fc1a7ba47d8a64c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Ministro da Ciência e da Tecnologia
 - Impresso
 - Ministério da Ciência e da Tecnologia
+- Ministro da Ciência e da Tecnologia
 - Pessoal de Gabinete
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:16Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +109,8 @@ Manda o Governo, pelo Ministro da Ciência e da Tecnologia, ao abrigo do dispost
 
 Ministério da Ciência e da Tecnologia.
 
-**Assinada em 28 de Dezembro de 1995.**
+Assinada em 28 de Dezembro de 1995.
 
-**O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago.**
+O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/032b00/02460247.pdf))](https://files.diariodarepublica.pt/1s/1996/02/032b00/02460247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/032b00/02460247.pdf)

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/2016, 2º Suplemento, Série I de 2016-12-30
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5158-(109) a 5158-(110)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/25002/0010900110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84-f/2016/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-f-2016-105657335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30228be350af62b8a211416c4c1702c2ec463e2410fce620a36f437acbf7c291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90ed0b6ec81b2b74f41a0f07df56fc2cbba6a41f3383eb1d2d1b7c03e449c004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Barreiro
-- Empresa
-- Titulo de Transporte
 - Comparticipação do Estado
 - Contrato de Concessão
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Subvenção Pública
-- Lisboa
+- Empresa
 - Indemnização Compensatória
+- Lisboa
 - Passe Social
-- Serviço Público
 - Regulamento CE
+- Serviço Público
+- Subvenção Pública
+- Titulo de Transporte
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -113,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/37-b/2016/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37-b/2016/06/30/p/dre
+- type: cites
+  target: pt:dre:220558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74126124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74843536:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:36Z'
   warnings: []
   errors: []
 ---
@@ -155,4 +183,4 @@ Presidência do Conselho de Ministros, 15 de dezembro de 2016. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere os n.os 1 e 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/25002/0010900110.pdf))](https://files.diariodarepublica.pt/1s/2016/12/25002/0010900110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/25002/0010900110.pdf)

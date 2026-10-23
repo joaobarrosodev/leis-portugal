@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 110/2021, 1º Suplemento, Série I de 2021-06-08
   number: '110'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 48-(2) a 48-(180)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/71-a/2021/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-a-2021-164798802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c73b86fa05887f9a1f64824fa27697720600b997430018b38c1a2e675b824e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6913058dd80631781c29b4c9bfc9ac6f594f0635c0cbd2d79334f4e11e40034
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Ordenamento do Território
-- Definição de Competências
-- Proteção da Floresta
-- Ordenamento Florestal
-- Proteção do Ambiente
-- Programa
-- Projeto
-- Política Florestal
-- ZONA Crítica de Incêndio Florestal
-- Plano Nacional de Gestão Integrada de Fogos Rurais
 - Agência para a Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
+- Definição de Competências
 - Estratégia Portugal 2030
+- Incêndio
+- Ordenamento do Território
+- Ordenamento Florestal
+- Plano Nacional de Gestão Integrada de Fogos Rurais
+- Política Florestal
+- Prevenção de Incêndios
+- Programa
 - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais
+- Projeto
+- Proteção da Floresta
+- Proteção do Ambiente
+- Sistema de Gestão Integrada de Fogos Rurais
+- ZONA Crítica de Incêndio Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2018/02/16/p/dre
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114706489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114782541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117726476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:09Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +238,7 @@ O PNA prioriza o aumento da sustentabilidade, atratividade e valor económico da
 
 Para tornar possível em 2030 a Visão - "Portugal protegido de incêndios rurais graves" - o PNA define 12 objetivos estratégicos a serem alcançados através de 28 programas, que se desdobram em 97 projetos. Para cada um destes projetos, estabelecem-se iniciativas, resultados, indicadores de realização, calendário, metas, entidades responsáveis, orçamento e fontes de financiamento. Como ilustrado na figura 1, o número de projetos em cada um dos 28 dos programas do PNA, demonstra a concentração do esforço nas áreas prioritárias supramencionadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Em 2030, na orientação estratégica que visa valorizar o território (OE1) o PNA terá concretizado os 18 projetos previstos, tendo então Portugal um sistema que monitoriza a ocupação do solo, fornece publicamente informação quantificada dos ativos florestais e do risco de incêndio e um Sistema Nacional de Informação cadastral. A divisão da propriedade fundiária não será estimulada uma vez que o regime fiscal e sucessório terá sido revisto, incluindo a obrigatoriedade das partilhas serem realizadas num horizonte temporal curto e os 20 programas de reordenamento da paisagem são geridos de forma conjunta por associações que representam os proprietários Estes são melhor remunerados pelos bens e serviços que prestam e pelo menos 20% das áreas geridas veem reconhecida a gestão por sistemas de certificação florestal.
 
@@ -248,7 +280,7 @@ Com efeito, esta despesa de 647M(euro)/ano será financiada por múltiplas fonte
 
 De facto, o incremento face a 2019 de mais 383M(euro)/ano, será suportado por outras fontes de financiamento que não o OE em 348M(euro)/ano (~80%), ao passo que este será solicitado apenas em mais 35M(euro)/ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Verifica-se, assim, uma mudança na captação de fontes de financiamento alternativas ao OE, que durante o período de vigência do PNA se deverá procurar aumentar, nomeadamente no âmbito do novo quadro comunitário de apoio para Portugal para o período 2021-2027, para além do esforço a desenvolver para a captação de poupanças, sinergias e medidas de simplificação administrativa e eficiência no uso de recursos públicos.
 
@@ -326,7 +358,7 @@ A implementação do PNA permite alcançar um sistema que funcione de forma inte
 
 Em cada projeto, são especificadas as medidas e objetivos, com indicadores e metas associadas e com informação sobre as entidades de coordenação e entidades intervenientes no projeto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Para além das três (3) metas gerais do PNGIFR (1) vítimas civis são raras; 2) número de incêndios (maior que) 500ha são menos que 0,3% do total 3) Área ardida acumulada em 2030 é menor 660.000ha) foram definidas, por orientação estratégica, 20 metas no âmbito do PNA, com resultados globais e específicos esperados em 2030.(11)
 
@@ -354,25 +386,25 @@ Estes princípios exigirão, pois, uma forma de programação iterativa e dinâm
 
 Através dos seus 28 programas e 97 projetos, o PNA propõe a produção de resultados, que se traduzem nas metas resumidas nas seguintes duas páginas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 4. ARQUITETURA DO PNA
 
 ORIENTAÇÃO ESTRATÉGICA 1: VALORIZAR OS ESPAÇOS RURAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 ORIENTAÇÃO ESTRATÉGICA 2: CUIDAR DOS ESPAÇOS RURAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 ORIENTAÇÃO ESTRATÉGICA 3: MODIFICAR COMPORTAMENTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 ORIENTAÇÃO ESTRATÉGICA 4: GERIR O RISCO EFICIENTEMENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 5. FICHAS DE PROJETO
 
@@ -404,43 +436,43 @@ OB 1.1| CONHECER A OCUPAÇÃO DO TERRITÓRIO E REDIMENSIONAR A GESTÃO FLORESTAL
 
 Programa 1.1.1| INFORMAÇÃO GEOGRÁFICA DE SUPORTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.1| CONHECER A OCUPAÇÃO DO TERRITÓRIO E REDIMENSIONAR A GESTÃO FLORESTAL
 
 PROGRAMA 1.1.2| CADASTRO DA PROPRIEDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.1| CONHECER A OCUPAÇÃO DO TERRITÓRIO E REDIMENSIONAR A GESTÃO FLORESTAL
 
 PROGRAMA 1.1.3| REDIMENSIONAMENTO DA PROPRIEDADE RÚSTICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.2| REFORMAR O MODELO DA GESTÃO INTEGRADA
 
 PROGRAMA 1.2.1| AUMENTAR A ÁREA COM GESTÃO INTEGRADA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.2| REFORMAR O MODELO DA GESTÃO INTEGRADA
 
 PROGRAMA 1.2.2| MOBILIZAR O POTENCIAL ECONÓMICO DOS RECURSOS ENDÓGENOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.2| REFORMAR O MODELO DA GESTÃO INTEGRADA
 
 PROGRAMA 1.2.3| FOMENTAR A INOVAÇÃO E MELHORIA DA COMPETITIVIDADE DAS EMPRESA DO SECTOR FLORESTAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 1.3| DISPONIBILIZAR INCENTIVOS JURIDICOS E FINANCEIROS À VALORIZAÇÃO DO TERRITÓRIO RÚSTICO
 
 PROGRAMA 1.3.1| ALARGAR INCENTIVOS À VALORIZAÇÃO DO TERRITÓRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OE2| CUIDAR DOS ESPAÇOS RURAIS
 
@@ -470,25 +502,25 @@ OB 2.1| PLANEAR E PROMOVER UMA PAISAGEM DIVERSIFICADA
 
 PROGRAMA 2.1.1| RECONVERTER A PAISAGEM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 2.2| DIMINUIR A CARGA DE COMBUSTIVEL À ESCALA DA PAISAGEM
 
 PROGRAMA 2.2.1| EXECUTAR O PROGRAMA PLURIANUAL DE GESTÃO DE COMBUSTÍVEL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 2.2| DIMINUIR A CARGA DE COMBUSTIVEL À ESCALA DA PAISAGEM
 
 PROGRAMA 2.2.2| ALTERAR O PROCESSO DE ELIMINAÇÃO E PROMOVER O REAPROVEITAMENTO DE SOBRANTES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 2.3| AUMENTAR A EFICÁCIA DA PROTEÇÃO DAS POPULAÇÕES E DO TERRITÓRIO EDIFICADO
 
 PROGRAMA 2.3.1| APOIAR A IMPLEMENTAÇÃO DOS PROGRAMAS DE AUTOPROTEÇÃO DE PESSOAS E INFRAESTRUTURAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OE3| MODIFICAR COMPORTAMENTOS
 
@@ -518,31 +550,31 @@ OB 3.1| REDUZIR AS IGNIÇÕES DE MAIOR RISCO
 
 PROGRAMA 3.1.1| REDUZIR O NÚMERO E O RISCO DE QUEIMAS E QUEIMADAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 3.1| REDUZIR AS IGNIÇÕES DE MAIOR RISCO
 
 PROGRAMA 3.1.2| REFORÇAR A CAPACIDADE DE VIGILÂNCIA E DISSUASÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 3.1| REDUZIR AS IGNIÇÕES DE MAIOR RISCO
 
 PROGRAMA 3.1.3| REVER O ENQUADRAMENTO JÚRIDICO PARA OS COMPORTAMENTOS DE RISCO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 3.2| ESPECIALIZAR A COMUNICAÇÃO DE RISCO: MELHORAR A PERCEÇÃO DO RISCO E ADOÇÃO DAS MELHORES PRÁTICAS
 
 PROGRAMA 3.2.1| COMUNICAR PARA O RISCO: PORTUGAL CHAMA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 3.2| ESPECIALIZAR A COMUNICAÇÃO DE RISCO: MELHORAR A PERCEÇÃO DO RISCO E ADOÇÃO DAS MELHORES PRÁTICAS
 
 PROGRAMA 3.2.2| ORIENTAR PRÁTICAS EDUCATIVAS PARA O RISCO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OE4| GERIR O RISCO EFICIENTEMENTE
 
@@ -574,73 +606,73 @@ OB 4.1| IMPLEMENTAR O PLANEAMENTO INTEGRADO INCORPORANDO A AVALIAÇÃO DE RISCO
 
 PROGRAMA 4.1.1| ESPECIALIZAR A ANÁLISE DE RISCO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.1| IMPLEMENTAR O PLANEAMENTO INTEGRADO INCORPORANDO A AVALIAÇÃO DE RISCO
 
 PROGRAMA 4.1.2| IMPLEMENTAR O PLANEAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.1| IMPLEMENTAR O PLANEAMENTO INTEGRADO INCORPORANDO A AVALIAÇÃO DE RISCO
 
 PROGRAMA 4.1.3| ORÇAMENTAR SISTEMA COM UMA VISÃO INTEGRADA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.2| IMPLEMENTAR UM MODELO CAPACITADO DE GOVERNANÇA DO RISCO
 
 PROGRAMA 4.2.1| REFORÇAR AS COMPETÊNCIAS DE GOVERNANÇA DO RISCO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.2| IMPLEMENTAR UM MODELO CAPACITADO DE GOVERNANÇA DO RISCO
 
 PROGRAMA 4.2.2| IMPLEMENTAR UM SISTEMA DE MELHORIA CONTÍNUA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.2| IMPLEMENTAR UM MODELO CAPACITADO DE GOVERNANÇA DO RISCO
 
 PROGRAMA 4.2.3| DEFINIR POLÍTICAS DE ACORDO COM O ENQUADRAMENTO SUPRANACIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.2| IMPLEMENTAR UM MODELO CAPACITADO DE GOVERNANÇA DO RISCO
 
 PROGRAMA 4.2.4| DESENVOLVER SISTEMAS DE INFORMAÇÃO E COMUNICAÇÃO INTEGRADOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.3| REDESENHAR A GESTÃO DO SISTEMA
 
 PROGRAMA 4.3.1| IMPLEMENTAÇÃO DE MELHORIAS ORGANIZACIONAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.3| REDESENHAR A GESTÃO DO SISTEMA
 
 PROGRAMA 4.3.2| GESTÃO EFICIENTE DAS OCORRÊNCIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.4| AUMENTAR A QUALIFICAÇÃO DOS AGENTES SGIFR
 
 PROGRAMA 4.4.1| IMPLEMENTAR O PROGRAMA NACIONAL DE QUALIFICAÇÃO DOS AGENTES SGIFR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.4| AUMENTAR A QUALIFICAÇÃO DOS AGENTES SGIFR
 
 PROGRAMA 4.4.2| PROGRAMA DE INTERCÂMBIO DE PERITOS INTERNACIONAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 OB 4.4| AUMENTAR A QUALIFICAÇÃO DOS AGENTES SGIFR
 
 PROGRAMA 4.4.3| GESTÃO DO CONHECIMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 6. ORÇAMENTO
 
@@ -648,11 +680,11 @@ Em 2019, ano baseline, a despesa anual do SGIFR cifrou-se em 264M(euro), valor q
 
 (20) Esta análise tem origem no levantamento de necessidades pelas entidades SGIFR da administração direta e indireta do Estado envolvidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Como se pode verificar o PNA reforça o investimento em todas as áreas de atuação das quatro orientações estratégicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 A orientação Estratégica "Valorizar os Espaços Rurais" é uma orientação que até 2019 teve uma expressão praticamente inexistente no SGIFR. Esta orientação estratégica tem ligações estreitas com outros mecanismos de valorização económica e é alavancada por estratégias e outros planos de cariz transversal, como o Plano de Recuperação e Resiliência (PRR) 21-26(21). Daí se considerar que o investimento estimado, pelas entidades, neste exercício, integra as iniciativas que pela sua natureza mais podem impactar os processos do SGIFR.
 
@@ -684,11 +716,11 @@ Cerca de 94% deste montante está atribuído a dois programas:
 
 . "gestão eficiente das ocorrências" com 233 M(euro)/ano destacando-se aqui dois projetos: "gestão dos meios aéreos" que aumenta de 42M(euro)/ano em 2019 para 74M(euro)/ano média anual com o PNA, resultado da proposta de edificação e aquisição de meios aéreos com investimento de +24M(euro)/ano; e "gestão da supressão" que varia de 62M(euro) em 2019 para 161M(euro) média anual PNA (+99M(euro)) fruto da capacitação do segmento GFR na supressão através do reforço dos recursos humanos essencialmente da FSBF e outras forças do ICNF, I. P. na supressão e da UEPS.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Analisando o impacto dos projetos do PNA na cadeia de processos do SGIFR constata-se que todas as fases apresentam um aumento face a 2019, exceto a respeitante aos sistemas de informação e comunicação, sendo que as fases de "Prevenção" e "Supressão e Socorro" apresentam o maior peso da despesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Relativamente aos capacitadores da cadeia de processos, destaca-se o aumento na Governança, justificado pela capacitação das instituições e o incremento no investimento na implementação do Programa de Qualificação dos Agentes SGIFR.
 
@@ -698,11 +730,11 @@ Considerando a separação da execução orçamental entre os eixos tradicionais
 
 (24) Relatório de atividades SGIFR 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 No que diz respeito à distribuição da despesa por natureza, verifica-se um peso de 31% nos Recursos Humanos, 25% nos Meios e Equipamentos e 44% nos Serviços e Outras Despesas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Na categoria de Recursos Humanos, o incremento assenta no reforço das instituições nas diferentes escalas territoriais (nacional, regional e sub-regional), na maior presença dos efetivos das Forças Armadas no sistema e no reforço das funções qualificadas e na especialização dos agentes.
 
@@ -730,7 +762,7 @@ Relativamente à forma de financiamento, o PNA visa ser financiado por múltipla
 
 Face a 2019, estima-se um incremento anual de 383M(euro)/ano dos quais 35M(euro) suportados pelo OE e 348M(euro) por outras fontes de financiamento. Relevante é a inversão quase completa do peso do OE na despesa anual do SGIFR passando dos atuais 70% para 34%, tendência que deve ser aumentada na preparação do quadro comunitário 21-27.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 No reforço orçamental previsto para 2020-2030, cerca de metade está previsto no âmbito de outros planos e programas nacionais, tais como, o Programa de Recuperação e Resiliência, Programa de Transformação da Paisagem, Programa de Revitalização do Pinhal Interior, Programa de Valorização do Interior, Programa Nacional para as Alterações Climáticas 2020/2030, Estratégia para Agricultura 2020-2030, entre outros. Entendeu-se, no entanto, relevante que esses valores estivessem patentes no PNA para garantir que a monitorização dos projetos e do orçamento alocado aos mesmos irá trazer os resultados esperados, no âmbito das orientações estratégicas previstas e contribuir a montante para o SGIFR.
 
@@ -756,7 +788,7 @@ Estas revisões anuais serão igualmente a base para as propostas a apresentar p
 
 No ciclo de planeamento, os Programas de Ação são elaborados pelas diferentes comissões do SGIFR, cujas responsabilidades neste âmbito, são as que abaixo se elencam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Nas diversas Comissões participam as entidades do SGIFR de acordo com a sua orgânica e respetiva escala territorial.
 
@@ -776,7 +808,7 @@ Conhecendo a priori os desafios, ameaças internas e externas ao programa, conso
 
 Para tal e com base no grau de concretização do programa e nos resultados alcançados pelos processos do SGIFR até 2030, produziram-se 3 cenários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Para testar a sensibilidade do programa, confrontaram-se os cenários acima com diferentes contextos meteorológicos possíveis para a década 2020-2030 e os seus impactos na área ardida.
 
@@ -786,13 +818,13 @@ Num contexto de agravamento meteorológico tal como proposto por Beighley e Hyde
 
 (26) Média anual de área ardida verificada entre 2010 a 2019. Fonte SGIF-ICNF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 O cenário "Conseguimos" é de facto o único que em todos os cenários meteorológicos conseguirá atingir as metas do roteiro para a neutralidade carbónica previstas para 2030, com 60.000ha/ ano de área ardida (total de 660.000ha no período 2020-2030) e que manterá "Portugal protegido de incêndios rurais graves"(27).
 
 (27) Os 60.000ha/ de área ardida anual representam uma incidência de 0,9% do território nacional vulnerável aos incêndios e comparam com valores 0,5% em França e 0,8% em Espanha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Neste cenário, foi possível mobilizar instituições e recursos públicos e privados para ativar o círculo virtuoso da economia florestal, assegurando que os proprietários gerem os seus ativos de forma agregada, canalizando de forma eficiente poupanças e fundos do PRR, PT2030 e PAC para a gestão ativa das florestas e agroflorestas, em particular, no norte e centro litoral, com melhoria da remuneração dos ativos lenhosos e não-lenhosos e inclusão de receitas por serviços ambientais prestados.
 
@@ -810,7 +842,7 @@ As áreas ardidas com mais de 500ha representaram menos de 0,3% dos incêndios e
 
 Neste cenário, entre 2020 e 2030 reduziram-se para valores mínimos as vítimas de incêndios rurais e a totalidade da área ardida face ao cenário de inércia "Céu Negro" reduziu-se em 71%, aproximando-se agora das métricas internacionais, tendo totalizado 660.000ha (60.000ha/ano ou 0,9% de incidência).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Neste segundo cenário, foi possível mobilizar apenas parte dos recursos financeiros do PT2030 e PAC e dar prioridade à sua aplicação nas áreas geridas pelo Estado e baldios, Parques e Reserva naturais, que concretizam programas de silvicultura e gestão de combustíveis. A norte do Tejo, não se concretizou a capacitação das organizações de proprietários e a melhoria da remuneração de bens e serviços prestados pelos espaços florestais foi insuficiente para a mobilização dos proprietários.
 
@@ -830,7 +862,7 @@ Em termos económicos, as atividades florestais e silvopastoris mantiveram a ten
 
 Neste cenário, não foram cumpridos os objetivos da agenda do clima apesar de o território exibir resiliência nas áreas geridas pelo Estado, Baldios e Parque Naturais. A soma da área ardida até 2030 reduziu-se em 33% face ao cenário de "inércia", totalizando em 1.501.500ha (136.500ha/ano de média ou 2,1% de incidência).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Neste cenário de inércia, não foi possível concretizar melhorias fundamentais, incluindo a revisão de processos e acesso a recursos financeiros do PPT, PT2030 e PAC não produziu impactos no território, verificando-se cumulativamente pelos privados um desinvestimento nas atividades florestais e silvopastoris.
 
@@ -924,7 +956,7 @@ Riscos exteriores
 
 . Desvalorização da moeda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Tendo em conta os cenários e os riscos associados, os fatores críticos de sucesso que se consideram como alicerces para a prevenção, mitigação do risco e consequente aproximação ao cenário mais favorável "Conseguimos", centram-se em:
 
@@ -972,7 +1004,7 @@ Do cumprimento das metas do PNGIFR, são quatro os principais impactos produzido
 
 Variação do VAB no pior cenário meteorológico e cenário prospetivo (M(euro))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 Esta variação assenta em:
 
@@ -992,22 +1024,24 @@ Este aumento de atividade irá ainda fomentar a criação de 39.000 novos empreg
 
 (30) O racional para chegar a estes valores passou por identificar o PIB e o número de empregos rurais, com base numa estimativa associada à natureza destas economias, para ter o PIB rural/ empregado rural e analisado a % do Orçamento do PNA que será canalizado para os territórios rurais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 GLOSSÁRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 a) Atribuição de responsabilidades
 
 A atribuição de responsabilidades prevista nos projetos do PNA é efetuada com a instituição de um modelo RASCIFAa de acordo com a codificação abaixo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 b) Entidades envolvidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
 
 c) Fontes de financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11001/0000200180.pdf)
+
+114301905

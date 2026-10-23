@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/345/1996/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/345-1996-411658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfd9e49e92a31e961b842414deea8e8e8b28e2c2ea73404113ce3c8b75ebc84c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9739e8a6e692c564361305366fa86fb1fe8d5161a63746c2d8f8ff54ffc6cb0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
-- Gestão Financeira
+- Comissão
 - Concurso
 - Direcção Geral da Contabilidade Pública
 - Direcção Geral do Património do Estado
-- Administração Pública
-- Comissão
+- Equipamento Informático
+- Gestão Financeira
 - Informática
 - Informatização
 - Instituto de Informática
-- Equipamento Informático
 - Regime da Administração Financeira do Estado
 relationships:
 - type: cites
@@ -92,16 +92,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/1994/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/1994/02/28/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665941:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:27Z'
   warnings: []
   errors: []
 ---
@@ -168,6 +204,6 @@ Dois representantes do Instituto de Informática.
 
 Ministério das Finanças.
 
-**Assinada em 17 de Julho de 1996.**
+Assinada em 17 de Julho de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

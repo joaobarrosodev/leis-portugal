@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/52/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-2025-911089442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 982e9d3ba9fb8c02b82c9aaa0fe2bf99d9ac8f55a0c582dfadaaffc3b5e37a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97d29479caa86f8c3d3ea0d53b313562d3d24c7d78786aa64a20bd5efeaced30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Conselho de Administração
 - Gestor Público
+- Governo XXIV
 - NAV Portugal
 - Nomeação
 - Presidente
 - Vogal
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -93,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:185427832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229911792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:13Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +147,7 @@ Nos termos do disposto no n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1 e 3 do artigo 5.º dos Estatutos da Navegação Aérea de Portugal, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 404/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1998-191111), de 18 de dezembro, na sua redação atual, do n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos n.<sup>os</sup>1 a 3 do artigo 13.º e do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1 e 3 do artigo 5.º dos Estatutos da Navegação Aérea de Portugal, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 404/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1998-191111), de 18 de dezembro, na sua redação atual, do n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos n.os1 a 3 do artigo 13.º e do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Proceder à renovação do mandato, sob proposta do Ministro de Estado e das Finanças e do Ministro das Infraestruturas e Habitação, para o triénio 2025-2027, nos cargos de presidente e de vogal do conselho de administração da Navegação Aérea de Portugal - NAV Portugal, E. P. E. (NAV Portugal, E. P. E.), respetivamente, de Pedro Gonçalo Roque Ângelo e de Ana Cristina Vasconcelos Mendes Russo de Lima, para os quais foram designados pelo [Despacho n.º 12652/2023](https://diariodarepublica.pt/dr/detalhe/despacho/12652-2023-229911792), publicado no Diário da República, 2.ª série, n.º 238, de 12 de dezembro, e cuja idoneidade, experiência e competência profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
 
@@ -135,7 +163,7 @@ Nos termos dos n.<sup>os</sup>1 e 3 do artigo 5.º dos Estatutos da Navegação 
 
 Presidência do Conselho de Ministros, 10 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem os n.os1 e 2)
 
 Notas curriculares
 
@@ -227,7 +255,7 @@ Executive MBA - AESE Business School.
 
 3 - Experiência profissional:
 
-Country Manager Portugal - CI&T;
+Country Manager Portugal - CI&T
 
 Vogal da Direção - Karingana Wa Karingana;
 
@@ -246,3 +274,5 @@ Responsável pelo Núcleo de Acompanhamento das Contas Públicas e do MoU, Consu
 Estagiário - Instituto de Estudos Estratégicos e Internacionais e Grande Consumo-GConsulting/IMR - Instituto de Marketing Research;
 
 Coautor de um livro, tem escrito diversos artigos e sido orador convidado em workshops, conferências e seminários.
+
+118813396

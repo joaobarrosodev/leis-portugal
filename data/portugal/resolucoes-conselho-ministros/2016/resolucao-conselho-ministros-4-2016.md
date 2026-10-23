@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01600/0022600228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2016/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2016-73266561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e9e38a07cbc64f28e3fac025e6fd069a37fa3213bc676f57156b12fd230405d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d74dc2e8f65a8fff4334f252c2ece555a8769a49b1957472ad63d0456546fcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso ao Emprego
-- QREN
-- Grupo Desfavorecido
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Empresa de Inserção
-- Subvenção Pública
-- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
-- Igualdade de Oportunidades
-- Inserção Profissional
-- FSE
-- Programa Operacional Potencial Humano
-- Mercado de Emprego
-- Qualificação Profissional
-- Programa de Inserção
+- Deficiente
 - Emprego
+- Empresa de Inserção
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- FSE
+- Grupo Desfavorecido
+- Igualdade de Oportunidades
+- Incapacidade Permanente
+- Inserção Profissional
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
+- Mercado do Trabalho
+- Política de Emprego
+- PORTUGAL 2020
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Programa de Inserção
+- Programa Operacional de Apoio às Pessoas Mais Carenciadas
+- Programa Operacional Potencial Humano
 - Programa Qualificação-emprego
 - Promoção de Emprego
-- Política de Emprego
 - Proteção Social
-- Mercado do Trabalho
-- Incapacidade Permanente
-- PORTUGAL 2020
-- Programa Operacional de Apoio às Pessoas Mais Carenciadas
+- QREN
+- Qualificação Profissional
+- Subvenção Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:52Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +163,4 @@ Presidência do Conselho de Ministros, 21 de janeiro de 2016. - O Primeiro-Minis
 
 ## ANEXO — Apoio financeiro específico de ações de qualificação de pessoas com deficiência e incapacidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/01600/0022600228.pdf))](https://files.diariodarepublica.pt/1s/2016/01/01600/0022600228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/01600/0022600228.pdf)

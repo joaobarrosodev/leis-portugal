@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17700/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/2024/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2024-887449714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d156b2fe0bd82d52b1d22c73ce391553a8ac5da2de1584e86b89554f865160df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8da0ea4295fdb353b8c5e053f0deb0a11051be2b75d13db625892c0172db48b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ subjects:
 - Ministério da Justiça
 - Transporte de Correio
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:137/2019
+  label: Altera, com efeitos a 05 de setembro de 2024, o n.º 1 e o anexo à Resolução do Conselho de Ministros n.º 137/2019,
+    de 14 de agosto, Diário da República n.º 155/2019, Série I
+  source: null
+  date: '2019-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -100,16 +106,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/9/2021/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/9/2021/02/10/p/dre
+- type: cites
+  target: pt:dre:123968670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156974202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201899420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:251/2022
+  label: Revoga, com efeitos a 05 de setembro, a Portaria n.º 251/2022, de 06 de outubro, Diário da República n.º 193/2022,
+    Série I
+  source: null
+  date: '2022-10-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:17Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +168,7 @@ Neste contexto, e atendendo ao hiato temporal verificado após a decisão de adj
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Alterar a [Resolução do Conselho de Ministros n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/137-2019-123968670), de 14 de agosto, na sua redação atual, nos seguintes termos:
 
@@ -156,11 +196,11 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do
 
 Presidência do Conselho de Ministros, 5 de setembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1, 2 e 3)
+## ANEXO — (a que se referem os n.os1, 2 e 3)
 
 Repartição de encargos por entidades adjudicantes
 
-| Entidades adjudicantes | 2024 | 2025 | 2026 | 2027 | Valor total sem IVA |
+| Entidades adjudicantes | 2024 | 2025 | 2026 | 2027 | Valor total<br>sem IVA |
 | --- | --- | --- | --- | --- | --- |
 | Secretaria-Geral do Ministério da Justiça |  | 1 813,00 € | 1 510,83 € | 302,18 € | 3 626,01 € |
 | Direção-Geral de Administração da Justiça | 856 276,99 € | 7 885 513,86 € | 4 719 271,62 € | 1 445 485,23 € | 14 906 547,70 € |
@@ -170,3 +210,5 @@ Repartição de encargos por entidades adjudicantes
 | Instituto Nacional de Medicina Legal e Ciências Forenses, I. P. |  | 62 638,63 € | 25 295,73 € | 5 059,15 € | 92 993,51 € |
 | Instituto Nacional da Propriedade Industrial, I. P. | 6 012,34 € | 11 193,47 € | 5 879,27 € | 2 004,12 € | 25 089,20 € |
 | Total | 948 116,28 € | 8 453 808,45 € | 4 988 809,43 € | 1 506 755,39 € | 15 897 489,55 € |
+
+118105325

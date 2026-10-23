@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 22/1996, 2º Suplemento, Série I-B de 1996-01-26
   number: '22'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 142-(6) a 142-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/022b02/00060015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17-c/1996/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-c-1996-496732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf11a65f8c6288ac48cd088a2f242fdb7c90ff00eb70ef66a1896e2cb2237cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68652de2beadd8c7f05ea3e82c869d796f9ea2bf8728d26e515124cdaf0afeeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
 subjects:
 - Criação de Lugares
 - Criação de Serviços
+- Educação Pré-escolar
 - Educador de Infância
 - Jardim de Infância
-- Educação Pré-escolar
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:59Z'
   warnings: []
   errors: []
 ---
@@ -103,8 +107,8 @@ Manda o Governo, pelos Ministros das Finanças, da Administração Interna, da E
 
 Ministérios das Finanças, da Administração Interna, da Educação e da Solidariedade e Segurança Social.
 
-**Assinada em 26 de Janeiro de 1996.**
+Assinada em 26 de Janeiro de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Administração Interna, Alberto Bernardes Costa. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Administração Interna, Alberto Bernardes Costa. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/01/022b02/00060015.pdf))](https://files.diariodarepublica.pt/1s/1996/01/022b02/00060015.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/01/022b02/00060015.pdf)

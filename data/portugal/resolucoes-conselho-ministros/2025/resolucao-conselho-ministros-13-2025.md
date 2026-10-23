@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01700/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/13/2025/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2025-904742815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4846a6608f897bef2f5845beb4f48b38b079c41c828eebcdb8b207f8b60c8e30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02e47406ba75a2e914ceccb7bf937aa6daae955b61e52156277bb932fee15be3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:1131865548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:43/2020
+  label: Altera, a partir de 25 de janeiro de 2025, o n.º 2 da Resolução do Conselho de Ministros n.º 43/2020, de 12 de junho,
+    Diário da República n.º 113/2020, Série I
+  source: null
+  date: '2020-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -104,23 +110,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2024/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2024/01/05/p/dre
+- type: cites
+  target: pt:dre:135623468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836161876:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:20Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 13/2025
 
-Através da [Resolução do Conselho de Ministros n.º 43/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2020-135623468), de 12 de junho, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[162/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2021-175659855), de 10 de dezembro, e [5/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2024-836161876), de 5 de janeiro, foi autorizada a realização da despesa relativa às compensações financeiras a pagar pelo Estado à CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), pelo cumprimento do serviço público de transporte ferroviário, para o período de 2020 a 2029, nos termos do Contrato de Obrigações de Serviço Público celebrado entre o Estado e a CP, E. P. E., tendo sido fixado o valor máximo dos encargos orçamentais a suportar em cada ano económico.
+Através da [Resolução do Conselho de Ministros n.º 43/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2020-135623468), de 12 de junho, alterada pelas Resoluções do Conselho de Ministros n.os[162/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2021-175659855), de 10 de dezembro, e [5/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2024-836161876), de 5 de janeiro, foi autorizada a realização da despesa relativa às compensações financeiras a pagar pelo Estado à CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), pelo cumprimento do serviço público de transporte ferroviário, para o período de 2020 a 2029, nos termos do Contrato de Obrigações de Serviço Público celebrado entre o Estado e a CP, E. P. E., tendo sido fixado o valor máximo dos encargos orçamentais a suportar em cada ano económico.
 
 Na sequência do previsto no Programa do XXIV Governo Constitucional, foi decidida a criação do título de transporte designado por «Passe Ferroviário Verde», no valor de € 20, mensais, abrangendo os comboios urbanos de Lisboa e Porto, nos percursos fora das respetivas áreas metropolitanas, os urbanos de Coimbra, bem como os regionais, inter-regionais e intercidades, estes em 2.ª classe e com obrigatoriedade de efetivação de reserva, tendo em vista a promoção da transferência modal para o transporte ferroviário de passageiros, promovendo assim o uso do transporte público ferroviário.
 
@@ -163,3 +193,5 @@ j) [...]»
 4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 16 de janeiro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118596502

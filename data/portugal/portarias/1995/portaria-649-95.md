@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/649/1995/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1995-475677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00349e40434eaf49fde5598da10b8e7c4e00d957705d7fe0a3436b3ef44a7af3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb20ba19bfc0d297e7794c9dfd7c12cc2931ece5ce17b407d9945f809a393fda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,31 @@ subjects:
 - Equipamento Eletrónico
 - Instalações Radioelétricas
 - Licenciamento
-- Veículo
 - Serviços de Radiocomunicações
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/859/1994/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/859/1994/09/23/p/dre
+- type: cites
+  target: pt:dre:605310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:41Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +136,6 @@ A faixa de frequências a ser utilizada deve ser de 9 kHz a 135 kHz e o valor de
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 6 de Junho de 1995.**
+Assinada em 6 de Junho de 1995.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.

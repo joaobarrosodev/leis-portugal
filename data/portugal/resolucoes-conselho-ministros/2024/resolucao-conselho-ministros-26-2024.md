@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02900/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2024/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2024-840849892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ba3532fc67b1e729055e27f88485ede7b433e496658c5281a7afe4e95d7b18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26fe6027d23bffeb63a4013ed7062c2335d5ef09b6811fa3c5928886b92c012c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
 - Despesas Públicas
+- Fundação para a Ciência e a Tecnologia
 - Investigação
+- Investigação Científica e Tecnológica
 - Programa de Financiamento Plurianual de Unidades de Investigação e Desenvolvimento
 - Programa Plurianual
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:96/2019
+  label: Altera, com efeitos a 26 de junho de 2019, os nºs 1 e 2 e o anexo da Resolução do Conselho de Ministros n.º 96/2019,
+    de 21 de junho, Diário da República n.º 117/2019, Série I
+  source: null
+  date: '2019-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -94,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/96/2019/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96/2019/06/21/p/dre
+- type: cites
+  target: pt:dre:122627510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182605236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224615917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:29Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +152,7 @@ Neste contexto, torna-se necessário reprogramar e autorizar a despesa adicional
 
 Urge ainda determinar um novo ciclo de avaliação, a cargo FCT, I. P., e que tem por base o Regulamento de Avaliação e Financiamento Plurianual de Unidades de I&D, aprovado pelo Regulamento n.º [404/2022](https://diariodarepublica.pt/dr/detalhe/regulamento/404-2022-182605236), publicado no Diário da República, 2.ª série, n.º 81, de 27 de abril de 2022, alterado pelo Regulamento n.º [1251-A/2023](https://diariodarepublica.pt/dr/detalhe/regulamento/1251-a-2023-224615917), publicado no Diário da República, 2.ª série, n.º 225, de 21 de novembro de 2023, adiante designado por Regulamento, no qual se estabelece os termos da avaliação das unidades de I&D e ainda as condições do financiamento plurianual associado.
 
-Com efeito, no âmbito do referido Regulamento, o exercício plurianual de avaliação externa das unidades de I&D está associado ao financiamento plurianual das unidades de I&D, o qual continuará a ser implementado através de dois mecanismos de financiamento: i) financiamento de base, indexado ao resultado da avaliação, à intensidade laboratorial e à dimensão de cada unidade de I&D; e ii) financiamento programático a cada unidade de I&D, a propor pelos painéis de avaliação no decurso da avaliação.
+Com efeito, no âmbito do referido Regulamento, o exercício plurianual de avaliação externa das unidades de I&D está associado ao financiamento plurianual das unidades de I&D, o qual continuará a ser implementado através de dois mecanismos de financiamento: i) financiamento de base, indexado ao resultado da avaliação, à intensidade laboratorial e à dimensão de cada unidade de I&D e ii) financiamento programático a cada unidade de I&D, a propor pelos painéis de avaliação no decurso da avaliação.
 
 Importa, assim, assegurar que o exercício de avaliação a decorrer em 2024 irá permitir o financiamento do Programa Plurianual de Financiamento de Unidades de I&D, para o período 2025-2029, com um montante indicativo de (euro) 525 000 000,00, para além do financiamento complementar, de (euro) 251 000 000,00, através de concurso competitivo do Programa FCT-Tenure que possibilitará a contratação de 1400 investigadores exclusivamente para posições permanentes de investigação, distribuídos em duas edições.
 
@@ -152,9 +186,9 @@ Presidência do Conselho de Ministros, 21 de dezembro de 2023. - O Primeiro-Mini
 
 ## ANEXO — (a que se referem os n.os 2 e 3)
 
-|  |  |
+| Ano | Montante<br>(euros) |
 | --- | --- |
-| Ano | Montante (euros) |
+|  |  |
 | 2020... | 78 818 024 |
 | 2021... | 85 715 227 |
 | 2022... | 94 356 573 |
@@ -165,9 +199,9 @@ Presidência do Conselho de Ministros, 21 de dezembro de 2023. - O Primeiro-Mini
 
 ## ANEXO II — (a que se refere o n.º 4)
 
-|  |  |
+| Ano | Montante<br>(euros) |
 | --- | --- |
-| Ano | Montante (euros) |
+|  |  |
 | 2025... | 30 000 000 |
 | 2026... | 97 000 000 |
 | 2027... | 97 000 000 |
@@ -176,3 +210,5 @@ Presidência do Conselho de Ministros, 21 de dezembro de 2023. - O Primeiro-Mini
 | 2030... | 97 000 000 |
 | 2031... | 10 000 000 |
 | Total... | 525 000 000 |
+
+117331954

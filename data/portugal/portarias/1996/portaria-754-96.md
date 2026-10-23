@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/296b00/45844593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754/1996/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-1996-146245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a37445073c9aebefd4447b640e2a2a322816b6e9234df140eb10ea43b91fcfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f1426c71f67010ab011ec320a7094f222f0311c2fbf55f04b061a42c4a5eb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
+- Embaixada
 - Emolumento Consular
-- Prestação de Serviços
 - Ministério dos Negócios Estrangeiros
+- Prestação de Serviços
 - TAXA de Câmbio
 - TAXA de Prestação de Serviços
 relationships:
@@ -94,16 +94,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/343-a/1994/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/343-a/1994/05/31/p/dre
+- type: cites
+  target: pt:dre:249180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623003:por
+  label: "Rectificada pela Decl-Rect.16-Z/96.1996.12.31.PCM, DR.IS-B [302]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-z-1996-623003
+  date: '1996-12-31'
+- type: corrected_by
+  target: pt:dre:301821:por
+  label: "Rectificada pela DECL-RECT.5-F/97.1997.02.20.PCM DR.IS-B [50]3ºSupl de 28/FEV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-f-1997-301821
+  date: '1997-02-20'
+- type: repealed_by
+  target: pt:dre:324532:por
+  label: "Revogada pela PORT.209-B/98.1998.03.30.MNE DR.IS-B [75]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-b-1998-324532
+  date: '1998-03-30'
 article_structure:
   article_count: 91
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:08Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +161,9 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, ao abrigo do disposto
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 3 de Dezembro de 1996.**
+Assinada em 3 de Dezembro de 1996.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
 TABELA DE EMOLUMENTOS CONSULARES
 
@@ -168,7 +199,7 @@ c) Substituição de passaporte válido - 7000$00.
 
 ###### Artigo 4.º
 
-## Título individual de viagem única ou título de viagem provisório - 1500$00.
+Título individual de viagem única ou título de viagem provisório - 1500$00.
 
 ###### Artigo 5.º
 
@@ -864,4 +895,4 @@ QUADRO ANEXO
 
 (a que se refere o artigo 90.º, n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/296b00/45844593.pdf))](https://files.diariodarepublica.pt/1s/1996/12/296b00/45844593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/296b00/45844593.pdf)

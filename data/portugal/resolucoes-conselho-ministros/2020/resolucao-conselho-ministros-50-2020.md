@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/2020/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2020-136476385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa133f629c74a2e04b7c31844bfcdfdbd70c04eaa5822520f13604466144d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b9ea91c6ea5a7f57e6d833ca9f2f0d28943d4327f0ba67dcff063ea203141aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa de Desenvolvimento Rural
-- Incêndio
-- Prevenção de Incêndios
-- Autorização de Despesas
-- Financiamento
-- Ordenamento do Território
-- Recursos Hídricos
-- Definição de Competências
+- Agricultura
 - Algarve
-- Proteção da Floresta
+- Autorização de Despesas
+- Definição de Competências
+- Direção Geral do Território
+- Financiamento
+- Fundo Ambiental
 - Fundo Florestal Permanente
 - Fundos CE
-- Publicitação
-- Direção Geral do Território
+- Incêndio
 - Instituto da Conservação da Natureza e das Florestas
 - Monchique
+- Ordenamento do Território
 - Ordenamento Florestal
-- Programa Nacional da Política de Ordenamento do Território
-- Proteção do Ambiente
-- Agricultura
 - Política Florestal
+- Prevenção de Incêndios
+- Programa de Desenvolvimento Rural
+- Programa de Reordenamento e Gestão da Paisagem das Serras de Monchique e Silves
+- Programa Nacional da Política de Ordenamento do Território
+- Proteção da Floresta
+- Proteção do Ambiente
+- Publicitação
+- Recursos Hídricos
 - Sector Florestal
 - Silves
-- Fundo Ambiental
-- Programa de Reordenamento e Gestão da Paisagem das Serras de Monchique e Silves
 relationships:
 - type: cites
   target: celex:31992L0043
@@ -111,16 +111,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/13/2019/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13/2019/01/21/p/dre
+- type: cites
+  target: pt:dre:118051702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119386286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:35Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +247,7 @@ Incluir as áreas não ardidas das freguesias dos concelhos supracitados, nas qu
 
 Ajustar a área de intervenção à subunidade de paisagem «123A: Serra de Monchique» da Carta de Unidades de Paisagem de Portugal Continental, que levou a um conjunto de ajustamentos relacionados com os limites das bacias hidrográficas, as áreas ardidas, a geologia e a ocupação do solo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 O Programa Nacional da Política de Ordenamento do Território (PNPOT) constitui o referencial fundamental do PRGPSMS, que vem contribuir para a concretização de duas medidas de política constantes do respetivo Programa de Ação:
 
@@ -265,11 +281,11 @@ O desenho da paisagem desejada resulta do estudo exaustivo dos fatores de aptid�
 
 a) A carta com o desenho da paisagem desejada;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 b) A matriz de aptidão para a transformação da paisagem, que se constitui como uma ferramenta orientadora para informar os processos de planeamento, gestão e decisão sobre a ocupação, uso e aproveitamento do solo e como base para o cálculo da remuneração dos serviços prestados pelos ecossistemas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 A consideração do desenho da paisagem desejada e da matriz de aptidão para a transformação da paisagem permitem melhorar o desempenho do território do ponto de vista da economia e geração de rendimento, do incremento dos serviços dos ecossistemas e da resiliência ao fogo.
 
@@ -351,7 +367,7 @@ B) Potenciar os serviços dos ecossistemas;
 
 C) Promover a recuperação dos canteiros/socalcos e a sua valorização no quadro de uma nova economia local, centrada em produtos agrícolas com marca local e de qualidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 Diretrizes para a operação de execução
 
@@ -399,7 +415,7 @@ As propriedades privadas estão incluídas na Zona de Intervenção Florestal do
 
 A área prioritária «Nova serra» tem um elevado potencial demonstrativo que decorre da dimensão, potencial de investimento e da tipologia dos gestores dos terrenos, estimando-se que a atividade turística pode constituir-se como uma força motriz que apoie a reconfiguração de atividades florestais, atualmente pouco dinâmicas e rentáveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 Diretrizes para a operação de execução
 
@@ -443,7 +459,7 @@ D4. O desenho da paisagem proposto pelo PRGPSMS incorpora a rede primária de fa
 
 D5. Adicionalmente às faixas de gestão de combustível, o PRGPSMS preconiza o tratamento específico de 15 zonas prioritárias para a defesa da floresta contra incêndios com uma superfície total de 411 hectares, designadas como «pontos de abertura de incêndios» enquanto Áreas Estratégicas para Gestão de Combustível. Quando localizadas exclusivamente em vales com habitats ripícolas, as intervenções a realizar incidem sobre a estrutura vertical dos combustíveis e no aumento da superfície com vegetação herbácea. Quando localizadas em zonas de encosta a intervenção visa a obtenção de um mosaico com as seguintes características: i) mais de 30 % da superfície com vegetação herbácea; ii) máximo de 30 % da superfície ocupada por matagal; iii) máximo de 60 % da superfície ocupada com a soma das superfícies de matagal e povoamentos florestais deduzidos dos povoamentos de espécies ripícolas; iv) no mínimo 50 % das orlas devem incluir zonas abertas. A sua representação é, neste contexto, indicativa do ponto de vista de prioridade e deve ser aferida no terreno no quadro da sua implementação, mesmo pela definição de outras, faseadamente, ao longo do processo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 5.2 - Ação temática prioritária «Reabilitação do sistema de socalcos»
 
@@ -457,7 +473,7 @@ D2. Desenvolver projetos de execução «Tipo» para reconstrução das estrutur
 
 D3. Promover os socalcos/canteiros como um ex libris da nova paisagem das Serras de Monchique e Silves e valorizar os seus produtos agro-hortícolas e/ou frutícolas e fomentar o associativismo agrícola cuja base identitária seja a utilização de socalcos para a produção primária.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 5.3 - Ação temática prioritária «Valorização de sobrantes de biomassa florestal»
 
@@ -475,7 +491,7 @@ Atendendo à existência de áreas edificadas em contacto direto com material co
 
 Tendo em conta a informação constante da Carta de Ocupação do Solo de 2018 devem ser promovidas medidas de gestão do uso do solo e do material combustível no interface urbano-rural das áreas edificadas com 10 ou mais edifícios residenciais distanciados entre si no máximo por 50 metros e representadas na figura 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 7 - Programa de monitorização
 
@@ -505,7 +521,7 @@ QUADRO 1
 
 Áreas temáticas e indicadores de monitorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 8 - Quadro de financiamento
 
@@ -521,7 +537,7 @@ QUADRO 2
 
 Fontes de financiamento e tipologia de apoios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 Estas fontes de financiamento têm uma incidência igualmente diferenciada no que respeita às diferentes tipologias de intervenção para a efetiva transformação de paisagem preconizada, conforme o quadro 3.
 
@@ -529,7 +545,7 @@ QUADRO 3
 
 Fontes de financiamento e tipologias de intervenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 A estimativa global de financiamento necessário para a implementação das duas áreas prioritárias e das duas ações temáticas, bem como para a gestão e monitorização do PRGPSMS, constam do quadro 4.
 
@@ -537,8 +553,10 @@ QUADRO 4
 
 Quadro global de financiamento para o Programa de Reordenamento e Gestão da Paisagem das Serras de Monchique e Silves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
 
 ## ANEXO II — (a que se refere o n.º 10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12100/0001900041.pdf)
+
+113334903

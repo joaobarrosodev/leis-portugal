@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/804/1995/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/804-1995-466668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:11:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c76801e3b6c5b415028627bb51bfafef610fa140af51e45583689f6633cb5dc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ac93b9d175abc8b6eee0cb749b1ed3df311b1a9977ee0dc531a72588ff79b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Castro Verde
 - CAÇA
+- Castro Verde
 relationships:
 - type: amended_by
   target: pt:dre:456187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291930:por
+  label: "Renovada por 8 anos a concessão de zona de caça associativa pela PORT.296/2000.2000.05.26.MADRP, DR.IS-B [122] de\
+    \ 26/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-2000-291930
+  date: '2000-05-26'
+- type: amended_by
+  target: pt:dre:574358:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, renovada pela Port 296/2000, de\
+    \ 26-Mai, pela PORT.278/2005.17.03.2005.MAPF, DR.IS-B [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-2005-574358
+  date: '2005-03-17'
+- type: amended_by
+  target: pt:dre:456187:por
+  label: "Renovada por oito anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 296/2000,\
+    \ de 26-Maio e pela Port 278/2005, de 17-Mar, pela PORT.501/2008.24.06.2008.MAOTDR, DR.IS [120] de 24.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/501-2008-456187
+  date: '2008-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/585/1992/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/585/1992/06/27/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:11:24Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +177,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 28 de Junho de 1995.**
+Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/159b00/44124412.pdf))](https://files.diariodarepublica.pt/1s/1995/07/159b00/44124412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/159b00/44124412.pdf)

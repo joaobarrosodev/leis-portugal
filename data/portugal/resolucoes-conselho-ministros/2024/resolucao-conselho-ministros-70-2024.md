@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/10700/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/70/2024/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2024-867844484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c44740d962045015e60df8555d1d702ce96ae5b23d898cbbb59e32531dabba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24022ca84c1afd18a887c646113591a30987ae4e1f6ba2fec1b511152046d954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,26 @@ relationships:
   target: pt:dre:1125716288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:922535861:por
+  label: Exonerado, com efeitos a 23 de junho de 2025, o nomeado pelo(a) Resolução do Conselho de Ministros n.º 104/2025 -
+    Diário da República n.º 121/2025, Série I de 2025-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/104-2025-922535861
+  date: '2025-06-26'
+- type: amended_by
+  target: pt:dre:1125716288:por
+  label: Exonerada, a partir de 26 de maio de 2026, com efeitos a 31 de maio de 2026, Maria Joana da Costa Afonso Lino Gaspar
+    do cargo de vogal executiva do conselho de administração da Agência para o Investimento e Comércio Externo de Portugal,
+    E. P. E., nomeada pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 98/2026 - Diário da República
+    n.º 100/2026, Série I de 2026-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/98-2026-1125716288
+  date: '2026-05-25'
+- type: amends
+  target: pt:numero:despacho:6521/2023
+  label: Dissolve o conselho de administração nomeado pelo Despacho n.º 6521/2023, de 16 de junho, Diário da República n.º
+    116/2023, Série II
+  source: null
+  date: '2023-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/2012/06/22/p/dre
   label: null
@@ -112,16 +132,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:176519578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:49Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +204,7 @@ Foi solicitada a avaliação à Comissão de Recrutamento e Seleção para a Adm
 
 Assim:
 
-Nos termos dos artigos 13.º e 15.º dos Estatutos da Agência para o Investimento e Comércio Externo de Portugal, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 229/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2012-192440), de 26 de outubro, na sua redação atual, dos artigos 13.º e 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, dos n.<sup>os</sup>4 e 5 do artigo 31.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 13.º e 15.º dos Estatutos da Agência para o Investimento e Comércio Externo de Portugal, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 229/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2012-192440), de 26 de outubro, na sua redação atual, dos artigos 13.º e 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, dos n.os4 e 5 do artigo 31.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Dissolver o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.).
 
@@ -237,3 +293,5 @@ Tem sete artigos científicos publicados em journals com impact factor/scopus, e
 Desde maio de 2022, pertence ao conselho fiscal de duas sociedades. É ainda membro da Ordem dos Contabilistas Certificados (OCC), com o n.º 63 467. É fluente em inglês e espanhol.
 
 Paulo Rios de Oliveira é consultor de empresas nas áreas da gestão e comunicação. Advogado desde 1990, é licenciado pela Universidade Católica Portuguesa. É pós-graduado em Comunicação Empresarial pela Porto Business School e tem frequência de formação executiva no Programa Intensivo de Gestão da Católica Porto Business School. Foi Deputado à Assembleia da República desde 2011, com exercício, entre outras, das funções de coordenador da Comissão de Economia e de vice-presidente de grupo parlamentar com a área da Economia. Igualmente exerceu as funções de vice-presidente da Delegação Portuguesa na Assembleia Parlamentar da CPLP (Comunidade dos Países de Língua Portuguesa) bem como vice-presidente da Comissão Especializada Permanente de Economia, Ambiente e Cooperação. Foi presidente do conselho fiscal do FIBE - Fórum de Integração Brasil Europa e é membro do Conselho para a Regulação e Qualificação das Pessoas da CIP - Confederação Empresarial de Portugal.
+
+117764981

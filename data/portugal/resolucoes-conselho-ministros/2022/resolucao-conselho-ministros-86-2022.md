@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/19000/0010000100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2022/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2022-201699173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b508fefd24852eee2c1d1798f7fee34d3e2eb7bcfee3a0557a5bfec32d81709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e5802cfba672f0ac5ac06529e6156251b3e3ec6d4be553745c57ac2ccb7048a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
+- Cinema
 - Comissário
 - Definição de Competências
 - Diretor
 - Divulgação Cultural
 - Equipa de Projecto
+- Exoneração
 - Grupo de Trabalho
-- Cinema
 - Portugal Film Commission
 relationships:
 - type: cites
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/2019/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2019/05/31/p/dre
+- type: cites
+  target: pt:dre:122465018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:10Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +122,5 @@ Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/
 3 - Estabelecer que a presente resolução produz efeitos a 12 de setembro de 2022.
 
 Presidência do Conselho de Ministros, 15 de setembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115713566

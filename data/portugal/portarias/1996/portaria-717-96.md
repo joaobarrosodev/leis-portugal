@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/717/1996/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/717-1996-187768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b3358c6eb12f0e63072c3f608056a89115e506bb49b558888b2c3730509082b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f07b4120ec5c91e709036013b4e29210661b205af6eb28e226f55e758246815
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
-- Cascais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:59Z'
   warnings: []
   errors: []
 ---
@@ -111,19 +123,19 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 6 de Novembro de 1996.**
+Assinada em 6 de Novembro de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 Regulamento
 
 (n.º 1 do artigo 10.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412))
 
-###### Artigo 1.º O presente Regulamento faz parte integrante do Plano de Pormenor de uma área de terreno situada na zona entre Bicesse e Manique, designada por «Vizo - Bicesse» e cuja localização vai indicada nas plantas, nomeadamente na planta de situação, à escala de 1:5000, na planta de enquadramento, à escala de 1:2000, e na planta de implantação, à escala de 1:500.
+Artigo 1.º O presente Regulamento faz parte integrante do Plano de Pormenor de uma área de terreno situada na zona entre Bicesse e Manique, designada por «Vizo - Bicesse» e cuja localização vai indicada nas plantas, nomeadamente na planta de situação, à escala de 1:5000, na planta de enquadramento, à escala de 1:2000, e na planta de implantação, à escala de 1:500.
 
-###### Art. 2.º A implantação da rede viária e a consequente definição da área a ceder para equipamento público e da área para a implantação dos lotes destinados aos edifícios previstos deverá fazer-se em conformidade com o indicado na planta de implantação.
+Art. 2.º A implantação da rede viária e a consequente definição da área a ceder para equipamento público e da área para a implantação dos lotes destinados aos edifícios previstos deverá fazer-se em conformidade com o indicado na planta de implantação.
 
-###### Art. 3.º Os lotes e as construções a implantar na zona 1 deverão respeitar os condicionamentos fixados para as zonas HE do PUCS:
+Art. 3.º Os lotes e as construções a implantar na zona 1 deverão respeitar os condicionamentos fixados para as zonas HE do PUCS:
 
 Zona HE do PUCS
 
@@ -151,20 +163,20 @@ Anexos:
 
 Altura máxima - 2,60 m.
 
-###### Art. 4.º Para a zona 2, dado tratar-se de uma zona totalmente construída e habitada, manter-se-ão as construções existentes. Não serão permitidas obras, a não ser as projectadas com respeito do estabelecido para as zonas HE do PUCS e pelo Regulamento Geral das Edificações Urbanas.
+Art. 4.º Para a zona 2, dado tratar-se de uma zona totalmente construída e habitada, manter-se-ão as construções existentes. Não serão permitidas obras, a não ser as projectadas com respeito do estabelecido para as zonas HE do PUCS e pelo Regulamento Geral das Edificações Urbanas.
 
-###### Art. 5.º A localização dos lotes e dos edifícios projectados para a zona 3 e, bem assim, a rede viária e o parqueamento automóvel deverão fazer-se como vai indicado na planta de implantação.
+Art. 5.º A localização dos lotes e dos edifícios projectados para a zona 3 e, bem assim, a rede viária e o parqueamento automóvel deverão fazer-se como vai indicado na planta de implantação.
 
-###### Art. 6.º O número de edifícios, de pisos e de fogos, as áreas de construção e o índice de ocupação para a zona 3 não poderão, em caso algum, vir a exceder os valores indicados no mapa de valores que integra a planta de implantação.
+Art. 6.º O número de edifícios, de pisos e de fogos, as áreas de construção e o índice de ocupação para a zona 3 não poderão, em caso algum, vir a exceder os valores indicados no mapa de valores que integra a planta de implantação.
 
-###### Art. 7.º Para além das áreas de construção indicadas no mapa de valores, nos logradouros dos edifícios previstos para a zona 3 poder-se-á aceitar a construção de anexos destinados exclusivamente a arrecadações ou a garagens, desde que, nomeadamente no que se refere a afastamentos à construção principal, se venha a verificar o cumprimento do Regulamento Geral das Edificações Urbanas e desde que a sua altura máxima exterior não ultrapasse 2,60 m.
+Art. 7.º Para além das áreas de construção indicadas no mapa de valores, nos logradouros dos edifícios previstos para a zona 3 poder-se-á aceitar a construção de anexos destinados exclusivamente a arrecadações ou a garagens, desde que, nomeadamente no que se refere a afastamentos à construção principal, se venha a verificar o cumprimento do Regulamento Geral das Edificações Urbanas e desde que a sua altura máxima exterior não ultrapasse 2,60 m.
 
-###### Art. 8.º O número máximo de pisos para os edifícios projectados na zona 3 será de três, incluindo-se na contagem o piso do rés-do-chão.
+Art. 8.º O número máximo de pisos para os edifícios projectados na zona 3 será de três, incluindo-se na contagem o piso do rés-do-chão.
 
-###### Art. 9.º O edifício projectado na periferia nascente da área destinada a equipamento terá o afastamento mínimo legal estabelecido pelo [Decreto-Lei n.º 37575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37575-1949-265742), referente a zonas de protecção de edifícios escolares.
+Art. 9.º O edifício projectado na periferia nascente da área destinada a equipamento terá o afastamento mínimo legal estabelecido pelo [Decreto-Lei n.º 37575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37575-1949-265742), referente a zonas de protecção de edifícios escolares.
 
-###### Art. 10.º Os edifícios previstos para a zona 3 destinar-se-ão a habitação. No entanto, dada a carência que se verifica na zona, poderá admitir-se que o rés-do-chão dos mesmos seja utilizado para pequeno comércio local, cujo funcionamento seja compatível com a função habitação.
+Art. 10.º Os edifícios previstos para a zona 3 destinar-se-ão a habitação. No entanto, dada a carência que se verifica na zona, poderá admitir-se que o rés-do-chão dos mesmos seja utilizado para pequeno comércio local, cujo funcionamento seja compatível com a função habitação.
 
-###### Art. 11.º Os edifícios, de acordo com as peças desenhadas, deverão fazer a ligação dos efluentes domésticos à rede do colector municipal, sendo expressamente proibida a autorização da sua descarga no solo.
+Art. 11.º Os edifícios, de acordo com as peças desenhadas, deverão fazer a ligação dos efluentes domésticos à rede do colector municipal, sendo expressamente proibida a autorização da sua descarga no solo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/285b00/44134414.pdf))](https://files.diariodarepublica.pt/1s/1996/12/285b00/44134414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/285b00/44134414.pdf)

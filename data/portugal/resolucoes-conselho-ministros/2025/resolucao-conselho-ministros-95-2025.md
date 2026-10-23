@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/95/2025/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-2025-916457172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37cf9e7f94d1a844cd760889e7f0081a4b45104ef281dbea20261b1cb43e36e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82e080b615b83018086c57c8e9dfe2e040c47f8132fc222809f1400e74d13a13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,18 @@ reuse:
 subjects:
 - Autorização de Despesas
 - Despesas Públicas
+- Metro do Porto
 - Metropolitano
 - Mobilidade Sustentável
 - Obras Públicas
-- Metro do Porto
 - Plano de Recuperação e Resiliência
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:34/2022
+  label: Altera, a partir de 3 de maio de 2025, os n.ºs 1, 2, 4, 5, 8, 9, 10, 11, 12 e 13 e adita os n.ºs 14, 15 e 16 à Resolução
+    do Conselho de Ministros n.º 34/2022, de 25 de março, Diário da República n.º 60/2022, Série I
+  source: null
+  date: '2022-03-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -106,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/40-c/2023/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/40-c/2023/05/09/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180994143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203802284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212850320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:13Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +228,7 @@ c) Em 2029: € 816 666,66.
 
 12 - (Anterior n.º 9.)
 
-13 - Estabelecer que nos n.<sup>os</sup>9 e 12 o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
+13 - Estabelecer que nos n.os9 e 12 o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
 
 14 - Determinar que os encargos financeiros referidos no n.º 11 são suportados por receitas próprias do orçamento da Metro do Porto, S. A., associados à operação do BRT da Boavista.
 
@@ -201,3 +239,5 @@ c) Em 2029: € 816 666,66.
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 23 de abril de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118995971

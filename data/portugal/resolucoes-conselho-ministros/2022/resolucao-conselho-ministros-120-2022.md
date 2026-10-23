@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23300/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/120/2022/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2022-204273366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c26c169130e4fba1dfd593ed06b0d5990884c15ce1206b89d7277a9414504a77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a82d648e5c56839e43f687c61aa65ffaeb6ee2c14ccfa3b4cf03460150e4c5ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Acumulação de Funções
 - Conselho de Gestão
-- Serviço Nacional de Saúde
-- Nomeação
 - Direção Executiva do Serviço Nacional de Saúde
+- Nomeação
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:12Z'
   warnings: []
   errors: []
 ---
@@ -232,3 +248,5 @@ Percurso profissional:
 Desde 8 de fevereiro de 2019, vogal executivo no Conselho de Administração do Centro Hospitalar Universitário Lisboa Central;
 
 De 22 de outubro de 2018 a 7 de fevereiro de 2019, técnico especialista na Secretaria de Estado do Orçamento; chefe de gabinete na Secretaria de Estado da Saúde de 4 de dezembro de 2015 a 14 de outubro de 2018; chefe de gabinete da Secretaria de Estado do Orçamento de 30 de outubro a 25 de novembro de 2015; técnico superior especialista em orçamento e finanças públicas do Ministério das Finanças desde maio de 2015; presidente da Comissão de Acompanhamento do Fundo de Apoio Municipal de setembro de 2014 a 25 de novembro de 2015; presidente do Conselho de Coordenação Financeira das Autarquias Locais de junho de 2014 a 25 de novembro de 2015; chefe de gabinete da Secretaria de Estado do Orçamento entre 2 de julho de 2013 e 29 de outubro de 2015; adjunto do Secretário de Estado do Orçamento entre 1 de agosto de 2011 e 2 de julho de 2013; diretor de contabilidade da Direção de Serviços Administrativos da Direção-Geral do Orçamento (DGO), de junho de 2009 a 1 de agosto de 2011; chefe de divisão de Contabilidade na Direção de Serviços Administrativos da Direção-Geral do Orçamento desde 2006; chefe de divisão de contabilidade na Direção de Serviços de Gestão de Recursos Humanos da Direção-Geral do Orçamento desde 2005; técnico superior de Orçamento e Conta da Direção-Geral do Orçamento desde 2001 a maio de 2015.
+
+115925138

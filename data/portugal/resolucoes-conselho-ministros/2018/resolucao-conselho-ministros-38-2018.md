@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05300/0130001301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/38/2018/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2018-114866944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe51ce402795e2da473e0d6b2f2133c5b72d539f376cdb44e6668b45821f8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38cccd13bbcc709fbc01fa874a5d78a9856830e770f0edf8f06e98af1798b78e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ subjects:
 - Aeronave com Motor
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- INEM
-- Transporte Aéreo
 - Concurso Público
 - Conselho de Ministros
-- Delegação de Competências
-- Helicóptero
 - Conselho Diretivo
-- Serviços Partilhados do Ministério da Saúde
+- Delegação de Competências
 - Governo XXI
+- Helicóptero
+- INEM
+- Serviços Partilhados do Ministério da Saúde
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:229857689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229857689:por
+  label: Alterados, com efeitos a partir de 29 de novembro de 2023, os n.ºs 1, 3 e 7 pelo(a) Resolução do Conselho de Ministros
+    n.º 168/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/168-2023-229857689
+  date: '2023-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -103,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:51Z'
   warnings: []
   errors: []
 ---
@@ -166,3 +192,5 @@ f) 2023 - (euro) 7 500 000,00.
 10 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
 
 Presidência do Conselho de Ministros, 8 de março de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111203006

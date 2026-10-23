@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07500/0000200055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2025/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2025-915239713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75e9830779502fdbf00e002bdf5cda1e2eece3fd4210f7ab4fc47c7cab6f3be4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0866f4dcfc5fe76b9880eece4983bddb25ab204b884bc17085e5351851a16d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Infraestruturas de Portugal
 - Instituto da Mobilidade e dos Transportes
 - Investimento
+- Plano Ferroviário Nacional
 - Rede Ferroviária
 - Transporte Transfronteiriço
-- Infraestruturas de Portugal
-- Plano Ferroviário Nacional
 relationships:
 - type: amended_by
   target: pt:dre:992402116:por
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166161286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895836363:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:46Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +235,8 @@ No PFN, a hierarquização da rede é feita para os passageiros, em termos da co
 
 No caso do transporte de mercadorias, tendo em conta que este tem importância nas longas distâncias e transporte internacional, é assumida a hierarquização da RTE-T, já que esta corresponde aos eixos nacionais e internacionais mais relevantes.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240650.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240650.png) |
+| --- |
 
 Figura 1. Ilustração do processo de planeamento do sistema ferroviário no PFN. A distribuição e as relações funcionais dos aglomerados de população no território levam à definição de uma estrutura de rede, sobre a qual se criam cenários de serviços ferroviários. A infraestrutura condiciona o padrão de serviços e este, por sua vez, determina os requisitos a estabelecer para a infraestrutura num processo iterativo.
 
@@ -241,7 +254,7 @@ Tratando-se de um plano de alto nível, o PFN não avalia uma a uma as ações q
 
 Em particular, todas as ações, nomeadamente aquelas que impliquem investimento, devem estar dependentes de uma Análise Custo-Benefício (ACB) que demonstre que o seu efeito final é benéfico para o conjunto da sociedade. Contudo, as ACB clássicas podem ser demasiado restritivas na contabilização destes efeitos, cingindo-se a uma análise puramente económica, frequentemente com uma contabilização dos efeitos ambientais.
 
-As ACB devem seguir a metodologia dos Benefícios Económicos Alargados (Wider Economic Benefits) (<sup>1</sup>).
+As ACB devem seguir a metodologia dos Benefícios Económicos Alargados (Wider Economic Benefits) (1).
 
 Tabela 1. Comparação das categorias de benefícios contabilizados nas Análises Custo-Benefício clássicas e nas análises que incluem Benefícios Económicos Alargados (Wider Economic Benefits)
 
@@ -260,7 +273,7 @@ Alguns dos investimentos previstos já apresentam uma elevada maturidade e já f
 
 Apesar de estarmos perante um Plano Ferroviário, que reconhece que o transporte ferroviário tem o papel central na estruturação da mobilidade à escala do território continental, não se devem excluir outras alternativas tecnológicas que, nalguns casos particulares, se podem revelar mais adequadas. Isto poderá acontecer nalgumas ligações locais onde o nível de procura não justifica o transporte ferroviário.
 
-Deve ter-se em mente que, mesmo numa análise estritamente ambiental, o transporte ferroviário não é sempre a melhor solução para todas as situações. Os investimentos são muito elevados, inclusive, quando medidos em termos de emissões de gases com efeito de estufa. A construção de uma linha de caminho-de-ferro nova implica a emissão de 1000 a 2000 toneladas equivalentes de CO<sub>2</sub> por cada quilómetro de linha de caminho-de-ferro construída (<sup>2</sup>). Isto significa que a redução de emissões proveniente da transferência modal pode demorar vários anos a compensar a construção da linha.
+Deve ter-se em mente que, mesmo numa análise estritamente ambiental, o transporte ferroviário não é sempre a melhor solução para todas as situações. Os investimentos são muito elevados, inclusive, quando medidos em termos de emissões de gases com efeito de estufa. A construção de uma linha de caminho-de-ferro nova implica a emissão de 1000 a 2000 toneladas equivalentes de CO2 por cada quilómetro de linha de caminho-de-ferro construída (2). Isto significa que a redução de emissões proveniente da transferência modal pode demorar vários anos a compensar a construção da linha.
 
 Por todas estas razões, na avaliação dos investimentos na rede e nos serviços ferroviários, é importante ter em consideração todos os custos e todos os benefícios, sejam de natureza económica, social, territorial ou ambiental.
 
@@ -350,9 +363,10 @@ Sem perder do horizonte um futuro em que Portugal terá ligações ferroviárias
 
 2.3 - Acesso aos Portos e Corredores Internacionais
 
-![](https://files.diariodarepublica.pt/images/915239713/915240651.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240651.png) |
+| --- |
 
-Figura 2. Comprimento máximo dos comboios de mercadorias (<sup>3</sup>) na rede ferroviária após a conclusão do programa de investimentos Ferrovia 2020.
+Figura 2. Comprimento máximo dos comboios de mercadorias (3) na rede ferroviária após a conclusão do programa de investimentos Ferrovia 2020.
 
 O programa Ferrovia 2020 teve como prioridade intervenções focadas no transporte de mercadorias, com especial destaque para as ligações dos portos às fronteiras. A fatia maior do investimento está focada nos Corredores Internacionais Norte e Sul.
 
@@ -384,7 +398,8 @@ Eletrificação do Ramal de Neves Corvo
 
 Atualmente, 80 % dos km realizados pelos comboios de circulação pelo Ramal de Neves Corvo estão eletrificados, mas a tração utilizada em todo o trajeto é diesel pela falta de eletrificação do Ramal de Neves Corvo. A eletrificação do Ramal de Neves Corvo permitirá a transição para tração elétrica de todos os comboios que circulam diariamente neste ramal.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240652.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240652.png) |
+| --- |
 
 Figura 3. Comprimento máximo dos comboios de mercadorias na rede ferroviária após os investimentos previstos no PNI 2030.
 
@@ -436,7 +451,8 @@ O investimento para preparar as linhas para a circulação de comboios mais comp
 
 Num cenário de forte crescimento do transporte ferroviário de mercadorias, em particular, daquele que se realiza na ligação aos portos, poderá considerar-se a criação de corredores para comboios de 1500 m. Em particular, face ao crescimento previsto para o Porto de Sines, a ligação até à fronteira de Elvas-Badajoz seria um primeiro corredor natural para a implementação de comboios de 1500 m. Contudo, tal só será vantajoso caso esse corredor tenha continuidade em Espanha até outro destino de importância equivalente, como os portos do Mediterrâneo.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240653.png) |
+| --- |
 
 Figura 4. Comprimento máximo dos comboios de mercadorias na rede ferroviária com a criação de um possível corredor para comboios de 1500 m entre o Porto de Sines e a fronteira.
 
@@ -550,7 +566,8 @@ Este modelo pode permitir otimizar a eficiência da operação, eliminando a lim
 
 3.1 - Estrutura da Rede Existente
 
-![](https://files.diariodarepublica.pt/images/915239713/915240654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240654.png) |
+| --- |
 
 Figura 5. Cobertura atual da rede de serviços de Alta Velocidade (mapa da esquerda) e interurbanos (mapa da direita).
 
@@ -612,9 +629,9 @@ Adicionalmente, a construção da Concordância da Mealhada irá tornar possíve
 
 Tabela 3. Tempos de viagem estimados para serviços Intercidades após modernização da Linha da Beira Alta e construção da Concordância da Mealhada
 
-| Serviços Intercidades | Atual | Com modernização da L. Beira Alta e Concordância da Mealhada |
+| Serviços Intercidades | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços Intercidades | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com modernização da L. Beira Alta e Concordância da Mealhada |  |
 | Porto Campanhã - Guarda,13 paragens |  | 2h55 |
 | Lisboa Santa Apolónia - Guarda,18 paragens | 4h25 | 4h10 |
 
@@ -626,7 +643,8 @@ A Linha do Oeste tem atualmente uma oferta quase inexistente de serviços interu
 
 Uma vez completa a eletrificação até às Caldas da Rainha, deverá considerar-se a criação de um serviço Inter-regional com horário cadenciado em direção a Lisboa, a prolongar futuramente até Leiria. Este serviço poderia fazer serviço local entre Torres Vedras e Caldas da Rainha, sendo rápido entre Torres Vedras e Lisboa. Neste último troço, o serviço local seria assegurado pelo prolongamento dos comboios urbanos que atualmente terminam em Mira Sintra-Meleças, também com uma cadência mínima de 1 comboio por hora e por sentido, conforme ilustrado na Figura 6, sem prejuízo de haver serviços mais frequentes até à Malveira, por exemplo.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240655.png) |
+| --- |
 
 Figura 6. Padrão de serviços para a Linha do Oeste após a eletrificação do troço Mira Sintra-Meleças - Caldas da Rainha com um serviço urbano entre Lisboa e Torres Vedras (representado a vermelho) e um serviço interurbano Lisboa - Caldas da Rainha (representado a verde). Este último é rápido entre Lisboa e Torres Vedras e com serviço local entre Torres Vedras e Caldas da Rainha.
 
@@ -636,9 +654,9 @@ Os tempos de viagem deverão melhorar, significativamente, face aos atuais com a
 
 Tabela 4. Tempos de viagem estimados para serviços Inter-Regionais após eletrificação da Linha do Oeste entre Mira Sintra-Meleças e Caldas da Rainha, considerando o padrão de serviço da Figura 6
 
-| Serviços Inter-Regionais | Atual | Com eletrificação da L. Oeste |
+| Serviços Inter-Regionais | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços Inter-Regionais | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com eletrificação da L. Oeste |  |
 | Lisboa Sete Rios - Torres Vedras,13 paragens | 1h13 | 57 min |
 | Lisboa Sete Rios - Caldas da Rainha,13 paragens | 1h52 | 1h35 |
 
@@ -678,16 +696,17 @@ As reduções de tempo de viagem face à situação atual são drásticas, confo
 
 Tabela 5. Tempos de viagem estimados para serviços de Alta Velocidade após construção da LAV entre o Porto e o Carregado, com prolongamentos a Braga, Guimarães e ao Aeroporto do Porto
 
-| Serviços de alta velocidade | Atual | Com LAV Porto - Lisboa |
+| Serviços de alta velocidade | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços de alta velocidade | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com LAV Porto - Lisboa |  |
 | Lisboa Oriente - Porto Campanhã,sem paragens | 2h50 | 1h20 |
 | Lisboa Oriente - Porto Campanhã,paragem em Leiria, Coimbra, Aveiro e Gaia AV |  | 1h45 |
 | Lisboa Oriente - Aeroporto Sá Carneiro,5 paragens | - | 1h55 |
 | Lisboa Oriente - Braga,sem paragens | 3h28 | 2h00 |
 | Lisboa Oriente - Guimarães,sem paragens | 3h45 | 2h15 |
 
-![](https://files.diariodarepublica.pt/images/915239713/915240656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240656.png) |
+| --- |
 
 Figura 7. Exemplo de padrão de serviços de Alta Velocidade possível com a LAV Porto - Lisboa, e respetivos tempos de viagem totais e parciais. Neste exemplo, existem 2 comboios por hora e sentido entre o Porto e Lisboa e as cidades de Leiria, Coimbra e Aveiro têm, pelo menos, 1 comboio por hora em ambos os sentidos.
 
@@ -715,9 +734,9 @@ Com a presença dos serviços Intercidades na LAV, pode considerar-se a pertinê
 
 Tabela 6. Tempos de viagem estimados para serviços Intercidades que poderão utilizar a LAV após a sua construção entre o Porto e o Carregado. O serviço Lisboa - Figueira da Foz utilizaria a LAV entre Lisboa e Leira, e o serviço Lisboa - Guarda utilizá-la-ia até Coimbra
 
-| Serviços Intercidades | Atual | Com LAV Porto - Lisboa |
+| Serviços Intercidades | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços Intercidades | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com LAV Porto - Lisboa |  |
 | Lisboa Santa Apolónia - Figueira da Foz,8 paragens | 2h35(com transbordo) | 1h45 |
 | Lisboa Santa Apolónia - Guarda,14 paragens | 4h25 | 3h35 |
 
@@ -747,11 +766,11 @@ Também aqui as melhorias de tempo de viagem são drásticas. O tempo de viagem 
 
 Tabela 7. Tempos de viagem estimados para serviços de Alta Velocidade após construção da LAV entre Braga e Vigo
 
-| Serviços de alta velocidade | Atual | Com LAV Porto - Vigo |
+| Serviços de alta velocidade | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços de alta velocidade | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com LAV Porto - Vigo |  |
 | Porto Campanhã - Vigo Urzáiz,paragem em Braga AV, Valença AV | 2h22 | 1h00 |
-| Porto Campanhã - Vigo Urzáiz,paragem em Trofa, Famalicão, Nine, Braga AV e Valença AV | 2h22 | 1h15 |
+| Porto Campanhã - Vigo Urzáiz,paragem em Trofa, Famalicão, Nine, Braga AV e Valença AV | 1h15 |  |
 
 No padrão de serviços considerado neste Plano, o eixo Porto - Vigo é servido pelo prolongamento de alguns comboios oriundos de Lisboa, assumindo-se uma frequência de, pelo menos, um comboio a cada 2 horas em cada sentido.
 
@@ -767,7 +786,8 @@ Tendo em conta as atuais frequências entre Lisboa e Évora, e antevendo uma fre
 
 Com a eletrificação da Linha do Leste, abre-se ainda a possibilidade do prolongamento dos comboios Intercidades Lisboa - Évora - Elvas até Portalegre. A ligação Lisboa - Portalegre pode ser feita em cerca de 2h40, assumindo a manutenção das atuais velocidades permitidas na Linha do Leste.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240657.png) |
+| --- |
 
 Figura 8. Cobertura da rede de serviços de Alta Velocidade (mapa da esquerda) e Interurbanos (mapa da direita) após conclusão do Eixo Atlântico Lisboa - Porto - Vigo e da eletrificação da totalidade da rede, ambos previstos no PNI 2030.
 
@@ -812,9 +832,9 @@ Apenas com a conclusão da nova linha até Vilar Formoso se colocaria a possibil
 
 Tabela 9. Tempos de viagem estimados para serviços de Alta Velocidade e Intercidades entre Lisboa e Porto e destinos na Beira Alta e em Espanha após construção da nova LAV entre Aveiro e Vilar Formoso e modernização entre Vilar Formoso e Medina del Campo
 
-| Serviços de alta velocidade | Com LAVAveiro - V. Formoso |
-| --- | --- |
 | Serviços de alta velocidade | Tempos de Viagem |
+| --- | --- |
+| Com LAVAveiro - V. Formoso |  |
 | Porto Campanhã - Vilar Formoso,paragem em Gaia AV, Aveiro AV e Viseu | 1h10 |
 | Porto Campanhã - Madrid Chamartín,5 paragens | 3h15 |
 | Serviços Intercidades | Com LAVAveiro - Celorico |
@@ -870,7 +890,8 @@ A travessia existente, pela Ponte 25 de Abril, tem já algumas limitações de c
 
 Com a nova travessia, este tempo encurta-se para cerca de 15 minutos, o que significa encurtar em cerca de 30 minutos todas as ligações de Lisboa ao Alentejo e ao Algarve, bem como aumentos de frequência dos serviços.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240658.png) |
+| --- |
 
 Figura 9. Localização prevista para uma nova Travessia Ferroviária do Tejo, ligando as duas margens da Área Metropolitana de Lisboa.
 
@@ -886,9 +907,9 @@ Conforme se verifica na Tabela 11, os serviços de Alta Velocidade feitos com co
 
 Tabela 11. Tempos de viagem estimados para serviços de Alta Velocidade e Intercidades entre Lisboa e destinos no Baixo Alentejo e Algarve, após construção da nova travessia do Tejo Chelas - Barreiro. No caso dos serviços de Alta Velocidade, considera-se a utilização de comboios com pendulação ativa.
 
-| Serviços de Alta Velocidade | Atual | Com nova ponte |
+| Serviços de Alta Velocidade | Tempo de Viagem |  |
 | --- | --- | --- |
-| Serviços de Alta Velocidade | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com nova ponte |  |
 | Lisboa Oriente - Faro,paragem em Tunes, Albufeira e Loulé | 3h | 2h25 |
 | Serviços Intercidades | Atual | Com nova ponte |
 | Lisboa Oriente - Faro,9 paragens | 3h28 | 2h55 |
@@ -906,7 +927,8 @@ Sendo certo que o troço Torre Vã - Tunes necessita de uma intervenção de rea
 
 Um investimento relativamente modesto poderia permitir ganhar 10 a 15 minutos adicionais no troço Torre Vã - Tunes, colocando o tempo de viagem entre Lisboa e Faro em cerca de 2h15. Contudo, para ser possível um tempo de viagem inferior a 2 horas entre Lisboa e Faro, será necessário um investimento muito mais pesado na Linha do Sul. Além disso, há a possibilidade de, a prazo, a Linha do Sul vir a sofrer constrangimentos de capacidade. Por estas razões, esta solução pode ser insuficiente para assegurar ligações adequadas ao Sul do país, especialmente, se se quiser perspetivar a integração desta linha na rede ibérica, estendendo o corredor desde Faro até Huelva e Sevilha.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240659.png) |
+| --- |
 
 Figura 10. Ilustração das soluções alternativas para o futuro da ligação entre Lisboa e o Algarve: utilização da linha atual (mapa da esquerda) e construção de nova ligação com passagem em Beja e Évora (mapa da direita).
 
@@ -918,9 +940,9 @@ Com estas hipóteses, mostra-se possível um tempo de viagem inferior a 2 horas 
 
 Tabela 12. Tempos de viagem estimados para serviços de Alta Velocidade entre Lisboa e Faro após construção da nova LAV entre Évora e Faro
 
-| Serviços de Alta Velocidade | Com Nova LinhaÉvora - Beja - Faro |
-| --- | --- |
 | Serviços de Alta Velocidade | Tempos de Viagem |
+| --- | --- |
+| Com Nova LinhaÉvora - Beja - Faro |  |
 | Lisboa Oriente - Faro,paragem em Évora e Beja | 1h55 |
 
 Serviços para o Alto Alentejo e Espanha
@@ -935,12 +957,12 @@ A Tabela 13 mostra o efeito da nova travessia do Tejo sobre os serviços ferrovi
 
 Tabela 13. Tempos de viagem estimados para serviços de Alta Velocidade e Intercidades entre Lisboa e destinos no Alto Alentejo e Espanha, após construção da nova travessia do Tejo Chelas - Barreiro. No caso dos serviços de Alta Velocidade, considera-se, também, construção de nova linha até ao Poceirão.
 
-| Serviços de Alta Velocidade | Atual | Com LAV Évora - Elvas | Com nova ponte |
+| Serviços de Alta Velocidade | Tempo de Viagem |  |  |
 | --- | --- | --- | --- |
-| Serviços de Alta Velocidade | Tempo de Viagem | Tempo de Viagem | Tempo de Viagem |
+| Atual | Com LAV Évora - Elvas | Com nova ponte |  |
 | Lisboa Oriente - Badajoz,paragem em Évora, continuação até Madrid | (3h50)(pela L. Leste) | 1h57 | 1h20 |
 | Serviços Intercidades | Atual | Com LAV Évora - Elvas | Com nova ponte |
-| Lisboa Oriente - Évora,paragem em Pinhal Novo, Vendas Novas e Casa Branca | 1h33 | 1h33 | 1h02 |
+| Lisboa Oriente - Évora,paragem em Pinhal Novo, Vendas Novas e Casa Branca | 1h33 | 1h02 |  |
 | Lisboa Oriente - Elvas,4 paragens | 4h06(com transbordo) | 2h07 | 1h45 |
 | Lisboa Oriente - Portalegre,5 paragens | 3h22(com transbordo) | 2h40 | 2h15 |
 
@@ -952,7 +974,8 @@ Esta questão só será ultrapassada com a construção de um novo acesso ferrov
 
 Esta ligação deverá ser focada no transporte de passageiros local e interurbano, cumprindo também uma importante função de estruturação do eixo Norte-Sul da Área Metropolitana de Lisboa e servindo Loures, conforme se discute em maior detalhe na Secção 4.1.3.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240660.png) |
+| --- |
 
 Figura 11. Cenário de cobertura da rede de serviços de Alta Velocidade (mapa da esquerda) e Interurbanos (mapa da direita) após conclusão da rede prevista no PFN.
 
@@ -966,7 +989,8 @@ O exemplo na Figura 12 mostra as possibilidades de alargamento da cobertura terr
 
 Desta forma, torna-se plausível a ligação a praticamente todas as sedes de município do território continental, por um sistema de transportes coletivos integrado que combine ferrovia e rodovia e que providencie ligações aos Centros Urbanos Regionais e às Áreas Metropolitanas, onde se concentram muitos dos serviços a que as populações necessitam de aceder.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240661.png) |
+| --- |
 
 Figura 12. Exemplo, com base no serviço ferroviário atual, da utilização de serviços combinados de comboio (a verde) e autocarro (a laranja) para servir um número muito mais alargado de sedes de município no Alentejo com tempos de viagem abaixo das 3h até Lisboa e admitindo apenas um transbordo.
 
@@ -1004,7 +1028,8 @@ Com a construção da LAV Porto - Lisboa e Porto - Vigo, ficará concluída a li
 
 4.1.1 - Estrutura da Rede Existente
 
-![](https://files.diariodarepublica.pt/images/915239713/915240662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240662.png) |
+| --- |
 
 Figura 13. Diagrama atual dos serviços suburbanos da Área Metropolitana de Lisboa.
 
@@ -1018,7 +1043,8 @@ A rede do Metro de Lisboa é quase totalmente subterrânea e localizada dentro d
 
 A articulação entre a rede de comboio suburbano pesado e a rede de Metro é tanto melhor quanto maior o número de interfaces existentes com as linhas de Metro, já que minimiza o número de transbordos necessários para aceder aos pontos de destino na cidade de Lisboa.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240663.png) |
+| --- |
 
 Figura 14. Divisão funcional das redes de Metro e de Comboio Suburbano em regiões metropolitanas com uma centralidade bem definida.
 
@@ -1062,7 +1088,8 @@ Por estas razões, um primeiro passo importante seria melhorar drasticamente e u
 
 Trata-se de um serviço que pode ser criado de imediato sem nenhuma necessidade de infraestrutura adicional, mesmo que inicialmente com algumas limitações.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240664.png) |
+| --- |
 
 Figura 15. Diagrama da Linha de Cintura na cidade de Lisboa com a cobertura permitida pela infraestrutura atual e ligações existentes ao Metro.
 
@@ -1072,9 +1099,9 @@ Numa segunda fase, o reforço das frequências destes serviços pode ter um pape
 
 Tabela 14. Frequências propostas para serviços suburbanos na Linha de Cintura de Lisboa, potenciando a sua função na mobilidade da cidade de Lisboa
 
-| Serviços Suburbanos no interior da cidade de Lisboa | Horas de ponta | Fora de ponta e fins de semana |
+| Serviços Suburbanos no interior da cidade de Lisboa | Frequência |  |
 | --- | --- | --- |
-| Serviços Suburbanos no interior da cidade de Lisboa | Frequência | Frequência |
+| Horas de ponta | Fora de ponta e fins de semana |  |
 | (Sintra) - Benfica - Oriente | 6 c/h | 3 c/h |
 | Alcântara T. - Oriente - (Castanheira R.) | 3 c/h | 3 c/h |
 | (Coina) - Campolide - Roma-Areeiro | 6 c/h | 3 c/h |
@@ -1095,7 +1122,8 @@ A consolidação do papel da Linha de Cintura enquanto eixo transversal da cidad
 
 O projeto de quadruplicação da Linha de Cintura entre Roma-Areeiro e Braço de Prata inclui a criação de uma nova estação em Chelas-Olaias com um novo interface com a Linha Vermelha na estação de Metro das Olaias. A estação de Entrecampos passará a ser servida pela linha circular, a Linha Verde, e a Linha Vermelha será prolongada até Alcântara. Finalmente, existe a oportunidade de, com um investimento modesto no prolongamento da passagem inferior, por mais algumas centenas de metros, ligar a estação ferroviária Roma-Areeiro à estação de Metro do Areeiro.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240665.png) |
+| --- |
 
 Figura 16. Diagrama da Linha de Cintura na cidade de Lisboa com a cobertura permitida pela infraestrutura ferroviária e ligações ao Metro previstas no PNI 2030.
 
@@ -1103,7 +1131,8 @@ Fora da Linha de Cintura, a estação ferroviária do Rossio tem interface com a
 
 4.1.3 - Criação de Eixos Diametrais Metropolitanos
 
-![](https://files.diariodarepublica.pt/images/915239713/915240666.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240666.png) |
+| --- |
 
 Figura 17. Diagrama da rede de serviços suburbanos da Área Metropolitana de Lisboa após a conversão dos eixos radiais das Linhas de Cascais, Sintra, Azambuja e Sado em eixos diametrais.
 
@@ -1145,13 +1174,15 @@ Aquilo que se propõe é o atravessamento da cidade de Lisboa com uma linha maio
 
 Desta forma, criar-se-á um novo eixo diametral da cidade de Lisboa na direção Norte-Sul, em complemento ao eixo Este-Oeste que já existe. Na AML, criar-se à um novo eixo Setúbal - Torres Vedras.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240667.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240667.png) |
+| --- |
 
 Figura 18. Diagrama da rede de serviços suburbanos da Área Metropolitana de Lisboa após conclusão do PFN.
 
 4.2 - Sistema Metropolitano Norte Litoral (Braga, Porto e Aveiro)
 
-![](https://files.diariodarepublica.pt/images/915239713/915240668.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240668.png) |
+| --- |
 
 Figura 19. Diagrama atual dos serviços suburbanos do Sistema Metropolitano Norte Litoral.
 
@@ -1239,7 +1270,8 @@ Após a criação dos serviços suburbanos entre o Porto e Barcelos, propõe-se 
 
 Esta solução permite afirmar a centralidade de Braga no Minho e estruturar dois dos lados do Quadrilátero do Minho, o que liga Famalicão a Barcelos e o que liga Barcelos a Braga.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240669.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240669.png) |
+| --- |
 
 Figura 20. Diagrama de serviços ferroviários locais no Minho, com os Suburbanos Porto - Braga e Porto - Barcelos (a vermelho) e os Regionais Braga - Viana do Castelo (a amarelo), possíveis com a construção de uma concordância em Nine, entre a Linha do Minho e o Ramal de Braga.
 
@@ -1247,7 +1279,8 @@ Ligação a Amarante
 
 A construção da nova Linha de Trás-os-Montes deverá incluir numa qualquer primeira fase uma estação em Amarante. Abre-se, então, a possibilidade de criar comboios Suburbanos Porto - Amarante, com horário cadenciado e tempo de viagem muito inferiores àqueles que seriam possíveis com a reabertura da Linha do Tâmega entre Livração e Amarante.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240670.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240670.png) |
+| --- |
 
 Figura 21. Diagrama da rede de serviços suburbanos do Sistema Metropolitano Norte Litoral após conclusão do PFN.
 
@@ -1259,7 +1292,8 @@ Há um conjunto de ligações relevantes na parte Norte do Sistema Metropolitano
 
 De facto, restam dois dos lados do Quadrilátero do Minho sem solução de mobilidade e acessibilidade em transporte coletivo, o lado Braga - Guimarães e o lado Guimarães - Famalicão. Acresce que há dois troços desativados de antiga linha férrea que podem ser reaproveitados para um novo sistema de mobilidade ligeira: o troço que liga a Póvoa de Varzim a Famalicão e o que liga Guimarães a Fafe.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240671.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240671.png) |
+| --- |
 
 Figura 22. Proposta de ligações a considerar para a criação de um Sistema de Mobilidade Ligeira nos Vales do Cávado e do Ave.
 
@@ -1269,7 +1303,8 @@ O facto de os eixos propostos estarem na continuidade, quer da rede ferroviária
 
 Esta solução permite, ainda, mitigar a existência de duas estações separadas em Braga, uma para os serviços locais e outra para os serviços de Alta Velocidade. Um sistema de mobilidade ligeira deverá ser pensado para servir e ligar ambas as estações de Braga.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240672.png) |
+| --- |
 
 Figura 23. Efeito do Sistema de Mobilidade Ligeira no Vale do Ave (linhas azuis tracejadas) na conectividade das principais cidades da região e do Porto.
 
@@ -1297,7 +1332,8 @@ O SMM entrará em funcionamento até 2025, inicialmente, como um sistema de Bus 
 
 O estudo de possíveis expansões do SMM deve ter em consideração a rede ferroviária existente, evitando a duplicação de infraestruturas paralelas e maximizando a utilização das existentes. Em particular, as ligações à Mealhada podem ser adequadamente servidas pela Linha do Norte, havendo também a possibilidade de reabrir parcialmente o Ramal da Figueira da Foz, servindo Cantanhede. Neste último cenário, poderia considerar-se a criação de um eixo de serviços diametrais entre a Figueira da Foz e Cantanhede, conforme representado na Figura 24.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240673.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240673.png) |
+| --- |
 
 Figura 24. Diagrama da rede de serviços locais (suburbanos e regionais) da Região de Coimbra, após a entrada em funcionamento do Sistema de Mobilidade do Mondego, com a possibilidade do seu prolongamento até Condeixa-a-Nova e da reabertura do Ramal da Figueira da Foz até Cantanhede.
 
@@ -1321,7 +1357,8 @@ Na ponta oposta da linha, estes serviços podem ter um importante papel na mobil
 
 Desta forma, pode considerar-se a possibilidade de ter uma frequência significativamente superior entre Elvas e Badajoz, num modelo de vaivém, coordenado com os serviços de longo curso.
 
-![](https://files.diariodarepublica.pt/images/915239713/915240674.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915240674.png) |
+| --- |
 
 Figura 25. Esquema da possível articulação entre os serviços de Alta Velocidade Lisboa - Madrid (a azul), Intercidades Lisboa - Portalegre (a verde) e Regionais da Linha do Leste entre Elvas e Badajoz. Esta configuração assegura o acesso aos vários serviços de longo curso e serve a mobilidade local transfronteiriça.
 
@@ -1331,7 +1368,8 @@ A conversão da Linha do Algarve num sistema de ferrovia ligeira inviabilizaria 
 
 Por outro lado, a manutenção da Linha do Algarve como parte da rede ferroviária geral não inviabiliza a sua utilização como parte de sistemas de mobilidade local ferroviária que venham a ser criados. Desta forma, propõe-se o desenvolvimento de um Sistema de Mobilidade Ligeira do Algarve, seguindo o mesmo modelo evolutivo que admite um início de operação em modo rodoviário, com custo de investimento inicial mais baixo, mas sem excluir a sua conversão futura num sistema ferroviário ligeiro.
 
-![](https://files.diariodarepublica.pt/images/915239713/915280475.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915280475.png) |
+| --- |
 
 Figura 26. Proposta de ligações a considerar para a criação de um Sistema de Mobilidade Ligeira do Algarve, num modelo Tram-Train integrado com a linha do Algarve.
 
@@ -1363,7 +1401,8 @@ Linha do Corgo, caso venha a considerar-se a sua reabertura parcial, tornar-se-i
 
 Tipicamente, a oferta turística não sustenta, por si só, a operação de uma linha ferroviária, nem uma linha turística sustenta sozinha o desenvolvimento do turismo numa região. Por esta razão, é fundamental a oferta de produtos que integrem várias componentes, incluindo a viagem em si, alojamento, cultura e património, gastronomia e natureza. Em todos os exemplos anteriores, tal combinação é possível para a criação de produtos que sejam adequados a vários segmentos de mercado.
 
-![](https://files.diariodarepublica.pt/images/915239713/915280476.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/915239713/915280476.png) |
+| --- |
 
 Figura 27. Linhas identificadas com potencial para o desenvolvimento do turismo ferroviário.
 
@@ -1371,14 +1410,18 @@ Figura 27. Linhas identificadas com potencial para o desenvolvimento do turismo 
 
 A criação de ecopistas ao longo de canais ferroviários desativados é uma excelente forma de preservar o canal ferroviário, não comprometendo a possibilidade de o voltar a usar para um sistema de transportes, ao mesmo tempo que se cria um novo tipo de oferta turística.
 
-De facto, uma parte significativa dos troços ferroviários desativados já está hoje convertido em ecopistas. Num momento em que se está a iniciar a construção de vias cicláveis intermunicipais em todo o país, impulsionada pela Estratégia Nacional para a Mobilidade Ativa Ciclável (<sup>4</sup>), as ecopistas podem desempenhar um papel relevante na criação desta rede, somando o seu papel primordial de turismo e lazer, a uma nova função como eixo de mobilidade ativa de elevada qualidade.
+De facto, uma parte significativa dos troços ferroviários desativados já está hoje convertido em ecopistas. Num momento em que se está a iniciar a construção de vias cicláveis intermunicipais em todo o país, impulsionada pela Estratégia Nacional para a Mobilidade Ativa Ciclável (4), as ecopistas podem desempenhar um papel relevante na criação desta rede, somando o seu papel primordial de turismo e lazer, a uma nova função como eixo de mobilidade ativa de elevada qualidade.
 
 A existência de antigas estações ferroviárias ao longo das antigas linhas convertidas em ecopistas dá a oportunidade ideal de aí criar serviços de apoio, como restauração, alojamento ou outros equipamentos, ao mesmo tempo que se recupera e preserva esse património.
 
-(<sup>1</sup>) A. J. Venables, “Incorporating Wider Economic Impacts within Cost-Benefit Appraisal”, Discussion Paper 2016-05, ITF - International Transport Forum, OECD (2016).
+(1) A. J. Venables, “Incorporating Wider Economic Impacts within Cost-Benefit Appraisal”, Discussion Paper 2016-05, ITF - International Transport Forum, OECD (2016).
 
-(<sup>2</sup>) O. Olugbenga, N. Kalyviotis, and S. Saxe, “Embodied emissions in rail infrastructure: a critical literature review”, Environmental Research Letters, 14(12):123002 (2019).
+(2) O. Olugbenga, N. Kalyviotis, and S. Saxe, “Embodied emissions in rail infrastructure: a critical literature review”, Environmental Research Letters, 14(12):123002 (2019).
 
-(<sup>3</sup>) Estes comprimentos são determinados pelo comprimento das linhas de resguardo disponíveis. É sempre possível a circulação de comboios com comprimento superior, ainda que com eventual limitação de capacidade.
+(3) Estes comprimentos são determinados pelo comprimento das linhas de resguardo disponíveis. É sempre possível a circulação de comboios com comprimento superior, ainda que com eventual limitação de capacidade.
 
-(<sup>4</sup>) A construção de vias cicláveis intermunicipais é impulsionada pelo Programa Portugal Ciclável 2030.
+(4) A construção de vias cicláveis intermunicipais é impulsionada pelo Programa Portugal Ciclável 2030.
+
+118818994
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:28px; } .Tbl10 { border-collapse:collapse; border-color:rgb(255,255,255); } .Tbl11 { height:17px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl14 { min-height:33px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl21 { min-height:29px; } .Tbl22 { min-height:26px; }

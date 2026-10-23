@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25300/0011500116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/216/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/216-2024-901661928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1abb1b66d19c9ae94d68aa76efabe8c9b52f03b5798e7762db52d585bf70a92b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7d0e4c286bdd0c748292174f619356578a70385283ef9f2cf2834fc3ed6301f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Empreitada de Obras Públicas
 - Lagoa de Óbidos
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:196/2017
+  label: Altera, com efeitos a 18 de dezembro de 2024, os n.os 1, 3 e 5 da Resolução do Conselho de Ministros n.º 196/2017
+    - Diário da República n.º 245/2017, Série I de 2017-12-22
+  source: null
+  date: '2017-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -100,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/196/2017/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/196/2017/12/22/p/dre
+- type: cites
+  target: pt:dre:114394846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126731020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183691731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:23Z'
   warnings: []
   errors: []
 ---
@@ -120,15 +154,15 @@ A [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica
 
 A APA, I. P., procedeu ao lançamento de um concurso público publicado no Diário da República, 2.ª série, n.º 25, parte L - Contratos Públicos, de 5 de fevereiro de 2019, e na plataforma eletrónica de contratação pública, ao abrigo do disposto no Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, tendo-se iniciado o concurso em fevereiro de 2019.
 
-A [Resolução do Conselho de Ministros n.º 183/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2019-126731020), de 29 de novembro, alterou os n.<sup>os</sup>3 e 5 da [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2017-114394846), de 22 de dezembro, que consistiu na reprogramação dos encargos plurianuais autorizados, distribuída para os anos de 2019 a 2022.
+A [Resolução do Conselho de Ministros n.º 183/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2019-126731020), de 29 de novembro, alterou os n.os3 e 5 da [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2017-114394846), de 22 de dezembro, que consistiu na reprogramação dos encargos plurianuais autorizados, distribuída para os anos de 2019 a 2022.
 
 Sucede, porém, que após a conclusão física dos trabalhos de dragagem houve que esperar pela época propícia para a realização dos trabalhos de plantações de espécies vegetais autóctones, pelo que obrigou a uma prorrogação de prazo que resultou na celebração de uma adenda ao contrato. Por outro lado, e principalmente, houve que proceder ao cálculo de revisão de preços de acordo com a fórmula do caderno de encargos e a revisão extraordinária de preços em conformidade com o [Decreto-Lei n.º 36/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731), de 20 de maio. Considerando que a execução financeira do contrato estava prevista terminar em 2022, não foi considerada qualquer verba para este contrato no projeto de orçamento da APA, I. P., para 2023, razão pela qual só foi possível acomodar a despesa no orçamento de 2024. Torna-se, assim, necessário proceder a nova autorização de despesa e à reprogramação dos encargos plurianuais previamente autorizados nos termos da [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2017-114394846), de 22 de dezembro, e reprogramados nos termos da [Resolução do Conselho de Ministros n.º 183/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2019-126731020), de 29 de novembro, de forma a adaptá-los à real execução financeira do contrato.
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º, dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º, dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1, 3 e 5 da [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2017-114394846), de 22 de dezembro, na sua redação atual, que passam a ter a seguinte redação:
+1 - Alterar os n.os1, 3 e 5 da [Resolução do Conselho de Ministros n.º 196/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2017-114394846), de 22 de dezembro, na sua redação atual, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), a realizar a despesa relativa ao contrato de empreitada das dragagens da zona superior da Lagoa de Óbidos e tratamento dos materiais dragados, e as despesas provenientes de alterações e revisões de preços, no montante máximo global de € 13 349 752,65, na condição de obter um cofinanciamento nacional máximo de € 2 617 988,47, valores aos quais acresce o IVA à taxa legal em vigor.
 
@@ -149,3 +183,5 @@ e) 2025 - € 1.
 2 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
 
 Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118502225

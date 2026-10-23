@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01300/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1/2025/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-2025-904259273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feacbdbdc1f212cd1668a54464cf11bb8ef07e725e81d3d9739e6c65f375afed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6690c1035d44814bd143fd008c19d24f100e2bea21f7232e2d50ddf53918d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
-- Conselho de Administração
-- Nomeação
 - Autoridade da Mobilidade e dos Transportes
+- Conselho de Administração
+- Exoneração
+- Nomeação
 relationships:
+- type: amends
+  target: pt:numero:resolucao:38-D/2015
+  label: Exonera, com efeitos a 21 de janeiro de 2025, Eduardo Lopes Rodrigues designado pela Resolução n.º 38-D/2015, Diário
+    da República n.º 142/2015, 2º Suplemento, Série II
+  source: null
+  date: '2015-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/78/2014/05/14/p/dre
   label: null
@@ -82,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866648:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:32Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +128,11 @@ Considerando que o conselho de administração da AMT é atualmente composto por
 
 A CReSAP pronunciou-se favoravelmente sobre as designações constantes da presente resolução, através da Deliberação n.º 115/2024, de 6 de novembro, relativamente à pessoa indicada para vice-presidente, e da Deliberação n.º 103/2024, de 28 de outubro, relativamente à pessoa indicada para vogal.
 
-Em cumprimento do disposto nos n.<sup>os</sup>3 e 4 do artigo 17.º da LQER, as personalidades ora designadas foram ouvidas na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou desfavoravelmente sobre a designação do vice-presidente, através de relatório de 18 de dezembro de 2024, e favoravelmente sobre a designação da vogal, através de relatório de 17 de dezembro de 2024.
+Em cumprimento do disposto nos n.os3 e 4 do artigo 17.º da LQER, as personalidades ora designadas foram ouvidas na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou desfavoravelmente sobre a designação do vice-presidente, através de relatório de 18 de dezembro de 2024, e favoravelmente sobre a designação da vogal, através de relatório de 17 de dezembro de 2024.
 
 Assim:
 
-Nos termos dos artigos 2.º e 21.º dos estatutos da Autoridade da Mobilidade e dos Transportes, aprovados em anexo ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, na sua redação atual, dos n.<sup>os</sup>2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 2.º e 21.º dos estatutos da Autoridade da Mobilidade e dos Transportes, aprovados em anexo ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, na sua redação atual, dos n.os2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Exonerar Eduardo Lopes Rodrigues das funções de membro do conselho de administração da Autoridade da Mobilidade e dos Transportes e do respetivo cargo de vice-presidente para os quais havia sido designado através da [Resolução n.º 38-D/2015](https://diariodarepublica.pt/dr/detalhe/resolucao/38-d-2015-69866648), publicada no Diário da República, 2.ª série, n.º 142, de 23 de julho de 2015.
 
@@ -150,7 +172,7 @@ Início da carreira académica: Assistente na Universidade Nova de Lisboa (1995-
 
 B - Conclusões do parecer fundamentado da Comissão de Economia, Inovação, Obras Públicas e Habitação:
 
-«Pelo exposto, é entendimento da Comissão de Economia, Obras Públicas e Habitação que o Doutor Ricardo Ferreira Reis não reúne as necessárias condições para o exercício do cargo para que se encontra indigitado. A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu à audição do Doutor Ricardo Ferreira Reis, indigitado para Vice-Presidente do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17. ° da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.»
+«Pelo exposto, é entendimento da Comissão de Economia, Obras Públicas e Habitação que o Doutor Ricardo Ferreira Reis não reúne as necessárias condições para o exercício do cargo para que se encontra indigitado. A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu à audição do Doutor Ricardo Ferreira Reis, indigitado para Vice-Presidente do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.os3 e 4 do artigo 17. ° da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.»
 
 ## ANEXO II — (a que se refere o n.º 3)
 
@@ -184,4 +206,6 @@ De 2001 a 2009: Técnica superior no Instituto das Estradas de Portugal, desenvo
 
 B - Conclusões do parecer fundamentado da Comissão de Economia, Inovação, Obras Públicas e Habitação:
 
-«É assim, entendimento da Comissão de Economia, Obras Públicas e Habitação que a Eng.ª Carina Oliveira reúne as condições para o exercício do cargo para que se encontra indigitada. A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu à audição da Eng.ª Carina Oliveira, indigitada para Vogal do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.»
+«É assim, entendimento da Comissão de Economia, Obras Públicas e Habitação que a Eng.ª Carina Oliveira reúne as condições para o exercício do cargo para que se encontra indigitada. A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu à audição da Eng.ª Carina Oliveira, indigitada para Vogal do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.os3 e 4 do artigo 17.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.»
+
+118581655

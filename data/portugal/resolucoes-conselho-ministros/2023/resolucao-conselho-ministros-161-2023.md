@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0001400015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/161/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-2023-229857682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 092ae453fc152d180fb9836c4c14cc12e17b50b7b2d2a91fe7945b6e7f4a2309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6fcff96b2a112b9278d769ea6f04f43d4ec5ae6cd0eec8a1fab5705a7cf2f19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
-- Concordata
-- Portugal
-- Património Cultural
 - Comissão
+- Concordata
+- Exoneração
 - Igreja Católica
 - Nomeação
+- Património Cultural
+- Portugal
 - Representante do Estado
 - Santa se
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:28/2020
+  label: Exonera, com efeitos a 23 de novembro de 2023, o designado pela Resolução do Conselho de Ministros n.º 28/2020 de
+    16 de abril, Diário da República n.º 75/2020, Série I
+  source: null
+  date: '2020-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/80/2004/11/16/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2020/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2020/04/16/p/dre
+- type: cites
+  target: pt:dre:131463653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:47Z'
   warnings: []
   errors: []
 ---
@@ -127,3 +145,5 @@ Presidência do Conselho de Ministros, 23 de novembro de 2023. - O Primeiro-Mini
 Nota curricular
 
 Maria José Teixeira de Morais Pires - nasceu em 18 de dezembro de 1959, em Lisboa; licenciada em Direito pela Faculdade de Direito de Lisboa; mestre em Direito Público pela mesma Faculdade; Diplôme d'Etudes Approfondies em Direito Internacional dos Direitos do Homem, pela Universidade Robert Schumann, em Estrasburgo; aprovada no concurso de admissão aos lugares de adida de embaixada, aberto em 18 de março de 1983; adida de embaixada, em 12 de março de 1984; terceira-secretária de embaixada, em 27 de outubro de 1986; segunda-secretária de embaixada, em 15 de abril de 1987; na Missão Permanente junto do Conselho da Europa, em 26 de janeiro de 1989; conselheira de embaixada, em 24 de setembro de 1994; diretora de Serviços de Direito Internacional do Departamento dos Assuntos Jurídicos, em 14 de junho de 1995; Chefe do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros (XIII Governo Constitucional), em 28 de outubro de 1995; equiparada a bolseira, desde 2 de dezembro de 1997; diretora de serviços das Relações Bilaterais da Direção-Geral dos Assuntos Comunitários, em 2 de janeiro de 2004; subdiretora-geral dos Assuntos Comunitários, em 23 de setembro de 2004; na Representação Permanente junto da União Europeia, em Bruxelas, em 10 de outubro de 2006; ministra plenipotenciária de 2.ª classe, em 4 de julho de 2008; ministra plenipotenciária de 1.ª classe, em 5 de julho de 2011; substituta do Presidente da Comissão Nacional da UNESCO, em 7 de fevereiro de 2013; na Embaixada em Budapeste, com credenciais de Embaixadora, em 24 de fevereiro de 2015; acreditada simultaneamente como Embaixadora não-residente no Kosovo; nomeada representante nacional na Comissão Bilateral a que se refere o artigo 29.º da Concordata entre a República Portuguesa e a Santa Sé, em 27 de junho de 2019; inspetora-geral da Inspeção-Geral Diplomática e Consular, em 1 de agosto de 2020; embaixadora, em 28 de dezembro de 2022.
+
+117130109

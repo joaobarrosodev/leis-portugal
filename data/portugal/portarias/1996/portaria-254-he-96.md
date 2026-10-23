@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1996, 5º Suplemento, Série I-B de 1996-07-15
   number: '162'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1970-(141) a 1970-(141)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b05/01410141.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254-he/1996/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-he-1996-157200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5f2708083ad74599f36876909a31d397e2bde91f27e9111b32dcd58b14a519e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839ad59052fcc96137b7c5a6f8655666e14394663b35b4fadc80672b62dad88b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:455974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455974:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça atribuída pela Portaria 61/91, de 23 de Janeiro,\
+    \ renovada pelo presente diploma, pela PORT.512/2008.24.06.2008.MADRP, DR.IS [120]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-2008-455974
+  date: '2008-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/1991/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/1991/01/23/p/dre
+- type: cites
+  target: pt:dre:500391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:46Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +134,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 11 de Julho de 1996.**
+Assinada em 11 de Julho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/162b05/01410141.pdf))](https://files.diariodarepublica.pt/1s/1996/07/162b05/01410141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/162b05/01410141.pdf)

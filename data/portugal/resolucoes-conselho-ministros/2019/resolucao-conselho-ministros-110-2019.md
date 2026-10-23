@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12700/0336503366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/110/2019/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2019-122960396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3023a4e53e192bba26a9fe3eefe1c12da530f4672a4bee3f6f06577809cd19f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdad5630297ef7289554c43e853838bd0a708d349c72c23a81836556c5b78712
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Apoio ao Investimento
 - Autorização de Despesas
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato Administrativo
+- Convenção Coletiva de Trabalho
 - CP
-- Transporte Ferroviário
 - Definição de Competências
 - Despesas Públicas
-- Convenção Coletiva de Trabalho
-- Fusão de Empresas
 - Empresa de Manutenção de Equipamentos Ferroviários
-- Apoio ao Investimento
-- Recrutamento de Pessoal
+- Fusão de Empresas
 - Investimento Público
-- Contratação de Pessoal
-- Política de Transportes
-- Organização dos Transportes
-- Transporte de Mercadorias
-- Serviço Público
-- Rede Ferroviária
-- Transporte de Passageiros
 - Ministro das Infraestruturas e da Habitação
-- Contratação Pública
+- Organização dos Transportes
+- Política de Transportes
+- Recrutamento de Pessoal
+- Rede Ferroviária
+- Reestruturação de Serviços
+- Serviço Público
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:127504232:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127504232:por
+  label: Extinguida, com efeitos a 01.01.2020, que incorpora, por fusão, a EMEF - Empresa de Manutenção de Equipamento Ferroviário,
+    S. A. (EMEF, S. A.), mantendo a sua denominação social, com a CP - Comboios de Portugal, E. P. E. (CP, E. P. E.) com a
+    inerente transferência do seu património global, bem como as suas atribuições e competências, prevista na presente resolução,
+    pelo(a) Decreto-Lei n.º 174-B/2019 - Diário da República n.º 248/2019, 1º Suplemento, Série I de 2019-12-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-b-2019-127504232
+  date: '2019-12-26'
 - type: cites
   target: celex:32007R0653
   label: null
@@ -120,16 +128,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/188-a/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/188-a/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:117557514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:53Z'
   warnings: []
   errors: []
 ---
@@ -255,3 +283,5 @@ A desenvolver até 2023. Assenta em dois objetivos:
 Modernizar carruagens;
 
 Fabricar material circulante.
+
+112420201

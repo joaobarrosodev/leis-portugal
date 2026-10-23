@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13100/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84/2024/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2024-871292364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 384ddb7664cc94d016f2c01a14b5918510f68870d5aa73c8b4890e2b9f7f39dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e45825dbc9b6955de486ff793492028321bfff6c01aa279e762b390f3c5fc602
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministério da Administração Interna
-- Software
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Secretaria Geral
-- Ministro da Administração Interna
 - Governo XXIV
+- Ministério da Administração Interna
+- Ministro da Administração Interna
+- Secretaria Geral
+- Software
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/142/2021/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/142/2021/10/29/p/dre
+- type: cites
+  target: pt:dre:106549657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173593616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:09Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +169,7 @@ Neste contexto, e com vista à formação de contrato para a Secretaria-Geral do
 
 Assim:
 
-Nos termos do n.º 4 do artigo 7.º do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, dos n.<sup>os</sup>1 e 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, da alínea c) do n.º 1 do artigo 16.º, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º, do artigo 38.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 4 do artigo 7.º do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, dos n.os1 e 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, da alínea c) do n.º 1 do artigo 16.º, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º, do artigo 38.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar a Secretaria-Geral do Ministério da Administração Interna a realizar a despesa com a aquisição de licenciamento Microsoft para os serviços e organismos do Ministério da Administração Interna, renovando o Enterprise Agreement atualmente em vigor, no valor máximo de 23 047 512 EUR, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
 
@@ -160,3 +192,5 @@ c) 2026 - 7 682 504 EUR.
 7 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 20 de junho de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+117878657

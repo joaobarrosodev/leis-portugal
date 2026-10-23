@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/293b00/45444544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/750/1996/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1996-146769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7d608c12e61b06414e52f0102328416f877937f8c408678dd420294b4aca287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fbfdbe519b4081d90165270c256a9cc4e38dbac61236e5ba8b0b8914fcb4f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
-- Gasóleo
 - Contribuições e Impostos
+- Gasóleo
+- Imposto sobre Produtos Petrolíferos
 - Madeira.região Autónoma
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/384/1996/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/384/1996/08/20/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406572:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555462:por
+  label: "Revogada pela Port.96/97.1997.02.12.MF DR.IS-B [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1997-555462
+  date: '1997-02-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:01Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +131,6 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 29 de Novembro de 1996.**
+Assinada em 29 de Novembro de 1996.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23700/0002100022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/165/2023/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-2023-229857686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa92439512fca608a57bd52cca6f9667aa33a6c911fffe220d9b71703cfaf47e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2e7b61f5578d21c2cd0e8a74d3e604bc0be66de3378593864df0c7baa5bce84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
-- Despesas Públicas
-- Cooperação Tecnológica
 - Cooperação Científica
+- Cooperação Tecnológica
+- Despesas Públicas
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:24/2018
+  label: Altera, com efeitos a 29 de novembro de 2023, os n.ºs 3 e 4 e os anexos i e ii da Resolução do Conselho de Ministros
+    n.º 24/2018 de 8 de março, Diário da República n.º 48/2018, Série I
+  source: null
+  date: '2018-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -97,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
+- type: cites
+  target: pt:dre:114832286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205110007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:52Z'
   warnings: []
   errors: []
 ---
@@ -143,31 +173,35 @@ Presidência do Conselho de Ministros, 29 de novembro de 2023. - O Primeiro-Mini
 
 Programa «GoPortugal - Global Science and Technology Partnerships - Portugal»
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  | Em euros |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+|  |  |  |  |  |  |  |
 | Fraunhofer Portugal... | 1 000 000 | 1 000 000 | 1 000 000 | 1 000 000 | 1 000 000 | 1 000 000 |
 | MIT-Portugal... | 1 080 000 | 4 180 000 | 3 800 000 | 3 705 576 | 4 446 976 | 5 987 736 |
 | CMU-Portugal... | 1 000 000 | 3 800 000 | 1 900 000 | 3 800 000 | 5 200 000 | 4 755 707 |
 | UT Austin-Portugal... | 1 000 000 | 3 400 000 | 1 700 000 | 3 400 000 | 4 700 000 | 4 145 453 |
 | Total... | 4 080 000 | 12 380 000 | 8 400 000 | 11 905 576 | 15 346 976 | 15 888 896 |
 
-## ANEXO II — (a que se refere o n.º 4)
+ANEXO II
+
+(a que se refere o n.º 4)
 
 Quotas de organizações internacionais
 
-|  |  |  |  |  |  |  |
+|  |  |  |  |  | Em euros |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | Em euros | Em euros |
-|  | 2019 | 2020 | 2021 | 2022 | 2023 | 2023 |
-| CERN - European Organization for Nuclear Research | 11 110 784 | 6 678 775 | 11 124 592 | 17 136 408 | 16 360 907 | 16 360 907 |
-| CYTED - Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo... | 250 000 | 250 000 | 250 000 | 250 000 | 250 000 | 250 000 |
-| EMBC - European Molecular Biology Conference | 224 246 | 224 400 | 201 486 | 183 064 | 491 448 | 491 448 |
-| EMBL - European Molecular Biology Laboratory | 1 241 916 | 1 234 481 | 500 198 | 1 500 592 | 2 177 421 | 2 177 421 |
-| ESA - European Space Agency... | 14 595 509 | 14 965 000 | 8 982 630 | 28 365 649 | 21 127 168 | 21 127 168 |
-| ESO - European Southern Observatory... | 2 605 000 | 2 601 000 | 1 532 000 | 2 838 000 | 4 344 368 | 4 344 368 |
-| ESRF - European Synchrotron Radiation Facility | 954 810 | 973 900 | 496 690 | 993 380 | 1 521 900 | 1 521 900 |
-| INL - International Iberian Nanotechnology Laboratory | 3 500 000 | 3 570 000 | 3 641 000 | 2 736 603 | 4 766 138 | 4 766 138 |
-| Pequenas organizações... | 4 500 000 | 4 590 000 | 4 681 800 | 3 316 906 | 4 870 945 | 4 870 945 |
+|  | 2019 | 2020 | 2021 | 2022 | 2023 |  |
+|  |  |  |  |  |  |  |
+| CERN - European Organization for Nuclear Research | 11 110 784 | 6 678 775 | 11 124 592 | 17 136 408 | 16 360 907 |  |
+| CYTED - Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo... | 250 000 | 250 000 | 250 000 | 250 000 | 250 000 |  |
+| EMBC - European Molecular Biology Conference | 224 246 | 224 400 | 201 486 | 183 064 | 491 448 |  |
+| EMBL - European Molecular Biology Laboratory | 1 241 916 | 1 234 481 | 500 198 | 1 500 592 | 2 177 421 |  |
+| ESA - European Space Agency... | 14 595 509 | 14 965 000 | 8 982 630 | 28 365 649 | 21 127 168 |  |
+| ESO - European Southern Observatory... | 2 605 000 | 2 601 000 | 1 532 000 | 2 838 000 | 4 344 368 |  |
+| ESRF - European Synchrotron Radiation Facility | 954 810 | 973 900 | 496 690 | 993 380 | 1 521 900 |  |
+| INL - International Iberian Nanotechnology Laboratory | 3 500 000 | 3 570 000 | 3 641 000 | 2 736 603 | 4 766 138 |  |
+| Pequenas organizações... | 4 500 000 | 4 590 000 | 4 681 800 | 3 316 906 | 4 870 945 |  |
 | Total... | 38 982 265 | 35 087 556 | 31 410 396 | 57 320 602 | 55 910 295 | » |
+
+117130166

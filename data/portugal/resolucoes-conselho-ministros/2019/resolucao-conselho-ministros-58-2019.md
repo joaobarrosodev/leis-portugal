@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05800/0168901690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2019/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2019-121403391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15905759d55e409d97b7dd46b23bd8d08811ddc59b76556b5e130eb74e6e05b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5397d7e212fa3fe9d88062155b29c614c4b65171e78331c67ab63ac884f6b11a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Lisboa
+- Agência Portuguesa do Ambiente
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
@@ -73,14 +74,13 @@ subjects:
 - Delegação de Competências
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Orla Costeira
-- ZONA Marítima
-- Proteção do Ambiente
-- Praia Marítima
-- ZONA Balnear
 - Governo XXI
 - Ministro do Ambiente e da Transição Energética
-- Agência Portuguesa do Ambiente
+- Orla Costeira
+- Praia Marítima
+- Proteção do Ambiente
+- ZONA Balnear
+- ZONA Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489264:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:48Z'
   warnings: []
   errors: []
 ---
@@ -159,3 +175,5 @@ b) A APL, S. A., até ao montante de (euro) 1 800 000,00(euro), a que acresce IV
 7 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
 
 Presidência do Conselho de Ministros, 21 de março de 2019. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112164923

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/1996/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1996-615640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f61540a63b63e444d1a506cced0418ed27923ed5c38debac059f7ff519a6042
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c95ff98a9a716ff389c73b0cf622759d1788fa30f474f82bbe1edc3f6b5828dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Lourinhã
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
@@ -110,16 +110,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/515/1994/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/515/1994/07/08/p/dre
+- type: cites
+  target: pt:dre:150512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:26Z'
   warnings: []
   errors: []
 ---
@@ -154,9 +258,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 11 de Janeiro de 1996.**
+Assinada em 11 de Janeiro de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 ### CAPÍTULO I — Restrições gerais
 
@@ -466,4 +570,4 @@ b) Vias complementares (existentes e propostas).
 
 Nas áreas afectas às vias estruturantes e às vias complementares, o regime de uso, ocupação e transformação do solo terá de se sujeitar às restrições impostas às áreas de protecção da rede rodoviária (v. secção II do capítulo II do presente regulamento).
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/040b00/03000307.pdf))](https://files.diariodarepublica.pt/1s/1996/02/040b00/03000307.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/040b00/03000307.pdf)

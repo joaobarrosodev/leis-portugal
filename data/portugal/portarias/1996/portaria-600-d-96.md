@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 245/1996, 1º Suplemento, Série I-B de 1996-10-22
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3704-(4) a 3704-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/245b01/00040005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/600-d/1996/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-d-1996-566420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7055f8b6e8bdfb8917a48389639f3bcdbe7c098cb0dbbb8bff6f225def9e26dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b96d6f77844327cf6fd2aeabefcf71f8d8650a4e0c089acf6f1b2efc95a09752
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,30 @@ relationships:
   target: pt:dre:603973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673202:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa pela PORT.545-C/2002.2002.05.29.MADRP,\
+    \ DR.IS-B [124]Supl de 29/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-c-2002-673202
+  date: '2002-05-20'
+- type: amended_by
+  target: pt:dre:646700:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pela PORT.1307/2002.2002.09.30.MADRP, DR.IS-B [226]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1307-2002-646700
+  date: '2002-09-30'
+- type: amended_by
+  target: pt:dre:452901:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída no presente diploma, com a última renovação efectuada\
+    \ pela Port 1307/2002 de 30-Set, pela PORT.1133/2008.09.10.2008.MAOTDR, DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2008-452901
+  date: '2008-10-09'
+- type: amended_by
+  target: pt:dre:603973:por
+  label: "Substituída a planta anexa à Port 1133/2008, de 09-Out, que renovou a concessão da zona de caça atribuída pelo presente\
+    \ diploma, alterada pela Port 1307/2002, de 30-Set, pela PORT.394/2009.13.04.2009.MAOTDR, DR.IS [71] de 13.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2009-603973
+  date: '2009-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -85,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-cm/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-cm/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:38Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +193,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 18 de Outubro de 1996.**
+Assinada em 18 de Outubro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/245b01/00040005.pdf))](https://files.diariodarepublica.pt/1s/1996/10/245b01/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/245b01/00040005.pdf)

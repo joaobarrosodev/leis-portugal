@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 286/1996, 1º Suplemento, Série I-B de 1996-12-11
   number: '286'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4434-(2) a 4434-(693)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/732-a/1996/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1699f5d266124e140ee38ca272290c0f2cb47fc2295c0d6a754d0fd4c917faf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaad316b3d8a8f6069a51568f2ded32b09dc58ce5682f2ce22956e81e70d4369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Saúde Pública
-- União Europeia
-- Etiquetagem
+- Comércio
 - Embalagem
+- Etiquetagem
 - Notificação
+- Produto Químico
 - Proteção do Ambiente
 - Regulamento
-- Comércio
+- Saúde Pública
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:343084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445762:por
+  label: "Alterada a redacção dos arts. 18.º e 20.º e alterados os anexos I, III, V e VI do Regulamento, pelo DEC LEI.330-A/98.1998.04.30.MAM\
+    \ DR.IS-A [253]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-a-1998-445762
+  date: '1998-04-30'
+- type: amended_by
+  target: pt:dre:308517:por
+  label: "Alterados os Anexos I e VI do Regulamento aprovado pelo presente diploma (na redacção que lhe foi conderida pelo\
+    \ Dec Lei 330-A/98 de 02-Nov), pelo DEC LEI.209/99.1999.06.11.MAM, DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1999-308517
+  date: '1999-06-11'
+- type: amended_by
+  target: pt:dre:233961:por
+  label: "Alterados os anexos I e VI do Regulamento aprovado pelo presente diploma, na redacção do Dec-Lei 330-A/98 de 02-Nov\
+    \ DR.IS-A [253]Supl e do Dec-Lei 209/99 de 11-Jun DR.IS-A [134], pelo DEC LEI.195-A/2000.2000.08.22.MAOT,DR.IS-A [193]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-a-2000-233961
+  date: '2000-08-22'
+- type: amended_by
+  target: pt:dre:521646:por
+  label: "Alterado o art. 16.º e o Anexo IX do Regulamento aprovado pelo presente diploma, pelo DEC LEI.222/2001.2001.08.08.MAOT\
+    \ DR.IS-A [183]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2001-521646
+  date: '2001-08-08'
+- type: amended_by
+  target: pt:dre:448942:por
+  label: "Alterados os anexos I, III, IV, V, VI, VII-A e VIII do Regulamento, aprovado pelo presente diploma, com a redacção\
+    \ dada pelos Dec Lei 330-A/98 de 02-Nov, 209/99 de 11-Jun, 195-A/2000 de 22-Ago e 222/2001 de 08-Ago, pelo DEC LEI.154-A/2002.2002.06.11.MAOT\
+    \ DR.IS-A [133]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2002-448942
+  date: '2002-06-11'
+- type: amended_by
+  target: pt:dre:315883:por
+  label: "Alterados os anexos I e X do Regulamento, com a redacção conferida pelos Dec Lei 330-A/98 de 02-Nov, 209/99 de 11-Jun,\
+    \ 195-A/2000 de 22-Ago, 222/2001 de 08-Ago e 154-A/2002 de 11-Jun, pelo DEC LEI.72-M/2003.2003.04.14.MCOTA DR.IS-A [88]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-m-2003-315883
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:231297:por
+  label: "Alterados os anexos I e V do Regulamento para Notificação de Substâncias Químicas e para a Classificação, Embalagem\
+    \ e Rotulagem de Substâncias Perigosas, aprovado pelo presente diploma - com as alterações posteriormente introduzidas\
+    \ pelos Dec Lei 330-A/98 de 02-Nov, 209/99 de 11-Jun, 195-A/2000 de 22-Ago, 222/2001 de 08-Ago, 154-A/2002 de 11-Jun e\
+    \ 72-M/2003 de 14-Abr - pelo DEC LEI.27-A/2006.10.02.2006.MAOTDR, DR.IS-A [30-Supl] de 10.02.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-a-2006-231297
+  date: '2006-02-10'
 - type: cites
   target: celex:31990L0517
   label: null
@@ -128,16 +175,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/199
   label: null
   source: http://data.europa.eu/eli/dir/199
+- type: repealed_by
+  target: pt:dre:343084:por
+  label: "Revogada a presente portaria, na redacção dos Decretos Leis 330-A/98, de 02-Nov, 209/99, de 11-Jun, 195-A/2000,\
+    \ de 22-Ago, 222/2001, de 08-Ago, 154-A/2002, de 11-Jun, 72-M/2003, de 14-Abr e 27-A/2006, de 10-Fev., pelo DEC LEI.98/2010.11.08.2010.MAOT,\
+    \ DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:20Z'
   warnings: []
   errors: []
 ---
@@ -158,9 +212,9 @@ Manda o Governo, pelos Ministros da Economia, da Saúde e do Ambiente, que seja 
 
 Ministérios da Economia, da Saúde e do Ambiente.
 
-**Assinada em 28 de Agosto de 1996.**
+Assinada em 28 de Agosto de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 REGULAMENTO PARA A NOTIFICAÇÃO DE SUBSTÂNCIAS QUÍMICAS E PARA A CLASSIFICAÇÃO, EMBALAGEM E ROTULAGEM DE SUBSTÂNCIAS PERIGOSAS.
 
@@ -180,11 +234,11 @@ d) Anexo IV - Conselhos de prudência relativos às substâncias perigosas (fras
 
 e) Anexo V:
 
-# Parte A - Métodos para a determinação das propriedades físico-químicas;
+Parte A - Métodos para a determinação das propriedades físico-químicas;
 
-# Parte B - Métodos para a determinação da toxicidade;
+Parte B - Métodos para a determinação da toxicidade;
 
-# Parte C - Métodos para a determinação da ecotoxicidade;
+Parte C - Métodos para a determinação da ecotoxicidade;
 
 f) Anexo VI - Critérios gerais de classificação e de rotulagem das substâncias perigosas;
 
@@ -194,9 +248,9 @@ h) Anexo VIII - Informações e dados complementares à notificação;
 
 i) Anexo IX:
 
-# Parte A - Disposições relativas aos fechos de segurança para crianças;
+Parte A - Disposições relativas aos fechos de segurança para crianças;
 
-# Parte B - Disposições relativas aos dispositivos que permitem detectar os perigos pelo tacto;
+Parte B - Disposições relativas aos dispositivos que permitem detectar os perigos pelo tacto;
 
 j) Anexo X - Ficha de dados de segurança;
 
@@ -618,7 +672,7 @@ c) A obrigação de aposição do símbolo «E» torna facultativos os símbolos
 
 2 - As dimensões do rótulo devem respeitar os formatos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
 3 - Cada símbolo deve ocupar, pelo menos, um décimo da superfície do rótulo sem, no entanto, ser inferior a 1 cm2.
 
@@ -1002,7 +1056,7 @@ TABELA A
 
 Lista dos elementos químicos ordenados segundo o seu número atómico (Z)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
 TABELA B
 
@@ -1048,11 +1102,11 @@ Classificação especial para as substâncias orgânicas
 
 650 - Substâncias diversas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
 ## ANEXO II — SÍMBOLOS E INDICAÇÕES DE PERIGO DAS SUBSTÂNCIAS E PREPARAÇÕES PERIGOSAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
 ## ANEXO III — Natureza dos riscos específicos atribuídos às substâncias e preparações perigosas
 
@@ -1442,7 +1496,7 @@ S 47/49 Conservar unicamente no recipiente de origem a temperatura que não exce
 
 INTRODUÇÃO
 
-# PARTE A: MÉTODOS PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS
+PARTE A: MÉTODOS PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS
 
 A.1 Temperatura de fusão/congelação
 
@@ -1476,7 +1530,7 @@ A.16. Temperatura de auto-ignição relativa para os sólidos
 
 A.17. Propriedades oxidantes (sólidos)
 
-# PARTE B: MÉTODOS PARA A DETERMINAÇÃO DA TOXICIDADE
+PARTE B: MÉTODOS PARA A DETERMINAÇÃO DA TOXICIDADE
 
 Introdução geral
 
@@ -1510,7 +1564,7 @@ B.13. Mutagénese (Escherichia coli - teste de reversão)
 
 B.14. Mutagénese (Salmonella typhimurium - teste de reversão)
 
-# PARTE C: MÉTODOS PARA A DETERMINAÇÃO DA ECOTOXICIDADE
+PARTE C: MÉTODOS PARA A DETERMINAÇÃO DA ECOTOXICIDADE
 
 C.1. Toxicidade aguda para os peixes
 
@@ -1540,13 +1594,15 @@ C.6. Degradação: carência química do oxigénio
 
 C.7. Degradação: Degradação abiótica: hidrólise em função do pH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
 Do ANEXO VI ao ANEXO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b01/00020693.pdf)
 
-## ANEXO IX — PARTE A
+## ANEXO IX
+
+## PARTE A
 
 DISPOSIÇÕES RELATIVAS AOS FECHOS DE SEGURANÇA PARA CRIANÇAS
 
@@ -1568,7 +1624,7 @@ Em todos os outros casos e quando houver razões validamente justificadas para d
 
 - que o fecho em questão, quando submetido aos ensaios previstos pela norma ISO mencionada acima, é conforme às prescrições impostas.
 
-# PARTE B — DISPOSIÇÕES RELATIVAS AOS DISPOSITIVOS QUE PERMITEM DETECTAR OS PERIGOS PELO TACTO
+## PARTE B — DISPOSIÇÕES RELATIVAS AOS DISPOSITIVOS QUE PERMITEM DETECTAR OS PERIGOS PELO TACTO
 
 As prescrições técnicas relativas aos dispositivos que permitem detectar os perigos pelo tacto devem ser conformes à norma EN 272 (edição de 20 de Agosto de 1989), relativa a indicações de perigo detectáveis ao tacto.
 
@@ -1886,7 +1942,7 @@ Exposição humana
 
 3. Homem exposto indirectamente através do ambiente
 
-# PARTE B — 1. Identificação dos perigos
+## PARTE B — 1. Identificação dos perigos
 
 1.1. Se o ensaio apropriado para a identificação de perigo associado a um determinado efeito potencial tiver sido efectuado sem que os resultados tenham conduzido a uma classificação [alínea i) do n.º 3 do artigo 25.º do presente Regulamento], não será necessário proceder à caracterização de risco associado a esse efeito, salvo se existirem outros motivos razoáveis de preocupação, por exemplo, resultados positivos em testes de mutagenicidade in vitro.
 
@@ -1954,7 +2010,7 @@ II
 
 AVALIAÇÃO DE RISCO: SAÚDE HUMANA (PROPRIEDADES FÍSICO-QUÍMICAS)
 
-# PARTE A
+## PARTE A
 
 A avaliação de risco efectuada em conformidade com o artigo 25.º do presente Regulamento deve ter em conta os potenciais efeitos adversos que poderão ocorrer nas seguintes populações humanas, eventualmente sujeitas a exposição a substâncias com as propriedades que a seguir se indicam:
 
@@ -1974,7 +2030,7 @@ Exposição humana
 
 3. Homem exposto indirectamente através do ambiente
 
-# PARTE B — 1. Identificação do perigo
+## PARTE B — 1. Identificação do perigo
 
 1.1. Se o ensaio apropriado para a identificação de perigo associado a uma propriedade específica tiver sido efectuado sem que os resultados tenham conduzido a uma classificação [alínea i) do n.º 3 do artigo 25.º do presente Regulamento], não será necessário proceder à caracterização de risco associado a essa propriedade, salvo se existirem outros motivos razoáveis de preocupação.
 

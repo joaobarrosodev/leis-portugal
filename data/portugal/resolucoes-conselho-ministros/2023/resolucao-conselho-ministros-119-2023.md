@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19500/0001100023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/119/2023/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2023-222547759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d62cf00c61277557e66a9b4d0eb7a78b7288a591d4c708460335317b24ec0731
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c183d6ce711a8e9acc66bb04fd40202f5be19a3dcccdce557ee98ed274e8a06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
+- BENS Imóveis do Estado
 - Conselho de Ministros
-- Obras de Conservação e Restauro
 - Delegação de Competências
 - Despesas Públicas
+- Direcção Geral da Administração da Justiça
+- Direcção Geral de Reinserção e Serviços Prisionais
 - Empreitada de Obras Públicas
-- BENS Imóveis do Estado
-- Gestão Orçamental
-- Ministro da Justiça
-- Ministério da Justiça
 - Estabelecimento Prisional
+- Fundo Ambiental
+- Fundo de Reabilitação e Conservação Patrimonial
+- Gestão Orçamental
+- Governo XXIII
 - Instituto de Gestão Financeira e Equipamentos da Justiça
 - Instituto Nacional de Medicina Legal e Ciências Forenses
-- Direcção Geral de Reinserção e Serviços Prisionais
-- Fundo de Reabilitação e Conservação Patrimonial
-- Direcção Geral da Administração da Justiça
-- Polícia Judiciária
-- Fundo Ambiental
+- Ministério da Justiça
+- Ministro da Justiça
+- Obras de Conservação e Restauro
 - Plano de Recuperação e Resiliência
-- Governo XXIII
+- Polícia Judiciária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt
@@ -128,16 +128,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/58/2023/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/58/2023/06/14/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204072610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210518830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214278015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:53Z'
   warnings: []
   errors: []
 ---
@@ -236,11 +280,11 @@ Presidência do Conselho de Ministros, 21 de setembro de 2023. - O Primeiro-Mini
 
 Estimativa orçamental e escalonamento plurianual - Instalações afetas a tribunais e a outros serviços da justiça, sob a responsabilidade do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.
 
-|  |  |  |  |  |  |  |  |
+| Unidade: EUR |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR |
-| Comarca | Projetos | Anos | Anos | Anos | Anos | Anos | Total |
-| Comarca | Projetos | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Comarca | Projetos | Anos | Total |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |  |
+|  |  |  |  |  |  |  |  |
 | Açores... | Palácio da Justiça Angra do Heroísmo... | 214 716 | 410 000 | 740 451 | 450 000 |  | 1 815 167 |
 |  | Palácio da Justiça Horta... |  |  |  |  |  |  |
 |  | Palácio da Justiça Ponta Delgada... |  |  |  |  |  |  |
@@ -322,11 +366,11 @@ Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa
 
 Estimativa orçamental e escalonamento plurianual - Instalações afetas à Polícia Judiciária
 
-|  |  |  |  |  |  |  |  |
+| Unidade: EUR |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR |
-| Área geográfica de intervenção | Projetos | Anos | Anos | Anos | Anos | Anos | Total |
-| Área geográfica de intervenção | Projetos | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Área geográfica de intervenção | Projetos | Anos | Total |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |  |
+|  |  |  |  |  |  |  |  |
 | Centro... | Departamento Investigação Criminal de Aveiro... | 1 081 719 |  | 1 422 765 | 1 829 268 | 1 626 016 | 5 959 768 |
 |  | Departamento Investigação Criminal de Leiria... |  |  |  |  |  |  |
 |  | Diretoria do Centro (Coimbra)... |  |  |  |  |  |  |
@@ -346,11 +390,11 @@ Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa
 
 Estimativa orçamental e escalonamento plurianual - Instalação do Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.
 
-|  |  |  |  |  |  |  |
+| Unidade: EUR |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR |
-| Projetos | Anos | Anos | Anos | Anos | Anos | Total |
-| Projetos | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Projetos | Anos | Total |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |
+|  |  |  |  |  |  |  |
 | Delegação do Norte (Porto)... |  | 220 000 | 2 600 000 | 6 800 000 | 7 805 000 | 17 425 000 |
 | Total... |  | 220 000 | 2 600 000 | 6 800 000 | 7 805 000 | 17 425 000 |
 
@@ -360,11 +404,11 @@ Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa
 
 Estimativa orçamental e escalonamento plurianual - Instalações afetas à Direção-Geral de Reinserção e Serviços Prisionais
 
-|  |  |  |  |  |  |  |  |  |
+| Unidade: EUR |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR | Unidade: EUR |
-| Projetos | Projetos | Entidade responsável | Anos | Anos | Anos | Anos | Anos | Total |
-| Projetos | Projetos | Entidade responsável | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Projetos | Entidade responsável | Anos | Total |  |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 | Estabelecimentos Prisionais... | Estabelecimento Prisional de São José do Campo, Viseu. | Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.) | 406 504 | 1 665 596 | 11 546 327 | 6 758 623 | 0 | 22 653 617 |
 |  | Estabelecimento Prisional de São Miguel, Lagoa - Açores. | Direção-Geral de Reinserção e Serviços Prisionais (DGRSP). | 463 415 | 0 | 1 813 152 | 0 | 0 |  |
 |  | Estabelecimento Prisional de Leiria - Jovens. |  |  |  |  |  |  |  |
@@ -390,11 +434,11 @@ Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa
 
 Estimativa orçamental e escalonamento plurianual - Aquisição de veículos especiais de segurança prisional e aluguer operacional de veículos de serviços gerais - Direção-Geral de Reinserção e Serviços Prisionais
 
-|  |  |  |  |  |  |  |  |
+|  |  |  | Unidade: EUR |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  | Unidade: EUR |
-| Projetos | Entidade responsável | Anos | Anos | Anos | Anos | Anos | Total |
-| Projetos | Entidade responsável | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Projetos | Entidade responsável | Anos | Total |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |  |
+|  |  |  |  |  |  |  |  |
 | Aquisição de veículos especiais de segurança prisional. | Direção-Geral de Reinserção e Serviços Prisionais (DGRSP). |  | 2 023 600 | 2 030 000 | 2 030 000 | 2 030 000 | 8 113 600 |
 | Aluguer operacional de veículos de serviços gerais. | DGRSP... |  | 586 200 | 586 200 | 586 200 | 586 200 | 2 344 800 |
 | Total geral... |  |  | 2 609 800 | 2 616 200 | 2 616 200 | 2 616 200 | 10 458 400 |
@@ -405,13 +449,15 @@ Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa
 
 Estimativa orçamental e escalonamento plurianual - Aquisição de equipamentos básicos e administrativos - Direção-Geral de Reinserção e Serviços Prisionais
 
-|  |  |  |  |  |  |  |  |
+|  |  |  | Unidade: EUR |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  | Unidade: EUR |
-| Projetos | Entidade responsável | Anos | Anos | Anos | Anos | Anos | Total |
-| Projetos | Entidade responsável | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| Projetos | Entidade responsável | Anos | Total |  |  |  |  |
+| 2023 | 2024 | 2025 | 2026 | 2027 |  |  |  |
+|  |  |  |  |  |  |  |  |
 | Equipamentos básicos... | Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. |  |  | 220 000 | 445 000 | 445 000 | 1 110 000 |
 | Equipamentos básicos e administrativos | Direção-Geral de Reinserção e Serviços Prisionais. | 671 752 |  | 2 043 259 | 1 016 537 | 1 016 537 | 4 748 085 |
 | Total geral... |  | 671 752 |  | 2 263 259 | 1 461 537 | 1 461 537 | 5 858 085 |
 
 Nota. - Aos valores indicados acresce o imposto sobre valor acrescentado à taxa legal em vigor.
+
+116913168

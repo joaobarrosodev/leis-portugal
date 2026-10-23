@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/2016, 2º Suplemento, Série I de 2016-12-30
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5158-(111) a 5158-(112)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/25002/0011100112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84-i/2016/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-i-2016-105657338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 357571f89d64306dc85954610780a35899db1b532a72fa5abaaff42a9101b950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea5a0b3b4b7b04caa518fde0d5c62ec67d2a1ada5776c038b6bcff48a81c3659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,16 @@ subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Assistência Médica
 - Autorização de Despesas
-- Ministro da Saúde
-- SIDA
+- Cascais
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Estabelecimento Hospitalar
+- Governo XXI
+- Ministro da Saúde
 - Parceria Público-Privada
 - Regime Ambulatório
-- Estabelecimento Hospitalar
-- Cascais
-- Governo XXI
+- SIDA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2015/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2015/08/19/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:40Z'
   warnings: []
   errors: []
 ---

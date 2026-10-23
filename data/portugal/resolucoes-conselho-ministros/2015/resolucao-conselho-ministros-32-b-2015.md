@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 99/2015, 1º Suplemento, Série I de 2015-05-22
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3086-(2) a 3086-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32-b/2015/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-b-2015-67288091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 814523271c4cb756f25a99a3b820806a80188a5c04b4c1f060f1ef0d92c8a220
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a867191c4b51a205741efefa3ed83a16e64098a2788f721efb0da0f4af9cb58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação por Concurso Público
-- Telefone
-- Serviço Universal de Telecomunicações
-- Lista Telefónica
-- Sistema de Informação
 - Comunicações
+- Lista Telefónica
+- Serviço Universal de Telecomunicações
+- Sistema de Informação
+- Telefone
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/2013/01/28/p/dre
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:44Z'
   warnings: []
   errors: []
 ---

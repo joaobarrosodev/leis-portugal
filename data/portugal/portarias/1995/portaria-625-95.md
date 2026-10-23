@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/625/1995/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-1995-515984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a704d4dbaa883d84de467467fdaf6d5863eddc76ab2b2fede522612d0da533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5afc6fa091428cb0fdc4a586c8f4aa4a6844b7f8c3adf8f9c6795945843e946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
 subjects:
 - Comissão de Protecção de Menores
 - Gouveia
-- Tutela de Menores
 - Proteção à Infância
 - Protecção à Juventude
+- Tutela de Menores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:08Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +143,6 @@ j) Um representante das associações de pais.
 
 Ministério da Justiça.
 
-**Assinada em 29 de Maio de 1995.**
+Assinada em 29 de Maio de 1995.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

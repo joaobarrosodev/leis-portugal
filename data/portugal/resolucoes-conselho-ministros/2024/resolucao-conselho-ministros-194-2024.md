@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/194/2024/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/194-2024-901147126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 885753f9ba9e8be30904eca28042473a0bb96ef2a652d113f6bccb87d6c2cf3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0403a6b916130810eb8ac388e9ffbc59bb1548e66e8e89429d7c371664533dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
-- Crime
-- Direitos do Homem
-- Comissão Técnica de Acompanhamento
 - Combate ao Crime
-- Definição de Competências
-- Plano Nacional contra o Tráfico de Seres Humanos
 - Comissão para a Cidadania e a Igualdade de Género
-- Tráfico de Pessoas
+- Comissão Técnica de Acompanhamento
+- Crime
+- Definição de Competências
+- Direitos do Homem
 - Escravatura
 - Observatório do Tráfico de Seres Humanos
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Protecção à Vítima
+- Tráfico de Pessoas
 - Vítima
 relationships:
 - type: cites
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:54Z'
   warnings: []
   errors: []
 ---
@@ -318,118 +318,2149 @@ Tendo em consideração tudo quanto antecede, o V PAPCTSH 2025-2027 é estrutura
 
 3.1 - Reforçar a cooperação entre as várias entidades envolvidas, ao nível interno e externo.
 
-| Cod. | Compromissos estratégicos | Cod. | Compromissos operacionais | Cod. | Responsabilidades operacionais | Cod. | Medição do desempenho das Medidas |  | Nível político | Nível institucional | Stakeholders | Instrumentos estratégicos ao nível da programação e orçamentação |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Objetivos estratégicos | Objetivos estratégicos | Objetivo específicos | Objetivo específicos | Medidas | Medidas | Indicadores de produto (Medidas) | Indicadores de produto (Medidas) | Metas | Metas | Metas | Intervenientes nas ações | Intervenientes nas ações | Intervenientes nas ações | Alinhamento estratégico |
-| Objetivos estratégicos | Objetivos estratégicos | Objetivo específicos | Objetivo específicos | Medidas | Medidas | Indicadores de produto (Medidas) | Indicadores de produto (Medidas) | 2025 | 2026 | 2027 | Área governativa | Entidade coordenadora | Entidades envolvidas | Alinhamento estratégico |
-| OE1 | Consolidar e reforçar o conhecimento e informar e sensibilizar sobre a temática do tráfico de seres humanos | 11 | Reforçar a produção técnica e científica sobre as diferentes realidades do tráfico de seres humanos (TSH) existentes em Portugal e garantir informação desagregada em variáveis como sexo e idade, incluindo dados estatísticos e informação qualitativa | 111 | Formação dos stakeholders do Sistema de Monitorização | R1 | N.º de ações de formação | 4 |  |  | Administração Interna | Ministério da Administração Interna (MAI)/Observatório do Tráfico de Seres Humanos (OTSH) | Entidades fornecedoras de dados |  |
-|  |  |  |  | 112 | Alteração legislativa no sentido de tornar obrigatória a comunicação ao Observatório do Tráfico de Seres Humanos das decisões judiciais relativas a processos-crime por Tráfico de Pessoas | R2 | Proposta de alteração legislativa apresentada | 1 |  |  | Administração Interna | MAI/OTSH | Conselho Superior da Magistratura (CSM) |  |
-|  |  |  |  | 113 | Monitorização da atribuição do estatuto de vítima especialmente vulnerável (Tráfico de Seres Humanos) | R3 | N.º de infográficos de monitorização da atribuição do estatuto de vítima especialmente vulnerável (Tráfico de Seres Humanos)/Infográfico do perfil das vítimas de TSH que requerem estatuto de vítima especialmente vulnerável | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Autoridades judiciárias; órgãos de polícia criminal (OPC) |  |
-|  |  |  |  | 114 | Produção de informação de fontes abertas | R4 | N.º de Relatório e estudos produzidos | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Rede de Apoio e Proteção a Vítimas de Tráfico (RAPVT) |  |
-|  |  |  |  | 115 | Monitorização e elaboração de relatórios informativos sobre TSH | R5 | Elaboração do capítulo «Tráfico de Seres Humanos» submetido do Relatório Anual de Segurança Interna | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Entidades fornecedoras de dados |  |
-|  |  |  |  |  |  | R6 | N.º de relatórios estatísticos anuais sobre TSH | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Entidades fornecedoras de dados |  |
-|  |  |  |  |  |  | R7 | N.º de infográficos publicados | 1 | 1 | 1 | Administração Interna | MAI/OTSH | MAI/OTSH |  |
-|  |  |  |  |  |  | R8 | N.º de relatórios trimestrais sobre TSH | 3 | 3 | 3 | Administração Interna | MAI/OTSH | Entidades fornecedoras de dados |  |
-|  |  |  |  |  |  | R9 | N.º de boletins de estatísticas TSH - Atualização Vítimas Confirmadas | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Entidades fornecedoras de dados |  |
-|  |  |  |  |  |  | R10 | N.º de boletins temáticos | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Entidades fornecedoras de dados |  |
-|  |  |  |  |  |  | R11 | N.º de boletins de estatísticas da justiça | 1 | 1 | 1 | JustiçaAdministração Interna | MAI/OTSH | Direção-Geral da Política de Justiça (DGPJ) |  |
-|  |  |  |  |  |  | R12 | N.º de encontros do Grupo de Reflexão Alargado sobre «Estatísticas TSH» | 2 | 2 | 2 | Administração Interna | MAI/OTSH | GNR, PSP, Agência para a Integração, Migrações e Asilo (AIMA), PJ, RAPVT, DGPJ |  |
-|  |  |  |  |  |  | R13 | Recolha de dados de (presumíveis) vítimas de nacionalidade portuguesa exploradas em outros países da União Europeia (via Rede Informal de Relatores Nacionais e Mecanismos Equivalentes/Comissão Europeia), e em outros países da Europa e produção de relatório | 1 | 1 | 1 | Administração Interna | MAI/OTSH | Relator nacional |  |
-|  |  |  |  |  |  | R14 | N.º Relatório da monitorização sistemática de anúncios em jornais e na Internet produzido | 1 | 1 | 1 | Justiça | PJ | RAPVT |  |
-|  |  |  |  | 116 | Incrementar a utilização nos serviços de saúde do Registo Clínico de Violência em Adultos (RCVA) e da Avaliação do Risco Familiar (ARF) para recolha de informação, tratamento estatístico e monitorização sobre tráfico de seres humanos | R15 | N.º de ações de capacitação para a divulgação do sistema de registo | 2 | 2 | 2 | Saúde | Direção Executiva do SNSDireção-Geral da Saúde (DGS) | Direção-Geral da Saúde(DGS) |  |
-|  |  |  |  |  |  | R16 | Relatório anual de monitorização das atividades dinamizadas pelas Equipas de Prevenção da Violência em Adultos (EPVA) - Ação de Saúde sobre Género, Violência e Ciclo de Vida (ASGVCV) produzido | 1 | 1 | 1 | Saúde | Direção Executiva do SNSDGS | DGS |  |
-|  |  |  |  | 117 | Elaboração de estudos em áreas relacionadas com o TSH | R17 | N.º de estudos apresentados | 1 | 1 |  | Juventude e ModernizaçãoAdministração InternaDefesa Nacional | Comissão para a Cidadania e Igualdade de Género (CIG)MAI/OTSH | Polícia Judiciária Militar (PJM) e Polícia Marítima (PM)MAI/OTSH, GNR, PSP, AIMA, PJPGR, Centro Nacional de Cibersegurança (CNCS) | PDQI |
-|  |  |  |  |  |  | R18 | N.º de seminários de apresentação dos resultados dos estudos produzidos | 1 | 1 |  | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVT | PDQI |
-|  |  |  |  | 118 | Atualização do manual «Tráfico de Seres Humanos: Coletânea Selecionada de Instrumentos Jurídicos, Políticos e Jurisprudência em Portugal, na Europa e no Mundo» | R19 | Edição atualizada do Manual |  |  | 1 | Administração Interna | MAI/OTSH | PGRCentro de Estudos Judiciários (CEJ) | OE |
-|  |  | 12 | Informar e sensibilizar sobre a temática do TSH para públicos diversos e de disseminação ampla | 119 | Prevenção e sensibilização para o TSH, promovendo-se, para o efeito, o apoio a atividades de natureza artística e cultural | R20 | N.º de projetos apoiados financeiramente |  | 4 |  | Cultura | MC | DGARTES | OE |
-|  |  |  |  | 120 | Realização de ações de formação e sensibilização sobre TSH | R21 | N.º de edições do Seminário sobre Tráfico de Seres Humanos | 1 | 1 | 1 | Juventude e Modernização | CIG | MAI/OTSH | PDQI |
-|  |  |  |  |  |  | R22 | N.º de ações de formação e sensibilização junto de trabalhadores/as vulneráveis e potenciais vítimas no âmbito da deteção e combate ao trabalho não declarado e fenómenos conexos | 2 | 2 | 2 | Trabalho, Solidariedade e Segurança Social | Autoridade para as Condições do Trabalho (ACT) | ACT |  |
-|  |  |  |  |  |  | R23 | N.º de ações de formação sobre formas de identificar, analisar e fornecer assistência e apoio às pessoas migrantes, nomeadamente trabalhadores/as migrantes, em situação de vulnerabilidade à violência, exploração e abuso | 3 | 3 | 3 | Juventude e ModernizaçãoAdministração Interna | MAI/OTSH | RAPVT, Redes Regionais de Apoio a Vítimas de Tráfico de Seres Humanos, autarquias | PDQI e PRAlgarve2030 |
-|  |  |  |  |  |  | R24 | N.º de trabalhadores/as migrantes, em situação de vulnerabilidade à violência, exploração e abuso, abrangidos pelas ações de formação e sensibilização | 60(20 × 3) | 60(20 × 3) | 60(20 × 3) | Juventude e ModernizaçãoAdministração Interna | MAI/OTSH | RAPVTRedes Regionais de Apoio a Vítimas de Tráfico de Seres HumanosAutarquias | PDQI e PRAlgarve2030 |
-|  |  |  |  |  |  | R25 | N.º de ações de formação e sensibilização promovidas pela Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens (CNPDPCJ) junto de profissionais que integram as Comissões de Proteção de Crianças e Jovens (CPCJ) | 3 | 4 | 5 | Trabalho, Solidariedade e Segurança Social | CNPDPCJ | CIGMAI/OTSH |  |
-|  |  |  |  |  |  | R26 | % de CPCJ formadas e sensibilizadas sobre TSH | 25 | 50 | 75 | Trabalho, Solidariedade e Segurança Social | CNPDPCJ | CIGMAI/OTSH |  |
-|  |  |  |  |  |  | R27 | N.º de campanhas realizadas | 1 | 1 | 1 | Juventude e Modernização | CIG | RAPVT | PDQI |
-|  |  |  |  |  |  | R28 | N.º de ações de sensibilização a profissionais da área do desporto para a prevenção e sinalização de situações de tráfico de seres humanos | 1 | 1 | 1 | Juventude e ModernizaçãoAssuntos ParlamentaresAdministração Interna | CIG/MAI/OTSH/Instituto Português do Desporto e Juventude (IPDJ) | RAPVTRedes Regionais de Apoio a Vítimas de Tráfico de Seres Humanos |  |
-|  |  |  |  |  |  | R29 | N.º de ações de sensibilização sobre TSH dirigidas à comunicação social | 1 | 1 | 1 | Juventude e Modernização | CENJOR | CIGMAI/OTSHRAPVT |  |
-|  |  |  |  | 121 | Promoção da temática do TSH na Estratégia Nacional de Educação para a Cidadania (ENEC) e sua inclusão no programa curricular de algumas licenciaturas/mestrados/doutoramentos (especialmente Psicologia, Serviço Social, Educação Social, Criminologia, Direito, Enfermagem e Medicina) | R30 | N.º de docentes formados/as no âmbito da ENEC | 45 | 60 | 75 | Educação | Direção-Geral da Educação (DGE) | Ministério da Educação (MEdu)CIGCentros de formação de associação de escolas (CFAE)Instituições de Ensino Superior (IES)/Centros de Investigação (CInv)Associações de Professores | ENEC |
-|  |  |  |  |  |  | R31 | N.º de ações de formação para pessoal não docente | 6 | 6 | 6 | Educação | Direção-Geral da Administração Escolar (DGAE) | MEdu/DGAECIG | ENEC |
-|  |  |  |  |  |  | R32 | N.º de workshops realizados para monitores/as dos centros de inclusão digital sobre novas formas de recrutamento através das TIC realizados | 2 | 2 | 2 | Educação | DGE | AIMA |  |
-|  |  |  |  |  |  | R33 | % de centros de inclusão digital abrangidos pelos workshops |  |  |  | Educação | Direção-Geral do Ensino Superior (DGES) | CIG |  |
-|  |  |  |  |  |  | R34 | N.º de universidades com protocolo celebrado com vista à inclusão da temática TSH nos programas curriculares |  |  |  | Educação | DGES |  |  |
-|  |  |  |  | 122 | Elaboração de material informativo sobre TSH em linguagem acessível, ou seja, compreendida por qualquer pessoa, independentemente do seu perfil, formação ou competências | R35 | Materiais informativos sobre TSH produzidos com linguagem acessível |  | 1 |  | Trabalho, Solidariedade e Segurança Social | Instituto Nacional para a Reabilitação (INR) | CIG | PDQI |
-|  |  |  |  | 123 | Realização de Seminário sobre Segurança Humana - fragilidade, migrações, refugiados e deslocados com o tema transversal do tráfico de seres humanos | R36 | N.º de edições do Seminário sobre Segurança Humana - fragilidade, migrações, refugiados e deslocados com o tema transversal do tráfico de seres humanos realizados | 1 | 1 |  | Defesa Nacional | IDN |  | OE |
-|  |  |  |  |  |  | R37 | N.º de participações, desagregada por sexo | 20 | 20 |  | Defesa Nacional | IDN |  |  |
-|  |  |  |  | 124 | Realização de painéis cruzados com eventos sobre segurança, defesa e alterações climáticas como vetores indutores dos movimentos de comunidades e pessoas | R38 | N.º de painéis realizados | 1 | 1 |  | Defesa Nacional | IDN |  | OE |
-|  |  |  |  | 125 | Incluir a temática do TSH em conferências que tratam o tema da segurança humana, implementação da RCSNU 1325, «Mulheres, Segurança e Desenvolvimento», organizações internacionais, alterações climáticas e defesa, ODS 2030 | R39 | N.º de conferências | 1 | 1 |  | Defesa Nacional | IDN | Universidades e outros |  |
-| OE 2 | Assegurar às vítimas de tráfico um melhor acesso aos seus direitos, consolidar, reforçar e qualificar a intervenção | 21 | Garantir a proteção e promover a autonomização das vítimas | 211 | Reforço do financiamento para o aumento de vagas nos CAP, nas respostas existentes ao nível das EME e nas estruturas de autonomização | R40 | N.º de novos acordos celebrados |  | 1 |  | Juventude e Modernização | CIG |  | Área da igualdade PDQI e jogos sociais LOE |
-|  |  |  |  |  |  | R41 | N.º de vagas criadas |  | 12 |  | Juventude e Modernização | CIG |  | Área da igualdade PDQI e jogos sociais LOE |
-|  |  |  |  |  |  | R42 | N.º de novas estruturas de autonomização criadas |  | 2 | 2 | Juventude e Modernização | CIG |  | Área da igualdade PDQI e jogos sociais LOE |
-|  |  |  |  |  |  | R43 | N.º de resposta de CAP para famílias criadas |  | 1 |  | Juventude e Modernização | CIG |  | PDQI e jogos sociais LOE |
-|  |  |  |  | 212 | Revisão do quadro legal e administrativo aplicável às vítimas do crime de tráfico de seres humanos | R44 | Proposta de revisão do instrumento orientador criado para efeitos do procedimento a adotar no âmbito do Decreto-Lei n.º 368/2007, de 5 de novembro (regime especial de concessão de autorização de residência a vítimas de tráfico) | 1 |  |  | Presidência | MJM | AIMACIG |  |
-|  |  |  |  |  |  | R45 | Atribuição de uma autorização de residência após a atribuição do estatuto de vítima do crime de tráfico de seres humanos | 1 |  |  | Presidência | AIMA | CIG |  |
-|  |  |  |  |  |  | R46 | Revisão dos critérios de elegibilidade para assistência judiciária, para todas as vítimas, incluindo os nacionais de países terceiros | 1 |  |  | Justiça | MJM | ISSOrdem dos Advogados (OA) |  |
-|  |  |  |  |  |  | R47 | Revisão do regime de concessão de indemnização às vítimas de crimes violentos e de violência doméstica, por forma a integrar as vítimas do crime de tráfico de seres humanos | 1 |  |  | Justiça | MJM |  |  |
-|  |  |  |  |  |  | R48 | Proposta de acesso a número de utente de saúde «na hora» de forma direta para vítimas do crime de tráfico de seres humanos, mesmo que indocumentadas | 1 |  |  | Saúde | Saúde | DGS |  |
-|  |  |  |  |  |  | R49 | Revisão dos procedimentos de atribuição de NIF e de NISS a vítimas do crime de tráfico de seres humanos, com vista à sua simplificação |  |  |  | FinançasTrabalho, Solidariedade e Segurança Social |  | Autoridade Tributária e Aduaneira (AT)ISS |  |
-|  |  |  |  |  |  | R50 | Atribuição de número de utente a todos os recém-nascidos antes da saída da maternidade: procedimento extraordinário que, no superior interesse da criança, assegure que nenhum recém-nascido tenha alta hospitalar sem registo no RNU e sem atribuição de número de utente | 1 |  |  | Saúde | Saúde | CIG |  |
-|  |  |  |  |  |  | R51 | Proposta de acesso prioritário nas respostas de habitação social para pessoas vítimas do crime de tráfico de seres humanos | 1 |  |  | Infraestruturas | IHRU | IHRU |  |
-|  |  |  |  |  |  | R52 | Proposta de alteração dos programas de apoios à contratação, no sentido de contemplar o acesso das vítimas de tráfico de seres humanos | 1 |  |  | Trabalho, Solidariedade e Segurança Social | IEFP | RAPVT |  |
-|  |  |  |  |  |  | R53 | Orientação técnica sobre formas de reserva da informação e não-rastreabilidade das vítimas dentro do SNS | 1 |  |  | Saúde | MS | CIGDGSServiços Partilhados do Ministério da Saúde (SPMS) |  |
-|  |  |  |  |  |  | R54 | Criação de um grupo de trabalho para identificação das questões que devem ser refletidas no regime jurídico aplicável à proteção e à assistência das vítimas do crime de tráfico de seres humanos (a ser elaborado) | 1 |  |  | Juventude e Modernização | Juventude e Modernização | CIGMAI/OTSHRAPVT |  |
-|  |  |  |  |  |  | R55 | Aprovação do regime jurídico aplicável à proteção e à assistência das vítimas do crime de tráfico de seres humanos | 1 |  |  | Juventude e Modernização | Juventude e Modernização | CIGMAI/OTSHRAPVT |  |
-|  |  |  |  | 213 | Desenvolvimento de medidas de autonomização para vítimas de TSH | R56 | % de vítimas de TSH com apresentação a ofertas de emprego | 50 % | 55 % | 60 % | Trabalho, Solidariedade e Segurança Social | IEFP | IEFP |  |
-|  |  |  |  |  |  | R57 | N.º de medidas de discriminação positiva implementadas no âmbito do acesso à formação profissional | 2 |  |  | Trabalho, Solidariedade e Segurança Social | IEFP | IEFPCIG |  |
-|  |  |  |  |  |  | R58 | N.º de medidas de discriminação positiva implementadas no âmbito do acesso aos apoios à contratação | 2 |  |  | Trabalho, Solidariedade e Segurança Social | IEFP | IEFPCIG |  |
-|  |  |  |  | 214 | Reforço da rede regional de Pontos Focais nas respostas de saúde | R59 | % do território nacional com reforço da afetação dos Pontos Focais nas respostas de saúde |  |  | 100 % | Saúde | Direção executiva do SNSDGS | Direção executiva do SNSDGS |  |
-|  |  |  |  | 215 | Nomeação distrital de Pontos Focais nas respostas da segurança social | R60 | % do território nacional coberto com Pontos Focais nas respostas da segurança social | 100 % | 100 % | 100 % | Trabalho, Solidariedade e Segurança Social | Instituto da Segurança Social, I. P. (ISS, I. P.) | ISS, I. P. |  |
-|  |  |  |  | 216 | Transposição da Diretiva (UE) 2024/1712 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, que altera a Diretiva 2011/36/EU | R61 | Conclusão do procedimento legislativo |  | 1 |  | Justiça | Justiça | Justiça |  |
-|  |  |  |  | 217 | Garantir o acesso das vítimas de tráfico de seres humanos ao Português Língua de Acolhimento (PLA) independentemente do estatuto em território nacional, considerando a atribuição do estatuto de vítima especialmente vulnerável | R62 | % de vítimas de TSH integradas no Português Língua de Acolhimento (PLA) comparativamente ao número das propostas |  |  |  | Presidência | AIMA | AIMA | PDQI e FAMI |
-|  |  | 22 | Consolidar, reforçar e qualificar a intervenção no âmbito da RAPVT | 218 | Revisão dos indicadores de apoio à sinalização constantes do Sistema de Referenciação Nacional de vítimas de tráfico de seres humanos - Orientações para a sinalização de vítimas de tráfico de seres humanos em Portugal | R63 | Revisão dos indicadores por elemento constitutivo do crime e por fins da exploração | 1 |  |  | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVT |  |
-|  |  |  |  |  |  | R64 | N.º de ações de formação | 1 | 1 | 1 | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVT |  |
-|  |  |  |  |  |  | R65 | N.º de participantes integrados na formação | 20 × 6(120) | 20 × 6(120) | 20 × 6(120) | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVT |  |
-|  |  |  |  | 219 | Formação sobre o Sistema de Referenciação de crianças (presumíveis) vítimas de tráfico de seres humanos | R66 | N.º de ações de formação | 2 | 2 | 2 | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVTOPCPolícia Marítima | OE/Área da igualdade PDQI e jogos sociais |
-|  |  |  |  |  |  | R67 | N.º de participantes integrados na formação do Sistema de Referenciação de crianças (presumíveis) vítimas de tráfico de seres humanos | 20 × 2(40) | 20 × 2(40) | 20 × 2(40) | Juventude e ModernizaçãoAdministração Interna | CIGMAI/OTSH | RAPVTOPC | PDQI |
-|  |  |  |  | 220 | Formação sobre exploração sexual direcionada a profissionais da área do combate, da assistência e a mediadores/as | R68 | N.º de ações de formação |  | 3 | 3 | Administração Interna | MAI/OTSH | RAPVT |  |
-|  |  |  |  |  |  | R69 | N.º de participantes integrados na formação |  | 10 × 3(30) | 10 × 3(30) | Administração Interna | MAI/OTSH | RAPVT |  |
-|  |  |  |  | 221 | Capacitação de públicos estratégicos, nomeadamente para: magistrados/as, forças e serviços de segurança e OPC da defesa nacional, inspetores/as do trabalho, profissionais de saúde no âmbito do ASGVCV, profissionais dos serviços de atendimento e acompanhamento social, mediadores/as nos Centros Nacionais de Apoio à Integração de Migrantes (CNAIM) e Centros Locais de Apoio à Integração de Migrantes (CLAIM) e nas associações de migrantes, pontos de contacto nas embaixadas e postos consulares e profissionais das organizações da sociedade civil | R70 | N.º de ações de formação | 1 | 1 | 1 | Juventude e Modernização | MAI/OTSH CIG | CIGMAI/OTSHRAPVT | PDQI |
-|  |  |  |  |  |  | R71 | N.º de participantes | 50 | 50 | 50 | Juventude e Modernização | CIG | CIGMAI/OTSHRAPVT | PDQI |
-|  |  |  |  | 222 | Programa de Capacitação em Direitos Humanos para a Administração Pública | R72 | N.º de ações de formação | 2 | 2 | 2 | Presidência | Instituto Nacional de Administração (INA, I. P.) | INA, I. P. | PNMHENINDPNIPGM |
-|  |  |  |  |  |  | R73 | N.º de participantes | 113 | 120 | 120 | Presidência | INA, I. P. | INA, I. P. | PNMHENINDPNIPGM |
-|  |  |  |  |  |  | R74 | N.º de áreas governativas envolvidas | 11 | 11 | 11 | Presidência | INA, I. P. | Diversas entidades públicas com relevância na matéria | PNMHENINDPNIPGM |
-|  |  |  |  | 223 | Ação de formação (curso) no âmbito da «Mulheres, Segurança e Desenvolvimento» | R75 | Integrar uma comunicação no âmbito de uma conferência sobre a temática do TSH (Fragilidade Humana e Criminalidade Organizada) | 1 | 1 | 1 | Defesa Nacional | IDN | Universidades e outros | OE |
-|  |  |  |  | 224 | Formação sobre tráfico de crianças dirigidas às CPCJ | R76 | N.º de ações de formação | 3 | 4 | 5 | Trabalho, Solidariedade e Segurança Social | CNPDPCJ | CIGMAI/OTSH |  |
-|  |  |  |  |  |  | R77 | % de CPCJ formadas em matéria de TSH |  |  |  | Trabalho, Solidariedade e Segurança Social | CNPDPCJ | CIGMAI/OTSH |  |
-|  |  |  |  | 225 | Reforço da especialização ao nível das TIC por parte dos OPC com competência na investigação do TSH | R78 | N.º de ações de formação | 2 | 2 | 1 | Justiça | PJ |  |  |
-|  |  |  |  |  |  | R79 | % de OPC formados nas áreas TIC | 9,60 % | 9,60 % | 7,60 % | Justiça | PJ |  |  |
-|  |  |  |  | 226 | Promoção do reforço do papel das autarquias e das redes regionais na prevenção e combate ao TSH | R80 | N.º de novas entidades integradas nas redes regionais na prevenção e combate ao TSH | 2 | 2 | 2 | Juventude e Modernização | CIG | RAPVT | Sem impacto orçamental |
-|  |  |  |  |  |  | R81 | % de autarquias com protocolos com as redes regionais na prevenção e combate ao TSH | 10 | 20 | 30 | Juventude e Modernização | CIG | RAPVT | Sem impacto orçamental |
-|  |  |  |  | 227 | Reforço de ações de fiscalização em locais de risco | R82 | Aumento do número de ações de fiscalização | 2 | 2 | 2 | Trabalho, Solidariedade e Segurança Social |  | ACT |  |
-|  |  | 23 | Garantir a participação nacional em matéria de TSH no âmbito das relações internacionais e da cooperação | 228 | Participação nacional nos fóruns internacionais de diálogo e reportes nacionais no âmbito de mecanismos de acompanhamento de acordos internacionais em matéria de TSH | R83 | N.º de reuniões do grupo de relatores/as nacionais da Comissão Europeia com a participação nacional | 2 | 2 | 2 | Juventude e Modernização | CIG | MAI/OTSHRelator/a nacionalCIG | OE |
-|  |  |  |  |  |  | R84 | N.º de reuniões da OSCE sobre TSH com a participação nacional | 1 | 1 | 1 | Juventude e Modernização | CIG | MAI/OTSHRelator/a nacionalCIG | OE |
-|  |  |  |  |  |  | R85 | N.º de reuniões do CdE sobre TSH com a participação nacional | 1 | 1 | 1 | Juventude e Modernização | CIG | MAI/OTSHRelator/a nacionalCIG | OE |
-|  |  |  |  |  |  | R86 | N.º de reuniões da ONU sobre TSH com a participação nacional | 2 | 2 | 2 | JustiçaJuventude e Modernização | CIG | MAI/OTSHRelator/a nacionalCIG | OE |
-|  |  |  |  |  |  | R87 | N.º de contributos nacionais para a Rede Europeia das Migrações via Ponto Focal Nacional | 4 | 4 | 4 | Presidência | AIMA | AIMA,MAI/OTSHRelator/a nacional | LOE |
-|  |  |  |  |  |  | R88 | Contributo nacional submetido para o Relatório de Avaliação da Convenção do CdE contra o TSH (Grupo GRETA e momentos intercalares) | 1 |  |  | Juventude e Modernização | Relator nacional | CIGMAI/OTSH | Sem impacto financeiro, atividade normal decorrente das atribuições da CIG |
-|  |  |  |  |  |  | R89 | Contributo nacional submetido ao abrigo do artigo 20.º da Diretiva n.º 2011/36/UE do Parlamento Europeu e do Conselho, de 5 de abril, relativa à prevenção e luta contra o TSH e à proteção das vítimas |  | 1 |  | Juventude e Modernização | Relator nacional | CIGMAI/OTSHMJ/DGPJ | Sem impacto financeiro, atividade normal decorrente das atribuições da CIG |
-|  |  |  |  |  |  | R90 | Contributo nacional submetido para o Relatório Tráfico de Pessoas do Escritório das Nações Unidas sobre Drogas e Crimes | 1 |  | 1 | Juventude e Modernização | Relator nacional | CIGMAI/OTSHMJ/DGPJ | Sem impacto financeiro, atividade normal decorrente das atribuições da CIG |
-|  |  |  |  |  |  | R91 | Desenvolvimento de projetos em matéria de TSH no âmbito da CPLP | 1 | 1 | 1 | Negócios Estrangeiros | Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.) | CIGMAI |  |
-| OE3 | Reforçar a prevenção e o combate às redes de criminalidade organizada, no contexto do tráfico de seres humanos | 31 | Reforçar a cooperação entre as várias entidades envolvidas, ao nível interno e externo | 311 | Reforço do controlo e vigilância das fronteiras, no âmbito da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX) | R92 | N.º de horas de navegação/voo em missões de apoio às autoridades dos Estados-Membros da União Europeia no controlo e vigilância das fronteiras, no âmbito da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX) | 720 | 720 | 720 | Defesa Nacional | Autoridade Marítima Nacional (AMN)(EMGFA)Estado-Maior-General das Forças Armadas | AMNMarinhaForça Aérea Portuguesa (FAP) | FRONTEX |
-|  |  |  |  | 312 | Criação de protocolos de atuação/fluxogramas na área da cooperação em matéria de investigação e combate ao TSH | R93 | N.º de protocolos de atuação/fluxogramas celebrados no âmbito da cooperação em matéria de investigação criminal para o combate do TSH | 1 |  |  | JustiçaAdministração InternaDefesa Nacional | OPC | Forças e serviços de segurança (FSS)MJ/PJPGRPMPJMACT |  |
-|  |  |  |  |  |  | R94 | N.º de protocolos de atuação/fluxogramas celebrados no âmbito difusão de alerta em caso de desaparecimento de menor vítima de TSH do local onde se encontre institucionalizado/a | 1 |  |  | JustiçaAdministração InternaDefesa Nacional | OPC | Forças e serviços de segurança (FSS)MJ/PJPGRPMPJMACT |  |
-|  |  |  |  |  |  | R95 | Criação de protocolos de atuação/fluxogramas celebrados no âmbito da atuação conjunta entre a GNR, PSP, PJ, PM, PJM e ACT | 1 |  |  | JustiçaAdministração InternaDefesa Nacional | OPC | Forças e serviços de segurança (FSS)MJ/PJPGRPMPJMACT |  |
-|  |  |  |  | 313 | Reforço da investigação criminal, do controlo de fronteiras e da cooperação transfronteiriça e internacional na vertente policial | R96 | N.º de ações de formação ministradas para constituição/atualização equipas especializadas do controlo de fronteiras para a intervenção integrada sobre TSH | 2 | 2 | 2 | Administração Interna | GNRPSP | MAI/OTSH e outras entidades |  |
-|  |  |  |  |  |  | R97 | Criação de equipas especializadas do controlo de fronteiras para a intervenção integrada sobre TSH em postos de fronteira internacionais | 4(2 GNR e 2 PSP) | 4(2 GNR e 2 PSP) | 2(1 GNR e 1 PSP) | Administração Interna | PSPGNR |  |  |
-|  |  |  |  |  |  | R98 | N.º de reuniões no âmbito do Projeto Plataforma Multidisciplinar Europeia contra as Ameaças Criminosas (EMPACT) TSH com a participação nacional |  |  |  | JustiçaAdministração Interna |  |  |  |
-|  |  |  |  |  |  | R99 | N.º de participações nacionais em Joint Action Days no âmbito do projeto EMPACT TSH |  |  |  | JustiçaAdministração Interna |  |  |  |
-|  |  |  |  |  |  | R100 | N.º de reuniões do INTERPOL Human Trafficking Expert Group com a participação de perito/a nacional dos OPC |  |  |  | JustiçaAdministração Interna |  |  |  |
-|  |  |  |  | 314 | Criação de equipa multiforças integrada pela PJ, PSP, GNR, PM, ASAE, ACT, AT e AIMA, sob articulação do Sistema de Segurança Interna | R101 | Estrutura e norma de governação/operacionalização e apoio logístico-financeiro da equipa criada | 1 |  |  | JustiçaAdministração InternaDefesa Nacional | SSI | PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA |  |
-|  |  |  |  |  |  | R102 | Relatório de avaliação aprovado pelas forças participantes (lições aprendidas) |  | 1 |  | JustiçaAdministração InternaDefesa Nacional | SSI | PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA |  |
-|  |  |  |  |  |  | R103 | N.º de operações regulares realizadas |  |  |  | JustiçaAdministração InternaDefesa Nacional | SSI | PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA |  |
-|  |  |  |  | 315 | Desenvolvimento de parcerias ao nível de prevenção do TSH em setores económicos de alto risco, designadamente agricultura, pescas, construção civil e hotelaria e restauração | R104 | N.º de parcerias formalizadas |  | 1 |  | EconomiaAgricultura e Pescas | EconomiaAgricultura e Pescas | GPPTurismo de Portugal (TDP)/Direção-Geral das Atividades Económicas (DGAE)Instituto dos Mercados Públicos, do Imobiliário e da Construção (I. P.) (IMPIC) | Plano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  | 316 | Sensibilização das empresas para a temática do TSH | R105 | Manual de boas práticas em matéria de TSH para as empresas |  | 1 |  | EconomiaAgricultura e Pescas | EconomiaAgricultura e Pescas | CIGTDPDGAE | PDQIPlano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  |  |  | R106 | N.º de normas de ética e responsabilidade social que incluem explicitamente a temática do combate ao TSH |  |  | 1 | Economia | Economia | CIGTDPDGAE | Plano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  |  |  | R107 | N.º de eventos anuais sobre conduta empresarial responsável, nomeadamente na área da prevenção e combate ao TSH realizados durante a vigência do Plano | 1 | 1 | 1 | Economia | Economia | CIGTDPDGAE | Plano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  |  |  | R108 | N.º de empresas portuguesas a operar fora do país sensibilizadas com materiais informativos direcionados para a necessidade de uma conduta empresarial responsável, nomeadamente ao longo de toda a cadeia de fornecimento |  | 25 | 25 | Economia | Economia | CIGTDPAICEP | Plano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  | 317 | Elaboração de um Manual de Boas Práticas dirigido aos operadores turísticos no sentido de ser definido um procedimento comum relativo às questões do turismo sexual | R109 | Criação do Manual de Boas Práticas dirigido aos operadores turísticos |  | 1 |  | Economia | TDP | CIGAssociação Portuguesa das Agências de Viagens e Turismo (APAVT) | Plano Turismo + Sustentável 25-30 |
-|  |  |  |  | 318 | Criação de um Manual de Boas Práticas no âmbito das atividades relacionadas com os setores da construção civil, pesca, agrícola e hotelaria e restauração identificadas como mais vulneráveis a contextos de tráfico para fins de exploração laboral | R110 | Criação do Manual de Boas Práticas no âmbito das atividades relacionadas com setores da construção civil, pesca, agrícola e hotelaria e restauração identificadas como mais vulneráveis a contextos de tráfico para fins de exploração laboral |  | 1 |  | Agricultura e PescasEconomiaInfraestruturas |  | CIGIMPICACTAssociação representativas dos setores da construção civil, pesca, agrícola e hotelaria e restauração/TDP | Plano Turismo + Sustentável 25-30PNACERDH |
-|  |  |  |  | 319 | Criação de um Manual de Boas Práticas em matéria de TSH para a Administração Pública no âmbito da aplicação do Código dos Contratos Públicos | R111 | Criação do Manual de Boas Práticas em matéria de TSH para a Administração Pública |  | 1 |  | PresidênciaJuventude e ModernizaçãoInfraestruturas | IMPIC | IMPIC |  |
+| Objetivos estratégicos | Objetivo específicos | Medidas | Indicadores de produto (Medidas) | Metas | Intervenientes nas ações | Alinhamento estratégico |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025 | 2026 | 2027 | Área governativa | Entidade coordenadora | Entidades envolvidas |  |  |  |
+| Cod. | Compromissos estratégicos | Cod. | Compromissos operacionais | Cod. | Responsabilidades operacionais | Cod. | Medição do desempenho das Medidas |  |
+
+Nível político
+
+Nível institucional
+
+Stakeholders
+
+Instrumentos estratégicos ao nível da programação e orçamentação
+
+OE1
+
+Consolidar e reforçar o conhecimento e informar e sensibilizar sobre a temática do tráfico de seres humanos
+
+11
+
+Reforçar a produção técnica e científica sobre as diferentes realidades do tráfico de seres humanos (TSH) existentes em Portugal e garantir informação desagregada em variáveis como sexo e idade, incluindo dados estatísticos e informação qualitativa
+
+111
+
+Formação dos stakeholders do Sistema de Monitorização
+
+R1
+
+N.º de ações de formação
+
+4
+
+Administração Interna
+
+Ministério da Administração Interna (MAI)/Observatório do Tráfico de Seres Humanos (OTSH)
+
+Entidades fornecedoras de dados
+
+112
+
+Alteração legislativa no sentido de tornar obrigatória a comunicação ao Observatório do Tráfico de Seres Humanos das decisões judiciais relativas a processos-crime por Tráfico de Pessoas
+
+R2
+
+Proposta de alteração legislativa apresentada
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Conselho Superior da Magistratura (CSM)
+
+113
+
+Monitorização da atribuição do estatuto de vítima especialmente vulnerável (Tráfico de Seres Humanos)
+
+R3
+
+N.º de infográficos de monitorização da atribuição do estatuto de vítima especialmente vulnerável (Tráfico de Seres Humanos)/Infográfico do perfil das vítimas de TSH que requerem estatuto de vítima especialmente vulnerável
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Autoridades judiciárias; órgãos de polícia criminal (OPC)
+
+114
+
+Produção de informação de fontes abertas
+
+R4
+
+N.º de Relatório e estudos produzidos
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Rede de Apoio e Proteção a Vítimas de Tráfico (RAPVT)
+
+115
+
+Monitorização e elaboração de relatórios informativos sobre TSH
+
+R5
+
+Elaboração do capítulo «Tráfico de Seres Humanos» submetido do Relatório Anual de Segurança Interna
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Entidades fornecedoras de dados
+
+R6
+
+N.º de relatórios estatísticos anuais sobre TSH
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Entidades fornecedoras de dados
+
+R7
+
+N.º de infográficos publicados
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+MAI/OTSH
+
+R8
+
+N.º de relatórios trimestrais sobre TSH
+
+3
+
+3
+
+3
+
+Administração Interna
+
+MAI/OTSH
+
+Entidades fornecedoras de dados
+
+R9
+
+N.º de boletins de estatísticas TSH - Atualização Vítimas Confirmadas
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Entidades fornecedoras de dados
+
+R10
+
+N.º de boletins temáticos
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Entidades fornecedoras de dados
+
+R11
+
+N.º de boletins de estatísticas da justiça
+
+1
+
+1
+
+1
+
+Justiça
+
+Administração Interna
+
+MAI/OTSH
+
+Direção-Geral da Política de Justiça (DGPJ)
+
+R12
+
+N.º de encontros do Grupo de Reflexão Alargado sobre «Estatísticas TSH»
+
+2
+
+2
+
+2
+
+Administração Interna
+
+MAI/OTSH
+
+GNR, PSP, Agência para a Integração, Migrações e Asilo (AIMA), PJ, RAPVT, DGPJ
+
+R13
+
+Recolha de dados de (presumíveis) vítimas de nacionalidade portuguesa exploradas em outros países da União Europeia (via Rede Informal de Relatores Nacionais e Mecanismos Equivalentes/Comissão Europeia), e em outros países da Europa e produção de relatório
+
+1
+
+1
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+Relator nacional
+
+R14
+
+N.º Relatório da monitorização sistemática de anúncios em jornais e na Internet produzido
+
+1
+
+1
+
+1
+
+Justiça
+
+PJ
+
+RAPVT
+
+116
+
+Incrementar a utilização nos serviços de saúde do Registo Clínico de Violência em Adultos (RCVA) e da Avaliação do Risco Familiar (ARF) para recolha de informação, tratamento estatístico e monitorização sobre tráfico de seres humanos
+
+R15
+
+N.º de ações de capacitação para a divulgação do sistema de registo
+
+2
+
+2
+
+2
+
+Saúde
+
+Direção Executiva do SNS
+
+Direção-Geral da Saúde (DGS)
+
+Direção-Geral da Saúde
+
+(DGS)
+
+R16
+
+Relatório anual de monitorização das atividades dinamizadas pelas Equipas de Prevenção da Violência em Adultos (EPVA) - Ação de Saúde sobre Género, Violência e Ciclo de Vida (ASGVCV) produzido
+
+1
+
+1
+
+1
+
+Saúde
+
+Direção Executiva do SNS
+
+DGS
+
+DGS
+
+117
+
+Elaboração de estudos em áreas relacionadas com o TSH
+
+R17
+
+N.º de estudos apresentados
+
+1
+
+1
+
+Juventude e Modernização
+
+Administração Interna
+
+Defesa Nacional
+
+Comissão para a Cidadania e Igualdade de Género (CIG)
+
+MAI/OTSH
+
+Polícia Judiciária Militar (PJM) e Polícia Marítima (PM)
+
+MAI/OTSH, GNR, PSP, AIMA, PJ
+
+PGR, Centro Nacional de Cibersegurança (CNCS)
+
+PDQI
+
+R18
+
+N.º de seminários de apresentação dos resultados dos estudos produzidos
+
+1
+
+1
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+PDQI
+
+118
+
+Atualização do manual «Tráfico de Seres Humanos: Coletânea Selecionada de Instrumentos Jurídicos, Políticos e Jurisprudência em Portugal, na Europa e no Mundo»
+
+R19
+
+Edição atualizada do Manual
+
+1
+
+Administração Interna
+
+MAI/OTSH
+
+PGR
+
+Centro de Estudos Judiciários (CEJ)
+
+OE
+
+12
+
+Informar e sensibilizar sobre a temática do TSH para públicos diversos e de disseminação ampla
+
+119
+
+Prevenção e sensibilização para o TSH, promovendo-se, para o efeito, o apoio a atividades de natureza artística e cultural
+
+R20
+
+N.º de projetos apoiados financeiramente
+
+4
+
+Cultura
+
+MC
+
+DGARTES
+
+OE
+
+120
+
+Realização de ações de formação e sensibilização sobre TSH
+
+R21
+
+N.º de edições do Seminário sobre Tráfico de Seres Humanos
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+PDQI
+
+R22
+
+N.º de ações de formação e sensibilização junto de trabalhadores/as vulneráveis e potenciais vítimas no âmbito da deteção e combate ao trabalho não declarado e fenómenos conexos
+
+2
+
+2
+
+2
+
+Trabalho, Solidariedade e Segurança Social
+
+Autoridade para as Condições do Trabalho (ACT)
+
+ACT
+
+R23
+
+N.º de ações de formação sobre formas de identificar, analisar e fornecer assistência e apoio às pessoas migrantes, nomeadamente trabalhadores/as migrantes, em situação de vulnerabilidade à violência, exploração e abuso
+
+3
+
+3
+
+3
+
+Juventude e Modernização
+
+Administração Interna
+
+MAI/OTSH
+
+RAPVT, Redes Regionais de Apoio a Vítimas de Tráfico de Seres Humanos, autarquias
+
+PDQI e PRAlgarve2030
+
+R24
+
+N.º de trabalhadores/as migrantes, em situação de vulnerabilidade à violência, exploração e abuso, abrangidos pelas ações de formação e sensibilização
+
+60
+
+(20 × 3)
+
+60
+
+(20 × 3)
+
+60
+
+(20 × 3)
+
+Juventude e Modernização
+
+Administração Interna
+
+MAI/OTSH
+
+RAPVT
+
+Redes Regionais de Apoio a Vítimas de Tráfico de Seres Humanos
+
+Autarquias
+
+PDQI e PRAlgarve2030
+
+R25
+
+N.º de ações de formação e sensibilização promovidas pela Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens (CNPDPCJ) junto de profissionais que integram as Comissões de Proteção de Crianças e Jovens (CPCJ)
+
+3
+
+4
+
+5
+
+Trabalho, Solidariedade e Segurança Social
+
+CNPDPCJ
+
+CIG
+
+MAI/OTSH
+
+R26
+
+% de CPCJ formadas e sensibilizadas sobre TSH
+
+25
+
+50
+
+75
+
+Trabalho, Solidariedade e Segurança Social
+
+CNPDPCJ
+
+CIG
+
+MAI/OTSH
+
+R27
+
+N.º de campanhas realizadas
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+CIG
+
+RAPVT
+
+PDQI
+
+R28
+
+N.º de ações de sensibilização a profissionais da área do desporto para a prevenção e sinalização de situações de tráfico de seres humanos
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+Assuntos Parlamentares
+
+Administração Interna
+
+CIG/MAI/OTSH/Instituto Português do Desporto e Juventude (IPDJ)
+
+RAPVT
+
+Redes Regionais de Apoio a Vítimas de Tráfico de Seres Humanos
+
+R29
+
+N.º de ações de sensibilização sobre TSH dirigidas à comunicação social
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+CENJOR
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+121
+
+Promoção da temática do TSH na Estratégia Nacional de Educação para a Cidadania (ENEC) e sua inclusão no programa curricular de algumas licenciaturas/mestrados/doutoramentos (especialmente Psicologia, Serviço Social, Educação Social, Criminologia, Direito, Enfermagem e Medicina)
+
+R30
+
+N.º de docentes formados/as no âmbito da ENEC
+
+45
+
+60
+
+75
+
+Educação
+
+Direção-Geral da Educação (DGE)
+
+Ministério da Educação (MEdu)
+
+CIG
+
+Centros de formação de associação de escolas (CFAE)
+
+Instituições de Ensino Superior (IES)/Centros de Investigação (CInv)
+
+Associações de Professores
+
+ENEC
+
+R31
+
+N.º de ações de formação para pessoal não docente
+
+6
+
+6
+
+6
+
+Educação
+
+Direção-Geral da Administração Escolar (DGAE)
+
+MEdu/DGAE
+
+CIG
+
+ENEC
+
+R32
+
+N.º de workshops realizados para monitores/as dos centros de inclusão digital sobre novas formas de recrutamento através das TIC realizados
+
+2
+
+2
+
+2
+
+Educação
+
+DGE
+
+AIMA
+
+R33
+
+% de centros de inclusão digital abrangidos pelos workshops
+
+Educação
+
+Direção-Geral do Ensino Superior (DGES)
+
+CIG
+
+R34
+
+N.º de universidades com protocolo celebrado com vista à inclusão da temática TSH nos programas curriculares
+
+Educação
+
+DGES
+
+122
+
+Elaboração de material informativo sobre TSH em linguagem acessível, ou seja, compreendida por qualquer pessoa, independentemente do seu perfil, formação ou competências
+
+R35
+
+Materiais informativos sobre TSH produzidos com linguagem acessível
+
+1
+
+Trabalho, Solidariedade e Segurança Social
+
+Instituto Nacional para a Reabilitação (INR)
+
+CIG
+
+PDQI
+
+123
+
+Realização de Seminário sobre Segurança Humana - fragilidade, migrações, refugiados e deslocados com o tema transversal do tráfico de seres humanos
+
+R36
+
+N.º de edições do Seminário sobre Segurança Humana - fragilidade, migrações, refugiados e deslocados com o tema transversal do tráfico de seres humanos realizados
+
+1
+
+1
+
+Defesa Nacional
+
+IDN
+
+OE
+
+R37
+
+N.º de participações, desagregada por sexo
+
+20
+
+20
+
+Defesa Nacional
+
+IDN
+
+124
+
+Realização de painéis cruzados com eventos sobre segurança, defesa e alterações climáticas como vetores indutores dos movimentos de comunidades e pessoas
+
+R38
+
+N.º de painéis realizados
+
+1
+
+1
+
+Defesa Nacional
+
+IDN
+
+OE
+
+125
+
+Incluir a temática do TSH em conferências que tratam o tema da segurança humana, implementação da RCSNU 1325, «Mulheres, Segurança e Desenvolvimento», organizações internacionais, alterações climáticas e defesa, ODS 2030
+
+R39
+
+N.º de conferências
+
+1
+
+1
+
+Defesa Nacional
+
+IDN
+
+Universidades e outros
+
+OE 2
+
+Assegurar às vítimas de tráfico um melhor acesso aos seus direitos, consolidar, reforçar e qualificar a intervenção
+
+21
+
+Garantir a proteção e promover a autonomização das vítimas
+
+211
+
+Reforço do financiamento para o aumento de vagas nos CAP, nas respostas existentes ao nível das EME e nas estruturas de autonomização
+
+R40
+
+N.º de novos acordos celebrados
+
+1
+
+Juventude e Modernização
+
+CIG
+
+Área da igualdade PDQI e jogos sociais LOE
+
+R41
+
+N.º de vagas criadas
+
+12
+
+Juventude e Modernização
+
+CIG
+
+Área da igualdade PDQI e jogos sociais LOE
+
+R42
+
+N.º de novas estruturas de autonomização criadas
+
+2
+
+2
+
+Juventude e Modernização
+
+CIG
+
+Área da igualdade PDQI e jogos sociais LOE
+
+R43
+
+N.º de resposta de CAP para famílias criadas
+
+1
+
+Juventude e Modernização
+
+CIG
+
+PDQI e jogos sociais LOE
+
+212
+
+Revisão do quadro legal e administrativo aplicável às vítimas do crime de tráfico de seres humanos
+
+R44
+
+Proposta de revisão do instrumento orientador criado para efeitos do procedimento a adotar no âmbito do Decreto-Lei n.º 368/2007, de 5 de novembro (regime especial de concessão de autorização de residência a vítimas de tráfico)
+
+1
+
+Presidência
+
+MJM
+
+AIMA
+
+CIG
+
+R45
+
+Atribuição de uma autorização de residência após a atribuição do estatuto de vítima do crime de tráfico de seres humanos
+
+1
+
+Presidência
+
+AIMA
+
+CIG
+
+R46
+
+Revisão dos critérios de elegibilidade para assistência judiciária, para todas as vítimas, incluindo os nacionais de países terceiros
+
+1
+
+Justiça
+
+MJM
+
+ISS
+
+Ordem dos Advogados (OA)
+
+R47
+
+Revisão do regime de concessão de indemnização às vítimas de crimes violentos e de violência doméstica, por forma a integrar as vítimas do crime de tráfico de seres humanos
+
+1
+
+Justiça
+
+MJM
+
+R48
+
+Proposta de acesso a número de utente de saúde «na hora» de forma direta para vítimas do crime de tráfico de seres humanos, mesmo que indocumentadas
+
+1
+
+Saúde
+
+Saúde
+
+DGS
+
+R49
+
+Revisão dos procedimentos de atribuição de NIF e de NISS a vítimas do crime de tráfico de seres humanos, com vista à sua simplificação
+
+Finanças
+
+Trabalho, Solidariedade e Segurança Social
+
+Autoridade Tributária e Aduaneira (AT)
+
+ISS
+
+R50
+
+Atribuição de número de utente a todos os recém-nascidos antes da saída da maternidade: procedimento extraordinário que, no superior interesse da criança, assegure que nenhum recém-nascido tenha alta hospitalar sem registo no RNU e sem atribuição de número de utente
+
+1
+
+Saúde
+
+Saúde
+
+CIG
+
+R51
+
+Proposta de acesso prioritário nas respostas de habitação social para pessoas vítimas do crime de tráfico de seres humanos
+
+1
+
+Infraestruturas
+
+IHRU
+
+IHRU
+
+R52
+
+Proposta de alteração dos programas de apoios à contratação, no sentido de contemplar o acesso das vítimas de tráfico de seres humanos
+
+1
+
+Trabalho, Solidariedade e Segurança Social
+
+IEFP
+
+RAPVT
+
+R53
+
+Orientação técnica sobre formas de reserva da informação e não-rastreabilidade das vítimas dentro do SNS
+
+1
+
+Saúde
+
+MS
+
+CIG
+
+DGS
+
+Serviços Partilhados do Ministério da Saúde (SPMS)
+
+R54
+
+Criação de um grupo de trabalho para identificação das questões que devem ser refletidas no regime jurídico aplicável à proteção e à assistência das vítimas do crime de tráfico de seres humanos (a ser elaborado)
+
+1
+
+Juventude e Modernização
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+R55
+
+Aprovação do regime jurídico aplicável à proteção e à assistência das vítimas do crime de tráfico de seres humanos
+
+1
+
+Juventude e Modernização
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+213
+
+Desenvolvimento de medidas de autonomização para vítimas de TSH
+
+R56
+
+% de vítimas de TSH com apresentação a ofertas de emprego
+
+50 %
+
+55 %
+
+60 %
+
+Trabalho, Solidariedade e Segurança Social
+
+IEFP
+
+IEFP
+
+R57
+
+N.º de medidas de discriminação positiva implementadas no âmbito do acesso à formação profissional
+
+2
+
+Trabalho, Solidariedade e Segurança Social
+
+IEFP
+
+IEFP
+
+CIG
+
+R58
+
+N.º de medidas de discriminação positiva implementadas no âmbito do acesso aos apoios à contratação
+
+2
+
+Trabalho, Solidariedade e Segurança Social
+
+IEFP
+
+IEFP
+
+CIG
+
+214
+
+Reforço da rede regional de Pontos Focais nas respostas de saúde
+
+R59
+
+% do território nacional com reforço da afetação dos Pontos Focais nas respostas de saúde
+
+100 %
+
+Saúde
+
+Direção executiva do SNS
+
+DGS
+
+Direção executiva do SNS
+
+DGS
+
+215
+
+Nomeação distrital de Pontos Focais nas respostas da segurança social
+
+R60
+
+% do território nacional coberto com Pontos Focais nas respostas da segurança social
+
+100 %
+
+100 %
+
+100 %
+
+Trabalho, Solidariedade e Segurança Social
+
+Instituto da Segurança Social, I. P. (ISS, I. P.)
+
+ISS, I. P.
+
+216
+
+Transposição da Diretiva (UE) 2024/1712 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, que altera a Diretiva 2011/36/EU
+
+R61
+
+Conclusão do procedimento legislativo
+
+1
+
+Justiça
+
+Justiça
+
+Justiça
+
+217
+
+Garantir o acesso das vítimas de tráfico de seres humanos ao Português Língua de Acolhimento (PLA) independentemente do estatuto em território nacional, considerando a atribuição do estatuto de vítima especialmente vulnerável
+
+R62
+
+% de vítimas de TSH integradas no Português Língua de Acolhimento (PLA) comparativamente ao número das propostas
+
+Presidência
+
+AIMA
+
+AIMA
+
+PDQI e FAMI
+
+22
+
+Consolidar, reforçar e qualificar a intervenção no âmbito da RAPVT
+
+218
+
+Revisão dos indicadores de apoio à sinalização constantes do Sistema de Referenciação Nacional de vítimas de tráfico de seres humanos - Orientações para a sinalização de vítimas de tráfico de seres humanos em Portugal
+
+R63
+
+Revisão dos indicadores por elemento constitutivo do crime e por fins da exploração
+
+1
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+R64
+
+N.º de ações de formação
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+R65
+
+N.º de participantes integrados na formação
+
+20 × 6
+
+(120)
+
+20 × 6
+
+(120)
+
+20 × 6
+
+(120)
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+219
+
+Formação sobre o Sistema de Referenciação de crianças (presumíveis) vítimas de tráfico de seres humanos
+
+R66
+
+N.º de ações de formação
+
+2
+
+2
+
+2
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+OPC
+
+Polícia Marítima
+
+OE/
+
+Área da igualdade PDQI e jogos sociais
+
+R67
+
+N.º de participantes integrados na formação do Sistema de Referenciação de crianças (presumíveis) vítimas de tráfico de seres humanos
+
+20 × 2
+
+(40)
+
+20 × 2
+
+(40)
+
+20 × 2
+
+(40)
+
+Juventude e Modernização
+
+Administração Interna
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+OPC
+
+PDQI
+
+220
+
+Formação sobre exploração sexual direcionada a profissionais da área do combate, da assistência e a mediadores/as
+
+R68
+
+N.º de ações de formação
+
+3
+
+3
+
+Administração Interna
+
+MAI/OTSH
+
+RAPVT
+
+R69
+
+N.º de participantes integrados na formação
+
+10 × 3
+
+(30)
+
+10 × 3
+
+(30)
+
+Administração Interna
+
+MAI/OTSH
+
+RAPVT
+
+221
+
+Capacitação de públicos estratégicos, nomeadamente para: magistrados/as, forças e serviços de segurança e OPC da defesa nacional, inspetores/as do trabalho, profissionais de saúde no âmbito do ASGVCV, profissionais dos serviços de atendimento e acompanhamento social, mediadores/as nos Centros Nacionais de Apoio à Integração de Migrantes (CNAIM) e Centros Locais de Apoio à Integração de Migrantes (CLAIM) e nas associações de migrantes, pontos de contacto nas embaixadas e postos consulares e profissionais das organizações da sociedade civil
+
+R70
+
+N.º de ações de formação
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+MAI/OTSH CIG
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+PDQI
+
+R71
+
+N.º de participantes
+
+50
+
+50
+
+50
+
+Juventude e Modernização
+
+CIG
+
+CIG
+
+MAI/OTSH
+
+RAPVT
+
+PDQI
+
+222
+
+Programa de Capacitação em Direitos Humanos para a Administração Pública
+
+R72
+
+N.º de ações de formação
+
+2
+
+2
+
+2
+
+Presidência
+
+Instituto Nacional de Administração (INA, I. P.)
+
+INA, I. P.
+
+PNMH
+
+ENIND
+
+PNIPGM
+
+R73
+
+N.º de participantes
+
+113
+
+120
+
+120
+
+Presidência
+
+INA, I. P.
+
+INA, I. P.
+
+PNMH
+
+ENIND
+
+PNIPGM
+
+R74
+
+N.º de áreas governativas envolvidas
+
+11
+
+11
+
+11
+
+Presidência
+
+INA, I. P.
+
+Diversas entidades públicas com relevância na matéria
+
+PNMH
+
+ENIND
+
+PNIPGM
+
+223
+
+Ação de formação (curso) no âmbito da «Mulheres, Segurança e Desenvolvimento»
+
+R75
+
+Integrar uma comunicação no âmbito de uma conferência sobre a temática do TSH (Fragilidade Humana e Criminalidade Organizada)
+
+1
+
+1
+
+1
+
+Defesa Nacional
+
+IDN
+
+Universidades e outros
+
+OE
+
+224
+
+Formação sobre tráfico de crianças dirigidas às CPCJ
+
+R76
+
+N.º de ações de formação
+
+3
+
+4
+
+5
+
+Trabalho, Solidariedade e Segurança Social
+
+CNPDPCJ
+
+CIG
+
+MAI/OTSH
+
+R77
+
+% de CPCJ formadas em matéria de TSH
+
+Trabalho, Solidariedade e Segurança Social
+
+CNPDPCJ
+
+CIG
+
+MAI/OTSH
+
+225
+
+Reforço da especialização ao nível das TIC por parte dos OPC com competência na investigação do TSH
+
+R78
+
+N.º de ações de formação
+
+2
+
+2
+
+1
+
+Justiça
+
+PJ
+
+R79
+
+% de OPC formados nas áreas TIC
+
+9,60 %
+
+9,60 %
+
+7,60 %
+
+Justiça
+
+PJ
+
+226
+
+Promoção do reforço do papel das autarquias e das redes regionais na prevenção e combate ao TSH
+
+R80
+
+N.º de novas entidades integradas nas redes regionais na prevenção e combate ao TSH
+
+2
+
+2
+
+2
+
+Juventude e Modernização
+
+CIG
+
+RAPVT
+
+Sem impacto orçamental
+
+R81
+
+% de autarquias com protocolos com as redes regionais na prevenção e combate ao TSH
+
+10
+
+20
+
+30
+
+Juventude e Modernização
+
+CIG
+
+RAPVT
+
+Sem impacto orçamental
+
+227
+
+Reforço de ações de fiscalização em locais de risco
+
+R82
+
+Aumento do número de ações de fiscalização
+
+2
+
+2
+
+2
+
+Trabalho, Solidariedade e Segurança Social
+
+ACT
+
+23
+
+Garantir a participação nacional em matéria de TSH no âmbito das relações internacionais e da cooperação
+
+228
+
+Participação nacional nos fóruns internacionais de diálogo e reportes nacionais no âmbito de mecanismos de acompanhamento de acordos internacionais em matéria de TSH
+
+R83
+
+N.º de reuniões do grupo de relatores/as nacionais da Comissão Europeia com a participação nacional
+
+2
+
+2
+
+2
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+Relator/a nacional
+
+CIG
+
+OE
+
+R84
+
+N.º de reuniões da OSCE sobre TSH com a participação nacional
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+Relator/a nacional
+
+CIG
+
+OE
+
+R85
+
+N.º de reuniões do CdE sobre TSH com a participação nacional
+
+1
+
+1
+
+1
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+Relator/a nacional
+
+CIG
+
+OE
+
+R86
+
+N.º de reuniões da ONU sobre TSH com a participação nacional
+
+2
+
+2
+
+2
+
+Justiça
+
+Juventude e Modernização
+
+CIG
+
+MAI/OTSH
+
+Relator/a nacional
+
+CIG
+
+OE
+
+R87
+
+N.º de contributos nacionais para a Rede Europeia das Migrações via Ponto Focal Nacional
+
+4
+
+4
+
+4
+
+Presidência
+
+AIMA
+
+AIMA,
+
+MAI/OTSH
+
+Relator/a nacional
+
+LOE
+
+R88
+
+Contributo nacional submetido para o Relatório de Avaliação da Convenção do CdE contra o TSH (Grupo GRETA e momentos intercalares)
+
+1
+
+Juventude e Modernização
+
+Relator nacional
+
+CIG
+
+MAI/OTSH
+
+Sem impacto financeiro, atividade normal decorrente das atribuições da CIG
+
+R89
+
+Contributo nacional submetido ao abrigo do artigo 20.º da Diretiva n.º 2011/36/UE do Parlamento Europeu e do Conselho, de 5 de abril, relativa à prevenção e luta contra o TSH e à proteção das vítimas
+
+1
+
+Juventude e Modernização
+
+Relator nacional
+
+CIG
+
+MAI/OTSH
+
+MJ/DGPJ
+
+Sem impacto financeiro, atividade normal decorrente das atribuições da CIG
+
+R90
+
+Contributo nacional submetido para o Relatório Tráfico de Pessoas do Escritório das Nações Unidas sobre Drogas e Crimes
+
+1
+
+1
+
+Juventude e Modernização
+
+Relator nacional
+
+CIG
+
+MAI/OTSH
+
+MJ/DGPJ
+
+Sem impacto financeiro, atividade normal decorrente das atribuições da CIG
+
+R91
+
+Desenvolvimento de projetos em matéria de TSH no âmbito da CPLP
+
+1
+
+1
+
+1
+
+Negócios Estrangeiros
+
+Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.)
+
+CIG
+
+MAI
+
+OE3
+
+Reforçar a prevenção e o combate às redes de criminalidade organizada, no contexto do tráfico de seres humanos
+
+31
+
+Reforçar a cooperação entre as várias entidades envolvidas, ao nível interno e externo
+
+311
+
+Reforço do controlo e vigilância das fronteiras, no âmbito da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX)
+
+R92
+
+N.º de horas de navegação/voo em missões de apoio às autoridades dos Estados-Membros da União Europeia no controlo e vigilância das fronteiras, no âmbito da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX)
+
+720
+
+720
+
+720
+
+Defesa Nacional
+
+Autoridade Marítima Nacional (AMN)
+
+(EMGFA)
+
+Estado-Maior-General das Forças Armadas
+
+AMN
+
+Marinha
+
+Força Aérea Portuguesa (FAP)
+
+FRONTEX
+
+312
+
+Criação de protocolos de atuação/fluxogramas na área da cooperação em matéria de investigação e combate ao TSH
+
+R93
+
+N.º de protocolos de atuação/fluxogramas celebrados no âmbito da cooperação em matéria de investigação criminal para o combate do TSH
+
+1
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+OPC
+
+Forças e serviços de segurança (FSS)
+
+MJ/PJ
+
+PGR
+
+PM
+
+PJM
+
+ACT
+
+R94
+
+N.º de protocolos de atuação/fluxogramas celebrados no âmbito difusão de alerta em caso de desaparecimento de menor vítima de TSH do local onde se encontre institucionalizado/a
+
+1
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+OPC
+
+Forças e serviços de segurança (FSS)
+
+MJ/PJ
+
+PGR
+
+PM
+
+PJM
+
+ACT
+
+R95
+
+Criação de protocolos de atuação/fluxogramas celebrados no âmbito da atuação conjunta entre a GNR, PSP, PJ, PM, PJM e ACT
+
+1
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+OPC
+
+Forças e serviços de segurança (FSS)
+
+MJ/PJ
+
+PGR
+
+PM
+
+PJM
+
+ACT
+
+313
+
+Reforço da investigação criminal, do controlo de fronteiras e da cooperação transfronteiriça e internacional na vertente policial
+
+R96
+
+N.º de ações de formação ministradas para constituição/atualização equipas especializadas do controlo de fronteiras para a intervenção integrada sobre TSH
+
+2
+
+2
+
+2
+
+Administração Interna
+
+GNR
+
+PSP
+
+MAI/OTSH e outras entidades
+
+R97
+
+Criação de equipas especializadas do controlo de fronteiras para a intervenção integrada sobre TSH em postos de fronteira internacionais
+
+4
+
+(2 GNR e 2 PSP)
+
+4
+
+(2 GNR e 2 PSP)
+
+2
+
+(1 GNR e 1 PSP)
+
+Administração Interna
+
+PSP
+
+GNR
+
+R98
+
+N.º de reuniões no âmbito do Projeto Plataforma Multidisciplinar Europeia contra as Ameaças Criminosas (EMPACT) TSH com a participação nacional
+
+Justiça
+
+Administração Interna
+
+R99
+
+N.º de participações nacionais em Joint Action Days no âmbito do projeto EMPACT TSH
+
+Justiça
+
+Administração Interna
+
+R100
+
+N.º de reuniões do INTERPOL Human Trafficking Expert Group com a participação de perito/a nacional dos OPC
+
+Justiça
+
+Administração Interna
+
+314
+
+Criação de equipa multiforças integrada pela PJ, PSP, GNR, PM, ASAE, ACT, AT e AIMA, sob articulação do Sistema de Segurança Interna
+
+R101
+
+Estrutura e norma de governação/operacionalização e apoio logístico-financeiro da equipa criada
+
+1
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+SSI
+
+PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA
+
+R102
+
+Relatório de avaliação aprovado pelas forças participantes (lições aprendidas)
+
+1
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+SSI
+
+PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA
+
+R103
+
+N.º de operações regulares realizadas
+
+Justiça
+
+Administração Interna
+
+Defesa Nacional
+
+SSI
+
+PJ, PSP, GNR, PM, ASAE, ACT, AT, AIMA
+
+315
+
+Desenvolvimento de parcerias ao nível de prevenção do TSH em setores económicos de alto risco, designadamente agricultura, pescas, construção civil e hotelaria e restauração
+
+R104
+
+N.º de parcerias formalizadas
+
+1
+
+Economia
+
+Agricultura e Pescas
+
+Economia
+
+Agricultura e Pescas
+
+GPP
+
+Turismo de Portugal (TDP)/Direção-Geral das Atividades Económicas (DGAE)
+
+Instituto dos Mercados Públicos, do Imobiliário e da Construção (I. P.) (IMPIC)
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+316
+
+Sensibilização das empresas para a temática do TSH
+
+R105
+
+Manual de boas práticas em matéria de TSH para as empresas
+
+1
+
+Economia
+
+Agricultura e Pescas
+
+Economia
+
+Agricultura e Pescas
+
+CIG
+
+TDP
+
+DGAE
+
+PDQI
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+R106
+
+N.º de normas de ética e responsabilidade social que incluem explicitamente a temática do combate ao TSH
+
+1
+
+Economia
+
+Economia
+
+CIG
+
+TDP
+
+DGAE
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+R107
+
+N.º de eventos anuais sobre conduta empresarial responsável, nomeadamente na área da prevenção e combate ao TSH realizados durante a vigência do Plano
+
+1
+
+1
+
+1
+
+Economia
+
+Economia
+
+CIG
+
+TDP
+
+DGAE
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+R108
+
+N.º de empresas portuguesas a operar fora do país sensibilizadas com materiais informativos direcionados para a necessidade de uma conduta empresarial responsável, nomeadamente ao longo de toda a cadeia de fornecimento
+
+25
+
+25
+
+Economia
+
+Economia
+
+CIG
+
+TDP
+
+AICEP
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+317
+
+Elaboração de um Manual de Boas Práticas dirigido aos operadores turísticos no sentido de ser definido um procedimento comum relativo às questões do turismo sexual
+
+R109
+
+Criação do Manual de Boas Práticas dirigido aos operadores turísticos
+
+1
+
+Economia
+
+TDP
+
+CIG
+
+Associação Portuguesa das Agências de Viagens e Turismo (APAVT)
+
+Plano Turismo + Sustentável 25-30
+
+318
+
+Criação de um Manual de Boas Práticas no âmbito das atividades relacionadas com os setores da construção civil, pesca, agrícola e hotelaria e restauração identificadas como mais vulneráveis a contextos de tráfico para fins de exploração laboral
+
+R110
+
+Criação do Manual de Boas Práticas no âmbito das atividades relacionadas com setores da construção civil, pesca, agrícola e hotelaria e restauração identificadas como mais vulneráveis a contextos de tráfico para fins de exploração laboral
+
+1
+
+Agricultura e Pescas
+
+Economia
+
+Infraestruturas
+
+CIG
+
+IMPIC
+
+ACT
+
+Associação representativas dos setores da construção civil, pesca, agrícola e hotelaria e restauração/TDP
+
+Plano Turismo + Sustentável 25-30
+
+PNACERDH
+
+319
+
+Criação de um Manual de Boas Práticas em matéria de TSH para a Administração Pública no âmbito da aplicação do Código dos Contratos Públicos
+
+R111
+
+Criação do Manual de Boas Práticas em matéria de TSH para a Administração Pública
+
+1
+
+Presidência
+
+Juventude e Modernização
+
+Infraestruturas
+
+IMPIC
+
+IMPIC
+
+118471479
+
+.Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(153,153,153); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(153,153,153); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(153,153,153); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { height:34px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(219,219,219); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(219,219,219); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(219,219,219); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-alig<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/368-2007-629438'title='Decreto-Lein.º368/2007'>Decreto-Lein.º368/2007</a>} .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(219,219,219); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { min-height:96px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl15 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style<arel='nofollownoopenernoreferrer'target='_blank'href='http://data.europa.eu/eli/dir/2024/1712/oj?locale=pt'title='LinkparaDiretivadaUniãoEuropeia'>Diretiva(UE)2024/1712</a>tyle:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl18 { min-height:70px; } .Tbl19 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl20 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl21 { border-left-width:1px; border-<arel='nofollownoopenernoreferrer'target='_blank'href='http://data.europa.eu/eli/dir/2011/36/oj?locale=pt'title='LinkparaDiretivadaUniãoEuropeia'>Diretivan.º2011/36/UE</a>right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl22 { min-height:87px; } .Tbl23 { min-height:35px; } .Tbl24 { min-height:44px; } .Tbl25 { min-height:26px; } .Tbl26 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl27 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl28 { min-height:25px; } .Tbl29 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl30 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl31 { min-height:33px; } .Tbl32 { min-height:38px; } .Tbl33 { min-height:49px; } .Tbl34 { min-height:90px; } .Tbl35 { min-height:41px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl37 { min-height:81px; } .Tbl38 { min-height:92px; } .Tbl39 { text-align:justify; text-align-last:justify; } .Tbl40 { min-height:59px; } .Tbl41 { min-height:63px; } .Tbl42 { min-height:54px; } .Tbl43 { min-height:36px; } .Tbl44 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl45 { min-height:69px; } .Tbl46 { min-height:43px; } .Tbl47 { min-height:79px; } .Tbl48 { min-height:45px; } .Tbl49 { min-height:132px; } .Tbl50 { min-height:34px; } .Tbl51 { min-height:47px; } .Tbl52 { min-height:62px; } .Tbl53 { min-height:24px; } .Tbl54 { min-height:55px; } .Tbl55 { min-height:78px; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl57 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl58 { min-height:73px; } .Tbl59 { min-height:60px; } .Tbl60 { min-height:57px; } .Tbl61 { min-height:102px; } .Tbl62 { min-height:51px; } .Tbl63 { min-height:75px; } .Tbl64 { min-height:50px; } .Tbl65 { min-height:42px; } .Tbl66 { min-height:53px; } .Tbl67 { min-height:32px; } .Tbl68 { min-height:204px; } .Tbl69 { min-height:61px; } .Tbl70 { min-height:46px; } .Tbl71 { min-height:68px; } .Tbl72 { min-height:89px; } .Tbl73 { min-height:99px; } .Tbl74 { min-height:91px; } .Tbl75 { min-height:39px; } .Tbl76 { min-height:58px; } .Tbl77 { min-height:94px; } .Tbl78 { min-height:84px; } .Tbl79 { min-height:101px; } .Tbl80 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

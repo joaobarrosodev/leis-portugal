@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25300/0986809869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/102/2015/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/102-2015-72970525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16062e0ff33b02a172e277fb8401b4f2a353a99ad2f7fbb84356f36e48db2c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a433bb36429a7bb2bf2832ad7be1e4de598a19d736e052eabaa9d3f744f36a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,25 @@ subjects:
 - Assistência Médica
 - Assistência Medicamentosa
 - Autorização de Despesas
+- Cascais
 - Centro Hospitalar de Cascais
-- Ministro da Saúde
-- SIDA
 - Cuidados de Enfermagem
-- Saúde
+- Cuidados Médicos
 - Delegação de Competências
 - Despesas Públicas
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Pagamento
-- Hospital Concelhio
-- Parceria Público-Privada
 - Doente Crónico
-- Prestação de Serviços
-- Cuidados Médicos
-- Regime Ambulatório
 - Estabelecimento Hospitalar
-- Cascais
 - Governo XXI
+- Hospital Concelhio
+- Ministro da Saúde
+- Pagamento
+- Parceria Público-Privada
+- Política de Saúde
+- Prestação de Serviços
+- Regime Ambulatório
+- Saúde
+- Serviço Nacional de Saúde
+- SIDA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2005/01/04/p/dre
@@ -131,16 +131,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:14Z'
   warnings: []
   errors: []
 ---

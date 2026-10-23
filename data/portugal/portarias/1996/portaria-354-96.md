@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/189b00/25572559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/354/1996/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/354-1996-405914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aba4f54a0f16f23cfcddb227330dc71cdb9dd031742c68c19ebdbab15812cd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54fc14cdfff80c764a1a89bac987d9b7707b6e934bae0553f06b48c1dc24af70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Associação Juvenil
 - Financiamento
-- Programa de Apoio às Associações Juvenis
 - Política de Juventude
+- Programa de Apoio às Associações Juvenis
 - Registo Nacional das Associações Juvenis
 - Regulamento
 relationships:
@@ -76,6 +76,17 @@ relationships:
   target: pt:dre:544780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584809:por
+  label: "Alterados os art 7º, 8º, 9º e 10º do Regulamento pela Port 745-E/96.1996.12.18.PCM, DR.IS-B [292]2ºSupl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-e-1996-584809
+  date: '1996-12-18'
+- type: amended_by
+  target: pt:dre:554399:por
+  label: "Alterado o nº 3 do art. 9.º e o art. 11.º do Regulamento do Programa de Apoio às Associações Juvenis (PAAJ), aprovado\
+    \ pelo presente diploma, pela PORT.255/2004.09.03.2004.PCM, DR.IS-B [58] de 09.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2004-554399
+  date: '2004-03-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
   label: null
@@ -84,16 +95,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/154-a/1995/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/154-a/1995/02/22/p/dre
+- type: cites
+  target: pt:dre:228618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624629:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544780:por
+  label: "Revogada pela PORT.1230/2006.15.11.2006.PCM, DR.IS [220] de 15.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1230-2006-544780
+  date: '2006-11-15'
 article_structure:
   article_count: 12
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:40Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +160,9 @@ Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do estabelec
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 26 de Julho de 1996.**
+Assinada em 26 de Julho de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro.**
+O Secretário de Estado da Juventude, António José Martins Seguro.
 
 REGULAMENTO DO PROGRAMA DE APOIO ÀS ASSOCIAÇÕES JUVENIS (PAAJ)
 

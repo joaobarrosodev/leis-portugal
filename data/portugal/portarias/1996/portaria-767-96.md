@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/767/1996/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-1996-494797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 180979d12008f0161847e5f2ff3ecead45755d76e1e7c8e76748e30b21fb0e27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2aa69d8bd7eeccf59b9d52f17384589db13d36e06249da9e222bb449cb4a899
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Especificação Técnica
+- Ordenamento do Território
 - Orla Costeira
-- Protecção do Litoral
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Protecção do Litoral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:33Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +112,13 @@ Considerando que o prazo para a elaboração dos POOC - que se encontram já num
 
 Manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente, o seguinte:
 
-###### Artigo único. Ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, são aprovadas as normas técnicas de referência a observar na elaboração dos planos de ordenamento da orla costeira, anexas à presente portaria e que dela fazem parte integrante.
+Artigo único. Ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, são aprovadas as normas técnicas de referência a observar na elaboração dos planos de ordenamento da orla costeira, anexas à presente portaria e que dela fazem parte integrante.
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
 
-**Assinada em 25 de Novembro de 1996.**
+Assinada em 25 de Novembro de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
 
 Normas técnicas de referência a observar na elaboração dos planos de ordenamento da orla costeira (POOC)
 

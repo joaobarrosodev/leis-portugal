@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23000/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/170/2024/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/170-2024-897994595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9233c785a80783d09aea133ee77594ba36e109d84b2c37f514eff023f1ef133e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b8e9bd0f882f075de15fcb21840926bcdecb1384f48c902c926ca5de4657c7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Incêndio
+- Autoridade Nacional de Emergência e Proteção Civil
 - Autorização de Despesas
 - Conselho de Ministros
-- Força Aérea
 - Delegação de Competências
 - Despesas Públicas
+- Força Aérea
+- Governo XXIV
+- Incêndio
 - Ministério da Defesa
 - Ministro da Defesa Nacional
-- Autoridade Nacional de Emergência e Proteção Civil
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -106,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45-a/2020/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45-a/2020/06/16/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:25Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +194,7 @@ c) Coadjuva a Força Aérea no acompanhamento da execução dos contratos.
 
 Presidência do Conselho de Ministros, 22 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem os n.os1 e 2)
 
 | Programação plurianual do encargo sem IVA (euro) | 2025 | 2026 | 2027 | 2028 | 2029 | Total (euros) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -174,3 +202,5 @@ Presidência do Conselho de Ministros, 22 de novembro de 2024. - O Primeiro-Mini
 | Alínea b) do n.º 1 | 550 000 | 550 000 | 1 200 000 | 1 180 000 | 20 000 | 3 500 000 |
 | Alínea c) do n.º 1 | 946 764 | 946 764 | 946 764 | 946 764 | 0 | 3 787 056 |
 | Total | 29 495 406 | 36 775 990 | 37 425 990 | 31 335 430 | 1 133 480 | 136 166 296 |
+
+118397631

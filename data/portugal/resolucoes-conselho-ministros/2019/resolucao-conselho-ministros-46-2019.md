@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03800/0140401405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/46/2019/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2019-120038537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a8a01c0151aa501c09d5b86d8a8890c16deebbba8ab1ca2caf235390007924a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1013f3e9cdd5eb85f86e53778e239448d2001c444649d5f04918c3a88726f7d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
-- Aproximação das Legislações
-- Interconexão de Dados
-- Modernização Administrativa
-- Comunicações Eletrónicas
-- Software
-- Conselho de Ministros
-- Administração Pública
-- Inclusão Digital
-- TIC
-- Modernização Tecnológica
-- Programa Simplex
-- Governo Electrónico
-- Portal do Cidadão
-- Internet
-- Sistema de Informação
-- Presidência do Conselho de Ministros
-- Agência para a Modernização Administrativa
 - Administração Local
+- Administração Pública
+- Agência para a Modernização Administrativa
+- Aproximação das Legislações
+- Comunicações Eletrónicas
+- Conselho de Ministros
+- Economia Digital
+- Governo Electrónico
+- Inclusão Digital
+- Interconexão de Dados
+- Internet
+- Modernização Administrativa
+- Modernização Tecnológica
 - Plataforma Eletrónica
+- Portal do Cidadão
 - Portal ePortugal
+- Presidência do Conselho de Ministros
+- Programa Simplex
+- Sistema de Informação
+- Software
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:205557210:por
@@ -115,16 +115,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2016/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2016/06/16/p/dre
+- type: cites
+  target: pt:dre:107757007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114457664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74708573:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:36Z'
   warnings: []
   errors: []
 ---
@@ -188,3 +208,5 @@ Nos termos das alíneas d) e g) do artigo 199.º da Constituição, o Conselho d
 15 - Determinar que a presente resolução produz efeitos a partir do dia da sua aprovação.
 
 Presidência do Conselho de Ministros, 14 de fevereiro de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+112080375

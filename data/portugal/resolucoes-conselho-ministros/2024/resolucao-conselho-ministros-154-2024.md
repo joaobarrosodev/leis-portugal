@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/154/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2024-893982652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e94d076c092d2af9dd38054ff78e0dddc0380e95e9378dd033ed19632b3944d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0165ce8accce475579cf3067a03197436fcd080941d6bee8dc8ae82b1bdb1ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Administração
-- Nomeação
-- Vogal
 - Autoridade da Mobilidade e dos Transportes
+- Conselho de Administração
 - Governo XXIV
 - Ministro das Infraestruturas e Habitação
+- Nomeação
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/78/2014/05/14/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:03Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +120,11 @@ Considerando que o conselho de administração da AMT é atualmente composto ape
 
 Foi ouvida, nos termos do disposto no n.º 4 do artigo 17.º da LQER, a CReSAP, que se pronunciou favoravelmente sobre a designação constante da presente resolução.
 
-Em cumprimento do disposto nos n.<sup>os</sup>3 e 4 do artigo 17.º da LQER, a personalidade ora designada foi ouvida na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou favoravelmente sobre a respetiva designação constante da presente resolução, através de relatório de 16 de outubro de 2024.
+Em cumprimento do disposto nos n.os3 e 4 do artigo 17.º da LQER, a personalidade ora designada foi ouvida na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou favoravelmente sobre a respetiva designação constante da presente resolução, através de relatório de 16 de outubro de 2024.
 
 Assim:
 
-Nos termos dos artigos 2.º e 21.º dos estatutos da Autoridade da Mobilidade e dos Transportes, aprovados em anexo ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, na sua redação atual, dos n.<sup>os</sup>2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos artigos 2.º e 21.º dos estatutos da Autoridade da Mobilidade e dos Transportes, aprovados em anexo ao [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, na sua redação atual, dos n.os2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro das Infraestruturas e da Habitação, Paula Cristina de Oliveira Braz Ribeiro Machado Xavier para o cargo de vogal do conselho de administração da Autoridade da Mobilidade e dos Transportes, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciados na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Economia, Obras Públicas e Habitação, que constam dos anexos i e ii à presente resolução e da qual fazem parte integrante.
 
@@ -144,10 +156,12 @@ Experiência profissional:
 
 Conclusões do parecer fundamentado da Comissão de Economia, Obras Públicas e Habitação
 
-# Parte V
+Parte V
 
 É, assim, entendimento da Comissão de Economia, Obras Públicas e Habitação que a Dr.ª Paula Braz Machado reúne as condições para o exercício do cargo para que se encontra indigitada.
 
-A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu a audição da Dr.ª Paula Braz Machado, indigitada para Vogal do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17.º[Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499)2013, de 28 de agosto, na redação dada p[Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049)2017, de 2 de maio.
+A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação procedeu a audição da Dr.ª Paula Braz Machado, indigitada para Vogal do Conselho de Administração da AMT - Autoridade da Mobilidade e dos Transportes, nos termos e para os efeitos dos n.os3 e 4 do artigo 17.º[Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499)2013, de 28 de agosto, na redação dada p[Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049)2017, de 2 de maio.
 
 Do presente relatório será dado conhecimento ao Governo, através da Secretaria de Estado dos Assuntos Parlamentares, nos termos do n.º 4 do artigo 17.º[Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499)2013, de 28 de agosto, na redação dada p[Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049)2017, de 2 de maio.
+
+118293002

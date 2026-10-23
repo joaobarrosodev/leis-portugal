@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/944/1995/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1995-484401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91554910c9f95b9267930c96441775ec39c17762a544a3b0c63ec7ed71462913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dcbfb20dfcc4e9d102b0988c5c5ab40f20ffa8ca7621d1dc8a0d96da9c60c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conservador
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
-- Registos e Notariado
 - Registo Civil
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:517384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517384:por
+  label: "Alterados os art 4º, 6º, 8º, 9º, 10º, 15º, 16º e 19º da Tabela pela Port.184/97.1997.03.17.MJ, DR.IS-B [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1997-517384
+  date: '1997-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:53Z'
   warnings: []
   errors: []
 ---
@@ -111,27 +124,27 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 3.º
 
 Ministério da Justiça.
 
-**Assinada em 10 de Julho de 1995.**
+Assinada em 10 de Julho de 1995.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.
 
 ## ANEXO — Tabela de emolumentos do registo civil
 
-###### Artigo 1.º Assento de nascimento ... Isento
+Artigo 1.º Assento de nascimento ... Isento
 
-###### Art. 2.º Assento de declaração de maternidade ou de perfilhação ... Isento
+Art. 2.º Assento de declaração de maternidade ou de perfilhação ... Isento
 
-###### Art. 3.º - 1 - Pelo assento de casamento civil ... 2000$00
+Art. 3.º - 1 - Pelo assento de casamento civil ... 2000$00
 
 2 - Assento de casamento católico ... Isento
 
 3 - Assento de casamento civil ou católico urgente... Isento
 
-###### Art. 4.º Assento de óbito ou de morte fetal ... Isento
+Art. 4.º Assento de óbito ou de morte fetal ... Isento
 
-###### Art. 5.º Por cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00
+Art. 5.º Por cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00
 
-###### Art. 6.º - 1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento
+Art. 6.º - 1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento
 
 2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 2 do artigo 6.º ... 2000$00
 
@@ -145,13 +158,13 @@ Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Esta
 
 7 - Assento de transcrição ou integração na Conservatória dos Registos Centrais de actos de registo lavrados pelos órgãos especiais do registo civil ... Isento
 
-###### Art. 7.º Assento reformado nos termos dos artigos 25.º e seguintes ... Isento
+Art. 7.º Assento reformado nos termos dos artigos 25.º e seguintes ... Isento
 
-###### Art. 8.º - 1 - Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento... 2000$00
+Art. 8.º - 1 - Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento... 2000$00
 
 2 - Pelo assento de transcrição de convenção antenupcial ou de alteração do regime de bens lavrado no estrangeiro, perante autoridade estrangeira, nos termos do n.º 3 do artigo 11.º ... 2000$00
 
-###### Art. 9.º - 1 - Pela organização de processo de casamento ... 2000$00
+Art. 9.º - 1 - Pela organização de processo de casamento ... 2000$00
 
 2 - Ao emolumento do n.º 1 acrescem:
 
@@ -167,11 +180,11 @@ e) Pelo auto de convenção antenupcial ... 6000$00
 
 3 - Pelo certificado previsto no artigo 146.º ... 1500$00
 
-###### Art. 10.º - 1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00
+Art. 10.º - 1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00
 
 2 - Pelo processo de justificação administrativa nos termos do n.º 3 do artigo 92.º ... 2500$00
 
-###### Art. 11.º - 1 - Processo de impedimento do casamento ... Isento
+Art. 11.º - 1 - Processo de impedimento do casamento ... Isento
 
 2 - Pelo processo de dispensa de impedimentos matrimoniais ... 2000$00
 
@@ -187,7 +200,7 @@ e) Pelo auto de convenção antenupcial ... 6000$00
 
 8 - Processo de autorização para inscrição tardia de nascimento ... Isento
 
-###### Art. 12.º - 1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:
+Art. 12.º - 1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:
 
 a) No acto da instauração do processo ... 7500$00
 
@@ -195,17 +208,17 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 2 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil ... 5000$00
 
-###### Art. 13.º - 1 - Pelo processo de alteração de nome ... 15000$00
+Art. 13.º - 1 - Pelo processo de alteração de nome ... 15000$00
 
 2 - O emolumento previsto no número anterior pertence em partes iguais à conservatória instrutora e à Conservatória dos Registos Centrais.
 
-###### Art. 14.º - 1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00
+Art. 14.º - 1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00
 
 2 - As fracções de lauda, além da primeira, não são consideradas para fins emolumentares.
 
 3 - Pelo certificado de exactidão de tradução feita por tradutor ajuramentado ... 600$00
 
-###### Art. 15.º - 1 - Por cada certidão de registo ... 500$00
+Art. 15.º - 1 - Por cada certidão de registo ... 500$00
 
 2 - Por cada certidão negativa de registo ... 400$00
 
@@ -217,15 +230,15 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00
 
-###### Art. 16.º - 1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento
+Art. 16.º - 1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento
 
 2 - Emissão de novo boletim de qualquer daqueles registos ... 500$00
 
-###### Art. 17.º - 1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00
+Art. 17.º - 1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00
 
 2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade ... 100$00
 
-###### Art. 18.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00
+Art. 18.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00
 
 2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, sem prejuízo do emolumento respectivo a que houver lugar ... 2000$00
 
@@ -233,7 +246,7 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 4 - Aos emolumentos respectivos acrescem as despesas de transporte.
 
-###### Art. 19.º Por cada auto de redução a escrito de declaração ou de requerimento verbal:
+Art. 19.º Por cada auto de redução a escrito de declaração ou de requerimento verbal:
 
 a) Para a prática de acto de registo ... 600$00
 
@@ -241,7 +254,7 @@ b) Para fins de instauração de processo de casamento ... 600$00
 
 c) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00
 
-###### Art. 20.º - 1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.
+Art. 20.º - 1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.
 
 2 - Dos emolumentos do artigo 18.º reverte:
 
@@ -253,12 +266,12 @@ b) Dois terços para o conservador ou para o seu substituto legal e um terço pa
 
 4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça.
 
-###### Art. 21.º - 1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.
+Art. 21.º - 1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.
 
 2 - Havendo contradição entre o conteúdo de documentos apresentados para prova das condições económicas do mesmo interveniente, atende-se, apenas, ao documento que o indicar em melhor situação.
 
-###### Art. 22.º - 1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.
+Art. 22.º - 1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.
 
 2 - Os actos que não estiverem expressamente compreendidos nesta tabela são praticados a título gratuito.
 
-###### Art. 23.º Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.
+Art. 23.º Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.

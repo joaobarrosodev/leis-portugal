@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/47/2018/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2018-115200299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71fea37ca3c5843a96db123743fd22ff7fc9f528e653a03a6f6d24ab1900a50a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d79b87aeeb55a0d71279a334f8e38429d68b5107bc57d03c528223aaef75e5c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Marvão
 - Ordenamento do Território
 - Plano Director Municipal
-- Marvão
 - Política de Solos
 - Regulamento
 relationships:
@@ -111,16 +111,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2005/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2005/03/21/p/dre
+- type: cites
+  target: pt:dre:179566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
 article_structure:
   article_count: 96
   section_count: 54
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:01Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +225,7 @@ Presidência do Conselho de Ministros, 22 de março de 2018. - Pelo Primeiro-Min
 
 Disposições da revisão do PDM de Marvão incompatíveis com o Plano de Ordenamento do Parque Natural da Serra de São Mamede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2)
 
@@ -651,7 +707,7 @@ QUADRO 1
 
 Referencial do regime de edificabilidade no solo rústico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 ###### Artigo 25.º — Edificação isolada
 
@@ -1737,7 +1793,7 @@ QUADRO 2
 
 Parâmetros de dimensionamento do estacionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 2 - Sempre que forem integradas outras atividades complementares compatíveis com os usos definidos no regulamento, devem os parâmetros de estacionamento ser os definidos para cada atividade.
 
@@ -1841,13 +1897,13 @@ QUADRO 3
 
 Parâmetros de dimensionamento mínimo de equipamentos e espaços verdes de utilização coletiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 QUADRO 4
 
 Parâmetros de dimensionamento mínimo de Infraestruturas - Arruamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 2 - Quando as operações de loteamento e demais operações urbanísticas a que se refere o n.º 1 do presente artigo integrem novas vias, as áreas a elas destinadas são contabilizadas para efeitos de cálculo das áreas verdes e de utilização coletiva e equipamentos de utilização coletiva.
 
@@ -2011,20 +2067,22 @@ Plantas
 
 Planta de Ordenamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 Planta de Condicionantes (1/4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 Planta de Condicionantes (2/4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 Planta de Condicionantes (3/4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
 
 Planta de Condicionantes (4/4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf))](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/08300/0172601757.pdf)
+
+111298637

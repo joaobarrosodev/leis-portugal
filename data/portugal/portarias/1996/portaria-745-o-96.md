@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 292/1996, 3º Suplemento, Série I-B de 1996-12-18
   number: '292'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4532-(26) a 4532-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/292b03/00260027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745-o/1996/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-o-1996-584818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 572cb1e85fc3b3b8dcb5fe82931ae571e2f5446a91c5f3fb02819e2806288c51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7df6483d750499787d4de5609ef679dd13870361159f44912e792bed01e9b577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - CEE
 - Definição de Competências
 - Direcção Geral de Desenvolvimento Rural
 - Direcção Regional de Agricultura
-- Proteção do Ambiente
-- Política Agrícola Comum
 - Exploração Florestal
-- Produção Agrícola
-- Regulamento CE
-- Agricultura
 - Ifadap
+- Política Agrícola Comum
+- Produção Agrícola
+- Proteção do Ambiente
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:475973:por
@@ -88,16 +88,21 @@ relationships:
   target: celex:31992R2078
   label: null
   source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: repealed_by
+  target: pt:dre:475973:por
+  label: "Revogada pela PORT.345/98.1998.06.05.MADRP, DR.IS-A [130] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-1998-475973
+  date: '1998-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:54Z'
   warnings: []
   errors: []
 ---
@@ -194,6 +199,6 @@ g) Assegurar à DGDR o acesso aos programas e registos informáticos com vista �
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
-**Assinada em 17 de Dezembro de 1996.**
+Assinada em 17 de Dezembro de 1996.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

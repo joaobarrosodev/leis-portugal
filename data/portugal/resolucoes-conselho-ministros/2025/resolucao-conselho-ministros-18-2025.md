@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02700/0000300038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/18/2025/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2025-906519103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ab0b9e72b159dde74bdf96dd77a7bf6c181a6dac86f6a6fa62eab38d1ece2ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5855c3457bc4723bf6c7ff28e2aad1a0fe8b1320d65ee61fb3ae748833dbb16c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aviação Civil
-- Regulamento CE
 - AUTORIDADE AERONÁUTICA NACIONAL
 - Autoridade Nacional da Aviação Civil
 - Autoridade Nacional de Comunicações
+- Aviação Civil
 - Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 - Programa Nacional de Segurança Operacional
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32010R0996
@@ -178,16 +178,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/2013/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/2013/04/12/p/dre
+- type: cites
+  target: pt:dre:106663786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214252942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892125865:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:30Z'
   warnings: []
   errors: []
 ---
@@ -488,7 +544,7 @@ Os oito elementos críticos encontram-se incorporados nos quatro componentes do 
 
 A declaração da política de segurança operacional do Estado é subscrita pelo membro do conselho de administração da ANAC com competência para o efeito, e deve ser anexada, após assinatura, ao PNSO.
 
-### Capítulo 2 - Responsabilidades de gestão de segurança operacional do Estado
+Capítulo 2 - Responsabilidades de gestão de segurança operacional do Estado
 
 2.1 - Programa Nacional de Segurança Operacional
 
@@ -612,7 +668,8 @@ Para a preparação, a implementação e a execução do PNSO, a ANAC, a AAN, a 
 
 A estrutura organizacional é a seguinte:
 
-![](https://files.diariodarepublica.pt/images/906519103/906520380.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519103/906520380.png) |
+| --- |
 
 Autoridade Nacional da Aviação Civil
 
@@ -630,7 +687,7 @@ A ANAC é também responsável pela implementação e supervisão dos anexos 1, 
 
 De acordo com os seus Estatutos, a ANAC é responsável, com a possibilidade de delegação, pelo exercício das funções de gestor nacional de frequências do espetro radioelétrico do setor da aviação civil.
 
-Por sua vez, o conselho de administração da ANAC deliberou, em 28 de abril de 2016, e novamente em 7 de março de 2022, com base na legislação aplicável, delegar no conselho de administração da NAV, Portugal, E. P. E., as funções de gestor nacional de frequências do espetro radioelétrico do setor da aviação civil na região de informação de voo de Lisboa e na região de informação de voo de Santa Maria (Deliberações n.<sup>os</sup>1218/2016, do conselho de administração da ANAC, publicada no Diário da República, 2.ª série, n.º 146, de 1 de agosto de 2016, e 340/2022, do conselho de administração da ANAC, publicada no Diário da República, 2.ª série, n.º 52, de 15 de março de 2022).
+Por sua vez, o conselho de administração da ANAC deliberou, em 28 de abril de 2016, e novamente em 7 de março de 2022, com base na legislação aplicável, delegar no conselho de administração da NAV, Portugal, E. P. E., as funções de gestor nacional de frequências do espetro radioelétrico do setor da aviação civil na região de informação de voo de Lisboa e na região de informação de voo de Santa Maria (Deliberações n.os1218/2016, do conselho de administração da ANAC, publicada no Diário da República, 2.ª série, n.º 146, de 1 de agosto de 2016, e 340/2022, do conselho de administração da ANAC, publicada no Diário da República, 2.ª série, n.º 52, de 15 de março de 2022).
 
 GPIAAF - Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 
@@ -682,7 +739,8 @@ O Bloco Funcional do Espaço Aéreo do Sudoeste é estratégico devido à sua lo
 
 O modelo de governo do Bloco Funcional do Espaço Aéreo do Sudoeste é o seguinte:
 
-![](https://files.diariodarepublica.pt/images/906519103/906520381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/906519103/906520381.png) |
+| --- |
 
 2.2.4 - Pessoal técnico qualificado (EC-4)
 
@@ -1166,13 +1224,13 @@ A legislação da União Europeia é publicada no Jornal Oficial da União Europ
 
 São, ainda, utilizados outros meios de comunicação, como seminários, oficinas de trabalho (workshops), apresentações ou material informativo para disseminar orientações específicas relacionadas com a indústria/grupos da indústria ou entidades reguladas.
 
-### Capítulo 3 - Gestão do Plano Nacional de Segurança Operacional da Aviação
+Capítulo 3 - Gestão do Plano Nacional de Segurança Operacional da Aviação
 
 Portugal implementou os principais elementos do PNSO ao longo dos últimos anos, através do Plano Nacional de Segurança Operacional da Aviação, cuja gestão é da responsabilidade da ANAC.
 
 A finalidade do PNSOA é assegurar que os princípios de segurança operacional estabelecidos no PNSO são aplicados em Portugal e garantir que os princípios estabelecidos pela OACI a nível mundial e da região europeia, bem como os definidos pela EASA, são também aplicados em Portugal. O PNSOA é um documento dinâmico que continua a evoluir à medida que o plano é aperfeiçoado. Os pontos do plano identificados como tendo sido totalmente implementados também podem estar sujeitos a atualizações e revisões à medida que o plano se desenvolve. O PNSOA contém riscos de segurança operacional identificados a nível nacional, indicadores e metas de desempenho de segurança operacional e as ações de mitigação propostas, estabelecendo datas para a implementação das mesmas. O PNSOA é partilhado com as organizações da aviação civil, as quais participam como partes interessadas na melhoria contínua da segurança operacional.
 
-## APÊNDICE A
+APÊNDICE A
 
 Programa Nacional de Segurança Operacional
 
@@ -1274,7 +1332,7 @@ Nota. - Os tipos de incidentes que são de interesse para os estudos relacionado
 
 «Supervisão» - A verificação permanente, pela autoridade competente ou em seu nome, de que os requisitos do presente regulamento e dos atos delegados e de execução nele baseados, com base nos quais foi emitido um certificado ou relativamente aos quais foi apresentada uma declaração, continuam a ser cumpridos.
 
-## APÊNDICE B
+APÊNDICE B
 
 Programa Nacional de Segurança Operacional
 
@@ -1331,3 +1389,5 @@ PNSO - Programa Nacional de Segurança Operacional (em inglês, SSP).
 PNSOA - Plano Nacional de Segurança Operacional da Aviação (em inglês, SPAS).
 
 SGSO - Sistema de gestão de segurança operacional (em inglês, SMS).
+
+118596527

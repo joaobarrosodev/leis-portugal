@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07300/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2020-131393116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c17df36329711ed7344087ee63da0b8933088ceb7941f87a89fba60e6c89771f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f03f745489d7e4c739a7a9a8635295df4574113ddee16c87b9f2530039312902
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Circulação de Pessoas
-- Transporte Aéreo
-- Segurança Interna
-- Transporte Ferroviário
-- Portugal
-- Serviços de Segurança
-- Saúde Pública
-- Espanha
-- Fronteiras
-- Forças Armadas
-- Serviço de Estrangeiros e Fronteiras
-- Pessoal Diplomático
-- Transporte de Mercadorias
 - Doença Infecciosa
 - Epidemia
-- Schengen
 - Equipamento de Combate a Incêndios
+- Espanha
+- Forças Armadas
+- Fronteiras
+- Pessoal Diplomático
+- Portugal
+- Saúde Pública
+- Schengen
+- Segurança Interna
+- Serviço de Estrangeiros e Fronteiras
+- Serviços de Segurança
+- Transporte Aéreo
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Internacional
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considerada revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da
+    República n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: celex:32016R0399
   label: null
@@ -102,16 +108,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:130326108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:00Z'
   warnings: []
   errors: []
 ---
@@ -183,3 +197,5 @@ i) [...]»
 2 - Determinar que a presente resolução produz efeitos a partir do dia 15 de abril de 2020.
 
 Presidência do Conselho de Ministros, 9 de abril de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113178258

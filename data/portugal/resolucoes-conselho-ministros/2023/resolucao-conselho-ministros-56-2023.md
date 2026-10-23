@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11100/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/56/2023/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2023-214175755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3466930d9b033087fe2cd9b12aac8b731a6cae0aea8d590b05a29a212d15c8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44350f2c7bb54a3d85c12b84ca19aef979036ca58f613f7c0f70e267046c35ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comemoração
-- Proteção do Ambiente
-- Gestão do Ambiente
 - Dia Nacional da Sustentabilidade
+- Gestão do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2023/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2023/01/23/p/dre
+- type: cites
+  target: pt:dre:206399845:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:34Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +121,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 25 de maio de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116538227

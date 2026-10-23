@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16100/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/107/2024/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2024-884941428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ba5ff6e35182ea271547a97cc88108f6266fc5ded7ece7055ffb3032851587
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e5e11cd6efd9141fc6441a2ad1b6d6cea71e800217398d17ec58f6e4d86c7fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Transporte Ferroviário
-- Subvenção Pública
 - Instituto da Mobilidade e dos Transportes
 - Operador Económico
+- Subvenção Pública
 - Transporte de Mercadorias
+- Transporte Ferroviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -89,16 +89,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2022/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2022/10/04/p/dre
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201838711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221278508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:87/2022
+  label: Revoga, a partir de 22 de agosto de 2024, os n.ºs 6, 7, 8, 9 e 20 da Resolução do Conselho de Ministros n.º 87/2022,
+    de 4 de outubro, Diário da República n.º 192/2022, Série I
+  source: null
+  date: '2022-10-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:53Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +163,10 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 6 - Estabelecer que o pagamento do apoio previsto na presente resolução depende da validação e decisão do IMT, I. P., sobre a elegibilidade da informação fornecida pelos operadores.
 
-7 - Revogar os n.<sup>os</sup>6 a 9 e 20 da [Resolução do Conselho de Ministros n.º 87/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2022-201838711), de 4 de outubro.
+7 - Revogar os n.os6 a 9 e 20 da [Resolução do Conselho de Ministros n.º 87/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2022-201838711), de 4 de outubro.
 
 8 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118032888

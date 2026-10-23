@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 231/1996, 3º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3500-(24) a 3500-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b03/00240024.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-ab/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-ab-1996-391463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a911307a5f786e0508f3f41cc1b6e751d8ace109d14a8448f34b7bcf8a9a569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a5c14bf6eb469e44489cefcb8a9d529bc34d4f2c016dbb0875acbd52ee421a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,30 @@ relationships:
   target: pt:dre:603226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570773:por
+  label: "Alterado o num 1 pela Port 72/97.1997.01.30.MADRP, DR.IS-B [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1997-570773
+  date: '1997-01-30'
+- type: amended_by
+  target: pt:dre:488834:por
+  label: "Alterado o nº 1º , com a redacção conferida pela Port 72/97 de 30-Jan, pela PORT.15/99.1999.01.07.MADRP DR.IS-B\
+    \ [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-1999-488834
+  date: '1999-01-07'
+- type: amended_by
+  target: pt:dre:541656:por
+  label: "Anexados e desanexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pelas\
+    \ Ports 72/97 de 30-Jan e 15/99 de 07-Jan, pela PORT.1039/2006.20.09.2006.MADRP, DR.IS [182] de 20.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1039-2006-541656
+  date: '2006-09-20'
+- type: amended_by
+  target: pt:dre:603226:por
+  label: "Renovada, por um período de 12 anos, a concessão e anexados vários prédios rústicos à zona de caça concessionada\
+    \ pelo presente diploma, alterado pela Port 72/97, de 30-Jan, Port 15/99, de 07-Jan, e Port 1039/2006, de 20-Set, pela\
+    \ PORT.336/2009.02.04.2009.MADRP, DR.IS [65] de 02.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-2009-603226
+  date: '2009-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -82,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:18Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +172,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 3 de Outubro de 1996.**
+Assinada em 3 de Outubro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b03/00240024.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b03/00240024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b03/00240024.pdf)

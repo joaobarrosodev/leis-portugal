@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/159b00/43914392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/777/1995/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-1995-466657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccf21ac3cdb8bd34cb5d31babc34bc20808b162dba2e7ba863f0fb2952aa0cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059d487c7a03a288c9ee1bfea5e2ec1aa5b97447b0f3fa6fdc133db9d0759028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/96/1995/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/1995/05/10/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:672451:por
+  label: "Revogada pelo Dec Lei.289/97.1997.10.22.MJ, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1997-672451
+  date: '1997-10-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:45Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +130,8 @@ Manda o Governo, pelos Minsitros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e da Justiça.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/159b00/43914392.pdf))](https://files.diariodarepublica.pt/1s/1995/07/159b00/43914392.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/159b00/43914392.pdf)

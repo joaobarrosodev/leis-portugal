@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01400/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2025/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2025-904130033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f849d1a275cfaae5195f7d865e9c3a7e4b39d69072143ca81ad87ad9a2063112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3baef0a2b40b9cf6b4ae70325bf930dbed397d75cdfc72207c643ba8c68dc82d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,17 @@ reuse:
 subjects:
 - Agência de Avaliação e Acreditação do Ensino Superior
 - Conselho de Curadores
+- Ensino Superior
 - Nomeação
 - Prorrogação de Prazo
-- Ensino Superior
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:202/2019
+  label: Prorroga, com efeitos a partir de 18 de dezembro de 2024, por um ano, o mandato como membros do conselho de curadores
+    da Agência de Avaliação e Acreditação do Ensino Superior, designados pela Resolução do Conselho de Ministros n.º 202/2019,
+    de 30 de dezembro, Diário da República n.º 250/2019, Série I
+  source: null
+  date: '2019-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/369/2007/11/05/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/202/2019/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/202/2019/12/30/p/dre
+- type: cites
+  target: pt:dre:127582932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:55Z'
   warnings: []
   errors: []
 ---
@@ -179,3 +194,5 @@ Curador da Agência para a Avaliação e Acreditação do Ensino Superior (desde
 Presidente da Comissão de Coordenação da Região Norte (desde 2020) e, por inerência, das autoridades de gestão dos programas NORTE2020 (2020-2023), NORTE2030 (desde 2023) e do Interreg Espaço Atlântico, Atlantic Area (desde 2020). Presidente da Comunidade de Trabalho Galiza - Norte de Portugal (2020-2024);
 
 Membro da Academia de Engenharia (2010). Insígnia de ouro da Universidade de Santiago de Compostela (2013). Cidadão honorário e medalha de honra do Município de Guimarães (2016). Medalha de mérito científico do Ministério da Ciência, Tecnologia e Ensino Superior (2017). Medalha de ouro da Cidade de Braga (2018). Grã-Cruz da Ordem da Instrução Pública (2018). Medalha de ouro do Parlamento da Galiza, enquanto presidente do AECT Galiza-Norte de Portugal (2023). Cidadão honorário dos concelhos de Mogadouro e Vila Nova de Gaia (2024).
+
+118582173

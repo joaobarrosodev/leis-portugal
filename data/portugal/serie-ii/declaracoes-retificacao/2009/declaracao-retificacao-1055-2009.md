@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1055-2009-1683981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7150ba4441d3e8c02bfddac13be74cabddd15bd7488811fc19f2befa81ab3471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf7550fe0790bc6e9cebc635dcdf34f33df518ea84e08806c54264393ef22df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:36Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 1055/2009
 
 Por ter sido publicado com inexactidão o despacho n.º 9238/2009, no Diário da República, 2.º série, n.º 65, de 2 de Abril, referente a homologação de contratos administrativos de serviço docente, referente ao ano lectivo 2008-2009, rectifica -se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf))](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf))](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/04/073000000/1528615286.pdf)
 
 7 de Abril de 2009. - O Presidente do Conselho Executivo, Maria de Lurdes Beraldo de Brito Oliveira Batista.
+
+201661515

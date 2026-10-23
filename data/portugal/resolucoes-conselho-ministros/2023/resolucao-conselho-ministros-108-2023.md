@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18200/0000500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/108/2023/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2023-221797720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09b184bb3461ebe2eb8d83312b1e6dd171d905d5e192d242f092f1f268bdabec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9a1b6295705ad5c7cfee26b6580ff7bfd1511e85270c9a8156d967991924906
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/146/2019/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/146/2019/09/27/p/dre
+- type: cites
+  target: pt:dre:125009061:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:37Z'
   warnings: []
   errors: []
 ---
@@ -432,3 +436,5 @@ O proponente ou proponentes excluídos e preteridos no processo de seleção do 
 2 - O Conselho de Ministros reserva-se no direito de não aceitar qualquer das propostas apresentadas no âmbito da venda direta.
 
 3 - No caso de se verificar alguma das situações referidas nos números anteriores, os proponentes não têm direito, por qualquer desses factos, a qualquer indemnização ou compensação, independentemente da sua natureza ou fundamento.
+
+116863912

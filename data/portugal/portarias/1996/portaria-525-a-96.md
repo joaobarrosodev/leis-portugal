@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 227/1996, 1º Suplemento, Série I-B de 1996-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3438-(2) a 3438-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/227b01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/525-a/1996/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-a-1996-516569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c60846b20aaf446ae553b46abc831b7300af05bbb7362a73098628bc841674d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05bb531bcf4fcfaafbdf0dc06b3c5f2cf3760d6f83b1ec65c545699799992739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida Alcoólica
-- Vinho
+- Circulação de Mercadorias
 - Definição de Competências
 - Instituto da Vinha e do Vinho
 - Instituto do Vinho da Madeira
 - Instituto do Vinho do Porto
-- Circulação de Mercadorias
-- Transporte de Mercadorias
 - Política Agrícola Comum
-- Secretaria Regional da Agricultura e Pescas
 - Produto Vitivinícola
+- Secretaria Regional da Agricultura e Pescas
+- Transporte de Mercadorias
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:423067:por
@@ -95,16 +95,21 @@ relationships:
   target: celex:31993R2238
   label: null
   source: http://data.europa.eu/eli/reg/1993/2238/oj
+- type: repealed_by
+  target: pt:dre:423067:por
+  label: "Revogada pela PORT.632/99.1999.08.11.MF, DR.IS-B [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-1999-423067
+  date: '1999-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:47Z'
   warnings: []
   errors: []
 ---
@@ -227,6 +232,6 @@ d) Interditar o agente económico infractor do uso das faculdades, previstas no 
 
 Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 19 de Setembro de 1996.**
+Assinada em 19 de Setembro de 1996.
 
 Pelo Ministro das Finanças, António Carlos dos Santos, Secretário de Estado dos Assuntos Fiscais. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

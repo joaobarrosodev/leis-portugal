@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/112/2020/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2020-151557423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c225fc693989255eaa46daa966304d46139f1239bda5bebfd2300663defafc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f921d7f2e1387212cfef7188b1cf88f2c127f29a3b25c041ae908002abbc71ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - Comissão Consultiva
 - Comissão Interministerial
-- Criança
+- Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
 - Criação de Serviços
-- Direitos da Criança
+- Criança
 - Definição de Competências
+- Direitos da Criança
 - Jovem
+- Ministro do Trabalho Solidariedade e Segurança Social
 - Proteção à Infância
 - Protecção à Juventude
-- Ministro do Trabalho Solidariedade e Segurança Social
-- Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2017/11/10/p/dre
@@ -109,16 +109,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2013/112/oj
   label: null
   source: http://data.europa.eu/eli/reco/2013/112/oj
+- type: cites
+  target: pt:dre:114177786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120630400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69977689:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:35Z'
   warnings: []
   errors: []
 ---
@@ -277,7 +305,7 @@ Prioridade I
 
 Palavras-chave: Bem-estar, igualdade de oportunidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade II - Apoiar as famílias e a parentalidade
 
@@ -293,7 +321,7 @@ Prioridade II
 
 Palavras-chave: Família, parentalidade positiva, autonomia de vida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade III - Promover o acesso à informação e à participação das crianças e jovens
 
@@ -309,7 +337,7 @@ Prioridade III
 
 Palavras-chave: Participação, audição, comunicação, formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade IV - Prevenir e combater a violência contra crianças e jovens
 
@@ -325,7 +353,7 @@ Prioridade IV
 
 Palavras-chave: Violência, conflito com a lei
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade V - Promover a produção de instrumentos e de conhecimento científico potenciadores de uma visão global dos direitos das crianças e jovens
 
@@ -347,7 +375,7 @@ Prioridade V
 
 Palavras-chave: Modelo dados, sistema de informação, conhecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 4 - Órgãos e estruturas da ENDC
 
@@ -451,28 +479,30 @@ Prioridade I - Promover o bem-estar e a igualdade de oportunidades
 
 Palavras-chave: Bem-estar, igualdade de oportunidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade II - Apoiar as famílias e a parentalidade
 
 Palavras-chave: Família, parentalidade positiva, autonomia de vida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade III - Promover o acesso à informação e à participação das crianças e jovens
 
 Palavras-chave: Participação, audição, comunicação, formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade IV - Prevenir e combater a violência contra crianças e jovens
 
 Palavras-chave: Violência, conflito com a lei
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
 
 Prioridade V - Promover a produção de instrumentos e de conhecimento científico potenciadores de uma visão global dos direitos das crianças e jovens
 
 Palavras-chave: Modelo dados, sistema de informação, conhecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24500/0000200022.pdf)
+
+113816951

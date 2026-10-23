@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/211/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/211-2024-901536085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e16adb5d7d0d16ad698aa8bf05c909adf7027ce3260312b3b9f60d93a2aac500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c782577a536124ef2f10cdad5cbf95538fe1881b6b0f229dfb84dca7437287ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Ordenamento do Território
-- Plano Director Municipal
+- Barragem do Pisão
 - Crato
-- Recursos Hídricos
-- Regulamentação de Atos Legislativos
 - Empreendimento de Fins Múltiplos
 - Medidas Preventivas
-- Barragem do Pisão
+- Ordenamento do Território
 - Plano de Recuperação e Resiliência
+- Plano Director Municipal
+- Recursos Hídricos
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/62/2022/09/26/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/147/1995/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/147/1995/11/23/p/dre
+- type: cites
+  target: pt:dre:201450531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692442:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:16Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +151,7 @@ Com estes pressupostos, foi efetuada a delimitação da área de intervenção d
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2 e 3 do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, da alínea a) do n.º 1 do artigo 126.º, dos n.<sup>os</sup>5, 6 e 8 do artigo 134.º e do n.º 3 do artigo 137.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2 e 3 do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, da alínea a) do n.º 1 do artigo 126.º, dos n.os5, 6 e 8 do artigo 134.º e do n.º 3 do artigo 137.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Determinar a suspensão dos artigos 6.º, 8.º, 9.º, 10.º e 11.º do Regulamento do Plano Diretor Municipal do Crato, ratificado pela [Resolução do Conselho de Ministros n.º 147/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-1995-692442), de 23 de novembro, na sua redação atual, na área de incidência identificada no anexo i à presente resolução e da qual faz parte integrante.
 
@@ -143,7 +163,7 @@ Nos termos dos n.<sup>os</sup>2 e 3 do artigo 52.º da [Lei n.º 31/2014](https:
 
 Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO I — (a que se referem os n.os1 e 2)
 
 [https://ssaigt.dgterritorio.pt/i/18483_1206SUSPPDMCRATO_1.jpg](https://ssaigt.dgterritorio.pt/i/18483_1206SUSPPDMCRATO_1.jpg)
 
@@ -186,3 +206,5 @@ h) Demais infraestruturas associadas ao empreendimento.
 2 - As obras e os trabalhos efetuados com inobservância das medidas preventivas podem ser embargados, demolidos, bem como pode ser reposta a situação anterior, incluindo a configuração do terreno.
 
 3 - Sem prejuízo dos poderes de reposição da legalidade urbanística legalmente atribuídos aos municípios e a outras entidades públicas, a competência para ordenar o embargo, a demolição ou reposição da configuração do terreno é, no presente caso, do membro do Governo responsável pela área do ordenamento do território.
+
+118512164

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13900/0366903669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/99/2018/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-2018-115740683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e121809a8306cd461f8bb007d269516a01ba018c77757c7b2310b6db546c524d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aed7c6b4f4f96df5d42816d1c9942a23f2a290fd076e73c4f3a366a51b01043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2018/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2018/06/14/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115501071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:43Z'
   warnings: []
   errors: []
 ---
@@ -140,3 +160,5 @@ Habilitações Académicas: Doutorada em Métodos Quantitativos Aplicados (na Es
 Experiência Profissional: Vogal do Conselho Diretivo da ADSE, I. P., desde 2017. Docente universitária do ISCTE-IUL, desde 2000 (atualmente com a categoria de Professor Auxiliar). Lecionou na Budapest Business School (Budapeste, Hungria) em 2015, na Kozminski University (Varsóvia, Polónia) em 2013, na Universidade Politécnica (Maputo, Moçambique) em 2012 e na Tallinn University of Technology (Tallinn, Estónia) em 2011. Foi Diretora Executiva do Executive Master em Gestão de Serviços de Saúde do INDEG-ISCTE e Diretora do Mestrado em Gestão de Serviços de Saúde do ISCTE-IUL entre 2013 e 2015. Foi Subdiretora do Departamento de Métodos Quantitativos para a Gestão e Economia do ISCTE-IUL entre 2010 e 2014 (designado de Departamento de Métodos Quantitativos entre 2010 e 2012). Foi Coordenadora do Grupo de Investigação em Modelação em Gestão e Economia do Business Research Unit (UNIDE-IUL) entre 2011 e 2014 (designado de Grupo de Investigação em Econometria e Econofísica entre 2011 e 2013). Coordenadora Científica e Técnica na vertente de Gestão em Saúde no projeto «Eat Mediterranean: A Program for Eliminating Dietary Inequality in Schools», gerido pela ARS LVT (projeto com o apoio financeiro dos EEA-Grants) (desde 2015). Gestora na Sonae.com entre 2000 e 2001. Consultora de gestão na Carvalho das Neves & Associados - Consultores de Gestão entre 1999 e 2000. Consultora de gestão na GTE, Consultores de Gestão entre 1998 e 1999.
 
 Outros: Autora e coautora de vários artigos publicados em revistas científicas internacionais. Orientadora e coorientadora de várias dezenas de teses de mestrado sobre temas de gestão geral e gestão de serviços de saúde. Apresentação de dezenas de comunicações orais em conferências científicas internacionais.
+
+111515157

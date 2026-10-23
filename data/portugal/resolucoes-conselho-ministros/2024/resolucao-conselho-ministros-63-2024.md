@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/07900/0000200403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2024/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2024-862566384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abfac711f8421e47b1c10b57a2d5f87d93ccbe2ef18fff5d89c79afc1cb3faf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dd3e129492740edc99f2f8868af718b2fec075486ac08b3d4c374f0b48de08a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Gestão dos Riscos de Inundações
 - Algarve
+- Cheias
 - Gestão do Ambiente
-- RIO Douro
+- Plano de Gestão dos Riscos de Inundações
 - RIO AVE
 - Rio Cávado
+- RIO Douro
 - Rio Guadiana
-- Cheias
 relationships:
 - type: amended_by
   target: pt:dre:932559322:por
@@ -122,6 +122,742 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/51/2016/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/51/2016/09/20/p/dre
+- type: cites
+  target: pt:dre:1005518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1022427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105711402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106449670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107468595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108042755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108152286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108284974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1154216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1159174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117612200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1186856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1194819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1239835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1261322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127022423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1271942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140950536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1411629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1438214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1572586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166636334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169418566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170214997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178080739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1787349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1815966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182135879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1883717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1937905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1940511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1951376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1955874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212118223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2233001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2299819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2314993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2358698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2382657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2415311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2446127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2507186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2541858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2542084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25682422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25683634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25686062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25692027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25696961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2601413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2624044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2637704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2653606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2708632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2713110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2830029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3048043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3416356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3484744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55024765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55026199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55031528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56056908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58936065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66247212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66567213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66602987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66657805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66693348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67637909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69789891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70072282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70072287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70084262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70108532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70170151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70170154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70331469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70402820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70433309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70641406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70948212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72939420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73658904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75239679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75367886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75774109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:787112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:829531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:922037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:957092:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -133,13 +869,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:38Z'
   warnings: []
   errors: []
 ---
@@ -455,7 +1191,7 @@ Plano de Pormenor de Salvaguarda e Renovação Urbana de São Paio (Declaração
 | CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIntervenção urbanísticaArtigo 12.º, n.º 2Uso do solo e dos imóveis | - Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q69.16, Q71.14, Q71.19, Q72.8, Q72.15, Q72.22- Por admitir a alteração de uso das edificações fora das condições discriminadas no Q71.10, Q71.13 |
 | CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIntervenção urbanísticaArtigo 13.º, n.os 3 e 4Área de Logradouro | - Por não interditar as operações urbanísticas discriminadas no Q69.7, Q69.11, Q73.6, Q74.1, Q75.4- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q69.8, Q69.10, Q69.12, Q69.13, Q69.15, Q71.8, Q71.9, Q71.11, Q71.15, Q71.16, Q71.17, Q72.7, Q72.9, Q72.10, Q72.14, Q72.16, Q72.20, Q72.23, Q73.7, Q73.12, Q75.1, Q75.2, Q75.3, Q75.5, Q75.6, Q75.7, Q75.8, Q75.9, Q76.1, Q76.2, Q76.3, Q76.4, Q76.5, Q76.6, Q76.7, Q76.8, Q76.9, Q76.10, Q76.11, Q76.12, Q76.13- Por não interditar a construção de caves, podendo colidir com o disposto no Q69.9, Q69.14, Q69.17, Q71.12, Q71.18, Q72.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q69.16, Q71.14, Q71.19, Q72.8, Q72.15, Q72.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por admitir a alteração de uso das edificações fora das condições discriminadas no Q71.10, Q71.13 |
 | CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIntervenção urbanísticaArtigo 15.º, n.os 3 e 4Implantação e alinhamentosArtigo 16.º, n.os 3 a 5Cérceas e volumetria | - Por não interditar as operações urbanísticas discriminadas no Q73.6, Q75.4- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q71.8, Q71.9, Q71.11, Q71.15, Q71.16, Q71.17, Q72.7, Q72.9, Q72.10, Q72.14, Q72.16, Q72.20, Q72.23, Q73.7, Q73.12, Q75.1, Q75.2, Q75.3, Q75.5, Q75.6, Q75.7, Q75.8, Q75.9, Q76.1, Q76.2, Q76.3, Q76.4, Q76.5, Q76.6, Q76.7, Q76.8, Q76.9, Q76.10, Q76.11, Q76.12, Q76.13 |
-| CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIntervenção urbanísticaArtigo 15.º, n.os 3 e 4Implantação e alinhamentosArtigo 16.º, n.os 3 a 5Cérceas e volumetria | - Por não interditar a construção de caves, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q71.14, Q71.19, Q72.8, Q72.15, Q72.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por admitir a alteração de uso das edificações fora das condições discriminadas no Q71.10, Q71.13 |
+| - Por não interditar a construção de caves, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q71.14, Q71.19, Q72.8, Q72.15, Q72.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por admitir a alteração de uso das edificações fora das condições discriminadas no Q71.10, Q71.13 |  |
 | CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIntervenção urbanísticaArtigo 16.º-D, n.os 2 e 3Equipamento hoteleiro | - Por não interditar as operações urbanísticas discriminadas no Q74.1- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q69.15, Q71.17, Q72.20, Q72.23, Q73.12, Q75.9, Q76.1, Q76.2, Q76.3, Q76.4, Q76.12, Q76.13- Por não interditar a construção de caves, podendo colidir com o disposto no Q69.17, Q71.18, Q72.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q69.16, Q71.19, Q72.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q71.18, Q72.21 |
 | CAPÍTULO IIDisposições específicas para a área do planoSECÇÃO IIEdifícios a manter - Graus de intervenção arquitetónica (GI)Artigo 17.º, alínea c)GI I - Preservação ou reabilitação obrigatória do imóvelArtigo 18.ºGI2 - Conservação genérica do “casco” com preservação ou reabilitação das fachadas | - Por não interditar as operações urbanísticas discriminadas no Q73.6, Q75.4- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q71.8, Q71.9, Q71.11, Q71.15, Q71.16, Q71.17, Q72.7, Q72.9, Q72.10, Q72.14, Q72.16, Q72.20, Q72.23, Q73.7, Q73.12, Q75.1, Q75.2, Q75.3, Q75.5, Q75.6, Q75.7, Q75.8, Q75.9, Q76.1, Q76.2, Q76.3, Q76.4, Q76.5, Q76.6, Q76.7, Q76.8, Q76.9, Q76.10, Q76.11, Q76.12, Q76.13- Por não interditar a construção de caves, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q71.14, Q71.19, Q72.8, Q72.15, Q72.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q71.12, Q71.18, Q72.21- Por admitir a alteração de uso das edificações fora das condições discriminadas no Q71.10, Q71.13 |
 
@@ -1826,7 +2562,7 @@ O processo de elaboração do PGRI envolve uma exigência técnica significativa
 
 1.1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Tejo e Ribeiras do Oeste - RH5A é uma região hidrográfica internacional com uma área total em território português de 30 502 km<sup>2</sup> e integra a bacia hidrográfica do rio Tejo e ribeiras adjacentes, as bacias hidrográficas das Ribeiras do Oeste, as respetivas águas subterrâneas e águas costeiras adjacentes. A orla costeira abrange cerca de 224 km, incluindo as águas marítimas costeiras e interiores e os respetivos leitos e margens, assim como as faixas de proteção marítimas e terrestres. Esta orla constitui um dos setores costeiros em que a gestão integrada enfrenta maiores desafios ao nível da compatibilização dos vários usos e atividades específicas, com a proteção e valorização dos ecossistemas e com o respeito do princípio da precaução face aos riscos costeiros. Neste território existem áreas extensas de grande valor ecológico que importa conservar, muito vulneráveis à erosão costeira, tanto nos troços de litoral baixo e arenoso como de litoral de arriba, e uma forte pressão edificatória resultante do contexto metropolitano e das dinâmicas urbanas e turísticas.
+A Região Hidrográfica do Tejo e Ribeiras do Oeste - RH5A é uma região hidrográfica internacional com uma área total em território português de 30 502 km2 e integra a bacia hidrográfica do rio Tejo e ribeiras adjacentes, as bacias hidrográficas das Ribeiras do Oeste, as respetivas águas subterrâneas e águas costeiras adjacentes. A orla costeira abrange cerca de 224 km, incluindo as águas marítimas costeiras e interiores e os respetivos leitos e margens, assim como as faixas de proteção marítimas e terrestres. Esta orla constitui um dos setores costeiros em que a gestão integrada enfrenta maiores desafios ao nível da compatibilização dos vários usos e atividades específicas, com a proteção e valorização dos ecossistemas e com o respeito do princípio da precaução face aos riscos costeiros. Neste território existem áreas extensas de grande valor ecológico que importa conservar, muito vulneráveis à erosão costeira, tanto nos troços de litoral baixo e arenoso como de litoral de arriba, e uma forte pressão edificatória resultante do contexto metropolitano e das dinâmicas urbanas e turísticas.
 
 A precipitação média anual nas bacias hidrográficas do rio Tejo e das Ribeiras do Oeste varia entre os 300 mm e os 1300 mm. Os valores de precipitação mais baixos observam-se a sul do rio Tejo e junto à fronteira com Espanha. Relativamente à sua distribuição mensal ao longo do ano hidrológico, os meses de novembro, dezembro e janeiro são os mais pluviosos. A margem esquerda do rio Tejo apresenta menor variação espacial da precipitação, ou seja, sugere uniformidade espacial do ponto de vista da variável hidrológica em questão. É também esta a zona em que, sistematicamente, ocorrem as menores precipitações anuais. Na margem direita, as precipitações anuais denotam acréscimos progressivos, desde os mínimos junto ao vale do rio Tejo até à região da Serra da Estrela, onde se verificam tendencialmente as precipitações anuais mais elevadas. Observa-se nesta região hidrográfica que a precipitação média anual, na última década, apresenta uma persistência de valores abaixo da média e uma ausência de anos húmidos. A distribuição anual média do escoamento é caracterizada por uma grande variabilidade do escoamento mensal, a qual está presente também nas diferentes bacias hidrográficas.
 
@@ -1850,11 +2586,11 @@ Nestas cartas foram identificadas a extensão da zona inundada, as profundidades
 
 O PGRI incide sobre as áreas identificadas nas cartas de zonas inundáveis e de riscos de inundações correspondentes às ARPSI.
 
-As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 1070,3 km<sup>2</sup> Abrantes - Estuário do Tejo (rio Tejo); 0,95 km<sup>2</sup> para Alcobaça – Benedita (rio Seco); 16,72 km<sup>2</sup> para Alcobaça (rio Alcoa); 28,29 km<sup>2</sup> para Alenquer (rio Alenquer); 0,77 km<sup>2</sup> para Caldas da Rainha (rio Arnoia); 29,73 km<sup>2</sup> para Coruche (rio Sorraia); 13,52 km<sup>2</sup> para Loures e Odivelas (rio Trancão); 2,28 km<sup>2</sup> para Lourinhã (rio Grande); 2,44 km<sup>2</sup> para Seixal (rio Judeu); 9,32 km<sup>2</sup> para Tomar (rio Nabão); 18,95 km<sup>2</sup> para Torres Vedras - Dois Portos (rio Sizandro); 3,23 km<sup>2</sup> para Vimeiro (rio Alcabrichel); 0,19 km<sup>2</sup> para Areia Branca (costeira); 0,83 km<sup>2</sup> para Cova do Vapor – Fonte da Telha (costeira); 0,18 km<sup>2</sup> para São Martinho do Porto (costeira).
+As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 1070,3 km2 Abrantes - Estuário do Tejo (rio Tejo); 0,95 km2 para Alcobaça – Benedita (rio Seco); 16,72 km2 para Alcobaça (rio Alcoa); 28,29 km2 para Alenquer (rio Alenquer); 0,77 km2 para Caldas da Rainha (rio Arnoia); 29,73 km2 para Coruche (rio Sorraia); 13,52 km2 para Loures e Odivelas (rio Trancão); 2,28 km2 para Lourinhã (rio Grande); 2,44 km2 para Seixal (rio Judeu); 9,32 km2 para Tomar (rio Nabão); 18,95 km2 para Torres Vedras - Dois Portos (rio Sizandro); 3,23 km2 para Vimeiro (rio Alcabrichel); 0,19 km2 para Areia Branca (costeira); 0,83 km2 para Cova do Vapor – Fonte da Telha (costeira); 0,18 km2 para São Martinho do Porto (costeira).
 
 1.3 – Especificidades das ARPSI
 
-A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 14600 m<sup>3</sup>/s para Abrantes - Estuário do Tejo (rio Tejo); 58 m<sup>3</sup>/s para Alcobaça – Benedita (rio Seco); 500 m<sup>3</sup>/s para Alcobaça (rio Alcoa); 390 m<sup>3</sup>/s para Alenquer (rio Alenquer); 160 m<sup>3</sup>/s para Caldas da Rainha (rio Arnoia); 4250 m<sup>3</sup>/s para Coruche (rio Sorraia); 498 m<sup>3</sup>/s para Loures e Odivelas (rio Trancão); 315 m<sup>3</sup>/s para Lourinhã (rio Grande); 82 m<sup>3</sup>/s para Seixal (rio Judeu); 1033 m<sup>3</sup>/s para Tomar (rio Nabão); 275 m<sup>3</sup>/s para Torres Vedras - Dois Portos (rio Sizandro); 225 m<sup>3</sup>/s para Vimeiro (rio Alcabrichel) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para todas as ARPSI de origem fluvial da RH5A, em cerca de 6% (período de retorno de 100 anos).
+A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 14600 m3/s para Abrantes - Estuário do Tejo (rio Tejo); 58 m3/s para Alcobaça – Benedita (rio Seco); 500 m3/s para Alcobaça (rio Alcoa); 390 m3/s para Alenquer (rio Alenquer); 160 m3/s para Caldas da Rainha (rio Arnoia); 4250 m3/s para Coruche (rio Sorraia); 498 m3/s para Loures e Odivelas (rio Trancão); 315 m3/s para Lourinhã (rio Grande); 82 m3/s para Seixal (rio Judeu); 1033 m3/s para Tomar (rio Nabão); 275 m3/s para Torres Vedras - Dois Portos (rio Sizandro); 225 m3/s para Vimeiro (rio Alcabrichel) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para todas as ARPSI de origem fluvial da RH5A, em cerca de 6% (período de retorno de 100 anos).
 
 As áreas atingidas pela mesma inundação não estão sujeitas ao mesmo risco, visto que este depende dos elementos expostos e da perigosidade hidrodinâmica decorrente da magnitude da cheia e das suas características hidráulicas. O número total de habitantes afetados nas ARPSI identificadas é de 41140 hab. e a sua distribuição é a seguinte: 14581 hab. para Abrantes - Estuário do Tejo (rio Tejo); 261 hab. para Alcobaça – Benedita (rio Seco); 2099 hab. para Alcobaça (rio Alcoa); 3150 hab. para Alenquer (rio Alenquer); 124 hab. para Caldas da Rainha (rio Arnoia); 1519 hab. para Coruche (rio Sorraia); 6283 hab. para Loures e Odivelas (rio Trancão); 1005 hab. para Lourinhã (rio Grande); 4275 hab. para Seixal (rio Judeu); 2729 hab. para Tomar (rio Nabão); 3388 hab. para Torres Vedras - Dois Portos (rio Sizandro); 1024 hab. para Vimeiro (rio Alcabrichel); 52 hab. para Areia Branca (costeira); 525 hab. para Cova do Vapor – Fonte da Telha (costeira); 125 hab. para São Martinho do Porto (costeira) (período de retorno de 100 anos).
 
@@ -2152,7 +2888,7 @@ PP da Zona Hr C (Quinta de São Miguel, Almeirim) ([Portaria n.º 661/96](https:
 
 | Artigo do plano incompatível | Fundamentação da incompatibilidade |
 | --- | --- |
-| 2 - Lotes de edifícios de habitação coletivaGrupo 2 - Subgrupo 13.1 - Dos lotes n.<sup>os</sup> 49, 50, 51, 52, 61, 62, 63, 64, 65 a 80 (inclusive), 111, 112, 113 e 114A - Áreas máximas de implantaçãoB - Número de pisosC - Área de construçãoGrupo 2 - Subgrupo 33.3 - Dos lotes n.<sup>os</sup> 81, 100, 108, 109 e 110A - Áreas máximas de implantaçãoB - Número de pisosC - Área de construção | - Por não interditar as operações urbanísticas discriminadas no Q89.1- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q84.15, Q86.17, Q87.20, Q88.12, Q90.9, Q91.1, Q91.2, Q91.3, Q91.4, Q91.12, Q91.13- Por não interditar a construção de caves, podendo colidir com o disposto no Q84.17, Q86.18, Q87.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q84.16, Q86.19, Q87.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q86.18, Q87.21 |
+| 2 - Lotes de edifícios de habitação coletivaGrupo 2 - Subgrupo 13.1 - Dos lotes n.os 49, 50, 51, 52, 61, 62, 63, 64, 65 a 80 (inclusive), 111, 112, 113 e 114A - Áreas máximas de implantaçãoB - Número de pisosC - Área de construçãoGrupo 2 - Subgrupo 33.3 - Dos lotes n.os 81, 100, 108, 109 e 110A - Áreas máximas de implantaçãoB - Número de pisosC - Área de construção | - Por não interditar as operações urbanísticas discriminadas no Q89.1- Por admitir operações urbanísticas ou outras ações e atividades fora das condições discriminadas no Q84.15, Q86.17, Q87.20, Q88.12, Q90.9, Q91.1, Q91.2, Q91.3, Q91.4, Q91.12, Q91.13- Por não interditar a construção de caves, podendo colidir com o disposto no Q84.17, Q86.18, Q87.21- Por não interditar a localização de quartos de dormir no piso inferior à cota de cheia definida para o local, podendo colidir com o disposto no Q84.16, Q86.19, Q87.22- Por não interditar criação de novas frações ou unidades de alojamento, podendo colidir com o disposto no Q86.18, Q87.21 |
 
 PDM de Alpiarça ([Resolução do Conselho de Ministros n.º 14/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-1994-273845), de 15 de março, na sua redação atual)
 
@@ -2729,7 +3465,7 @@ O processo de elaboração do PGRI envolve uma exigência técnica significativa
 
 1.1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Sado e Mira – RH6, com uma área total de 12 149 km<sup>2</sup>, integra as bacias hidrográficas dos rios Sado e Mira e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A orla costeira, situada entre o estuário do rio Sado e Sines caracteriza-se genericamente pela existência de um conjunto alargado de espaços onde as atividades aí desenvolvidas, incluindo as que se relacionam com a ocupação urbana e turística, não excederam ainda os limiares de uma relação equilibrada do ponto de vista do aproveitamento sustentável dos recursos naturais.
+A Região Hidrográfica do Sado e Mira – RH6, com uma área total de 12 149 km2, integra as bacias hidrográficas dos rios Sado e Mira e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A orla costeira, situada entre o estuário do rio Sado e Sines caracteriza-se genericamente pela existência de um conjunto alargado de espaços onde as atividades aí desenvolvidas, incluindo as que se relacionam com a ocupação urbana e turística, não excederam ainda os limiares de uma relação equilibrada do ponto de vista do aproveitamento sustentável dos recursos naturais.
 
 O clima na RH6 pode considerar-se, na generalidade, como sub-húmido seco, ocorrendo uma precipitação anual média de 450 mm 900 mm. A precipitação mais elevada ocorre na cabeceira da bacia hidrográfica da ribeira de Alcáçovas e na zona costeira Sul da bacia das ribeiras Costeiras entre o Sado e o Mira, abrangendo a zona de cabeceira da ribeira de Campilhas e o vale jusante do Rio Mira. Os meses mais chuvosos são os meses de Novembro, Dezembro e Janeiro. Observa-se que a precipitação média anual, na última década, apresenta uma persistência de valores abaixo da média e uma ausência de anos húmidos. A distribuição anual média do escoamento é caracterizada por valores médios mensais na sub-bacia hidrográfica do Sado superiores aos das restantes sub-bacias. Comparando os valores médios do escoamento mensal das bacias costeiras, conclui-se que, em média, a sub-bacia costeira entre o Sado e o Mira apresenta valores superiores às costeiras entre o Mira e o Barlavento. O mês de janeiro é, em média, o que apresenta os valores médios de escoamento mensal mais elevados.
 
@@ -2751,11 +3487,11 @@ Nestas cartas foram identificadas a extensão da zona inundada, as profundidades
 
 O PGRI incide sobre as áreas identificadas nas cartas de zonas inundáveis e de riscos de inundações correspondentes às ARPSI.
 
-As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 24,38 km<sup>2</sup> para Alcácer do Sal (rio Sado); 5,61 km2 para Santiago do Cacém (rio Sado); 2,27 km<sup>2</sup> para Setúbal (ribeira do Livramento).
+As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 24,38 km2 para Alcácer do Sal (rio Sado); 5,61 km2 para Santiago do Cacém (rio Sado); 2,27 km2 para Setúbal (ribeira do Livramento).
 
 1.3 – Especificidades das ARPSI
 
-A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 1900 m<sup>3</sup>/s para Alcácer do Sal (rio Sado); 948 m<sup>3</sup>/s para Santiago do Cacém (rio Sado); 45 m<sup>3</sup>/s para Setúbal (ribeira do Livramento) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para quase todas as ARPSI de origem fluvial da RH6, em cerca de 4%, com exceção da ARPSI de Setúbal (ribeira do Livramento) onde prevê um aumento de 3% (período de retorno de 100 anos).
+A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 1900 m3/s para Alcácer do Sal (rio Sado); 948 m3/s para Santiago do Cacém (rio Sado); 45 m3/s para Setúbal (ribeira do Livramento) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para quase todas as ARPSI de origem fluvial da RH6, em cerca de 4%, com exceção da ARPSI de Setúbal (ribeira do Livramento) onde prevê um aumento de 3% (período de retorno de 100 anos).
 
 As áreas atingidas pela mesma inundação não estão sujeitas ao mesmo risco, visto que este depende dos elementos expostos e da perigosidade hidrodinâmica decorrente da magnitude da cheia e das suas características hidráulicas. O número total de habitantes afetados nas ARPSI identificadas é de 8854 hab. e a sua distribuição é a seguinte: 506 hab. para Alcácer do Sal (rio Sado), 28 hab. para Santiago do Cacém (rio Sado), 8320 hab. para Setúbal (ribeira do Livramento) (período de retorno de 100 anos).
 
@@ -2956,7 +3692,7 @@ O processo de elaboração do PGRI envolve uma exigência técnica significativa
 
 1.1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica do Guadiana RH7 é uma região hidrográfica internacional com uma área total em território português de 11 611 km<sup>2</sup>. Integra a bacia hidrográfica do rio Guadiana localizada em território português e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A zona costeira estende-se desde a foz do rio Guadiana, no município de Vila Real de Santo António, até à zona da praia verde. Este trecho é caracterizado pela presença de praias com extenso areal intercalado, zonas densamente humanizadas e troço de paisagem que mantêm praticamente inalteradas as suas características naturais.
+A Região Hidrográfica do Guadiana RH7 é uma região hidrográfica internacional com uma área total em território português de 11 611 km2. Integra a bacia hidrográfica do rio Guadiana localizada em território português e as bacias hidrográficas das ribeiras de costa, incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A zona costeira estende-se desde a foz do rio Guadiana, no município de Vila Real de Santo António, até à zona da praia verde. Este trecho é caracterizado pela presença de praias com extenso areal intercalado, zonas densamente humanizadas e troço de paisagem que mantêm praticamente inalteradas as suas características naturais.
 
 A precipitação média anual na bacia hidrográfica do rio Guadiana apresenta diferenças significativas, entre os 512 mm e os 723 mm A precipitação anual é baixa, sendo a zona do Guadiana central, apenas em território nacional até ao Pomarão, aquela em que se observa menor precipitação. Relativamente à sua distribuição ao longo do ano hidrológico, o primeiro trimestre é o mais pluvioso, destacando-se o mês de dezembro como o mais pluvioso. Nos meses de outubro e novembro registam-se os valores mais elevados de precipitação diária, no entanto nesta bacia os meses de fevereiro e abril também se registam por vezes os máximos diários do ano hidrológico. Observa-se nesta região hidrográfica que a precipitação média anual, na última década, apresenta uma persistência de valores abaixo da média e uma ausência de anos húmidos.
 
@@ -2982,11 +3718,11 @@ Nestas cartas foram identificadas a extensão da zona inundada, as profundidades
 
 O PGRI incide sobre as áreas identificadas nas cartas de zonas inundáveis e de riscos de inundações correspondentes às ARPSI.
 
-A área delimitada para a ARPSI tem as seguintes dimensões para um período de retorno de 100 anos: 26,01 km<sup>2</sup> para Vila Real de Santo António (rio Guadiana).
+A área delimitada para a ARPSI tem as seguintes dimensões para um período de retorno de 100 anos: 26,01 km2 para Vila Real de Santo António (rio Guadiana).
 
 1.3 – Especificidades da ARPSI
 
-A simulação dos três cenários de risco hidrológico permitiu obter o caudal de ponta de cheias para a ARPSI identificada e é de 9500 m<sup>3</sup>/s para Vila Real de Santo António (rio Guadiana) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, do caudal de ponta em cerca de 5% (período de retorno de 100 anos).
+A simulação dos três cenários de risco hidrológico permitiu obter o caudal de ponta de cheias para a ARPSI identificada e é de 9500 m3/s para Vila Real de Santo António (rio Guadiana) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, do caudal de ponta em cerca de 5% (período de retorno de 100 anos).
 
 As áreas atingidas pela mesma inundação não estão sujeitas ao mesmo risco, visto que este depende dos elementos expostos e da perigosidade hidrodinâmica decorrente da magnitude da cheia e das suas características hidráulicas. Em termos de população afetada indica-se: 7738 hab. para Vila Real de Santo António (rio Guadiana) (período de retorno de 100 anos).
 
@@ -3167,7 +3903,7 @@ O processo de elaboração do PGRI envolve uma exigência técnica significativa
 
 1.1 - Caracterização da Região Hidrográfica
 
-A Região Hidrográfica das Ribeiras do Algarve - RH8 tem uma área total de 5 511 km<sup>2</sup>, integra as bacias hidrográficas das Ribeiras do Algarve incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A maior parte dos cursos de água da região hidrográfica tem a particularidade de manter a individualidade até atingirem o mar com bacias hidrográficas, em geral, de área reduzida. O sistema lagunar de Faro - Olhão, designado por Ria Formosa, corresponde a um sistema de características únicas em Portugal. A zona costeira apresenta características distintas, sendo que no Barlavento, de Sagres até Quarteira a costa é de arribas erodidas, recortada por praias de areia que vão desde as enseadas e largas baías até às extensões mais retilíneas e no Sotavento, de Quarteira à foz do rio Guadiana a costa é baixa e arenosa. No troço Odeceixe Sagres caracteriza-se por uma planície litoral, delimitada por arribas sobre o Oceano.
+A Região Hidrográfica das Ribeiras do Algarve - RH8 tem uma área total de 5 511 km2, integra as bacias hidrográficas das Ribeiras do Algarve incluindo as respetivas águas subterrâneas e águas costeiras adjacentes. A maior parte dos cursos de água da região hidrográfica tem a particularidade de manter a individualidade até atingirem o mar com bacias hidrográficas, em geral, de área reduzida. O sistema lagunar de Faro - Olhão, designado por Ria Formosa, corresponde a um sistema de características únicas em Portugal. A zona costeira apresenta características distintas, sendo que no Barlavento, de Sagres até Quarteira a costa é de arribas erodidas, recortada por praias de areia que vão desde as enseadas e largas baías até às extensões mais retilíneas e no Sotavento, de Quarteira à foz do rio Guadiana a costa é baixa e arenosa. No troço Odeceixe Sagres caracteriza-se por uma planície litoral, delimitada por arribas sobre o Oceano.
 
 A precipitação média anual na bacia hidrográfica das Ribeiras do Algarve apresenta alguma variabilidade espacial, variando entre 520 mm e 820 mm. Relativamente à distribuição da precipitação ao longo do ano hidrológico, o primeiro trimestre é o mais pluvioso, sendo os meses de dezembro e janeiro os mais pluviosos. Nos meses de dezembro e janeiro registam-se os valores mais elevados de precipitação diária. No entanto, na última década observa-se que a precipitação média anual apresenta uma persistência de valores abaixo da média e uma ausência de anos húmidos. A distribuição anual média do escoamento é caracterizada por uma grande variabilidade do escoamento mensal, a qual está presente também nas diferentes bacias hidrográficas. A bacia do Arade é a que apresenta um maior volume de água em regime natural e a do Barlavento a que apresenta o menor volume.
 
@@ -3191,11 +3927,11 @@ Nestas cartas foram identificadas a extensão da zona inundada, as profundidades
 
 O PGRI incide sobre as áreas identificadas nas cartas de zonas inundáveis e de riscos de inundações correspondentes às ARPSI.
 
-As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 0,50 km<sup>2</sup> para Albufeira (ribeira Albufeira); 1,33 km<sup>2</sup> para Aljezur (ribeira Aljezur); 2,25 km<sup>2</sup> para Armação de Pêra – Alcantarilha (ribeira Alcantarilha); 4,85 km<sup>2</sup> para Faro (rio Seco); 9,42 km<sup>2</sup> para Loulé - Almancil (ribeira Gondra); 5,41 km<sup>2</sup> para Loulé – Boliqueime (ribeira Boliqueime); 0,0426 km<sup>2</sup> para Monchique (ribeira Monchique); 11,65 km<sup>2</sup> para Silves (rio Arade); 2,56 km<sup>2</sup> para Tavira (rio Gilão); 0,15 km<sup>2</sup> para Armação de Pêra (costeira); 0,22 km<sup>2</sup> para Faro - Mar (costeira); 0,15 km<sup>2</sup> para Quarteira Vale de Lobo (costeira).
+As áreas delimitadas para as ARPSI têm as seguintes dimensões para um período de retorno de 100 anos: 0,50 km2 para Albufeira (ribeira Albufeira); 1,33 km2 para Aljezur (ribeira Aljezur); 2,25 km2 para Armação de Pêra – Alcantarilha (ribeira Alcantarilha); 4,85 km2 para Faro (rio Seco); 9,42 km2 para Loulé - Almancil (ribeira Gondra); 5,41 km2 para Loulé – Boliqueime (ribeira Boliqueime); 0,0426 km2 para Monchique (ribeira Monchique); 11,65 km2 para Silves (rio Arade); 2,56 km2 para Tavira (rio Gilão); 0,15 km2 para Armação de Pêra (costeira); 0,22 km2 para Faro - Mar (costeira); 0,15 km2 para Quarteira Vale de Lobo (costeira).
 
 1.3 – Especificidades das ARPSI
 
-A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 110m<sup>3</sup>/s para Albufeira (ribeira Albufeira); 367 m<sup>3</sup>/s para Aljezur (ribeira Aljezur); 325 m<sup>3</sup>/s para Armação de Pera – Alcantarilha (ribeira Alcantarilha); 215 m<sup>3</sup>/s para Faro (rio Seco); 45 m<sup>3</sup>/s para Loulé - Almancil (ribeira Gondra); 455 m<sup>3</sup>/s para Loulé – Boliqueime (ribeira Boliqueime); 36 m<sup>3</sup>/s para Monchique (ribeira Monchique); 2012 m<sup>3</sup>/s para Silves (rio Arade); 718 m<sup>3</sup>/s para Tavira (rio Gilão) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para quase todas as ARPSI de origem fluvial da RH8, em cerca de 2%, com exceção da ARPSI de Aljezur (ribeira Aljezur) onde prevê um aumento de 3% (período de retorno de 100 anos).
+A simulação dos três cenários de risco hidrológico permitiu obter os caudais de ponta de cheias para cada uma das ARPSI: 110m3/s para Albufeira (ribeira Albufeira); 367 m3/s para Aljezur (ribeira Aljezur); 325 m3/s para Armação de Pera – Alcantarilha (ribeira Alcantarilha); 215 m3/s para Faro (rio Seco); 45 m3/s para Loulé - Almancil (ribeira Gondra); 455 m3/s para Loulé – Boliqueime (ribeira Boliqueime); 36 m3/s para Monchique (ribeira Monchique); 2012 m3/s para Silves (rio Arade); 718 m3/s para Tavira (rio Gilão) (período de retorno de 100 anos). Considerando os cenários de alterações climáticas prevê-se um possível aumento, dos caudais de ponta para quase todas as ARPSI de origem fluvial da RH8, em cerca de 2%, com exceção da ARPSI de Aljezur (ribeira Aljezur) onde prevê um aumento de 3% (período de retorno de 100 anos).
 
 As áreas atingidas pela mesma inundação não estão sujeitas ao mesmo risco, visto que este depende dos elementos expostos e da perigosidade hidrodinâmica decorrente da magnitude da cheia e das suas características hidráulicas. O número total de habitantes afetados nas ARPSI identificadas é de 3461 hab. e a sua distribuição é a seguinte: 402 hab. para Albufeira (ribeira Albufeira); 85 hab. para Aljezur (ribeira Aljezur); 257 hab. para Armação de Pêra – Alcantarilha (ribeira. Alcantarilha); 205 hab. para Faro (rio Seco); 304 hab. para Loulé - Almancil (ribeira Gondra); 324 hab. para Loulé – Boliqueime (ribeira Boliqueime); 51 hab. para Monchique (ribeira Monchique); 561 hab. para Silves (rio Arade); 949 hab. para Tavira (rio Gilão); 507 hab. para Armação de Pêra (costeira); 35 hab. para Faro - Mar (costeira); 13 hab. para Quarteira Vale de Lobo (costeira) (período de retorno de 100 anos).
 
@@ -3541,10 +4277,10 @@ Foi estabelecida uma matriz de apoio à decisão, para o cenário de probabilida
 
 Quadro 1 - Matriz de Apoio à Decisão
 
-| Potenciais usos e ações | Muito Alta/Alta | Média | Baixa/Muito Baixa | Muito Alta/Alta | Média | Baixa/Muito Baixa |
+| Potenciais usos e ações | Solo Rústico | Solo urbano |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Potenciais usos e ações | Solo Rústico | Solo Rústico | Solo Rústico | Solo urbano | Solo urbano | Solo urbano |
-| Potenciais usos e ações | Perigosidade – T= 100 anos | Perigosidade – T= 100 anos | Perigosidade – T= 100 anos | Perigosidade – T= 100 anos | Perigosidade – T= 100 anos | Perigosidade – T= 100 anos |
+| Perigosidade – T= 100 anos |  |  |  |  |  |  |
+| Muito Alta/Alta | Média | Baixa/Muito Baixa | Muito Alta/Alta | Média | Baixa/Muito Baixa |  |
 | Novas edificações () | Não | Autorizado condicionado (atividade agrícola) | Autorizado Condicionado | Autorizado condicionado (zona urbana consolidada) | Autorizado condicionado (zona urbana consolidada) | Autorizado Condicionado |
 | Obras de Reconstrução (após catástrofe por inundação) | Não | Autorizado Condicionado | Autorizado Condicionado | Não | Autorizado Condicionado | Autorizado Condicionado |
 | Reabilitação () | Não | Autorizado Condicionado | Autorizado Condicionado | Autorizado Condicionado | Autorizado Condicionado | Autorizado Condicionado |
@@ -3593,80 +4329,82 @@ Os quadros 2 a 10 têm em cada PGRI uma numeração distinta, tendo sido atribu�
 
 Quadro 2 - Normas aplicáveis a todas as classes de perigosidade para os potenciais usos em solo urbano e rústico nas áreas das ARPSI
 
-| Classes de perigosidade T=100 anos | Solo urbano e rústico Normas - potenciais usos identificados na matriz de apoio à decisão |
+| Classes de perigosidade<br>T=100 anos | Solo urbano e rústico<br>Normas - potenciais usos identificados na matriz de apoio à decisão |
 | --- | --- |
-| Todas as classes | 1. Potenciar, sempre que possível, o contínuo fluvial/corredores ecológicos, com soluções de maior infiltração que evitem o escoamento superficial, permitam o encaixe ou encaminhamento das águas e/ou de dissipação da energia das águas e possível utilização.2. Promover o zonamento dos usos de forma a aumentar a resiliência do território;3. Potenciar, sempre que possível, pavimentos permeáveis.4. Assegurar que os acessos que permitem operações de socorro e as ações de evacuação não ficam comprometidos com a intervenção a realizar.5. Integrar o princípio de precaução no planeamento urbanístico, afastando, tanto quanto possível, as edificações das áreas sujeitas a inundações, evitando a densificação urbana de forma a reduzir a exposição aos riscos.6. Adotar soluções construtivas que sejam mais resilientes à ação das águas avaliando os benefícios para a área a intervencionar, bem como os potenciais efeitos negativos nas áreas circundantes. Por exemplo, deve avaliar-se se as áreas a montante estão preparadas para acomodar os efeitos de regolfo; se as zonas a jusante estão preparadas para transportar ou armazenar um eventual aumento de caudais de cheia, e se as margens opostas do rio podem acomodar o potencial aumento de caudal ou de altura de água.7. Destinar, preferencialmente, as áreas livres, sem uso específico, situadas no interior dos perímetros urbanos, para a criação de espaços verdes ou áreas de lazer.8. Planear os espaços públicos como espaços multifuncionais que minimizem situações críticas, retendo ou encaminhando as águas ou ajudando a dissipação da sua energia.9. Assegurar que a classe de risco associada à área a intervencionar não sobe para níveis superiores.Garantir que a alteração do uso ou morfologia do solo pela afetação de novas áreas a atividades agrícolas, a implementação de novos povoamentos florestais ou a sua reconversão, ficam restritas a áreas não ocupadas por habitats ecologicamente relevantes, devendo a localização de infraestruturas de apoio à atividade seguir as mesmas regras das edificações. |
+| Todas as classes | **1.**Potenciar, sempre que possível, o contínuo fluvial/corredores ecológicos, com soluções de maior infiltração que evitem o escoamento superficial, permitam o encaixe ou encaminhamento das águas e/ou de dissipação da energia das águas e possível utilização.**2.**Promover o zonamento dos usos de forma a aumentar a resiliência do território;**3.**Potenciar, sempre que possível, pavimentos permeáveis.**4.**Assegurar que os acessos que permitem operações de socorro e as ações de evacuação não ficam comprometidos com a intervenção a realizar.**5.**Integrar o princípio de precaução no planeamento urbanístico, afastando, tanto quanto possível, as edificações das áreas sujeitas a inundações, evitando a densificação urbana de forma a reduzir a exposição aos riscos.**6.**Adotar soluções construtivas que sejam mais resilientes à ação das águas avaliando os benefícios para a área a intervencionar, bem como os potenciais efeitos negativos nas áreas circundantes. Por exemplo, deve avaliar-se se as áreas a montante estão preparadas para acomodar os efeitos de regolfo; se as zonas a jusante estão preparadas para transportar ou armazenar um eventual aumento de caudais de cheia, e se as margens opostas do rio podem acomodar o potencial aumento de caudal ou de altura de água.**7.**Destinar, preferencialmente, as áreas livres, sem uso específico, situadas no interior dos perímetros urbanos, para a criação de espaços verdes ou áreas de lazer.**8.**Planear os espaços públicos como espaços multifuncionais que minimizem situações críticas, retendo ou encaminhando as águas ou ajudando a dissipação da sua energia.**9.**Assegurar que a classe de risco associada à área a intervencionar não sobe para níveis superiores.Garantir que a alteração do uso ou morfologia do solo pela afetação de novas áreas a atividades agrícolas, a implementação de novos povoamentos florestais ou a sua reconversão, ficam restritas a áreas não ocupadas por habitats ecologicamente relevantes, devendo a localização de infraestruturas de apoio à atividade seguir as mesmas regras das edificações. |
 
 Quadro 3 - Normas aplicáveis às “Novas Edificações” em solo urbano
 
-| Classe de perigosidade T=100 anos | Solo Urbano Normas - “Novas Edificações” |
+| Classe de perigosidade<br>T=100 anos | Solo Urbano<br>Normas - “Novas Edificações” |
 | --- | --- |
-| Todas as classes | 1. Assegurar que a ocupação do espaço urbano tem em consideração as características hidromorfológicas, reservando para espaços verdes a área com maior capacidade de infiltração.2. Potenciar a existência de estruturas verdes, sejam coberturas ajardinadas, logradouros, hortas urbanas, ou outros espaços que potenciem a infiltração e naturalização de espaços urbanos.3. Promover a renaturalização das margens e da área contígua, sempre que possível, adotando soluções urbanísticas que reduzam a perigosidade.4. Assegurar que a edificabilidade em áreas inundáveis assenta sempre no pressuposto de que a perigosidade não aumenta e que são estabelecidas medidas de forma a garantir a segurança de pessoas e bens e dos valores ambientais, não aumentando o risco.5. Assegurar que as estradas a serem usadas como vias de evacuação permanecem transitáveis à medida que as águas sobem.6. Incluir no registo de propriedade a referência ao risco existente. |
-| Muito Alta/ Alta | 7. É interdita a realização de obras de construção e operações de loteamento.8. Constitui exceção ao ponto anterior a realização de obras de construção em zona urbana consolidada, sujeita a parecer da autoridade nacional da água, em situações de colmatação de espaço vazio entre edifícios existentes, não constituindo espaço vazio os prédios ocupados por edifícios e ainda os que exercem uma função urbana e estão afetos ao uso público, como arruamentos, estacionamentos, praças e espaços verdes.9. Não é permitida a construção de caves.10. Devem ser adotadas soluções urbanísticas e construtivas que:a) Garantam a resistência estrutural do edificado utilizando materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano;c) Garantam que a cota de soleira é superior à cota de cheia definida para o local, devendo o edifício ser vazado até esta cota. |
-| Média | 11. É interdita a realização de obras de construção e operações de loteamento.12. Constitui exceção ao ponto anterior a realização de obras de construção em zona urbana consolidada, sujeita a parecer da autoridade nacional da água.13. Devem ser desenvolvidas soluções urbanísticas e construtivas que:a) Garantam a resistência dos edifícios aos potenciais danos de inundação;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano;c) Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o locald) Incluam soluções arquitetónicas que não permitam a utilização e usufruto da volumetria edificada, na parte correspondente à que se encontra abaixo da cota que potencialmente possa estar sujeita a inundação.14. Não é permitida a construção de caves em área inundável. |
-| Baixa/Muito Baixa | 15. Devem ser desenvolvidas soluções urbanísticas e construtivas que:a) Garantam a resistência dos edifícios aos potenciais danos de inundação;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano.16. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.17. Não é permitida a construção de caves em área inundável. |
+| Todas as classes | **1.**Assegurar que a ocupação do espaço urbano tem em consideração as características hidromorfológicas, reservando para espaços verdes a área com maior capacidade de infiltração.**2.**Potenciar a existência de estruturas verdes, sejam coberturas ajardinadas, logradouros, hortas urbanas, ou outros espaços que potenciem a infiltração e naturalização de espaços urbanos.**3.**Promover a renaturalização das margens e da área contígua, sempre que possível, adotando soluções urbanísticas que reduzam a perigosidade.**4.**Assegurar que a edificabilidade em áreas inundáveis assenta sempre no pressuposto de que a perigosidade não aumenta e que são estabelecidas medidas de forma a garantir a segurança de pessoas e bens e dos valores ambientais, não aumentando o risco.**5.**Assegurar que as estradas a serem usadas como vias de evacuação permanecem transitáveis à medida que as águas sobem.**6.**Incluir no registo de propriedade a referência ao risco existente. |
+| Muito Alta/ Alta | **7.**É interdita a realização de obras de construção e operações de loteamento.**8.**Constitui exceção ao ponto anterior a realização de obras de construção em zona urbana consolidada, sujeita a parecer da autoridade nacional da água, em situações de colmatação de espaço vazio entre edifícios existentes, não constituindo espaço vazio os prédios ocupados por edifícios e ainda os que exercem uma função urbana e estão afetos ao uso público, como arruamentos, estacionamentos, praças e espaços verdes.**9.**Não é permitida a construção de caves.**10.**Devem ser adotadas soluções urbanísticas e construtivas que:a) Garantam a resistência estrutural do edificado utilizando materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano;c) Garantam que a cota de soleira é superior à cota de cheia definida para o local, devendo o edifício ser vazado até esta cota. |
+| Média | **11.**É interdita a realização de obras de construção e operações de loteamento.**12.**Constitui exceção ao ponto anterior a realização de obras de construção em zona urbana consolidada, sujeita a parecer da autoridade nacional da água.**13.**Devem ser desenvolvidas soluções urbanísticas e construtivas que:a) Garantam a resistência dos edifícios aos potenciais danos de inundação;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano;c) Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o locald) Incluam soluções arquitetónicas que não permitam a utilização e usufruto da volumetria edificada, na parte correspondente à que se encontra abaixo da cota que potencialmente possa estar sujeita a inundação.**14.**Não é permitida a construção de caves em área inundável. |
+| Baixa/Muito Baixa | **15.**Devem ser desenvolvidas soluções urbanísticas e construtivas que:a) Garantam a resistência dos edifícios aos potenciais danos de inundação;b) Não aumentem perigosidade da inundação tal como definido nos termos do presente plano.**16.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**17.**Não é permitida a construção de caves em área inundável. |
 
 Quadro 4 - Normas aplicáveis no caso de “Novas Edificações” em solo rústico
 
-| Classe de perigosidade T=100 anos | Solo Rústico Normas - “Novas Edificações” |
+| Classe de perigosidade<br>T=100 anos | Solo Rústico<br>Normas - “Novas Edificações” |
 | --- | --- |
-| Todas as classes | 1. Assegurar que a edificabilidade em áreas inundáveis assenta sempre no pressuposto de que a perigosidade não aumenta e que são estabelecidas medidas necessárias e indispensáveis, de forma a garantir a segurança de pessoas e bens e dos valores ambientais, não aumentando o risco.2. Promover a renaturalização das margens do rio e da área contígua, sempre que possível.3. Conservar as linhas de drenagem do escoamento superficial e as galerias ripícolas, devendo promover a sua manutenção ou reposição.4. Incluir no registo de propriedade a referência ao risco existente. |
-| Muito Alta/ Alta | 5. É interdita a realização de obras de construção e operações de loteamento. |
-| Média | 6. É interdita a realização de obras de construção, operações de loteamento.7. Constitui exceção ao ponto anterior a realização de obras de construção de apoios agrícolas afetos exclusivamente à exploração agrícola.8. O armazenamento de produtos químicos, como fitofármacos e fertilizantes, tem de ser sempre efetuado acima da cota de inundação. |
-| Baixa/Muito Baixa | 9. Devem ser desenvolvidas soluções urbanísticas e construtivas que não aumentem a perigosidade da inundação tal como definido nos termos do presente plano.10. Não é permitida a construção de caves em área inundável.11. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
+| Todas as classes | **1.**Assegurar que a edificabilidade em áreas inundáveis assenta sempre no pressuposto de que a perigosidade não aumenta e que são estabelecidas medidas necessárias e indispensáveis, de forma a garantir a segurança de pessoas e bens e dos valores ambientais, não aumentando o risco.**2.**Promover a renaturalização das margens do rio e da área contígua, sempre que possível.**3.**Conservar as linhas de drenagem do escoamento superficial e as galerias ripícolas, devendo promover a sua manutenção ou reposição.**4.**Incluir no registo de propriedade a referência ao risco existente. |
+| Muito Alta/ Alta | **5.**É interdita a realização de obras de construção e operações de loteamento. |
+| Média | **6.**É interdita a realização de obras de construção, operações de loteamento.**7.**Constitui exceção ao ponto anterior a realização de obras de construção de apoios agrícolas afetos exclusivamente à exploração agrícola.**8.**O armazenamento de produtos químicos, como fitofármacos e fertilizantes, tem de ser sempre efetuado acima da cota de inundação. |
+| Baixa/Muito Baixa | **9.**Devem ser desenvolvidas soluções urbanísticas e construtivas que não aumentem a perigosidade da inundação tal como definido nos termos do presente plano.**10.**Não é permitida a construção de caves em área inundável.**11.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
 
 Quadro 5 - Normas para “Reconstrução Pós Catástrofe”
 
-| Classe de perigosidade T= 100 anos | Solo urbano e rústico Normas - “Reconstrução Pós Catástrofe” |
+| Classe de perigosidade<br>T= 100 anos | Solo urbano e rústico<br>Normas - “Reconstrução Pós Catástrofe” |
 | --- | --- |
-| Todas as classes | 1. Reabilitar os espaços públicos considerando soluções que permitam aumentar e valorizar as zonas de infiltração/retenção.2. Promover o zonamento dos usos de forma a aumentar a resiliência do território.3. Dar preferência à relocalização do edificado destruído fora da zona de risco de inundação, sempre que possível.4. Caso se mantenha o edificado no mesmo local, deve ser verificado que não existe risco estrutural devido a potenciais pressões hidrostáticas hidrodinâmicas.5. Promover a renaturalização dos cursos de água artificializados recorrendo a técnicas de engenharia biofísica e privilegiando espécies autóctones características da galeria ripícola.6. Assegurar que as estradas a serem usadas como vias de evacuação permanecem transitáveis à medida que as águas sobem.7. Incentivar a subscrição de um seguro específico para o risco de inundação. |
-| Muito Alta/ Alta | 8. No caso de o edificado ter sido parcialmente afetado:a) Apenas são permitidas as obras de reconstrução que se destinem exclusivamente a suprir insuficiências de segurança, salubridade e acessibilidade aos edifícios para garantir mobilidade sem condicionamentos;b) Não é permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir, exceto em situação que se demonstre que essa ampliação diminui a exposição ao risco de inundação.c) Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos. |
-|  | 9. No caso de o edificado ter sido totalmente destruído:a) Deve preferencialmente ser transferido para um local fora da ARPSI;b) Caso seja impossível, deve ser relocalizado em área inundada onde a perigosidade é baixa ou muito baixa, não sendo permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir;c) No caso de ser demonstrada a impossibilidade de relocalização, devem ser observadas as seguintes condicionantes:i) Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos.ii) Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.iii) Nas obras de reconstrução não é permitida a construção de caves, nem a criação de novas frações ou unidades de alojamento.10. O uso do edificado reconstruído deve ser idêntico ao anterior ou, preferencialmente, diminuir o risco associado e no caso de empreendimentos turísticos deverá ser elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes. |
-| Média | 11. Não é permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir, exceto em situação que se demonstre que essa ampliação diminui a exposição ao risco de inundação.12. Nas obras de reconstrução não é permitida a construção de caves, nem criação de novas frações ou unidades de alojamento.13. O uso do edificado reconstruído deve ser idêntico ao anterior ou, preferencialmente, diminuir o risco associado, e no caso de empreendimentos turísticos deverá ser elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes.14. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.15. Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos;16. Adotar outras medidas, estruturais ou de gestão, que permitam minimizar o risco decorrente de inundações, podendo incluir sistemas antirretorno nas redes de saneamento, criação de vias de fuga para pisos superiores, implementar medidas de autoproteção, entre outras. |
-| Baixa/Muito Baixa | 17. Assegurar que a construção, reconstrução, ampliação e alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.18. Não é permitida a construção de caves, nem a criação de novas frações ou unidades de alojamento.19. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
+| Todas as classes | **1.**Reabilitar os espaços públicos considerando soluções que permitam aumentar e valorizar as zonas de infiltração/retenção.**2.**Promover o zonamento dos usos de forma a aumentar a resiliência do território.**3.**Dar preferência à relocalização do edificado destruído fora da zona de risco de inundação, sempre que possível.**4.**Caso se mantenha o edificado no mesmo local, deve ser verificado que não existe risco estrutural devido a potenciais pressões hidrostáticas hidrodinâmicas.**5.**Promover a renaturalização dos cursos de água artificializados recorrendo a técnicas de engenharia biofísica e privilegiando espécies autóctones características da galeria ripícola.**6.**Assegurar que as estradas a serem usadas como vias de evacuação permanecem transitáveis à medida que as águas sobem.**7.**Incentivar a subscrição de um seguro específico para o risco de inundação. |
+| Muito Alta/ Alta | **8.**No caso de o edificado ter sido parcialmente afetado:a) Apenas são permitidas as obras de reconstrução que se destinem exclusivamente a suprir insuficiências de segurança, salubridade e acessibilidade aos edifícios para garantir mobilidade sem condicionamentos;b) Não é permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir, exceto em situação que se demonstre que essa ampliação diminui a exposição ao risco de inundação.c) Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos. |
+|  | **9.**No caso de o edificado ter sido totalmente destruído:a) Deve preferencialmente ser transferido para um local fora da ARPSI;b) Caso seja impossível, deve ser relocalizado em área inundada onde a perigosidade é baixa ou muito baixa, não sendo permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir;c) No caso de ser demonstrada a impossibilidade de relocalização, devem ser observadas as seguintes condicionantes:i) Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos.ii) Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.iii) Nas obras de reconstrução não é permitida a construção de caves, nem a criação de novas frações ou unidades de alojamento.**10.**O uso do edificado reconstruído deve ser idêntico ao anterior ou, preferencialmente, diminuir o risco associado e no caso de empreendimentos turísticos deverá ser elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes. |
+| Média | **11.**Não é permitido o aumento da área de implantação, da área total de construção, da altura da fachada ou do número de pisos, nem o número de edifícios a reconstruir, exceto em situação que se demonstre que essa ampliação diminui a exposição ao risco de inundação.**12.**Nas obras de reconstrução não é permitida a construção de caves, nem criação de novas frações ou unidades de alojamento.**13.**O uso do edificado reconstruído deve ser idêntico ao anterior ou, preferencialmente, diminuir o risco associado, e no caso de empreendimentos turísticos deverá ser elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes.**14.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**15.**Nas obras de reconstrução devem ser utilizados materiais de construção capazes de suportar o contato direto e prolongado (pelo menos 72 horas) com as águas de inundação sem sofrer danos significativos;**16.**Adotar outras medidas, estruturais ou de gestão, que permitam minimizar o risco decorrente de inundações, podendo incluir sistemas antirretorno nas redes de saneamento, criação de vias de fuga para pisos superiores, implementar medidas de autoproteção, entre outras. |
+| Baixa/Muito Baixa | **17.**Assegurar que a construção, reconstrução, ampliação e alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.**18.**Não é permitida a construção de caves, nem a criação de novas frações ou unidades de alojamento.**19.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
 
 Quadro 6 - Normas para “Reabilitação”
 
-| Classe de perigosidade T= 100 anos | Solo urbano e rústico Normas - “Reabilitação” |
+| Classe de perigosidade<br>T= 100 anos | Solo urbano e rústico<br>Normas - “Reabilitação” |
 | --- | --- |
-| Todas as classes | 1. Potenciar a reabilitação dos espaços públicos considerando soluções que permitam aumentar e valorizar as zonas de infiltração/retenção.2. Potenciar a transformação e ou criação de espaço de fruição pública, considerando soluções que permitam o encaixe ou encaminhamento das águas e a dissipação da energia das águas.3. Implementar sistemas de drenagem pluvial que permitam o aproveitamento do recurso água.4. Renaturalizar os cursos de água artificializados recorrendo a soluções de engenharia biofísica.5. Assegurar que as estradas a serem usadas como vias de evacuação devem permanecer transitáveis à medida que as águas sobem.6. Incentivar a subscrição de um seguro específico para o risco de inundação, na situação de manutenção do edificado no mesmo espaço. |
-| Muito Alta Alta/ | 7. Nas reabilitações que impliquem a demolição do edificado degradado/em risco e posterior reconstrução, deve ser privilegiada a relocalização do edificado para área exterior à zona de risco de inundação, sempre que viável técnica, financeira e socialmente.8. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.9. Apenas são permitidas obras reconstrução, alteração ou ampliação, sujeitas a parecer da autoridade nacional da água, nas seguintes situações:a) Que se destinem exclusivamente a suprir insuficiências de segurança, salubridade e acessibilidade aos edifícios para garantir mobilidade sem condicionamentos, e sejam efetuadas no sentido contrário ao da linha de água;b) Em zona urbana consolidada.c) Que visem a diminuir a exposição ao risco de inundação.10. Nos casos em que não é viável a construção de um piso acima da cota de máxima cheia, são permitidas as obras referidas no ponto 9, desde que possibilitem que os seus ocupantes permaneçam em condições de segurança, de conforto e de salubridade, sendo admitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.11. Nos casos descritos no ponto 10, o Município deve assegurar, no seu Plano Municipal de Emergência de Proteção Civil, que existem medidas para o aviso e proteção destas populações, em situações de inundações.12. Nos empreendimentos turísticos é elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes.13. Os Municípios devem promover um estudo para a definição de soluções que diminuam a vulnerabilidade de pessoas e bens nestas áreas. |
-| Média | 14. São permitidas obras de reconstrução, ampliação ou alteração, mediante parecer da autoridade nacional da água, devendo ser realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.15. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.16. Nos casos em que não é viável a construção de um piso acima da cota de máxima cheia, são permitidas as obras referidas no ponto 15, desde que possibilitem que os seus ocupantes permaneçam em condições de segurança, de conforto e de salubridade, sendo admitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.17. Nos casos descritos no ponto 16, o Município deve assegurar, no seu Plano Municipal de Emergência de Proteção Civil, que existem medidas para o aviso e proteção destas populações, em situações de inundações.18. Nos empreendimentos turísticos é elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de auto-proteção que inclua o risco de inundações, quando existentes.19. Os Municípios devem promover um estudo para a definição de soluções que diminuam a vulnerabilidade de pessoas e bens nestas áreas. |
-| Baixa/Muito Baixa | 20. Assegurar que as obras de construção, reconstrução, ampliação ou alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.21. Não é permitida a construção de caves ou de novas frações.22. Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
+| Todas as classes | **1.**Potenciar a reabilitação dos espaços públicos considerando soluções que permitam aumentar e valorizar as zonas de infiltração/retenção.**2.**Potenciar a transformação e ou criação de espaço de fruição pública, considerando soluções que permitam o encaixe ou encaminhamento das águas e a dissipação da energia das águas.**3.**Implementar sistemas de drenagem pluvial que permitam o aproveitamento do recurso água.**4.**Renaturalizar os cursos de água artificializados recorrendo a soluções de engenharia biofísica.**5.**Assegurar que as estradas a serem usadas como vias de evacuação devem permanecer transitáveis à medida que as águas sobem.**6.**Incentivar a subscrição de um seguro específico para o risco de inundação, na situação de manutenção do edificado no mesmo espaço. |
+| Muito Alta Alta/ | **7.**Nas reabilitações que impliquem a demolição do edificado degradado/em risco e posterior reconstrução, deve ser privilegiada a relocalização do edificado para área exterior à zona de risco de inundação, sempre que viável técnica, financeira e socialmente.**8.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**9.**Apenas são permitidas obras reconstrução, alteração ou ampliação, sujeitas a parecer da autoridade nacional da água, nas seguintes situações:a) Que se destinem exclusivamente a suprir insuficiências de segurança, salubridade e acessibilidade aos edifícios para garantir mobilidade sem condicionamentos, e sejam efetuadas no sentido contrário ao da linha de água;b) Em zona urbana consolidada.c) Que visem a diminuir a exposição ao risco de inundação.**10.**Nos casos em que não é viável a construção de um piso acima da cota de máxima cheia, são permitidas as obras referidas no ponto 9, desde que possibilitem que os seus ocupantes permaneçam em condições de segurança, de conforto e de salubridade, sendo admitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**11.**Nos casos descritos no ponto 10, o Município deve assegurar, no seu Plano Municipal de Emergência de Proteção Civil, que existem medidas para o aviso e proteção destas populações, em situações de inundações.**12.**Nos empreendimentos turísticos é elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de autoproteção que inclua o risco de inundações, quando existentes.**13.**Os Municípios devem promover um estudo para a definição de soluções que diminuam a vulnerabilidade de pessoas e bens nestas áreas. |
+| Média | **14.**São permitidas obras de reconstrução, ampliação ou alteração, mediante parecer da autoridade nacional da água, devendo ser realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.**15.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**16.**Nos casos em que não é viável a construção de um piso acima da cota de máxima cheia, são permitidas as obras referidas no ponto 15, desde que possibilitem que os seus ocupantes permaneçam em condições de segurança, de conforto e de salubridade, sendo admitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local.**17.**Nos casos descritos no ponto 16, o Município deve assegurar, no seu Plano Municipal de Emergência de Proteção Civil, que existem medidas para o aviso e proteção destas populações, em situações de inundações.**18.**Nos empreendimentos turísticos é elaborado um documento de Segurança e/ou de Emergência Interno e um documento com medidas de auto-proteção que inclua o risco de inundações, quando existentes.**19.**Os Municípios devem promover um estudo para a definição de soluções que diminuam a vulnerabilidade de pessoas e bens nestas áreas. |
+| Baixa/Muito Baixa | **20.**Assegurar que as obras de construção, reconstrução, ampliação ou alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.**21.**Não é permitida a construção de caves ou de novas frações.**22.**Não é permitida a localização de quartos de dormir no piso inferior à cota de cheia definida para o local. |
 
 Na categoria “Projetos de Interesse Estratégico” (PIE) incluem-se os projetos que são relevantes para o desenvolvimento económico do município, de “Potencial Interesse Nacional” (PIN), “Projeto de Investimento para Interior” (PII). A proposta de orientações dos PIE inclui numa primeira fase a análise do projeto através de um questionário, que não se aplica aos projetos classificados como PIN.
 
 Quadro 7 - Normas para “Projetos de Interesse Estratégico”
 
-| Classe de perigosidade T= 100 anos | Solo urbano e rústico Normas - “Projetos de Interesse Estratégico” |
+| Classe de perigosidade<br>T= 100 anos | Solo urbano e rústico<br>Normas - “Projetos de Interesse Estratégico” |
 | --- | --- |
-| Todas as classes | 1. A caracterização do projeto deve incluir:a) O objetivo da intervenção.b) Quais os benefícios expectáveis.c) Qual a área de influência.d) A formulação de uma análise Analytic Hierarchy Process (AHP).e) Análise comparativa custos/benefícios e potenciais danos, face a outras localizações fora das áreas de risco.f) Avaliação do interesse estratégico do projeto com envolvimento de todas as partes interessadas.g) Demonstração de que não é viável a sua implementação fora da área inundada.h) Outras informações relevantes considerando o nível de perigosidade da área onde se insere o projeto.Confirmado o carácter estratégico do projeto, é indispensável desenvolver um estudo hidráulico a uma escala de pormenor que conduza ao cumprimento dos princípios do PGRI em matéria de redução do risco e que demonstre que a construção não representa um agravamento do perigo a jusante ou montante da sua área de implantação.No registo de propriedade tem de constar a referência ao risco existente e as conclusões do estudo hidráulico.2. Incentivar a subscrição de um seguro específico para o risco de inundação. Potenciar, sempre que possível, uma rede contínua de espaços verdes, corredores ecológicos, com soluções de maior infiltração que evitem o escoamento superficial, permitam o encaixe ou encaminhamento das águas e/ou de dissipação da energia das águas e possível utilização.3. Potenciar pavimentos permeáveis na zona de intervenção.4. Assegurar a minimização do risco de danos materiais e de poluição/contaminação nos projetos a desenvolver, devendo, por exemplo, garantir que não há arrastamento de substâncias de risco biológico, químico, radiológico ou nuclear, ou outros durante uma inundação.5. Apresentar soluções para garantir estanquicidade do(s) edifício (s). |
-| Muito Alta Alta/ | 6. É interdita a instalação de Projetos de Interesse Estratégico nestas áreas. |
-| Média | 7. São permitidas obras de construção, reconstrução, ampliação e alteração, mediante parecer da autoridade nacional da água, e devem ser realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território. |
-|  | 8. Elaborar um Plano de Emergência Interno ou um documento com medidas de autoproteção que inclua o risco inundações.9. Assegurar que não há aumento da altura de água e da velocidade nas vias utilizadas para evacuação em situações de emergência.10. Evitar a impermeabilização dos solos nos espaços exteriores.11. Demonstrar, de forma inequívoca, que o tempo entre o aviso de inundação e o pico de cheia na área a intervencionar é suficiente para a implementação das medidas de autoproteção constantes do Plano de Emergência Interno. |
-| Baixa/Muito Baixa | 12. Assegurar que a construção, reconstrução, ampliação e alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.13. Elaborar um Plano de Emergência Interno ou um documento com medidas de autoproteção que inclua o risco inundações.14. Evitar a impermeabilização dos solos nos espaços exteriores. |
+| Todas as classes | **1.**A caracterização do projeto deve incluir:a) O objetivo da intervenção.b) Quais os benefícios expectáveis.c) Qual a área de influência.d) A formulação de uma análise Analytic Hierarchy Process (AHP).e) Análise comparativa custos/benefícios e potenciais danos, face a outras localizações fora das áreas de risco.f) Avaliação do interesse estratégico do projeto com envolvimento de todas as partes interessadas.g) Demonstração de que não é viável a sua implementação fora da área inundada.h) Outras informações relevantes considerando o nível de perigosidade da área onde se insere o projeto.Confirmado o carácter estratégico do projeto, é indispensável desenvolver um estudo hidráulico a uma escala de pormenor que conduza ao cumprimento dos princípios do PGRI em matéria de redução do risco e que demonstre que a construção não representa um agravamento do perigo a jusante ou montante da sua área de implantação.No registo de propriedade tem de constar a referência ao risco existente e as conclusões do estudo hidráulico.**2.**Incentivar a subscrição de um seguro específico para o risco de inundação. Potenciar, sempre que possível, uma rede contínua de espaços verdes, corredores ecológicos, com soluções de maior infiltração que evitem o escoamento superficial, permitam o encaixe ou encaminhamento das águas e/ou de dissipação da energia das águas e possível utilização.**3.**Potenciar pavimentos permeáveis na zona de intervenção.**4.**Assegurar a minimização do risco de danos materiais e de poluição/contaminação nos projetos a desenvolver, devendo, por exemplo, garantir que não há arrastamento de substâncias de risco biológico, químico, radiológico ou nuclear, ou outros durante uma inundação.**5.**Apresentar soluções para garantir estanquicidade do(s) edifício (s). |
+| Muito Alta Alta/ | **6.**É interdita a instalação de Projetos de Interesse Estratégico nestas áreas. |
+| Média | **7.**São permitidas obras de construção, reconstrução, ampliação e alteração, mediante parecer da autoridade nacional da água, e devem ser realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território. |
+|  | **8.**Elaborar um Plano de Emergência Interno ou um documento com medidas de autoproteção que inclua o risco inundações.**9.**Assegurar que não há aumento da altura de água e da velocidade nas vias utilizadas para evacuação em situações de emergência.**10.**Evitar a impermeabilização dos solos nos espaços exteriores.**11.**Demonstrar, de forma inequívoca, que o tempo entre o aviso de inundação e o pico de cheia na área a intervencionar é suficiente para a implementação das medidas de autoproteção constantes do Plano de Emergência Interno. |
+| Baixa/Muito Baixa | **12.**Assegurar que a construção, reconstrução, ampliação e alteração são realizadas através da implementação de soluções urbanísticas e construtivas de adaptação/acomodação ao risco de inundações, que permitam aumentar a resiliência do território.**13.**Elaborar um Plano de Emergência Interno ou um documento com medidas de autoproteção que inclua o risco inundações.**14.**Evitar a impermeabilização dos solos nos espaços exteriores. |
 
 Quadro 8- Normas para novos “Edifícios sensíveis”
 
-| Classe de perigosidade T= 100 anos | Solo urbano e rústico Normas - “Edifícios sensíveis” |
+| Classe de perigosidade<br>T= 100 anos | Solo urbano e rústico<br>Normas - “Edifícios sensíveis” |
 | --- | --- |
-| Muito Alta Alta/ | 1. É interdita a criação de novas construções da tipologia edifícios sensíveis.A matriz de decisão estabelece em área inundável para qualquer nível de perigosidade a proibição de implementação de projetos cuja tipologia inclua os edifícios sensíveis:a) Hospitais, escolas, infantários, creches, qualquer outro edifício onde as ações de evacuação dos seus ocupantes possam ficar comprometida;b) Serviços de emergência como bombeiros, polícia e ambulâncias, serviços fundamentais na resposta a situações de emergência;c) Seveso/PCIP - instalações associadas à eliminação, fabrico, tratamento ou armazenamento de substâncias perigosas. |
-| Média | 1. É interdita a criação de novas construções da tipologia edifícios sensíveis.A matriz de decisão estabelece em área inundável para qualquer nível de perigosidade a proibição de implementação de projetos cuja tipologia inclua os edifícios sensíveis:a) Hospitais, escolas, infantários, creches, qualquer outro edifício onde as ações de evacuação dos seus ocupantes possam ficar comprometida;b) Serviços de emergência como bombeiros, polícia e ambulâncias, serviços fundamentais na resposta a situações de emergência;c) Seveso/PCIP - instalações associadas à eliminação, fabrico, tratamento ou armazenamento de substâncias perigosas. |
-| Baixa/Muito Baixa | 1. É interdita a criação de novas construções da tipologia edifícios sensíveis.A matriz de decisão estabelece em área inundável para qualquer nível de perigosidade a proibição de implementação de projetos cuja tipologia inclua os edifícios sensíveis:a) Hospitais, escolas, infantários, creches, qualquer outro edifício onde as ações de evacuação dos seus ocupantes possam ficar comprometida;b) Serviços de emergência como bombeiros, polícia e ambulâncias, serviços fundamentais na resposta a situações de emergência;c) Seveso/PCIP - instalações associadas à eliminação, fabrico, tratamento ou armazenamento de substâncias perigosas. |
+| Muito Alta Alta/ | **1.**É interdita a criação de novas construções da tipologia edifícios sensíveis.A matriz de decisão estabelece em área inundável para qualquer nível de perigosidade a proibição de implementação de projetos cuja tipologia inclua os edifícios sensíveis:a) Hospitais, escolas, infantários, creches, qualquer outro edifício onde as ações de evacuação dos seus ocupantes possam ficar comprometida;b) Serviços de emergência como bombeiros, polícia e ambulâncias, serviços fundamentais na resposta a situações de emergência;c) Seveso/PCIP - instalações associadas à eliminação, fabrico, tratamento ou armazenamento de substâncias perigosas. |
+| Média |  |
+| Baixa/Muito Baixa |  |
 
 Quadro 9 - Normas para Infraestruturas ligadas à água
 
-| Classe de perigosidade T= 100 anos | Solos rústico e urbano Normas – “Infraestruturas ligadas à água” |
+| Classe de perigosidade<br>T= 100 anos | Solos rústico e urbano<br>Normas – “Infraestruturas ligadas à água” |
 | --- | --- |
-| Muito Alta Alta/ | 1. Demonstrar, de forma inequívoca, que não existe alternativa e que é essencial a implantação no local da(s) instalação(ões), após o que serão definidas as condições específicas para a sua implantação.2. Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.3. Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos.4. Não são permitidos edifícios que se destinem a escritórios, escolas de atividade náutica, refeitórios e balneários. |
-| Média | 5. Demonstrar, de forma inequívoca, que não existe alternativa e que é essencial a implantação no local da(s) instalação(ões), após o que serão definidas as condições especificas para a sua implantação, que salvaguardem a segurança de pessoas.6. Demonstrar, de forma inequívoca, que não haverá impacto significativo nas funções hidráulicas ou fluviais do curso de água, sendo que as velocidades de escoamento a montante e a jusante não se devem intensificar por forma a alterar o prévio nível de perigosidade e, cumulativamente, desde que o acréscimo do índice de perigosidade seja inferior a 0,25.7. Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos, com impacto na envolvente.8. Os edifícios que se destinem a escritórios, escolas de atividade náutica e refeitórios devem situar-se acima da cota de máxima cheia para o local. |
-| Baixa/Muito Baixa | 9. Demonstrar, de forma inequívoca, que não há incremento significativo do risco e não são criados novos perigos, com impacto na envolvente. |
+| Muito Alta Alta/ | **1.**Demonstrar, de forma inequívoca, que não existe alternativa e que é essencial a implantação no local da(s) instalação(ões), após o que serão definidas as condições específicas para a sua implantação.**2.**Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.**3.**Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos.**4.**Não são permitidos edifícios que se destinem a escritórios, escolas de atividade náutica, refeitórios e balneários. |
+| Média | **5.**Demonstrar, de forma inequívoca, que não existe alternativa e que é essencial a implantação no local da(s) instalação(ões), após o que serão definidas as condições especificas para a sua implantação, que salvaguardem a segurança de pessoas.**6.**Demonstrar, de forma inequívoca, que não haverá impacto significativo nas funções hidráulicas ou fluviais do curso de água, sendo que as velocidades de escoamento a montante e a jusante não se devem intensificar por forma a alterar o prévio nível de perigosidade e, cumulativamente, desde que o acréscimo do índice de perigosidade seja inferior a 0,25.**7.**Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos, com impacto na envolvente.**8.**Os edifícios que se destinem a escritórios, escolas de atividade náutica e refeitórios devem situar-se acima da cota de máxima cheia para o local. |
+| Baixa/Muito Baixa | **9.**Demonstrar, de forma inequívoca, que não há incremento significativo do risco e não são criados novos perigos, com impacto na envolvente. |
 
 Quadro 10 - Normas para as “Infraestruturas Territoriais”
 
-| Classe de perigosidade T= 100 anos | Solo urbano e rústico Normas – “Infraestruturas Territoriais” |
+| Classe de perigosidade<br>T= 100 anos | Solo urbano e rústico<br>Normas – “Infraestruturas Territoriais” |
 | --- | --- |
-| Todas as classes | 1. Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos.2. Assegurar o contínuo fluvial, das várias componentes que caracterizam o ecossistema fluvial.3. Assegurar, no atravessamento dos cursos de água, a permeabilidade hídrica e atmosférica e evitar a fragmentação dos ecossistemas.4. Minimizar as superfícies de impermeabilização e a perda de vegetação natural |
-| Muito Alta Alta/ | 5. Apresentar os estudos de suporte à escolha do traçado e demonstrar a ausência de alternativa.6. Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.7. Assegurar que o dimensionamento das passagens hidráulicas nestas áreas está adequado à perigosidade da inundação do período de retorno de 100 anos. |
-| Média | 8. Apresentar os estudos de suporte à escolha do traçado e demonstrar a ausência de alternativa.9. Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensifica.10. Assegurar que o dimensionamento das passagens hidráulicas nestas áreas está adequado à perigosidade da inundação do período de retorno de 100 anos.11. É permitida a realização de obras de construção de ETAR, desde que comprovadamente se demonstre que não há alternativa técnica viável, sujeita a parecer da autoridade nacional da água. |
-| Baixa/Muito Baixa | 12. Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.13. É permitida a realização de obras de construção de ETAR, desde que comprovadamente se demonstre que não há alternativa técnica viável, sujeita a parecer da autoridade nacional da água. |
+| Todas as classes | **1.**Demonstrar, de forma inequívoca, que não há incremento do risco e não são criados novos perigos.**2.**Assegurar o contínuo fluvial, das várias componentes que caracterizam o ecossistema fluvial.**3.**Assegurar, no atravessamento dos cursos de água, a permeabilidade hídrica e atmosférica e evitar a fragmentação dos ecossistemas.**4.**Minimizar as superfícies de impermeabilização e a perda de vegetação natural |
+| Muito Alta Alta/ | **5.**Apresentar os estudos de suporte à escolha do traçado e demonstrar a ausência de alternativa.**6.**Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.**7.**Assegurar que o dimensionamento das passagens hidráulicas nestas áreas está adequado à perigosidade da inundação do período de retorno de 100 anos. |
+| Média | **8.**Apresentar os estudos de suporte à escolha do traçado e demonstrar a ausência de alternativa.**9.**Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensifica.**10.**Assegurar que o dimensionamento das passagens hidráulicas nestas áreas está adequado à perigosidade da inundação do período de retorno de 100 anos.**11.**É permitida a realização de obras de construção de ETAR, desde que comprovadamente se demonstre que não há alternativa técnica viável, sujeita a parecer da autoridade nacional da água. |
+| Baixa/Muito Baixa | **12.**Demonstrar, de forma inequívoca, que não haverá impacto nas funções hidráulicas ou fluviais do curso de água, que as velocidades de escoamento a montante e a jusante não se intensificam.**13.**É permitida a realização de obras de construção de ETAR, desde que comprovadamente se demonstre que não há alternativa técnica viável, sujeita a parecer da autoridade nacional da água. |
+
+117543631

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/169/2025/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2025-943290583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f30c3ae73d83527e263ce4868e0a317519521845c330349ca819fd45139b3694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 965c3680261bd42213490f7462cbd59977259b6358851eb176958a6e91671a19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Financiamento
-- Educação Especial
 - Contrato de Cooperação
 - Despesas Públicas
-- Ensino Particular
 - Direção Geral dos Estabelecimentos Escolares
+- Educação Especial
+- Ensino Particular
 - Estabelecimento de Ensino
+- Financiamento
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:97/2025
+  label: Altera, a partir de 31 de outubro de 2025, os n.ºs 1 e 2 da Resolução do Conselho de Ministros n.º 97/2025, de 5
+    de maio, Diário da República n.º 85/2025, Série I
+  source: null
+  date: '2025-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -116,23 +122,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2025/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2025/05/05/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211573083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745907:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:15Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 169/2025
 
-De acordo com o disposto no n.º 1 do artigo 20.º e nos n.<sup>os</sup>1, 2 e 5 do artigo 21.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, que estabelece a Lei de Bases do Sistema Educativo, alterada pelas Leis n.<sup>os</sup>[115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e [16/2023](https://diariodarepublica.pt/dr/detalhe/lei/16-2023-211573083), de 10 de abril, a educação especial visa a recuperação e a integração socioeducativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais e organiza-se, preferencialmente, segundo modelos diversificados de integração em estabelecimentos regulares de ensino, tendo em conta as necessidades de atendimento específico, e com apoios de educadores especializados, processando-se também em instituições específicas, quando o tipo e o grau de deficiência do educando comprovadamente o exijam, e incumbindo ao Estado promover e apoiar a educação especial.
+De acordo com o disposto no n.º 1 do artigo 20.º e nos n.os1, 2 e 5 do artigo 21.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, que estabelece a Lei de Bases do Sistema Educativo, alterada pelas Leis n.os[115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e [16/2023](https://diariodarepublica.pt/dr/detalhe/lei/16-2023-211573083), de 10 de abril, a educação especial visa a recuperação e a integração socioeducativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais e organiza-se, preferencialmente, segundo modelos diversificados de integração em estabelecimentos regulares de ensino, tendo em conta as necessidades de atendimento específico, e com apoios de educadores especializados, processando-se também em instituições específicas, quando o tipo e o grau de deficiência do educando comprovadamente o exijam, e incumbindo ao Estado promover e apoiar a educação especial.
 
 O [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, alterado pela [Lei n.º 116/2019](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), de 13 de setembro, e pelo [Decreto-Lei n.º 62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, estabelece o regime jurídico da educação inclusiva, nos ensinos básico e secundário das redes pública, privada, cooperativa e solidária, identificando as medidas de suporte à aprendizagem e à inclusão, bem como os recursos específicos a mobilizar para responder às necessidades educativas das crianças e dos jovens ao longo do seu percurso escolar.
 
@@ -148,7 +206,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1 e 2 da [Resolução do Conselho de Ministros n.º 97/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2025-916745907), de 5 de maio, que passam a ter a seguinte redação:
+1 - Alterar os n.os1 e 2 da [Resolução do Conselho de Ministros n.º 97/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2025-916745907), de 5 de maio, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Direção-Geral dos Estabelecimentos Escolares (DGEstE) a realizar a despesa relativa aos apoios financeiros decorrentes da celebração de contratos e acordos de cooperação com estabelecimentos de ensino particular de educação especial, com cooperativas e associações de ensino especial e com instituições particulares de solidariedade social, para o ano letivo de 2025-2026, até ao montante global máximo de € 12 570 000,00, isento do imposto sobre o valor acrescentado.
 
@@ -169,3 +227,5 @@ ii) Cooperativas e associações de ensino especial e instituições particulare
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de outubro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119705895

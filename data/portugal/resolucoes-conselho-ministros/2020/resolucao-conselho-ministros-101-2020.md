@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22700/0001000011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2020/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2020-149104781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 086c2d9d242b4201c7a081cc36e59c145c4c34038afa0574155be1add2451048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a423c2d696c02589d5961a34e3de14de11d8ef646888f3831fe89887d32f872b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Financiamento
-- Empresa
-- Definição de Competências
-- Fundos CE
 - Apoio à Exportação
-- Linha de Crédito
+- Atividade Industrial
+- Banco Português de Fomento
 - Crédito
-- Tesouraria
+- Definição de Competências
 - Doença Infecciosa
+- Empresa
 - Epidemia
+- Financiamento
+- Fundos CE
+- Linha de Crédito
+- Microempresa
+- Ministro de Estado da Economia e da Transição Digital
+- Pequenas e Médias Empresas
+- PME
 - Política Económica
 - Posto de Trabalho
 - Prestação de Serviços
-- Microempresa
-- Pequenas e Médias Empresas
-- PME
-- Subsídio
-- Ministro de Estado da Economia e da Transição Digital
 - Programa de Estabilização Económica e Social
-- Banco Português de Fomento
+- Subsídio
+- Tesouraria
 relationships:
 - type: amended_by
   target: pt:dre:204672332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154361180:por
+  label: Alargado ao 4.º trimestre de 2020 o apoio de tesouraria sob a forma de subsídio a fundo perdido aprovado pelo n.º
+    1 do presente didloma pelo(a) Resolução do Conselho de Ministros n.º 4-A/2021 - Diário da República n.º 10/2021, 2º Suplemento,
+    Série I de 2021-01-15, nos termos do disposto no seu n.º 1.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/4-a-2021-154361180
+  date: '2021-01-15'
+- type: amended_by
+  target: pt:dre:160149402:por
+  label: Determinado o alargamento e o aumento dos limites máximos do apoio de tesouraria sob a forma de subsídio a fundo
+    perdido aprovado pelo n.º 1 da presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 33-A/2021 - Diário da
+    República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/33-a-2021-160149402
+  date: '2021-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46-a/2020/07/30/p/dre
   label: null
@@ -99,16 +113,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:21Z'
   warnings: []
   errors: []
 ---
@@ -150,3 +172,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 6 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
 
 Presidência do Conselho de Ministros, 5 de novembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113747672

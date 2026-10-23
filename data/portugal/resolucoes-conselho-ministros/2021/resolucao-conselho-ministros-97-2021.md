@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14400/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2021/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2021-168398499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e95d62f02abe0469cae00b2b939abbc09058e6a06a80418c9dfb6a63d7b7f959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c70c3089913c6eda5952b5b35b7c1c1b3f411c3c6dfd3bbebdd428dc42eaf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agenda de Inovação para a Agricultura 2020-2030
+- Agricultor
+- Agricultura
 - Atividade Agrícola
 - Azeitona
 - Ecologia
-- Feader
 - Estatística Agrícola
-- Reconversão da Produção
+- Exploração Agrícola
+- Feader
 - Gestão Agrícola
 - Indústria Agro-alimentar
 - Informatização
-- Exploração Agrícola
-- Proteção do Ambiente
+- PDR 2020
+- Plano de Recuperação e Resiliência
+- Política Agrícola
 - Política de Produção Agrícola
+- Portal ePortugal
+- Produção Agrícola
+- Produto Agrícola
 - Produto Agro-alimentar
 - Programa Agrícola
-- Agricultor
 - Projecto Agrícola
+- Proteção do Ambiente
 - Recenseamento Agrícola
-- Política Agrícola
-- Produção Agrícola
+- Reconversão da Produção
 - Recursos Naturais
-- Agricultura
 - Relatório
-- Produto Agrícola
-- PDR 2020
-- Portal ePortugal
-- Agenda de Inovação para a Agricultura 2020-2030
-- Plano de Recuperação e Resiliência
 relationships:
 - type: cites
   target: celex:32004R0852
@@ -117,16 +117,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2020/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2020/10/13/p/dre
+- type: cites
+  target: pt:dre:124097549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:42Z'
   warnings: []
   errors: []
 ---
@@ -216,3 +228,5 @@ c) Cultura de abacate no Algarve.
 16 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 1 de julho de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114443218

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/2025/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2025-949908818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c95f137950c4160e8e4b01bc2a4064c94cb89ed30f8f4befdbc07e981a2348d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6046701f9b61b91ddb6273ea8f9fc8d7d205eeb031940aaf24e3996c2cdc4360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Conselho de Administração
+- Exoneração
 - Nomeação
 - Unidade Local de Saúde do Estuário do Tejo
 relationships:
@@ -94,16 +94,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838996443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899560178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:25Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +148,7 @@ Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta 
 
 Neste âmbito, se, por um lado, o presidente do conselho de administração e a vogal executiva da Unidade Local de Saúde do Estuário do Tejo, E. P. E., designados pelo [Despacho n.º 974/2024](https://diariodarepublica.pt/dr/detalhe/despacho/974-2024-838996443), publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro de 2024, apresentaram renúncia, por outro, é necessário renovar a sua liderança, designando uma equipa que, de forma dialogante, cooperante e adaptativa, se revele mais ajustada ao novo desenho integrado de cuidados de saúde das unidades locais de saúde. Com efeito, considera-se crucial que os novos membros da administração tenham a capacidade de enfrentar os desafios imediatos e operacionalizar as medidas estratégicas que se impõem, através de uma gestão sólida e eficaz, assegurando uma efetiva implementação da prestação de cuidados de saúde aos utentes, com qualidade e segurança.
 
-Por conseguinte, tendo por base a necessidade de imprimir uma nova dinâmica à gestão da Unidade Local de Saúde do Estuário do Tejo, E. P. E., e sempre com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.<sup>os</sup>1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+Por conseguinte, tendo por base a necessidade de imprimir uma nova dinâmica à gestão da Unidade Local de Saúde do Estuário do Tejo, E. P. E., e sempre com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.os1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
 
 Concomitantemente, procede-se, igualmente, através da presente resolução do Conselho de Ministros, à designação de um novo conselho de administração, conforme disposto no artigo 69.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual.
 
@@ -126,7 +158,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.<sup>os</sup>1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo I ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, na sua redação atual, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.os1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo I ao [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, na sua redação atual, o Conselho de Ministros resolve:
 
 1 - Dissolver, pela necessidade imperiosa e gestionária de imprimir um novo modelo de liderança à instituição, o conselho de administração da Unidade Local de Saúde do Estuário do Tejo, E. P. E., designado pelos Despachos do diretor executivo do Serviço Nacional de Saúde n.º [974/2024](https://diariodarepublica.pt/dr/detalhe/despacho/974-2024-838996443), publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro, e [14569/2024](https://diariodarepublica.pt/dr/detalhe/despacho/14569-2024-899560178), publicado no Diário da República, 2.ª série, n.º 239, de 10 de dezembro, sem prejuízo da renúncia apresentada pelo presidente do conselho de administração e pela vogal executiva.
 
@@ -341,3 +373,5 @@ Experiência Académica:
 2019-atualidade: Professora convidada e coordenadora da pós-graduação em Gestão e Inovação em Saúde na Escola Superior de Enfermagem São Francisco das Misericórdias.
 
 2000-2011: Professora convidada da Escola de Serviço de Saúde Militar, tendo lecionado a disciplina de Gestão em enfermagem ao curso de Complemento de Formação de Enfermagem.
+
+119795035

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 238/2022, 2º Suplemento, Série I de 2022-12-13
   number: '238'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23802/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/121-b/2022/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-b-2022-204731628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01198fdc9792c8d8a5db0760f7a10dd83f167af7f9253c9c2d65739daf3d38c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 834f68bbd21f5f80b5a1cc6163159c0c3a7110dcfc85b4ad250f619ca37e74eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Contrapartida
 - Delegação de Competências
 - Despesas Públicas
-- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
-- Ministro das Finanças
-- Interesse Público
 - Ensino Secundário
-- Parque Escolar
 - Estabelecimento de Ensino
-- Prestação de Serviços
-- Ministro da Educação
 - Governo XXIII
+- Interesse Público
+- Ministro da Educação
+- Ministro das Finanças
+- Parque Escolar
+- Prestação de Serviços
+- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2008/08/26/p/dre
@@ -100,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/194/2021/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/194/2021/12/30/p/dre
+- type: cites
+  target: pt:dre:176811783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:17Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +161,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 5 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 7 de dezembro de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115965663

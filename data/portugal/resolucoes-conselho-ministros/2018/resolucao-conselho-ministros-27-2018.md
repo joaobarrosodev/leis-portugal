@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04900/0124401246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/27/2018/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2018-114834166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dd439e05077ec1c8b5ce94cca233f25f71fd14c29c7120dad093ff83ebb230f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6eb0065fa6d13a7454370aae007ed5ebcab017511f191a1551a3a5a8f3548fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
-- Infarmed
-- Fundação para a Ciência e a Tecnologia
+- Agência de Investigação Clínica e Inovação Biomédica
 - Definição de Competências
+- Fundação para a Ciência e a Tecnologia
+- Infarmed
 - Investigação
+- Investigação Científica e Tecnológica
 - Pessoa Colectiva de Direito Privado
 - Pessoa Colectiva de Direito Privado sem FINS Lucrativos
 - Porto
-- Agência de Investigação Clínica e Inovação Biomédica
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o acompanhamento das atividades de interesse público desenvolvidas pela
+    Agência para a Investigação Clínica e Inovação Biomédica, criada pela presente Resolução, na área da investigação clínica
+    e da translação, seja exercido pelo Ministro da Ciência, Tecnologia e Ensino Superior, em coordenação com a Ministra da
+    Saúde, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o acompanhamento na área da investigação clínica e da translação pela Ministra
+    da Ciência, Tecnologia e Ensino Superior, em coordenação com a Ministra da Saúde, das atividades de interesse público
+    desenvolvidas pela Agência para a Investigação Clínica e Inovação Biomédica (AICIB) pelo(a) Decreto-Lei n.º 32/2022 -
+    Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que sejam acompanhadas pelo Ministro da Educação, Ciência e Inovação,
+    em coordenação com a Ministra da Saúde, as atividades de interesse público desenvolvidas pela Agência para a Investigação
+    Clínica e Inovação Biomédica, na área da investigação clínica e da translação pelo(a) Decreto-Lei n.º 32/2024 - Diário
+    da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que sejam acompanhadas pelo Ministro da Educação, Ciência e Inovação,
+    em coordenação com a Ministra da Saúde, as atividades de interesse público desenvolvidas pela Agência para a Investigação
+    Clínica e Inovação Biomédica, na área da investigação clínica e da translação pelo(a) Decreto-Lei n.º 87-A/2025 - Diário
+    da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
@@ -91,16 +123,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/20/2016/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/20/2016/04/11/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74094658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:38Z'
   warnings: []
   errors: []
 ---
@@ -186,3 +226,5 @@ c) Uma dotação anual a realizar pela FCT, I. P., de, pelo menos, (euro) 1 000 
 13 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 15 de fevereiro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111179397

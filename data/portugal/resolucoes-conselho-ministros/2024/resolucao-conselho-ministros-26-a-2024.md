@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 36/2024, 1º Suplemento, Série I de 2024-02-20
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 29-(2) a 29-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03601/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26-a/2024/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-a-2024-853137731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a11f044c188304c8d97998946e40de3d402bb56d791de3e65ecb0cad7cf2ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74e8d6f97b8b0f26401981e50857addb1e4e964a202c945773e9a702055dfb42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Agência Portuguesa do Ambiente
 - Água
+- Algarve
 - Autorização de Despesas
-- Ministro da Economia
 - Conselho de Ministros
-- Recursos Hídricos
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
-- Algarve
-- Instituto da Conservação da Natureza e das Florestas
-- Abastecimento de Água
-- Ministro do Ambiente e da Ação Climática
-- Situação de Alerta
-- Agência Portuguesa do Ambiente
 - Governo XXIII
+- Instituto da Conservação da Natureza e das Florestas
 - Ministro da Agricultura e da Alimentação
+- Ministro da Economia
+- Ministro do Ambiente e da Ação Climática
+- Recursos Hídricos
+- Situação de Alerta
 relationships:
 - type: amended_by
   target: pt:dre:869623320:por
@@ -126,16 +126,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82/2023/12/29/p/d
   label: null
   source: http://data.dre.pt/eli/lei/82/2023/12/29/p/d
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:869623320:por
+  label: Revogada, com efeitos a 14 de junho de 2024, a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º
+    80/2024 - Diário da República n.º 119/2024, Série I de 2024-06-21, nos termos dos seus n.ºs 46 e 47
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/80-2024-869623320
+  date: '2024-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:30Z'
   warnings: []
   errors: []
 ---
@@ -467,3 +517,5 @@ Orla Meridional Indiferenciado da Bacia do Guadiana.
 São Bartolomeu.
 
 Monte Gordo.
+
+117374277

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 152/2019, 1º Suplemento, Série I de 2019-08-09
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 25-(2) a 25-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15201/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/134-a/2019/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-a-2019-123891079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11729c0dc24b42d1438cab2c34e9a53b90a4e9c823d718b1e801406c8f3663eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8ebe1d6783b9f9cde2003df422311f343ad2580191f2120c570d61ed922964e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,34 @@ reuse:
 subjects:
 - Abastecimento
 - Abastecimento de BENS Essenciais
-- Proteção Civil
-- Crise da Energia
+- ÁREA de Serviço
+- Autoridade Nacional de Emergência e Proteção Civil
 - Combustível
+- Crise da Energia
+- Energia
 - Fiscalização
 - Greve
 - Interesse Público
-- Publicitação
 - Medidas Preventivas
-- Transporte de Mercadorias
+- Ministro da Administração Interna
+- Ministro do Ambiente e da Transição Energética
 - Plano de Emergência
-- ÁREA de Serviço
-- Energia
+- Posto de Abastecimento de Combustíveis
+- Proteção Civil
+- Publicitação
 - REPA
 - Serviço Público
-- Posto de Abastecimento de Combustíveis
-- Ministro da Administração Interna
 - Serviços Mínimos
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
-- Ministro do Ambiente e da Transição Energética
-- Autoridade Nacional de Emergência e Proteção Civil
 relationships:
+- type: amended_by
+  target: pt:dre:124044605:por
+  label: Determinadas, com efeitos imediatos, a revisão de medidas excecionais previstas na presente resolução, pelo(a) Resolução
+    do Conselho de Ministros n.º 139-A/2019 - Diário da República n.º 157/2019, 1º Suplemento, Série I de 2019-08-19, e nos
+    termos do art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/139-a-2019-124044605
+  date: '2019-08-19'
 - type: cites
   target: celex:32008R1272
   label: null
@@ -108,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/469/2002/04/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/469/2002/04/24/p/dre
+- type: cites
+  target: pt:dre:288002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:12Z'
   warnings: []
   errors: []
 ---
@@ -237,3 +260,5 @@ b) Nos restantes postos de abastecimento, por controlo dos agentes que efetuam o
 26 - Estabelecer que a presente resolução produz efeitos imediatos após a sua publicação.
 
 Presidência do Conselho de Ministros, 9 de agosto de 2019. - Pelo Primeiro-Ministro, Mário José Gomes de Freitas Centeno, Ministro das Finanças.
+
+112515629

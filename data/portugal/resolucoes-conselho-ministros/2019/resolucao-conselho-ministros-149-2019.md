@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17000/0027000271.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/149/2019/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2019-124457183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af23252587c0145f89bc43338926c8794ffa6d350495a2cc31418a455d3ec8e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 753db44fbf40ac93cd47d5a784630b7ce267781ae50f127e1c773dd3e2940cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Emirados Árabes Unidos
 - Aicep
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
 - Delegação de Competências
-- Ministro dos Negócios Estrangeiros
-- Governo XXI
+- Emirados Árabes Unidos
 - Exposição Mundial do Dubai em 2020
+- Governo XXI
+- Ministro dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:140087208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140087208:por
+  label: Alterado, com efeitos a partir de 30.07.2020, o n.º 1 pelo(a) Resolução do Conselho de Ministros n.º 61/2020 - Diário
+    da República n.º 156/2020, Série I de 2020-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/61-2020-140087208
+  date: '2020-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -111,16 +117,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2019/01/09/p/dre
+- type: cites
+  target: pt:dre:116237019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117658786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:125040764:por
+  label: Retificada a al. c) do n.º 1 pelo(a) Declaração de Retificação n.º 46/2019 - Diário da República n.º 189/2019, Série
+    I de 2019-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/46-2019-125040764
+  date: '2019-10-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:30Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +200,5 @@ c) Aquisição de serviços de manutenção diária do Pavilhão de Portugal, pe
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 22 de agosto de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+112559418

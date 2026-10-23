@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03300/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22/2023/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2023-207485803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb2d44ebb79625b55478635cc80e71fb29a481bd0f24c101b76799cbc5b51066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01a32351ec637e4754082f6eff1c4c4c5183875687b022acbd0f47c0fad7dbea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aquisição de Bens e Serviços
+- Autoridade Nacional de Emergência e Proteção Civil
 - Autorização de Despesas
+- Comissão Regional de Gestão Integrada de Fogos Rurais
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Proteção da Floresta
-- Voluntariado
-- Jovem
-- Instituto Português do Desporto e Juventude
-- Instituto da Conservação da Natureza e das Florestas
-- Ministro Adjunto e dos Assuntos Parlamentares
-- Proteção do Ambiente
-- Programa Voluntariado Jovem para a Natureza e Florestas
-- Sistema de Gestão Integrada de Fogos Rurais
-- Autoridade Nacional de Emergência e Proteção Civil
-- Agência Portuguesa do Ambiente
-- Comissão Regional de Gestão Integrada de Fogos Rurais
 - Governo XXIII
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto Português do Desporto e Juventude
+- Jovem
+- Ministro Adjunto e dos Assuntos Parlamentares
+- Programa Voluntariado Jovem para a Natureza e Florestas
+- Proteção da Floresta
+- Proteção do Ambiente
+- Sistema de Gestão Integrada de Fogos Rurais
+- Voluntariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -113,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71-a/2021/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71-a/2021/06/08/p/dre
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164798802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:43Z'
   warnings: []
   errors: []
 ---
@@ -266,3 +294,5 @@ d) 2026 - (euro) 1 500 000.
 16 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 26 de janeiro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116155331

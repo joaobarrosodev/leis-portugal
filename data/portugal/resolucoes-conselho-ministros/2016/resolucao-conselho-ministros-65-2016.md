@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/65/2016/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2016-75554999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3803c2934df4f022de87e8841477a976cad29bd5e9bc406f38046b72fc59d9f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84574e7e8c9bb79cf4d8f96a1a3d4ac2594a705f98e204afa9d6bc69725dca3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69773249:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:11Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +207,9 @@ c) Plantas dos planos de praia, à escala variável entre 1:2000 e 1:7000, e res
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -387,7 +425,9 @@ eeeee) [Anterior alínea bbbbb).]
 
 fffff) [Anterior alínea ccccc).]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As praias são as subunidades da orla costeira constituídas pela margem e pelo leito das águas do mar, antepraia e plano de água adjacentes, e encontram-se identificadas no anexo ii do presente Regulamento, que dele faz parte integrante, constando a delimitação e a classificação das praias da planta de síntese.
 
@@ -409,7 +449,9 @@ d) ...
 
 6 - As fichas e plantas dos planos de praia têm caráter programático e indicativo quanto à localização dos apoios de praia e equipamentos associados e quanto à área de implantação e localização dos parques de estacionamento.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -453,7 +495,9 @@ t) ...
 
 u) Cais de Cabanas Poente - Tavira.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 ...
 
@@ -491,7 +535,9 @@ q) ...
 
 r) Outras atividades que constem dos editais aprovados pela autoridade marítima.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -509,7 +555,9 @@ f) 'Praia de tipo vi', que corresponde a uma praia com uso interdito, enquanto p
 
 2 - As características das praias referidas no número anterior são as descritas no anexo i ao [Decreto-Lei n.º 159/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), de 24 de julho, alterado pelo [Decreto-Lei n.º 132/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), de 9 de julho.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 Qualquer das praias previstas no artigo anterior pode ser declarada, nos termos definidos nos n.os 3 a 5 do artigo 11.º do [Decreto-Lei n.º 159/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), de 24 de julho, alterado pelo [Decreto-Lei n.º 132/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), de 9 de julho, como praia com uso suspenso sempre que se verifiquem condições objetivas que o justifiquem, nomeadamente nos casos seguintes:
 
@@ -519,7 +567,9 @@ b) ...
 
 c) ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -529,11 +579,15 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 Os apoios de praia, apoios balneares e apoios recreativos devem assegurar um sistema de comunicações móvel ou fixo.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - São admitidos nas praias dos tipos i, ii e iii os seguintes apoios, cujas definições constam do artigo 4.º:
 
@@ -551,7 +605,9 @@ f) ...
 
 2 - Nas praias do tipo iv pode ser admitido apoio balnear, desde que identificado no plano de praia.
 
-###### Artigo 69.º — Apoios de praia e equipamentos
+Artigo 69.º
+
+Apoios de praia e equipamentos
 
 1 - ...
 
@@ -601,7 +657,9 @@ f) Área mínima para armazenamento - 5 m2.
 
 12 - Devem ser consideradas as normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, definidas na legislação em vigor, incluindo o aumento das áreas propostas, de forma a permitir o dimensionamento adequado das instalações sanitárias e dos balneários ou vestiários, sem prejuízo de situações excecionais devidamente justificadas.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - A instalação de apoios balneares está preferencialmente associada a um apoio de praia mínimo, simples ou completo.
 
@@ -623,7 +681,9 @@ e) (Revogada.)
 
 5 - Quando o apoio balnear exercer as funções comerciais referidas no número anterior, a arrecadação pode ser utilizada parcialmente para este fim, numa área sempre inferior a 50 % da área licenciada.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Os apoios recreativos podem estar associados aos apoios de praia ou encontrarem-se instalados isoladamente.
 
@@ -639,7 +699,9 @@ b) Área máxima de areal a afetar a parqueamento de equipamento desportivo - 10
 
 5 - A implantação de instalações de recreio infantil e de desportos de ar livre deve localizar-se fora do espaço dunar e não conflituar com os restantes usos da praia.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -655,7 +717,7 @@ b) ...
 
 5 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf))](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf)
 
 6 - A área máxima de construção de cada apoio consta do quadro do número anterior, podendo, em casos devidamente identificados nas fichas dos planos de praia, ser apenas admitidas áreas inferiores a estas.
 
@@ -669,7 +731,9 @@ b) ...
 
 11 - (Revogado.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -689,11 +753,15 @@ c) (Revogada.)
 
 6 - O abastecimento dos apoios de praia apenas pode ser efetuado nos trajetos devidamente autorizados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), ouvido o Instituto da Conservação da Natureza e das Florestas, I. P., e a Capitania de Porto respetiva.
 
-###### Artigo 74.º — Unidades balneares e de recreio náutico
+Artigo 74.º
+
+Unidades balneares e de recreio náutico
 
 O zonamento das frentes de praia, representado nas plantas dos planos de praia, é efetuado em função da capacidade do areal e das características das praias, das possibilidades e potencialidades balneares e de recreio náutico, das restrições de caráter ambiental e da estratégia global de ordenamento da orla costeira.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -707,7 +775,9 @@ O zonamento das frentes de praia, representado nas plantas dos planos de praia, 
 
 6 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -721,7 +791,9 @@ O zonamento das frentes de praia, representado nas plantas dos planos de praia, 
 
 6 - Os corredores afetos às atividades náuticas recreativas devem ser devidamente sinalizados.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -729,7 +801,9 @@ O zonamento das frentes de praia, representado nas plantas dos planos de praia, 
 
 3 - (Revogado.)
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -737,7 +811,9 @@ O zonamento das frentes de praia, representado nas plantas dos planos de praia, 
 
 3 - A entidade licenciadora pode indeferir os projetos que não apresentem a garantia de boas condições de abastecimento de água e saneamento das águas residuais, e a salvaguarda dos sistemas e valores naturais e do risco para pessoas e bens.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - A competência para a prática dos atos de aprovação, autorização e emissão de pareceres previstos no presente Regulamento considera-se reportada à APA, I. P.
 
@@ -925,4 +1001,4 @@ Constituição de unidades de recreio náutico
 
 Presidência do Conselho de Ministros, 8 de junho de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf))](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/20100/0377203779.pdf)

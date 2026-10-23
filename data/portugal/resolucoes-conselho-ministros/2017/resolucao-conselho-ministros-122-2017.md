@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/122/2017/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2017-108113697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:11:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f53995218efd1e26eeceb44310fd934ac55b103d1ed595e6b368926afce2b76c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8380671776decd018e4bc400a4e69ce1c6fb707a1901cffdffca6da6bcbbb78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Agência Portuguesa do Ambiente
+- Autoridade Competente
+- Autoridade Nacional de Protecção Civil
+- Combustível
+- Comissão Nacional para as Emergências Radiológicas
 - Comissão Reguladora para a Segurança das Instalações Nucleares
+- Definição de Competências
+- Direção Geral da Saúde
+- Energia
+- Energia Nuclear
+- Fiscalização
+- Gestão de Resíduos
+- Instituto Superior Técnico
+- Licenciamento
+- Ministério da Educação e Ciência
+- Página na Internet
+- Programa
+- Programa Nacional de Gestão do Combustível Irradiado e dos Resíduos Radioativos
+- Proteção do Ambiente
+- Publicitação
 - Radiactividade
 - Radioprotecção
-- Segurança Nuclear
-- Direção Geral da Saúde
-- Comissão Nacional para as Emergências Radiológicas
-- Definição de Competências
 - Regulamentação de Atos Legislativos
-- Energia Nuclear
-- Saúde Pública
-- Segurança Pública
-- Combustível
-- Fiscalização
-- Secretaria Geral
-- Ministério da Educação e Ciência
-- Instituto Superior Técnico
-- Publicitação
-- Licenciamento
 - Resíduo
-- Página na Internet
-- Proteção do Ambiente
-- Energia
-- Programa
 - Resíduo Radioactivo
-- Autoridade Nacional de Protecção Civil
-- Autoridade Competente
-- Programa Nacional de Gestão do Combustível Irradiado e dos Resíduos Radioativos
-- Agência Portuguesa do Ambiente
+- Saúde Pública
+- Secretaria Geral
+- Segurança Nuclear
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -159,6 +159,158 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/44/2015/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/44/2015/02/20/p/dre
+- type: cites
+  target: pt:dre:144834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66558696:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0070
   label: null
@@ -170,13 +322,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:11:10Z'
   warnings: []
   errors: []
 ---
@@ -797,7 +949,7 @@ TABELA 1
 
 Inventário dos RR recolhidos no período 2001 a 2014 (Fonte: IST)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
 
 Figura 1 - RR recolhidos no período 2001 a 2014 (Fonte: IST)
 
@@ -813,7 +965,7 @@ TABELA 2
 
 Estimativa dos RR do tipo LLW e ILW gerados com o desmantelamento do RPI (Fonte: IST)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
 
 3 - Gestão de combustível irradiado e de resíduos radioativos
 
@@ -939,7 +1091,7 @@ TABELA 3
 
 Classificação de RR e vias de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17300/0529805313.pdf)
 
 3.3 - Experiência Internacional
 

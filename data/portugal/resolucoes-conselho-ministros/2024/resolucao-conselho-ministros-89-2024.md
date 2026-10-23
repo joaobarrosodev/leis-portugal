@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13500/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/2024/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2024-871917721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5345a449fab5aad5056b22375a37aa3a260e39f46dc9120a47a1e7e062f92089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e842b73850db30aa8eecb95c4b1c73ac92c21d6d8c367e8e41d17d29ed20edcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
+- Açores
 - Comité das Regiões
 - Conselho da União Europeia
+- Exoneração
 - Nomeação
 - Representante Regional
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:871917721:por
+  label: Substituído Pedro Chaves de Faria e Castro pelo(a) Resolução do Conselho de Ministros n.º 89/2024 - Diário da República
+    n.º 135/2024, Série I de 2024-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/89-2024-871917721
+  date: '2024-07-15'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:89/2024
+  label: Substitui Pedro Chaves de Faria e Castro como membro suplente do Comité das Regiões proposto pela Resolução do Conselho
+    de Ministros n.º 89/2024, de 15 de julho, Diário da República n.º 135/2024, Série I
+  source: null
+  date: '2024-07-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/10/2021/02/10/p/dre
   label: null
@@ -84,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/192/2019/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/192/2019/12/16/p/dre
+- type: cites
+  target: pt:dre:127177762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149971741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156974203:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:14Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +128,7 @@ Os membros do Comité das Regiões da União Europeia e respetivos suplentes, no
 
 Em conformidade, os respetivos mandatos cessam, designadamente, por termo do mandato em virtude do qual são nomeados. Neste âmbito, tendo cessado o mandato de Pedro Chaves de Faria e Castro como Subsecretário Regional da Presidência do Governo Regional dos Açores, na sequência das eleições legislativas que ocorreram no dia 4 de fevereiro de 2024, cessou igualmente o seu mandato como suplente naquele Comité.
 
-Considerando as anteriores propostas aprovadas pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[192/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2019-127177762), de 16 de dezembro, [104-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-a-2020-149971741), de 27 de novembro, e [10/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2021-156974203), de 10 de fevereiro, importa agora propor nova nomeação que assegure aquela representatividade, tendo, para o efeito, sido ouvido o Governo da Região Autónoma dos Açores.
+Considerando as anteriores propostas aprovadas pelas Resoluções do Conselho de Ministros n.os[192/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2019-127177762), de 16 de dezembro, [104-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-a-2020-149971741), de 27 de novembro, e [10/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2021-156974203), de 10 de fevereiro, importa agora propor nova nomeação que assegure aquela representatividade, tendo, para o efeito, sido ouvido o Governo da Região Autónoma dos Açores.
 
 Assim:
 
@@ -115,3 +139,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 2 - Estabelecer que a presente resolução produz efeitos a 4 de março de 2024.
 
 Presidência do Conselho de Ministros, 4 de julho de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+117894095

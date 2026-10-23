@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/6/2014/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2014-606124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17965198bf7004bbff6412d48fdb0fe7cb1ab1fbbb2d9ce64d79f11276ddd13c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 112ad80a5833ca4fa8e2eb0bbbd7d09b4b55f0b53f7be67610cb06e39138d4eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,10 +71,10 @@ subjects:
 - Caderno de Encargos
 - Caixa Geral de Depósitos
 - Capital Social
-- Setor Empresarial do Estado
+- Companhia de Seguros
 - OPV
 - Privatização
-- Companhia de Seguros
+- Setor Empresarial do Estado
 - Venda Directa
 relationships:
 - type: cites
@@ -93,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2013/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2013/12/09/p/dre
+- type: cites
+  target: pt:dre:2199724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2965096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3114319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496740:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:39Z'
   warnings: []
   errors: []
 ---

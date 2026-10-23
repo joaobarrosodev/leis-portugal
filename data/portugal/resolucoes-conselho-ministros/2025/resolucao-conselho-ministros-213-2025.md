@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24800/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/213/2025/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/213-2025-992662012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53ecbe2164ef8233d78580cabe64e374bb03eb804e1da2a947d59ba19dce6d29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95df18b6a6d2800b22af85a40fe2085e823549770f7ea84b1bce79047df86838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metropolitano de Lisboa
 - Conselho de Administração
+- Metropolitano de Lisboa
 - Nomeação
 - Presidente
 - Vice-presidente
 - Vogal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:36/2012
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, o anexo da Resolução do Conselho de Ministros n.º 36/2012,
+    de 26 de março, Diário da República n.º 61/2012, Série I
+  source: null
+  date: '2012-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2025/11/25/p/dre
   label: null
@@ -100,23 +106,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:186724404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216770752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:61725766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:952096394:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:17Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 213/2025
 
-Nos termos do disposto no artigo 4.º dos Estatutos da Metropolitano de Lisboa, E. P. E., aprovados pelo [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-a-2009-199077), de 26 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[175/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), de 5 de dezembro, e [124/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), de 25 de novembro, conjugado com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, que aprovou o Estatuto do Gestor Público (EGP), e com o n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, que aprovou o Regime Jurídico do Setor Público Empresarial, os membros do conselho de administração da Metropolitano de Lisboa, E. P. E., são nomeados, por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, para um mandato de três anos, renovável até ao máximo de três renovações.
+Nos termos do disposto no artigo 4.º dos Estatutos da Metropolitano de Lisboa, E. P. E., aprovados pelo [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-a-2009-199077), de 26 de junho, alterado pelos Decretos-Leis n.os[175/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), de 5 de dezembro, e [124/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), de 25 de novembro, conjugado com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, que aprovou o Estatuto do Gestor Público (EGP), e com o n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, que aprovou o Regime Jurídico do Setor Público Empresarial, os membros do conselho de administração da Metropolitano de Lisboa, E. P. E., são nomeados, por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, para um mandato de três anos, renovável até ao máximo de três renovações.
 
 A [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual, aprovou a classificação de B atribuída à Metropolitano de Lisboa, E. P. E., nos termos da [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, a qual aprova os critérios de determinação do vencimento dos gestores públicos. Tendo-se verificado uma alteração da pontuação dos indicadores ali previstos durante os dois últimos anos consecutivos, importará proceder nos termos do n.º 8 da [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, à revisão da classificação da empresa.
 
@@ -126,7 +168,7 @@ Nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diari
 
 Assim:
 
-Nos termos do artigo 4.º dos Estatutos do Metropolitano de Lisboa, E. P. E., aprovados pelo [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-a-2009-199077), de 26 de junho, na sua redação atual, do n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos n.<sup>os</sup> 1 a 3 do artigo 13.º e do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do artigo 4.º dos Estatutos do Metropolitano de Lisboa, E. P. E., aprovados pelo [Decreto-Lei n.º 148-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-a-2009-199077), de 26 de junho, na sua redação atual, do n.º 4 do artigo 32.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos n.os 1 a 3 do artigo 13.º e do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e das infraestruturas, para o mandato correspondente ao triénio 2026-2028, Cristina Alexandra Rodrigues da Cruz Vaz Tomé, Pedro Miguel Naves Folgado, Bruno Manuel Curto Marques, Mahomed Ashif Mohamad Bashir e Sónia Alexandra Martins Páscoa para os cargos de, respetivamente, presidente, vice-presidente e vogais do conselho de administração da Metropolitano de Lisboa, E. P. E., cujas idoneidade, experiência e competência profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo I à presente resolução e da qual fazem parte integrante.
 
@@ -242,8 +284,12 @@ Entre maio e agosto de 2023, exerceu as funções de técnica sénior na Transpo
 
 Tutela setorial: Ministério da Economia e do Emprego
 
-| [...] | [...] | [...] |
+| [...] | [...] |  |
 | --- | --- | --- |
-| [...] | [...] | [...] |
-| Metropolitano de Lisboa, E. P. E | A | A |
+| [...] | [...] |  |
+| Metropolitano de Lisboa, E. P. E | A |  |
 | [...] | [...] | » |
+
+119919898
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { text-align:center; margin-left:11px; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

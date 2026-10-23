@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/660/1996/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/660-1996-166391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fcb993c6afbcf67252d907b0941033bab34e1c37a57991d73eb5e86e83976ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 811a7e60e470a5d3f1075c2bc23f7913d0eafe186366d2d1d39e59df27fefeab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Tecnológico e Nuclear
 - Descrição de Funções
+- Instituto Tecnológico e Nuclear
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
@@ -75,6 +75,11 @@ relationships:
   target: pt:dre:1353450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1353450:por
+  label: "Alterado quadro de pessoal pela PORT.308/2000(2ªSÉRIE).2000.02.14.MF, DR.IIS [50] de 29/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2000-1353450
+  date: '2000-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
   label: null
@@ -87,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324-a/1994/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324-a/1994/12/30/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:20Z'
   warnings: []
   errors: []
 ---
@@ -119,11 +136,11 @@ Manda o Governo, pelos Ministros das Finanças, da Economia, da Ciência e da Te
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, da Economia e da Ciência e da Tecnologia.
 
-**Assinada em 17 de Outubro de 1996.**
+Assinada em 17 de Outubro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/264b00/40264028.pdf))](https://files.diariodarepublica.pt/1s/1996/11/264b00/40264028.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/264b00/40264028.pdf)
 
 ## ANEXO II — Conteúdos funcionais das carreiras de técnico-adjunto e de técnico auxiliar do grupo de pessoal técnico-profissional
 

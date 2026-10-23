@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07600/0000900011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/81/2025/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2025-915381296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49b2917d4f3ef7ad83f8228940944817168dbcd8413fa609f19a9a25a15bc8dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d26300acaae25d5380bbb62f39c32565dc04ff75899ac184cf6188edbd175350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Financiamento
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Financiamento
 - Fundos CE
+- Governo XXIV
 - Ministro da Ciência e do Ensino Superior
 - Orçamento Geral do Estado
-- Projeto
 - Programa Horizonte Europa
-- Governo XXIV
+- Projeto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:52Z'
   warnings: []
   errors: []
 ---
@@ -157,10 +173,14 @@ Presidência do Conselho de Ministros, 10 de abril de 2025. - O Primeiro-Ministr
 | INESC TEC | 10 500 000,00 € | - | 3 500 000,00 € | 14 000 000,00 € |
 | Total | 21 750 000,00 € | 3 750 000,00 € | 3 500 000,00 € | 29 000 000,00 € |
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>3 e 4)
+## ANEXO II — (a que se referem os n.os3 e 4)
 
 |  | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | UC | 3 660 000,00 € | 5 865 000,00 € | 1 200 000,00 € | 450 000,00 € | 75 000,00 € | - | 11 250 000,00 € |
 | INESC TEC | 1 381 250,00 € | 3 856 250,00 € | 3 256 250,00 € | 781 250,00 € | 1 156 250,00 € | 68 750,00 € | 10 500 000,00 € |
 | Total | 5 041 250,00 € | 9 721 250,00 € | 4 456 250,00 € | 1 231 250,00 € | 1 231 250,00 € | 68 750,00 € | 21 750 000,00 € |
+
+118953064
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl8 { text-align:right; }

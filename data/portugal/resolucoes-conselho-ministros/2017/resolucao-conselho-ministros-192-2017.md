@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24200/0663506636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/192/2017/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2017-114380263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e047efe743860c41615d4ef105d1ffe64c3ffb737c4f4de8dafc36db7ffebb39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f6f60ddc385e150218aa5447f7c755efd5bcc6e8fd9aa747a258b7d2a4c9503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,36 @@ reuse:
 subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Incêndio
+- Autoridade Nacional de Protecção Civil
 - Autorização de Despesas
-- Concurso Público Internacional
 - Concurso Público
+- Concurso Público Internacional
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Helicóptero
-- Governo XIX
-- Autoridade Nacional de Protecção Civil
-- Ministro da Administração Interna
 - Equipamento de Combate a Incêndios
+- Governo XIX
+- Helicóptero
+- Incêndio
+- Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:117663340:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114819069:por
+  label: Alterados, com efeitos a partir de 01.03.2018, os n.ºs 1 e 4 do presente diploma pelo(a) Resolução do Conselho de
+    Ministros n.º 21/2018 - Diário da República n.º 46/2018, Série I de 2018-03-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/21-2018-114819069
+  date: '2018-03-06'
+- type: amended_by
+  target: pt:dre:117663340:por
+  label: Alterado, com efeitos a 20.12.2018, o n.º 1 (na redação da Res 21/2018, de 06-mar PCM) e revogadas as als. b) e c)
+    do n.º 4 e o n.º 5 da presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 8/2019 - Diário da República
+    n.º 7/2019, Série I de 2019-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/8-2019-117663340
+  date: '2019-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -102,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:26Z'
   warnings: []
   errors: []
 ---
@@ -163,3 +192,5 @@ c) 2020 - (euro) 2 603 792.
 8 - Determinar que presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 14 de dezembro de 2017. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+111004281

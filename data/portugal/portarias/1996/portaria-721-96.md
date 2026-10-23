@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/721/1996/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/721-1996-187772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fef013dab9b726b4953e8df4e95a85fe8e2f32f26721b3485bbf3789d7218b6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93971d80a4cc29ce1c53174202e068ec7c451ed6c927cbcac67f40e305a2e5c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,59 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Relações Humanas e Comunicação no Trabalho
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:288399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288399:por
+  label: "Cessada a ministração do Curso de Bacharelato em Relações Humanas e Comunicação no Trabalho e revogada a Port 1078/93\
+    \ de 27-Out, com a redacção do presente diploma, nos termos do disposto no art. 3º da PORT.426/2002.2002.04.19.ME DR.IS-B\
+    \ [92]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-2002-288399
+  date: '2002-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1078/1993/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1078/1993/10/27/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664887:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:04Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +184,7 @@ As regras de transição entre o anterior plano de estudos e o plano de estudos 
 
 Ministério da Educação.
 
-**Assinada em 14 de Novembro de 1996.**
+Assinada em 14 de Novembro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -165,4 +192,4 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Instituto Politécnico de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/285b00/44204422.pdf))](https://files.diariodarepublica.pt/1s/1996/12/285b00/44204422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/285b00/44204422.pdf)

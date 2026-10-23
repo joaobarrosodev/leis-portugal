@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b00/21522155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/313/1996/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1996-408503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eddd552dd6a05cdbd0495b92e922b2f1787cbdd22983e96dd48286990a011ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd622329d031c89f41668a0f02b6ec2fe5fb6cf2369d4da380f65acaf1184ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Água Mineral
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Comércio
 - Comissão de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens
 - Embalagem
-- Resíduo
+- Gestão de Resíduos
 - Proteção do Ambiente
 - Proteção do Consumidor
-- Comércio
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:280905:por
@@ -84,16 +84,27 @@ relationships:
   target: celex:31994L0062
   label: null
   source: http://data.europa.eu/eli/dir/1994/62/oj
+- type: repealed_by
+  target: pt:dre:659564:por
+  label: "Revogada, a partir da data da publicação, da respectiva alteração, pelo DEC LEI.366-A/97.1997.12.20.MAM DR.IS-A\
+    \ [293]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-a-1997-659564
+  date: '1997-12-20'
+- type: repealed_by
+  target: pt:dre:280905:por
+  label: "Revogada pela PORT.29-B/98.1998.01.15.MECO, DR.IS-B [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-b-1998-280905
+  date: '1998-01-15'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:32Z'
   warnings: []
   errors: []
 ---
@@ -298,6 +309,6 @@ Entrada em vigor
 
 Ministérios da Economia e do Ambiente.
 
-**Assinada em 5 de Junho de 1996.**
+Assinada em 5 de Junho de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06000/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/48/2024/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2024-857110191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15d86677133bcbb455b19da324052ac391ac5dc6d68134075f0461e80e7d1605
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7689a3375db53d812cefdf2b2bed164cb8d144c99a1a696078fefa7b3d383bbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Indústria Automóvel
+- Benefícios Fiscais
 - Contrato de Investimento
 - Crédito Fiscal por Investimento
 - Empresa Privada
-- Projeto de Investimento
+- Indústria Alimentar
+- Indústria Automóvel
 - Indústria de Plásticos
 - Indústria Mineira
-- Indústria Alimentar
-- Benefícios Fiscais
+- Projeto de Investimento
+- Turismo
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:10/2013
+  label: Determina, com efeitos a 14 de março de 2024, a resolução do contrato fiscal de investimento celebrado entre o Estado
+    Português, representado pela AICEP, E. P. E., e a CS - Coelho da Silva, S. A., ao abrigo da Resolução do Conselho de Ministros
+    n.º 10/2013, de 20 de fevereiro, Diário da República n.º 36/2013, Série I
+  source: null
+  date: '2024-03-25'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:189/2019
+  label: Determina, com efeitos a 14 de março de 2024, a resolução do contrato fiscal de investimento celebrado entre o Estado
+    Português, representado pela AICEP, E. P. E., e a Bosch Termotecnologia, S. A., ao abrigo da Resolução do Conselho de
+    Ministros n.º 189/2019, de 6 de dezembro, Diário da República n.º 235/2019, Série I
+  source: null
+  date: '2024-03-25'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:210/2021
+  label: Determina, com efeitos a 14 de março de 2024, a resolução dos contratos fiscais de investimento celebrados entre
+    o Estado Português, representado pela AICEP, E. P. E., e a Bondalti Chemicals, S. A., FUNFRAP - Fundição Portuguesa, S.
+    A., e a NATWINDO, S. A., ao abrigo da Resolução do Conselho de Ministros n.º 210/2021, de 31 de dezembro, Diário da República
+    n.º 253/2021, Série I
+  source: null
+  date: '2024-03-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2014/10/31/p/dre
   label: null
@@ -93,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/210/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:126959277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683382:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:00Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +157,13 @@ Assim:
 
 Nos termos do n.º 1 do artigo 16.º e do n.º 1 do artigo 20.º do anexo ao [Decreto-Lei n.º 162/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), de 31 de outubro, na sua redação atual, da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e a sociedade HUF Portuguesa - Fábrica de Componentes para o Automóvel, Unipessoal, L.<sup>da</sup>, com o número de identificação fiscal 502646160, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas.
+1 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e a sociedade HUF Portuguesa - Fábrica de Componentes para o Automóvel, Unipessoal, L.da, com o número de identificação fiscal 502646160, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas.
 
 2 - Determinar que o original do contrato referido no número anterior fique arquivado na AICEP, E. P. E.
 
 3 - Aprovar a minuta do aditamento aos contratos fiscais de investimento celebrados entre, por um lado, o Estado Português, representado pela AICEP, E. P. E., e, por outro, as seguintes sociedades:
 
-a) STE - Exploração Plásticos, Unipessoal, L.<sup>da</sup>, com o número de identificação fiscal 514407379;
+a) STE - Exploração Plásticos, Unipessoal, L.da, com o número de identificação fiscal 514407379;
 
 b) Font Salem Portugal, S. A., com o número de identificação fiscal 509298842;
 
@@ -133,13 +171,13 @@ c) PANPOR - Produtos Alimentares, S. A., com o número de identificação fiscal
 
 d) Royal Óbidos - Promoção e Gestão Imobiliária e Turística, S. A., com o número de identificação fiscal 504055330;
 
-e) Ferrado Nacomporta I, Unipessoal, L.<sup>da</sup>, com o número de identificação fiscal 514053038;
+e) Ferrado Nacomporta I, Unipessoal, L.da, com o número de identificação fiscal 514053038;
 
 f) Luso Finsa - Indústria e Comércio de Madeira, S. A., com o número de identificação fiscal 501133747;
 
 g) HILODI - Historic Lodges & Discoveries, S. A., com o número de identificação fiscal 513165096;
 
-h) Borgwarner Emissions Systems Portugal, Unipessoal, L.<sup>da</sup>, com o número de identificação fiscal 507004493;
+h) Borgwarner Emissions Systems Portugal, Unipessoal, L.da, com o número de identificação fiscal 507004493;
 
 i) SOMINCOR - Sociedade Mineira de Neves Corvo, S. A., com o número de identificação fiscal 503352896;
 
@@ -147,7 +185,7 @@ j) Sonae Arauco Portugal, S. A., com o número de identificação fiscal 5000585
 
 k) Gestamp Aveiro - Indústria de Acessórios Automóveis, S. A., com o número de identificação fiscal 502094486;
 
-l) Hutchinson Borrachas de Portugal, Sociedade Unipessoal, L.<sup>da</sup>, com o número de identificação fiscal 503947350;
+l) Hutchinson Borrachas de Portugal, Sociedade Unipessoal, L.da, com o número de identificação fiscal 503947350;
 
 m) Kirchhoff Automotive Portugal, S. A., com o número de identificação fiscal 500123829;
 
@@ -174,3 +212,5 @@ e) NATWINDO, S. A., com o número de identificação fiscal 516582836 - contrato
 6 - Determinar que a presente resolução reporta os seus efeitos à data da sua aprovação.
 
 Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117503422

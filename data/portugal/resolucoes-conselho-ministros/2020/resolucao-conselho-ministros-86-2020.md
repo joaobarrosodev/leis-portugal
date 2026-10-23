@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2020/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2020-145102353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f52defb363c9069a43f2cb9ff282034d63983568a6192e8c9764b18c398e10f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 103ab85ceb3509f4166d7d07bc91dee576cce24ee66708bf40d3043927d4352c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agenda de Inovação para a Agricultura 2020-2030
+- Agricultura
+- Alimentação
+- Alteração Climática
+- Conselho Consultivo
 - Ecologia
+- Gabinete de Planeamento Políticas e Administração Geral
 - Gestão dos Recursos
 - Indústria Agro-alimentar
 - Instituto Nacional de Investigação Agrária e Veterinária
-- Conselho Consultivo
-- Gabinete de Planeamento Políticas e Administração Geral
 - Proteção do Ambiente
-- Alimentação
 - Recursos Naturais
-- Agricultura
-- Alteração Climática
-- Agenda de Inovação para a Agricultura 2020-2030
 relationships:
 - type: amended_by
   target: pt:dre:891145409:por
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:11Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +178,7 @@ Presidência do Conselho de Ministros, 10 de setembro de 2020. - O Primeiro-Mini
 
 Agenda de Inovação para a Agricultura 2020-2030
 
-# Parte I - Desafios e Compromissos
+Parte I - Desafios e Compromissos
 
 1 - Os desafios e tendências do setor agroalimentar
 
@@ -326,7 +330,7 @@ Entre as várias estratégias e planos, importa referir a Estratégia Nacional e
 
 A Agenda pretende, assim, dar o seu contributo para uma agricultura moderna e inovadora, que seja eficiente e se preocupa com a saúde e o bem-estar da sociedade, valoriza os seus recursos endógenos e tem em conta as especificidades de todo o território nacional e das diferentes tipologias de agricultores, desde a pequena agricultura familiar à agricultura empresarial, bem como os grandes desafios que Portugal enfrentará nos próximos 10 anos, em matéria de agricultura e alimentação.
 
-# Parte II - Agenda de Inovação
+Parte II - Agenda de Inovação
 
 1 - Porquê uma Agenda de Inovação para a Agricultura?
 
@@ -346,7 +350,7 @@ Atrair mais recursos, financeiros e humanos, para o setor agroalimentar, dinamiz
 
 A Agenda tem igualmente em conta os instrumentos políticos orientadores apresentados no capítulo anterior, em especial o Programa do XXII Governo Constitucional, e assume cinco grandes intenções estratégicas para a próxima década, materializadas em cinco grandes metas que espelham a ambição de todo o setor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 2 - Arquitetura da Agenda: Pilares e Eixos estratégicos
 
@@ -364,55 +368,55 @@ Estado - Agentes de políticas públicas que apoiam a agricultura e promovem o s
 
 Os pilares desta Agenda contribuem para organizar as diferentes iniciativas em torno de um total de 10 eixos estratégicos, os quais estão associados aos objetivos do Programa do XXII Governo Constitucional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Considerados os eixos estratégicos e a sua articulação com o Programa do XXII Governo Constitucional, a Agenda apresenta um conjunto de 15 iniciativas emblemáticas, que pretende implementar até 2030, cujo detalhe se apresenta no capítulo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 3 - Iniciativas emblemáticas
 
 Eixo I.1 Promoção da Dieta Mediterrânica e de uma alimentação equilibrada, diversificada e sustentável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo I.2 Promoção da saúde animal e da sanidade vegetal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo II.1 Combate às alterações climáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo II.2 Valorização e gestão sustentável dos recursos naturais e genéticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo II.3 Reforço do tecido socioeconómico dos territórios rurais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo III.1 Inovação e digitalização da agricultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo III.2 Internacionalização das cadeias de valor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo III.3 Gestão sustentável da energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 3.1. Eixo IV.1 Dinamização da rede nacional de investigação da agricultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
 Eixo IV.2 Modernização e simplificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19900/0003800059.pdf)
 
-# Parte III - Modelo de Implementação e Governação
+Parte III - Modelo de Implementação e Governação
 
 1 - Modelo de Acompanhamento e Monitorização da Agenda
 
@@ -574,7 +578,7 @@ Terra Futura | Fazer crescer a Agricultura, inovando-a e entregando-a à próxim
 
 (13) Fonte: Emissões de gases com efeito de estufa: total e por alguns setores de emissões de gases, valores de 2017, Pordata.
 
-(14) Fonte: Pesticide sales, Eurostat (https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=aei_fm_salpest09&lang=en).
+(14) Fonte: Pesticide sales, Eurostat (https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=aei_fm_salpest09⟨=en).
 
 (15) Fonte: Inquérito à Estrutura das Explorações Agrícolas, 2016, INE, I. P.
 
@@ -585,3 +589,5 @@ Terra Futura | Fazer crescer a Agricultura, inovando-a e entregando-a à próxim
 (18) Fonte: Estimado em 20 % na União Europeia [COM (2019) 22 2019. Towards a sustainable europe 2030].
 
 (19) Fonte: Plano Nacional da Água, Estratégia Nacional para o Ar 2020, Estratégia Nacional de Conservação da Natureza e Biodiversidade para 2030, Plano Nacional de Turismo de Natureza, Plano Nacional de Gestão de Resíduos 2014-2020.
+
+113622704

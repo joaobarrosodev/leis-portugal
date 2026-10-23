@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/16900/0001400017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/123/2024/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2024-886514235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2f86e09290ab22fc12c7ee42ddda5d663a243a6fe7d2aa2935ccf3006fc231
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08d0c7756aa16a0d8baaebef1b3a97bdb60201fa8791b823f6eef9ed10760606
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,20 @@ subjects:
 - Vice-presidente
 - Vogal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:20/2019
+  label: Exonera, com efeitos a 01 de setembro de 2024, os membros do conselho de administração da Fundação INATEL (presidente
+    Francisco Caneira Madelino e vogais José Manuel Pereira Alho e Álvaro da Silva Amorim de Sousa Carneiro) designados na
+    Resolução do Conselho de Ministros n.º 20/2019, de 28 de janeiro, Diário da República n.º 19/2019, Série I
+  source: null
+  date: '2019-01-28'
+- type: amends
+  target: pt:numero:despacho:8798/2021
+  label: Exonera, com efeitos a 01 de setembro de 2024, do cargo de vice-presidente e de vogal do conselho de administração
+    da Fundação INATEL, Lucinda Maria Correia Lucas dos Santos Lopes e Rita Maria Fonseca Dias Duarte, respetivamente, designadas
+    pelo Despacho n.º 8798/2021, de 06 de setembro, Diário da República n.º 173/2021, Série II
+  source: null
+  date: '2021-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2008/06/25/p/dre
   label: null
@@ -81,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/20/2019/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/20/2019/01/28/p/dre
+- type: cites
+  target: pt:dre:118562583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170794287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456211:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:14Z'
   warnings: []
   errors: []
 ---
@@ -242,3 +268,5 @@ De 2005 a 2009 - Presidente do conselho de administração da empresa municipal 
 De 2002 a 2005 - Diretora do Serviço de Emprego de Lamego do IEFP, I. P.;
 
 De 1998 a 2002 - Núcleo de Gestão do IEFP, I. P.
+
+118074587

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/135b00/15121518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/1996/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-1996-436641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e314b2e9b5e7c9b9837f6bdc2051c5d0fed3f95c39c7a2a08feefdee59aa2064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3dad050469bc34954db2311ab92e9917ae8e581fd709ac4da3cfe834791c0f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,18 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Doença Vegetal
 - Controlo Sanitário
+- Doença Vegetal
+- Exportação
 - Importação
 - Investigação Agronómica
 - País Estrangeiro
-- Zona de Proteção
 - Política Agrícola Comum
-- Exportação
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:167178:por
@@ -103,16 +103,21 @@ relationships:
   target: celex:31995L0044
   label: null
   source: http://data.europa.eu/eli/dir/1995/44/oj
+- type: repealed_by
+  target: pt:dre:167178:por
+  label: "Revogada pelo DEC LEI.91/98.1998.04.14.MADRP, DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1998-167178
+  date: '1998-04-14'
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:00Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +202,7 @@ c) A comunicação imediata ao organismo oficial responsável de qualquer contam
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 22 de Maio de 1996.**
+Assinada em 22 de Maio de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -275,15 +280,15 @@ b) Outras medidas de quarentena, em função da biologia e epidemiologia especí
 
 Modelo do documento de autorização para a introdução e ou a circulação de organismos prejudiciais, vegetais, produtos vegetais e outros materiais para fins experimentais ou científicos e trabalhos de selecção de variedades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/135b00/15121518.pdf))](https://files.diariodarepublica.pt/1s/1996/06/135b00/15121518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/135b00/15121518.pdf)
 
 ## ANEXO III
 
 Medidas de quarentena, incluindo testes, de vegetais, produtos vegetais e outros materiais destinados a disseminação após quarentena.
 
-# PARTE A — Para determinados vegetais, produtos vegetais e outros materiais constantes do anexo III da Portaria n.º 344/94
+## PARTE A — Para determinados vegetais, produtos vegetais e outros materiais constantes do anexo III da Portaria n.º 344/94
 
-#### Secção I - Vegetais de Citrus L., Fortunella Swingle e Poncirus Raf. e seus híbridos, com excepção dos frutos e sementes
+Secção I - Vegetais de Citrus L., Fortunella Swingle e Poncirus Raf. e seus híbridos, com excepção dos frutos e sementes
 
 1 - Caso adequado, o material vegetal deve ser submetido a procedimentos terapêuticos adequados, como estabelecido nas Technical Guidelines da FAO/IBQGR.
 
@@ -323,7 +328,7 @@ m) Xanthomonas campestris (todas as estirpes patogénicas para Citrus).
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-#### Secção II - Vegetais de Cydonia Mill., Malus Mill., Prunus L. e Pyrus L. e seus híbridos e Fragaria L. destinados à plantação, com excepção das sementes.
+Secção II - Vegetais de Cydonia Mill., Malus Mill., Prunus L. e Pyrus L. e seus híbridos e Fragaria L. destinados à plantação, com excepção das sementes.
 
 1 - O material vegetal, quando adequado, deve ser submetido a procedimentos terapêuticos adequados, como estabelecidos nas Technical Guidelines da FAO/IBQGR.
 
@@ -421,7 +426,7 @@ b) Pear decline mycoplasm.
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-#### Secção III - Vegetais de Vitis L., excluindo os frutos
+Secção III - Vegetais de Vitis L., excluindo os frutos
 
 1 - O material vegetal, quando adequado, deve ser submetido a procedimentos terapêuticos adequados, como estabelecidos nas Technical Guidelines da FAO/IBQGR.
 
@@ -455,7 +460,7 @@ g) Xylophilus ampelinus (Panagopoulos) Willems et al.
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-# PARTE B — Para determinados vegetais, produtos vegetais e outros materiais constantes dos anexos II e IV da Portaria n.º 344/94
+## PARTE B — Para determinados vegetais, produtos vegetais e outros materiais constantes dos anexos II e IV da Portaria n.º 344/94
 
 1 - As medidas de quarentena oficiais devem incluir a inspecção adequada ou o teste dos organismos prejudiciais relevantes enumerados nos anexos I e II da Portaria n.º 344/94, devendo ser aplicadas em conformidade com as exigências especiais estabelecidas no anexo IV da Portaria n.º 344/94 para organismos prejudiciais específicos, conforme adequado. Relativamente a essas exigências especiais, os métodos utilizados para a quarentena devem ser os estabelecidos no anexo IV da Portaria n.º 344/94 ou outras medidas equivalentes oficialmente aprovadas.
 

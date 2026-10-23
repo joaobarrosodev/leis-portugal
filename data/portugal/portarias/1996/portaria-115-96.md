@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/115/1996/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/115-1996-566244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afdc66f7011ad3ab2ba027ac79b3bcbb6d469a428c0f98255ff5dc2829156800
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cd0255d9db78329c7b2e6ed5367ce4ed0b0c8397f0efb0ed04e5330a0fd11f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
 - Instituto Nacional de Garantia Agrícola
 - Jovem Agricultor
+- Leite
 - Produção Leiteira
 - Quota de Produção
 relationships:
@@ -75,6 +75,23 @@ relationships:
   target: pt:dre:581237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161885:por
+  label: "Alterados os nºs 2º, 4º, 5º, 7º, 8º, 11º, 13º e 14º pela PORT.426/97.1997.06.30.MADRP, DR.IS-B [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-1997-161885
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:241242:por
+  label: "Alterados os nºs. 2, 4, 5, 19, 20, 21 e 24 pela PORT.773/98.1998.09.15.MADRP DR.IS-B [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1998-241242
+  date: '1998-09-15'
+- type: amended_by
+  target: pt:dre:566222:por
+  label: "Alterados o nº 1 do nº 14º e a al. d) do nº 21º (na redacção conferida, respectivamente, pelas Port 426/97 de 30-Jun\
+    \ e 773/98 de 15-Set), e revogado a al. d) do nº 2 do nº 14º, pela PORT.116-C/2000.2000.03.01.MADRP DR.IS-B [51]3º Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-c-2000-566222
+  date: '2000-03-01'
 - type: cites
   target: celex:31968R0804
   label: null
@@ -95,16 +112,26 @@ relationships:
   target: celex:31993R1560
   label: null
   source: http://data.europa.eu/eli/reg/1993/1560/oj
+- type: repealed_by
+  target: pt:dre:275870:por
+  label: "Revogada, com excepção do nº 2, pelo DEC LEI.80/2000.2000.05.09.MADRP, DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2000-275870
+  date: '2000-05-09'
+- type: repealed_by
+  target: pt:dre:581237:por
+  label: "Revogado o n.º 2 pela PORT.684/2000.2000.08.30.MADRP DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/684-2000-581237
+  date: '2000-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:37Z'
   warnings: []
   errors: []
 ---
@@ -331,6 +358,6 @@ b) Os produtores que beneficiaram do disposto na alínea a) ficam impedidos de s
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 15 de Março de 1996.**
+Assinada em 15 de Março de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

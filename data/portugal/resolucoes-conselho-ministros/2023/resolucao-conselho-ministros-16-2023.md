@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03100/0006900073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/16/2023/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2023-207332025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a989f20acf77e8fbc8eb29189660823b284c8f8522bb45d1499371555204b86a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 616e3bef8a72152e5e7e677904a4d51947fa05f72908f1de122eba178635bd16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Feader
-- Proteção da Floresta
-- Combustível
-- Fundos CE
-- Investimento
-- Direção Geral do Território
-- Proteção do Ambiente
-- Política de Solos
-- Fundo Ambiental
-- Programa de Transformação da Paisagem
 - Área Integrada de Gestão da Paisagem
+- Combustível
 - Condomínio de Aldeia-Programa de Apoio às Aldeias Localizadas em Territórios de Floresta
+- Desenvolvimento Rural
+- Direção Geral do Território
+- Feader
+- Financiamento
+- Fundo Ambiental
+- Fundos CE
+- Incêndio
+- Investimento
+- Ordenamento do Território
 - Plano de Recuperação e Resiliência
+- Política de Solos
+- Prevenção de Incêndios
+- Programa de Transformação da Paisagem
+- Proteção da Floresta
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/2020/06/26/p/dre
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2020/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2020/06/24/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177309294:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:43Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +202,9 @@ C - Tipologia e forma dos apoios
 
 As entidades promotoras candidatam-se a apoios disponibilizados pelo Fundo Ambiental, pelo Plano de Recuperação e Resiliência ou por outra fonte de financiamento com origem em fundos da União Europeia, propondo a constituição de 'Condomínio de Aldeia'. Cada candidatura pode incluir um ou mais 'Condomínio de Aldeia', tendo por limite máximo (euro) 50 000,00 por 'Condomínio de Aldeia', sendo os apoios atribuídos de acordo com os critérios definidos nos avisos a publicar.
 
-## ANEXO V — (a que se refere o n.º 14)
+ANEXO V
+
+(a que se refere o n.º 14)
 
 Modelo de financiamento Multifundo
 
@@ -200,7 +218,7 @@ Para além do reforço substancial do orçamento na área das florestas e da sua
 
 Os apoios têm por base o reconhecimento de que os territórios florestais e agroflorestais fornecem, para além dos produtos lenhosos transacionados nos mercados (serviços de aprovisionamento), muitos outros contributos à sociedade. São designados de serviços dos ecossistemas (serviços de regulação, manutenção, resiliência e culturais) e incluem o controlo da erosão, a regulação do ciclo hidrológico, a conservação da biodiversidade, a redução da suscetibilidade ao fogo, a qualidade da paisagem, as oportunidades de recreio e lazer ou a identidade cultural.
 
-# Parte igualmente da constatação que existem territórios florestais onde a ausência ou insuficiência de gestão, decorrente de problemas estruturais (e. g. usos do solo desajustados à aptidão produtiva), limita a produção de serviços de aprovisionamento e contraria o fornecimento de serviços de regulação e manutenção, coincidindo largamente com a elevada vulnerabilidade aos incêndios rurais, a reduzida dimensão da propriedade, os rendimentos agrícolas muito baixos e a queda demográfica acentuada.
+Parte igualmente da constatação que existem territórios florestais onde a ausência ou insuficiência de gestão, decorrente de problemas estruturais (e. g. usos do solo desajustados à aptidão produtiva), limita a produção de serviços de aprovisionamento e contraria o fornecimento de serviços de regulação e manutenção, coincidindo largamente com a elevada vulnerabilidade aos incêndios rurais, a reduzida dimensão da propriedade, os rendimentos agrícolas muito baixos e a queda demográfica acentuada.
 
 Neste âmbito são priorizados os investimentos que visem:
 
@@ -251,3 +269,5 @@ ii) Integração em áreas da estrutura da paisagem, que contempla a estrutura e
 iii) Integração em sistemas da Reserva Ecológica Nacional associados ao ciclo hidrológico.
 
 Os requisitos dos apoios e os montantes a atribuir são definidos nos termos a regulamentar, nomeadamente através de orientações técnicas e avisos a emitir pelo Fundo Ambiental.»
+
+116153071

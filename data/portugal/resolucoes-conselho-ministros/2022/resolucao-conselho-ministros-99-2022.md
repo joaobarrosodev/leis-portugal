@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20600/0000500009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/99/2022/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-2022-202619622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab1cd5be26c0c739b35c09aa2115784c9183814bd241a9e7500b238b8412ebd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c320c624a1b12b6176b457adfe4f9c7a561bd4413342551be893ee394dcce89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mandato
 - Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
+- Mandato
 - Nomeação
-- Proteção do Ambiente
 - Política do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/221/1997/08/20/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/2019/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2019/04/01/p/dre
+- type: cites
+  target: pt:dre:116272163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121748969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:22Z'
   warnings: []
   errors: []
 ---
@@ -194,3 +206,5 @@ Nota curricular de Jéssica Filipa Ribeiro Moreira
 Jéssica Moreira é presidente da Associação Juvenil Geoclube, cujo principal objetivo é promover a participação ativa dos jovens na defesa de questões ambientais, democracia, inclusão social e empreendedorismo jovem.
 
 Nascida em 1999, natural de Gondomar (Porto), licenciada em Contabilidade e Administração no Instituto Superior de Contabilidade e Administração do Porto (ISCAP) foi analista na Empresa Natixis, dirigente associativa do Geoclube e voluntária na Santa Casa da Misericórdia, na Youth Rights - Council of Europe (France) e na Youth Exchange - reciclagem, sobre plástico, vegetarianismo (Madrid).
+
+115795571

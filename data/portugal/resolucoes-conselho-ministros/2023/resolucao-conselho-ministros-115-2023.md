@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18700/0000200055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/115/2023/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2023-222046014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8bcacb32ddfe1276ba94ec1f2e4308878a645cd50489b46b6ae032b85b48015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9d6fdfc4e2399d2a5ff40634b75f7c8b38f73b683cd1e3ff6b662ffed472c07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Integração Migrações e Asilo I. P.
 - Alcoolismo
 - ALTO Comissariado para as Migrações
-- Crime
-- Jogos de Fortuna e Azar
-- Definição de Competências
 - Combate à Droga
+- Crime
+- Definição de Competências
+- Droga
+- Jogos de Fortuna e Azar
+- Plano de Ação para a Redução dos Comportamentos Aditivos e das Dependências - Horizonte 2024
+- PLANO DE AÇÃO PARA A REDUÇÃO DOS COMPORTAMENTOS ADITIVOS E DAS DEPENDÊNCIAS 2013-2016
+- PLANO NACIONAL PARA A REDUÇÃO DOS COMPORTAMENTOS ADITIVOS E DAS DEPENDÊNCIAS 2013-2020
+- Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências 2030
+- Política de Saúde
+- Política Social
 - Prevenção contra o Consumo de Droga
 - Saúde Pública
-- Política de Saúde
-- Droga
 - Serviço de Estrangeiros e Fronteiras
-- Política Social
 - Substância Estupefaciente ou Psicotrópica
-- PLANO NACIONAL PARA A REDUÇÃO DOS COMPORTAMENTOS ADITIVOS E DAS DEPENDÊNCIAS 2013-2020
-- PLANO DE AÇÃO PARA A REDUÇÃO DOS COMPORTAMENTOS ADITIVOS E DAS DEPENDÊNCIAS 2013-2016
-- Agência para a Integração Migrações e Asilo I. P.
-- Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências 2030
-- Plano de Ação para a Redução dos Comportamentos Aditivos e das Dependências - Horizonte 2024
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2003/01/06/p/dre
@@ -125,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2021/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2021/11/30/p/dre
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175129342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:48Z'
   warnings: []
   errors: []
 ---
@@ -617,48 +657,48 @@ M 1 - Aumentar o risco percebido do consumo de substâncias psicoativas
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Aumentar 2 pontos percentuais em 2024 | Aumentar 2 pontos percentuais em 2024 | Aumentar 2 pontos percentuais em 2024 | Aumentar 2 pontos percentuais em 2024 |
+| Aumentar 2 pontos percentuais em 2024 |  |  |  |
 |  | Perceção de grande risco de se magoar(fisicamente ou de outras maneiras) | 2019 | 2024 |
-| ESPAD: Estudantes 16 anos | Consumo de 1-2 bebidas alcoólicas quase todos os dias | PT: 32 % Média europeia: 28 % | 34 % |
-| ESPAD: Estudantes 16 anos | Experimentar canábis (uma ou duas vezes) | PT: 20 % Média europeia: 22 % | 22 % |
-| ESPAD: Estudantes 16 anos | Experimentar canabinoides sintéticos (uma ou duas vezes) | PT: 27 % Média europeia: 34 % | 29 % |
-| ESPAD: Estudantes 16 anos | Experimentar ecstasy (uma ou duas vezes) | PT: 23 % Média europeia: 31 % | 25 % |
+| ESPAD:<br>Estudantes 16 anos | Consumo de 1-2 bebidas alcoólicas quase todos os dias | PT: 32 %<br>Média europeia: 28 % | 34 % |
+| Experimentar canábis (uma ou duas vezes) | PT: 20 %<br>Média europeia: 22 % | 22 % |  |
+| Experimentar canabinoides sintéticos (uma ou duas vezes) | PT: 27 %<br>Média europeia: 34 % | 29 % |  |
+| Experimentar ecstasy (uma ou duas vezes) | PT: 23 %<br>Média europeia: 31 % | 25 % |  |
 
 M 2 - Retardar a idade de início do consumo de substâncias psicoativas
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Diminuir o início de consumos com 13 anos ou menos até 2024: bebidas alcoólicas em 3 p.p.,embriaguez em 0,5 p.p. e canábis em 0,3 p.p. | Diminuir o início de consumos com 13 anos ou menos até 2024: bebidas alcoólicas em 3 p.p.,embriaguez em 0,5 p.p. e canábis em 0,3 p.p. | Diminuir o início de consumos com 13 anos ou menos até 2024: bebidas alcoólicas em 3 p.p.,embriaguez em 0,5 p.p. e canábis em 0,3 p.p. | Diminuir o início de consumos com 13 anos ou menos até 2024: bebidas alcoólicas em 3 p.p.,embriaguez em 0,5 p.p. e canábis em 0,3 p.p. |
+| Diminuir o início de consumos com 13 anos ou menos até 2024: bebidas alcoólicas em 3 p.p.,embriaguez em 0,5 p.p. e canábis em 0,3 p.p. |  |  |  |
 |  | Início dos consumos com 13 anos ou menos | 2019 | 2024 |
-| ESPAD: Estudantes 16 anos | Bebidas alcoólicas | PT: 41 % Média europeia: 33 % | 38 % |
-| ESPAD: Estudantes 16 anos | Embriaguez | PT: 4,5 % Média europeia: 6,7 % | 4,0 % |
-| ESPAD: Estudantes 16 anos | Canábis | PT: 2,3 % Média europeia: 2,4 % | 2,0 % |
+| ESPAD:<br>Estudantes 16 anos | Bebidas alcoólicas | PT: 41 %<br>Média europeia: 33 % | 38 % |
+| Embriaguez | PT: 4,5 %<br>Média europeia: 6,7 % | 4,0 % |  |
+| Canábis | PT: 2,3 %<br>Média europeia: 2,4 % | 2,0 % |  |
 
 M 3 - Diminuir as prevalências e padrões de consumo recente (últimos 12 meses) de substâncias psicoativas
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 |
+| Reduzir em 2 pontos percentuais até 2024 |  |  |  |
 |  | Prevalências de consumos recentes (últimos 12 meses) | 2019 | 2024 |
-| ECATD-CAD: Estudantes 13-18 anos | Álcool | 59 % | 57 % |
-| ECATD-CAD: Estudantes 13-18 anos | Embriaguez (severa) | 20 % | 18 % |
-| ECATD-CAD: Estudantes 13-18 anos | Qualquer droga ilícita | 13 % | 11 % |
-| Reduzir em 0,5 pontos percentuais até 2024 | Reduzir em 0,5 pontos percentuais até 2024 | Reduzir em 0,5 pontos percentuais até 2024 | Reduzir em 0,5 pontos percentuais até 2024 |
+| ECATD-CAD:<br>Estudantes 13-18 anos | Álcool | 59 % | 57 % |
+| Embriaguez (severa) | 20 % | 18 % |  |
+| Qualquer droga ilícita | 13 % | 11 % |  |
+| Reduzir em 0,5 pontos percentuais até 2024 |  |  |  |
 |  | Prevalências de consumos recentes (últimos 12 meses) | 2017 | 2024 |
-| INPG: Portugal 15-74 anos | Consumo binge (1 + vezes por mês) | 5,2 % | 4,7 % |
-| INPG: Portugal 15-74 anos | Qualquer droga ilícita | 4,8 % | 4,3 % |
-| INPG: Portugal 15-74 anos | Embriaguez (severa) | 3,9 % | 3,4 % |
+| INPG: Portugal<br>15-74 anos | Consumo binge (1 + vezes por mês) | 5,2 % | 4,7 % |
+| Qualquer droga ilícita | 4,8 % | 4,3 % |  |
+| Embriaguez (severa) | 3,9 % | 3,4 % |  |
 
 M 4 - Diminuir padrões de jogo de risco
 
 | Jogo | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 |
+| Reduzir em 2 pontos percentuais até 2024 |  |  |  |
 |  | Jogos eletrónicos (videojogos) | 2019 | 2024 |
-| ESPAD: Estudantes 16 anos | Prevalência de jogadores com uso problemático (*) | PT: 24 % Média europeia: 21 % | 22 % |
-| Reduzir em 0,2 pontos percentuais até 2024 | Reduzir em 0,2 pontos percentuais até 2024 | Reduzir em 0,2 pontos percentuais até 2024 | Reduzir em 0,2 pontos percentuais até 2024 |
-|  | Jogos a dinheiro | 2017 (%) - (por mil) | 2024 |
-| INPG: Portugal 15-74 anos | Prevalência de jogadores com alguns problemas (12M) (SOGS) | (1,2 %) - 12(por mil) | (1,0 %) - 10(por mil) |
+| ESPAD:<br>Estudantes 16 anos | Prevalência de jogadores com uso problemático (*) | PT: 24 %<br>Média europeia: 21 % | 22 % |
+| Reduzir em 0,2 pontos percentuais até 2024 |  |  |  |
+|  | Jogos a dinheiro | 2017<br>(%) - (por mil) | 2024 |
+| INPG: Portugal<br>15-74 anos | Prevalência de jogadores com alguns problemas (12M) (SOGS) | (1,2 %) - 12(por mil) | (1,0 %) - 10(por mil) |
 
 (*) ESPAD Report 2019: «... A specific screening tool (Holstein et al., 2014) was adapted to assess for the presence of self-perceived problems related to gaming.»
 
@@ -666,26 +706,26 @@ M 5 - Diminuir padrões de risco no uso da Internet
 
 | Internet | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 |
+| Reduzir em 2 pontos percentuais até 2024 |  |  |  |
 |  | Internet | 2018-2019 | 2024 |
-| EU Kids Online: 9-17 anos | Experiências negativas associadas ao uso da Internet (12M) | PT: 23 % (2018) Média europeia: 25 % | 21 % |
-| DDN: 18 anos | Experiência de problemas associados ao uso da Internet (12M). | 27 % (2019) | 25 % |
+| EU Kids Online:<br>9-17 anos | Experiências negativas associadas ao uso da Internet (12M) | PT: 23 % (2018)<br>Média europeia: 25 % | 21 % |
+| DDN:<br>18 anos | Experiência de problemas associados ao uso da Internet (12M). | 27 % (2019) | 25 % |
 
 M 6 - Aumentar o grau de resposta às necessidades dos utentes no âmbito do acesso às condições básicas para o exercício da cidadania
 
 |  | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 |
+| Aumentar em 2 pontos percentuais até 2024 |  |  |  |
 |  | Acesso a consulta social | 2019 | 2024 |
 | SIM | Número de utentes que iniciaram tratamento no ano com pelo menos uma consulta social/Número de utentes que iniciaram tratamento no ano. | 27,4 % | 29,4 |
-| Diminuir em 2 pontos percentuais até 2024 | Diminuir em 2 pontos percentuais até 2024 | Diminuir em 2 pontos percentuais até 2024 | Diminuir em 2 pontos percentuais até 2024 |
+| Diminuir em 2 pontos percentuais até 2024 |  |  |  |
 | Emprego | Necessidades de emprego dos utentes | 2019 | 2024 |
 | SIM | Número de utentes que iniciaram tratamento no ano com necessidades no âmbito do emprego/Número de utentes que iniciaram tratamento no ano com pelo menos uma consulta social. | 14,5 % | 12,5 % |
 | Cidadania | Necessidades na área da cidadania dos utentes | 2019 | 2024 |
 | SIM | Número de utentes que iniciaram tratamento no ano com necessidades no âmbito da cidadania/Número de utentes que iniciaram tratamento no ano com pelo menos uma consulta social. | 9,4 % | 7,4 % |
 | Proteção social | Necessidades de proteção social dos utentes | 2019 | 2024 |
 | SIM | Número de utentes que iniciaram tratamento no ano com necessidades no âmbito da proteção social/Número de utentes que iniciaram tratamento no ano com pelo menos uma consulta social. | 21,4 % | 19,4 % |
-| Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 | Aumentar em 2 pontos percentuais até 2024 |
+| Aumentar em 2 pontos percentuais até 2024 |  |  |  |
 | Emprego | Necessidades de emprego dos utentes respondidas | 2019 | 2024 |
 | SIM | Número de utentes com necessidades respondidas/Número de utentes com necessidades avaliadas. | 53 % | 55 % |
 | Cidadania | Necessidades na área da cidadania dos utentes respondidas | 2019 | 2024 |
@@ -699,50 +739,50 @@ M 7 - Aumentar a disponibilidade, acessibilidade e adaptação das respostas à 
 
 |  | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Aumentar 1 ponto percentual (álcool, canábis e opiáceos) e 0,2 p.p. (jogo) até 2024 | Aumentar 1 ponto percentual (álcool, canábis e opiáceos) e 0,2 p.p. (jogo) até 2024 | Aumentar 1 ponto percentual (álcool, canábis e opiáceos) e 0,2 p.p. (jogo) até 2024 | Aumentar 1 ponto percentual (álcool, canábis e opiáceos) e 0,2 p.p. (jogo) até 2024 |
+| Aumentar 1 ponto percentual (álcool, canábis e opiáceos) e 0,2 p.p. (jogo) até 2024 |  |  |  |
 |  | Cobertura de tratamento devido ao abuso e dependência | 2019 | 2024 |
-| Portugal (estimativas SICAD; reporte OMS). | Álcool | 26 % | 27 % |
-| Portugal (estimativas SICAD; reporte OMS). | Canábis | 6 % | 7 % |
-| Portugal (estimativas SICAD; reporte OMS). | Opiáceos | 52 % | 53 % |
-| Portugal (estimativas SICAD; reporte OMS). | Jogo | 0,5 % | 0,7 % |
-| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos 2 próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos 2 próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos 2 próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos 2 próximos ciclos |
+| Portugal<br>(estimativas SICAD; reporte OMS). | Álcool | 26 % | 27 % |
+| Canábis | 6 % | 7 % |  |
+| Opiáceos | 52 % | 53 % |  |
+| Jogo | 0,5 % | 0,7 % |  |
+| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos 2 próximos ciclos |  |  |  |
 |  | Grau de acesso | 2021 | 2024 |
-| SClínico; SGIP; Registo público; SIM. | Número de utentes com primeira consulta em (igual ou menor que)15 dias/número de utentes encaminhados. | NA | Identificação de valor base. |
+| SClínico; SGIP; Registo público; SIM. | Número de utentes com primeira consulta em (igual ou menor que)15 dias/número de utentes encaminhados. | NA | Identificação<br>de valor base. |
 
 M 8 - Reduzir o estigma no acesso aos diferentes serviços
 
 |  | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos |
+| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos |  |  |  |
 | SIM; outros | Utentes que reportam terem sido alvo de discriminação/número de utentes que iniciaram tratamento no ano. | NA | Identificação de valor base. |
 
 M 9 - Diminuir as prevalências de abuso e dependência do consumo de substâncias psicoativas, do jogo e da Internet
 
 |  | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 |
-| Substâncias Psicoativas Canábis (CAST) | Prevalências de consumo de risco e dependência(últimos 12 meses) | 2017 (%) - (por mil) | 2024 |
-| INPG: Portugal 15-74 anos | Risco moderado | (0,25 %) - 2,5(por mil) | 2,0(por mil) |
-| INPG: Portugal 15-74 anos | Alto risco | (0,38 %) - 3,8(por mil) | 3,3(por mil) |
-| Diminuir 0,3 p.p. o consumo de risco elevado e 0,05 p.p. a dependência até 2024 | Diminuir 0,3 p.p. o consumo de risco elevado e 0,05 p.p. a dependência até 2024 | Diminuir 0,3 p.p. o consumo de risco elevado e 0,05 p.p. a dependência até 2024 | Diminuir 0,3 p.p. o consumo de risco elevado e 0,05 p.p. a dependência até 2024 |
-| Substâncias Psicoativas Álcool (AUDIT) | Prevalências de consumo de risco e dependência(últimos 12 meses) | 2017 (%) - (por mil) | 2024 |
-| INPG: Portugal 15-74 anos | Risco elevado/nocivo | (2,8 %) - 28(por mil) | 25(por mil) |
-| INPG: Portugal 15-74 anos | Dependência | (0,77 %) - 7,7(por mil) | 7,2(por mil) |
-| Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 |
-| Jogo (SOGS) | Prevalência de jogo (a dinheiro) patológico(últimos 12 meses) | 2017 (%) - (por mil) | 2024 |
-| INPG: Portugal 15-74 anos | Jogo patológico | (0,57 %) - 5,7(por mil) | 5,2(por mil) |
-| Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 | Diminuir 0,05 pontos percentuais até 2024 |
-| Internet (IAT) | Prevalência de dependência da Internet(últimos 12 meses) | 2017 (%) - (por mil) | 2024 |
-| INPG: Portugal 15-74 anos | Dependência moderada e severa da Internet | (0,52 %) - 5,2(por mil) | 4,7(por mil) |
+| Diminuir 0,05 pontos percentuais até 2024 |  |  |  |
+| Substâncias Psicoativas<br>Canábis (CAST) | Prevalências de consumo de risco e dependência(últimos 12 meses) | 2017<br>(%) - (por mil) | 2024 |
+| INPG: Portugal<br>15-74 anos | Risco moderado | (0,25 %) - 2,5(por mil) | 2,0(por mil) |
+| Alto risco | (0,38 %) - 3,8(por mil) | 3,3(por mil) |  |
+| Diminuir 0,3 p.p. o consumo de risco elevado e 0,05 p.p. a dependência até 2024 |  |  |  |
+| Substâncias Psicoativas<br>Álcool (AUDIT) | Prevalências de consumo de risco e dependência(últimos 12 meses) | 2017<br>(%) - (por mil) | 2024 |
+| INPG: Portugal<br>15-74 anos | Risco elevado/nocivo | (2,8 %) - 28(por mil) | 25(por mil) |
+| Dependência | (0,77 %) - 7,7(por mil) | 7,2(por mil) |  |
+| Diminuir 0,05 pontos percentuais até 2024 |  |  |  |
+| Jogo (SOGS) | Prevalência de jogo (a dinheiro) patológico(últimos 12 meses) | 2017<br>(%) - (por mil) | 2024 |
+| INPG: Portugal<br>15-74 anos | Jogo patológico | (0,57 %) - 5,7(por mil) | 5,2(por mil) |
+| Diminuir 0,05 pontos percentuais até 2024 |  |  |  |
+| Internet (IAT) | Prevalência de dependência da Internet(últimos 12 meses) | 2017<br>(%) - (por mil) | 2024 |
+| INPG: Portugal<br>15-74 anos | Dependência moderada e severa da Internet | (0,52 %) - 5,2(por mil) | 4,7(por mil) |
 
 M 10 - Diminuir os internamentos hospitalares 100 % atribuíveis ao álcool
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 5 % até 2024 | Reduzir em 5 % até 2024 | Reduzir em 5 % até 2024 | Reduzir em 5 % até 2024 |
+| Reduzir em 5 % até 2024 |  |  |  |
 |  | Internamentos hospitalares com diagnóstico principal ou secundários 100 % atribuíveis ao álcool (**) | 2019 | 2024 |
 | ACSS: Portugal | Número de internamentos com diagnóstico principal relacionado com doença alcoólica do fígado. | 3 273 | 3 109 |
-| ACSS: Portugal | Número de internamentos com diagnósticos principal ou secundário 100 % atribuíveis ao álcool. | 38 122 | 36 216 |
+| Número de internamentos com diagnósticos principal ou secundário 100 % atribuíveis ao álcool. | 38 122 | 36 216 |  |
 
 (**) Consideradas as causas/condições 100 % atribuíveis ao consumo de álcool. ICD-10-CM/PCS (a partir de 2017): F10.10; F10.11; F10.12; F10.14; F10.15; F10.18; F10.19; F10.20; F10.21; F10.22; F10.23; F10.24; F10.25; F10.26; F10.27; F10.28; F10.29; F10.92; F10.94; F10.95; F10.96; F10.97; F10.98; F10.99; G31.2; G62.1; G72.1; I42.6; K29.2; K70.0; K70.1; K70.2; K70.3; K70.4; K70.9; K86.0; O35.4; P04.3; Q86.0; R78.0; T510X1A; T510X2A; T510X3A; T510X4A; T511X1A; T511X2A; T511X3A; T511X4A; T5191XA; T5192XA; T5193XA; T5194XA.
 
@@ -750,7 +790,7 @@ M 11 - Diminuir o número de novos casos de VIH associados à UDI (utilização 
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir 0,2 pontos percentuais até 2024 | Reduzir 0,2 pontos percentuais até 2024 | Reduzir 0,2 pontos percentuais até 2024 | Reduzir 0,2 pontos percentuais até 2024 |
+| Reduzir 0,2 pontos percentuais até 2024 |  |  |  |
 |  | Notificações de casos diagnosticados nos últimos três anos com VIH associadas à UDI | 2017-2019 | 2024 |
 | INSA/DGS: Portugal | Proporção de novos casos VIH | 2,4 % | 2,2 % |
 
@@ -758,13 +798,13 @@ M 12 - Diminuir a mortalidade relacionada com o consumo de drogas e com o consum
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir para 20,0 %(índice 000) até 2024 | Reduzir para 20,0 %(índice 000) até 2024 | Reduzir para 20,0 %(índice 000) até 2024 | Reduzir para 20,0 %(índice 000) até 2024 |
+| Reduzir para 20,0 %(índice 000) até 2024 |  |  |  |
 |  | Mortalidade padronizada por doenças atribuíveis ao álcool | 2019 | 2024 |
 | INE: Portugal (Total) | Taxa de mortalidade padronizada para todas as idades (por 100 000 hab.) | 22,1 | 20,0 |
-| Reduzir para 0,5 %(índice 000) até 2024 | Reduzir para 0,5 %(índice 000) até 2024 | Reduzir para 0,5 %(índice 000) até 2024 | Reduzir para 0,5 %(índice 000) até 2024 |
+| Reduzir para 0,5 %(índice 000) até 2024 |  |  |  |
 |  | Mortalidade padronizada relacionada com o consumo de drogas (Protocolo OEDT) | 2019 | 2024 |
 | INE: Portugal (Total) | Taxa de mortalidade padronizada para todas as idades (por 100 000 hab.) | 0,7 | 0,5 |
-| Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 |
+| Reduzir em 10 % até 2024 |  |  |  |
 |  | Overdoses fatais devido ao consumo de drogas ilícitas | 2017-2019 | 2024 |
 | INMLCF, I. P.: Portugal | Número de mortes por overdose nos últimos três anos | 150 | 135 |
 
@@ -772,11 +812,11 @@ M 13 - Aumentar a adesão dos utentes aos Serviços/Programas
 
 |  | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos | Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos |
+| Indicadores a desenvolver neste ciclo de ação e a monitorizar nos dois próximos ciclos |  |  |  |
 |  | Grau de adesão | 2021 | 2024 |
-| Sclínico; SGIP; SIM; Outros | Número de utentes referenciados e que compareceram nos CRI/número de utentes referenciados para os CRI. | NA | Identificação de valor base. |
+| Sclínico; SGIP; SIM; Outros | Número de utentes referenciados e que compareceram nos CRI/número de utentes referenciados para os CRI. | NA | Identificação<br>de valor base. |
 |  | Grau de adesão/retenção | 2021 | 2024 |
-| SIM (Ambulatório e Programas) | Número de 2.as consultas de utentes referenciados/número de utentes referenciados que compareceram nos CRI. | NA | Identificação de valor base. |
+| SIM (Ambulatório e Programas) | Número de 2.as consultas de utentes referenciados/número de utentes referenciados que compareceram nos CRI. | NA | Identificação<br>de valor base. |
 
 Pilar 3 - Proteger
 
@@ -784,10 +824,10 @@ M 14 - Diminuir o número de crianças e jovens em situação de perigo relacion
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 |
+| Reduzir em 10 % até 2024 |  |  |  |
 |  | Diagnósticos principais relacionados com comportamentos de consumo de bebidas alcoólicas que afetam o bem-estar e desenvolvimento da criança/jovem (assume ou é exposta). | 2019 | 2024 |
 | CNPDPCJ: Portugal | Número de diagnósticos | 559 | 503 |
-| Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 |
+| Reduzir em 10 % até 2024 |  |  |  |
 |  | Diagnósticos principais relacionados com comportamentos de consumo de drogas que afetam o bem-estar e desenvolvimento da criança/jovem (assume ou é exposta). | 2019 | 2024 |
 | CNPDPCJ: Portugal | Número de diagnósticos | 481 | 433 |
 
@@ -795,18 +835,18 @@ M 15 - Reduzir a disponibilidade/acesso a bebidas alcoólicas entre menores (de 
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 |
+| Diminuir 2 pontos percentuais até 2024 |  |  |  |
 |  | Prevalência da aquisição de bebidas alcoólicas(últimos 30 dias) | 2019 | 2024 |
-| ECATD-CAD: Estudantes 13-17 anos | Em loja (supermercado, mercearia, loja de conveniência, ...) para consumo próprio | 14 % | 12 % |
-| ECATD-CAD: Estudantes 13-17 anos | Para consumo no local (café, restaurante, bar, pub ou discoteca, ...) | 24 % | 22 % |
+| ECATD-CAD:<br>Estudantes 13-17 anos | Em loja (supermercado, mercearia, loja de conveniência, ...) para consumo próprio | 14 % | 12 % |
+| Para consumo no local (café, restaurante, bar, pub ou discoteca, ...) | 24 % | 22 % |  |
 
 M 16 - Diminuir a mortalidade em acidentes de viação relacionados com o consumo de álcool
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Diminuir em 20 % até 2024 (***) | Diminuir em 20 % até 2024 (***) | Diminuir em 20 % até 2024 (***) | Diminuir em 20 % até 2024 (***) |
+| Diminuir em 20 % até 2024 (***) |  |  |  |
 |  | Mortalidade em acidentes de viação relacionados com o consumo de álcool | 2017-2019 | 2024 |
-| ANSR/INMlCF, I. P.: Portugal | Número médio de condutores mortos em acidentes de viação com uma TAS (igual ou maior que) 0,5 g/l nos últimos três anos. | 98 | 78 |
+| ANSR/INMlCF, I. P.:<br>Portugal | Número médio de condutores mortos em acidentes de viação com uma TAS (igual ou maior que) 0,5 g/l nos últimos três anos. | 98 | 78 |
 
 (***) Meta alinhada com a Estratégia de Segurança Rodoviária 2021-2030 - Visão Zero 2030, de redução de 50 % no número de mortos até 2030.
 
@@ -814,29 +854,29 @@ M 17 - Reduzir a disponibilidade/acesso a jogo a dinheiro entre menores (de 18 a
 
 | Jogo | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 | Diminuir 2 pontos percentuais até 2024 |
+| Diminuir 2 pontos percentuais até 2024 |  |  |  |
 |  | Prevalência de jogo a dinheiro (últimos 12 meses) | 2019 | 2024 |
-| ECATD-CAD: Estudantes 13-17 anos | Jogo a dinheiro (12M) | 11 % | 9 % |
+| ECATD-CAD:<br>Estudantes 13-17 anos | Jogo a dinheiro (12M) | 11 % | 9 % |
 
 M 18 - Diminuir a disponibilidade de substâncias psicoativas ilícitas no mercado
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir 2 pontos percentuais até 2024 | Reduzir 2 pontos percentuais até 2024 | Reduzir 2 pontos percentuais até 2024 | Reduzir 2 pontos percentuais até 2024 |
+| Reduzir 2 pontos percentuais até 2024 |  |  |  |
 |  | Prevalência da perceção de facilidade de acesso (relativamente/muito fácil) | 2019 | 2024 |
-| ESPAD: Estudantes 16 anos | Cannabis | PT: 25 % Média europeia: 32 % | 23 % |
-| ESPAD: Estudantes 16 anos | Ecstasy | PT: 11 % Média europeia: 14 % | 9 % |
-| ESPAD: Estudantes 16 anos | Cocaína | PT: 12 % Média europeia: 13 % | 10 % |
-| Reduzir 3 pontos percentuais até 2024 | Reduzir 3 pontos percentuais até 2024 | Reduzir 3 pontos percentuais até 2024 | Reduzir 3 pontos percentuais até 2024 |
+| ESPAD:<br>Estudantes 16 anos | Cannabis | PT: 25 %<br>Média europeia: 32 % | 23 % |
+| Ecstasy | PT: 11 %<br>Média europeia: 14 % | 9 % |  |
+| Cocaína | PT: 12 %<br>Média europeia: 13 % | 10 % |  |
+| Reduzir 3 pontos percentuais até 2024 |  |  |  |
 |  | Prevalência da perceção de facilidade de acesso (relativamente/muito fácil) | 2017 | 2024 |
-| INPG: Portugal 15-74 anos | Cannabis | 61 % | 58 % |
-| INPG: Portugal 15-74 anos | Cocaína | 62 % | 59 % |
+| INPG: Portugal<br>15-74 anos | Cannabis | 61 % | 58 % |
+| Cocaína | 62 % | 59 % |  |
 
 M 19 - Aumentar os bens e valores apreendidos no âmbito do combate ao tráfico de estupefacientes
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Aumentar em 10 % os bens e valores apreendidos | Aumentar em 10 % os bens e valores apreendidos | Aumentar em 10 % os bens e valores apreendidos | Aumentar em 10 % os bens e valores apreendidos |
+| Aumentar em 10 % os bens e valores apreendidos |  |  |  |
 |  | Imóveis | 2017-2019 | 2024 |
 | SICPJ | Número médio | 5 | 6 |
 |  | Viaturas | 2017-2019 | 2024 |
@@ -852,10 +892,10 @@ M 20 - Reduzir a criminalidade relacionada com o álcool
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 |
+| Reduzir em 10 % até 2024 |  |  |  |
 |  | Crimes por condução sob influência do álcool (TAS (igual ou maior que) 1,2g/l) | 2017-2019 | 2024 |
 | DGPJ: Portugal | Número médio de crimes nos últimos três anos | 18 336 | 16 502 |
-| Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 | Reduzir em 2 pontos percentuais até 2024 |
+| Reduzir em 2 pontos percentuais até 2024 |  |  |  |
 |  | Ocorrências de violência doméstica, registadas pelas forças de segurança, relacionadas com o consumo de álcool | 2017 (****) | 2024 |
 | SGMAI: Portugal | Proporção no total de casos de violência doméstica | 40 % | 38 % |
 
@@ -865,7 +905,7 @@ M 21 - Reduzir a criminalidade relacionada com jogo
 
 | Substâncias psicoativas | Indicadores | Valor base (a) | 2024 (b) |
 | --- | --- | --- | --- |
-| Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 | Reduzir em 10 % até 2024 |
+| Reduzir em 10 % até 2024 |  |  |  |
 |  | Crimes relacionados com o jogo (*****) | 2017-2019 | 2024 |
 | DGPJ: Portugal | Número médio de condenados em processos-crime nos tribunais judiciais de 1.ª instância nos últimos três anos. | 296 | 266 |
 
@@ -883,9 +923,9 @@ A Comissão Técnica e as respetivas subcomissões, com as entidades públicas q
 
 As entidades envolvidas e responsáveis pela execução das ações previstas, que compõem as subcomissões da Comissão Técnica da Coordenação Nacional, são as seguintes:
 
-|  |  |
-| --- | --- |
 | Área governativa | Serviço representado nas subcomissões |
+| --- | --- |
+|  |  |
 | Primeiro-Ministro | CNCS; SIED; SIS. |
 | Presidência | INE, I. P. |
 | Assuntos Parlamentares | AIMA, I. P.; ADoP; CIG; IPDJ, I. P. |
@@ -909,65 +949,65 @@ OG1 - Reforçar a literacia em CAD, dotando o cidadão de informação, conhecim
 
 OE1 - Desenvolver a perceção do risco associado a comportamentos de consumo de substâncias psicoativas lícitas e ilícitas e evitar ou retardar a iniciação ao consumo das mesmas, o mau uso de medicamentos, bem como identificar precocemente padrões de comportamento desadaptativo predisponente ao desenvolvimento de CAD, como seja o uso problemático (nocivo) de Internet e do ecrã e práticas problemáticas de jogo.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades Responsáveis | Calendário |
-| Ação 1 - Promoção de intervenções preventivas de carácter universal, seletivo e indicado, que facilitem o desenvolvimento de fatores de proteção individuais, familiares, sociais e ambientais. | Número de programas /projetos desenvolvidos; Número de programas /projetos desenvolvidos com avaliação de processo e/ou de resultados; Número de ações de sensibilização realizadas; Número de materiais desenvolvidos e/ou adaptados. | SICAD; ARS, I. P./DICAD.; CNPDPCJ; CPL; DGE, DGS; IPSS/ONG; ISS, I. P.; MDN; IPDJ, I. P.; Instituições do Ensino Superior; ANMP; ANSR. | 2021-2024 |
-| Ação 2 - Desenvolvimento de programas, ações de proximidade e de sensibilização de grupos específicos na comunidade, permitindo aos cidadãos estabelecerem relações de confiança e diálogo, facilitando o desenvolvimento de um clima de segurança nacional, europeu e internacional. | Número de iniciativas desenvolvidas para a comunidade; Número de ações de informação e sensibilização realizadas; Número de escolas abrangidas; Número de pessoas abrangidas; Número de iniciativas em interação com os Educadores de Pares, como pontes de aproximação aos locais de consumo e aos consumidores; | ARS, I. P./DICAD; ONG/IPSS; PSP; GNR; ANMP. | 2021-2024 |
-|  | Número de educadores de pares integrados em programa de RRMD; Número programas /projetos desenvolvidos. |  |  |
-| Ação 3 - Promoção de programas de deteção precoce e intervenções breves no domínio dos CAD. | Número de programas /projetos implementados e de ações executadas; Número de utentes envolvidos como participantes; Proposta de programa de medidas de promoção de deteção precoce e intervenções breves dirigido ao consumo de álcool, no âmbito do FNAS e aplicação progressiva. | SICAD; ARS, I. P./DICAD; IPDJ; FNAS. | 2021-2024 |
-| Ação 4 - Promoção de intervenção precoce dirigida a pais/familiares, professores, agentes comunitários sobre os riscos associados ao uso problemático de Internet e do ecrã, do jogo e apostas online, do jogo de base territorial (gambling) e de videojogos (gaming). | Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre gambling; Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre gaming; Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre uso problemático da Internet. | DGS, ARS, I. P./DICAD, DGE, AIMA, I. P., CNCS, CPL, IPDJ, I. P., Universidades, PSP/GNR, Ordens Profissionais, IPSS/ONG, Federação Portuguesa do Desporto Eletrónico, Representantes do Sector Industrial/Económico. | 2022-2024 |
-| Ação 5 - Dinamização do Fórum Nacional Álcool e Saúde enquanto plataforma integrada de resposta aos problemas ligados ao álcool. | Número de membros que integrem o FNAS; Documentos orientadores (carta de compromisso); Encontro anual entre membros; Relatório anual de atividades. | SICAD; Outras entidades públicas e privadas e da sociedade civil; Ordens profissionais; Sociedades científicas. | 2021-2024 |
-| Ação 6 - Criação do Fórum Nacional para o Jogo. | Proposta de plataforma que agregue um conjunto alargado de entidades a nível nacional com participação/intervenção na área dos jogos e progressiva implementação (para o sucesso das políticas nesta área); Proposta de regulamento do Fórum Nacional para o Jogo; Número de materiais desenvolvidos de apoio e outros recursos. | SICAD; Outras entidades públicas e privadas e da sociedade civil; Ordens profissionais; Sociedades científicas. | 2022-2024 |
-| Ação 7 - Identificação e sinalização precoce de consumidores de SPA, especialmente entre as populações de jovens e jovens adultos, por forma a desenvolver uma intervenção preventiva, travando situações futuras de maior risco e dependência. | Número de ações de fiscalização no âmbito do consumo de SPA, junto dos contextos de frequência dos jovens; Número de ocorrências por aquisição, deteção e posse de SPA ilícitas; Número de processos de contraordenação instaurados; Número de indiciados jovens (16-24) com processos de contraordenação instaurados. | PSP; GNR; PGR; SICAD/CDT. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 1 - Promoção de intervenções preventivas de carácter universal, seletivo e indicado, que facilitem o desenvolvimento de fatores de proteção individuais, familiares, sociais e ambientais. | Número de programas /projetos desenvolvidos;<br>Número de programas /projetos desenvolvidos com avaliação de processo e/ou de resultados;<br>Número de ações de sensibilização realizadas;<br>Número de materiais desenvolvidos e/ou adaptados. | SICAD; ARS, I. P./DICAD.; CNPDPCJ; CPL; DGE, DGS; IPSS/ONG; ISS, I. P.; MDN; IPDJ, I. P.; Instituições do Ensino Superior; ANMP; ANSR. | 2021-2024 |
+| Ação 2 - Desenvolvimento de programas, ações de proximidade e de sensibilização de grupos específicos na comunidade, permitindo aos cidadãos estabelecerem relações de confiança e diálogo, facilitando o desenvolvimento de um clima de segurança nacional, europeu e internacional. | Número de iniciativas desenvolvidas para a comunidade;<br>Número de ações de informação e sensibilização realizadas;<br>Número de escolas abrangidas;<br>Número de pessoas abrangidas;<br>Número de iniciativas em interação com os Educadores de Pares, como pontes de aproximação aos locais de consumo e aos consumidores; | ARS, I. P./DICAD; ONG/IPSS; PSP; GNR; ANMP. | 2021-2024 |
+|  | Número de educadores de pares integrados em programa de RRMD;<br>Número programas /projetos desenvolvidos. |  |  |
+| Ação 3 - Promoção de programas de deteção precoce e intervenções breves no domínio dos CAD. | Número de programas /projetos implementados e de ações executadas;<br>Número de utentes envolvidos como participantes;<br>Proposta de programa de medidas de promoção de deteção precoce e intervenções breves dirigido ao consumo de álcool, no âmbito do FNAS e aplicação progressiva. | SICAD; ARS, I. P./DICAD; IPDJ; FNAS. | 2021-2024 |
+| Ação 4 - Promoção de intervenção precoce dirigida a pais/familiares, professores, agentes comunitários sobre os riscos associados ao uso problemático de Internet e do ecrã, do jogo e apostas online, do jogo de base territorial (gambling) e de videojogos (gaming). | Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre gambling;<br>Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre gaming;<br>Número de programas e medidas específicas desenvolvidas e dirigidas a pessoas e famílias sobre uso problemático da Internet. | DGS, ARS, I. P./DICAD, DGE, AIMA, I. P., CNCS, CPL, IPDJ, I. P., Universidades, PSP/GNR, Ordens Profissionais, IPSS/ONG, Federação Portuguesa do Desporto Eletrónico, Representantes do Sector Industrial/Económico. | 2022-2024 |
+| Ação 5 - Dinamização do Fórum Nacional Álcool e Saúde enquanto plataforma integrada de resposta aos problemas ligados ao álcool. | Número de membros que integrem o FNAS;<br>Documentos orientadores (carta de compromisso);<br>Encontro anual entre membros;<br>Relatório anual de atividades. | SICAD; Outras entidades públicas e privadas e da sociedade civil; Ordens profissionais; Sociedades científicas. | 2021-2024 |
+| Ação 6 - Criação do Fórum Nacional para o Jogo. | Proposta de plataforma que agregue um conjunto alargado de entidades a nível nacional com participação/intervenção na área dos jogos e progressiva implementação (para o sucesso das políticas nesta área);<br>Proposta de regulamento do Fórum Nacional para o Jogo;<br>Número de materiais desenvolvidos de apoio e outros recursos. | SICAD; Outras entidades públicas e privadas e da sociedade civil; Ordens profissionais; Sociedades científicas. | 2022-2024 |
+| Ação 7 - Identificação e sinalização precoce de consumidores de SPA, especialmente entre as populações de jovens e jovens adultos, por forma a desenvolver uma intervenção preventiva, travando situações futuras de maior risco e dependência. | Número de ações de fiscalização no âmbito do consumo de SPA, junto dos contextos de frequência dos jovens;<br>Número de ocorrências por aquisição, deteção e posse de SPA ilícitas;<br>Número de processos de contraordenação instaurados;<br>Número de indiciados jovens (16-24) com processos de contraordenação instaurados. | PSP; GNR; PGR; SICAD/CDT. | 2021-2024 |
 
 OE2 - Intervir precocemente junto dos consumidores de Baixo Risco e Risco Moderado, promovendo a consciencialização do risco, a responsabilização do comportamento e a motivação do indivíduo para uma eficaz mudança comportamental.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 8 - Dissuasão do consumo de SPA entre os consumidores de Baixo Risco e Risco Moderado (diferenciar população). | Número de indiciados em situação de baixo risco (identificar indiciados por idades); Número de indiciados em situação de risco moderado (identificar indiciados por idades). | SICAD/CDT. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 8 - Dissuasão do consumo de SPA entre os consumidores de Baixo Risco e Risco Moderado (diferenciar população). | Número de indiciados em situação de baixo risco (identificar indiciados por idades);<br>Número de indiciados em situação de risco moderado (identificar indiciados por idades). | SICAD/CDT. | 2021-2024 |
 | Ação 9 - Deteção precoce de situações de risco e promoção de intervenções motivacionais para a redução e/ou abstinência do uso de SPA e consequente adoção de comportamentos mais saudáveis. | Número de indiciados de baixo risco intervencionados (ações psicoeducacionais), com destaque para as ações conjuntas com as estruturas de prevenção (identificar indiciados por idades). | SICAD/CDT; ARS, I. P./DICAD. | 2021-2024 |
-| Ação 10 - Reforço da observância das medidas previstas na Lei da Descriminalização ([Lei n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), 29 de novembro) mediante a responsabilização do consumidor pela ilicitude do ato de consumir, privilegiando sempre a sua aproximação às estruturas de saúde ou reinserção. | Número de sanções aplicadas (pecuniárias/não pecuniárias), em estreita colaboração com as autoridades policiais e com as estruturas de tratamento e reinserção; Número de sanções não pecuniárias aplicadas que elejam medidas de aproximação do consumidor às respostas sociossanitárias disponíveis na comunidade. | SICAD/CDT. | 2021-2024 |
+| Ação 10 - Reforço da observância das medidas previstas na Lei da Descriminalização ([Lei n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), 29 de novembro) mediante a responsabilização do consumidor pela ilicitude do ato de consumir, privilegiando sempre a sua aproximação às estruturas de saúde ou reinserção. | Número de sanções aplicadas (pecuniárias/não pecuniárias), em estreita colaboração com as autoridades policiais e com as estruturas de tratamento e reinserção;<br>Número de sanções não pecuniárias aplicadas que elejam medidas de aproximação do consumidor às respostas sociossanitárias disponíveis na comunidade. | SICAD/CDT. | 2021-2024 |
 
 OG2 - Promover a inclusão social e a capacitação para o exercício da cidadania informada das populações mais vulneráveis com CAD (Metas 6 e 8).
 
 OE3 - Desenvolver abordagens específicas de intervenção em CAD, adaptadas às necessidades e características dos cidadãos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 11 - Promoção de respostas de formação e emprego adequadas às características identificadas nos cidadãos com CAD, que contemplem uma vertente prática de treino de competências pessoais, sociais e profissionais, permitindo construir os alicerces para processos de integração profissional mais ambiciosos. | Número de programas formativos ou de emprego específicos/adaptados para os cidadãos com CAD; Número de pessoas abrangidas por programas formativos ou de emprego específicos/adaptados para os cidadãos com CAD; Número de pessoas que integraram respostas de formação; Número de pessoas que integraram respostas de emprego. | SICAD; IEFP; ARS, I. P./DICAD; IPSS. | 2021-2024 |
-| Ação 12 - Facilitação do acesso efetivo a respostas que atuem na redução das situações de pobreza e exclusão social. | Número de cidadãos com CAD que beneficiaram de respostas de apoio/proteção social; Número de protocolos de articulação ou outras iniciativas que facilitaram o acesso às respostas. | SICAD; ARS, I. P./DICAD; ISS, I. P.; ONG/IPSS; Autarquias. | 2021-2024 |
-| Ação 13 - Desenvolvimento de projetos de intervenção e de boas práticas de inclusão social que potenciem a inserção do cidadão nas redes de suporte, em territórios identificados como prioritários. | Número de projetos de reinserção desenvolvidos; Número de pessoas com CAD abrangidas por projetos de reinserção; Número de pessoas com CAD abrangidas por boas práticas de inclusão social. | SICAD; ARS, I. P./DICAD; ONG/IPSS. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 11 - Promoção de respostas de formação e emprego adequadas às características identificadas nos cidadãos com CAD, que contemplem uma vertente prática de treino de competências pessoais, sociais e profissionais, permitindo construir os alicerces para processos de integração profissional mais ambiciosos. | Número de programas formativos ou de emprego específicos/adaptados para os cidadãos com CAD;<br>Número de pessoas abrangidas por programas formativos ou de emprego específicos/adaptados para os cidadãos com CAD;<br>Número de pessoas que integraram respostas de formação;<br>Número de pessoas que integraram respostas de emprego. | SICAD; IEFP; ARS, I. P./DICAD; IPSS. | 2021-2024 |
+| Ação 12 - Facilitação do acesso efetivo a respostas que atuem na redução das situações de pobreza e exclusão social. | Número de cidadãos com CAD que beneficiaram de respostas de apoio/proteção social;<br>Número de protocolos de articulação ou outras iniciativas que facilitaram o acesso às respostas. | SICAD; ARS, I. P./DICAD; ISS, I. P.; ONG/IPSS; Autarquias. | 2021-2024 |
+| Ação 13 - Desenvolvimento de projetos de intervenção e de boas práticas de inclusão social que potenciem a inserção do cidadão nas redes de suporte, em territórios identificados como prioritários. | Número de projetos de reinserção desenvolvidos;<br>Número de pessoas com CAD abrangidas por projetos de reinserção;<br>Número de pessoas com CAD abrangidas por boas práticas de inclusão social. | SICAD; ARS, I. P./DICAD; ONG/IPSS. | 2021-2024 |
 | Ação 14 - Reforço da articulação com parceiros estratégicos, agilizando e rentabilizando a eficácia das intervenções e a promoção da inclusão social. | Número de iniciativas desenvolvidas em articulação com os parceiros com responsabilidade neste âmbito. | SICAD/CDT; CNPDPCJ; ARS, I. P./DICAD; DGRSP. | 2021-2024 |
 
 OE4 - Desenvolver respostas específicas que viabilizem o exercício da cidadania entre a população com vulnerabilidades para os CAD.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 15 - Definição de mecanismos de alerta/diagnóstico de situações vulneráveis. | Adaptação da Ficha de Ligação, em alinhamento com o plasmado [Decreto-Lei n.º 55/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2020-140087205), de 12 de agosto, no domínio da ação social e respetiva implementação; Número de ações de articulação interinstitucional; Número de serviços de atendimento e de acompanhamento social; Número de pessoas abrangidas. | Autarquias locais e entidades intermunicipais em matéria de ação social; ARS, I. P./DICAD; ISS, I. P.; SICAD. | 2021-2024 |
-| Ação 16 - Desenvolvimento de respostas específicas no âmbito social dirigidas a grupos específicos de subpopulações com CAD, especialmente em situação de vulnerabilidades, designadamente migrantes, visando o desenvolvimento de competências nas várias áreas de vida e de re(aproximação) às redes de suporte. | Número de protocolos estabelecidos que impliquem respostas às necessidade e problemas destes grupos-alvo; Número de encaminhamentos para as estruturas da rede de referenciação em CAD; Número de iniciativas/respostas dirigidas a grupo-alvo implementadas; Número de projetos desenvolvidos para subpopulações vulneráveis com CAD; Número de pessoas abrangidas. | Autarquias locais e entidades intermunicipais em matéria de ação social; ARS, I. P./DICAD; ISS, I. P.; SICAD; AIMA, I. P.; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 17 - Desenvolvimento de intervenções específicas e diferenciadas no âmbito da RRMD e ao seu envolvimento comunitário, com destaque para as abordagens dos cidadãos com consumo endovenoso de substâncias psicoativas e policonsumos. | Número de programas/projetos implementados com avaliação de processo e/ou de resultados; Número de reuniões de supervisão e análise da prática; Número de pessoas abrangidas; Número de encaminhamentos para as estruturas da rede de referenciação. | SICAD; ARS, I. P./DICAD; Entidades públicas e privadas. | 2021-2024 |
-| Ação 18 - Promoção da criação de novas respostas no domínio dos CAD dirigidas em particular a cidadãos frequentadores de contextos recreativos/festivos, sustentadas num forte compromisso com a saúde pública e com os Direitos Humanos. | Número de respostas criadas/Número de projetos desenvolvidos; Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; Entidades públicas e privadas. | 2022-2024 |
-| Ação 19 - Criação de mecanismos de alerta/diagnóstico de situações vulneráveis e respetiva sinalização para entidades competentes. | Número de indiciados identificados em situação vulnerável (identificar indiciados por idades); Número de respostas disponíveis. | SICAD/CDT; CNPDPCJ; ARS, I. P./DICAD; DGRSP; ANMP; ISS, I. P. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 15 - Definição de mecanismos de alerta/diagnóstico de situações vulneráveis. | Adaptação da Ficha de Ligação, em alinhamento com o plasmado [Decreto-Lei n.º 55/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2020-140087205), de 12 de agosto, no domínio da ação social e respetiva implementação;<br>Número de ações de articulação interinstitucional;<br>Número de serviços de atendimento e de acompanhamento social;<br>Número de pessoas abrangidas. | Autarquias locais e entidades intermunicipais em matéria de ação social; ARS, I. P./DICAD; ISS, I. P.; SICAD. | 2021-2024 |
+| Ação 16 - Desenvolvimento de respostas específicas no âmbito social dirigidas a grupos específicos de subpopulações com CAD, especialmente em situação de vulnerabilidades, designadamente migrantes, visando o desenvolvimento de competências nas várias áreas de vida e de re(aproximação) às redes de suporte. | Número de protocolos estabelecidos que impliquem respostas às necessidade e problemas destes grupos-alvo;<br>Número de encaminhamentos para as estruturas da rede de referenciação em CAD;<br>Número de iniciativas/respostas dirigidas a grupo-alvo implementadas;<br>Número de projetos desenvolvidos para subpopulações vulneráveis com CAD;<br>Número de pessoas abrangidas. | Autarquias locais e entidades intermunicipais em matéria de ação social; ARS, I. P./DICAD; ISS, I. P.; SICAD; AIMA, I. P.; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 17 - Desenvolvimento de intervenções específicas e diferenciadas no âmbito da RRMD e ao seu envolvimento comunitário, com destaque para as abordagens dos cidadãos com consumo endovenoso de substâncias psicoativas e policonsumos. | Número de programas/projetos implementados com avaliação de processo e/ou de resultados;<br>Número de reuniões de supervisão e análise da prática;<br>Número de pessoas abrangidas;<br>Número de encaminhamentos para as estruturas da rede de referenciação. | SICAD; ARS, I. P./DICAD; Entidades públicas e privadas. | 2021-2024 |
+| Ação 18 - Promoção da criação de novas respostas no domínio dos CAD dirigidas em particular a cidadãos frequentadores de contextos recreativos/festivos, sustentadas num forte compromisso com a saúde pública e com os Direitos Humanos. | Número de respostas criadas/Número de projetos desenvolvidos;<br>Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; Entidades públicas e privadas. | 2022-2024 |
+| Ação 19 - Criação de mecanismos de alerta/diagnóstico de situações vulneráveis e respetiva sinalização para entidades competentes. | Número de indiciados identificados em situação vulnerável (identificar indiciados por idades);<br>Número de respostas disponíveis. | SICAD/CDT; CNPDPCJ; ARS, I. P./DICAD; DGRSP; ANMP; ISS, I. P. | 2021-2024 |
 
 OG3 - Criar condições do ambiente externo para que haja comportamentos de menor risco/mais saudáveis (Metas 6 e 13).
 
 OE5 - Capacitar os sistemas sociais (escolas, autarquias, associações, empregadores, comércio) para o desenvolvimento de ambientes colaborativos no que se refere à literacia em CAD.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 20 - Desenvolvimento de mecanismos, estratégias biopsicossociais e abordagens integradas e multidisciplinares de literacia em CAD, como determinante de mudança de comportamentos. | Número de iniciativas/estratégias de promoção da literacia em CAD, em contexto institucional. | SICAD; ARS, I. P./DICAD; Entidades públicas e privadas; Associação Nacional de Municípios e Autarquias. | 2023-2024 |
 
 OE6 - Dinamização da articulação com entidades parceiras com responsabilidade em matéria de intervenção em dissuasão dos consumos de SPA, alinhando respostas e intervenções.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 21 - Agilização da articulação com os parceiros estratégicos em dissuasão, através da consolidação dos circuitos implementados e do estabelecimento de novos circuitos de comunicação. | Número de novos circuitos estabelecidos com parceiros estratégicos em dissuasão; Número de iniciativas desenvolvidas no âmbito dos circuitos de articulação estabelecidos. | GNR; PSP; CNPDPCJ; ARS, I. P./DICAD; PGR; DGRSP. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 21 - Agilização da articulação com os parceiros estratégicos em dissuasão, através da consolidação dos circuitos implementados e do estabelecimento de novos circuitos de comunicação. | Número de novos circuitos estabelecidos com parceiros estratégicos em dissuasão;<br>Número de iniciativas desenvolvidas no âmbito dos circuitos de articulação estabelecidos. | GNR; PSP; CNPDPCJ; ARS, I. P./DICAD; PGR; DGRSP. | 2021-2024 |
 
 Cuidar
 
@@ -977,109 +1017,109 @@ OG4 - Reforçar a equidade e igualdade de acesso a todos os serviços relacionad
 
 OE7 - Aumentar a capacidade de resposta a cidadãos com CAD, atendendo também aos novos perfis de consumos e/ou com adições sem substância em programas das diversas áreas de intervenção.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 22 - Disponibilização de intervenções específicas na comunidade para as pessoas com problemas ligados ao álcool e que acumulam vulnerabilidades e riscos de saúde e sociais. | Número de respostas dinamizadas na abordagem PLA em RRMD com avaliação; Número de protocolos estabelecidos; Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 23 - Inovação e atualização da implementação do Plano Operacional de Respostas Integradas às novas realidades e necessidades dos cidadãos e comunidades. | Atualização do diagnóstico nacional do Plano Operacional de Respostas Integradas - PORI; Proposta de modernização do processo da avaliação das intervenções dos PRI; Número de projetos com avaliação de desenvolvimento; | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2023 |
-|  | Número de projetos com indicadores inseridos; Número de PRI implementados. |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 22 - Disponibilização de intervenções específicas na comunidade para as pessoas com problemas ligados ao álcool e que acumulam vulnerabilidades e riscos de saúde e sociais. | Número de respostas dinamizadas na abordagem PLA em RRMD com avaliação;<br>Número de protocolos estabelecidos;<br>Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 23 - Inovação e atualização da implementação do Plano Operacional de Respostas Integradas às novas realidades e necessidades dos cidadãos e comunidades. | Atualização do diagnóstico nacional do Plano Operacional de Respostas Integradas - PORI;<br>Proposta de modernização do processo da avaliação das intervenções dos PRI;<br>Número de projetos com avaliação de desenvolvimento; | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2023 |
+|  | Número de projetos com indicadores inseridos;<br>Número de PRI implementados. |  |  |
 | Ação 24 - Elaboração de guia de boas práticas, baseado na evidência, na avaliação, orientação e referenciação de cidadãos com problemas no uso de tecnologias digitais de comunicação e entretenimento (Internet, e-mail, telemóveis, smartphones, iPods, aparelhos de jogos) dirigidas a diversos contextos (familiar, escolar, laboral e comunitário). | Guia de boas práticas produzido e divulgado. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2022-2024 |
-| Ação 25 - Implementação de serviço de informação e teste da composição das substâncias psicoativas (drug checking) integrado em dispositivos de RRMD abrangentes. | Número de serviços de informação e de teste da composição das SPA implementados, em diferentes contextos; Número de pessoas abrangidas; Número de protocolos criados. | SICAD; ARS, I. P./DICAD; Outras entidades privadas e públicas. | 2022-2024 |
+| Ação 25 - Implementação de serviço de informação e teste da composição das substâncias psicoativas (drug checking) integrado em dispositivos de RRMD abrangentes. | Número de serviços de informação e de teste da composição das SPA implementados, em diferentes contextos;<br>Número de pessoas abrangidas;<br>Número de protocolos criados. | SICAD; ARS, I. P./DICAD; Outras entidades privadas e públicas. | 2022-2024 |
 
 OE8 - Disponibilizar e incrementar a acessibilidade a serviços de intervenção em CAD, suprimindo os obstáculos ao acesso a respostas assistenciais (prevenção indicada, RRMD, tratamento, reinserção social) promovendo respostas adaptadas e integradas (digitais, presenciais, rede de referenciação), baseadas na evidência científica e nas melhores práticas, de acordo com as necessidades biopsicossociais dos utentes com CAD.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 26 - Dinamização de serviços/respostas assistenciais menos estigmatizantes, apelativos e orientados para a prestação de cuidados na comunidade, que disponibilizem modelos e intervenções integradas para grupos populacionais com necessidades específicas. | Número de consultas descentralizadas e serviços de proximidade; Número de intervenções especializadas em CAD através da via digital; Número de respostas criadas/dinamizadas dirigidas a mulheres em diferentes contextos e nas diversas fases do ciclo de vida; Número de respostas criadas/dinamizadas dirigidas a pessoas LGBTQIA+; Número de respostas criadas/dinamizadas dirigidas a pessoas com CAD ligados ao jogo; Número de respostas criadas/dinamizadas dirigidas a minorias étnicas, migrantes, refugiados; Número de ações de articulação interinstitucional para a redução das situações de pobreza e exclusão social; Número de pessoas abrangidas; Número de protocolos estabelecidos. | SICAD; ARS, I. P./DICAD; SCML; ISS, I. P.; CIG; ANMP; AIMA, I. P.; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 27 - Consolidação e dinamização da articulação dos serviços de saúde com os serviços sociais e recursos das comunidades, definidas e reguladas pela Rede de Referenciação/Articulação em CAD. | Número de protocolos criados e revistos; Número de ações de articulação junto dos vários atores do Sistema de Promoção e Proteção à Infância e Juventude. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 28 - Melhoria dos processos de sinalização de crianças e jovens com problemas associados aos CAD por parte das entidades com competência na área da infância e juventude, para as Comissões de Proteção de Crianças e Jovens. | Número de ocorrências de situações de comportamentos de risco; Número de crianças e jovens/famílias sinalizadas à CNPDPCJ; Número de crianças e jovens intervencionados; Número de respostas existentes ou criadas. | SICAD; ARS, I. P./DICAD; CNPDPCJ; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 29 - Desenvolvimento/Adaptação das respostas aos problemas ligados aos CAD sem substância na rede de referenciação dos CAD, ajustadas ao ciclo de vida. | Ativação da interoperabilidade dos sistemas de informação (SIM/SClínico); Número de respostas criadas dirigidas a pessoas com CAD sem substâncias. | SICAD; ARS, I. P./DICAD; Outras entidades privadas e públicas. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 26 - Dinamização de serviços/respostas assistenciais menos estigmatizantes, apelativos e orientados para a prestação de cuidados na comunidade, que disponibilizem modelos e intervenções integradas para grupos populacionais com necessidades específicas. | Número de consultas descentralizadas e serviços de proximidade;<br>Número de intervenções especializadas em CAD através da via digital;<br>Número de respostas criadas/dinamizadas dirigidas a mulheres em diferentes contextos e nas diversas fases do ciclo de vida;<br>Número de respostas criadas/dinamizadas dirigidas a pessoas LGBTQIA+;<br>Número de respostas criadas/dinamizadas dirigidas a pessoas com CAD ligados ao jogo;<br>Número de respostas criadas/dinamizadas dirigidas a minorias étnicas, migrantes, refugiados;<br>Número de ações de articulação interinstitucional para a redução das situações de pobreza e exclusão social;<br>Número de pessoas abrangidas;<br>Número de protocolos estabelecidos. | SICAD; ARS, I. P./DICAD; SCML; ISS, I. P.; CIG; ANMP; AIMA, I. P.; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 27 - Consolidação e dinamização da articulação dos serviços de saúde com os serviços sociais e recursos das comunidades, definidas e reguladas pela Rede de Referenciação/Articulação em CAD. | Número de protocolos criados e revistos;<br>Número de ações de articulação junto dos vários atores do Sistema de Promoção e Proteção à Infância e Juventude. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 28 - Melhoria dos processos de sinalização de crianças e jovens com problemas associados aos CAD por parte das entidades com competência na área da infância e juventude, para as Comissões de Proteção de Crianças e Jovens. | Número de ocorrências de situações de comportamentos de risco;<br>Número de crianças e jovens/famílias sinalizadas à CNPDPCJ;<br>Número de crianças e jovens intervencionados;<br>Número de respostas existentes ou criadas. | SICAD; ARS, I. P./DICAD; CNPDPCJ; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 29 - Desenvolvimento/Adaptação das respostas aos problemas ligados aos CAD sem substância na rede de referenciação dos CAD, ajustadas ao ciclo de vida. | Ativação da interoperabilidade dos sistemas de informação (SIM/SClínico);<br>Número de respostas criadas dirigidas a pessoas com CAD sem substâncias. | SICAD; ARS, I. P./DICAD; Outras entidades privadas e públicas. | 2022-2024 |
 
 OE9 - Garantir de forma igualitária o acesso voluntário e a continuidade da prestação de cuidados de saúde em meio prisional.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 30 - Implementação de medidas baseadas na evidência nos estabelecimentos prisionais para prevenir e reduzir o consumo de substâncias psicoativas e os riscos e danos associados, incluindo respostas para combater a transmissão de vírus por via sanguínea e o risco de mortes relacionadas com substâncias psicoativas. | Número de respostas específicas criadas/dinamizadas; Número de pessoas rastreadas para doenças infeciosas (VIH; VHB; VHC; Tuberculose); Número de pessoas em terapêutica antirretroviral (TAR); Número de pessoas em terapêutica vírica; Número de protocolos estabelecidos, incluindo os celebrados para intervenções especializadas em CAD através via digital; Número de pessoas abrangidas por medidas de redução de novas infeções. | SICAD; ARS, I. P./DICAD; DGRSP; IPSS/ONG. | 2022-2024 |
-| Ação 31 - Disponibilização de intervenções preventivas de comportamentos de risco graves, na perspetiva de RRMD (prevenção e abordagem de overdoses) e garantindo a continuidade de cuidados após saída do estabelecimento prisional. | Mapeamento de respostas específicas na comunidade para a área dos CAD; Número de intervenções específicas na perspetiva RRMD; Número de referenciações para serviços especializados em CAD; Número de pessoas abrangidas; Número de ações de sensibilização no domínio dos CAD a todos profissionais dos EP. | SICAD; ARS, I. P./DICAD; DGRSP. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 30 - Implementação de medidas baseadas na evidência nos estabelecimentos prisionais para prevenir e reduzir o consumo de substâncias psicoativas e os riscos e danos associados, incluindo respostas para combater a transmissão de vírus por via sanguínea e o risco de mortes relacionadas com substâncias psicoativas. | Número de respostas específicas criadas/dinamizadas;<br>Número de pessoas rastreadas para doenças infeciosas (VIH; VHB; VHC; Tuberculose);<br>Número de pessoas em terapêutica antirretroviral (TAR);<br>Número de pessoas em terapêutica vírica;<br>Número de protocolos estabelecidos, incluindo os celebrados para intervenções especializadas em CAD através via digital;<br>Número de pessoas abrangidas por medidas de redução de novas infeções. | SICAD; ARS, I. P./DICAD; DGRSP; IPSS/ONG. | 2022-2024 |
+| Ação 31 - Disponibilização de intervenções preventivas de comportamentos de risco graves, na perspetiva de RRMD (prevenção e abordagem de overdoses) e garantindo a continuidade de cuidados após saída do estabelecimento prisional. | Mapeamento de respostas específicas na comunidade para a área dos CAD;<br>Número de intervenções específicas na perspetiva RRMD;<br>Número de referenciações para serviços especializados em CAD;<br>Número de pessoas abrangidas;<br>Número de ações de sensibilização no domínio dos CAD a todos profissionais dos EP. | SICAD; ARS, I. P./DICAD; DGRSP. | 2022-2024 |
 
 OE10 - Assegurar a plena cidadania das pessoas com CAD, em respeito pelos Direitos Humanos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 32 - Promoção de iniciativas antiestigma, de caráter multidisciplinar e multissectorial, que contribuam para a melhoria do acesso das pessoas com CAD, dos familiares, dos técnicos e da comunidade em geral aos recursos e serviços existentes. | Instrumento de avaliação do estigma; Proposta de módulo de intervenção antiestigma dos CAD, para a igualdade e não discriminação das pessoas com CAD e seus familiares e aplicação progressiva; Número de iniciativas previstas no módulo de intervenção antiestigma dos CAD; Portal de boas práticas dos serviços. | SICAD; ARS, I. P./DICAD; ONG/IPSS; Outras entidades públicas e privadas. | 2022-2024 |
-| Ação 33 - Desenvolvimento do paradigma da mediação social nos processos de reintegração dos cidadãos com CAD, com especial ênfase na mobilidade dos sistemas. | Elaboração/Atualização de guia de recursos/respostas na área dos CAD; Número de intervenções desenvolvidas para a alteração das representações associadas aos CAD e a mobilidade dos Sistemas Sociais; Número de ações de sensibilização de atores-chave na comunidade como forma de redução do estigma e da discriminação. | SICAD; ARS, I. P./DICAD; Universidades; Outras entidades públicas e privadas. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 32 - Promoção de iniciativas antiestigma, de caráter multidisciplinar e multissectorial, que contribuam para a melhoria do acesso das pessoas com CAD, dos familiares, dos técnicos e da comunidade em geral aos recursos e serviços existentes. | Instrumento de avaliação do estigma;<br>Proposta de módulo de intervenção antiestigma dos CAD, para a igualdade e não discriminação das pessoas com CAD e seus familiares e aplicação progressiva;<br>Número de iniciativas previstas no módulo de intervenção antiestigma dos CAD;<br>Portal de boas práticas dos serviços. | SICAD; ARS, I. P./DICAD; ONG/IPSS; Outras entidades públicas e privadas. | 2022-2024 |
+| Ação 33 - Desenvolvimento do paradigma da mediação social nos processos de reintegração dos cidadãos com CAD, com especial ênfase na mobilidade dos sistemas. | Elaboração/Atualização de guia de recursos/respostas na área dos CAD;<br>Número de intervenções desenvolvidas para a alteração das representações associadas aos CAD e a mobilidade dos Sistemas Sociais;<br>Número de ações de sensibilização de atores-chave na comunidade como forma de redução do estigma e da discriminação. | SICAD; ARS, I. P./DICAD; Universidades; Outras entidades públicas e privadas. | 2022-2024 |
 
 OE11 - Assegurar o alinhamento e a equidade nas intervenções, promovendo abordagens/respostas direcionadas para a especificidade das necessidades dos consumidores.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 34 - Reforço da harmonização e da equidade da intervenção em CAD. | Número de orientações emanadas; | SICAD; GNR; PSP; CNPDPCJ ARS, I. P./DICAD; PGR; DGRSP. | 2021-2024 |
-| Ação 35 - Consolidação da especificidade da abordagem e das respostas em dissuasão. | Número de protocolos específicos de intervenção para consumidores que apresentem indicadores de risco acrescido, requerendo uma intervenção atenta e ajustada às suas necessidades; Número de indiciados encaminhados para respostas específicas; Número de indiciados intervencionados pelas diferentes entidades competentes. | CNPDPCJ; ARS, I. P./DICAD; DGSPR; SICAD/CDT. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 34 - Reforço da harmonização e da equidade da intervenção em CAD. | Número de orientações emanadas; | SICAD; GNR; PSP; CNPDPCJ<br>ARS, I. P./DICAD; PGR; DGRSP. | 2021-2024 |
+| Ação 35 - Consolidação da especificidade da abordagem e das respostas em dissuasão. | Número de protocolos específicos de intervenção para consumidores que apresentem indicadores de risco acrescido, requerendo uma intervenção atenta e ajustada às suas necessidades;<br>Número de indiciados encaminhados para respostas específicas;<br>Número de indiciados intervencionados pelas diferentes entidades competentes. | CNPDPCJ; ARS, I. P./DICAD; DGSPR; SICAD/CDT. | 2021-2024 |
 
 OG5 - Garantir a disponibilidade e a qualidade na prestação de serviços relacionados com CAD (Metas 7, 9, 10, 11, 12, 13 e 16).
 
 OE12 - Garantir a qualidade na prestação de serviços e integração das respostas relacionados com CAD (especialização CAD).
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 36 - Emissão de Linhas de Orientação Técnicas (LOT) para a intervenção em CAD, adaptadas às novas realidades. | Número de LOT para a intervenção em CAD produzidas. | SICAD; ARS, I. P./DICAD; Academia; DGS - Programas Prioritários; Sociedades científicas; Ordens profissionais; Outras entidades públicas e privadas. | 2021-2024 |
 | Ação 37 - Monitorização da aplicação/implementação das Linhas de Orientação e avaliação da sua eficácia, através de instrumentos de medida. | Atualização/Criação de modelos de acompanhamento/monitorização e avaliação com definição de instrumentos de medida. | SICAD; ARS, I. P./DICAD; Academia; DGS - Programas Prioritários; Sociedades científicas; Ordens profissionais; Outras entidades públicas e privadas. | 2022-2024 |
-| Ação 38 - Desenvolvimento de um sistema de certificação de qualidade em prevenção. | Requisitos necessários para proceder à certificação de programas ou intervenções preventivas em CAD aprovados; Número de programas ou intervenções preventivas em CAD certificados. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas; Academia. | 2022-2024 |
-| Ação 39 - Desenvolvimento e diversificação de novas respostas, com vista a uma abordagem específica do fenómeno do envelhecimento da população com CAD, e das necessidades que lhe estão associadas. | Número de novas respostas integradas para abordagem específica do fenómeno do envelhecimento a pessoas com CAD; Número de pessoas abrangidas; Criação de respostas específicas no âmbito habitacional dirigidas à população com CAD, mais envelhecida, especialmente em situação de grande vulnerabilidade. | SICAD; ARS, I. P./DICAD; ISS, I. P.; Outras entidades públicas e privadas. | 2022-2024 |
+| Ação 38 - Desenvolvimento de um sistema de certificação de qualidade em prevenção. | Requisitos necessários para proceder à certificação de programas ou intervenções preventivas em CAD aprovados;<br>Número de programas ou intervenções preventivas em CAD certificados. | SICAD; ARS, I. P./DICAD; Outras entidades públicas e privadas; Academia. | 2022-2024 |
+| Ação 39 - Desenvolvimento e diversificação de novas respostas, com vista a uma abordagem específica do fenómeno do envelhecimento da população com CAD, e das necessidades que lhe estão associadas. | Número de novas respostas integradas para abordagem específica do fenómeno do envelhecimento a pessoas com CAD;<br>Número de pessoas abrangidas;<br>Criação de respostas específicas no âmbito habitacional dirigidas à população com CAD, mais envelhecida, especialmente em situação de grande vulnerabilidade. | SICAD; ARS, I. P./DICAD; ISS, I. P.; Outras entidades públicas e privadas. | 2022-2024 |
 
 OE13 - Desenvolver intervenções de prevenção, tratamento e RRMD e outras medidas dirigidas aos riscos associados aos consumos endovenosos, relações sexuais desprotegidas, ou/e outros comportamentos de risco, sob a influência de substâncias psicoativas (em colaboração com o Programa Nacional para as Infeções Sexualmente Transmissíveis e Infeção por VIH, Programa Nacional para as Hepatites Virais e Programa Nacional para a Tuberculose).
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 40 - Desenvolvimento de intervenções e outras medidas para proteger e apoiar os cidadãos consumidores de substâncias psicoativas. | Número de intervenções específicas e integradas; Número de utentes ativos rastreados/Número total de utentes atuais; Número de utentes novos rastreados/ Número total de utentes novos; Número de referenciações; Número de utentes abrangidos por medidas de redução de novas infeções. | SICAD; ARS, I. P./DICAD; DGS; ONG/IPSS. | 2021-2024 |
-| Ação 41 - Reforço da capacidade dos serviços de tratamento e de RRMD na implementação de medidas que visem a sensibilização e a promoção da diminuição das infeções por VIH, VHB e VHC e Tuberculose (em colaboração com o Programa Nacional para as Infeções Sexualmente Transmissíveis e Infeção por VIH, Programa Nacional para as Hepatites Virais e Programa Nacional para a Tuberculose). | Número de respostas específicas criadas no domínio do tratamento; Número de respostas específicas criadas no domínio da RRMD; Número de pessoas rastreadas para doenças infeciosas (VIH; VHB; VHC; Tuberculose); Número de pessoas em terapêutica antirretroviral (TAR); Número de pessoas em terapêutica vírica. | SICAD; ARS, I. P./DICAD; DGS; ONG/IPSS. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 40 - Desenvolvimento de intervenções e outras medidas para proteger e apoiar os cidadãos consumidores de substâncias psicoativas. | Número de intervenções específicas e integradas;<br>Número de utentes ativos rastreados/Número total de utentes atuais;<br>Número de utentes novos rastreados/ Número total de utentes novos;<br>Número de referenciações;<br>Número de utentes abrangidos por medidas de redução de novas infeções. | SICAD; ARS, I. P./DICAD; DGS; ONG/IPSS. | 2021-2024 |
+| Ação 41 - Reforço da capacidade dos serviços de tratamento e de RRMD na implementação de medidas que visem a sensibilização e a promoção da diminuição das infeções por VIH, VHB e VHC e Tuberculose (em colaboração com o Programa Nacional para as Infeções Sexualmente Transmissíveis e Infeção por VIH, Programa Nacional para as Hepatites Virais e Programa Nacional para a Tuberculose). | Número de respostas específicas criadas no domínio do tratamento;<br>Número de respostas específicas criadas no domínio da RRMD;<br>Número de pessoas rastreadas para doenças infeciosas (VIH; VHB; VHC; Tuberculose);<br>Número de pessoas em terapêutica antirretroviral (TAR);<br>Número de pessoas em terapêutica vírica. | SICAD; ARS, I. P./DICAD; DGS; ONG/IPSS. | 2021-2024 |
 
 OE14 - Reduzir as comorbilidades associadas aos CAD.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 42 - Reforço de respostas específicas nos diversos domínios de intervenção que promovam a identificação dos determinantes da saúde e sociais e deteção precoce dos fatores de risco, na perspetiva da prevenção e controlo das doenças crónicas não transmissíveis. | Número de utentes novos rastreados na perspetiva do controlo das doenças crónicas não transmissíveis/Número total de utentes novos. | SICAD; ARS, I. P./DICAD; ONG/IPSS. | 2021-2024 |
 | Ação 43 - Reforço das capacidades dos serviços para a implementação de estratégias de diagnóstico e intervenções terapêuticas e de referenciação, que visem diminuir a ocorrência de comorbilidades associadas aos CAD. | Número de utentes novos referenciados com comorbilidades/Número total de utentes com comorbilidades identificadas. | SICAD, ARS, I. P./DICAD; ONG/IPSS. | 2021-2024 |
 | Ação 44 - Consolidação e alargamento de uma rede de cuidados integrados, específica e adequada ao envelhecimento e suas múltiplas dimensões dos cidadãos com CAD. | Proposta de um instrumento integrador no âmbito da Rede em CAD, para reforço do trabalho colaborativo. | SICAD/CDT; ARS, I. P./DICAD; DGS; ACSS. | 2023-2024 |
 
 OE15 - Promover uma intervenção específica direcionada para a problemática de risco moderado e de alto risco, facilitando o contacto com os sistemas de saúde e a respetiva adesão ao processo terapêutico, contribuindo para a redução/abstinência dos consumos e para o restabelecimento psicossocial dos consumidores dependentes de SPA.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 45 - Intervenção nas situações que não sendo de dependência, carecem de uma intervenção específica, motivacional e dissuasora, recorrendo à eventual referenciação para estruturas de apoio na comunidade. | Número de indiciados em situação de risco moderado sujeitos a intervenções breves e a sessões de intervenção motivacional no âmbito da intervenção em dissuasão (identificar indiciados por idades); Número de indiciados em situação de risco moderado referenciados para respostas de prevenção indicada ou outras estruturas de apoio (identificar indiciados por idades). | SICAD/CDT; ARS, I. P./DICAD. | 2021-2024 |
-| Ação 46 - Identificação de situações de alto risco/dependência entre os consumidores de SPA, desenvolvendo uma intervenção específica, agilizando o trabalho de mediação e referenciação para as entidades especializadas no tratamento desta problemática. | Número de indiciados em situação de Alto Risco (identificar indiciados por idades); Número de indiciados de Alto Risco sujeitos a intervenções breves e a sessões de intervenção motivacional para adesão ao processo de tratamento (identificar indiciados por idades); Número de indiciados em situação de Alto Risco referenciados para tratamento (identificar indiciados por idades). | SICAD/CDT; ARS, I. P./DICAD. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 45 - Intervenção nas situações que não sendo de dependência, carecem de uma intervenção específica, motivacional e dissuasora, recorrendo à eventual referenciação para estruturas de apoio na comunidade. | Número de indiciados em situação de risco moderado sujeitos a intervenções breves e a sessões de intervenção motivacional no âmbito da intervenção em dissuasão (identificar indiciados por idades);<br>Número de indiciados em situação de risco moderado referenciados para respostas de prevenção indicada ou outras estruturas de apoio (identificar indiciados por idades). | SICAD/CDT; ARS, I. P./DICAD. | 2021-2024 |
+| Ação 46 - Identificação de situações de alto risco/dependência entre os consumidores de SPA, desenvolvendo uma intervenção específica, agilizando o trabalho de mediação e referenciação para as entidades especializadas no tratamento desta problemática. | Número de indiciados em situação de Alto Risco (identificar indiciados por idades);<br>Número de indiciados de Alto Risco sujeitos a intervenções breves e a sessões de intervenção motivacional para adesão ao processo de tratamento (identificar indiciados por idades);<br>Número de indiciados em situação de Alto Risco referenciados para tratamento (identificar indiciados por idades). | SICAD/CDT; ARS, I. P./DICAD. | 2021-2024 |
 
 OE16 - Reduzir as consequências tardias e o impacto dos CAD com e sem substâncias e a mortalidade associada ao consumo de substâncias psicoativas.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 47 - Dinamização de Grupos Técnicos de reflexão e aprofundamento das matérias relacionadas com os desafios na promoção e sustentabilidade da saúde mental das crianças, adolescentes e jovens na abordagem dos CAD sem substância. | Número de grupos dinamizados; Número de documentos produzidos. | SICAD; Sociedades científicas; Ordens profissionais; ARS, I. P./DICAD; CNPDPCJ; IPSS/ONG. | 2023-2024 |
-| Ação 48 - Desenvolvimento de iniciativas que promovam a mudança de comportamentos nos cidadãos, incentivando-os a ter uma participação proativa na gestão da sua saúde, por forma a mitigar o impacto dos efeitos tardios dos CAD, das (co)morbilidades e prevenir a mortalidade associada. | Número de iniciativas desenvolvidas específicas para a mitigação das comorbilidades; Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 47 - Dinamização de Grupos Técnicos de reflexão e aprofundamento das matérias relacionadas com os desafios na promoção e sustentabilidade da saúde mental das crianças, adolescentes e jovens na abordagem dos CAD sem substância. | Número de grupos dinamizados;<br>Número de documentos produzidos. | SICAD; Sociedades científicas; Ordens profissionais; ARS, I. P./DICAD; CNPDPCJ; IPSS/ONG. | 2023-2024 |
+| Ação 48 - Desenvolvimento de iniciativas que promovam a mudança de comportamentos nos cidadãos, incentivando-os a ter uma participação proativa na gestão da sua saúde, por forma a mitigar o impacto dos efeitos tardios dos CAD, das (co)morbilidades e prevenir a mortalidade associada. | Número de iniciativas desenvolvidas específicas para a mitigação das comorbilidades;<br>Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG. | 2022-2024 |
 | Ação 49 - Reforço das intervenções diferenciadas e das respostas específicas que promovam a prevenção das mortes por overdoses e relacionadas com as substâncias psicoativas, assim como a redução das mortes prematuras por doenças não transmissíveis, nos diversos contextos. | Número de respostas específicas implementadas para redução da mortalidade. | SICAD; ARS, I. P./DICAD; IPSS/ONG. | 2021-2024 |
 
 OE17 - Dar resposta aos novos desafios, novas substâncias, os CAD sem substância.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 50 - Desenvolvimento de medidas e estratégias de intervenção que respondam às necessidades identificadas e que assuma os desafios no âmbito do uso nocivo de Internet e do ecrã, do jogo e apostas online, do jogo de base territorial (gambling). | Número de medidas/estratégias de intervenção no domínio do gambling; Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG; CNCS. | 2022-2024 |
-| Ação 51 - Desenvolvimento de medidas e estratégias de intervenção que respondam às necessidades identificadas e que assuma os desafios no domínio da perturbação de videojogos pela Internet (gaming). | Número de medidas/estratégias de intervenção no domínio do gaming; Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG; CNCS. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 50 - Desenvolvimento de medidas e estratégias de intervenção que respondam às necessidades identificadas e que assuma os desafios no âmbito do uso nocivo de Internet e do ecrã, do jogo e apostas online, do jogo de base territorial (gambling). | Número de medidas/estratégias de intervenção no domínio do gambling;<br>Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG; CNCS. | 2022-2024 |
+| Ação 51 - Desenvolvimento de medidas e estratégias de intervenção que respondam às necessidades identificadas e que assuma os desafios no domínio da perturbação de videojogos pela Internet (gaming). | Número de medidas/estratégias de intervenção no domínio do gaming;<br>Número de pessoas abrangidas. | SICAD; ARS, I. P./DICAD; IPSS/ONG; CNCS. | 2022-2024 |
 | Ação 52 - Desenvolvimento de suporte de supervisão visando a harmonização de práticas nas respostas da saúde aos problemas ligados aos CAD sem substância. | Plataforma de profissionais para partilha e discussão de casos clínicos. | SICAD; ARS, I. P./DICAD; IPSS/ONG; Sociedades científicas. | 2023-2024 |
 
 OE18 - Garantir condições de logística adequada à prestação dos cuidados (recursos logísticos e humanos) nos diferentes níveis de intervenção.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 53 - Promoção de medidas multissectoriais que assegurem as capacidades/infraestruturas necessárias e concertadas à execução das intervenções eficazes. | Número de medidas multissetoriais desenvolvidas com avaliação de processo e/ou de resultados. | SICAD; ARS, I. P./DICAD. | 2023-2024 |
 | Ação 54 - Reforço da capacidade de referenciação para serviços especializados, pela melhoria da interoperabilidade de sistemas e integração de serviços. | Ativação da interoperabilidade dos sistemas de informação (SIM/SClínico). | SICAD; SPMS. | 2021-2024 |
 
@@ -1091,56 +1131,56 @@ OG6 - Reduzir e gerir os riscos de exposição ao consumo de substâncias psicoa
 
 OE19 - Garantir que a disponibilização, venda, acesso e consumo de álcool no mercado, seja feita de forma segura e não indutora de uso/consumo de risco e nocivo, através de regulação, regulamentação e fiscalização adequadas.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 55 - Monitorização da aplicação da regulamentação existente. ([Decreto-Lei n.º 50/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2013-260432)). | Número de contraordenações aplicadas no âmbito da disponibilização, venda e consumo de bebidas alcoólicas em locais públicos e em locais abertos ao público. | ASAE. | 2021-2024 |
-| Ação 56 - Ação integrada de fiscalização para monitorização da introdução ilícita de bebidas alcoólicas no mercado. | Número de ações de fiscalização realizadas/número de ações de fiscalização planeadas; Número de litros apreendidos de bebidas introduzidas de forma ilícita no mercado. | ASAE; PSP; GNR; AT. | 2021-2024 |
+| Ação 56 - Ação integrada de fiscalização para monitorização da introdução ilícita de bebidas alcoólicas no mercado. | Número de ações de fiscalização realizadas/número de ações de fiscalização planeadas;<br>Número de litros apreendidos de bebidas introduzidas de forma ilícita no mercado. | ASAE; PSP; GNR; AT. | 2021-2024 |
 | Ação 57 - Controlo e monitorização de conformidade de bebidas no retalho. | Número de não conformidades/total de amostras. | ASAE. | 2021-2024 |
 | Ação 58 - Divulgação de recursos destinados a docentes para o uso em contexto de sala da aula, subordinados à temática CAD. | Número de recursos divulgados/número de recursos planeados. | DGE. | 2021-2024 |
 | Ação 59 - Quantificação e qualificação das questões e repostas dadas aos operadores sobre enquadramento legal para colocação no mercado de bebidas espirituosas de origem não vínica. | Número de questões respondidas e qualificadas/número de questões recebidas. | DGAV. | 2021-2024 |
 
 OE20 - Contribuir para o uso e consumo racional dos medicamentos, anabolizantes e substâncias psicoativas lícitas através da regulamentação e da fiscalização adequadas.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 60 - Monitorização da regulamentação existente, no âmbito da [Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/lei/81-2021-175129342), de 30 de novembro, e da [Lei n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/lei/39-2012-174777), de 28 de agosto. | Número de processos instaurados por violação de norma antidopagem prevista no n.º 2 do artigo 5.º da [Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/lei/81-2021-175129342), de 30 de novembro, e número de contraordenações aplicadas no âmbito da disponibilização e comercialização de quaisquer substâncias ou métodos que constem da lista de substâncias e métodos proibidos a que se refere o artigo 10.º da Lei antidopagem no desporto. | ADoP; ASAE. | 2021-2024 |
-| Ação 61 - Ação integrada de fiscalização para monitorização da introdução ilícita de medicamentos e substâncias anabolizantes no mercado. | Número de ações de fiscalização realizadas/número de ações de fiscalização planeadas; Número de medicamentos apreendidos introduzidos de forma ilícita no mercado/número de medicamentos introduzidos de forma lícita no mercado. | ASAE; PSP; GNR; AT. | 2021-2024 |
+| Ação 61 - Ação integrada de fiscalização para monitorização da introdução ilícita de medicamentos e substâncias anabolizantes no mercado. | Número de ações de fiscalização realizadas/número de ações de fiscalização planeadas;<br>Número de medicamentos apreendidos introduzidos de forma ilícita no mercado/número de medicamentos introduzidos de forma lícita no mercado. | ASAE; PSP; GNR; AT. | 2021-2024 |
 | Ação 62 - Quantificação e qualificação das questões e repostas dadas aos operadores sobre enquadramento legal para colocação no mercado de produtos alimentares em que se utiliza a canábis (incluindo suplementos alimentares) - o canabidiol (CBD). | Número de questões respondidas e qualificadas/número de questões recebidas. | DGAV. | 2021-2024 |
 
 OE21 - Proporcionar oportunidades de jogo legal e seguro, e não indutor de comportamento aditivo, através de legislação, regulamentação e fiscalização adequadas, bem como do uso seguro da Internet.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 63 - Ação integrada de fiscalização para monitorização da oferta de jogo ilegal. | Número de equipamentos de uso ilegal em jogo de fortuna ou azar apreendidos; Número de sites de jogo bloqueados. | ASAE; PSP; GNR; Turismo de Portugal/SRIJ. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 63 - Ação integrada de fiscalização para monitorização da oferta de jogo ilegal. | Número de equipamentos de uso ilegal em jogo de fortuna ou azar apreendidos;<br>Número de sites de jogo bloqueados. | ASAE; PSP; GNR; Turismo de Portugal/SRIJ. | 2021-2024 |
 
 OG7 - Aumentar a segurança e diminuir a criminalidade relacionada com o consumo e a oferta ilegal de substâncias psicoativas e com outras práticas potencialmente aditivas (Metas 14, 15, 18, 19, 20 e 21).
 
 OE22 - Garantir a adequação da legislação existente às políticas públicas relacionadas com os comportamentos aditivos e dependências e disponibilizar ferramentas/instrumentos que promovam a partilha de conhecimento e o trabalho em rede.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 64 - Desenvolvimento e implementação de ferramentas de partilha de conhecimento e de boas práticas no que toca à oferta. | «Policy dialogue» multiagência tendo como base o diagnóstico da legislação realizado; Ferramenta criada; Ferramenta implementada. | ASAE; SGMAI; SICAD; GNR; PSP; DGE; ANSR; AT; IVV, I. P.; DGAE; DGC; TP, I. P.; INFARMED, DGS; ARS, I. P.; DGAV; IPDJ. | 2022-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 64 - Desenvolvimento e implementação de ferramentas de partilha de conhecimento e de boas práticas no que toca à oferta. | «Policy dialogue» multiagência tendo como base o diagnóstico da legislação realizado;<br>Ferramenta criada;<br>Ferramenta implementada. | ASAE; SGMAI; SICAD; GNR; PSP; DGE; ANSR; AT; IVV, I. P.; DGAE; DGC; TP, I. P.; INFARMED, DGS; ARS, I. P.; DGAV; IPDJ. | 2022-2024 |
 
 OE23 - Garantir estratégias e intervenções de prevenção ambiental, baseadas na evidência, dimensionando-as e orientando-as para as características dos grupos-alvo e contextos onde se inserem.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades Responsáveis | Calendário |
-| Ação 65 - Produção e implementação de regras e orientações relativas a ambientes não indutores de CAD nos diferentes serviços e contextos. | Número de documentos orientadores; Número de medidas de promoção da implementação das linhas orientadoras. | ARS, I. P./DICAD, CPL, DGS, DGE, IPDJ, PSP; GNR. | 2023-2024 |
-| Ação 66 - Promoção de medidas conducentes à mitigação do problema da condução sob efeito de substâncias psicoativas. | Número de medidas específicas dinamizadas; Ações conjuntas; Número de pessoas detetadas com influência álcool na condução. | SICAD /CDT; ANSR; INMLCF; Ministério Público; Procuradoria-Geral; Ordens profissionais; DGS; PSP; GNR. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 65 - Produção e implementação de regras e orientações relativas a ambientes não indutores de CAD nos diferentes serviços e contextos. | Número de documentos orientadores;<br>Número de medidas de promoção da implementação das linhas orientadoras. | ARS, I. P./DICAD, CPL, DGS, DGE, IPDJ, PSP; GNR. | 2023-2024 |
+| Ação 66 - Promoção de medidas conducentes à mitigação do problema da condução sob efeito de substâncias psicoativas. | Número de medidas específicas dinamizadas;<br>Ações conjuntas;<br>Número de pessoas detetadas com influência álcool na condução. | SICAD /CDT; ANSR; INMLCF; Ministério Público; Procuradoria-Geral; Ordens profissionais; DGS; PSP; GNR. | 2021-2024 |
 | Ação 67 - Consolidação e alargamento da articulação no âmbito da intervenção em sede de processos de promoção e proteção de crianças e jovens em perigo, crianças e jovens em risco, jovens ao abrigo de Medidas Tutelares Educativas. | Proposta do modelo de articulação no âmbito da intervenção em sede de processos de promoção e proteção de crianças e jovens em perigo, crianças e jovens em risco, jovens ao abrigo de Medidas Tutelares Educativas e aplicação progressiva. | SICAD; ARS, I. P./DICAD; ISS I. P.; CNPDPCJ; DGRSP; Ministério Público; OM; SCML; CPL; ONG/IPSS. | 2022-2024 |
 | Ação 68 - Promoção de medidas de caráter comunitário visando o jogo responsável. | Número de medidas específicas dinamizadas. | SRIJ, SCML, ARS, Entidades públicas e privadas com intervenção direta na promoção do jogo. | 2021-2024 |
 
 OE24 - Reforçar a cooperação e coordenação interinstitucional no domínio do combate ao tráfico ilícito de estupefacientes e ao branqueamento de capitais associado.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades Responsáveis | Calendário |
-| Ação 69 - Incremento da troca regular de informação entre as entidades com responsabilidades no domínio da prevenção, fiscalização e investigação do tráfico ilícito de estupefacientes e do branqueamento de capitais associado. | Número de informações trocadas, incluindo no âmbito da - coordenação UCIC; Número de relatórios elaborados e partilhados com outras entidades. | PJ, GNR, PSP, AT, PM, DGRSP, SIS/SIED, PGR. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 69 - Incremento da troca regular de informação entre as entidades com responsabilidades no domínio da prevenção, fiscalização e investigação do tráfico ilícito de estupefacientes e do branqueamento de capitais associado. | Número de informações trocadas, incluindo no âmbito da - coordenação UCIC;<br>Número de relatórios elaborados e partilhados com outras entidades. | PJ, GNR, PSP, AT, PM, DGRSP, SIS/SIED, PGR. | 2021-2024 |
 | Ação 70 - Realização de reuniões regulares visando delinear e coordenar intervenções conjuntas no domínio do combate ao tráfico de estupefacientes. | Número de reuniões realizadas. | PJ, GNR, PSP, AT, PM, DGRSP. | 2021-2024 |
 | Ação 71 - Desenvolvimento de projetos conjuntos no domínio do combate ao tráfico de estupefacientes. | Número de projetos desenvolvidos. | PJ, GNR, PSP, AT, PM, DGRSP, SIS/SIED. | 2021-2024 |
 | Ação 72 - Realização de ações/operações conjuntas no domínio do combate ao tráfico de estupefacientes. | Número de ações e/ou operações realizadas conjuntamente ou em que houve participação conjunta. | PJ, GNR, PSP, AT, PM, DGRSP. | 2021-2024 |
@@ -1148,10 +1188,10 @@ OE24 - Reforçar a cooperação e coordenação interinstitucional no domínio d
 
 OE25 - Reforçar a cooperação policial e judiciária internacional no domínio do combate ao tráfico ilícito de estupefacientes e branqueamento de capitais associado.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 74 - Aumento da capacidade de partilha de informação no âmbito estratégico e operacional. | Número de pedidos de informação enviados e recebidos; Número de relatórios trocados; Número de reuniões participadas. | PJ, PGR. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 74 - Aumento da capacidade de partilha de informação no âmbito estratégico e operacional. | Número de pedidos de informação enviados e recebidos;<br>Número de relatórios trocados;<br>Número de reuniões participadas. | PJ, PGR. | 2021-2024 |
 | Ação 75 - Participação em projetos e iniciativas diversas. | Número de projetos participados. | PJ, PGR. | 2021-2024 |
 | Ação 76 - Desenvolvimento de investigações coordenadas e participação em equipas de investigação conjuntas. | Número de investigações e de equipas de investigação conjuntas. | PJ, PGR. | 2021-2024 |
 | Ação 77 - Recurso mais intensivo às decisões europeias de investigação. | Número de decisões europeias de investigação solicitadas e cumpridas. | PGR. | 2021-2024 |
@@ -1159,38 +1199,38 @@ OE25 - Reforçar a cooperação policial e judiciária internacional no domínio
 | Ação 79 - Participação em projetos conjuntamente com outros países e/ou organizações internacionais. | Número de projetos. | PGR, PJ. | 2021-2024 |
 | Ação 80 - Participação nas atividades e ações dos planos operacionais anuais da prioridade EMPACT Drogas. | Número de atividades participadas. | PJ, GNR, PSP, AT, PM SIS/SIED, PGR. | 2021-2024 |
 | Ação 81 - Manutenção e reforço da comunicação e articulação com a EUROJUST. | Número de pedidos e respostas. | PGR. | 2021-2024 |
-| Ação 82 - Desenvolvimento de projeto de coordenação com as autoridades de Espanha, designadamente com a Fiscalía Especial Antidroga. | Desenvolvimento do projeto; Ações de formação e de coordenação. | PGR. | 2021-2024 |
+| Ação 82 - Desenvolvimento de projeto de coordenação com as autoridades de Espanha, designadamente com a Fiscalía Especial Antidroga. | Desenvolvimento do projeto;<br>Ações de formação e de coordenação. | PGR. | 2021-2024 |
 | Ação 83 - Participação em seminários, reuniões internacionais e grupos de trabalho no domínio da prevenção e combate ao branqueamento de capitais. | Número de seminários, reuniões e grupos de trabalho em que houve participação. | PJ, PGR. | 2021-2024 |
 | Ação 84 - Assegurar a representação nacional nas reuniões do Grupo Egmont. | Número de reuniões participadas. | PJ. | 2021-2024 |
 
 OE26 - Reforçar a prevenção e investigação do tráfico de estupefacientes, do branqueamento de capitais e intensificar a recuperação de ativos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades Responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 85 - Aumento do número de ações visando prevenir o tráfico ilícito de estupefacientes. | Número de ações realizadas. | PJ, GNR, PSP, PM, PGR, DGRSSP, AT. | 2021-2024 |
-| Ação 86 - Aumento do número de investigações por tráfico ilícito de estupefacientes e a eficácia das mesmas. | Número de inquéritos iniciados; Quantidades de drogas apreendidas; Número de apreensões de droga; Número de detidos. | PJ, GNR, PSP, PGR. | 2021-2024 |
+| Ação 86 - Aumento do número de investigações por tráfico ilícito de estupefacientes e a eficácia das mesmas. | Número de inquéritos iniciados;<br>Quantidades de drogas apreendidas;<br>Número de apreensões de droga;<br>Número de detidos. | PJ, GNR, PSP, PGR. | 2021-2024 |
 | Ação 87 - Aumento do número de investigações por branqueamento de capitais em que o crime precedente seja o tráfico de drogas. | Número de inquéritos iniciados. | PGR e PJ. | 2021-2024 |
 | Ação 88 - Aumento do número de investigações patrimoniais no âmbito dos inquéritos por tráfico de estupefacientes tendo em vista aumentar a recuperação de ativos com origem ilícita. | Número de pedidos de intervenção do Gabinete de Recuperação de Ativos. | PGR, PJ, GNR, PSP. | 2021-2024 |
 | Ação 89 - Aumento dos bens e valores apreendidos. | Imóveis, viaturas, aeronaves, embarcações e dinheiro apreendidos. | PJ, GNR, PSP; AT. | 2021-2024 |
-| Ação 90 - Reforço das ações visando detetar movimentos de cash flow de origem criminosa com repercussão interna e externa, designadamente com destinos de alto risco fora da UE, incluindo o controlo de movimento de dinheiro líquido na fronteira. | Número de ações realizadas; Número de relatórios de análise produzidos. | PJ, AT. | 2021-2024 |
-| Ação 91 - Reforço da recolha e análise de informação, que permita a referenciação de ligações transnacionais e a caraterização dos métodos de colocação, circulação e integração de capitais dos fundos provenientes do tráfico ilícito de estupefacientes. | Reuniões com serviços congéneres; Produção de informações; Participação em fora internacionais; Participação em grupos de trabalho. | PJ, SIS/SIED. | 2021-2024 |
-| Ação 92 - Implementação de um novo sistema de declaração de movimentos de dinheiro líquido na fronteira, incrementando o número de declarações bem como dos montantes declarados. | Número de projetos informáticos; Número de declarações e respetivos montantes. | AT. | 2021-2024 |
+| Ação 90 - Reforço das ações visando detetar movimentos de cash flow de origem criminosa com repercussão interna e externa, designadamente com destinos de alto risco fora da UE, incluindo o controlo de movimento de dinheiro líquido na fronteira. | Número de ações realizadas;<br>Número de relatórios de análise produzidos. | PJ, AT. | 2021-2024 |
+| Ação 91 - Reforço da recolha e análise de informação, que permita a referenciação de ligações transnacionais e a caraterização dos métodos de colocação, circulação e integração de capitais dos fundos provenientes do tráfico ilícito de estupefacientes. | Reuniões com serviços congéneres;<br>Produção de informações;<br>Participação em fora internacionais;<br>Participação em grupos de trabalho. | PJ, SIS/SIED. | 2021-2024 |
+| Ação 92 - Implementação de um novo sistema de declaração de movimentos de dinheiro líquido na fronteira, incrementando o número de declarações bem como dos montantes declarados. | Número de projetos informáticos;<br>Número de declarações e respetivos montantes. | AT. | 2021-2024 |
 
 OE27 - Prevenir o desvio de precursores e pré-precursores de drogas ilícitas.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 93 - Implementação de mecanismos de ligação e reporte permanente entre as entidades de controlo e fiscalização, e o comércio e a indústria, em matéria de produção, comercialização, importação, exportação e licenciamento de precursores. | Número de reuniões realizadas; Número de ações realizadas; Número de projetos implementados. | AT. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 93 - Implementação de mecanismos de ligação e reporte permanente entre as entidades de controlo e fiscalização, e o comércio e a indústria, em matéria de produção, comercialização, importação, exportação e licenciamento de precursores. | Número de reuniões realizadas;<br>Número de ações realizadas;<br>Número de projetos implementados. | AT. | 2021-2024 |
 | Ação 94 - Intensificação do controlo e da fiscalização do comércio de precursores, nomeadamente através do desenvolvimento e participação em atividades de cooperação e intercâmbio com outros países da UE e países terceiros, ao nível do controlo da importação, trânsito e exportação. | Número de ações realizadas. | AT. | 2021-2024 |
 | Ação 95 - Ações de recolha de informação junto de entidades públicas e privadas. | Número de ações realizadas. | PJ, AT. | 2021-2024 |
 
 OE28 - Reforçar as ações de prevenção e fiscalização direcionadas a contextos específicos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 96 - Aumento do número de buscas e revistas em ambiente prisional, designadamente através da realização de buscas gerais e parciais bem como a intensificação de ações com recurso a meios cinotécnicos. | Número de revistas e buscas realizadas. | DGRSP. | 2021-2024 |
 | Ação 97 - Aumento da atividade de deteção de substâncias ilícitas em ambiente prisional, intensificando o controlo à entrada das visitas de reclusos, com intervenção de meios cinotécnicos. | Número de controlos efetuados. | DGRSP. | 2021-2024 |
 | Ação 98 - Aumento da realização de revistas aos reclusos que regressam de saídas jurisdicionais ou de licenças de curta duração, bem como revistas aos jovens internados nos termos previstos na lei. | Número de revistas realizadas. | DGRSP. | 2021-2024 |
@@ -1203,9 +1243,9 @@ OE28 - Reforçar as ações de prevenção e fiscalização direcionadas a conte
 
 OE29 - Assegurar um grau de controlo elevado ao nível da fronteira externa da União Europeia.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 105 - Aumento do número de ações de fiscalização ao longo da costa. | Número de ações realizadas. | GNR; PM. | 2022-2024 |
 | Ação 106 - Aumento do número de ações de fiscalização nos aeroportos internacionais dirigidas a voos com origem em países de risco. | Número de ações realizadas. | PJ; AT | 2022-2024 |
 | Ação 107 - Resposta a todas as situações suspeitas assinaladas pelo Gabinete de Informação de Passageiros no quadro da informação transmitida pelas companhias aéreas ao abrigo da legislação PNR. | Número de ações realizadas. | PJ. | 2022-2024 |
@@ -1214,21 +1254,21 @@ OE29 - Assegurar um grau de controlo elevado ao nível da fronteira externa da U
 | Ação 110 - Aumento das capacidades de deteção de mercadorias ilícitas em carregamentos contentorizados com recurso a sistemas de inspeção não intrusiva incrementando o número de controlos em carregamentos de alto risco. | Número de contentores controlados por equipamentos de inspeção não intrusiva. | AT. | 2021-2024 |
 | Ação 111 - Incremento das capacidades de análise de risco visando uma maior eficácia na seleção e controlo aduaneiro de carregamentos que representem um risco potencialmente elevado de dissimularem produtos estupefacientes. | Número de apreensões e quantidades apreendidas. | AT. | 2021-2024 |
 | Ação 112 - Continuação do desenvolvimento do projeto das Alfândegas eletrónicas, designadamente, a ligação do Sistema de Seleção Automática a sistemas declarativos já existentes ou a criar. | Conclusão do desenvolvimento dos projetos. | AT. | 2021-2024 |
-| Ação 113 - Aumento das capacidades de deteção de mercadorias ilícitas na fronteira externa comunitária através da aquisição e operacionalização de novos equipamentos bem como a capacitação dos recursos humanos para a sua operação. | Número de equipamentos adquiridos; Valor dos equipamentos adquiridos. | AT. |  |
+| Ação 113 - Aumento das capacidades de deteção de mercadorias ilícitas na fronteira externa comunitária através da aquisição e operacionalização de novos equipamentos bem como a capacitação dos recursos humanos para a sua operação. | Número de equipamentos adquiridos;<br>Valor dos equipamentos adquiridos. | AT. |  |
 
 OE30 - Aumentar o número de investigações visando grupos criminosos de alto risco.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 114 - Aumento do número de investigações criminais dirigidas às atividades ilícitas de grupos criminosos de alto risco, considerando-se como tal os grupos altamente organizados que se dedicam com caráter de regularidades ao tráfico de grandes quantidades de estupefacientes. | Número de investigações iniciadas. | PJ; PGR. | 2021-2024 |
 
 OE31 - Reforçar os mecanismos de centralização, análise e partilha de informação.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 115 - Reforço do funcionamento, no seio das Unidades de Coordenação e Intervenção Conjunta (UCIC), dos mecanismos de centralização e partilha de informação, incluindo informação estatística, ao abrigo do disposto no [Decreto-Lei n.º 81/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1995-223469), de 22 de abril. | Número de transmissões prévias (pedidos UCIC) enviadas; Número de coincidências detetadas e notificadas; Número de autos de notícia, relatórios intercalares, relatórios finais e formulários TCD enviados; Número de relatórios de análise partilhados; Número de relatórios estratégicos e estatísticos partilhados. | PJ, GNR, PSP, AT, PM. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 115 - Reforço do funcionamento, no seio das Unidades de Coordenação e Intervenção Conjunta (UCIC), dos mecanismos de centralização e partilha de informação, incluindo informação estatística, ao abrigo do disposto no [Decreto-Lei n.º 81/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1995-223469), de 22 de abril. | Número de transmissões prévias (pedidos UCIC) enviadas;<br>Número de coincidências detetadas e notificadas;<br>Número de autos de notícia, relatórios intercalares, relatórios finais e formulários TCD enviados;<br>Número de relatórios de análise partilhados;<br>Número de relatórios estratégicos e estatísticos partilhados. | PJ, GNR, PSP, AT, PM. | 2021-2024 |
 | Ação 116 - Aumento das capacidades de recolha e análise de informação. | Número de relatórios de análise operacional e estratégica produzidos. | PJ, GNR, PSP, AT, SIS/SIED. | 2021-2024 |
 | Ação 117 - Desenvolvimento de projetos específicos vocacionados para o reforço da partilha de informação. | Número de projetos específicos desenvolvidos. | PJ, GNR, PSP, AT, SIS/SIED. | 2021-2024 |
 
@@ -1236,18 +1276,18 @@ OG8 - Reforçar a monitorização dos mercados internos e globais e a capacidade
 
 OE32 - Aumentar o conhecimento sobre os mercados ilícitos de drogas e das NSP.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 118 - Aumento do número de ações e iniciativas visando recolher informação atualizada sobre os mercados ilícitos de drogas e NSP. | Número de ações desenvolvidas. | PJ, GNR, PSP, ASAE, SIS/SIED; SICAD. | 2021-2024 |
 | Ação 119 - Participação em reuniões, seminários e projetos nacionais e internacionais sobre mercados ilícitos de drogas e NSP. | Número de participações em seminários, reuniões e projetos. | PJ, ASAE; SICAD. | 2021-2024 |
 | Ação 120 - Análise, tratamento e difusão de toda a informação recolhida sobre mercados ilícitos de drogas e NSP. | Número de relatórios produzidos. | PJ, GNR, PSP, ASAE, SIS/SIED; SICAD. | 2021-2024 |
 
 OE33 - Aumentar o conhecimento sobre os novos «modi operandi» de tráfico de droga, designadamente através da Internet e redes sociais.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 121 - Aumento do número de ações e iniciativas visando recolher informação atualizada sobre novos modi operandi. | Número de ações desenvolvidas. | PJ, GNR, PSP, PM, AT; SIS/SIED. | 2021-2024 |
 | Ação 122 - Participação em reuniões, seminários e projetos internacionais sobre novos modi operandi. | Número de participações em seminários, reuniões e projetos. | PJ e AT. | 2021-2024 |
 | Ação 123 - Análise, tratamento e difusão de toda a informação recolhida sobre novos modi operandi. | Número de relatórios e informações/alertas produzidos e/ou difundidos. | PJ; SIS e SIED. | 2021-2024 |
@@ -1258,79 +1298,79 @@ OG9 - Aprofundar e gerir o conhecimento, promover capacitação dos interventore
 
 OE34 - Consolidar o Sistema Nacional de Informação sobre substâncias psicoativas, comportamentos aditivos e dependências, através do reforço dos SI dos seus serviços fonte e do desenvolvimento de ferramentas de observação capazes de disponibilizar dados normalizados e atuais.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 124 - Alargamento e dinamização da rede de serviços fonte do Sistema Nacional de Informação sobre substâncias psicoativas, comportamentos aditivos e dependências (SNISPACAD). | Número de novos serviços na rede; Número de projetos desenvolvidos entre vários parceiros da rede. | SICAD; Serviços fonte do SNISPACAD. | 2022-2024 |
-| Ação 125 - Promoção da capacidade dos SI em assegurarem a disponibilização dos dados/informação necessários para efeitos de reporte nacional, europeu e internacional. | Número de novos SI e de SI intervencionados/reestruturados; Relatório sobre a melhoria da capacidade dos SI na disponibilização de dados/informação no período 2021-2024. | SICAD; Serviços fonte do SNISPACAD. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 124 - Alargamento e dinamização da rede de serviços fonte do Sistema Nacional de Informação sobre substâncias psicoativas, comportamentos aditivos e dependências (SNISPACAD). | Número de novos serviços na rede;<br>Número de projetos desenvolvidos entre vários parceiros da rede. | SICAD; Serviços fonte do SNISPACAD. | 2022-2024 |
+| Ação 125 - Promoção da capacidade dos SI em assegurarem a disponibilização dos dados/informação necessários para efeitos de reporte nacional, europeu e internacional. | Número de novos SI e de SI intervencionados/reestruturados;<br>Relatório sobre a melhoria da capacidade dos SI na disponibilização de dados/informação no período 2021-2024. | SICAD; Serviços fonte do SNISPACAD. | 2021-2024 |
 
 OE35 - Aumentar o valor, a capacidade e a complementaridade dos esforços de investigação.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 126 - Fomento do trabalho em rede e criação de sinergias na comunidade científica nacional. | Número de novos investigadores na Rede Nacional de Investigadores em CAD; Número de projetos desenvolvidos entre vários investigadores da Rede Nacional de Investigadores em CAD; Número de novos registos sobre produtos de investigação na base disponível no site do SICAD. | SICAD; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 127 - Promoção da participação em redes, grupos e projetos de investigação europeus e internacionais. | Número de redes e grupos europeus e internacionais de investigadores com representação nacional; Número de projetos de investigação europeus e internacionais com participação nacional. | SICAD; Outras entidades públicas e privadas. | 2021-2024 |
-| Ação 128 - Reforço da investigação em CAD em áreas prioritárias. | Número de estudos nacionais desenvolvidos na população geral, na população reclusa e na população escolar/universitária; Número de estudos regionais desenvolvidos em grupos populacionais específicos. | SICAD; DGRDN; DGRSP; DGE; Outras entidades públicas e privadas; ARS do Alentejo, I. P./DICAD. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 126 - Fomento do trabalho em rede e criação de sinergias na comunidade científica nacional. | Número de novos investigadores na Rede Nacional de Investigadores em CAD;<br>Número de projetos desenvolvidos entre vários investigadores da Rede Nacional de Investigadores em CAD;<br>Número de novos registos sobre produtos de investigação na base disponível no site do SICAD. | SICAD; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 127 - Promoção da participação em redes, grupos e projetos de investigação europeus e internacionais. | Número de redes e grupos europeus e internacionais de investigadores com representação nacional;<br>Número de projetos de investigação europeus e internacionais com participação nacional. | SICAD; Outras entidades públicas e privadas. | 2021-2024 |
+| Ação 128 - Reforço da investigação em CAD em áreas prioritárias. | Número de estudos nacionais desenvolvidos na população geral, na população reclusa e na população escolar/universitária;<br>Número de estudos regionais desenvolvidos em grupos populacionais específicos. | SICAD; DGRDN; DGRSP; DGE; Outras entidades públicas e privadas; ARS do Alentejo, I. P./DICAD. | 2021-2024 |
 
 OE36 - Fomentar uma maior ligação entre ciência, decisão, ação e cidadania.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 129 - Elaboração de relatórios anuais sobre a situação do país em matéria de CAD e assegurar a sua apresentação na AR. | Número de relatórios anuais apresentados na AR. | SICAD e outras entidades públicas e privadas. | 2021-2024 |
 | Ação 130 - Lançamento de desafios aos investigadores para elaboração de recomendações para a decisão e ação. | Número de produtos resultantes. | SICAD. | 2021-2024 |
 | Ação 131 - Elaboração de produtos com resultados da investigação e observação direcionados para os cidadãos. | Número de sinopses e brochuras. | SICAD e outras entidades públicas e privadas. | 2021-2024 |
 
 OE37 - Promover e dinamizar processos de formação tendo em consideração as necessidades identificadas e os problemas emergentes e prioritários.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 132 - Implementação de ações de formação na área dos CAD dinamizadas; (+ de 4 horas/ação). | Número total de ações; Número de formandos; Total de horas de formação; Total do volume formativo; Número de ações dinamizadas em formato e-learning e b-learning/número total de ações; % de centros de formação com ações de formação relacionadas diretamente com CAD; Decisores políticos e influenciadores/curriculum europeu; Meio laboral. | SICAD; ARS, I. P./DICAD; DGE; Outras entidades públicas e privadas; Academia; ANMP; RPMS; ANAFRE. | 2021-2024 |
-| Ação 133 - Acolhimento de estágios (formação em contexto real de trabalho). | Número de estágios de observação; Número de estágios académicos/curriculares; Número de estágios profissionais; Número de estágios de investigação; Número de estágios de internato. | SICAD; ARS, I. P./DICAD. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 132 - Implementação de ações de formação na área dos CAD dinamizadas;<br>(+ de 4 horas/ação). | Número total de ações;<br>Número de formandos;<br>Total de horas de formação;<br>Total do volume formativo;<br>Número de ações dinamizadas em formato e-learning e b-learning/número total de ações;<br>% de centros de formação com ações de formação relacionadas diretamente com CAD;<br>Decisores políticos e influenciadores/curriculum europeu;<br>Meio laboral. | SICAD; ARS, I. P./DICAD; DGE; Outras entidades públicas e privadas; Academia; ANMP; RPMS; ANAFRE. | 2021-2024 |
+| Ação 133 - Acolhimento de estágios (formação em contexto real de trabalho). | Número de estágios de observação;<br>Número de estágios académicos/curriculares;<br>Número de estágios profissionais;<br>Número de estágios de investigação;<br>Número de estágios de internato. | SICAD; ARS, I. P./DICAD. | 2021-2024 |
 
 OE38 - Dinamizar ações de disseminação de informação e conhecimento junto de grupos-alvo estratégicos.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 134 - Implementação de ações de sensibilização e disseminação de informação e conhecimento (até 4 horas) (apenas grupos-alvo estratégicos). | Número de ações de sensibilização presenciais; Número de participantes; Número de ações de sensibilização virtuais; Número de participantes: Áreas de intervenção; Redução do estigma; Dissuasão; Contexto prisional; Contexto laboral; Contexto desportivo; Contexto de formação dos profissionais (escolas de hotelaria) regulação. | SICAD; ARS, I. P./DICAD; Turismo de Portugal; IPDJ; SGMAI; SCML; DGRSP; ISS I. P.; CPL; CNPDPCJ; Autarquias locais; Entidades intermunicipais no domínio da ação social. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 134 - Implementação de ações de sensibilização e disseminação de informação e conhecimento (até 4 horas) (apenas grupos-alvo estratégicos). | Número de ações de sensibilização presenciais;<br>Número de participantes;<br>Número de ações de sensibilização virtuais;<br>Número de participantes:<br>Áreas de intervenção;<br>Redução do estigma;<br>Dissuasão;<br>Contexto prisional;<br>Contexto laboral;<br>Contexto desportivo;<br>Contexto de formação dos profissionais (escolas de hotelaria) regulação. | SICAD; ARS, I. P./DICAD; Turismo de Portugal; IPDJ; SGMAI; SCML; DGRSP; ISS I. P.; CPL; CNPDPCJ;<br>Autarquias locais; Entidades intermunicipais no domínio da ação social. | 2021-2024 |
 
 OE39 - Desenvolver estratégias e produtos comunicacionais com informação necessária e útil que contribua para comunidades mais informadas e mais saudáveis.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
-| Ação 135 - Realização de eventos presenciais/virtuais. | Número de eventos presenciais; Número de eventos virtuais. | SICAD; INFARMED; ARS, I. P./DICAD; SCML; PSP; GNR. | 2021-2024 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Ação 135 - Realização de eventos presenciais/virtuais. | Número de eventos presenciais;<br>Número de eventos virtuais. | SICAD; INFARMED; ARS, I. P./DICAD; SCML; PSP; GNR. | 2021-2024 |
 | Ação 136 - Dinamização do website oficial. | Número de publicações. | SICAD; INFARMED; ARS, I. P./DICAD; SCML; PSP; GNR. | 2021-2024 |
-| Ação 137 - Dinamização das Redes Sociais. Facebook/Instagram/Twitter/Linkedin/Youtube ou outras. | Número de publicações. | SICAD; INFARMED; ARS, I. P./DICAD; SCML; PSP; GNR. | 2021-2024 |
-| Ação 138 - Iniciativas de Comunicação Pessoal (1to1). Newsletters. E-mail. Produção de materiais (desdobráveis, virtuais e em papel). | Número de envios diários/semanais/mensais/anuais; Número de materiais produzidos. | SICAD; ARS, I. P./DICAD; SCML. | 2021-2024 |
-| Ação 139 - Articulação com os OCS Campanhas (*). Ações de assessoria de imprensa | Número de campanhas exclusivamente OCS tradicionais; Número de campanhas exclusivamente digitais; Número de campanhas mistas; (Indicadores de audiência de campanhas OTS/GRP/Views/Clicks); Número de comunicados de imprensa. | SICAD; ANSR; SCML; PSP; GNR. | 2021-2024 |
+| Ação 137 - Dinamização das Redes Sociais.<br>Facebook/Instagram/Twitter/Linkedin/Youtube ou outras. | Número de publicações. | SICAD; INFARMED; ARS, I. P./DICAD; SCML; PSP; GNR. | 2021-2024 |
+| Ação 138 - Iniciativas de Comunicação Pessoal (1to1).<br>Newsletters.<br>E-mail.<br>Produção de materiais (desdobráveis, virtuais e em papel). | Número de envios diários/semanais/mensais/anuais;<br>Número de materiais produzidos. | SICAD; ARS, I. P./DICAD; SCML. | 2021-2024 |
+| Ação 139 - Articulação com os OCS Campanhas (*).<br>Ações de assessoria de imprensa | Número de campanhas exclusivamente OCS tradicionais;<br>Número de campanhas exclusivamente digitais;<br>Número de campanhas mistas; (Indicadores de audiência de campanhas OTS/GRP/Views/Clicks);<br>Número de comunicados de imprensa. | SICAD; ANSR; SCML; PSP; GNR. | 2021-2024 |
 
 (*) As campanhas podem ser através dos OCS tradicionais, mas também físicas (muppies, quiosques, por exemplo) e digitais (nas redes sociais).
 
 OE40 - Garantir o cumprimento dos compromissos internacionais e promover a concertação da posição nacional nos fora internacionais.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 140 - Articulação de posições entre os diferentes ministérios/serviços com competências em matéria de CAD. | Número de ministérios/serviços contactados. | SICAD, MNE, DGPJ, PJ, GNR, DGS. | 2021-2024 |
 | Ação 141 - Resposta aos compromissos assumidos internacionalmente. | Relatório sobre os compromissos e outras solicitações internacionais. | SICAD, MNE, DGPJ, PJ, GNR, AT. | 2021-2024 |
 
 OE41 - Garantir a representação nacional em organizações multilaterais ou regionais e nas instâncias da UE, bem como noutros fora internacionais.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 142 - Participação nacional nas atividades das diversas instâncias da UE, do Conselho da Europa e das Nações Unidas, demais organismos e fora internacionais. | Relatório da representação nacional e da participação nacional nas atividades das diversas instâncias da UE, do Conselho da Europa e das Nações Unidas e demais organismos e fora internacionais. | SICAD, MNE, DGPJ, PJ, GNR, AT, DGS. | 2021-2024 |
 | Ação 143 - Cumprimento das obrigações enquanto Ponto Focal Nacional da rede de Informação sobre a Droga e a Toxicodependência (REITOX) do Observatório Europeu da Droga e da Toxicodependência (OEDT). | Relatório da execução das obrigações enquanto Ponto Focal da rede REITOX. | SICAD. | 2021-2024 |
 
 OE42 - Desenvolver e consolidar relações de cooperação internacional e promover o intercâmbio de experiências junto de entidades de outros países e de organizações internacionais.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Ações | Indicadores | Entidades responsáveis | Calendário |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Ação 144 - Realização de ações de cooperação internacional e de intercâmbio de experiências. | Relatório das ações de cooperação internacional e de intercâmbio de experiências. | SICAD, MNE, GPJ, PJ, SIRP (SIED+SIS), GNR, AT, SCML, ARS do Norte, I. P./DICAD. | 2021-2024 |
 
 5 - Implementação, monitorização e avaliação do plano
@@ -1367,12 +1407,12 @@ Neste sentido recomenda-se que cada coordenador de subcomissão reúna com os pa
 
 3) Valor despendido na implementação das ações ou valor total alocado ao Plano, por parte de cada entidade.
 
-| Ações | Indicadores | Execução quantitativa | Descrição qualitativa, com análise crítica, pontos fracos e fortes | Custos (Valor exato ou aproximado) |
+| Entidade | SICAD | 2022 | Custos<br>(Valor exato<br>ou aproximado) |  |
 | --- | --- | --- | --- | --- |
-| Entidade | SICAD | SICAD | 2022 | Custos (Valor exato ou aproximado) |
+| Ações | Indicadores | Execução<br>quantitativa | Descrição qualitativa, com análise crítica, pontos fracos e fortes |  |
 |  |  |  |  | (euro) |
 | [...] |  |  |  | (euro) |
-| Total | (euro) | (euro) | (euro) | (euro) |
+| Total | (euro) |  |  |  |
 
 5.2 - Avaliação intercalar do Plano Nacional (Plano de Ação Horizonte 2024)
 
@@ -1384,7 +1424,7 @@ A avaliação intercalar do Plano Nacional 2030, a efetuar no final do presente 
 
 Tendo em vista a melhoria do planeamento do próximo Plano de Ação, será contemplada uma análise quantitativa da implementação do presente Plano, com base na taxa de execução dos objetivos definidos, conforme consta da tabela seguinte:
 
-| Pilares (peso) | Objetivos gerais | Peso OG | Objetivos específicos | Peso OE |
+| Pilares<br>(peso) | Objetivos gerais | Peso<br>OG | Objetivos específicos | Peso<br>OE |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 | Empoderar (30 %) | OG1 - Reforçar a literacia em CAD, dotando o cidadão de informação, conhecimento e competências com vista a tomar decisões informadas e gerar comportamentos saudáveis e seguros (Metas 1, 2, 3, 4 e 5). | 10 % | OE1 - Desenvolver a perceção do risco associado a comportamentos de consumo de substâncias psicoativas lícitas e ilícitas e evitar ou retardar a iniciação ao consumo das mesmas, o mau uso de medicamentos, bem como identificar precocemente padrões de comportamento desadaptativo predisponente ao desenvolvimento de CAD, como seja o uso problemático (nocivo) de Internet e do ecrã e práticas problemáticas de jogo. | 5 % |
@@ -1394,7 +1434,7 @@ Tendo em vista a melhoria do planeamento do próximo Plano de Ação, será cont
 |  | OG3 - Criar condições do ambiente externo para que haja comportamentos de menor risco/mais saudáveis (Metas 6 e 13). | 10 % | OE5 - Capacitar os sistemas sociais (escolas, autarquias, associações, empregadores, comércio) para o desenvolvimento de ambientes colaborativos no que se refere à literacia em CAD | 5 % |
 |  |  |  | OE6 - Dinamização da articulação com entidades parceiras com responsabilidade em matéria de intervenção em dissuasão dos consumos de SPA, alinhando respostas e intervenções. | 5 % |
 | Cuidar (35 %) | OG4 - Reforçar a equidade e igualdade de acesso a todos os serviços relacionados com CAD, independentemente da condição dos indivíduos (sexo, idade, etnia, língua, origem, religião, orientação sexual, identidade e expressão de género e características sexuais, situação judicial, condição social, económica ou outra), em todos os contextos (Metas 6, 7, 8, 13 e 14). | 15 % | OE7 - Aumentar a capacidade de resposta a cidadãos com CAD, atendendo também aos novos perfis de consumos e/ou com adições sem substância em programas das diversas áreas de intervenção. | 3 % |
-| Cuidar (35 %) | OG4 - Reforçar a equidade e igualdade de acesso a todos os serviços relacionados com CAD, independentemente da condição dos indivíduos (sexo, idade, etnia, língua, origem, religião, orientação sexual, identidade e expressão de género e características sexuais, situação judicial, condição social, económica ou outra), em todos os contextos (Metas 6, 7, 8, 13 e 14). | 15 % | OE8 - Disponibilizar e incrementar a acessibilidade a serviços de intervenção em CAD, suprimindo os obstáculos ao acesso a respostas assistenciais (prevenção indicada, RRMD, tratamento, reinserção social) promovendo respostas adaptadas e integradas (digitais, presenciais, rede de referenciação), baseadas na evidência científica e nas melhores práticas, de acordo com as necessidades biopsicossociais dos utentes com CAD. | 3 % |
+| OE8 - Disponibilizar e incrementar a acessibilidade a serviços de intervenção em CAD, suprimindo os obstáculos ao acesso a respostas assistenciais (prevenção indicada, RRMD, tratamento, reinserção social) promovendo respostas adaptadas e integradas (digitais, presenciais, rede de referenciação), baseadas na evidência científica e nas melhores práticas, de acordo com as necessidades biopsicossociais dos utentes com CAD. | 3 % |  |  |  |
 |  |  |  | OE9 - Garantir de forma igualitária o acesso voluntário e a continuidade da prestação de cuidados de saúde em meio prisional. | 3 % |
 |  |  |  | OE10 - Assegurar a plena cidadania das pessoas com CAD, em respeito pelos Direitos Humanos. | 3 % |
 |  |  |  | OE11 - Assegurar o alinhamento e a equidade nas intervenções, promovendo abordagens/respostas direcionadas para a especificidade das necessidades dos consumidores. | 3 % |
@@ -1403,10 +1443,10 @@ Tendo em vista a melhoria do planeamento do próximo Plano de Ação, será cont
 |  |  |  | OE14 - Reduzir as comorbilidades associadas aos CAD. | 3 % |
 |  |  |  | OE15 - Promover uma intervenção específica direcionada para a problemática de risco moderado e de alto risco, facilitando o contacto com os sistemas de saúde e a respetiva adesão ao processo terapêutico, contribuindo para a redução/abstinência dos consumos e para o restabelecimento psicossocial dos consumidores dependentes de SPA. | 3 % |
 |  |  |  | OE16 - Reduzir as consequências tardias e o impacto dos CAD com e sem substâncias e a mortalidade associada ao consumo de substâncias psicoativas. | 3 % |
-|  |  |  | OE17 - Dar resposta aos novos desafios, novas substâncias, os CAD sem substância. | 2 % |
-|  |  |  | OE18 - Garantir condições de logística adequada à prestação dos cuidados (recursos logísticos e humanos) nos diferentes níveis de intervenção. | 3 % |
+|  | OE17 - Dar resposta aos novos desafios, novas substâncias, os CAD sem substância. | 2 % |  |  |
+|  | OE18 - Garantir condições de logística adequada à prestação dos cuidados (recursos logísticos e humanos) nos diferentes níveis de intervenção. | 3 % |  |  |
 | Proteger (35 %) | OG6 - Reduzir e gerir os riscos de exposição ao consumo de substâncias psicoativas e a outras práticas potencialmente aditivas, inclusive através de regulação e fiscalização adequadas, mas também através de medidas de proteção social a grupos mais vulneráveis a essa exposição (Metas 9, 14, 15, 16, 17 e 18). | 10 % | OE19 - Garantir que a disponibilização, venda, acesso e consumo de álcool no mercado, seja feita de forma segura e não indutora de uso/consumo de risco e nocivo, através de regulação, regulamentação e fiscalização adequadas. | 4 % |
-| Proteger (35 %) | OG6 - Reduzir e gerir os riscos de exposição ao consumo de substâncias psicoativas e a outras práticas potencialmente aditivas, inclusive através de regulação e fiscalização adequadas, mas também através de medidas de proteção social a grupos mais vulneráveis a essa exposição (Metas 9, 14, 15, 16, 17 e 18). |  | OE20 - Contribuir para o uso e consumo racional dos medicamentos, anabolizantes e substâncias psicoativas lícitas através da regulamentação e da fiscalização adequadas. | 3 % |
+|  | OE20 - Contribuir para o uso e consumo racional dos medicamentos, anabolizantes e substâncias psicoativas lícitas através da regulamentação e da fiscalização adequadas. | 3 % |  |  |
 |  |  |  | OE21 - Proporcionar oportunidades de jogo legal e seguro, e não indutor de comportamento aditivo, através de legislação, regulamentação e fiscalização adequadas, bem como do uso seguro da Internet. | 3 % |
 |  | OG7 - Aumentar a segurança e diminuir a criminalidade relacionada com o consumo e a oferta ilegal de substâncias psicoativas e com outras práticas potencialmente aditivas - (Metas 14, 15, 18, 19, 20 e 21). | 15 % | OE22 - Garantir a adequação da legislação existente às políticas públicas relacionadas com os comportamentos aditivos e dependências e disponibilizar ferramentas/instrumentos que promovam a partilha de conhecimento e o trabalho em rede. | 1,5 % |
 |  |  |  | OE23 - Garantir estratégias e intervenções de prevenção ambiental, baseadas na evidência, dimensionando-as e orientando-as para as características dos grupos-alvo e contextos onde se inserem. | 1,5 % |
@@ -1419,12 +1459,12 @@ Tendo em vista a melhoria do planeamento do próximo Plano de Ação, será cont
 |  |  |  | OE30 - Aumentar o número de investigações visando grupos criminosos de alto risco. | 1,5 % |
 |  |  |  | OE31 - Reforçar os mecanismos de centralização, análise e partilha de informação. | 1,5 % |
 |  | OG8 - Reforçar a monitorização dos mercados internos e globais e a capacidade para a deteção e o alerta precoces, e acelerar os processos de adaptação da regulação a novas necessidades diagnosticadas. (Metas 18 e 19). | 10 % | OE32 - Aumentar o conhecimento sobre os mercados ilícitos de drogas e das NSP. | 5 % |
-|  | OG8 - Reforçar a monitorização dos mercados internos e globais e a capacidade para a deteção e o alerta precoces, e acelerar os processos de adaptação da regulação a novas necessidades diagnosticadas. (Metas 18 e 19). |  | OE33 - Aumentar o conhecimento sobre os novos «modus operandi» de tráfico de droga, designadamente através da Internet e redes sociais | 5 % |
+|  | OE33 - Aumentar o conhecimento sobre os novos «modus operandi» de tráfico de droga, designadamente através da Internet e redes sociais | 5 % |  |  |
 | Total |  | 100 % |  | 100 % |
 
-|  |  |  |  |  |
+| Pilares<br>(peso) | Objetivos gerais | Peso OG | Objetivos específicos | Peso OE |
 | --- | --- | --- | --- | --- |
-| Pilares (peso) | Objetivos gerais | Peso OG | Objetivos específicos | Peso OE |
+|  |  |  |  |  |
 | Áreas transversais (100 %) | OG9 - Aprofundar e gerir o conhecimento, promover capacitação dos interventores, divulgar informação e garantir os compromissos internacionais, a representação nacional e desenvolver relações de cooperação em matéria de CAD. | 100 % | OE34 - Consolidar o Sistema Nacional de Informação sobre substâncias psicoativas, comportamentos aditivos e dependências, através do reforço dos SI dos seus serviços fonte e do desenvolvimento de ferramentas de observação capazes de disponibilizar dados normalizados e atuais. | 12 % |
 |  |  |  | OE35 - Aumentar o valor, a capacidade e a complementaridade dos esforços de investigação. | 11 % |
 |  |  |  | OE36 - Fomentar uma maior ligação entre ciência, decisão, ação e cidadania. | 11 % |
@@ -1653,3 +1693,5 @@ SRIJ - Serviço de Regulação e Inspeção de Jogos.
 UNCTE - Unidade Nacional de Combate ao Tráfico de Estupefacientes.
 
 VIH - Vírus da Imunodeficiência Humana.
+
+116862057

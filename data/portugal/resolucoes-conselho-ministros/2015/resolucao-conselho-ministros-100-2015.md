@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25000/0982209825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/2015/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2015-72963279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5949f72f69642fb657d8972543ed51cb712db87c8332f77d1ec9317063d107e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e5675f8d15e7151a05f1302373e60ffa62d9b6e83fe415311b27d9793a5dac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Capital Social
-- Política Fiscal
-- Ministro da Economia
-- Criação de Serviços
-- Competitividade Empresarial
 - Apoio ao Investimento
-- Ministro das Finanças
-- Nomeação
+- Capital Social
+- Comissão Executiva
+- Competitividade Empresarial
+- Criação de Serviços
 - Desenvolvimento Económico
-- Política Económica
-- Presidente
+- Empreendedorismo
+- Empresa
+- Estrutura de Missão para a Capitalização de Empresas
+- Financiamento
+- Ministro da Economia
+- Ministro das Finanças
+- Ministro do Planeamento e das Infraestruturas
+- Nomeação
 - Pequenas e Médias Empresas
 - PME
-- Comissão Executiva
-- Ministro do Planeamento e das Infraestruturas
-- Estrutura de Missão para a Capitalização de Empresas
+- Política Económica
+- Política Fiscal
+- Presidente
 relationships:
+- type: amended_by
+  target: pt:dre:106816248:por
+  label: Prorrogado até 30.06.2017 o mandato atribuído à Estrutura de Missão para a Capitalização de Empresas (EMCE) e estabelecido
+    que, no período de prorrogação, continuam a aplicar-se ao gabinete de apoio técnico da EMCE e à Comissão Executiva da
+    EMCE as regras de funcionamento previstas no presente diploma legal e na Res 42/2016, de 18-ago, da PCM pelo(a) Resolução
+    do Conselho de Ministros n.º 48-B/2017 - Diário da República n.º 65/2017, 1º Suplemento, Série I de 2017-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/48-b-2017-106816248
+  date: '2017-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
@@ -101,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:11Z'
   warnings: []
   errors: []
 ---

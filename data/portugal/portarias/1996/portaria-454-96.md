@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/454/1996/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1996-241837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94e006cff583694fa074e1a38be4edec80e4a9bc470063e8d2a8b2157bafd4fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a89b16ade3857f36c3a33c30a8ffabdf887d117cea5a0ef38e6b0c209d3166ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:03Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +120,7 @@ Manda o Governo, pelos Ministros da Administração Interna e da Cultura, que se
 
 Ministérios da Administração Interna e da Cultura.
 
-**Assinada em 7 de Agosto de 1996.**
+Assinada em 7 de Agosto de 1996.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado da Administração Interna. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
@@ -214,4 +226,4 @@ Compete aos AN/TT a verificação da adequada aplicação do disposto no present
 
 ## ANEXO — Tabela de selecção de documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/209b00/30683075.pdf))](https://files.diariodarepublica.pt/1s/1996/09/209b00/30683075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/209b00/30683075.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18400/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/127/2024/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/127-2024-888585881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea294959469033ce32dc87e14c1ee19281b4e984954c35989e558158c419c873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 304eb5882c35ae796e2aa56633f8fa1a39bf4ab289ebc0237b9f960068f7c89f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Orgânica
-- Recursos Humanos
-- Remuneração
-- Plano de Recuperação e Resiliência
-- Mecanismo de Recuperação e Resiliência da União Europeia
 - Estrutura de Missão Recuperar Portugal
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Orgânica
+- Plano de Recuperação e Resiliência
+- Recursos Humanos
+- Regulamentação de Atos Legislativos
+- Remuneração
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:46-B/2021
+  label: Altera, a partir de 24 de setembro de 2024, o n.º 4, n.º 11, n.º 13, n.º 17 e alínea a) do n.º 22 da Resolução do
+    Conselho de Ministros n.º 46-B/2021, de 4 de maio, Diário da República n.º 86/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:22Z'
   warnings: []
   errors: []
 ---
@@ -179,3 +197,5 @@ b) [...]
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 5 de setembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118135166

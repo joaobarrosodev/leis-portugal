@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/16900/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/119/2024/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2024-886514231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d077c9be42e66c6ad76068a2a17609f070b402f1aa1430d9551e67b60d16e1cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22cbba1d315398da75b5d9e95440f0decb9fb2e2ff3c095a5408bba75290f638
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
-- Descentralização
-- Conselho Consultivo
-- Agência para a Modernização Administrativa
 - Administração Local
-- Desenvolvimento Local
+- Agência para a Modernização Administrativa
 - Autarquia Local
-- Estrutura de Coordenação
+- Conselho Consultivo
+- Descentralização
+- Desenvolvimento Local
 - Estratégia Nacional de Territórios Inteligentes
+- Estrutura de Coordenação
+- Organização Territorial
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:176/2023
+  label: Altera, com efeitos a partir de 22 de agosto, o anexo i da Resolução do Conselho de Ministros n.º 176/2023, de 18
+    de dezembro, Diário da República n.º 242/2023, Série I
+  source: null
+  date: '2023-12-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/176/2023/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/2023/12/18/p/dre
+- type: cites
+  target: pt:dre:378285217:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:08Z'
   warnings: []
   errors: []
 ---
@@ -183,3 +193,5 @@ b) [...]
 c) [...]
 
 8 - [...]
+
+118062703

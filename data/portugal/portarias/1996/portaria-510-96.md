@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/510/1996/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/510-1996-214233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a063d7f5e766abf66d2474d2082f93d917c2ce4b155d9d02d1af604b1c8449d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40d0a7a5bf01710dfbdcafbedee58153802f0f2251d981efe6a03a403e5365be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Alvará
 - Espetáculos e Divertimentos Públicos
+- Fonograma
 - Local de Divertimento
 - Taxa
-- Fonograma
 - Videograma
 - Vistoria
 relationships:
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/34/1995/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/34/1995/12/16/p/dre
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670000:por
+  label: "Revogados, a partir de 16.07.2011, os nºs. 1 e 3 a 7 pela PORT.238/2011.16.06.2011.MFAP, DR.IS [115] de 16.06.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-2011-670000
+  date: '2011-06-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:24Z'
   warnings: []
   errors: []
 ---
@@ -167,6 +193,6 @@ b) Os salões ou centros paroquiais e as instituições de beneficência.
 
 Ministério da Cultura.
 
-**Assinada em 23 de Agosto de 1996.**
+Assinada em 23 de Agosto de 1996.
 
 Pelo Ministro da Cultura, Rui Vieira Nery, Secretário de Estado da Cultura.

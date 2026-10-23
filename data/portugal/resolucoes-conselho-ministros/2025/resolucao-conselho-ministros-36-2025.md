@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/36/2025/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2025-909469970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6525cc46f97480d4a29853d2579d47c874c32a9476c9c43be7bb3af774bf62a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866f61bc450fae8a077ca464c8b01e54467479e26ffb319fef5e07d67043c5c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Amadora
 - Conselho de Administração
+- Governo XXIV
 - Nomeação
 - Presidente
-- Amadora
 - Sintra
-- Vogal
-- Governo XXIV
 - Unidade Local de Saúde de Amadora/Sintra
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:47Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +142,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do Estatuto do Gestor Público,
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do Estatuto do Gestor Público e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do Estatuto do Gestor Público e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde de Amadora/Sintra, E. P. E., o presidente e cinco vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual faz parte integrante:
 
@@ -176,7 +196,7 @@ Presidente do conselho de administração, Centro Hospitalar Oeste, 2013-16, e p
 
 Coordenador de programas de saúde - Nova Forum, Universidade Nova de Lisboa, 2008-11;
 
-Diretor comercial da Divisão Biotecnologia e Hospitalar, Abbott Laboratórios L.<sup>da</sup>, 1997-2007; gestor de produto, Divisão de Diagnósticos, Abbott Laboratórios L.<sup>da</sup>, 1993-97, e delegado especialista, Divisão de Diagnósticos, Abbott Laboratórios L.<sup>da</sup>, 1992-93;
+Diretor comercial da Divisão Biotecnologia e Hospitalar, Abbott Laboratórios L.da, 1997-2007; gestor de produto, Divisão de Diagnósticos, Abbott Laboratórios L.da, 1993-97, e delegado especialista, Divisão de Diagnósticos, Abbott Laboratórios L.da, 1992-93;
 
 Técnico de análises clínicas e saúde pública, Hospitais Civis de Lisboa e Instituto Português de Sangue, 1985-92;
 
@@ -289,3 +309,5 @@ Vogal executiva do conselho de administração Centro do Hospitalar Oeste Norte 
 Administradora hospitalar no Centro Hospitalar de Lisboa Norte (2002-2010) - Departamento de Especialidades Cirúrgicas e coordenadora institucional dos Programas PECLEC e SIGIC: membro da comissão de humanização; no Hospital de Reynaldo dos Santos (1999-2002) - serviço de urgência, Centro de Responsabilidade Integrado da Área Médica, Meios Complementares de Diagnóstico e Terapêutica, membro da comissão coordenadora do Departamento de Educação Permanente, responsável pelos serviços hoteleiros; no Hospital Ortopédico José de Almeida (1998-1999) responsável pelos serviços de aprovisionamento e serviços gerais, membro da comissão de coordenação da consulta externa; no Hospital de São Bernardo (1997-1998) responsável dos serviços hoteleiros e serviços de pediatria e urgência, Membro das comissões hospitalares de humanização e controlo de infeção;
 
 Diretora técnica de ação social, do Centro Social Baptista (1991-1997) nas valências de lar e centro de dia, funções de representação com órgãos públicos locais, e assessoria ao conselho diretivo; técnica superior de política social, Federação Nacional de Cooperativas de Educação e Reabilitação de Crianças Inadaptadas (FENACERCI) (1992-1995), com funções de representação nacional e internacional junto de organizações congéneres, e órgãos de tutela, organização de eventos de informação/formação nacionais e internacionais, funções de assessoria à direção e apoio às instituições associadas.
+
+118745364

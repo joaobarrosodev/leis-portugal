@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/146b00/41314133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/673/1995/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/673-1995-476316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1238a8132413a4c1a64e9a621aa01cc05db7b2f309452eaf24ea73bf010188a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e80549d10fee397a8021ffaa22806ac0f93701a01adb9267040fcd67364ee74d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Curso Técnico de Administração Naval
 - Curso Técnico de Electricidade Naval
 - Curso Técnico de Mecânica Naval
 - Curso Técnico de Transportes Marítimos
 - Ensino Profissional
 - Escola Profissional
+- Formação Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:544848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148411:por
+  label: "Extinto a partir de 22.09.2005 o curso profissional de Técnico de Electricidade Naval, criado pelo presente diploma,\
+    \ que é revogado parcialmente no que àquele curso se refere pela PORT.873/2005.21.09.2005.ME, DR.IS-B [182] de 21.09.2005,\
+    \ e sem prejuízo do disposto no nº 8º daquela portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/873-2005-148411
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:147630:por
+  label: "Extinto o curso de Técnico Mecânica Naval criado pelo presente diploma e revogado parcialmente na parte referente\
+    \ ao citado curso, pela PORT.893/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no n.º 8.º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/893-2005-147630
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147639:por
+  label: "Extinto o curso de Técnico de Desenho de Construção Naval, criado pelo presente diploma que é revogado parcialmente\
+    \ no que áquele curso se refere, pela PORT.912/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-2005-147639
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:157577:por
+  label: "Extinto a partir de 05.10.2005 o curso profissional de Técnico de Transportes Marítimos, criado pelo presente diploma,\
+    \ que é revogado parcialmente no que àquele curso se refere pela PORT.980/2005.04.10.2005.ME, DR.IS-B [191] de 04.10.2005,\
+    \ sem prejuízo do disposto no nº 8º do citado diploma\0loma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/980-2005-157577
+  date: '2005-10-04'
+- type: amended_by
+  target: pt:dre:544848:por
+  label: "Extinto o curso profissional de técnico de administração naval, criado pelo presente diploma que é revogado, permanecendo\
+    \ em vigor o respectivo plano de estudos nos termos do nº 6º pela PORT.1275/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1275-2006-544848
+  date: '2006-11-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:21Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +182,8 @@ e) Técnico de Mecânica Naval.
 
 Ministérios da Educação, do Emprego e da Segurança Social e do Mar.
 
-**Assinada em 5 de Junho de 1995.**
+Assinada em 5 de Junho de 1995.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha. - O Ministro do Mar, António Baptista Duarte Silva.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha. - O Ministro do Mar, António Baptista Duarte Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/146b00/41314133.pdf))](https://files.diariodarepublica.pt/1s/1995/06/146b00/41314133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/146b00/41314133.pdf)

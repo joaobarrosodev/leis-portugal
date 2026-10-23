@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10700/0010800108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/49/2023/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2023-213881450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c2eaf0a570f3d73b36ded38e97ef136c825a6591164f22a4caf128275c3197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e86749ec57af4ab058a278a27fc0c3d0a0ed27bd11bdf258beba81deeee8d7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ subjects:
 - Aeronave com Motor
 - Aluguer
 - Aquisição de Bens e Serviços
-- Incêndio
-- Prevenção de Incêndios
 - Autorização de Despesas
 - Avião
-- Formação Profissional
 - Conselho de Ministros
-- Força Aérea
 - Delegação de Competências
 - Despesas Públicas
+- Força Aérea
+- Formação Profissional
+- GNR
 - Grupo de Trabalho
 - Helicóptero
-- GNR
+- Incêndio
 - Instituto da Conservação da Natureza e das Florestas
-- Plano Nacional de Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
 - Plano de Recuperação e Resiliência
+- Plano Nacional de Gestão Integrada de Fogos Rurais
+- Prevenção de Incêndios
+- Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -110,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/27/2021/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/2021/03/22/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208129042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:27Z'
   warnings: []
   errors: []
 ---
@@ -153,3 +177,5 @@ d) [...]»
 2 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 18 de maio de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116528004

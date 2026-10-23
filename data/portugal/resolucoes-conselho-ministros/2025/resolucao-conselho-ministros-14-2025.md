@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/2025/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2025-906044201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9f5a09abea0702fa95f8c1a77ee87a8e3d1ef3ccaa2437f2d6e2ec7a3741763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 207ea330779cbf3a4cd081467b82aa7bb147f086034963bcff94d21edf57f90a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Comunicações
 - Conselho de Administração
+- Governo XXIV
+- Ministro das Infraestruturas e da Habitação
 - Nomeação
 - Vice-presidente
-- Autoridade Nacional de Comunicações
-- Ministro das Infraestruturas e da Habitação
-- Governo XXIV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/39/2015/03/16/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:32Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +120,11 @@ A designação dos membros do conselho de administração da ANACOM é precedida
 
 Foi ouvida, nos termos do disposto no n.º 4 do artigo 17.º da LQER, a CReSAP, que se pronunciou favoravelmente sobre a designação constante da presente resolução.
 
-Em cumprimento do disposto nos n.<sup>os</sup>3 e 4 do artigo 17.º da LQER, a personalidade ora designada foi ouvida na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou favoravelmente sobre a respetiva designação constante da presente resolução, através de relatório de 6 de janeiro de 2025.
+Em cumprimento do disposto nos n.os3 e 4 do artigo 17.º da LQER, a personalidade ora designada foi ouvida na Comissão de Economia, Obras Públicas e Habitação, que se pronunciou favoravelmente sobre a respetiva designação constante da presente resolução, através de relatório de 6 de janeiro de 2025.
 
 Assim:
 
-Nos termos do artigo 18.º dos Estatutos da Autoridade Nacional de Comunicações, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, na sua redação atual, dos n.<sup>os</sup>2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do artigo 18.º dos Estatutos da Autoridade Nacional de Comunicações, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, na sua redação atual, dos n.os2 e 3 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro das Infraestruturas e da Habitação, Raquel Alexandra de Jesus Gil Martins Brízida Castro para o cargo de vice-presidente do conselho de administração da Autoridade Nacional de Comunicações (ANACOM), cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciadas na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Economia, Obras Públicas e Habitação, que constam dos anexos i e ii à presente resolução e da qual fazem parte integrante.
 
@@ -160,8 +172,10 @@ Conclusões do parecer fundamentado da Comissão de Economia, Obras Públicas e 
 
 É assim, entendimento da Comissão de Economia, Obras Públicas e Habitação que a Dr.ª Raquel Brízida Castro reúne as condições para o exercício do cargo para que se encontra indigitada.
 
-A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação, procedeu à audição da Dr.ª Raquel Brízida Castro, indigitada para vice-presidente e Autoridade Nacional de Comunicações (ANACOM), nos termos e para os efeitos dos n.<sup>os</sup>3 e 4 do artigo 17.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.
+A Assembleia da República, através da Comissão de Economia, Obras Públicas e Habitação, procedeu à audição da Dr.ª Raquel Brízida Castro, indigitada para vice-presidente e Autoridade Nacional de Comunicações (ANACOM), nos termos e para os efeitos dos n.os3 e 4 do artigo 17.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.
 
 Do presente relatório será dado conhecimento ao Governo, através da Secretaria de Estado dos Assuntos Parlamentares, nos termos do n.º 4 do artigo 17.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na redação dada pela [Lei n.º 12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio.
 
 Palácio de S. Bento, 6 de janeiro de 2025.»
+
+118643336

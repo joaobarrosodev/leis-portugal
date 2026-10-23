@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/499/1996/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1996-214712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e13f754a37f3e810e59f079909f62af4d909328e921159fc103cead5a38d4a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeae1725c41db741e38f2feae24248bc5e749ba7ef687e4c18aace1d32ac4035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ reuse:
 subjects:
 - Alvará
 - Comissão de Alvarás de Empresas de Obras Públicas e Particulares
-- Construção Civil
 - Conselho de Mercados de Obras Públicas e Particulares
+- Construção Civil
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Industrial da Construção Civil
 - Obras Públicas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:07Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +105,12 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 1.º Às classes das autorizações contidas nos alvarás de empreiteiro de obras públicas e de industrial da construção civil correspondem os valores das obras indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/221b00/33183318.pdf))](https://files.diariodarepublica.pt/1s/1996/09/221b00/33183318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/221b00/33183318.pdf)
 
 2.º O disposto na presente portaria vigora durante todo o ano civil de 1997.
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 29 de Agosto de 1996.**
+Assinada em 29 de Agosto de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/1996/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1996-422867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b45d9909e3338b1fe5e64dd2e6d4ff80772c5f847c4fae3c5d2d42cc4146a40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02e070c7ae5fc30043f246b27d6523346d8247ea6f5105c24f46c07c2b64b381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Medidas Preventivas
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
 - Plano Geral de Urbanização
+- Política de Solos
 - VILA Pouca de Aguiar
 relationships:
 - type: amended_by
   target: pt:dre:568550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568550:por
+  label: "Ratificada a prorrogação do prazo de vigência (por mais um ano, contado a partir de 11 de Julho de 1998) das medidas\
+    \ preventivas estabelecidas no presente diploma, pela PORT.707/98.1998.09.07.MEPAT DR.IS-B [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/707-1998-568550
+  date: '1998-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:05Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +137,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 27 de Maio de 1996.**
+Assinada em 27 de Maio de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 ## ANEXO — Medidas preventivas
 
@@ -141,4 +159,4 @@ e) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas nesta deliberação e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Vila Pouca de Aguiar e a Comissão de Coordenação da Região do Norte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/159b00/18921893.pdf))](https://files.diariodarepublica.pt/1s/1996/07/159b00/18921893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/159b00/18921893.pdf)

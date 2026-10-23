@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15800/0007200126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/93/2023/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2023-219991577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2dc801e86d7389f5e0a0f683d79655e19215b7944899b8f0a85268b6de7be8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06704b9980ea80ba67667cb9b1fcebd5079186730a399dd543b2ada4f0af1ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
+- Controlo de Avaliação
 - Direção Geral da Saúde
-- Saúde
-- Saúde Pública
-- Política de Saúde
 - Instituto Nacional de Saúde Dr Ricardo Jorge
 - Plano Nacional de Saúde
-- Controlo de Avaliação
+- Política de Saúde
+- Saúde
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32014R0282
@@ -122,16 +122,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+- type: cites
+  target: pt:dre:107745746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115533450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115698904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1390986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168475294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171891094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74377024:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:28Z'
   warnings: []
   errors: []
 ---
@@ -538,12 +622,12 @@ Em 2019 a prevalência autodeclarada de incapacidade sensorial foi superior à m
 
 Determinantes de saúde:
 
-| Ambientais: Alterações climáticas; exposição a partículas PM2,5 e PM10 abaixo dos valores-limite; exposição das crianças ao fumo ambiental do tabaco; 99 % das regiões com qualidade da água de abastecimento; 14 % dos alojamentos sem sistema de drenagem de águas residuais; diminuição das emissões de gases com efeito de estufa. | Biológicos: Hipertensão arterial e excesso de peso ou obesidade na população adulta com valores superiores à média da União Europeia; diminuição do excesso de peso e obesidade infantis; 2/3 da população adulta com colesterol elevado. | Comportamentais: Alimentação inadequada responsável por elevada carga de doença; maioria da população sem atividade física regular; aumento do consumo arriscado de álcool, sobretudo, no sexo feminino; diminuição do consumo diário de tabaco e aumento dos não fumadores. |
+| Ambientais:<br>Alterações climáticas; exposição a partículas PM2,5 e PM10 abaixo dos valores-limite; exposição das crianças ao fumo ambiental do tabaco; 99 % das regiões com qualidade da água de abastecimento; 14 % dos alojamentos sem sistema de drenagem de águas residuais; diminuição das emissões de gases com efeito de estufa. | Biológicos:<br>Hipertensão arterial e excesso de peso ou obesidade na população adulta com valores superiores à média da União Europeia; diminuição do excesso de peso e obesidade infantis; 2/3 da população adulta com colesterol elevado. | Comportamentais:<br>Alimentação inadequada responsável por elevada carga de doença; maioria da população sem atividade física regular; aumento do consumo arriscado de álcool, sobretudo, no sexo feminino; diminuição do consumo diário de tabaco e aumento dos não fumadores. |
 | --- | --- | --- |
-| Relacionados com o sistema de saúde e a prestação de cuidados de saúde: Aumento do índice de cobertura universal de saúde; cobertura baixa dos cuidados de saúde em ambulatório (incluindo reabilitação); 8,4 % da população sem médico de família atribuído (no final de 2020); número de enfermeiros por habitante inferior à média da União Europeia; idade média dos médicos elevada; despesas de saúde inferiores à média da União da Europeia, especialmente, com prevenção e cuidados continuados; aumento das despesas não reembolsadas com a saúde (das mais elevadas da OCDE). | Relacionados com o sistema de saúde e a prestação de cuidados de saúde: Aumento do índice de cobertura universal de saúde; cobertura baixa dos cuidados de saúde em ambulatório (incluindo reabilitação); 8,4 % da população sem médico de família atribuído (no final de 2020); número de enfermeiros por habitante inferior à média da União Europeia; idade média dos médicos elevada; despesas de saúde inferiores à média da União da Europeia, especialmente, com prevenção e cuidados continuados; aumento das despesas não reembolsadas com a saúde (das mais elevadas da OCDE). | Relacionados com o sistema de saúde e a prestação de cuidados de saúde: Aumento do índice de cobertura universal de saúde; cobertura baixa dos cuidados de saúde em ambulatório (incluindo reabilitação); 8,4 % da população sem médico de família atribuído (no final de 2020); número de enfermeiros por habitante inferior à média da União Europeia; idade média dos médicos elevada; despesas de saúde inferiores à média da União da Europeia, especialmente, com prevenção e cuidados continuados; aumento das despesas não reembolsadas com a saúde (das mais elevadas da OCDE). |
-| Demográficos: Envelhecimento, que continuará a aumentar nas próximas décadas; previsão de continuidade de uma tendência de decréscimo populacional. | Demográficos: Envelhecimento, que continuará a aumentar nas próximas décadas; previsão de continuidade de uma tendência de decréscimo populacional. | Demográficos: Envelhecimento, que continuará a aumentar nas próximas décadas; previsão de continuidade de uma tendência de decréscimo populacional. |
-| Sociais: Pobreza e exclusão social; desemprego jovem; aumento do número de pessoas que vivem sós; diminuição da prática religiosa, de atividades de lazer e de outras que fomentem a participação social e as relações interpessoais. | Sociais: Pobreza e exclusão social; desemprego jovem; aumento do número de pessoas que vivem sós; diminuição da prática religiosa, de atividades de lazer e de outras que fomentem a participação social e as relações interpessoais. | Sociais: Pobreza e exclusão social; desemprego jovem; aumento do número de pessoas que vivem sós; diminuição da prática religiosa, de atividades de lazer e de outras que fomentem a participação social e as relações interpessoais. |
-| Económicos: Evolução favorável dos indicadores de privação material; diminuição da desigualdade na distribuição dos rendimentos; diminuição do PIB real per capita desigualdade geográfica na insegurança alimentar. | Económicos: Evolução favorável dos indicadores de privação material; diminuição da desigualdade na distribuição dos rendimentos; diminuição do PIB real per capita desigualdade geográfica na insegurança alimentar. | Económicos: Evolução favorável dos indicadores de privação material; diminuição da desigualdade na distribuição dos rendimentos; diminuição do PIB real per capita desigualdade geográfica na insegurança alimentar. |
+| Relacionados com o sistema de saúde e a prestação de cuidados de saúde:<br>Aumento do índice de cobertura universal de saúde; cobertura baixa dos cuidados de saúde em ambulatório (incluindo reabilitação); 8,4 % da população sem médico de família atribuído (no final de 2020); número de enfermeiros por habitante inferior à média da União Europeia; idade média dos médicos elevada; despesas de saúde inferiores à média da União da Europeia, especialmente, com prevenção e cuidados continuados; aumento das despesas não reembolsadas com a saúde (das mais elevadas da OCDE). |  |  |
+| Demográficos:<br>Envelhecimento, que continuará a aumentar nas próximas décadas; previsão de continuidade de uma tendência de decréscimo populacional. |  |  |
+| Sociais:<br>Pobreza e exclusão social; desemprego jovem; aumento do número de pessoas que vivem sós; diminuição da prática religiosa, de atividades de lazer e de outras que fomentem a participação social e as relações interpessoais. |  |  |
+| Económicos:<br>Evolução favorável dos indicadores de privação material; diminuição da desigualdade na distribuição dos rendimentos; diminuição do PIB real per capita desigualdade geográfica na insegurança alimentar. |  |  |
 
 A alimentação inadequada, integrando, entre outros fatores, o índice de massa corporal elevado e os riscos associados à alimentação, é uma das principais causas de doenças crónicas, perda de qualidade de vida e mortalidade prematura em Portugal, contribuindo para 7,3 % dos DALYs. Outros fatores determinantes, quantificados em DALYs, a considerar, são o consumo de tabaco e a hipertensão arterial, um dos fatores biológicos com maior impacte nas doenças crónicas.
 
@@ -553,22 +637,22 @@ Tabela 1
 
 Problemas de saúde de magnitude elevada ou em crescimento em Portugal e respetivos determinantes
 
-|  |  |
-| --- | --- |
 | Determinantes de saúde | Problemas de saúde de magnitude elevada ou em crescimento |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Causas externas: lesões e envenenamentos acidentais, lesões provocadas por violência interpessoal, suicídio e outras lesões autoprovocadas. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças do aparelho circulatório: doença cardíaca hipertensiva, doenças cerebrovasculares, doenças isquémicas do coração, insuficiência cardíaca. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças do aparelho digestivo: cirrose hepática, doença hepática alcoólica, doenças da boca e dentes, outras doenças crónicas do fígado. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças do aparelho génito-urinário: doenças da próstata, doença renal crónica, incontinência urinária. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças do aparelho respiratório: asma, doença pulmonar obstrutiva crónica, doenças respiratórias agudas e sequelas, infeções respiratórias baixas. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças endócrinas, nutricionais e metabólicas: diabetes mellitus. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças infeciosas e parasitárias: doença dos legionários, hepatites víricas, infeção por VIH, infeções sexualmente transmissíveis, tuberculose. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças neurológicas: doença de Alzheimer, outras demências. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças dos órgãos dos sentidos: perda de audição, perda de visão. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças osteomusculares e do tecido conjuntivo: artroses, dor crónica cervical, dor crónica lombar, osteoartrites. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Doenças da pele e do tecido subcutâneo: psoríase. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Transtornos mentais e do comportamento: ansiedade, dependência do álcool, dependência de drogas ilícitas, dependência do tabaco, depressão. |
-| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico). Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos). Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde). Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas). Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Tumores malignos (TM): TM do cólon, TM do estômago, TM do fígado, TM da laringe, traqueia, brônquios e pulmão, TM da mama, TM do pâncreas, TM da próstata, TM do tecido linfático e hematopoiético. |
+| --- | --- |
+|  |  |
+| Demográficos, sociais e económicos (envelhecimento da população; nível de escolaridade; profissão; literacia; nível económico; situação perante o emprego; isolamento social; suporte social; resiliência do sistema económico).<br>Biológicos (estado imunitário; estado nutricional; peso; tensão arterial; glicémia; perfil lipídico; densidade mineral óssea; função renal; antecedentes genéticos).<br>Comportamentais (atividade física; consumo de álcool; consumo de tabaco; consumo de drogas ilícitas; padrão alimentar; padrões de produção e de consumo sustentáveis; gestão do stress; uso excessivo/abuso da Internet; violência interpessoal; padrão de utilização dos serviços de saúde).<br>Ambientais (qualidade do ar; qualidade da água; controlo e gestão de resíduos e águas residuais; controlo de radiações ionizantes; qualidade da habitação; riscos ocupacionais; alterações climáticas; transportes seguros; temperaturas adversas/extremas).<br>Relacionados com o sistema de saúde e a prestação de cuidados de saúde [cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde ao longo do ciclo da vida; acessibilidade aos serviços de saúde em situação de doença aguda e em situação de urgência; acessibilidade a cuidados de saúde em áreas específicas (cuidados continuados; cuidados paliativos; controlo da dor; saúde da audição; saúde da visão; saúde mental; saúde oral; cuidados de reabilitação); oferta e acessibilidade a medicamentos essenciais; qualidade da prestação de cuidados; racionalidade da prescrição de medicamentos; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de risco; qualidade dos processo de planeamento, avaliação e governação estratégica; financiamento da saúde; resiliência do sistema de saúde]. | Causas externas: lesões e envenenamentos acidentais, lesões provocadas por violência interpessoal, suicídio e outras lesões autoprovocadas. |
+| Doenças do aparelho circulatório: doença cardíaca hipertensiva, doenças cerebrovasculares, doenças isquémicas do coração, insuficiência cardíaca. |  |
+| Doenças do aparelho digestivo: cirrose hepática, doença hepática alcoólica, doenças da boca e dentes, outras doenças crónicas do fígado. |  |
+| Doenças do aparelho génito-urinário: doenças da próstata, doença renal crónica, incontinência urinária. |  |
+| Doenças do aparelho respiratório: asma, doença pulmonar obstrutiva crónica, doenças respiratórias agudas e sequelas, infeções respiratórias baixas. |  |
+| Doenças endócrinas, nutricionais e metabólicas: diabetes mellitus. |  |
+| Doenças infeciosas e parasitárias: doença dos legionários, hepatites víricas, infeção por VIH, infeções sexualmente transmissíveis, tuberculose. |  |
+| Doenças neurológicas: doença de Alzheimer, outras demências. |  |
+| Doenças dos órgãos dos sentidos: perda de audição, perda de visão. |  |
+| Doenças osteomusculares e do tecido conjuntivo: artroses, dor crónica cervical, dor crónica lombar, osteoartrites. |  |
+| Doenças da pele e do tecido subcutâneo: psoríase. |  |
+| Transtornos mentais e do comportamento: ansiedade, dependência do álcool, dependência de drogas ilícitas, dependência do tabaco, depressão. |  |
+| Tumores malignos (TM): TM do cólon, TM do estômago, TM do fígado, TM da laringe, traqueia, brônquios e pulmão, TM da mama, TM do pâncreas, TM da próstata, TM do tecido linfático e hematopoiético. |  |
 
 A tabela 2 mostra os fatores determinantes, de risco e de proteção, e os problemas de saúde de baixa ou nula magnitude e elevado potencial de risco.
 
@@ -576,11 +660,11 @@ Tabela 2
 
 Problemas de saúde de baixa ou nula magnitude e elevado potencial de risco em Portugal e respetivos determinantes
 
-|  |  |
-| --- | --- |
 | Determinantes de saúde | Problemas de saúde de baixa ou nula magnitude e elevado potencial de risco |
-| Demográficos e sociais (pobreza; literacia). Biológicos (estado imunitário; estado nutricional). Comportamentais (padrão de utilização dos serviços de saúde; adesão à vacinação; conservação e utilização sustentável da biodiversidade e dos ecossistemas; padrões de produção e de consumo sustentáveis). Ambientais (qualidade do ar; qualidade da água; higiene dos alimentos; controlo e gestão de resíduos e águas residuais; qualidade da habitação; alterações climáticas/aquecimento global; ecologia de agentes biológicos transmissores de doença). Relacionados com o sistema de saúde e a prestação de cuidados de saúde (cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde infantil e saúde materna; acesso a medicamentos essenciais e vacinas; qualidade da prestação de cuidados; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de riscos; qualidade dos processo de planeamento, avaliação e governação estratégica; qualidade dos modelos e processos de planeamento de contingência; financiamento da saúde; resiliência do sistema de saúde). | Elevada magnitude no passado e atualmente controlados em Portugal. Doenças evitáveis pela vacinação. Doenças transmitidas pela água. Doenças transmitidas pelos alimentos. Mortalidade infantil e suas componentes. Mortalidade materna. |
-| Demográficos e sociais (pobreza; literacia). Biológicos (estado imunitário; estado nutricional). Comportamentais (padrão de utilização dos serviços de saúde; adesão à vacinação; conservação e utilização sustentável da biodiversidade e dos ecossistemas; padrões de produção e de consumo sustentáveis). Ambientais (qualidade do ar; qualidade da água; higiene dos alimentos; controlo e gestão de resíduos e águas residuais; qualidade da habitação; alterações climáticas/aquecimento global; ecologia de agentes biológicos transmissores de doença). Relacionados com o sistema de saúde e a prestação de cuidados de saúde (cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde infantil e saúde materna; acesso a medicamentos essenciais e vacinas; qualidade da prestação de cuidados; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de riscos; qualidade dos processo de planeamento, avaliação e governação estratégica; qualidade dos modelos e processos de planeamento de contingência; financiamento da saúde; resiliência do sistema de saúde). | Com risco acelerado de emergir ou evoluir para magnitudes elevadas devido ao aumento da intensidade ou prevalência de determinantes de elevada relevância. Doenças infeciosas e parasitárias associadas ao aquecimento global: Febre amarela; Infeção por vírus zika; Dengue; Malária; Outras. Infeções virais com potencial pandémico. Mortalidade associada ao calor e frio extremos. Resistência aos antimicrobianos. Emergências em saúde pública. |
+| --- | --- |
+|  |  |
+| Demográficos e sociais (pobreza; literacia).<br>Biológicos (estado imunitário; estado nutricional).<br>Comportamentais (padrão de utilização dos serviços de saúde; adesão à vacinação; conservação e utilização sustentável da biodiversidade e dos ecossistemas; padrões de produção e de consumo sustentáveis).<br>Ambientais (qualidade do ar; qualidade da água; higiene dos alimentos; controlo e gestão de resíduos e águas residuais; qualidade da habitação; alterações climáticas/aquecimento global; ecologia de agentes biológicos transmissores de doença).<br>Relacionados com o sistema de saúde e a prestação de cuidados de saúde (cobertura universal de cuidados de saúde; acessibilidade a cuidados de vigilância em saúde infantil e saúde materna; acesso a medicamentos essenciais e vacinas; qualidade da prestação de cuidados; qualidade dos sistemas de vigilância epidemiológica de doenças e fatores de riscos; qualidade dos processo de planeamento, avaliação e governação estratégica; qualidade dos modelos e processos de planeamento de contingência; financiamento da saúde; resiliência do sistema de saúde). | Elevada magnitude no passado e atualmente controlados em Portugal.<br>Doenças evitáveis pela vacinação.<br>Doenças transmitidas pela água.<br>Doenças transmitidas pelos alimentos.<br>Mortalidade infantil e suas componentes.<br>Mortalidade materna. |
+| Com risco acelerado de emergir ou evoluir para magnitudes elevadas devido ao aumento da intensidade ou prevalência de determinantes de elevada relevância.<br>Doenças infeciosas e parasitárias associadas ao aquecimento global:<br>Febre amarela;<br>Infeção por vírus zika;<br>Dengue;<br>Malária;<br>Outras.<br>Infeções virais com potencial pandémico.<br>Mortalidade associada ao calor e frio extremos.<br>Resistência aos antimicrobianos.<br>Emergências em saúde pública. |  |
 
 Desigualdades em saúde
 
@@ -628,10 +712,10 @@ QUADRO 1
 
 Necessidades de saúde sentidas ou percecionadas pelos stakeholders da Comissão de Acompanhamento do PNS 2030, por ordem de relevância
 
-|  |  |
+| Ordenação das 12 primeiras necessidades de Saúde |  |
 | --- | --- |
-| Ordenação das 12 primeiras necessidades de Saúde | Ordenação das 12 primeiras necessidades de Saúde |
 | Que decorrem dos problemas de saúde: | Que decorrem dos determinantes de saúde: |
+|  |  |
 | Enfarte agudo do miocárdio. | Oferta e acessibilidade a medicamentos. |
 | Tumor maligno do cólon e reto. | Financiamento da saúde. |
 | Acidente vascular cerebral. | Cobertura universal. |
@@ -644,7 +728,7 @@ Necessidades de saúde sentidas ou percecionadas pelos stakeholders da Comissão
 | Tumor maligno da próstata. | Despesa pública com serviços essenciais. |
 | Tumor maligno do pâncreas. | Pobreza nas crianças. |
 | Outras demências. | Excesso de peso e obesidade. |
-| Fonte: Equipa PNS 2030/DGS, 2021. | Fonte: Equipa PNS 2030/DGS, 2021. |
+| Fonte: Equipa PNS 2030/DGS, 2021. |  |
 
 Dos resultados salienta-se a elevada relevância atribuída:
 
@@ -886,7 +970,7 @@ Objetivos de saúde fixados para 2030 em Portugal
 | Assegurar o valor tendencialmente nulo do número de casos de tétano neonatal; |
 | Assegurar o valor mínimo de 99,0 % do indicador de água segura em todas as regiões tipo NUTS II; |
 | Assegurar uma proporção de alojamentos servidos por drenagem de águas residuais superior ou igual a 98,0 % em todos as regiões tipo NUTS II. |
-| Legenda: HM - sexos feminino e masculino; H - sexo masculino; M - sexo feminino; VIH - vírus de imunodeficiência humana. |
+| Legenda:<br>HM - sexos feminino e masculino;<br>H - sexo masculino;<br>M - sexo feminino;<br>VIH - vírus de imunodeficiência humana. |
 
 Nos anexos 1 e 2 são listados e especificados os indicadores e componentes dos objetivos de saúde do PNS 2030.
 
@@ -930,16 +1014,16 @@ QUADRO 4
 
 Mecanismos de suporte da implementação das Estratégias de Intervenção
 
-|  |  |
-| --- | --- |
 | Desafios | Mecanismos de suporte |
+| --- | --- |
+|  |  |
 | Cocriar | Parcerias internas e externas: manter, reforçar ou estabelecer. |
-| Partilhar Comunicar Inovar | Informação e conhecimento sobre: problemas e determinantes de saúde e desigualdades em saúde; efetividade das estratégias de intervenção; análise do impacte na saúde; saúde pública de precisão; sistema de informação de saúde integrado e multidimensional; transição digital; redução do gap entre conhecimento científico e praxis (tomada de decisão e intervenção); plano de comunicação estratégica; agendas de investigação; participação ativa da academia. |
-| Agir Incluir | Universalismo proporcional: adequação do processo de implementação das estratégias de intervenção, financiamento das respetivas atividades e alocação de recursos com base na informação e conhecimento disponíveis sobre desigualdades e sobre populações vulneráveis. |
-| Assegurar Investir Antecipar Alinhar | Qualidade do planeamento em saúde: desde o planeamento estratégico, de base populacional, até ao planeamento tático e operacional (incluindo o planeamento de contingência), abrangendo as infraestruturas e recursos humanos (RH) da saúde e de outros setores e a garantia da qualidade do planeamento e governação em saúde, do nível nacional ao local; garantia da qualidade dos cuidados de saúde; infraestruturas da saúde adequadas e sustentáveis; estudo prospetivo dos RH da saúde (enfoque no investimento nos CSP, cobertura universal, |
-|  | integração de cuidados e saúde pública); satisfação profissional e prevenção do burnout; criação de reserva de RH para situações de emergência em saúde pública. Agenda 2030 para o Desenvolvimento Sustentável. |
+| Partilhar<br>Comunicar<br>Inovar | Informação e conhecimento sobre: problemas e determinantes de saúde e desigualdades em saúde; efetividade das estratégias de intervenção; análise do impacte na saúde; saúde pública de precisão; sistema de informação de saúde integrado e multidimensional; transição digital; redução do gap entre conhecimento científico e praxis (tomada de decisão e intervenção); plano de comunicação estratégica; agendas de investigação; participação ativa da academia. |
+| Agir<br>Incluir | Universalismo proporcional: adequação do processo de implementação das estratégias de intervenção, financiamento das respetivas atividades e alocação de recursos com base na informação e conhecimento disponíveis sobre desigualdades e sobre populações vulneráveis. |
+| Assegurar<br>Investir<br>Antecipar<br>Alinhar | Qualidade do planeamento em saúde: desde o planeamento estratégico, de base populacional, até ao planeamento tático e operacional (incluindo o planeamento de contingência), abrangendo as infraestruturas e recursos humanos (RH) da saúde e de outros setores e a garantia da qualidade do planeamento e governação em saúde, do nível nacional ao local; garantia da qualidade dos cuidados de saúde; infraestruturas da saúde adequadas e sustentáveis; estudo prospetivo dos RH da saúde (enfoque no investimento nos CSP, cobertura universal, |
+|  | integração de cuidados e saúde pública); satisfação profissional e prevenção do burnout; criação de reserva de RH para situações de emergência em saúde pública.<br>Agenda 2030 para o Desenvolvimento Sustentável. |
 |  | Outros documentos, orientações ou estratégias de referência europeus e internacionais. |
-| Fonte: PSN e Equipa PNS 2030/DGS. | Fonte: PSN e Equipa PNS 2030/DGS. |
+| Fonte: PSN e Equipa PNS 2030/DGS. |  |
 
 7.3 - Estratégias de intervenção para a saúde sustentável
 
@@ -1007,37 +1091,37 @@ QUADRO 5
 
 Seleção de estratégias de intervenção, face às necessidades de saúde identificadas
 
-|  |  |
-| --- | --- |
 | Grandes linhas de orientação estratégica | Estratégias de intervenção |
+| --- | --- |
+|  |  |
 | Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção dos direitos humanos. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da literacia em saúde. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Dinamização de ambientes promotores de saúde. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Prevenção e controlo de riscos ambientais. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde em meio escolar (com particular atenção aos «primeiros anos»). |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde no local de trabalho. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Prevenção e controlo de riscos ocupacionais e de doenças profissionais. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde nos espaços de arte, diversão e lazer; nos espaços de culto. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde da população nos diferentes níveis de prestação de cuidados de saúde («cada contacto conta» - fazer de cada contacto uma oportunidade de promoção da saúde). |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde sexual e reprodutiva. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção do aleitamento materno. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde infantil e juvenil. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da alimentação saudável. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da atividade física e do desporto, em todo o ciclo de vida, e em diversos contextos do quotidiano. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção do envelhecimento ativo e saudável e aumento da longevidade. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde mental (fatores protetores), ao longo do ciclo de vida. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Prevenção e mitigação de consumos de risco (início de consumos de tabaco, álcool e substâncias psicoativas ilícitas, incluindo a diminuição do acesso a estas substâncias). |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção de uma cultura de qualidade e segurança para o doente. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da saúde de grupos da população de maior vulnerabilidade (e.g. pessoas com maior vulnerabilidade socioeconómica, com deficiência, portadoras de doença rara, acolhidas em instituições, em situação de sem-abrigo, refugiadas, migrantes, pertencentes a minorias étnicas e religiosas, em razão da origem racial ou étnica, ascendência, território de origem, religião ou da orientação sexual, identidade e expressão de género ou características sexuais. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da qualificação na área da intervenção da mutilação genital feminina. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Consolidação, alargamento e especialização da intervenção com pessoas agressoras sexuais. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Implementação da estratégia de saúde para as pessoas LGBTI+. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Reforço da rede de suporte, formal e informal, e do capital social ao longo do ciclo de vida. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Promoção da segurança e prevenção da violência e da criminalidade. |
-| Investir: promover e proteger a saúde (transversal a todas as estratégias de intervenção; transdisciplinar e multissetorial.) | Desenvolvimento de estratégias para a abordagem da violência ao longo do ciclo de vida, nas suas diversas formas. |
+| Promoção da literacia em saúde. |  |
+| Dinamização de ambientes promotores de saúde. |  |
+| Prevenção e controlo de riscos ambientais. |  |
+| Promoção da saúde em meio escolar (com particular atenção aos «primeiros anos»). |  |
+| Promoção da saúde no local de trabalho. |  |
+| Prevenção e controlo de riscos ocupacionais e de doenças profissionais. |  |
+| Promoção da saúde nos espaços de arte, diversão e lazer; nos espaços de culto. |  |
+| Promoção da saúde da população nos diferentes níveis de prestação de cuidados de saúde («cada contacto conta» - fazer de cada contacto uma oportunidade de promoção da saúde). |  |
+| Promoção da saúde sexual e reprodutiva. |  |
+| Promoção do aleitamento materno. |  |
+| Promoção da saúde infantil e juvenil. |  |
+| Promoção da alimentação saudável. |  |
+| Promoção da atividade física e do desporto, em todo o ciclo de vida, e em diversos contextos do quotidiano. |  |
+| Promoção do envelhecimento ativo e saudável e aumento da longevidade. |  |
+| Promoção da saúde mental (fatores protetores), ao longo do ciclo de vida. |  |
+| Prevenção e mitigação de consumos de risco (início de consumos de tabaco, álcool e substâncias psicoativas ilícitas, incluindo a diminuição do acesso a estas substâncias). |  |
+| Promoção de uma cultura de qualidade e segurança para o doente. |  |
+| Promoção da saúde de grupos da população de maior vulnerabilidade (e.g. pessoas com maior vulnerabilidade socioeconómica, com deficiência, portadoras de doença rara, acolhidas em instituições, em situação de sem-abrigo, refugiadas, migrantes, pertencentes a minorias étnicas e religiosas, em razão da origem racial ou étnica, ascendência, território de origem, religião ou da orientação sexual, identidade e expressão de género ou características sexuais. |  |
+| Promoção da qualificação na área da intervenção da mutilação genital feminina. |  |
+| Consolidação, alargamento e especialização da intervenção com pessoas agressoras sexuais. |  |
+| Implementação da estratégia de saúde para as pessoas LGBTI+. |  |
+| Reforço da rede de suporte, formal e informal, e do capital social ao longo do ciclo de vida. |  |
+| Promoção da segurança e prevenção da violência e da criminalidade. |  |
+| Desenvolvimento de estratégias para a abordagem da violência ao longo do ciclo de vida, nas suas diversas formas. |  |
 | Incluir: cobertura universal de saúde (manter ou reforçar as estratégias que funcionam; recuperar e melhorar o acesso e a intervenção em saúde.) | Cobertura universal de saúde (SNS e saúde para todos, não deixando ninguém para trás), concretizando: promoção da saúde, proteção da saúde, prevenção da doença e prestação de cuidados). |
-| Incluir: cobertura universal de saúde (manter ou reforçar as estratégias que funcionam; recuperar e melhorar o acesso e a intervenção em saúde.) | Acesso a saúde digital: SNS24, telesaúde e telemedicina. |
-|  | Abordagem integrada dos percursos dos doentes assegurando a transição de cuidados. Controlo dos fatores de risco modificáveis [e.g. tratamento da HTA e das dislipidemias, prescrição de atividade física e alimentação saudável, intervenções breves e Programa de Apoio Intensivo (tabagismo)]. |
+| Acesso a saúde digital: SNS24, telesaúde e telemedicina. |  |
+|  | Abordagem integrada dos percursos dos doentes assegurando a transição de cuidados.<br>Controlo dos fatores de risco modificáveis [e.g. tratamento da HTA e das dislipidemias, prescrição de atividade física e alimentação saudável, intervenções breves e Programa de Apoio Intensivo (tabagismo)]. |
 |  | Prevenção das perturbações emocionais e do comportamento no âmbito da saúde infantil e juvenil. |
 |  | Deteção precoce/rastreios de base populacional ou rastreios oportunísticos (rastreios oncológicos - mama, colo do útero, colorretal; rastreios visuais e auditivos; diagnóstico precoce de: doença de Alzheimer, doença pulmonar obstrutiva crónica nos CSP, cancro oral na população de risco, nos CSP, e cirrose em doentes com hepatite viral, considerando o seu potencial oncológico, entre outros; deteção precoce da infeção por VIH e outras doenças sexualmente transmissíveis). |
 |  | Integração dos cuidados de saúde mental nos diferentes níveis de cuidados. |
@@ -1078,7 +1162,7 @@ Seleção de estratégias de intervenção, face às necessidades de saúde iden
 |  | Vigilância epidemiológica de doenças transmissíveis, incluindo as de baixa ou nula magnitude (e.g. doenças transmitidas por vetores, como infeções pelo vírus zika, dengue, febre amarela e malária). |
 |  | Vigilância epidemiológica de riscos ambientais. |
 |  | Intervenção atempada na prevenção e controlo de riscos ambientais de intensidade crescente. |
-| Legenda: AVC - acidente vascular cerebral; CA - Comissão de Acompanhamento do PNS 2030; COVID-19 - doença causada pelo coronavírus do síndrome respiratório agudo grave 2 (Coronavirus Disease 2019); CSP - cuidados de saúde primários; EAM - enfarte agudo do miocárdio; e.g. - por exemplo; HTA - hipertensão arterial; NS - necessidades de saúde; PSN - Programas de Saúde Nacionais; SARS-CoV-2 - coronavírus do síndrome respiratório agudo grave 2; SNS - Serviço Nacional de Saúde; VIH/SIDA - infeção por vírus de imunodeficiência humana/síndrome de imunodeficiência adquirida. Fonte: Equipa PNS 2030/DGS, a partir dos contributos dos PSN e CA do PNS 2030. | Legenda: AVC - acidente vascular cerebral; CA - Comissão de Acompanhamento do PNS 2030; COVID-19 - doença causada pelo coronavírus do síndrome respiratório agudo grave 2 (Coronavirus Disease 2019); CSP - cuidados de saúde primários; EAM - enfarte agudo do miocárdio; e.g. - por exemplo; HTA - hipertensão arterial; NS - necessidades de saúde; PSN - Programas de Saúde Nacionais; SARS-CoV-2 - coronavírus do síndrome respiratório agudo grave 2; SNS - Serviço Nacional de Saúde; VIH/SIDA - infeção por vírus de imunodeficiência humana/síndrome de imunodeficiência adquirida. Fonte: Equipa PNS 2030/DGS, a partir dos contributos dos PSN e CA do PNS 2030. |
+| Legenda:<br>AVC - acidente vascular cerebral;<br>CA - Comissão de Acompanhamento do PNS 2030;<br>COVID-19 - doença causada pelo coronavírus do síndrome respiratório agudo grave 2 (Coronavirus Disease 2019);<br>CSP - cuidados de saúde primários;<br>EAM - enfarte agudo do miocárdio;<br>e.g. - por exemplo;<br>HTA - hipertensão arterial;<br>NS - necessidades de saúde;<br>PSN - Programas de Saúde Nacionais;<br>SARS-CoV-2 - coronavírus do síndrome respiratório agudo grave 2;<br>SNS - Serviço Nacional de Saúde;<br>VIH/SIDA - infeção por vírus de imunodeficiência humana/síndrome de imunodeficiência adquirida.<br>Fonte: Equipa PNS 2030/DGS, a partir dos contributos dos PSN e CA do PNS 2030. |  |
 
 8 - Recomendações para a implementação
 
@@ -1240,41 +1324,41 @@ QUADRO 6
 
 Plano de monitorização e avaliação - Quadro resumo dos indicadores (1/7)
 
-|  |  |  |  |  |  |  |  |  |  |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização e avaliação | Observações |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | 2025 | 2028 | 2031 | Observações |
-| NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude |
+| Último valor<br>PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir<br>(/10(elevado a 5) habitantes) | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| NS decorrentes de problemas de saúde de elevada magnitude |  |  |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por todas as causas de morte, idade inferior a 75 anos. | HM | INE | 325,0 | 2019 | 315,0 |  |  |  |  |
-| Taxa de mortalidade padronizada por todas as causas de morte, idade inferior a 75 anos. | H | INE | 466,1 | 2019 | 458,0 |  |  |  |  |
-| Taxa de mortalidade padronizada por todas as causas de morte, idade inferior a 75 anos. | M | INE | 204,7 | 2019 | 196,4 |  |  |  |  |
+| H | 466,1 | 458,0 |  |  |  |  |  |  |  |
+| M | 204,7 | 196,4 |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças do aparelho circulatório, todas as idades. | HM | INE | 271,7 | 2019 | 246,5 |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças cerebrovasculares, todas as idades. | HM | INE | 88,7 | 2019 | 58,9 |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças cerebrovasculares, idade inferior a 75 anos. | HM | INE | 18,9 | 2019 | 13,4 |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças isquémicas do coração, todas as idades. | HM | INE | 58,6 | 2019 | 41,8 |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças isquémicas do coração, idade inferior a 75 anos. | HM | INE | 23,9 | 2019 | 20,5 |  |  |  |  |
 | Taxa de mortalidade padronizada por tumores malignos, todas as idades. | HM | INE | 242,6 | 2019 | 242,4 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumores malignos, todas as idades. | H | INE | 347,6 | 2019 | 347,2 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumores malignos, todas as idades. | M | INE | 169,0 | 2019 | 161,2 |  |  |  |  |
+| H | 347,6 | 347,2 |  |  |  |  |  |  |  |
+| M | 169,0 | 161,2 |  |  |  |  |  |  |  |
 
 QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (2/7)
 
-| Indicadores | Sexo | Fonte de dados | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Observações |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização e avaliação | Observações |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | 2025 | 2028 | 2031 | Observações |
+| Último valor<br>PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir<br>(/10(elevado a 5) habitantes) | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
-| NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude |
+| NS decorrentes de problemas de saúde de elevada magnitude |  |  |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por tumores malignos, idade inferior a 75 anos. | HM | INE | 136,9 | 2019 | 132,4 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumores malignos, idade inferior a 75 anos. | H | INE | 187,6 | 2019 | 185,1 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumores malignos, idade inferior a 75 anos. | M | INE | 94,2 | 2019 | 89,0 |  |  |  |  |
+| H | 187,6 | 185,1 |  |  |  |  |  |  |  |
+| M | 94,2 | 89,0 |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, todas as idades. | H | INE | 72,1 | 2019 | 73,9 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, todas as idades. | M | INE | 17,4 | 2019 | 23,2 |  |  |  |  |
+| M | 17,4 | 23,2 |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, idade inferior a 75 anos. | H | INE | 49,8 | 2019 | 49,9 |  |  |  |  |
-| Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, idade inferior a 75 anos. | M | INE | 12,3 | 2019 | 16,2 |  |  |  |  |
+| M | 12,3 | 16,2 |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da mama, todas as idades. | M | INE | 27,7 | 2019 | 25,1 |  |  |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da mama, idade inferior a 75 anos. | M | INE | 17,8 | 2019 | 15,5 |  |  |  |  |
 | Taxa de mortalidade padronizada por doenças do aparelho respiratório, todas as idades. | HM | INE | 98,6 | 2019 | 98,6 |  |  |  |  |
@@ -1284,61 +1368,61 @@ QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (3/7)
 
-| Indicadores | Sexo | Fonte de dados | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Observações |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização e avaliação | Observações |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir (/10(elevado a 5) habitantes) | 2025 | 2028 | 2031 | Observações |
+| Último valor<br>PT (/10(elevado a 5) habitantes) | Ano | Valor a atingir<br>(/10(elevado a 5) habitantes) | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
-| NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude | NS decorrentes de problemas de saúde de elevada magnitude |
+| NS decorrentes de problemas de saúde de elevada magnitude |  |  |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por diabetes mellitus, todas as idades | HM | INE | 31,3 | 2019 | 25,6 |  |  |  |  |
 | Taxa de mortalidade padronizada por diabetes mellitus, idade inferior a 75 anos | HM | INE | 8,1 | 2019 | 4,7 |  |  |  |  |
 | Taxa de incidência de tuberculose | HM | DGS | 16,5 | 2019 | 12,1 |  |  |  |  |
 | Taxa de incidência de infeção VIH | HM | DGS/INSA | 7,6 | 2019 | 5,7 |  |  |  |  |
-| Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. | Legenda: DGS - Direção-Geral da Saúde; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge; M - sexo feminino; NS - necessidades de saúde; PT - Portugal; VIH - vírus de imunodeficiência humana; /10(elevado a 5) habitantes - por 100 000 habitantes. |
+| Legenda:<br>DGS - Direção-Geral da Saúde;<br>H - sexo masculino;<br>HM - sexos feminino e masculino;<br>INE - Instituto Nacional de Estatística;<br>INSA - Instituto Nacional de Saúde Doutor Ricardo Jorge;<br>M - sexo feminino;<br>NS - necessidades de saúde;<br>PT - Portugal;<br>VIH - vírus de imunodeficiência humana;<br>/10(elevado a 5) habitantes - por 100 000 habitantes. |  |  |  |  |  |  |  |  |  |
 
 QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (4/7)
 
-|  |  |  |  |  |  |  |  |  |  |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização e avaliação | Observações |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Monitorização e avaliação | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT/NUTS II de valor menos favorável | Ano/período de tempo | Valor a atingir | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT/NUTS II de valor menos favorável | Ano/período de tempo | Valor a atingir | 2025 | 2028 | 2031 | Observações |
-| Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco | Problemas de saúde de baixa magnitude mas elevado potencial de risco |
+| Último valor<br>PT/NUTS II de valor menos favorável | Ano/período<br>de tempo | Valor<br>a atingir | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+| Problemas de saúde de baixa magnitude mas elevado potencial de risco |  |  |  |  |  |  |  |  |  |
 | Taxa de mortalidade materna (por 100 000 nados-vivos) | M | INE | 13,5 | 2017-2019 | 7,1 |  |  |  |  |
 | Taxa de mortalidade neonatal (por 1000 nados-vivos) | HM | INE | 1,9 | 2018-2020 | 1,1 |  |  |  |  |
 | Taxa de mortalidade infantil (por 1000 nados-vivos) | HM | INE | 2,9 | 2018-2020 | 2,5 |  |  |  |  |
 | Taxa de mortalidade em crianças com menos de 5 anos (por 1000 nados-vivos) | HM | INE | 3,0 | 2020 | 2,6 |  |  |  |  |
-| Proporção de nascimentos assistidos por pessoal de saúde qualificado (%) | HM | INE | 98,6/98,0 (PT/AML) | 2020 | 99,5 |  |  |  |  |
+| Proporção de nascimentos assistidos por pessoal de saúde qualificado (%) | HM | INE | 98,6/98,0<br>(PT/AML) | 2020 | 99,5 |  |  |  |  |
 | Número absoluto de casos de sífilis congénita | HM | SINAVE | 7 | 2018 | 0 |  |  |  |  |
 | Número absoluto de casos autóctones de sarampo | HM |  |  |  | 0 |  |  |  |  |
 | Número absoluto de casos de tétano neonatal | HM | SINAVE | 0 | 2018 | 0 |  |  |  |  |
 | Número absoluto de casos de rubéola congénita | HM | SINAVE | 0 | 2018 | 0 |  |  |  |  |
-| Indicador de água segura (%) |  | INE | 98,8/98,2 (PT/RAM) | 2020 | 99,0 |  |  |  |  |
-| Proporção de alojamentos servidos por drenagem de águas residuais (%) |  | INE | n.d./67,5 (PT/RAM) | 2019 | 98,0 |  |  |  |  |
-| Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; INE - Instituto Nacional de Estatística; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira; SINAVE - Sistema Nacional de Vigilância Epidemiológica. |
+| Indicador de água segura (%) |  | INE | 98,8/98,2<br>(PT/RAM) | 2020 | 99,0 |  |  |  |  |
+| Proporção de alojamentos servidos por drenagem de águas residuais (%) |  | INE | n.d./67,5<br>(PT/RAM) | 2019 | 98,0 |  |  |  |  |
+| Legenda:<br>AML - Área Metropolitana de Lisboa;<br>H - sexo masculino;<br>HM - sexos feminino e masculino;<br>INE - Instituto Nacional de Estatística;<br>M - sexo feminino;<br>n.d. - não disponível;<br>NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2;<br>PT - Portugal;<br>RAM - Região Autónoma da Madeira;<br>SINAVE - Sistema Nacional de Vigilância Epidemiológica. |  |  |  |  |  |  |  |  |  |
 
 QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (5/7)
 
-|  |  |  |  |  |  |  |  |  |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização | Observações |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Monitorização | Monitorização | Monitorização | Monitorização | Monitorização | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT | Ano/período de tempo | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT | Ano/período de tempo | 2025 | 2028 | 2031 | Observações |
+| Último valor<br>PT | Ano/período<br>de tempo | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 | Taxa de mortalidade perinatal (por 1000 nados-vivos e fetos mortos com mais de 28 semanas). | HM | INE | 3,7 | 2018-2020 |  |  |  |  |
-| Taxa de mortalidade evitável prematura padronizada pela idade (por 100 000 habitantes). | HM | OCDE/ Eurostat | 138 | 2018 |  |  |  |  |
-| Taxa de mortalidade tratável prematura padronizada pela idade (por 100 000 habitantes). | HM | OCDE/ Eurostat | 83 | 2018 |  |  |  |  |
+| Taxa de mortalidade evitável prematura padronizada pela idade (por 100 000 habitantes). | HM | OCDE/<br>Eurostat | 138 | 2018 |  |  |  |  |
+| Taxa de mortalidade tratável prematura padronizada pela idade (por 100 000 habitantes). | HM | OCDE/<br>Eurostat | 83 | 2018 |  |  |  |  |
 | Sobrevida a 5 anos do tumor maligno da laringe, traqueia, brônquios e pulmão (%). | HM | ROR | 15,8 | 2013* |  |  |  |  |
 | Sobrevida a 5 anos do tumor maligno da mama (%) | M | ROR | 82 | 2013* |  |  |  |  |
 | Anos de vida saudável à nascença (ano) | HM | INE | 59,2 | 2019 |  |  |  |  |
-| Anos de vida saudável à nascença (ano) | H | INE | 60,6 | 2019 |  |  |  |  |
-| Anos de vida saudável à nascença (ano) | M | INE | 57,8 | 2019 |  |  |  |  |
+| H | 60,6 |  |  |  |  |  |  |  |
+| M | 57,8 |  |  |  |  |  |  |  |
 | Anos de vida saudável aos 65 anos (ano) | HM | INE | 7,3 | 2019 |  |  |  |  |
-| Anos de vida saudável aos 65 anos (ano) | H | INE | 7,9 | 2019 |  |  |  |  |
-| Anos de vida saudável aos 65 anos (ano) | M | INE | 6,9 | 2019 |  |  |  |  |
+| H | 7,9 |  |  |  |  |  |  |  |
+| M | 6,9 |  |  |  |  |  |  |  |
 | Prevalência de obesidade e excesso de peso no adulto, idade entre 25 e 74 anos (%). | HM | INSEF | 67,6 | 2015 |  |  |  |  |
 | Prevalência estimada de hipertensão arterial, idade entre 25 e 74 anos (%). | HM | INSEF | 36,0 | 2015 |  |  |  |  |
 | Prevalência estimada de hipercolesterolemia, idade entre 25 e 74 anos (%). | HM | INSEF | 63,3 | 2015 |  |  |  |  |
@@ -1347,11 +1431,11 @@ QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (6/7)
 
-|  |  |  |  |  |  |  |  |  |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização | Observações |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Monitorização | Monitorização | Monitorização | Monitorização | Monitorização | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT | Ano/período de tempo | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor PT | Ano/período de tempo | 2025 | 2028 | 2031 | Observações |
+| Último valor<br>PT | Ano/período<br>de tempo | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 | Proporção de alojamentos servidos por abastecimento de água (%) |  | INE | 96 | 2019 |  |  |  |  |
 | Concentração média anual de partículas PM2,5 (mi)g/m3) |  | INE | 7 | 2019 |  |  |  |  |
 | Concentração média anual de partículas PM10 (mi)g/m3) |  | INE | 16 | 2019 |  |  |  |  |
@@ -1371,11 +1455,11 @@ QUADRO 6
 
 Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (7/7)
 
-|  |  |  |  |  |  |  |  |  |
+| Indicadores | Sexo | Fonte<br>de dados | Monitorização | Observações |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores | Sexo | Fonte de dados | Monitorização | Monitorização | Monitorização | Monitorização | Monitorização | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor Pt | Ano/período de tempo | Resultados | Resultados | Resultados | Observações |
-| Indicadores | Sexo | Fonte de dados | Último valor Pt | Ano/período de tempo | 2025 | 2028 | 2031 | Observações |
+| Último valor<br>Pt | Ano/período<br>de tempo | Resultados |  |  |  |  |  |  |
+| 2025 | 2028 | 2031 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 | Taxa de privação material (%) | HM | INE | 13,5 | 2020 |  |  |  |  |
 | Demora mediana entre o início de sintomas até ao diagnóstico de tuberculose (dia) | HM | DGS | 80 | 2020 |  |  |  |  |
 | Sucesso terapêutico de tuberculose (%) | HM | DGS | 82,2 | 2019 |  |  |  |  |
@@ -1385,8 +1469,8 @@ Plano de Monitorização e Avaliação - Quadro resumo dos indicadores (7/7)
 | Proporção de utentes inscritos sem médico de família atribuído (%) | HM | ACSS | 8,4 | 2020 |  |  |  |  |
 | Mediana do tempo de espera até à realização da primeira consulta hospitalar no âmbito da Consulta a Tempo e Horas (CTH) (dia) |  | ACSS | 100,2 | 2020 |  |  |  |  |
 | Proporção de despesas não reembolsadas no total das despesas em saúde (proporção de pagamentos diretos) (%) |  | OCDE | 30,5 | 2019 |  |  |  |  |
-| Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. | Notas: * Ano de diagnóstico do tumor maligno; ** Prevalência nos últimos 30 dias (P30D); *** No Continente. |
-| Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. | Legenda: ACSS - Administração Central do Sistema de Saúde; DGS - Direção-Geral da Saúde; Eurostat - Gabinete de Estatísticas da União Europeia; H - sexo masculino; HM - sexos feminino e masculino; IHME - Institute for Health Metrics and Evaluation; INE - Instituto Nacional de Estatística; INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal; INSEF - Inquérito Nacional de Saúde com Exame Físico; Kg/hab - quilograma por habitante; kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes; M - sexo feminino; OCDE - Organização para a Cooperação e Desenvolvimento Económico; PM2,5 - partículas inaláveis com diâmetro inferior a 2,5; PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m; PT - Portugal; ROR - Registo Oncológico Regional. |
+| Notas:<br>* Ano de diagnóstico do tumor maligno;<br>** Prevalência nos últimos 30 dias (P30D);<br>*** No Continente. |  |  |  |  |  |  |  |  |
+| Legenda:<br>ACSS - Administração Central do Sistema de Saúde;<br>DGS - Direção-Geral da Saúde;<br>Eurostat - Gabinete de Estatísticas da União Europeia;<br>H - sexo masculino;<br>HM - sexos feminino e masculino;<br>IHME - Institute for Health Metrics and Evaluation;<br>INE - Instituto Nacional de Estatística;<br>INPG - Inquérito Nacional ao Consumo de Substâncias Psicoativas na População Geral de Portugal;<br>INSEF - Inquérito Nacional de Saúde com Exame Físico;<br>Kg/hab - quilograma por habitante;<br>kt CO(índice 2) eq - quilotoneladas de dióxido de carbono equivalentes;<br>M - sexo feminino;<br>OCDE - Organização para a Cooperação e Desenvolvimento Económico;<br>PM2,5 - partículas inaláveis com diâmetro inferior a 2,5;<br>PM10 - partículas inaláveis com diâmetro inferior a 10 (mi)m;<br>PT - Portugal;<br>ROR - Registo Oncológico Regional. |  |  |  |  |  |  |  |  |
 
 10 - Plano de Comunicação: Orientações estratégicas
 
@@ -1406,14 +1490,14 @@ QUADRO 7
 
 Desafios e objetivos de comunicação
 
-|  |  |
-| --- | --- |
 | Desafio | Âmbito |
+| --- | --- |
+|  |  |
 | Informar | Informar sobre a existência do PNS, natureza e linha de atuação. |
 | Motivar | Motivar os diferentes intervenientes, incluindo-os plenamente em todas as fases. |
 | Envolver | Envolver os diferentes stakeholders através de ferramentas concretas de participação. |
 | Avaliar | Avaliar o progresso para garantir a natureza cíclica e evolutiva do PNS. |
-| Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/ Universidade do Minho (UM). | Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/ Universidade do Minho (UM). |
+| Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/ Universidade do Minho (UM). |  |
 
 O processo de resposta aos referidos desafios baseou-se, numa fase inicial, na criação de estruturas identitárias e comunicacionais prévias. Neste âmbito, o trabalho de criação de uma identidade de marca (motivação e envolvimento) e um website (informação e envolvimento) capaz de tornar tangível esta marca, foram dois marcos significativos no enquadramento estratégico do PNS 2030.
 
@@ -1421,20 +1505,20 @@ QUADRO 8
 
 Propósitos do PNS 2030 e Objetivos de Comunicação
 
-|  |  |  |
-| --- | --- | --- |
 | Propósito(s) do PNS | Desafio | Objetivo(s) de Comunicação |
+| --- | --- | --- |
+|  |  |  |
 | Fazer as melhores escolhas, focando no que é mais importante. | Informar e motivar | Informar sobre a existência do documento, bem como a sua natureza de base populacional e linhas de atuação. |
 |  |  | Dar a conhecer o estado de saúde da população e estratégias de intervenção. |
 |  |  | Criar a predisposição positiva para o entendimento da saúde como um compromisso social. |
 |  |  | Criar redes colaborativas e relações de confiança. |
 | Alinhar cada parte interessada, no sentido do trabalho conjunto, orientando e facilitando a construção de um compromisso social. | Motivar e envolver | Mobilizar interna e externamente através de oportunidades de participação. |
-| Alinhar cada parte interessada, no sentido do trabalho conjunto, orientando e facilitando a construção de um compromisso social. |  | Promover práticas de comunicação participativa e colaborativa através da participação. |
-| Alinhar cada parte interessada, no sentido do trabalho conjunto, orientando e facilitando a construção de um compromisso social. |  | Cocriar e implicar multistakeholders (colaboração). |
+|  | Promover práticas de comunicação participativa e colaborativa através da participação. |  |
+|  | Cocriar e implicar multistakeholders (colaboração). |  |
 | Potencializar o PNS para a governação em saúde. | Informar e envolver | Ativar e enraizar o sentimento de pertença. |
-| Potencializar o PNS para a governação em saúde. |  | Partilhar conhecimento para resiliência comunitária. |
+|  | Partilhar conhecimento para resiliência comunitária. |  |
 |  |  | Avaliar o progresso. |
-| Fonte: CECS/UM. | Fonte: CECS/UM. | Fonte: CECS/UM. |
+| Fonte: CECS/UM. |  |  |
 
 10.3 - Públicos-alvo
 
@@ -1444,10 +1528,10 @@ QUADRO 9
 
 Públicos-alvo do PNS 2030
 
-|  |  |
-| --- | --- |
 | Segmentação | Públicos-alvo |
-| Internos | Ministro/a da Saúde e respetivo Gabinete. Diretor/a-Geral da Saúde. |
+| --- | --- |
+|  |  |
+| Internos | Ministro/a da Saúde e respetivo Gabinete.<br>Diretor/a-Geral da Saúde. |
 |  | Diretor/a executiva do PNS. |
 |  | Coordenação técnica da estratégia e do PNS. |
 |  | Equipa de apoio. |
@@ -1457,8 +1541,8 @@ Públicos-alvo do PNS 2030
 |  | População em geral. |
 |  | Média (local, nacional, internacional e de especialidade). |
 |  | Entidades externas (relação com ODS e OMS). |
-| ACSS - Administração Central dos Sistemas de Saúde; ARS - Administração Regional de Saúde; CCDR - Comissões de Coordenação e Desenvolvimento Regional; ODS - Objetivos de Desenvolvimento Sustentável; OMS - Organização Mundial de Saúde; PNS - Plano Nacional de Saúde. | ACSS - Administração Central dos Sistemas de Saúde; ARS - Administração Regional de Saúde; CCDR - Comissões de Coordenação e Desenvolvimento Regional; ODS - Objetivos de Desenvolvimento Sustentável; OMS - Organização Mundial de Saúde; PNS - Plano Nacional de Saúde. |
-| Fonte: CECS/UM. | Fonte: CECS/UM. |
+| ACSS - Administração Central dos Sistemas de Saúde;<br>ARS - Administração Regional de Saúde;<br>CCDR - Comissões de Coordenação e Desenvolvimento Regional;<br>ODS - Objetivos de Desenvolvimento Sustentável;<br>OMS - Organização Mundial de Saúde;<br>PNS - Plano Nacional de Saúde. |  |
+| Fonte: CECS/UM. |  |
 
 10.4 - Eixos de comunicação
 
@@ -1468,15 +1552,15 @@ QUADRO10
 
 Desafios de implementação e eixos de comunicação
 
-|  |  |
-| --- | --- |
 | Desafio(s) | Eixo(s) de comunicação |
+| --- | --- |
+|  |  |
 | Cocriar | Colaboração. |
 | Agir/Incluir | Inclusão. |
 | Partilhar/Comunicar/Inovar | Participação. |
 | Alinhar | Integração. |
 | Assegurar/Investir | Compromisso e Responsabilidade. |
-| Fonte: CECS/UM. | Fonte: CECS/UM. |
+| Fonte: CECS/UM. |  |
 
 A partir destes eixos gerais deverá haver uma declinação temática em função das necessidades de saúde e das respetivas estratégias de intervenção selecionadas. Neste âmbito, destacam-se eixos temáticos relacionados com a promoção e prevenção (por exemplo, de doenças determinadas pelo estilo de vida); qualidade (cobertura, acesso e prestação de cuidados) e consciencialização (por exemplo, relacionada com a saúde mental ou o Ambiente). Tudo isto enquadrado pelos princípios da saúde sustentável e da intervenção multissetorial (ODS).
 
@@ -1504,9 +1588,9 @@ QUADRO 11
 
 Mix de comunicação
 
-|  |  |
-| --- | --- |
 | Mix de comunicação | Canais |
+| --- | --- |
+|  |  |
 | Digital | Website PNS. |
 |  | Websites institucionais (DGS, Governo/Ministério da Saúde). |
 |  | Redes Sociais de entidades parceiras (Ex: Direção-Geral da Saúde). |
@@ -1520,8 +1604,8 @@ Mix de comunicação
 |  | Flyers. |
 |  | Newsletter(s). |
 |  | Display Systems (parceiros). |
-| DGS - Direção-Geral da Saúde; PNS - Plano Nacional de Saúde. | DGS - Direção-Geral da Saúde; PNS - Plano Nacional de Saúde. |
-| Fonte: CECS/UM. | Fonte: CECS/UM. |
+| DGS - Direção-Geral da Saúde;<br>PNS - Plano Nacional de Saúde. |  |
+| Fonte: CECS/UM. |  |
 
 Em função da definição de aspetos mais concretos de implementação poderão ser identificados no mix de comunicação outras modalidades e canais adequados (Guias de comunicação - Plano Nacional de Saúde).
 
@@ -1535,21 +1619,21 @@ QUADRO 12
 
 Etapas e outputs (ações) de comunicação
 
-|  |  |  |
-| --- | --- | --- |
 | Etapa | Objetivo de comunicação | Output (ação) |
+| --- | --- | --- |
+|  |  |  |
 | Construção | Ativar e enraizar o sentimento de pertença | Criação da identidade de marca do PNS 2030. |
-|  | Mobilizar interna e externamente | Criação da identidade de marca do PNS 2030. |
+|  | Mobilizar interna e externamente |  |
 |  | Promover práticas de comunicação participativa e colaborativa. | Website PNS 2030. |
-|  | Ativar e enraizar o sentimento de pertença | Website PNS 2030. |
-|  | Partilhar conhecimento para resiliência comunitária | Website PNS 2030. |
+|  | Ativar e enraizar o sentimento de pertença |  |
+|  | Partilhar conhecimento para resiliência comunitária |  |
 |  | Criar a predisposição positiva para o entendimento da saúde pública como um compromisso social. | Vídeo de Apresentação PNS 2030 (Assessoria estratégica). |
-|  | Criar redes colaborativas e relações de confiança | Vídeo de Apresentação PNS 2030 (Assessoria estratégica). |
+|  | Criar redes colaborativas e relações de confiança |  |
 |  | Cocriar e implicar multistakeholders |  |
 |  | Mobilizar interna e externamente | Reuniões e contactos periódicos com os principais stakeholders (assessoria estratégica). |
-|  | Criar redes colaborativas e relações de confiança | Reuniões e contactos periódicos com os principais stakeholders (assessoria estratégica). |
-|  | Cocriar e implicar multistakeholders | Reuniões e contactos periódicos com os principais stakeholders (assessoria estratégica). |
-|  | Partilhar conhecimento para resiliência comunitária | Reuniões e contactos periódicos com os principais stakeholders (assessoria estratégica). |
+|  | Criar redes colaborativas e relações de confiança |  |
+|  | Cocriar e implicar multistakeholders |  |
+|  | Partilhar conhecimento para resiliência comunitária |  |
 | Lançamento | Informar sobre a existência do documento, bem como a sua natureza de base populacional e linhas de atuação. | Evento de lançamento (organização e assessoria). |
 |  | Criar a predisposição positiva para o entendimento da saúde como um compromisso social. |  |
 |  | Cocriar e implicar multistakeholders |  |
@@ -1557,22 +1641,22 @@ Etapas e outputs (ações) de comunicação
 |  | Informar sobre a existência do documento, bem como a sua natureza de base populacional e linhas de atuação. | Evento de lançamento (relações com os media) - press kit. |
 |  | Promover práticas de comunicação participativa e colaborativa. |  |
 | Implementação | Cocriar e implicar multistakeholders | Kit PNS - «aqui, implementamos o PNS todos os dias». |
-|  | Ativar e enraizar o sentimento de pertença | Kit PNS - «aqui, implementamos o PNS todos os dias». |
-|  | Criar redes colaborativas e relações de confiança | Kit PNS - «aqui, implementamos o PNS todos os dias». |
+|  | Ativar e enraizar o sentimento de pertença |  |
+|  | Criar redes colaborativas e relações de confiança |  |
 |  | Partilhar conhecimento para resiliência comunitária | Website (alimentação de conteúdos). |
-|  | Dar a conhecer o estado de saúde da população e as estratégias de intervenção selecionadas. | Website (alimentação de conteúdos). |
+|  | Dar a conhecer o estado de saúde da população e as estratégias de intervenção selecionadas. |  |
 |  | Criar a predisposição positiva para o entendimento da saúde pública como um compromisso social. | Eventos temáticos bilaterais (oportunidade de participação e estratégias de intervenção). |
-|  | Promover práticas de comunicação participativa e colaborativa através da participação. | Eventos temáticos bilaterais (oportunidade de participação e estratégias de intervenção). |
+|  | Promover práticas de comunicação participativa e colaborativa através da participação. |  |
 |  | Cocriar e implicar multistakeholders |  |
 |  | Mobilizar interna e externamente | Pontos de situação da evolução (valorização e responsabilização). |
-|  | Criar redes colaborativas e relações de confiança | Pontos de situação da evolução (valorização e responsabilização). |
-|  | Avaliar o progresso | Pontos de situação da evolução (valorização e responsabilização). |
-|  | Promover práticas de comunicação participativa e colaborativa. | Guia de Boas Práticas (comunicação e implementação) |
-|  | Cocriar e implicar multistakeholders | Guia de Boas Práticas (comunicação e implementação) |
-|  | Ativar e enraizar o sentimento de pertença | Guia de Boas Práticas (comunicação e implementação) |
 |  | Criar redes colaborativas e relações de confiança |  |
-| PNS - Plano Nacional de Saúde. | PNS - Plano Nacional de Saúde. | PNS - Plano Nacional de Saúde. |
-| Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/Universidade do Minho (UM). | Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/Universidade do Minho (UM). | Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/Universidade do Minho (UM). |
+|  | Avaliar o progresso |  |
+|  | Promover práticas de comunicação participativa e colaborativa. | Guia de Boas Práticas (comunicação e implementação) |
+|  | Cocriar e implicar multistakeholders |  |
+|  | Ativar e enraizar o sentimento de pertença |  |
+|  | Criar redes colaborativas e relações de confiança |  |
+| PNS - Plano Nacional de Saúde. |  |  |
+| Fonte: Centro de Estudos de Comunicação e Sociedade (CECS)/Universidade do Minho (UM). |  |  |
 
 ANEXOS
 
@@ -1662,29 +1746,29 @@ Legenda:
 
 ## ANEXO 2 — Indicadores e outros componentes relativos aos objetivos de saúde fixados no PNS 2030
 
-|  |  |  |  |  |  |  |  |
+| Indicadores dos objetivos relativos a: | Sexo | Último valor | Projeções PT 2030<br>(/10(elevado a 5) habitantes) | Quantificação objetivo (/10(elevado a 5) habitantes) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indicadores dos objetivos relativos a: | Sexo | Último valor | Último valor | Projeções PT 2030 (/10(elevado a 5) habitantes) | Projeções PT 2030 (/10(elevado a 5) habitantes) | Quantificação objetivo (/10(elevado a 5) habitantes) | Quantificação objetivo (/10(elevado a 5) habitantes) |
-| Indicadores dos objetivos relativos a: | Sexo | PT (/10(elevado a 5) habitantes) | Ano | Estimativa pontual | (IC 95 %) | Ano | Valor |
-| NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude | NS por problemas de saúde de elevada magnitude |
+| PT<br>(/10(elevado a 5) habitantes) | Ano | Estimativa<br>pontual | (IC 95 %) | Ano | Valor |  |  |
+|  |  |  |  |  |  |  |  |
+| NS por problemas de saúde de elevada magnitude |  |  |  |  |  |  |  |
 | Taxa de mortalidade padronizada por todas as causas de morte, inferior a 75 anos. | HM | 325,0 | 2019 | 315,0 | [250,5-391,1] | 2030 | 315,0 |
-| Taxa de mortalidade padronizada por todas as causas de morte, inferior a 75 anos. | H | 466,1 | 2019 | 458,0 | [366,3-565,6] | 2030 | 458,0 |
-|  | M | 204,7 | 2019 | 196,4 | [152,6-249,0] | 2030 | 196,4 |
+| H | 466,1 | 458,0 | [366,3-565,6] | 2030 | 458,0 |  |  |
+|  | M | 204,7 | 196,4 | [152,6-249,0] | 2030 | 196,4 |  |
 | Taxa de mortalidade padronizada por doenças do aparelho circulatório, todas as idades. | HM | 271,7 | 2019 | 246,5 | [164,0-356,4] | 2030 | 246,5 |
 | Taxa de mortalidade padronizada por doenças cerebrovasculares, todas as idades. | HM | 88,7 | 2019 | 58,9 | [37,7-87,9] | 2030 | 58,9 |
 | Taxa de mortalidade padronizada por doenças cerebrovasculares, inferior a 75 anos. | HM | 18,9 | 2019 | 13,4 | [7,8-21,4] | 2030 | 13,4 |
 | Taxa de mortalidade padronizada por doenças isquémicas do coração, todas as idades. | HM | 58,6 | 2019 | 41,8 | [28,8-58,7] | 2030 | 41,8 |
 | Taxa de mortalidade padronizada por doenças isquémicas do coração, inferior a 75 anos. | HM | 23,9 | 2019 | 20,5 | [12,5-31,9] | 2030 | 20,5 |
 | Taxa de mortalidade padronizada por tumores malignos, todas as idades. | HM | 242,6 | 2019 | 242,4 | [227,6-258,0] | 2030 | 242,4 |
-| Taxa de mortalidade padronizada por tumores malignos, todas as idades. | H | 347,6 | 2019 | 347,2 | [320,4-375,5] | 2030 | 347,2 |
-|  | M | 169,0 | 2019 | 161,2 | [132,5-194,2] | 2030 | 161,2 |
+| H | 347,6 | 347,2 | [320,4-375,5] | 2030 | 347,2 |  |  |
+|  | M | 169,0 | 161,2 | [132,5-194,2] | 2030 | 161,2 |  |
 | Taxa de mortalidade padronizada por tumores malignos, inferior a 75 anos. | HM | 136,9 | 2019 | 132,4 | [124,0-141,3] | 2030 | 132,4 |
-| Taxa de mortalidade padronizada por tumores malignos, inferior a 75 anos. | H | 187,6 | 2019 | 185,1 | [174,1-195,6] | 2030 | 185,1 |
-|  | M | 94,2 | 2019 | 89,0 | [83,4-94,9] | 2030 | 89,0 |
+| H | 187,6 | 185,1 | [174,1-195,6] | 2030 | 185,1 |  |  |
+|  | M | 94,2 | 89,0 | [83,4-94,9] | 2030 | 89,0 |  |
 | Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, todas as idades. | H | 72,1 | 2019 | 73,9 | [69,8-78,1] | 2030 | 73,9 |
-| Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, todas as idades. | M | 17,4 | 2019 | 23,2 | [18,3-29,0] | 2030 | 23,2 |
+| M | 17,4 | 23,2 | [18,3-29,0] | 2030 | 23,2 |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, inferior a 75 anos. | H | 49,8 | 2019 | 49,9 | [46,4-53,5] | 2030 | 49,9 |
-| Taxa de mortalidade padronizada por tumor maligno da laringe, traqueia, brônquios e pulmão, inferior a 75 anos. | M | 12,3 | 2019 | 16,2 | [12,1-21,2] | 2030 | 16,2 |
+| M | 12,3 | 16,2 | [12,1-21,2] | 2030 | 16,2 |  |  |
 | Taxa de mortalidade padronizada por tumor maligno da mama, todas as idades. | M | 27,7 | 2019 | 25,1 | [23,3-27,0] | 2030 | 25,1 |
 | Taxa de mortalidade padronizada por tumor maligno da mama, inferior a 75 anos. | M | 17,8 | 2019 | 15,5 | [14,2-16,8] | 2030 | 15,5 |
 | Taxa de mortalidade padronizada por doenças do aparelho respiratório, todas as idades. | HM | 98,6 | 2019 | 98,6 | [19,7-177,4] | 2030 | 98,6 |
@@ -1712,23 +1796,23 @@ VIH - vírus da imunodeficiência humana;
 
 /10(elevado a 5) habitantes - por 100.000 habitantes.
 
-|  |  |  |  |  |  |
+| Indicadores dos objetivos relativos a: | Sexo | Último valor | Quantificação objetivo |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Indicadores dos objetivos relativos a: | Sexo | Último valor | Último valor | Quantificação objetivo | Quantificação objetivo |
-| Indicadores dos objetivos relativos a: | Sexo | PT/NUTS II de valor menos favorável | Ano/ período de tempo | Ano/ período de tempo | Valor |
-| Problemas de saúde de baixa magnitude e elevado potencial de risco | Problemas de saúde de baixa magnitude e elevado potencial de risco | Problemas de saúde de baixa magnitude e elevado potencial de risco | Problemas de saúde de baixa magnitude e elevado potencial de risco | Problemas de saúde de baixa magnitude e elevado potencial de risco | Problemas de saúde de baixa magnitude e elevado potencial de risco |
+| PT/NUTS II de valor<br>menos favorável | Ano/<br>período de tempo | Ano/<br>período de tempo | Valor |  |  |
+|  |  |  |  |  |  |
+| Problemas de saúde de baixa magnitude e elevado potencial de risco |  |  |  |  |  |
 | Taxa de mortalidade materna (por 100 000 nados-vivos) | M | 13,5 | 2017-2019 | 2028-2030 | 7,1 |
 | Taxa de mortalidade neonatal (por 1000 nados-vivos) | HM | 1,9 | 2018-2020 | 2028-2030 | 1,1 |
 | Taxa de mortalidade infantil (por 1000 nados-vivos) | HM | 2,9 | 2018-2020 | 2028-2030 | 2,5 |
 | Taxa de mortalidade em crianças com menos de 5 anos (por 1000 nados-vivos) | HM | 3,0 | 2020 | 2030 | 2,6 |
-| Proporção de nascimentos assistidos por pessoal de saúde qualificado (%) | HM | 98,6/98,0 (PT/AML) | 2020 | 2030 | 99,5 |
+| Proporção de nascimentos assistidos por pessoal de saúde qualificado (%) | HM | 98,6/98,0<br>(PT/AML) | 2020 | 2030 | 99,5 |
 | Número absoluto de casos de sífilis congénita | HM | 7 | 2018 | 2030 | 0 |
 | Número absoluto de casos autóctones de sarampo | HM |  |  | 2030 | 0 |
 | Número absoluto de casos de tétano neonatal | HM | 0 | 2018 | 2030 | 0 |
 | Número absoluto de casos de rubéola congénita | HM | 0 | 2018 | 2030 | 0 |
-| Indicador de água segura (%) |  | 98,8/98,2 (PT/RAM) | 2020 | 2030 | 99,0 |
+| Indicador de água segura (%) |  | 98,8/98,2<br>(PT/RAM) | 2020 | 2030 | 99,0 |
 | Proporção de alojamentos servidos por drenagem de águas residuais (%) |  | n.d./67,5 (PT/RAM) | 2019 | 2030 | 98,0 |
-| Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. | Legenda: AML - Área Metropolitana de Lisboa; H - sexo masculino; HM - sexos feminino e masculino; M - sexo feminino; n.d. - não disponível; NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2; PT - Portugal; RAM - Região Autónoma da Madeira. |
+| Legenda:<br>AML - Área Metropolitana de Lisboa;<br>H - sexo masculino;<br>HM - sexos feminino e masculino;<br>M - sexo feminino;<br>n.d. - não disponível;<br>NUTS II - Nomenclatura das Unidades Territoriais para Fins Estatísticos - nível 2;<br>PT - Portugal;<br>RAM - Região Autónoma da Madeira. |  |  |  |  |  |
 
 ## ANEXO 3 — Documentos de enquadramento do PNS 2030
 
@@ -1737,7 +1821,7 @@ VIH - vírus da imunodeficiência humana;
 |  |  |
 | --- | --- |
 | World Health Organization. WHO Framework Convention on Tobacco Control (2003, updated reprint 2004, 2005). | The WHO FCTC was developed in response to the globalization of the tobacco epidemic. The spread of the tobacco epidemic is facilitated through a variety of complex factors with cross-border effects, including trade liberalization and direct foreign investment. Other factors such as global marketing, transnational tobacco advertising, promotion and sponsorship, and the international movement of contraband and counterfeit cigarettes have also contributed to the explosive increase in tobacco use. |
-| Permanent Mission of Ireland to the OSCE - Dublin Declaration on Partnership to fight HIV/AIDS in Europe and Central Asia - Conference held in Dublin on 23-24 February. - "Breaking the Barriers - Partnership to fight HIV/AIDS in Europe and Central Asia" - 2004. | The Dublin Declaration on Partnership to fight HIV/AIDS in Europe and Central Asia adopted in 2004, was the first in a series of regional declarations which emphasised HIV as an important political priority for the countries of Europe and Central Asia. Following the UNAIDS mandate to report annually on the progress, it was agreed that ECDC from 2019 onwards monitors the HIV response of EU/EEA countries annually, but with a significantly reduced questionnaire in alternate years. |
+| Permanent Mission of Ireland to the OSCE - Dublin Declaration on Partnership to fight HIV/AIDS in Europe and Central Asia - Conference held in Dublin on 23-24 February. - "Breaking the Barriers - Partnership to fight HIV/AIDS in Europe and Central Asia" - 2004. | The Dublin Declaration on Partnership to fight HIV/AIDS in Europe and Central Asia adopted in 2004, was the first in a series of regional declarations which emphasised HIV as an important political priority for the countries of Europe and Central Asia.<br>Following the UNAIDS mandate to report annually on the progress, it was agreed that ECDC from 2019 onwards monitors the HIV response of EU/EEA countries annually, but with a significantly reduced questionnaire in alternate years. |
 | World Health Organization. Global action plan for the prevention and control of noncommunicable diseases 2013-2020. WHO; 2013. | The WHO Global NCD Action Plan 2013-2020 follows on from commitments made by Heads of State and Government in the United Nations Political Declaration on the Prevention and Control of NCDs (resolution A/RES/66/2), recognizing the primary role and responsibility of Governments in responding to the challenge of NCDs and the important role of international cooperation to support national efforts. |
 | World Health Organization. Noncommunicable Diseases Global Monitoring Framework: Indicator Definitions and Specifications. WHO; 2013. | In May 2013 the 66th World Health Assembly adopted the comprehensive global monitoring framework (GMF) for the prevention and control of noncommunicable diseases. The Global Monitoring Framework included a set of indicators capable of application across regions and country settings to monitor trends and assess progress made in the implementation of national strategies and plans on noncommunicable diseases. |
 | World Health Organization. European Food and Nutrition: Action Plan 2015-2020. WHO Regional Office for Europe; 2014. | The intention of the Action Plan is to significantly reduce the burden of preventable diet-related noncommunicable diseases, obesity and all other forms of malnutrition still prevalent in the WHO European Region. It calls for action through a whole-ofgovernment, health-in-all-policies approach. Its priority actions will contribute to improving food system governance and the overall quality of the European population's diet and nutritional status. |
@@ -1748,7 +1832,7 @@ VIH - vírus da imunodeficiência humana;
 | UNESCO - International Charter of Physical Education, Physical Activity and Sport. | Adopted at the 20th session of the UNESCO's General Conference (1978), the original Charter was perceived as innovative at the time - as it was the first rights-based document to state that "the practice of physical education and sport is a fundamental right for all". Based on the universal spirit of the original Charter and integrating the significant evolutions in the field of sport since 1978, the revised International Charter of Physical Education, Physical Activity and Sport was adopted during UNESCO's 38th session of the General Conference (November 2015). The revised Charter introduces universal principles such as gender equality, non-discrimination and social inclusion in and through sport. It also highlights the benefits of physical activity, the sustainability of sport, the inclusion of persons with disabilities and the protection of children. |
 | Tartu Call for a Healthy Lifestyle | In September 2017 the Commission launched the Tartu call for a healthy lifestyle. The Tartu call aims to promote healthy lifestyles in Europe, in particular among children. |
 | Recomendação do Conselho de 26 de novembro de 2013 relativa à promoção transetorial das atividades físicas benéficas para a saúde. | Recomenda aos Estados-Membros, o desenvolvimento de políticas eficazes no domínio da HEPA, adotando uma abordagem transetorial que envolva domínios de intervenção como o desporto, a saúde, a educação, o ambiente e os transportes, tendo em conta as OR UE AF, bem como outros setores relevantes e de acordo com as especificidades nacionais. |
-| United Nations. Declaração política da 3.ª Reunião de Alto Nível da Assembleia Geral sobre a Prevenção e Controlo das Doenças Não Transmissíveis: resolução/aprovada pela Assembleia Geral. UN; 2018. | Political declaration of the third high-level meeting of the General Assembly on the prevention and control of non-communicable diseases. Time to deliver: accelerating our response to address non-communicable diseases for the health and well-being of present and future generations. |
+| United Nations. Declaração política da 3.ª Reunião de Alto Nível da Assembleia Geral sobre a Prevenção e Controlo das Doenças Não Transmissíveis: resolução/aprovada pela Assembleia Geral. UN; 2018. | Political declaration of the third high-level meeting of the General Assembly on the prevention and control of non-communicable diseases.<br>Time to deliver: accelerating our response to address non-communicable diseases for the health and well-being of present and future generations. |
 | World Health Organization. Time to deliver: report of the WHO Independent high-level commission on noncommunicable diseases. World Health Organization; 2018. | The recommendations in this report are intended for Heads of State and Government and policymakers across government sectors, as well as other stakeholders, and as input towards the third High-level Meeting of the UN General Assembly on NCDs. |
 | World Health Organization. Declaration of Astana. World Health Organization; 2018. | Declaration of Astana on Primary Health care: From Alma-Ata towards universal health coverage and the Sustainable Development Goals. |
 | Mendenhall E, Singer M. The global syndemic of obesity, undernutrition, and climate change. - Lancet 2019; 393: 791-846 Published Online January 27, 2019. | «Obesity, undernutrition, and climate change-represent The Global Syndemic that affects most people in every country and region worldwide. They constitute a syndemic, or synergy of epidemics, because they co-occur in time and place, interact with each other to produce complex sequelae, and share common underlying societal drivers». |
@@ -1758,7 +1842,7 @@ VIH - vírus da imunodeficiência humana;
 | International Organization for Migration (IOM), 2019. Migration Governance Indicators: A Global Perspective. IOM. Geneva. | The MGI was developed when countries around the world agreed to work towards the achievement of 17 Sustainable Development Goals (SDGs) and 169 SDG targets, including many important references to migration. The SDGs' central reference to migration is in Target 10.7, which calls upon all countries to facilitate orderly, safe, regular and responsible migration and the mobility of people, including through the implementation of planned and well-managed migration policies. |
 | Comissão Europeia - Pacto Ecológico Europeu, 2019. | Este pacto redefine o compromisso da Comissão de enfrentar os desafios climáticos e ambientais, tarefa determinante desta geração. Trata-se de uma nova estratégia de crescimento que visa transformar a UE numa sociedade equitativa e próspera, dotada de uma economia moderna, eficiente na utilização dos recursos e competitiva, que, em 2050, tenha zero emissões líquidas de gases com efeito de estufa e em que o crescimento económico esteja dissociado da utilização dos recursos. |
 | European Union - From farm to fork: the European Green Deal, 2020. | At the heart of the Green Deal the Biodiversity and Farm to Fork strategies point to a new and better balance of nature, food systems and biodiversity; to protect our people's health and well-being, and at the same time to increase the EU's competitiveness and resilience. |
-| Marmot M, Allen J, Goldblatt P, Herd E, Morrisonbuild J. Build Back Fairer: The COVID-19 Marmot Review: The pandemic, socioeconomic and health inequalities in England. Institute of Health Equity; 2020. | Build Back Better has become the mantra. Important, but we need to Build Back Fairer. The levels of social, environmental and economic inequality in society are damaging health and well-being. As the UK emerges from the pandemic it would be a tragic mistake to attempt to re-establish the status quo that existed before the pandemic - a status quo marked in England, over the past decade, by stagnation of health improvement that was the second worst in Europe and widening health inequalities. |
+| Marmot M, Allen J, Goldblatt P, Herd E, Morrisonbuild J.<br>Build Back Fairer: The COVID-19 Marmot Review: The pandemic, socioeconomic and health inequalities in England. Institute of Health Equity; 2020. | Build Back Better has become the mantra. Important, but we need to Build Back Fairer. The levels of social, environmental and economic inequality in society are damaging health and well-being. As the UK emerges from the pandemic it would be a tragic mistake to attempt to re-establish the status quo that existed before the pandemic - a status quo marked in England, over the past decade, by stagnation of health improvement that was the second worst in Europe and widening health inequalities. |
 | Clark H, Coll-Seck et al. A future for the world's children? A WHO-UNICEF-Lancet Commission. UNICEF; 2020. | Despite dramatic improvements in survival, nutrition, and education over recent decades, today's children face an uncertain future. Climate change, ecological degradation, migrating populations, conflict, pervasive inequalities, and predatory commercial practices threaten the health and future of children in every country. In 2015, the world's countries agreed on the Sustainable Development Goals (SDGs), yet nearly 5 years later, few countries have recorded much progress towards achieving them. This Commission presents the case for placing children, aged 0-18 years, at the centre of the SDGs: at the heart of the concept of sustainability and our shared human endeavour. |
 | United Nations General Assembly - United Nations Decade of Healthy Ageing (2021-2030). Resolution adopted by the General Assembly - 44th plenary meeting 14 December 2020. | Decides to proclaim 2021-2030 the United Nations Decade of Healthy Ageing, within existing structures and available resources to provide a work programme with voluntary policy options and strategies for use by Governments and other stakeholders, as appropriate, and notes that this is a living document developed through an inclusive, continuous and collaborative process. |
 | IPCC, 2021: Climate Change, 2021: The physical science basis. Technical Summary. The Working Group I (WGI) contribution to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6) assesses the physical science basis of climate change. | The Technical Summary provides a synthesis of the key findings of the Report and serves as a bridge between the Summary for Policymakers and the chapters of the full report. |
@@ -1769,7 +1853,7 @@ VIH - vírus da imunodeficiência humana;
 | World Health Organization. Drawing light from the pandemic: A new strategy for health and sustainable development. WHO Regional Office for Europe; 2021 Set. | Over the past year, members of the Commission have reflected on what worked and, more often, what did not work in the COVID-19 response and in previous crises. In the Call to Action that we issued in March 2021 and in this final report, we have made a series of recommendations with the aim of achieving seven key objectives to prevent a catastrophe on the same scale from happening again. |
 | UHC2030 2021. State of commitment to universal health coverage: Synthesis 2021 | UHC2030's mission is to create a movement for accelerating equitable and sustainable progress towards universal health coverage (UHC). |
 | Conselho União Europeia. Recomendação do Concelho (UE) 2021/1004 garantia europeia para crianças. UE; 2021 Jun. | This annotated outline aims to provide more detailed information on the content and structure of the National Action Plan (NAP) in order to support Member States, in particular the Child Guarantee coordinators, in the preparation of their NAPs. It follows the scope of the Council Recommendation (EU) 2021/1004 of 14 June 2021 establishing a European Child Guarantee. |
-| Joint United Nations Programme on HIV/AIDS (UNAIDS) End Inequalities. End AIDS. Global AIDS Strategy 2021-2026 - 2021. | End Inequalities. End AIDS. Global AIDS Strategy 2021-2026 is a bold new approach to use an inequalities lens to close the gaps that are preventing progress towards ending AIDS. The Global AIDS Strategy aims to reduce these inequalities that drive the AIDS epidemic and prioritize people who are not yet accessing life-saving HIV services. The Strategy sets out evidence-based priority actions and bold targets to get every country and every community on-track to end AIDS as a public health threat by 2030. |
+| Joint United Nations Programme on HIV/AIDS (UNAIDS)<br>End Inequalities. End AIDS. Global AIDS Strategy 2021-2026 - 2021. | End Inequalities. End AIDS. Global AIDS Strategy 2021-2026 is a bold new approach to use an inequalities lens to close the gaps that are preventing progress towards ending AIDS. The Global AIDS Strategy aims to reduce these inequalities that drive the AIDS epidemic and prioritize people who are not yet accessing life-saving HIV services. The Strategy sets out evidence-based priority actions and bold targets to get every country and every community on-track to end AIDS as a public health threat by 2030. |
 | United Nations General Assembly - 2021 - Political Declaration on HIV and AIDS: Ending Inequalities and Getting on Track to End AIDS by 2030. | United Nations Member States adopted this political declaration at the United Nations General Assembly High-Level Meeting on AIDS. If the international community reaches the targets, 3.6 million new HIV-infections and 1.7 million AIDS-related deaths will be prevented by 2030. |
 | IPCC Sixth Assessment Report - Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers. | The Working Group II contribution to the IPCC Sixth Assessment Report assesses the impacts of climate change, looking at ecosystems, biodiversity, and human communities at global and regional levels. It also reviews vulnerabilities and the capacities and limits of the natural world and human societies to adapt to climate change. |
 
@@ -1777,19 +1861,19 @@ VIH - vírus da imunodeficiência humana;
 
 |  |  |
 | --- | --- |
-| Estratégia Portugal 2030 - [Resolução do Conselho de Ministros n.º 98/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2020-148444002), de 13 de novembro. | A Estratégia Portugal 2030 constitui a referência principal de planeamento das políticas públicas de promoção do desenvolvimento económico e social do país. Está estruturada em torno de quatro agendas temáticas centrais para o desenvolvimento da economia, da sociedade e do território de Portugal no horizonte de 2030. A Estratégia Portugal 2030 destaca a resiliência do sistema de saúde como um domínio estratégico da agenda 1 «as pessoas primeiro: um melhor equilíbrio demográfico, maior inclusão, menos desigualdade». |
+| Estratégia Portugal 2030 - [Resolução do Conselho de Ministros n.º 98/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2020-148444002), de 13 de novembro. | A Estratégia Portugal 2030 constitui a referência principal de planeamento das políticas públicas de promoção do desenvolvimento económico e social do país. Está estruturada em torno de quatro agendas temáticas centrais para o desenvolvimento da economia, da sociedade e do território de Portugal no horizonte de 2030.<br>A Estratégia Portugal 2030 destaca a resiliência do sistema de saúde como um domínio estratégico da agenda 1 «as pessoas primeiro: um melhor equilíbrio demográfico, maior inclusão, menos desigualdade». |
 | Estratégia Nacional para a Integração das Comunidades Ciganas 2013-2022 - [Resolução do Conselho de Ministros n.º 154/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2018-117142874), de 29 de novembro. | Visa a eliminação das barreiras à plena participação cidadã e inclusão social de pessoas das comunidades ciganas, assumindo como central a eliminação dos estereótipos que estão na base de discriminações diretas e indiretas em razão da origem racial e étnica. |
-| Grupo de Trabalho de Educação para a Cidadania - [Despacho n.º 6173/2016](https://diariodarepublica.pt/dr/detalhe/despacho/6173-2016-74377024), publicado no Diário da República, 2.ª série, n.º 90, de 10 de maio de 2016. Estratégia Nacional de Educação para a Cidadania. | A Estratégia Nacional de Educação para a Cidadania (ENEC) integra um conjunto de direitos e deveres que devem estar presentes na formação cidadã das crianças e dos jovens portugueses, para que no futuro sejam adultos e adultas com uma conduta cívica que privilegie a igualdade nas relações interpessoais, a integração da diferença, o respeito pelos Direitos Humanos e a valorização de conceitos e valores de cidadania democrática. |
+| Grupo de Trabalho de Educação para a Cidadania - [Despacho n.º 6173/2016](https://diariodarepublica.pt/dr/detalhe/despacho/6173-2016-74377024), publicado no Diário da República, 2.ª série, n.º 90, de 10 de maio de 2016.<br>Estratégia Nacional de Educação para a Cidadania. | A Estratégia Nacional de Educação para a Cidadania (ENEC) integra um conjunto de direitos e deveres que devem estar presentes na formação cidadã das crianças e dos jovens portugueses, para que no futuro sejam adultos e adultas com uma conduta cívica que privilegie a igualdade nas relações interpessoais, a integração da diferença, o respeito pelos Direitos Humanos e a valorização de conceitos e valores de cidadania democrática. |
 | Plano ação economia circular - [Resolução do Conselho de Ministros n.º 190-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-a-2017-114337039), de 11 de dezembro. | A economia circular, é um conceito estratégico que assenta na prevenção, redução, reutilização, recuperação e reciclagem de materiais e energia. Substituindo o conceito de «fim-de-vida» da economia linear por novos fluxos circulares de reutilização, restauração e renovação, num processo integrado, a economia circular é vista como um elemento-chave para promover a dissociação entre o crescimento económico e o aumento no consumo de recursos. |
 | Gosseries A. Desafios sobre Justiça Intergeracional. Fundação Calouste Gulbenkian; 2018. | Todos os seres humanos - no passado, presente, ou futuro - merecem que a sua dignidade seja protegida e respeitada. Por outras palavras, o princípio de igual dignidade dos seres humanos deve aplicar-se não apenas aos homens e mulheres que vivem hoje, mas também aos que virão a existir. |
 | Estratégia Nacional de Educação para o Desenvolvimento 2018-2022. [Resolução do Conselho de Ministros n.º 94/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2018-115698904), de 16 de julho. | A ENED 2018-2022 vai ainda ao encontro das responsabilidades assumidas por Portugal no quadro da União Europeia (UE). O Novo Consenso Europeu sobre o Desenvolvimento «O Nosso Mundo, a Nossa Dignidade, o Nosso Futuro», aprovado pelo Parlamento Europeu, pela Comissão Europeia, pelo Conselho e pelos Estados-Membros, em 7 de junho de 2017, prevê que a UE e os seus Estados -Membros devam apoiar as Organizações da Sociedade Civil (OSC) enquanto «promotores, executantes e agentes da mudança no âmbito da sensibilização e da Educação para o Desenvolvimento». |
 | Estratégia Nacional para a Igualdade e a Não Discriminação 2018-2030 - [Resolução do Conselho de Ministros n.º 61/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2018-115360036), de 21 de maio. | Reconhecimento da igualdade e da não discriminação como condição para a construção de um futuro sustentável para Portugal, enquanto país que realiza efetivamente os direitos humanos e assegura plenamente a participação de todas e de todos. Neste âmbito, a Estratégia Nacional para a Igualdade e a Não Discriminação - Portugal + Igual (ENIND), alinhada temporal e substantivamente com a Agenda 2030, é apoiada em três planos de ação que definem objetivos estratégicos e específicos em matéria de não discriminação em razão do sexo e igualdade entre mulheres e homens (IMH), de prevenção e combate a todas as formas de violência contra as mulheres, violência de género e violência doméstica (VMVD), e de combate à discriminação em razão da orientação sexual, identidade e expressão de género, e características sexuais (OIEC). Estes planos de ação definem, ainda, as medidas concretas a prosseguir no primeiro período de execução de quatro anos até 2021, a que se deverá seguir o processo de revisão e redefinição para o período seguinte de quatro anos, e assim sucessivamente. |
 | Estratégia da Saúde na Área das Demências - [Despacho n.º 5988/2018](https://diariodarepublica.pt/dr/detalhe/despacho/5988-2018-115533450), publicado no Diário da República, 2.ª série, n.º 116, de 19 de junho de 2018. | O documento discute, na linha das propostas internacionais, os pontos principais de uma estratégia da saúde para as demências em Portugal, bem como uma ordem de prioridade para estes pontos. Pretende-se colmatar uma lacuna existente em Portugal e criar condições para que se possam desenvolver políticas públicas no âmbito da saúde, traduzidas em planos e ações coerentes, nomeadamente através de um futuro Plano da Saúde para as Demências em Portugal. |
-| Plano Nacional de Implementação do Pacto Global das Migrações. [Resolução do Conselho de Ministros n.º 141/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2019-124044668), de 20 de agosto. | Aprovado pela Assembleia-Geral das Nações Unidas em dezembro de 2018, o Pacto Global para as Migrações, Seguras Ordenadas e Regulares das Nações Unidas exorta os Estados signatários a desenhar Planos Nacionais adaptados à sua realidade migratória. Portugal foi o primeiro país das Nações Unidas a elaborar um Plano Nacional de Implementação do Pacto Global das Migrações (PNIPGM), o qual entrou em vigor em 21 de agosto de 2019, com a publicação da [Resolução do Conselho de Ministros n.º 141/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2019-124044668), de 20 de agosto. O PNIPGM preconiza uma abordagem holística das migrações, pelo que envolve todos os níveis da Administração Pública, bem como a Sociedade Civil. As 97 medidas do Plano Nacional implementam os 23 objetivos do Pacto, os quais, por sua vez, prosseguem os 10 princípios orientadores do Pacto Global para as Migrações, Seguras Ordenadas e Regulares das Nações Unidas. |
+| Plano Nacional de Implementação do Pacto Global das Migrações. [Resolução do Conselho de Ministros n.º 141/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2019-124044668), de 20 de agosto. | Aprovado pela Assembleia-Geral das Nações Unidas em dezembro de 2018, o Pacto Global para as Migrações, Seguras Ordenadas e Regulares das Nações Unidas exorta os Estados signatários a desenhar Planos Nacionais adaptados à sua realidade migratória.<br>Portugal foi o primeiro país das Nações Unidas a elaborar um Plano Nacional de Implementação do Pacto Global das Migrações (PNIPGM), o qual entrou em vigor em 21 de agosto de 2019, com a publicação da [Resolução do Conselho de Ministros n.º 141/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2019-124044668), de 20 de agosto.<br>O PNIPGM preconiza uma abordagem holística das migrações, pelo que envolve todos os níveis da Administração Pública, bem como a Sociedade Civil. As 97 medidas do Plano Nacional implementam os 23 objetivos do Pacto, os quais, por sua vez, prosseguem os 10 princípios orientadores do Pacto Global para as Migrações, Seguras Ordenadas e Regulares das Nações Unidas. |
 | Carta para a Participação Pública em Saúde - aprovada como anexo i, à [Lei n.º 108/2019](https://diariodarepublica.pt/dr/detalhe/lei/108-2019-124539903), de 9 de setembro. | A Carta para a Participação Pública em Saúde pretende fomentar a participação por parte das pessoas, com ou sem doença e seus representantes, nas decisões que afetam a saúde da população, e incentivar a tomada de decisão em saúde assente numa ampla participação pública. A Carta pretende ainda promover e consolidar a participação pública a nível político e dos diferentes órgãos e entidades do Estado, em Portugal, através do aprofundamento dos processos de participação já existentes e da criação de novos espaços e mecanismos participativos. |
 | Plano Nacional Energia e Clima 2030 (PNEC 2030) - [Resolução do Conselho de Ministros n.º 53/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2020-137618093), de 10 de julho. | O PNEC inclui uma caracterização da situação existente em Portugal em matéria de Energia e Clima, abrangendo as cinco dimensões do [Regulamento (UE) 2018/1999](http://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018: descarbonização, eficiência energética, segurança de abastecimento, mercado interno da energia e investigação, inovação e competitividade, bem como a definição dos contributos nacionais e políticas e medidas planeadas para o cumprimento dos diferentes compromissos globais da União, incluindo em termos de redução de emissões de gases com efeito de estufa, energias renováveis, eficiência energética e interligações. |
-| Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo (ENIPSSA): Prevenção, Intervenção e Acompanhamento, 2017-2023 - [Resolução do Conselho de Ministros n.º 107/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2017-107745746), de 25 de julho, e [Resolução do Conselho de Ministros n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2020-128326623), de 21 de janeiro. | 2017 - A ENIPSSA 2017-2023 assenta em três objetivos estratégicos, que visam a promoção do conhecimento do fenómeno das pessoas em situação de sem-abrigo, informação, sensibilização e educação, o reforço de uma intervenção promotora da integração das pessoas em situação de sem-abrigo, bem como a sua coordenação, monitorização e avaliação. 2020 - O gestor executivo coordena o Grupo de Implementação, Monitorização e Avaliação da Estratégia (GIMAE) e o Núcleo Executivo do GIMAE, assegura a articulação entre os diversos órgãos e estruturas da ENIPSSA 2017-2023, o acompanhamento, monitorização, agilização e prossecução dos objetivos, recursos e estratégias na implementação de medidas de política e de intervenção para as pessoas em situação de sem-abrigo, designadamente as previstas nos Planos de Ação bienais. |
-| Estratégia Nacional para os Direitos da Criança (ENDC) - 2021-2024. [Resolução do Conselho de Ministros n.º 112/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2020-151557423), de 18 de dezembro. | A ENDC 2021-2024 assenta em cinco áreas estratégicas, configuradas em cinco prioridades que se desenvolvem em objetivos estratégicos: I - Promover o bem-estar e a igualdade de oportunidades; II - Apoiar as famílias e a parentalidade; III - Promover o acesso à informação e à participação das crianças e jovens; IV - Prevenir e combater a violência contra crianças e jovens; V - Promover a produção de instrumentos e de conhecimento científico potenciadores de uma visão global dos direitos das crianças e jovens. |
+| Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo (ENIPSSA): Prevenção, Intervenção e Acompanhamento, 2017-2023 - [Resolução do Conselho de Ministros n.º 107/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2017-107745746), de 25 de julho, e [Resolução do Conselho de Ministros n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2020-128326623), de 21 de janeiro. | 2017 - A ENIPSSA 2017-2023 assenta em três objetivos estratégicos, que visam a promoção do conhecimento do fenómeno das pessoas em situação de sem-abrigo, informação, sensibilização e educação, o reforço de uma intervenção promotora da integração das pessoas em situação de sem-abrigo, bem como a sua coordenação, monitorização e avaliação.<br>2020 - O gestor executivo coordena o Grupo de Implementação, Monitorização e Avaliação da Estratégia (GIMAE) e o Núcleo Executivo do GIMAE, assegura a articulação entre os diversos órgãos e estruturas da ENIPSSA 2017-2023, o acompanhamento, monitorização, agilização e prossecução dos objetivos, recursos e estratégias na implementação de medidas de política e de intervenção para as pessoas em situação de sem-abrigo, designadamente as previstas nos Planos de Ação bienais. |
+| Estratégia Nacional para os Direitos da Criança (ENDC) - 2021-2024. [Resolução do Conselho de Ministros n.º 112/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2020-151557423), de 18 de dezembro. | A ENDC 2021-2024 assenta em cinco áreas estratégicas, configuradas em cinco prioridades que se desenvolvem em objetivos estratégicos:<br>I - Promover o bem-estar e a igualdade de oportunidades; II - Apoiar as famílias e a parentalidade; III - Promover o acesso à informação e à participação das crianças e jovens; IV - Prevenir e combater a violência contra crianças e jovens; V - Promover a produção de instrumentos e de conhecimento científico potenciadores de uma visão global dos direitos das crianças e jovens. |
 | Agenda da juventude para a saúde 2030. Conselho Nacional de Saúde, 2021. | A saúde das crianças e jovens é, não só um direito humano como um recurso fundamental para uma sociedade mais saudável e justa - agora e no futuro. Esta Agenda centra-se nas áreas que as crianças e jovens inquiridos consideraram prioritárias para a sua saúde na próxima década. |
 | Plano Nacional de Combate ao Racismo e à Discriminação 2021-2025 - Portugal contra o racismo - [Resolução do Conselho de Ministros n.º 101/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2021-168475294), de 28 de julho. | Tem como objetivo a promoção da igualdade, o combate ao racismo e à discriminação racial considerada, nos termos do artigo 1.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, como «qualquer distinção, exclusão, restrição ou preferência fundada na raça, cor, ascendência ou origem nacional ou étnica que tenha como objetivo ou efeito destruir ou comprometer o reconhecimento, o gozo ou o exercício, em condições de igualdade, dos direitos humanos e das liberdades fundamentais nos domínios político, económico, social e cultural ou em qualquer outro domínio da vida pública». |
 | Recomenda ao Governo medidas de prevenção, tratamento e combate à obesidade - [Resolução da Assembleia da República n.º 195/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/195-2021-166658184), de 8 de julho. | Recomenda ao Governo medidas de prevenção, tratamento e combate à obesidade. |
@@ -1797,3 +1881,5 @@ VIH - vírus da imunodeficiência humana;
 | Estratégia Nacional para Inclusão das Pessoas com Deficiência 2021-2025 - 2021. | A ENIPD 2021-2025 orienta-se pelos princípios fundamentais de respeito e garantia da dignidade humana da pessoa com deficiência, da sua autonomia, independência e autodeterminação, da participação em todos os domínios da vida, da promoção da igualdade e não discriminação nas suas diversas dimensões, incluindo discriminações múltiplas e pelo respeito pela diferença e diversidade. |
 | Estratégia Nacional de Combate à Pobreza 2021-2030. [Resolução do Conselho de Ministros n.º 184/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/184-2021-176714553), de 29 de dezembro. | Instrumento de política pública, com um conjunto de ações coerentes e articuladas, que permitam reduzir de forma expressiva a incidência da pobreza. Os impactos socioeconómicos da pandemia, de magnitude ainda incerta, renovaram e reforçaram a pertinência da existência deste instrumento. |
 | Estudo do impacto da pandemia COVID-19 na prática de atividade física e desportiva da população portuguesa durante os períodos de isolamento social 2020-2021, do Instituto Português do Desporto e Juventude, I. P. (IPDJ). | Este estudo, realizado pelo IPDJ, I. P. analisa o impacto significativo, causado pela pandemia COVID-19, na diminuição da prática de atividade física e desportiva da população portuguesa, através de indicadores de prática de atividade física e desportiva e as suas determinantes. Esta análise permite aprofundar o conhecimento sobre o impacto da pandemia e disponibilizar evidência científica que suporte o desenvolvimento de medidas ajustadas. |
+
+116538251

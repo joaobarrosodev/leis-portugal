@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/476/1996/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-1996-219938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d6c36f2316e8c1c69c0036b118f66376d3b3d8e97b8a5e880ac061aaff345fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0cd7052ae66e74dc37f578baa046277f64589ebf1bfcdd6a98a7d89317e5501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Cartão de Identificação
+- Investigador
 - Ministério da Defesa Nacional
-- Pessoal Dirigente
 - Pessoal de Gabinete
 - Pessoal de Inspecção
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:633280:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633280:por
+  label: "Alterado o nº 2º pela PORT.904/2003.2003.08.28.MDN DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/904-2003-633280
+  date: '2003-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1995/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1995/06/09/p/dre
+- type: cites
+  target: pt:dre:443129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517788:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:33Z'
   warnings: []
   errors: []
 ---
@@ -131,18 +144,18 @@ Modelo 2 - para uso do restante pessoal dos serviços do Ministério da Defesa N
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Julho de 1996.**
+Assinada em 10 de Julho de 1996.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO I — Modelo de cartão de identificação
 
 Membros dos gabinetes e pessoal dirigente de inspecção e de investigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf))](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)
 
 ## ANEXO II — Modelo de cartão de identificação
 
 Restante pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf))](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)

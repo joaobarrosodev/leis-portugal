@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/1996/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1996-555420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb81f132cbabcb20c7efcd508dbe6bc46c12fd27c2b661461449a57b8ec8f806
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7321786fdfdeaa667edeb598476d6a3b4116acdbb573b7a416c992b2848036ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cooperação Interempresas
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comércio
+- Cooperação Interempresas
 - JURO Bonificado
 - Procom
-- Comércio
+- Projeto de Investimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/33/1996/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33/1996/04/03/p/dre
+- type: cites
+  target: pt:dre:558992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:27Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +110,10 @@ Manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administra�
 
 Ministérios do Equipamento, do Planeamento e da Administração do Território e da Economia.
 
-**Assinada em 19 de Março de 1996.**
+Assinada em 19 de Março de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Daniel Bessa Fernandes Coelho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Economia, Daniel Bessa Fernandes Coelho.
 
 ## ANEXO — Pontuações da relevância comercial e correspondente percentagem das aplicações relevantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/085b00/07600760.pdf))](https://files.diariodarepublica.pt/1s/1996/04/085b00/07600760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07600760.pdf)

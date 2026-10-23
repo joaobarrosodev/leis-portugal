@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/2015/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2015-69879422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bd0fe66742317c6431b1c28b1cb2144786978109c09b600016de3898c6787dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fced55c9f3f4c0e14c46d0503851908636980fc84343a4186323c3faf94d1a5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Energia
+- Agência Portuguesa do Ambiente
 - Aquisição de Bens e Serviços
 - Conselho de Ministros
 - Definição de Competências
 - Despesas Públicas
+- Direção Geral de Energia e Geologia
+- Eficiência Energética
+- Energia
+- Entidade de Serviços Partilhados da Administração Pública
 - Fundo de Eficiência Energética
 - Fundo Português de Carbono
-- Direção Geral de Energia e Geologia
 - Instituto da Mobilidade e dos Transportes
-- Entidade de Serviços Partilhados da Administração Pública
-- Proteção do Ambiente
-- Energia
-- Eficiência Energética
-- Veículo do Estado
 - PORTUGAL 2020
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
+- Veículo do Estado
 relationships:
 - type: cites
   target: celex:32009L0033
@@ -90,6 +90,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/140/2010/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/140/2010/12/29/p/dre
+- type: cites
+  target: pt:dre:306594:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0033
   label: null
@@ -97,13 +101,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:21Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +250,7 @@ Produzir indicadores de caracterização e gestão da mobilidade no Estado.
 
 De acordo com o Relatório do PVE - 4.º Trimestre 2014 (ESPAP, I. P., 2015), o PVE comportava 26 903 veículos no final de 2014, 86 % dos quais afetos a cinco ministérios (Administração Interna, Defesa Nacional, Agricultura e do Mar, Saúde e Justiça). Desde 2010 que tem vindo a registar-se um decréscimo do número de veículos do PVE, num total de 1 447 veículos (-5,1 %).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 1 - Distribuição dos veículos do PVE por ministério em 31.12.2014 (Fonte: ESPAP, I. P., 2015)
 
@@ -254,13 +258,13 @@ Dos veículos integrados no PVE, cerca de 77 % estão afetos à administração 
 
 É de notar o envelhecimento do PVE que se encontrava em 2014 com uma idade média de 14 anos, valor que tem vindo a agravar-se desde 2010. Com efeito, cerca de 60 % dos veículos têm mais de 13 anos, cerca de 15 % dos veículos têm entre 9 a 12 anos, 17 % têm entre 5 a 8 anos e 9 % têm até 4 anos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 2 - Repartição dos veículos do PVE por idades em 31.12.2014 (Fonte: ESPAP, I. P., 2015)
 
 A quilometragem média dos veículos do PVE é de 181 442 km, com 68 % da frota com mais de 100 000 km. Neste campo verificam-se oportunidades de melhoria na fiabilidade de dados ao nível do registo dos quilómetros no Sistema de Gestão do PVE por parte dos organismos públicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 3 - Repartição dos veículos do PVE por quilometragem em 31.12.2014 (Fonte: ESPAP, I. P., 2015)
 
@@ -270,7 +274,7 @@ QUADRO 1
 
 Caracterização do Parque de Veículos do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 No que respeita ao tipo de utilização, verifica-se que cerca de 50 % do PVE está afeto a serviços gerais e 49 % a serviços especiais, estando um valor inferior a 1 % afeto a outros serviços.
 
@@ -300,7 +304,7 @@ Monitorização e avaliação - visa a criação de condições para o acompanha
 
 Governação - prevê a constituição de uma estrutura de promoção, acompanhamento e avaliação do programa. Esta estrutura fica ainda responsável pela realização de tarefas de apoio e facilitação do acesso ao financiamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 4 - Estrutura do Programa ECO.mob
 
@@ -328,7 +332,7 @@ QUADRO 2
 
 Eixo Gestão da mobilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 5.2 - Tecnologia
 
@@ -344,7 +348,7 @@ QUADRO 3
 
 Eixo Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 5.3 - Comportamentos
 
@@ -358,7 +362,7 @@ QUADRO 4
 
 Eixo Comportamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 5.4 - Comunicação
 
@@ -412,7 +416,7 @@ A coordenação e operacionalização da implementação do Programa ECO.mob dev
 
 O horizonte temporal do programa é 2020 sendo o cronograma previsional o que se apresenta em seguida, contemplando a programação das ações preparatórias e a implementação das iniciativas previstas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 6 - Cronograma previsional do Programa
 
@@ -430,13 +434,13 @@ Ações transversais: 3 M(euro).
 
 Os eixos relativos à gestão da mobilidade e tecnologia são as componentes do Programa ECO.mob com maior peso relativo, representando respetivamente cerca de 21 % e 67 % do investimento. O eixo tecnologia, por comportar uma linha de ação relativa à renovação da frota, assume naturalmente, uma maior representatividade no total do investimento. O eixo comportamentos e as ações transversais representam cada 6 % do investimento total. De notar que entre as ações transversais se incluem ações de suporte ao próprio programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 7 - Repartição do investimento por Eixos e Ações Transversais
 
 O investimento alocado a cada um dos eixos transversais do Programa ECO.mob é distribuído pelas respetivas linhas como se pode observar na figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14500/0505205060.pdf)
 
 Figura 8 - Alocação do investimento pelas linhas de ação do Programa ECO.mob
 

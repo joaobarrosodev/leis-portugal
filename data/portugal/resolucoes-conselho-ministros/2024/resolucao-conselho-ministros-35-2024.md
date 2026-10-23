@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04500/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2024-854054390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e85df7ff7559409c7efe298ddf1451a3e72851ff7ab009dd561662e18caa9d97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b32a428cb6af5c7a3350b6f757b9fa1b05e48a3638408283c38f57a0acc70246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Empreitada de Obras Públicas
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Empreitada de Obras Públicas
+- Governo XXIII
+- Ministro da Agricultura e da Alimentação
+- Ministro da Economia e do Mar
+- Ministro das Infraestruturas
 - Porto de Pesca
 - Região Norte
-- Governo XXIII
-- Ministro da Economia e do Mar
-- Ministro da Agricultura e da Alimentação
-- Ministro das Infraestruturas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/99/2023/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/99/2023/08/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220113538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:41Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +151,7 @@ A DGRM tem, assim, a competência relativa à realização de dragagens de manut
 
 A necessidade de uma gestão eficiente das dragagens nestas áreas torna premente a celebração de contratos plurianuais, de forma a permitir que as operações de dragagem possam ser executadas nos períodos mais favoráveis ou sempre que exista uma situação de assoreamento que prejudique o acesso a determinado porto, com risco para a segurança das embarcações e seus tripulantes.
 
-Através das Resoluções do Conselho de Ministros n.<sup>os</sup>17/2021, de 9 de março, e 15/2022, de 27 de janeiro, foi autorizada a despesa relativa aos contratos de empreitada de dragagens de manutenção, respetivamente, dos portos de pesca e de náutica de recreio do Norte e do Centro, para os triénios de 2021-2023 e de 2022-2024. E, através da [Resolução do Conselho de Ministros n.º 99/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-2023-220113538), de 21 de agosto, foi autorizada a despesa relativa aos contratos de empreitada de dragagens de manutenção dos postos de pesca e de náutica de recreio do Algarve, para o triénio de 2023-2026.
+Através das Resoluções do Conselho de Ministros n.os17/2021, de 9 de março, e 15/2022, de 27 de janeiro, foi autorizada a despesa relativa aos contratos de empreitada de dragagens de manutenção, respetivamente, dos portos de pesca e de náutica de recreio do Norte e do Centro, para os triénios de 2021-2023 e de 2022-2024. E, através da [Resolução do Conselho de Ministros n.º 99/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-2023-220113538), de 21 de agosto, foi autorizada a despesa relativa aos contratos de empreitada de dragagens de manutenção dos postos de pesca e de náutica de recreio do Algarve, para o triénio de 2023-2026.
 
 Neste contexto, na sequência das autorizações previamente concedidas, importa dar continuidade à estratégia e aos planos de dragagens estabelecidos, e por se afigurar da maior prioridade, é autorizada, pela presente resolução do Conselho de Ministros, a despesa relativa à realização de dragagens de manutenção nos portos de pesca e de náutica de recreio do Norte para o período de 2024-2027, incluindo os portos de Vila Praia de Âncora, Castelo de Neiva, Esposende, Póvoa de Varzim, Vila do Conde e Zona Piscatória de Angeiras.
 
@@ -156,3 +180,5 @@ d) 2027 - 882 961,29 EUR.
 6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 22 de fevereiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117408815

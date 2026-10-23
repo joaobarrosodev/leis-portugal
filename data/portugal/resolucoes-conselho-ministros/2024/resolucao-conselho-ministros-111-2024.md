@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16200/0002200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111/2024/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2024-885032310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc15973793dc352486b150e55557e72e7aceb129c2c614b3784d256b29229904
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9823f82ec081c5b75a79e147b9cd1fe437ea498d62830d4953cad65b97fb5240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão para o Acompanhamento dos Auxiliares da Justiça
 - Nomeação
 - Órgãos de Gestão
 - Presidente
 - Vogal
-- Comissão para o Acompanhamento dos Auxiliares da Justiça
 relationships:
 - type: cites
   target: celex:32013L0011
@@ -79,6 +79,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2013/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2013/11/21/p/dre
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32013L0011
   label: null
@@ -86,13 +90,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:02Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +138,5 @@ Pós-graduação em Contabilidade e Gestão Pública pelo Instituto Superior de 
 Experiência profissional:
 
 Desde setembro de 2021 exerce as funções de diretor de serviços de Gestão de Recursos da Direção-Geral da Política de Justiça, assegurando o desenvolvimento das atribuições desta Direção-Geral nas áreas da gestão de recursos humanos, patrimoniais e financeiros. Tem responsabilidades em vários projetos de transformação digital e, em especial, nos projetos de transformação digital do PRR. É responsável pela coordenação dos procedimentos pré-contratuais necessários à execução dos referidos projetos, assim como pelo acompanhamento da execução dos contratos celebrados, bem como pelos reportes à Estrutura de Missão Recuperar Portugal em matéria de contratação pública e de execução orçamental. De outubro de 2016 a agosto de 2021, exerceu as funções de chefe de divisão de Resolução Alternativa de Litígios da Direção-Geral da Política de Justiça, prestando apoio à Direção e coadjuvando a Diretora de Serviços do Gabinete para a Resolução Alternativa de Litígios. Neste âmbito, foi designado perito internacional junto do Conselho da Europa para integrar o grupo de trabalho responsável pela definição de orientações sobre a resolução de conflitos nos meios digitais. De julho de 2011 a setembro de 2016, exerceu as funções de técnico superior no Gabinete para a Resolução Alternativa de Litígios da Direção-Geral da Política de Justiça, prestando apoio técnico-jurídico. Neste âmbito, participou, designadamente, em projetos de avaliação de impacto de regimes como os da arbitragem, dos julgados de paz, e atinentes ao direito do consumo, bem como na elaboração do anteprojeto de diploma de transposição da [Diretiva 2013/11/UE](http://data.europa.eu/eli/dir/2013/11/oj?locale=pt), em matéria de meios de resolução alternativa de litígios na área do consumo, e na elaboração de vários anteprojetos de regulamentação de diversos aspetos relativos ao funcionamento e organização dos meios de resolução alternativa de litígios. No plano internacional, representou Portugal no Comité Preparatório responsável pela instalação do Tribunal Unificado de Patentes e do Centro de Mediação e Arbitragem de Patentes. Ainda no âmbito deste Comité Preparatório, integrou o grupo de peritos que elaborou as regras de mediação e de arbitragem do Centro de Mediação e Arbitragem de Patentes. De abril de 2009 a janeiro de 2010, foi advogado. De abril de 2008 a dezembro de 2009, exerceu as funções de jurista na Direção-Geral da Política de Justiça, com responsabilidades na monitorização do Regime Processual Civil Experimental e do Projeto de Desmaterialização dos Processos Judiciais (CITIUS). Neste contexto, realizou diversas sessões de esclarecimento a magistrados sobre o Projeto CITIUS e coordenou duas equipas de apoio às secretarias judiciais e aos magistrados nas regiões Norte e Centro. De janeiro de 2006 a abril de 2009, foi advogado estagiário.
+
+118032693

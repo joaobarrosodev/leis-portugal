@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 170/2014, 1º Suplemento, Série I de 2014-09-04
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4754-(2) a 4754-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54-a/2014/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-a-2014-56474677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3171a903b44d879004f833775d644870ac1e1d52df8f4f699fbbab0c043e0333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c795d2e0fe6c195bd4e84638eea88429a180cb78d9d165def1210fc89ef5787d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,25 @@ subjects:
 - Acção Financeira
 - Acesso à Informação
 - Alienação de Participações do Estado
-- Sociedade Anónima
 - Capital Social
+- CMVM
 - Conselho de Ministros
 - CTT
 - Definição de Competências
 - Delegação de Competências
 - Empresa Participada
-- Setor Empresarial do Estado
+- Governo XIX
 - Investimento
 - Investimento Estrangeiro
-- Tribunal de Contas
-- Governo XIX
+- Investimento Privado
+- Ministro de Estado e das Finanças
 - Parpública
 - Privatização
-- Ministro de Estado e das Finanças
-- Investimento Privado
+- Setor Empresarial do Estado
 - Setor Público
 - SGPS
-- CMVM
+- Sociedade Anónima
+- Tribunal de Contas
 - Venda
 - Venda Directa
 relationships:
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72-b/2013/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72-b/2013/11/18/p/dre
+- type: cites
+  target: pt:dre:240432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56152679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:34Z'
   warnings: []
   errors: []
 ---

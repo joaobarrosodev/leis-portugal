@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/502/1996/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/502-1996-214234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b041144996ef8a4e546f0d1307aa80c6b42c5be06b10a3521fb015aecf6ab5f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b945ee68492d14b75d01299b4b18ae96784a15e397908be481fe42c18fe1c240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Carta de Condução
+- Deficiente
 - Veículo
 relationships:
 - type: cites
@@ -77,13 +77,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:13Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +118,7 @@ Manda o Governo, pelos Ministros da Administração Interna e da Saúde, o segui
 
 Ministérios da Administração Interna e da Saúde.
 
-**Assinada em 27 de Agosto de 1996.**
+Assinada em 27 de Agosto de 1996.
 
 Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado da Administração Interna. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
@@ -192,4 +192,4 @@ Tabela de códigos nacionais correspondentes aos códigos comunitários harmoniz
 
 (anexa à Portaria n.º 502/96)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/223b00/33703372.pdf))](https://files.diariodarepublica.pt/1s/1996/09/223b00/33703372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/223b00/33703372.pdf)

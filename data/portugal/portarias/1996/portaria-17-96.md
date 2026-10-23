@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/1996/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-1996-584612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0444d4f696e670ac44896e60fd5b1be1038c66c10c68ce528bdde8a0e02e82ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783e27efa7541f957bd673606c11b21f233b3a137a35eb059b8688d7013dfc2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,20 @@ relationships:
   target: pt:dre:197286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382828:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:55Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +111,6 @@ c) Outros concorrentes.
 
 Ministério do Equipamento Social.
 
-**Assinada em 19 de Dezembro de 1995.**
+Assinada em 19 de Dezembro de 1995.
 
 Pelo Ministro do Equipamento Social, Norberto Veiga de Sousa Fernandes, Secretário de Estado dos Transportes e Comunicações.

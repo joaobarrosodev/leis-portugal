@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/730/1996/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/730-1996-187307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0667a406f2ce598f3add3a4dd0365814a595f95b91f32d64a38be3a4b3285799
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 211f3ff89c8d53b0c0b0f6f359a0b52565636f7385922fed37a401e8b489b994
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,43 @@ subjects:
 - Cidadão Estrangeiro
 - Embarcação de Recreio
 - Impresso
-- Regime Jurídico
 - Navegação de Recreio
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:116950304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252202:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DEC LEI.124/2004.25.05.2004.MOPTH, DR.IS-A [122] de\
+    \ 25.05.2004, nos termos do disposto nos seus n.ºs 1 e 3 do artigo 3.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2004-252202
+  date: '2004-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116950304:por
+  label: Revogado, a partir de 01.01.2019, o presente diploma, mantido em vigor pelo Dec Lei 124/2004 de 25-mai, pelo(a) Decreto-Lei
+    n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13 nos termos do n.º 4 do art. 62.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2018-116950304
+  date: '2018-11-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:16Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +129,10 @@ Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administraç�
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 18 de Novembro de 1996.**
+Assinada em 18 de Novembro de 1996.
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
 ## ANEXO — Livrete de trânsito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/286b00/44304432.pdf))](https://files.diariodarepublica.pt/1s/1996/12/286b00/44304432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/286b00/44304432.pdf)

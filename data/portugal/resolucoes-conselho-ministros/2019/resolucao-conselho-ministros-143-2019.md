@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/143/2019/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2019-124283154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dd361badc0150a9913432881c5140f0e29eb2ebb59b3c054363fda0376466f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5397dca1eb55b826c71c22a6bc050c0f328d9b45c27e4fd7fbd8fb581d680cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Mar
-- Recursos Hídricos
 - Definição de Competências
-- Fundo Marinho
+- Diversidade Biológica
 - Espaço Marítimo
-- Recursos do Mar
+- Fundo Marinho
+- Gestão do Ambiente
+- Mar
 - Meio Aquático
 - Meio Marinho
 - Ministro do MAR
-- Proteção do Ambiente
+- Património Natural
 - Património Subaquático
-- Diversidade Biológica
-- Gestão do Ambiente
-- Zona de Proteção
 - Política do Ambiente
 - Poluição da água
 - Poluição Marinha
+- Proteção do Ambiente
 - Protecção do Património
-- Património Natural
-- Sistema Nacional de Áreas Classificadas
+- Recursos do Mar
+- Recursos Hídricos
 - Rede Nacional de Áreas Protegidas
+- Sistema Nacional de Áreas Classificadas
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -145,16 +145,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70693924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:22Z'
   warnings: []
   errors: []
 ---
@@ -279,15 +327,15 @@ As áreas designadas ao abrigo dos regimes e instrumentos que adaptam e aplicam 
 
 Para efeitos de caraterização geográfica das AMP foi construído um geoportal de trabalho, afeto à RNAMP, que se prevê possa ser disponibilizado publicamente assim que consolidado. Por forma a diferenciar os direitos nacionais sobre o espaço marítimo nacional, a informação geográfica das AMP é sobreponível com as subdivisões da Diretiva Quadro Estratégia Marinha (DQEM), conforme [Decreto-Lei n.º 108/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2010-344453), alterado pelo [Decreto-Lei n.º 201/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2012-174560), de 27 Agosto, que coincidem com as áreas que estão sob competências distintas em termos de política ambiental para o mar, que evidencia nomeadamente:
 
-##### Subdivisão do Continente, que inclui as águas marinhas nacionais em torno do território continental, com exceção da plataforma continental estendida, e integra a sub-região do Golfo da Biscaia e da Costa Ibérica.
+Subdivisão do Continente, que inclui as águas marinhas nacionais em torno do território continental, com exceção da plataforma continental estendida, e integra a sub-região do Golfo da Biscaia e da Costa Ibérica.
 
-##### Subdivisão dos Açores, que inclui as águas marinhas nacionais em torno do arquipélago dos Açores, com exceção da plataforma continental estendida, e integra a sub-região da Macaronésia.
+Subdivisão dos Açores, que inclui as águas marinhas nacionais em torno do arquipélago dos Açores, com exceção da plataforma continental estendida, e integra a sub-região da Macaronésia.
 
-##### Subdivisão da Madeira, que inclui as águas marinhas nacionais em torno do arquipélago da Madeira, com exceção da plataforma continental estendida, e integra a sub-região da Macaronésia.
+Subdivisão da Madeira, que inclui as águas marinhas nacionais em torno do arquipélago da Madeira, com exceção da plataforma continental estendida, e integra a sub-região da Macaronésia.
 
-##### Subdivisão da plataforma continental estendida, que inclui a plataforma continental situada para lá das 200 milhas náuticas, contadas a partir das linhas de base a partir das quais se mede a largura do mar territorial.
+Subdivisão da plataforma continental estendida, que inclui a plataforma continental situada para lá das 200 milhas náuticas, contadas a partir das linhas de base a partir das quais se mede a largura do mar territorial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Figura 1 - Espaço marítimo sob jurisdição nacional. Divisões da DQEM
 
@@ -305,7 +353,7 @@ Contudo, o conjunto de AMP existentes não configura uma rede integrada e coeren
 
 Apresenta-se seguidamente a identificação das áreas incluídas em cada subdivisão e, no Anexo II, uma caracterização genérica de cada subdivisão, assim como informação específica de cada área classificada disposta em fichas descritivas. Na Figura 2 apresenta-se a distribuição das áreas marinhas protegidas.
 
-##### Subdivisão do Continente
+Subdivisão do Continente
 
 No âmbito da Rede Nacional de Áreas Protegidas, identificam-se seis áreas protegidas com área marinha com expressão superior a 0,5 km2: Parque Natural do Litoral Norte; Reserva Natural das Berlengas; Parque Natural da Arrábida; Reserva Natural das Lagoas de Santo André e Sancha; Parque Natural do Sudoeste Alentejano e Costa Vicentina e o Monumento Natural do cabo Mondego. Três destas áreas classificadas - o Parque Natural do Litoral Norte, a Reserva Natural das Berlengas e o Parque Natural da Arrábida - tiveram as suas águas marítimas delimitadas de acordo com o ponto 4 do artigo 10.º do [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), de 24 de julho, na sua atual redação, respetivamente, como "reserva marinha" ou como "parque marinho".
 
@@ -319,9 +367,9 @@ TABELA 1
 
 Áreas protegidas na Subdivisão Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
-##### Subdivisão da Madeira
+Subdivisão da Madeira
 
 A Região Autónoma da Madeira, constituída pelo arquipélago da Madeira, Desertas e Selvagens, é reconhecida como local privilegiado para a observação de cerca de 20 espécies de baleia, muitas espécies de avifauna migratória e mesmo mamíferos marinhos, como a foca-monge. Quanto à ictiofauna refira-se as espécies emblemáticas como: o mero (Ephinephelus marginatus), o peixe papagaio (Sparisoma cretense), uma das variedades de barracuda (Sphyraena viridensis), o choco (Sepia officinalis), o polvo (Octopus vulgaris), o ratão (Taeniura grabata) e várias variedades de moreias.
 
@@ -329,7 +377,7 @@ Identificam-se cinco AMP, duas de caráter exclusivamente marinho e três com á
 
 Merece destaque particular a qualidade das águas circundantes e a diversidade dos habitats marinhos no arquipélago das Selvagens que qualificam esta área como próxima do estado pristino (situação confirmada pela expedição da National Geographic Pristine Seas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Figura 2 - Áreas marinhas protegidas
 
@@ -339,9 +387,9 @@ TABELA 2
 
 Áreas protegidas da subdivisão da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
-##### Subdivisão dos Açores
+Subdivisão dos Açores
 
 O arquipélago dos Açores é constituído por 9 ilhas de origem vulcânica agrupadas em 3 grupos: ocidental - Flores e Covo; central - Graciosa, Terceira, São Jorge, Pico e Faial; oriental - São Miguel e Santa Maria.
 
@@ -361,9 +409,9 @@ TABELA 3
 
 Áreas protegidas na Subdivisão Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
-##### Subdivisão da Plataforma Continental Estendida
+Subdivisão da Plataforma Continental Estendida
 
 As AMP nesta zona abrangem apenas o solo e subsolo, protegem fundamentalmente campos hidrotermais profundos, montes submarinos e secções da Crista Media do Atlântico que dão suporte a uma elevada biodiversidade (ainda não totalmente conhecida) e à manutenção de complexas cadeias tróficas e processos biofísicos.
 
@@ -377,7 +425,7 @@ TABELA 4
 
 Áreas protegidas na Subdivisão Plataforma Continental Estendida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 3.4 - As áreas marinhas protegidas em números
 
@@ -451,7 +499,7 @@ TABELA 5
 
 Propósitos da RNAMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Objetivos estratégicos da RNAMP, para 10-20 anos, baseados nos propósitos da RNAMP
 
@@ -459,7 +507,7 @@ TABELA 6
 
 Objetivos estratégicos da RNAMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 4.4 - Conceito e critérios de definição de AMP
 
@@ -515,19 +563,19 @@ TABELA 7
 
 Proposta de documentação para integração de uma AMP na RNAMP. Identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 TABELA 8
 
 Documentação para integração na RNAMP. Descrição e características da AMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 TABELA 9
 
 Documentação para integração na RNAMP. Elementos de Gestão da AMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 4.6 - Critérios de representatividade e coerência da RNAMP
 
@@ -537,7 +585,7 @@ TABELA 10
 
 Critérios de representatividade e coerência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 5 - Gestão e monitorização
 
@@ -649,7 +697,7 @@ TABELA 11
 
 Gestão e monitorização da RNAMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 A ciência mostra que as áreas "no take" aumentam a resiliência dos ecossistemas, restaurando a sua complexidade, podendo aumentar a sua produtividade e apresentando efeitos benéficos face às alterações climáticas.
 
@@ -683,7 +731,7 @@ TABELA 12
 
 Proposta de estrutura e conteúdo mínimo para o plano de gestão de AMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 6 - Potencial conservacionista dos ecossistemas marinhos existentes em Portugal
 
@@ -705,11 +753,11 @@ TABELA 13
 
 Valor ecológico dos habitats com importância para a RNAMP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Figura 3 - Valor ecológico dos Habitats
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Embora todos os habitats devam estar representados na RNAMP, as prioridades deverão ser norteadas de acordo com o valor ecológico dos habitats, nomeadamente (vide Figura 4);
 
@@ -737,11 +785,11 @@ Definir medidas de conservação para estes habitats ao longo da RNAMP de forma 
 
 Figura 4 - Habitats com maior valor ecológico (a vermelho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Figura 5 - Vulnerabilidade dos Habitats e sensibilidade climática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Em conclusão, considera-se que a análise efetuada pode constituir-se como uma base preliminar de informação que sustenta os instrumentos de planeamento e gestão da RNAMP:
 
@@ -761,13 +809,13 @@ Na ausência de dados georreferenciados sobre a caracterização de todos os hab
 
 Figura 6 - Análise conjunta dos habitats com valor ecológico relevante (alto e intermédio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 TABELA 14
 
 Representatividade dos Habitats nas AMP existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Em conclusão, identificaram-se:
 
@@ -793,7 +841,7 @@ Na Figura 7, apresenta-se a localização das novas áreas e nas tabelas seguint
 
 No global, a área coberta pelas novas áreas correspondem a cerca de 854 670 km2, aproximadamente 21 % do espaço marítimo nacional, até ao limite da plataforma continental estendida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 Figura 7 - Novas áreas com potencial valor ecológico
 
@@ -801,19 +849,19 @@ TABELA 15
 
 Áreas na Subdivisão Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 TABELA 16
 
 Áreas na Subdivisão Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 TABELA 17
 
 Áreas na Subdivisão Plataforma Continental Estendida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 8 - Lacunas de conhecimento e propostas de desenvolvimento
 
@@ -859,7 +907,7 @@ TABELA 18
 
 Propostas de desenvolvimento de trabalho futuro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0003700083.pdf)
 
 (1) Retirado de WWF, 2017.
 
@@ -1039,7 +1087,7 @@ McLeod et al. (2009) Designing MPA networks to address the impacts of climate ch
 
 O'Leary, B. C., Winther Janson, M., Bainbridge, J. M., Aitken, J., Hawkins, J. P. and Roberts, C. M. (2016), Effective Coverage Targets for Ocean Protection. CONSERVATION LETTERS, 9: 398-404.
 
-ONU (2015) http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E
+ONU (2015) http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1⟪=E
 
 Roff (2014) Networks of MPAs - the demonstrability dilemma. ACMFE 24:1-4
 
@@ -1048,3 +1096,5 @@ Smith et al (2009) Criteria and tools for designing ecologically sound marine pr
 Steven D. Gaines, Crow White, Mark H. Carr, Stephen R. Palumbi (2010) Designing marine reserve networks for both conservation and fisheries management. Proceedings of the National Academy of Sciences Oct 2010, 107 (43) 18286-18293
 
 WWF, Horta e Costa, B. (2017). MPA X-ray - Diagnóstico das Áreas Marinhas Protegidas Portuguesas. WWF Portugal
+
+112541946

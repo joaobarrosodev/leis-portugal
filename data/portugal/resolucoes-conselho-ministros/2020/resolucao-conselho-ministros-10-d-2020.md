@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 56/2020, 1º Suplemento, Série I de 2020-03-19
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9-(2) a 9-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/10-d/2020/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-d-2020-130413790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e0ed8c9ee1944045371b34bd94c85fe89e3c4abe62219e768cd8cab2ac09b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5b496db5e1d4d4ce256caefe4f294b1d43f1bb0cab8aee8a13b1e91048e3d7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde Pública
 - Catástrofe
-- Ovar
 - Doença Infecciosa
 - Epidemia
+- Ovar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:131068125:por
+  label: Prorrogados até 17 de abril de 2020 os efeitos da declaração de situação de calamidade e de cerca sanitária no município
+    de Ovar pelo(a) Resolução do Conselho de Ministros n.º 18-B/2020 - Diário da República n.º 66/2020, 2º Suplemento, Série
+    I de 2020-04-02, nos termos do n.º 1
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-b-2020-131068125
+  date: '2020-04-02'
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considerada revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da
+    República n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:20Z'
   warnings: []
   errors: []
 ---
@@ -160,3 +177,5 @@ d) É proibida a tomada e largada de passageiros do transporte ferroviário nas 
 7 - Determinar que a presente resolução produz efeitos imediatos.
 
 Presidência do Conselho de Ministros, 18 de março de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113131699

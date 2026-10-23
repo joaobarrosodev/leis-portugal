@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15300/0000300007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/69/2022/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2022-187137368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40e8a41e68dbf1de19895c6ad327a484c4bdf4689d4595536754276654cd21bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9d470372a83f31ea94385058c47ad611f0874b310840f01f0ad6f29be055f37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Armas e Munições
 - ARMA de Destruição Maciça
-- Financiamento
-- Combate ao Terrorismo
+- Armas e Munições
 - Branqueamento de Capitais
-- Terrorismo
-- Política Criminal
-- Cooperação Internacional
+- Combate ao Terrorismo
 - Comissão de Coordenação das Políticas de Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo
+- Cooperação Internacional
+- Crime
+- Financiamento
+- Política Criminal
+- Terrorismo
 relationships:
 - type: cites
   target: celex:32015L0849
@@ -85,16 +85,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/88/2015/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88/2015/10/06/p/dre
+- type: cites
+  target: pt:dre:70462183:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:48Z'
   warnings: []
   errors: []
 ---
@@ -230,3 +234,5 @@ c) Fomentar programas de assistência técnica junto das jurisdições às quais
 a) Instituir parcerias com entidades do setor privado, em permanência e continuidade, para potenciar o uso da informação proveniente das entidades obrigadas, que reforcem a capacidade e a resiliência do sistema nacional de prevenção e de combate ao branqueamento de capitais, ao financiamento do terrorismo e ao financiamento da proliferação de armas de destruição em massa, em linha com as melhores práticas internacionais;
 
 b) Simplificar a triagem de informação relevante no sistema de prevenção do branqueamento de capitais, do financiamento do terrorismo e do financiamento da proliferação de armas de destruição em massa, como o acesso a informações sobre o beneficiário efetivo, a identificação de pessoas politicamente expostas e a implementação de medidas restritivas e de sanções financeiras.
+
+115586445

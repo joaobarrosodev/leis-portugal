@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/178b00/22802280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/325/1996/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-1996-407754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8b4a57e39dfabffdacff121eb7e74d758650657fe626b17c7cf9c0774b7eecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e92f9c291bee201dce4a1f4c16ad9ede4ee343cc8f2c322d0b55d2b7c0c39a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Estudantes
-- Financiamento
 - Estudante
+- Financiamento
 - Prazo
 - Subsídio
 relationships:
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/1996/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/1996/05/22/p/dre
+- type: cites
+  target: pt:dre:344251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544780:por
+  label: "Revogada pela PORT.1230/2006.15.11.2006.PCM, DR.IS [220] de 15.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1230-2006-544780
+  date: '2006-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:55Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +126,8 @@ Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do disposto 
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 16 de Julho de 1996.**
+Assinada em 16 de Julho de 1996.
 
-**O Secretário de Estado da Juventude, António José Martins Seguro.**
+O Secretário de Estado da Juventude, António José Martins Seguro.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/178b00/22802280.pdf))](https://files.diariodarepublica.pt/1s/1996/08/178b00/22802280.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/178b00/22802280.pdf)

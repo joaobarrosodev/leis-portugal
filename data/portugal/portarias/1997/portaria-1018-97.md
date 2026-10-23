@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1018/1997/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1018-1997-659754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cade216c6e6b71f5e592f840d8a478d73b30da393400ec2701570f2b42e7c0e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d6c4028406fb93d8f74b847147271dbc6e919630154129b355f0eea2e27d83a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,33 @@ relationships:
   target: pt:dre:308096:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148416:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pelo presente diploma e renovada pela Port 972/2001 de 14-Ago,\
+    \ pela PORT.864/2005.21.09.2005.MADRP, DR.IS-B [182] de 21.09.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-2005-148416
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:520775:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída no presente diploma, posteriormente renovada pela Port\
+    \ 972/2001 de 14-Ago e alterada pela Port 864/2005 de 21-Set, pela PORT.607/2007.21.05.2007.MADRP, DR.IS [97] de 21.05.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-2007-520775
+  date: '2007-05-21'
+- type: amended_by
+  target: pt:dre:490261:por
+  label: "Anexados vários prédios rústicos, sitos na freguesia de Zebreira, à zona de caça associativa da Herdade do Souto,\
+    \ concessionada pelo presente diploma, renovada pela Port 972/2001 de 14-Ago, alterada pela Port 864/2005 de 21 de Set\
+    \ e renovada pela Port 607/2007 de 21-Mai, pela PORT.1070/2009.18.09.2009.MADRP, DR.IS [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1070-2009-490261
+  date: '2009-09-18'
+- type: amended_by
+  target: pt:dre:308096:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela presente portaria, alterada pela Port 864/2005,\
+    \ de 21-Set, renovada pela Port 607/2007, de 21-Maio, e alterada pela Port 1070/2009, de 18-Set, pela PORT.1082/2010.21.10.2010.MADRP,\
+    \ DR.IS [205] de 21.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-2010-308096
+  date: '2010-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -89,16 +116,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/896-a/1995/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/896-a/1995/07/15/p/dre
+- type: cites
+  target: pt:dre:211069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687051:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:162775:por
+  label: "Rectificada pela DECL-RECT.17-M/97.1997.10.31.PCM DR.IS-B [253]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-m-1997-162775
+  date: '1997-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:44Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +201,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 20 de Agosto de 1997.**
+Assinada em 20 de Agosto de 1997.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52595260.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52595260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/221b00/52595260.pdf)

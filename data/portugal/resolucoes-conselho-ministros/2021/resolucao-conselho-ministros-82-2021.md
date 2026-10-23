@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12400/0003100034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/82/2021/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2021-165950846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 697d15b0ff05017c46663b9b292ec7e9442ba4269cb97c5261c01a51e7d379e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3fd7d03345014d95f51f4316dd46723fe8fc654e2bd814fca05ba6c6ae0c9ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Setor Empresarial do Estado
 - Nomeação
 - Representante do Governo
+- Setor Empresarial do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73/2020/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/2020/09/17/p/dre
+- type: cites
+  target: pt:dre:143067743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:24Z'
   warnings: []
   errors: []
 ---
@@ -233,3 +241,5 @@ Nuno Alexandre Carvalho Martins
 Alexandra Sofia Vieira Nogueira Barbosa
 
 [...]»
+
+114345354

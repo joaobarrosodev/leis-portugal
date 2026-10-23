@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0003700169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/123/2023/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2023-222583135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9c75a029758b7bb4a2b253d45738163afca38d1f89a2f4c3c0f5827c80f5264
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be0b0bd610ff68600130b552c80573faccd6097e9d49696cdf330456d88cec16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Areias
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Espaço Marítimo
 - Extracção de Inertes
 - Gestão de Resíduos
-- Ordenamento do Território
-- Mar
-- Recursos Hídricos
-- Regulamentação de Atos Legislativos
-- Plataforma Continental
-- Mar Territorial
-- Material de Dragagem
-- Orla Costeira
-- Protecção do Litoral
-- Areias
+- Gestão do Ambiente
 - Gestão dos Recursos
 - Imersão de Resíduos
-- Espaço Marítimo
-- Recursos do Mar
+- Mar
+- Mar Territorial
+- Material de Dragagem
 - Meio Marinho
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Navegação Fluvial
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Zona de Proteção
-- Política do Ambiente
 - Navegação Marítima
-- Plano de Situação de Ordenamento do Espaço Marítimo Nacional
-- Agência Portuguesa do Ambiente
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Afetação para a Imersão de Dragados na Costa Continental Portuguesa
+- Plano de Situação de Ordenamento do Espaço Marítimo Nacional
+- Plataforma Continental
+- Política do Ambiente
+- Proteção do Ambiente
+- Protecção do Litoral
+- Recursos do Mar
+- Recursos Hídricos
+- Regulamentação de Atos Legislativos
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32006R1881
@@ -137,16 +137,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
+- type: cites
+  target: pt:dre:124256708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125002934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127659203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172350238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25683044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67009417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75025069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170439:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:00Z'
   warnings: []
   errors: []
 ---
@@ -257,6 +365,8 @@ Os sedimentos são um recurso natural valioso e fazem parte do ambiente marinho.
 
 No âmbito da avaliação intermédia de 2017 sobre o estado do Ambiente Marinho do Atlântico Nordeste, mais de mil milhões de toneladas de material dragado foram imersos na Área Marítima da OSPAR durante o período 2008-2014(6), Figura 1. Para os anos 2013 e 2014 o uso benéfico foi implementado em aproximadamente 80 locais. As razões mais frequentes para o uso benéfico são a alimentação de praias e o reforço sedimentar.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_011_Image_0001.jpg)
+
 Figura 1 - Quantidades totais, em milhões de toneladas, de material dragado depositado na Área Marítima OSPAR por país no período 2008-2014
 
 Uma das principais preocupações com a imersão de dragados é a libertação de contaminantes na coluna de água. «Diversos estudos em curta e longa escala temporal mostraram que a ressuspensão de sedimentos contaminados transfere contaminantes (sensu lato) da forma particulada para a fração dissolvida (Calomano et al., Caetano et al., 2003). A exposição dos organismos a estes contaminantes pode provocar efeitos nocivos ao nível bioquímico ou celular (Depledge et al., 1995; Goksoyr et al., 1996), podendo a bioacumulação destes contaminantes ser potenciada ao longo da cadeia trófica (Meador et al., 1995; Cailleaud et al., 2007).»(7).
@@ -268,6 +378,8 @@ Em Portugal os dados oficiais existentes sobre qualidade das águas costeiras re
 Para uma análise mais concreta de resultados é possível consultar o Sistema Nacional de Informação dos Recursos Hídricos verificando-se que existem inúmeras estações de amostragem, em várias datas de recolha, e que incluem parâmetros físico-químicos medidos à superfície e no fundo. Porém as estações não abrangem nenhum dos locais de imersão de dragados de classe 3, e aquelas que se encontram nas «imediações» estão ainda assim afastadas dos locais. No contexto da elaboração do presente plano de afetação mostrou-se inviável pretender cruzar informação e retirar quaisquer conclusões. Porém concluiu-se que é importante articular com a APA, I. P., a possibilidade de definir estações de amostragem de água que possam servir para monitorizar a situação na envolvente próxima de alguns dos locais de imersão de dragados de classe 3. Saliente-se que existem TUPEM emitidos para estas imersões, ao abrigo dos quais são realizadas monitorizações ambientais.
 
 Para além da avaliação no âmbito da DQA, a APA, I. P., realiza anualmente durante o período da época balnear, a monitorização da qualidade das águas balneares, no âmbito da Diretiva de Gestão das Águas Balneares. Os parâmetros que concorrem para a classificação anual da qualidade das águas de banho são microbiológicos: Escherichia coli e Enterococcus intestinais. A classificação de uma significativa percentagem de águas balneares como Excelente em 2020 - 96,4 %, de acordo com o Relatório de Estado do Ambiente 2020 - demonstra o esforço crescente por parte dos municípios no tratamento dos efluentes domésticos, Figura 2.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_013_Image_0001.jpg)
 
 Figura 2 - Evolução da qualidade das águas balneares costeiras e de transição(10)
 
@@ -311,6 +423,8 @@ Os parâmetros que foram definidos pela Declaração de Impacte Ambiental do pro
 
 As campanhas de monitorização foram realizadas não só na zona de dragagem, como nas zonas de deposição, nos locais em baixo apresentados na Figura 3.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\116871218_Page_016.jpg)
+
 Figura 3 - Localização dos locais de amostragem no âmbito da monitorização da qualidade da água, a sul do Porto de Aveiro
 
 De acordo com os resultados, foram cumpridos globalmente os requisitos de qualidade das águas do litoral ou salobras para fins aquícolas e os requisitos de qualidade das águas balneares, pois nenhum dos parâmetros se encontra em inconformidade com os valores máximos admissíveis do anexo xiii e do anexo xv do [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de agosto. Verifica-se ainda que, em nenhuma das campanhas foi percetível a presença de óleos/hidrocarbonetos de petróleo nos pontos de amostragem monitorizados(14).
@@ -327,6 +441,8 @@ Os sedimentos que se encontram em movimento podem acumular-se em zonas onde a co
 
 O reconhecimento da relevância do balanço sedimentar na evolução da linha de costa materializa-se nas orientações estratégicas sobre a erosão costeira propostas no projeto europeu Conscience - www.conscience-eu.net. De acordo com as conclusões deste projeto, a resolução dos problemas associados à erosão costeira deve atender às causas que a originam e que se relacionam, fundamentalmente, com a existência de défices sedimentares. A gestão do balanço sedimentar deverá, por isso, assumir um papel primordial nas estratégias de intervenção e mitigação do processo erosivo. A célula sedimentar, que corresponde a uma unidade autónoma do ponto de vista sedimentar, Figura 4, surge assim como a unidade de gestão do território que permite gerir de forma coerente o balanço sedimentar. Em cada célula o balanço sedimentar costeiro é definido através da quantificação das entradas (fontes) e saídas (sumidouros) de sedimento da célula sedimentar.»(16)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_019_Image_0001.jpg)
+
 Figura 4 - Representação esquemática duma célula sedimentar, em que as setas significam a entrada e a saída dos sedimentos
 
 A diminuição do fornecimento de sedimentos estuarinos ao litoral encontra-se assim na origem do agravamento dos problemas de erosão que afetam a orla costeira de Portugal continental e que irão ser progressivamente piorados pelos efeitos das alterações climáticas, designadamente as mudanças no regime de ondulação e a subida do nível médio do mar.
@@ -342,6 +458,8 @@ Para reforço do volume sedimentar a ser utilizado na alimentação costeira, fo
 Sobre a qualidade dos sedimentos é obrigatório considerar as normas previstas no anexo iii da [Portaria n.º 1450/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1450-2007-629400), de 12 de novembro, que fixa as regras para a determinação do grau de contaminação dos materiais dragados, para efeitos de dragagem, imersão ou eliminação. No diploma são definidas as classes de contaminação dos sedimentos, o número de estações de amostragem em função da volumetria a dragar e o seu destino final. De acordo com esta portaria, a classificação dos sedimentos decorre do teor em metais e em compostos orgânicos, conforme disposto na tabela 1, e a cada uma das classes de qualidade, está associada a seguinte forma de eliminação dos materiais dragados: Classe 1: Material dragado limpo - pode ser depositado no meio aquático ou reposto em locais sujeitos a erosão ou utilizado para alimentação de praias sem normas restritivas; Classe 2: Material dragado com contaminação vestigiária - pode ser imerso no meio aquático tendo em atenção as características do meio recetor e o uso legítimo do mesmo; Classe 3: Material dragado ligeiramente contaminado - pode ser utilizado para terraplenos ou no caso de imersão necessita de estudo aprofundado do local de deposição e monitorização posterior do mesmo; Classe 4: Material dragado contaminado - deve ser colocado em terra, em local impermeabilizado, com a recomendação de posterior cobertura de solos impermeáveis; Classe 5: Material muito contaminado - idealmente não deverá ser dragado e em caso imperativo, deverão os dragados ser encaminhados para tratamento prévio e ou deposição em aterro de resíduos devidamente autorizado. Para os sedimentos de Classe 4 e Classe 5, é proibida a sua imersão.
 
 Tabela 1 - Classificação dos materiais de acordo com o grau de contaminação
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_21.jpg)
 
 Convirá salientar que na deriva apenas serão imersos sedimentos das Classes 1 e 2 (desde que com características granulométricas compatíveis com os locais de destino). Em alguns dos locais analisados - caso de Ofir/Bonança, tão pouco serão imersos sedimentos da Classe 2. Os sedimentos de Classe 3 nunca serão imersos na deriva.
 
@@ -364,6 +482,8 @@ Passará a haver 35 locais de imersão na deriva: 3 locais não são alterados r
 Estes passarão a ser os únicos locais onde se efetuarão operações de imersão de dragados, independentemente de as mesmas serem realizadas ao abrigo de TUPEM ou não. Significa isto que as operações a cargo da DGRM também ocorrerão apenas nos locais aprovados.
 
 Na Figura 5 evidencia-se a distribuição dos locais de imersão. As manchas não estão à escala e não refletem o tamanho real das áreas de imersão; são meramente indicativas para se perceber a distribuição dos locais ao longo da costa continental. A cor laranja são os locais já aprovados no PSOEM e a cor azul são os locais em análise no âmbito do PAID. Para uma análise mais fina deverá recorrer-se ao Geoportal do PAID o qual permite, por exemplo, comparar as alterações com o que estava aprovado, e recorrer-se às Fichas de Caracterização dos Locais de Imersão dos Sedimentos (anexo iii).
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_024_Image_0001.jpg)
 
 Figura 5 - Áreas existentes e propostas, para imersão de dragados.
 
@@ -477,6 +597,8 @@ Para os locais previstos no PSOEM que não carecem de qualquer ajuste não foi e
 
 Numa segunda fase, com base na informação contida no Geoportal do PSOEM, para 34 locais inicialmente selecionados verificaram-se os condicionalismos existentes e/ou potencial conflitualidade de usos, em cada perímetro de imersão proposto e na respetiva área envolvente, num raio de 500 m, de 1000 m e de 2000 m. As imagens obtidas encontram-se no anexo iii - Conflitos de usos nos locais de imersão, tendo igualmente sido construída uma tabela síntese (tabela 2)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_030_Image_0001.jpg)
+
 Figura 6 - Critérios para a identificação dos locais de imersão de dragados no mar e condicionalismos analisados
 
 As implicações na pesca, assumindo-se que esta atividade existe em todos os locais, foi efetuada: 1.º) com o contributo do Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.), que identificou os principais bancos de bivalves e os impactes resultantes da imersão nos locais, com base nas últimas três campanhas de monitorização dos bancos de bivalves realizadas em 2010, 2015 e 2021(23) e 2.º) através de «expert judgement».
@@ -504,6 +626,8 @@ S2 - Existe sobreposição entre os 500 metros e os 1000 metros do local de imer
 S3 - Existe sobreposição entre os 1000 metros e os 2000 metros do local de imersão.
 
 Tabela 2 - Tabela síntese com os locais de imersão, condicionalismos, usos e outros
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_33.jpg)
 
 4.1 - Servidões, restrições administrativas e áreas condicionadas
 
@@ -545,13 +669,19 @@ A tabela 3 mostra quais os locais abrangidos por áreas classificadas, e qual a 
 
 Tabela 3 - Representatividade da área do polígono de imersão proposto, na Área Classificada
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_36.jpg)
+
 Ao nível da interceção de áreas de imersão com áreas classificadas ao abrigo do regime jurídico da conservação da natureza e biodiversidade, o local 05T - Ofir/Bonança e o local 21T - Ericeira merecem maior destaque pelo facto de o primeiro se localizar numa Área Marinha Protegida Costeira, e o segundo por afetar fundos rochosos em área da Rede Natura 2000. No entanto, a necessidade de garantir a existência de um local próximo ao Porto de Esposende e da Ericeira, respetivamente, justificaram as propostas.
 
 No caso do Local 05T, abrangido pelo PNLN, assinalou-se na figura 7 o polígono de imersão nos fundos marinhos desta área protegida embora esta localização não tenha ficado definida no PAID). A branco, estão representados os fundos marinhos e estuarinos com valores naturais, como é o caso das florestas de laminárias (algas castanhas), a que estão associadas comunidades de peixes, invertebrados e outras algas (incluindo as próprias laminárias) que poderão ser afetadas pela metodologia de imersão, com risco de submersão destas florestas e com aumento da turbidez, o que impacta alguns processos biológicos e provoca diminuição de produtividade das cadeias tróficas.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_037_Image_0001.jpg)
+
 Figura 7 - Local 05T-Ofir, no Parque Natural do Litoral Norte
 
 Na sequência do parecer do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), tendo em vista a minimização do impacto de imersões no PNLN, aquela entidade apresentou 2 alternativas ao local proposto no PAID - Versão 1, representadas na figura 8, a verde e a rosa, respetivamente. Uma delas, a que o ICNF; I. P., denominou «Beirada», localiza-se fora do Parque, para lá da batimétrica dos 40 m ao ZH. Junto a esse local encontra-se o Local de eliminação de dragados IE3, destinado à imersão de sedimentos de Classe 3 e eventualmente Classe 2 e Classe 1, estes últimos quando, pelas suas características granulométricas, não forem adequados à imersão na deriva. Esta alternativa da «Beirada» não contribui para o reforço sedimentar da deriva neste troço, já que se localiza para lá da profundidade de fecho, contrariando também o disposto na [Lei n.º 49/2006](https://diariodarepublica.pt/dr/detalhe/lei/49-2006-540819), de 29 de agosto, na sua redação atual.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_038_Image_0001.jpg)
 
 Figura 8 - Representação das alternativas equacionadas para o Local 5T-Ofir-Bonança
 
@@ -623,6 +753,8 @@ Refira-se ainda que as áreas de 36 locais de imersão de dragados na deriva se 
 
 Tabela 4 - Património cultural na envolvente dos locais de imersão
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_45.jpg)
+
 Foi também identificada para os locais de imersão - eliminação, referidos no ponto 6 deste relatório, a existência de património arqueológico subaquático em 8 dos 25 locais: IE4-ao largo de Vila do Conde; IE5 - ao largo de Árvore/Mindelo; IE6 - ao largo de Angeiras; IE7 - ao largo de Leixões; IE9 - ao largo de Lavadores; IE10 - ao largo de Aveiro; IE13 - ao largo de Nazaré; IE14 - ao largo de S. Bernardino/Peniche) e um imóvel classificado terrestre (IE13 - ao largo de Nazaré).
 
 A DGPC assume a priori que os eventuais impactes, diretos e indiretos, resultantes da deposição de inertes nas áreas de imersão serão positivos pois contribuem para a salvaguarda destes bens culturais, seja relativamente aos imóveis e sítios arqueológicos que se encontram junto da costa em meio terrestre - consequência da proteção complementar da linha de costa promovida pela alimentação sedimentar - seja sobre os sítios arqueológicos subaquáticos pelo facto destes ficarem cobertos pelos sedimentos imersos. Importa não perder de vista que 1) a forte ação hidrodinâmica a que se encontram sujeitos muitos dos locais (à exceção sobretudo da costa algarvia) deverá contribuir para uma curta permanência dos dragados na zona de deposição e, 2) em grande parte dos locais os volumes a imergir são pequenos, não configurando nada de semelhante aos grandes «shots»/alimentações artificiais que estão previstos realizar a partir de manchas de empréstimo, nos locais assinalados neste Plano de Afetação (13N; 14N; 16.ª; 17TA; 24N. Essas situações irão ser submetidas a procedimento de AIA e de medidas específicas de caracterização e salvaguarda do património que serão em tempo determinadas.
@@ -665,9 +797,13 @@ Quatro dos locais identificados pelo IPMA, I. P., como importantes para os bival
 
 No caso do Local 13N-Cortegaça, e na sequência de parecer do IPMA, I. P., nesse sentido, analisou-se a possibilidade de fazer a imersão entre as batimétricas dos 3 e 6 m (ao ZH) para se tentar evitar a afetação dos bancos de conquilhas que por vezes ocorrem nesta zona de pesca. Porém verifica-se que esta solução inviabiliza os resultados pretendidos com o «shot» de elevada magnitude nesta área, dada a enorme redução da área de imersão. Efetivamente a configuração da praia submarina neste local apresenta, em todos os anos analisados, um maior declive próximo da linha de costa, o qual só começa a suavizar para o largo da batimétrica do -8 m ZH, conforme se percebe pela Figura 9.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_050_Image_0001.jpg)
+
 Figura 9 - Variação do declive da praia submarina, na Cortegaça(30)
 
 Esta situação faz com que as batimétricas -6 e -4 estejam muito próximas uma da outra, conforme Figura 10. Adicionalmente a figura 9 ilustra bem a variabilidade morfológica dos fundos observada ao longo de 3 anos (2018, 2019, 2020), verificando-se variações verticais que podem atingir os 3 m, associadas em parte à dinâmica da barra submarina. Como tal, a evolução morfológica natural da praia submarina por si só, acomoda variações nos fundos, superiores a uma eventual deposição de sedimentos arenosos (por exemplo com uma espessura média de 1 ou 2 m). Considera-se assim que uma deposição de sedimentos arenosos nestes fundos através de uma alimentação artificial, não é substancialmente diferente dos processos de deposição vs. erosão que ocorrem naturalmente por via das oscilações transversais e longitudinais da cobertura sedimentar, a que acresce a elevada remobilização sedimentar associada a fenómenos extremos (i.e., eventos de tempestade). Outro aspeto a considerar é a morfologia da praia submarina aquando da realização da alimentação artificial. Da análise da figura 10, conclui-se que uma eventual intervenção nesta área estará dependente da posição da barra submersa à data, afigurando-se praticamente inviável realizar intervenções dos -5 m ZH para terra.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_052_Image_0001.jpg)
 
 Figura 10 - Batimetria ao largo da praia da Cortegaça(31)
 
@@ -675,9 +811,15 @@ Para todos casos em que se preveem maiores volumes de imersão e alturas de arei
 
 As fotografias em baixo(32) ilustram a situação crítica devido à ação do mar, sobretudo em contexto de tempestade, dos troços costeiros que serão beneficiados pelas imersões em cima referidas.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\116871218_Page_053.jpg)
+
 Furadouro (2014)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\116871218_Page_053_2.jpg)
+
 Cortegaça
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_054_Image_0001.jpg)
 
 Praia de Faro (2018)
 
@@ -689,17 +831,27 @@ O exemplo seguinte refere-se a um projeto de alimentação artificial de uma pla
 
 Como curiosidade refira-se que este projeto piloto foi desenvolvido segundo os princípios «Building with Nature», conjuntamente pela Rijkswaterstaat (Direção-Geral de Obras Públicas e Gestão da Água, da Holanda) DELTARES (empresa de investigação e obras marítimas holandesa) e pelo IMARES (Instituto para o estudo dos ecossistemas e recursos marinhos, holandês)(33).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_055_Image_0001.jpg)
+
 Figura 11 - Localização do Galgeplaat
 
 Primeiro, o depósito das areias (130 000 m3 de sedimentos dragados de canais adjacentes e depositados numa área com 150 000 m2) foi realizado de forma a construir uma barreira protetora em forma de um anel de areia, com cerca de 1 m de altura e um diâmetro de 450 m. Este anel foi depois preenchido com areia durante a fase de cheia do ciclo das marés e espalhado por bulldozers durante a fase de vazante. Isso permitiu uma construção controlada do enchimento do local, já que se impunha evitar um aumento na concentração de matéria em suspensão nos leitos comerciais de mexilhões próximos, figura 12.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_056_Image_0001.jpg)
 
 Figura 12 - A alimentação do Galgeplaat(34)
 
 A recolonização das espécies bentónicas foi monitorizada e analisada depois da alimentação em Galgeplaat, (outubro de 2008 a novembro de 2011) tomando como referência um local adjacente, mostrando-se nas figuras 13, 14 e 15, os resultados do desenvolvimento da biomassa, da densidade dos animais, e do número de espécies, respetivamente.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_057_Image_0001.jpg)
+
 Figura 13 - Desenvolvimento da biomassa medido imediatamente antes da alimentação (junho de 2008) até novembro de 2011
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_057_Image_0002.jpg)
+
 Figura 14 - Desenvolvimento da densidade medido desde pouco antes da alimentação (junho de 2008) até novembro de 2011
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_058_Image_0001.jpg)
 
 Figura 15 - Número de espécies medidas desde antes da alimentação (junho de 2008) até outubro de 2011
 
@@ -712,6 +864,8 @@ O Projeto das obras de reconfiguração da barra de Aveiro foi objeto de uma Dec
 Neste âmbito, e para dar cumprimento ao TUPEM emitido para a imersão dos dragados, foi recentemente apresentado pela Administração do Porto de Aveiro S. A., o Relatório de Monitorização das espécies bentónicas (dezembro de 2021). A monitorização contempla a zona das dragagens e o local de imersão dos sedimentos. Este situa-se a sul do molhe sul, numa área compreendida entre o 3.º e 5.º esporões, e corresponde sensivelmente ao local 16.ª - Costa Nova, do Plano de Afetação, embora com uma área menor. Desta forma a partir de 2014, ano em que tiveram início as dragagens de manutenção foram efetuadas as intervenções descritas na tabela 5, onde também estão apresentadas as datas das amostragens de sedimentos para avaliar o impacto nas comunidades bentónicas.
 
 Tabela 5 - Intervenções no Porto de Aveiro e períodos de amostragem das comunidades bentónicas(35)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_60.jpg)
 
 «O Plano de Monitorização das Comunidades Bentónicas, cujo objetivo é a avaliação de qualidade das comunidades bentónicas nos locais de dragagem e de deposição dos dragados, foi realizado pela primeira vez em janeiro de 2009 e foi repetido em dezembro de 2010/janeiro de 2011 (Irmãos Cavaco, S. A., Dravosa, 2011). No seguimento desses trabalhos, em junho de 2013 foi realizado o estudo das comunidades da macrofauna bentónica pelo Departamento de Biologia & CESAM da Universidade de Aveiro, sendo emitido o respetivo relatório a 15 de outubro de 2014 (Martins 55ota-., 2013.ª). Da análise dos resultados obtidos nessa campanha, concluíram que: os resultados de 2013 mostram um aumento considerável da abundância e número de espécies, relativo ao trabalho anterior, evidenciando que a zona de deposição de dragados apresenta atualmente condições mais favoráveis à colonização de espécies que preferem sedimentos mais finos. [...] No relatório de monitorização (PROMAN, 2015), referente à campanha realizada em novembro de 2014, verificou-se que não foram observadas diferenças acentuadas na estrutura das comunidades da macrofauna bentónica presentes nas zonas de deposição de dragados, dragagem e na zona de controlo. A forte ação dinâmica a que se encontram sujeitos os habitats poderá contribuir para uma curta permanência dos dragados na zona de deposição, limitando os presumíveis impactos da deposição a um curto espaço de tempo. As características 5656 de adaptabilidade das espécies presentes a meios muito hidrodinâmicos dificultam o reconhecimento dos presumíveis impactos da intervenção, mas facilitam a rápida recolonização da zona após a dispersão dos dragados.»(36).
 
@@ -743,9 +897,13 @@ Alguns destes locais podem também servir para imergir sedimentos de Classe 2 ou
 
 Tabela 6 - Locais de imersão-eliminação (IE)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_64.jpg)
+
 Todos os locais de imersão/eliminação estão georreferenciados no Geoportal do PAID, estando, à exceção do local IE15 1/2, identificados com um círculo com 500 m de raio. Porém tal não significa que o volume a imergir seja elevado.
 
 A localização do ponto de eliminação IE19, tal como proposto na versão 1 do PAID, foi alterada e encontra-se agora a 1 km para SW do limite do Parque Natural do Sudoeste Alentejano e Costa Vicentina. Altera-se ainda a localização do polígono, localizado ao largo de Vila Real de Santo António (IE25) que, por lapso, o PSOEM localizou numa zona coincidente com uma área potencial para o desenvolvimento da aquicultura.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_065_Image_0001.jpg)
 
 Figura 16 - Locais de eliminação IE19, IE20 e IE21
 
@@ -767,11 +925,15 @@ Refira-se ainda que, para todos os POC já em vigor estão previstas as seguinte
 
 Em matéria de gestão das áreas portuárias/marinas, dispõe-se que «a Administração deve assegurar que a extração periódica de inertes, destinada a assegurar as condições de navegabilidade e acessibilidade a portos e demais infraestruturas de apoio à navegação, concorre para reduzir o défice sedimentar da orla costeira e está devidamente articulada com as intervenções de alimentação artificial previstas para os troços mais críticos».
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_068_Image_0001.jpg)
+
 Saliente-se ainda que os locais propostos para imersão em área de POC são áreas em que o ordenamento do território já integra as orientações previstas nos relatórios do GTL e do GTS.
 
 2 - Plano de Ação Litoral XXI
 
 O Plano de Ação Litoral XXI assume-se como o instrumento plurianual de referência e de atuação no âmbito da gestão integrada da zona costeira de Portugal Continental, refletindo opções estratégicas e políticas, identificando e priorizando o vasto conjunto de intervenções físicas a desenvolver pelas múltiplas entidades com atribuições e competências no litoral no período de vigência da Estratégia Nacional para a Gestão Integrada da Zona Costeira.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_069_Image_0001.jpg)
 
 Figura 17 - Distribuição da previsão de investimento, em milhões de euros, das ações que concorrem para a proteção costeira em zonas de risco
 
@@ -887,6 +1049,8 @@ Considere-se agora as implicações decorrentes dos períodos críticos para a i
 
 O friso apresentado na figura 18 mostra como o estrito cumprimento dos vários períodos sensíveis deixaria uma janela de oportunidade muito estreita para as operações de imersão, e que em termos práticos inviabiliza a sua concretização.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_081_Image_0001.jpg)
+
 Figura 18 - Períodos sensíveis para a imersão de dragados
 
 A solução consiste na adequação da atividade de imersão à sensibilidade de cada local, desenvolvendo-a segundo Boas Práticas, sobretudo em locais com requisitos especiais. Por outro lado, importa não perder de vista que a forte ação hidrodinâmica a que se encontram sujeitos muitos dos habitats poderá contribuir para uma curta permanência dos dragados na zona de deposição, limitando os presumíveis impactos da deposição a um curto espaço de tempo.
@@ -973,6 +1137,8 @@ Os locais propostos no âmbito do presente PAID procedem de uma cuidada análise
 
 Ficha 12C - Imersão de dragados
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_89_90.jpg)
+
 Caracterização geral
 
 Desde tempos remotos que os portos marítimos servem de ligação entre as diferentes civilizações e continentes, e são pontos de primordial importância para as trocas comerciais numa economia global. Com o aparecimento dos contentores, como unidade de volume de transporte, e a partir do momento em que o transporte marítimo se revelou o mais económico, a tecnologia naval focou-se na construção de navios cada vez maiores, com maior capacidade de transporte e com maior calado, de forma a possibilitar o transporte de um volume crescente de matérias-primas e de contentores. Este aumento de calado dos navios (atualmente até cerca de 52 pés ou 16 metros e capacidade de até quase 20 000 TEU (Twenty Foot Equivalent Unit - unidade de medida em quantidade de contentores) obrigou os portos ao aumento de profundidades compatíveis com esses calados nos canais de acesso, cais e docas de ancoragem, como medida imprescindível para a sua competitividade e crescimento económico. Ao longo deste processo passou-se também da utilização de portos de abrigo naturais para portos construídos, com grandes molhes de proteção, que contribuíram, nalguns casos da costa portuguesa, para processos mais acentuados de erosão e acreção.
@@ -988,6 +1154,8 @@ A diminuição do fornecimento de sedimentos estuarinos ao litoral encontra-se n
 A necessidade de realizar dragagens para assegurar condições para a operacionalidade dos Portos abre oportunidades para que estes espaços desempenhem um papel ativo na gestão do balanço sedimentar da orla costeira, tanto mais que os mesmos constituem importantes armadilhas naturais de sedimentos. Para tal, os dragados devem ser devolvidos ao sistema e introduzidos em profundidades que permitam a sua mobilização na faixa ativa da deriva litoral, em troços costeiros que apresentam maior vulnerabilidade ao risco.
 
 No âmbito da avaliação intermédia de 2017 sobre o estado do Ambiente Marinho do Atlântico Nordeste, verifica-se que mais de mil milhões de toneladas de material dragado foram imersos na Área Marítima da OSPAR durante o período 2008-2014. Para os anos de 2013 e 2014 o uso benéfico foi implementado em aproximadamente 80 locais. As razões mais frequentes para o uso benéfico são a alimentação de praias e o reforço sedimentar.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_011_Image_0001.jpg)
 
 Figura 1 - Quantidades totais, em milhões de toneladas, de material dragado depositado na Área Marítima OSPAR por país no período 2008-2014
 
@@ -1048,6 +1216,8 @@ Em termos gerais, a imersão de dragados deve garantir as condições de seguran
 Considere-se por exemplo as implicações decorrentes dos períodos críticos para a imersão de dragados associados às diversas sensibilidades/utilizações do meio marinho: épocas de recrutamento; época de reprodução dos bivalves; período de floração nas florestas de algas; o período da época balnear, e por fim, mas não menos importante, o período mais favorável para as operações de imersão - o chamado «verão marítimo» - entre 15 de abril e 15 de outubro. Com efeito, as operações de imersão não podem realizar-se quando a agitação marítima é maior para não pôr em causa 1) a segurança das dragas e seus operadores, não existindo sequer cobertura por parte das seguradoras, para o risco que existe em se operar no inverno marítimo e 2) a eficácia da própria operação, já que a intensa agitação marítima pode fazer retornar os dragados ao local de origem.
 
 O friso apresentado na figura seguinte mostra como o estrito cumprimento dos vários períodos sensíveis deixaria uma janela de oportunidade muito estreita para as operações de imersão, e que em termos práticos inviabiliza a sua concretização.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_099_Image_0001.jpg)
 
 Os diversos períodos sensíveis para a imersão de dragados
 
@@ -1114,6 +1284,8 @@ Boas Práticas pós-imersão
 Deverá ainda ser tido em consideração o Guia da OSPAR «Guidelines for the Management of Dredged Material at Sea».
 
 Contributos para a Estratégia Nacional para o Mar e articulação com as políticas costeiras
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_106_Image_0001.jpg)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -1183,18 +1355,45 @@ A - Processo: Translação em cerca de 1400 m para norte do local previsto como 
 
 B - Justificação: Definição de área a sul da foz do rio Minho que permita imergir sedimentos arenosos. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia de Moledo(1)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_112_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_112_Image_0002.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -61452 | 242633 |
-| 2... | -61454 | 242208 |
-| 3... | -61737 | 242211 |
-| 4... | -61735,9 | 242522 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-61452
+
+242633
+
+2...
+
+-61454
+
+242208
+
+3...
+
+-61737
+
+242211
+
+4...
+
+-61735,9
+
+242522
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,100 km2;
 
@@ -1250,18 +1449,45 @@ A - Processo: Translação em cerca de 800 m para sul do local previsto como pot
 
 B - Justificação: Definição de área a sul do Porto de Vila Praia de Âncora que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra (os sedimentos depositados na praia da Gelfa retornam ao porto). Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira a sul do forte do Cão.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_116_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_117_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -61894 | 236183 |
-| 2... | -61894 | 235489 |
-| 3... | -62396 | 235489 |
-| 4... | -62396 | 236183 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-61894
+
+236183
+
+2...
+
+-61894
+
+235489
+
+3...
+
+-62396
+
+235489
+
+4...
+
+-62396
+
+236183
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,35 km2;
 
@@ -1325,18 +1551,45 @@ A - Processo: Translação em cerca de 500 m para este do local previsto como po
 
 B - Justificação: Definição de área a sul do Porto de Viana do Castelo que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nas praias do Rodanho e Amorosa(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_120_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_121_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -58077 | 221935 |
-| 2... | 58018 | 221389 |
-| 3... | -58366 | 221351 |
-| 4... | -58425 | 221898 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-58077
+
+221935
+
+2...
+
+58018
+
+221389
+
+3...
+
+-58366
+
+221351
+
+4...
+
+-58425
+
+221898
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,19 km2;
 
@@ -1392,18 +1645,45 @@ A - Processo: Translação em cerca de 500 m para norte do local previsto como p
 
 B - Justificação: Definição de área a sul do portinho de Castelo do Neiva que permita imergir sedimentos arenosos. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia de Castelo do Neiva e troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_124_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_125_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -57202 | 217113 |
-| 2... | -57202 | 216259 |
-| 3... | -57688 | 216259 |
-| 4... | -57688 | 21711 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-57202
+
+217113
+
+2...
+
+-57202
+
+216259
+
+3...
+
+-57688
+
+216259
+
+4...
+
+-57688
+
+21711
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,41 km2;
 
@@ -1462,6 +1742,8 @@ Ficha 05T - Ofir/Bonança
 A - Justificação: Definição de área a sul da barra do Cávado (Porto de Esposende) que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva embocadura. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nas Praias de Ofir, Bonança Fão e Pedrinhas(1).
 
 B - Condicionalismos principais - Área Classificada para a conservação da natureza e da biodiversidade: o local Ofir/Bonança insere-se no Parque Natural do Litoral Norte (PNLN) e em ZEC (PTCON0017 - Litoral Norte) da Rede Natura 2000.
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_128_Image_0001.jpg)
 
 Figura 1 - Alternativas equacionadas para o local 05-Ofir/Bonança
 
@@ -1537,18 +1819,45 @@ A - Processo: Translação em cerca de 900 m para norte do local previsto como p
 
 B - Justificação: Definição de área a sul do Porto de Vila do Conde que permita imergir sedimentos arenosos provenientes, essencialmente, dos portos de Vila do Conde e da Póvoa do Varzim, evitando o seu retorno às respetivas barras. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nas praias da Árvore e Mindelo(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_133_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_134_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -51098 | 184425 |
-| 2... | -51098 | 183491 |
-| 3... | -51543 | 183491 |
-| 4... | -51543 | 184425 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-51098
+
+184425
+
+2...
+
+-51098
+
+183491
+
+3...
+
+-51543
+
+183491
+
+4...
+
+-51543
+
+184425
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,41 km2;
 
@@ -1608,18 +1917,45 @@ A - Processo: Manutenção do local previsto como potencial no PSOEM e otimizaç
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_137_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_138_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -50070 | 174833 |
-| 2... | -50069 | 174216 |
-| 3... | -50385 | 174216 |
-| 4... | -50386 | 174833 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-50070
+
+174833
+
+2...
+
+-50069
+
+174216
+
+3...
+
+-50385
+
+174216
+
+4...
+
+-50386
+
+174833
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,19 km2;
 
@@ -1677,18 +2013,43 @@ A - Processo: Local previsto como existente no PSOEM e otimização da localiza�
 
 B - Justificação: Definição de área a sul do Porto de Leixões que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia de Matosinhos, e troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_141_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -46918 | 167186 |
-| 2... | -46921 | 166498 |
-| 3... | -47232 | 166500 |
-| 4... | -47228 | 167188 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-46918
+
+167186
+
+2...
+
+-46921
+
+166498
+
+3...
+
+-47232
+
+166500
+
+4...
+
+-47228
+
+167188
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,21 km2;
 
@@ -1746,18 +2107,45 @@ A - Processo: Local previsto como potencial no PSOEM, sendo objeto de uma pequen
 
 B - Justificação: Definição de área a sul do Porto de Leixões que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia de Castelo do Queijo e troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_145_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_146_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -46957,2 | 166383,8 |
-| 2... | -46685,7 | 165931,9 |
-| 3... | -46894,5 | 165806,5 |
-| 4... | -47165,9 | 166258,4 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-46957,2
+
+166383,8
+
+2...
+
+-46685,7
+
+165931,9
+
+3...
+
+-46894,5
+
+165806,5
+
+4...
+
+-47165,9
+
+166258,4
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,13 km2;
 
@@ -1813,18 +2201,45 @@ A - Processo: Local previsto como potencial no PSOEM sendo objeto de uma pequena
 
 B - Justificação: Definição de área a sul da barra do Douro que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva embocadura. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nos troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_149_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_150_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -45217 | 163583 |
-| 2... | -45217 | 163175 |
-| 3... | -45595 | 163175 |
-| 4... | -45595 | 163583 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-45217
+
+163583
+
+2...
+
+-45217
+
+163175
+
+3...
+
+-45595
+
+163175
+
+4...
+
+-45595
+
+163583
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,13 km2;
 
@@ -1884,18 +2299,45 @@ A - Processo: Local previsto como potencial no PSOEM e otimização da localiza�
 
 B - Justificação: Definição de área a sul da barra do Douro que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva embocadura. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na Praia de Lavadores e nos troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_153_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_154_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -45240 | 162407 |
-| 2... | -45131 | 161439 |
-| 3... | -45261 | 161436 |
-| 4... | -45407 | 162411 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-45240
+
+162407
+
+2...
+
+-45131
+
+161439
+
+3...
+
+-45261
+
+161436
+
+4...
+
+-45407
+
+162411
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,17 km2;
 
@@ -1949,18 +2391,43 @@ A - Processo: Novo local com definição da localização da área de deposiçã
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos (proveniente de mancha de empréstimo ao largo) para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas Praias de Cortegaça, S. P. da Maceda e nos troços adjacentes a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_157_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -44365 | 143338 |
-| 2... | -45098 | 138329 |
-| 3... | -45550 | 138393 |
-| 4... | -45387 | 143485 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-44365
+
+143338
+
+2...
+
+-45098
+
+138329
+
+3...
+
+-45550
+
+138393
+
+4...
+
+-45387
+
+143485
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 3,35 km2;
 
@@ -2042,18 +2509,43 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos (provenientes de mancha de empréstimo ao largo) para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira na Praia do Furadouro e nos troços adjacentes a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_163_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -45867 | 134990 |
-| 2... | -46483 | 132627 |
-| 3... | -46677 | 132678 |
-| 4... | -46062 | 135040 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-45867
+
+134990
+
+2...
+
+-46483
+
+132627
+
+3...
+
+-46677
+
+132678
+
+4...
+
+-46062
+
+135040
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área - 0,49 km2;
 
@@ -2135,18 +2627,45 @@ A - Processo: Ampliação da área do local definido como existente no PSOEM e o
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas praias da Costa Nova e Vagueira e nos troços adjacentes a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_169_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_170_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-| Vértice | X | Y |
-| --- | --- | --- |
-|  |  |  |
-| 1... | -52848 | 105437 |
-| 2... | -53411 | 102544 |
-| 3... | -53713 | 102603 |
-| 4... | -53149 | 105495 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-52848
+
+105437
+
+2...
+
+-53411
+
+102544
+
+3...
+
+-53713
+
+102603
+
+4...
+
+-53149
+
+105495
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,90 km2;
 
@@ -2234,17 +2753,43 @@ A - Processo: Aumento e translação de área do local definido como existente n
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas praias da Cova Gala, Lavos e nos troços adjacentes a sotamar, muito devido à retenção de sedimentos provocados pelo molhe norte do Porto da Figueira da Foz que provoca elevada acreção a montante(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_177_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_177_Image_0002.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -62994 | 51232 |
-| 2... | -62753 | 51163 |
-| 3... | -63309 | 49242 |
-| 4... | -63549 | 49311 |
+Vértice
+
+X
+
+Y
+
+1...
+
+-62994
+
+51232
+
+2...
+
+-62753
+
+51163
+
+3...
+
+-63309
+
+49242
+
+4...
+
+-63549
+
+49311
 
 . Área = 0,57 km2;
 
@@ -2324,18 +2869,45 @@ A - Processo: Translação em cerca de 300 m para sul do local previsto como pot
 
 B - Justificação: Definição de área a sul do Porto da Nazaré que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nas praias a sul do Porto da Nazaré e reduzir os efeitos negativos causados pelos temporais.(1)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_182_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_183_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-| Vértice | X | Y |
-| --- | --- | --- |
-|  |  |  |
-| 1... | - 83204 | -10775 |
-| 2... | -82934 | -10934 |
-| 3... | -83402 | -11561 |
-| 4... | -83656 | -11394 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+- 83204
+
+-10775
+
+2...
+
+-82934
+
+-10934
+
+3...
+
+-83402
+
+-11561
+
+4...
+
+-83656
+
+-11394
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,23 km2;
 
@@ -2397,18 +2969,45 @@ A - Processo: Translação em cerca de 300 m para norte do local previsto como p
 
 B - Justificação: Definição de área a sul do Porto de Peniche que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na Praia de São Bernardino e troços adjacentes(1)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_186_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_187_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -38270 | -105626 |
-| 2... | -38959 | -105244 |
-| 3... | -39117 | -105528 |
-| 4... | -38428 | -105911 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-38270
+
+-105626
+
+2...
+
+-38959
+
+-105244
+
+3...
+
+-39117
+
+-105528
+
+4...
+
+-38428
+
+-105911
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,25 km2;
 
@@ -2466,18 +3065,45 @@ A - Processo: Translação do local previsto como existente no PSOEM e otimizaç
 
 B - Justificação: Definição de área a sul do Porto da Ericeira que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na Praia do Sul e troços adjacentes(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_190_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_191_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -111521 | -77952 |
-| 2... | -111509 | -78784 |
-| 3... | -111775 | -78782 |
-| 4... | -111779 | -77953 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-111521
+
+-77952
+
+2...
+
+-111509
+
+-78784
+
+3...
+
+-111775
+
+-78782
+
+4...
+
+-111779
+
+-77953
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,22 km2;
 
@@ -2545,18 +3171,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área a nascente da Marina de Cascais que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva barra. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira nas praias da Conceição/Duquesa e evitando a afetação dos litorais rochoso localizados a seguir.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_195_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_196_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-| Vértice | X | Y |
-| --- | --- | --- |
-|  |  |  |
-| 1... | -111414 | -106753 |
-| 2... | -111363 | -106838 |
-| 3... | -111533 | -106940 |
-| 4... | -111584 | -106855 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-111414
+
+-106753
+
+2...
+
+-111363
+
+-106838
+
+3...
+
+-111533
+
+-106940
+
+4...
+
+-111584
+
+-106855
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,02 km2;
 
@@ -2606,19 +3259,51 @@ A - Processo: Local previsto como existente no PSOEM (profundidades entre os 8 m
 
 B - Justificação: Definição de área sobre a forma aluvionar submersa do Cachopo Norte que permita imergir sedimentos arenosos, contribuindo para o reforço do balanço sedimentar na célula de circulação do estuário exterior do Tejo, atenuação da energia da ondulação, mitigação da erosão costeira nas Praias de São João e Costa da Caparica(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_199_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_200_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -105018 | -110114 |
-| 2... | -107254 | -112326 |
-| 3... | -108024 | -111758 |
-| 4... | -106713 | -110349 |
-| 5... | -105904 | -109972 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-105018
+
+-110114
+
+2...
+
+-107254
+
+-112326
+
+3...
+
+-108024
+
+-111758
+
+4...
+
+-106713
+
+-110349
+
+5...
+
+-105904
+
+-109972
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 2,75 km2;
 
@@ -2674,7 +3359,7 @@ Silva A. M., Lira, C., Sousa, H., Silveira, T., Andrade, C. Taborda; R, e Freita
 
 Taborda, R. & Andrade, C. (2014) - Morfodinâmica do Estuário Exterior do Tejo e Intervenção na Região da Caparica;
 
-## Anexo I (pp. 279-295) in Santos, F., Lopes, A., Moniz, G., Ramos, L., Taborda, R. (2014). Gestão da Zona Costeira - O Desafio da Mudança. Relatório do Grupo de Trabalho do Litoral. 237p. 978-989-99962-1-2.
+Anexo I (pp. 279-295) in Santos, F., Lopes, A., Moniz, G., Ramos, L., Taborda, R. (2014). Gestão da Zona Costeira - O Desafio da Mudança. Relatório do Grupo de Trabalho do Litoral. 237p. 978-989-99962-1-2.
 
 Ficha de caracterização dos locais de imersão de sedimentos
 
@@ -2684,18 +3369,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas Praias de São João e Costa de Caparica(1), e reduzir os efeitos negativos causados pelos temporais.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_204_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_205_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -98059 | -111484 |
-| 2... | -95941 | -114706 |
-| 3... | -96115 | -114848 |
-| 4... | -98303 | -111652 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-98059
+
+-111484
+
+2...
+
+-95941
+
+-114706
+
+3...
+
+-96115
+
+-114848
+
+4...
+
+-98303
+
+-111652
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 1,15 km2;
 
@@ -2775,25 +3487,87 @@ B - Justificação: Definição de área sobre a forma aluvionar submersa do Ban
 
 Nota. - A deposição do sedimento sobre o delta de vazante do Sado não apresenta vantagens significativas já que neste local não há deficit sedimentar(55)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_209_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_210_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono com coordenadas dos vértices dos extremos:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | Longitude | Latitude |
-| 1... | -71509 | -135585 |
-| 2... | -66400 | -136196 |
-| 3... | -65856 | -136175 |
-| 4... | -65079 | -135945 |
-| 5... | -62451 | -136234 |
-| 6... | -62074 | -136596 |
-| 7... | -62390 | -137024 |
-| 8... | -63960 | -136616 |
-| 9... | -66217 | -136579 |
-| 10... | -69632 | -136291 |
-| 11... | -71563 | -135861 |
-| Sist Coord.ETRS 89PT-TM06 |  |  |
+Vértice
+
+Longitude
+
+Latitude
+
+1...
+
+-71509
+
+-135585
+
+2...
+
+-66400
+
+-136196
+
+3...
+
+-65856
+
+-136175
+
+4...
+
+-65079
+
+-135945
+
+5...
+
+-62451
+
+-136234
+
+6...
+
+-62074
+
+-136596
+
+7...
+
+-62390
+
+-137024
+
+8...
+
+-63960
+
+-136616
+
+9...
+
+-66217
+
+-136579
+
+10...
+
+-69632
+
+-136291
+
+11...
+
+-71563
+
+-135861
+
+Sist Coord.ETRS 89PT-TM06
 
 . Área = 2,06 km2;
 
@@ -2851,20 +3625,57 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas praias da Meia Praia(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_214_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_215_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -46142 | -283689 |
-| 2... | -45532 | -283334 |
-| 3... | -44999 | -283088 |
-| 4... | -44 909 | -283334 |
-| 5... | -45 525 | -283531 |
-| 6... | -46 077 | -283815 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-46142
+
+-283689
+
+2...
+
+-45532
+
+-283334
+
+3...
+
+-44999
+
+-283088
+
+4...
+
+-44 909
+
+-283334
+
+5...
+
+-45 525
+
+-283531
+
+6...
+
+-46 077
+
+-283815
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,24 km2;
 
@@ -2926,22 +3737,69 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local do balanço sedimentar, com o objetivo de mitigar a erosão costeira na Praia do Alvor (nascente), e reduzir os efeitos negativos causados pelos temporais.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_219_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_220_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -41308 | -282708 |
-| 2... | -40853 | -282759 |
-| 3... | -40516 | -282816 |
-| 4... | -40232 | -282920 |
-| 5... | -40276 | -283057 |
-| 6... | -40610 | -282920 |
-| 7... | -40747 | -282849 |
-| 8... | -41313 | -282849 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-41308
+
+-282708
+
+2...
+
+-40853
+
+-282759
+
+3...
+
+-40516
+
+-282816
+
+4...
+
+-40232
+
+-282920
+
+5...
+
+-40276
+
+-283057
+
+6...
+
+-40610
+
+-282920
+
+7...
+
+-40747
+
+-282849
+
+8...
+
+-41313
+
+-282849
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,12 km2;
 
@@ -3005,18 +3863,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local do balanço sedimentar, com o objetivo de mitigar a erosão costeira na praia de Albufeira.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_224_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_225_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -9855 | -286783 |
-| 2... | -9852 | -287001 |
-| 3... | -10667 | -287014 |
-| 4... | -10671 | -286796 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-9855
+
+-286783
+
+2...
+
+-9852
+
+-287001
+
+3...
+
+-10667
+
+-287014
+
+4...
+
+-10671
+
+-286796
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,17 km2;
 
@@ -3076,18 +3961,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local do balanço sedimentar, com o objetivo de mitigar a erosão costeira na Praia de Maria Luísa e Olhos de Água(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_228_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_229_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | -5594 | -286765 |
-| 2... | -5599 | -287080 |
-| 3... | -6218 | -287069 |
-| 4... | -6212 | -286753 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+-5594
+
+-286765
+
+2...
+
+-5599
+
+-287080
+
+3...
+
+-6218
+
+-287069
+
+4...
+
+-6212
+
+-286753
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,19 km2;
 
@@ -3139,18 +4051,45 @@ A - Processo: Translação e aumento de área do local definido como existente n
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira nas Praias de Quarteira, Forte Novo e nos troços adjacentes a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_232_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_233_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | 4105 | -289647 |
-| 2... | 3941 | -289987 |
-| 3... | 3496 | -289771 |
-| 4... | 3661 | -289771 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+4105
+
+-289647
+
+2...
+
+3941
+
+-289987
+
+3...
+
+3496
+
+-289771
+
+4...
+
+3661
+
+-289771
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,19 km2;
 
@@ -3210,18 +4149,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira na praia de Vale do Lobo, Garrão e no troço adjacente a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_236_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_237_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-| Vértice | X | Y |
-| --- | --- | --- |
-|  |  |  |
-| 1... | 7415 | -292071 |
-| 2... | 7194 | -292376 |
-| 3... | 4493 | -290424 |
-| 4... | 4713 | -290119 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+7415
+
+-292071
+
+2...
+
+7194
+
+-292376
+
+3...
+
+4493
+
+-290424
+
+4...
+
+4713
+
+-290119
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,74 km2;
 
@@ -3295,18 +4261,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área que permita imergir sedimentos arenosos para reforço local e setorial do balanço sedimentar, com o objetivo de mitigar a erosão costeira na praia de Faro(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_242_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_243_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | 13132,9 | -296325,3 |
-| 2... | 12936,7 | -296582,1 |
-| 3... | 11114,8 | -295190,6 |
-| 4... | 11311,0 | -294933,7 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+13132,9
+
+-296325,3
+
+2...
+
+12936,7
+
+-296582,1
+
+3...
+
+11114,8
+
+-295190,6
+
+4...
+
+11311,0
+
+-294933,7
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,74 km2;
 
@@ -3376,18 +4369,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área a nascente da barra de Faro-Olhão que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva embocadura. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia do Farol e troço adjacente a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_248_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_248_Image_0002.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | 24654 | -299090 |
-| 2... | 24960 | -299618 |
-| 3... | 24214 | -300052 |
-| 4... | 23907 | -299523 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+24654
+
+-299090
+
+2...
+
+24960
+
+-299618
+
+3...
+
+24214
+
+-300052
+
+4...
+
+23907
+
+-299523
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,53 km2;
 
@@ -3455,18 +4475,45 @@ A - Processo: Novo local e definição da localização da área de deposição 
 
 B - Justificação: Definição de área a nascente da barra da Armona que permita imergir sedimentos arenosos, evitando o seu retorno à respetiva embocadura. Reforço local do balanço sedimentar com o objetivo de mitigar a erosão costeira na praia da Fuzeta e troço adjacente a sotamar(1).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_253_Image_0001.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_254_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | 32006 | -293769 |
-| 2... | 32507 | -294003 |
-| 3... | 294003 | -294886 |
-| 4... | 31594 | -294652 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+32006
+
+-293769
+
+2...
+
+32507
+
+-294003
+
+3...
+
+294003
+
+-294886
+
+4...
+
+31594
+
+-294652
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área = 0,53 km2;
 
@@ -3542,18 +4589,43 @@ A - Justificação: Definição de área a nascente da barra de Tavira que permi
 
 B - Processo: Novo local e definição da localização da área de deposição (profundidades entre os 3 m e 7 m ZH).
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_258_Image_0001.jpg)
+
 C - Caracterização do local proposto:
 
 . Polígono retangular com coordenadas dos vértices:
 
-|  |  |  |
-| --- | --- | --- |
-| Vértice | X | Y |
-| 1... | 49028 | -281735 |
-| 2... | 46748 | -283517 |
-| 3... | 46416 | -283160 |
-| 4... | 48687 | -281402 |
-| Sist. Coord: ETRS 89 PT-TM 06 |  |  |
+Vértice
+
+X
+
+Y
+
+1...
+
+49028
+
+-281735
+
+2...
+
+46748
+
+-283517
+
+3...
+
+46416
+
+-283160
+
+4...
+
+48687
+
+-281402
+
+Sist. Coord: ETRS 89 PT-TM 06
 
 . Área =-1,38 km2;
 
@@ -3759,35 +4831,69 @@ Buffers, conflitos de uso nos locais de imersão
 
 Nas figuras seguintes, elaboradas tendo como base o Geoportal do Plano de Situação de Ordenamento do Espaço Marítimo Nacional, pode visualizar-se nos 33 locais para os quais se elaboraram fichas finais a sobreposição do local e das áreas envolventes (respetivamente de 500 m, de 1000 m e de 2000m), com outros usos e condicionalismos existentes. Os cruzamentos de informação encontram-se sistematizados na Tabela 1 no corpo do relatório.
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\imagempag_263_264.jpg)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_264_Image_0001.jpg)
+
 Fig. 1 - Buffers sobre os locais da Ficha 01T - Praia de Moledo e Ficha 02T - Praia da Gelfa
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_265_Image_0001.jpg)
 
 Fig. 2 - Buffers sobre os locais da Ficha 03T - Praia do Rodanho e Ficha 04T - Castelo do Neiva
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_266_Image_0001.jpg)
+
 Fig. 3 - Buffers sobre os locais da Ficha 07T - Árvore/Mindelo e Ficha 08 - Agudela
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_267_Image_0001.jpg)
 
 Fig. 4 - Buffers sobre os locais da Ficha 09 - Matosinhos, Ficha 10T - Castelo do Queijo, Ficha 11T - Cabedelo e Ficha 12 - Lavadores
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_268_Image_0001.jpg)
+
 Fig. 5 - Buffers sobre os locais da Ficha 13N -Cortegaça e Ficha 14N - Furadouro
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_269_Image_0001.jpg)
 
 Fig. 6 - Buffer sobre o local da Ficha 16A - Costa Nova
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_270_Image_0001.jpg)
+
 Fig. 7 - Buffer sobre o local da Ficha 17TA - Cova Gala
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_271_Image_0001.jpg)
 
 Fig. 8 - Buffer sobre o local da Ficha 18T - Nazaré
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_272_Image_0001.jpg)
+
 Fig. 9 - Buffer sobre o local da Ficha 20T - S. Bernardino
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_273_Image_0001.jpg)
 
 Fig. 10 - Buffer sobre o local da Ficha 21T - Ericeira
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_274_Image_0001.jpg)
+
 Fig. 11 - Buffers sobre os locais da Ficha 22N - Praia da Conceição, Ficha 23 - Cachopo Norte e Ficha 24N - Costa da Caparica
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_274_Image_0002.jpg)
 
 Fig. 12 - Buffer sobre o local da Ficha 25 - Troia/Cambalhão
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_275_Image_0001.jpg)
+
 Fig. 13 - Buffers sobre os locais da Ficha 26N - Meia Praia e Ficha 27N - Alvor (nascente)
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_276_Image_0001.jpg)
 
 Fig. 14 - Buffers sobre os locais da Ficha 28N -Albufeira e Ficha 29N - Maria Luísa
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_277_Image_0001.jpg)
+
 Fig. 15 - Buffers sobre os locais da Ficha 30AT - Quarteira/Forte Novo, Ficha 31N - Vale de Lobo e Ficha 32N - Praia de Faro
+
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_278_Image_0001.jpg)
 
 Fig. 16 - Buffers sobre os locais da Ficha 33N - Praia do Farol, Ficha 34N - Armona e Ficha 35N - Cabanas
 
@@ -3795,4 +4901,10 @@ Fig. 16 - Buffers sobre os locais da Ficha 33N - Praia do Farol, Ficha 34N - Arm
 
 Atualização da Figura 14 - Manchas de Empréstimo - do Plano de Situação, Volume III - C/PCE (Manchas de empréstimo)
 
+![](I:\ORIGINAIS\DR 1ª Série\PrConsMinistros\O1DR23_917228_116871218\versao assinada_Page_279_Image_0001.jpg)
+
 Figura 14 - Manchas de Empréstimo - atualizada pelo Plano de Afetação para a Imersão de Dragados na Costa Continental Portuguesa
+
+116871218
+
+.Tbl1 { text-align:center; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-left-color:None; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-left-color:None; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-left-color:Black; border-right-color:None; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:justify; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl14 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl15 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl16 { text-align:justify; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl20 { text-align:justify; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl21 { text-align:center; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl22 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl23 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:center; } .Tbl24 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl25 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:None; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl26 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl27 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:None; border-bottom-color:None; background-color:None; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl28 { text-align:center; border-left-color:None; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:top; } .Tbl29 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:top; } .Tbl30 { text-align:center; border-left-color:Black; border-right-color:None; border-top-color:Black; border-bottom-color:Black; background-color:None; font-style:Regular; font-size:6.5; vertical-align:top; }

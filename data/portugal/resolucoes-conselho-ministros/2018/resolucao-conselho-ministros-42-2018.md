@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07900/0166601673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42/2018/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-2018-115160088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbc24f2b3f50f8a615455c6d4e6cb5b4cbe6b3ff67a58ba8e296962ff9fcca7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 371fd318dbb47e428df6c683c56b2299ab04d2d25a084f7121847c9440286f1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,26 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
-- SIRESP
 - Contrato
 - Delegação de Competências
-- Segurança Pública
+- Governo XXI
+- Ministro da Administração Interna
 - Ministro das Finanças
 - Parceria Público-Privada
-- Ministro da Administração Interna
-- Governo XXI
+- Segurança Pública
+- SIRESP
 relationships:
 - type: amended_by
   target: pt:dre:126869983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção e o desenvolvimento da Rede de Emergência e Segurança de Portugal,
+    prevista na presente resolução, seja exercida pelo Ministro da Administração Interna, pelo(a) Decreto-Lei n.º 169-B/2019
+    - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
   label: null
@@ -114,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/74/2006/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/74/2006/06/12/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114655033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72970518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:56Z'
   warnings: []
   errors: []
 ---
@@ -442,7 +481,7 @@ e. Apêndice 10 - Serviços de supervisão e manutenção das Soluções de Redu
 
 b) O novo apêndice do Anexo 9 - Remuneração da Operadora:
 
-## Apêndice 01 - Remuneração da Operadora - Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
+Apêndice 01 - Remuneração da Operadora - Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
 
 c) O novo Anexo 10 - A - Garantia Bancária;
 
@@ -450,21 +489,21 @@ d) O novo Caso Base - Anexo 12A e novo Apêndice 01 ao mesmo: descrição das al
 
 e) O novo apêndice do Anexo 15 - Faseamento dos trabalhos de implementação do SIRESP e Datas de Entrada em Serviço:
 
-## Apêndice 01 - Faseamento dos trabalhos para as Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
+Apêndice 01 - Faseamento dos trabalhos para as Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
 
 f) O novo apêndice do Anexo 20 - Procedimento de Aceitação do Sistema:
 
-## Apêndice 01 - Procedimento de Aceitação das Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
+Apêndice 01 - Procedimento de Aceitação das Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
 
 g) O novo apêndice do Anexo 24 - Documentação:
 
-## Apêndice 01 - Documentação relativa às Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
+Apêndice 01 - Documentação relativa às Soluções de Redundância da Transmissão e Reforço da Autonomia de Energia Elétrica;
 
 h) O novo apêndice do Anexo 29 - Procedimento de aferição das deduções por falhas de disponibilidade e por falhas de desempenho:
 
-## Apêndice 01 - Disponibilidade da Solução de Redundância de Transmissão por Satélite;
+Apêndice 01 - Disponibilidade da Solução de Redundância de Transmissão por Satélite;
 
-## Apêndice 02 - Disponibilidade da Solução de Reforço da Autonomia de Energia Elétrica;
+Apêndice 02 - Disponibilidade da Solução de Reforço da Autonomia de Energia Elétrica;
 
 i) Anexo 48 - Contrato de prestação de serviços associados à redundância da rede de transmissão via satélite;
 
@@ -592,4 +631,6 @@ Os eventuais conflitos que possam surgir em matéria de aplicação, interpreta�
 
 Feito em Lisboa, no dia [...] de abril de 2018, em quatro exemplares, destinando-se um à Entidade Gestora, outro à Operadora, outro para o envio para a Unidade Técnica de Acompanhamento de Projetos, ao abrigo do artigo 33.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, e um último para remessa ao Tribunal de Contas, nos termos da Cláusula 10.ª do presente aditamento ao Contrato.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/04/07900/0166601673.pdf))](https://files.diariodarepublica.pt/1s/2018/04/07900/0166601673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/04/07900/0166601673.pdf)
+
+111290699

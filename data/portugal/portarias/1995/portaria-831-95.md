@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/831/1995/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-1995-461259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 439fd3425b63c18002c68df80e4a6b0c17f81d65d3f45e1044dff1dc1aa3988a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bc696a49e72bf3d6870712b30922302c4ce9747812636b781ba6804be01f878
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:334302:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651159:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e das\
+    \ actividades de carácter venatório na zona de caça, pela PORT.652/2003.2003.07.29.MADRP, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/652-2003-651159
+  date: '2003-07-29'
+- type: amended_by
+  target: pt:dre:432445:por
+  label: "Renovada, por um período de oito anos, a concessão da zona de caça turística concessionada pelo presente diploma,\
+    \ pela PORT.1376/2003.19.12.2003.MECO, DR.IS-B [292] de 19.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1376-2003-432445
+  date: '2003-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +94,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334302:por
+  label: "Revogada a concessão da zona de caça turística da Herdade de Alcarou de Baixo e outras criada pelo presente diploma,\
+    \ renovada pela Port 1376/2003, de 19-Dez (esta última revogada a partir de 24.07.2010), pela PORT.525/2010.19.07.2010.MADRP,\
+    \ DR.IS [138] de 19.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-2010-334302
+  date: '2010-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:02Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/160b00/44504451.pdf))](https://files.diariodarepublica.pt/1s/1995/07/160b00/44504451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/160b00/44504451.pdf)

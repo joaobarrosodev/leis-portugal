@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/133/2017/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/133-2017-108205177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:11:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e5c95e949b1b288e656d2fe0328389e4365457fa6de953173d085d1ca2d078f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d63ce9e22bd189bc01d7bae00b32e24a5159674b61e680d85ff3b7a01a3e2700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Autorização de Despesas
-- Empresa
-- Titulo de Transporte
 - Comparticipação do Estado
 - Contrato de Concessão
 - Contrato Programa
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Subvenção Pública
-- Lisboa
-- Secretaria Geral
+- Empresa
 - Indemnização Compensatória
 - Instituto da Mobilidade e dos Transportes
+- Lisboa
 - Ministério do Ambiente
 - Passe Social
-- Serviço Público
-- Presidência do Conselho de Ministros
-- Soflusa-sociedade Fluvial de Transportes
-- Transtejo
-- Autarquia Local
 - Porto
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+- Serviço Público
+- Soflusa-sociedade Fluvial de Transportes
+- Subvenção Pública
+- Titulo de Transporte
+- Transtejo
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -131,16 +131,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982-b/20
   label: null
   source: http://data.dre.pt/eli/port/982-b/20
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:11:20Z'
   warnings: []
   errors: []
 ---
@@ -209,8 +269,8 @@ Presidência do Conselho de Ministros, 21 de setembro de 2017. - Pelo Primeiro-M
 
 ## ANEXO I — (a que se referem os n.os 6 e 10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf))](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf)
 
 ## ANEXO II — (a que se refere o n.º 11)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf))](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/18500/0550605508.pdf)

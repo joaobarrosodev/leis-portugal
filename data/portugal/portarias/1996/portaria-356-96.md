@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/356/1996/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-1996-405916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f8b7d0b25e5ad53c5eb0e33e1dcd9ed34ae97aa2427d2ff068f32d928f59e8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeaecdadb86cded4d5ba77b6af662a5e652d9d33965e79b6793054764d02e596
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Centro de Estudos e Formação das Actividades Desportivas
-- Plano de Estudos
 - Carreira Profissional
+- Centro de Estudos e Formação das Actividades Desportivas
 - Pessoal Técnico Profissional
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:42Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +97,10 @@ Manda o Governo, pelos Secretários de Estado da Administração Local e Ordenam
 
 Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Julho de 1996.**
+Assinada em 15 de Julho de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho. - O Secretário de Estado da Administração Pública, Fausto de Sousa Correia.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho. - O Secretário de Estado da Administração Pública, Fausto de Sousa Correia.
 
 ## ANEXO — Curso de Actividade Física e Animação Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/189b00/25632563.pdf))](https://files.diariodarepublica.pt/1s/1996/08/189b00/25632563.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/189b00/25632563.pdf)

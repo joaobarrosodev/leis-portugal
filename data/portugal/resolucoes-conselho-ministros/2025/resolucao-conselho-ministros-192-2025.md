@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/192/2025/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2025-976310895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2002c434e5b58510da94d01e1a6e85a71b2059ac0d627e47e90423a737a94d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c6ccf1d28a16192009cf887604f3e9b66eab360924620618de078bfb969c8fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro Jurídico do Estado
+- Governo XXV
 - Nomeação
 - Subdiretor
 - Substituição de Cargos
 - Substituição de Funções
-- Centro Jurídico do Estado
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/68/2024/10/08/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/179/2024/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/179/2024/12/06/p/dre
+- type: cites
+  target: pt:dre:123610180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204481:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:45Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +144,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1, 2 e 3 do artigo 27.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Pública, aprovado pela [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, dos n.<sup>os</sup>2 e 3 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, aplicável por força do disposto no artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, ambos na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1, 2 e 3 do artigo 27.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Pública, aprovado pela [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, dos n.os2 e 3 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, aplicável por força do disposto no artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, ambos na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, em regime de substituição, Mariana Sacadura Cabral de Sousa e Alvim para o cargo de subdiretora do Centro Jurídico do Estado, cuja idoneidade, experiência e competência profissional são patentes na nota curricular que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -137,3 +161,5 @@ Presidência do Conselho de Ministros, 28 de novembro de 2025. - O Primeiro-Mini
 Nota curricular
 
 Licenciada (2002) e mestre (2007) em Direito pela Faculdade de Direito da Universidade de Lisboa. Doutoranda em Direito da União Europeia e da Concorrência na Faculdade de Direito da Universidade Católica e investigadora do Católica Research Centre for the Future of Law. Foi investigadora associada do Centro de Investigação de Direito Público da Faculdade de Direito da Universidade de Lisboa (2015-2021). Autora de várias publicações em direito europeu. Perita externa do Parlamento Europeu para a realização de pareceres independentes externos sobre direito internacional e da União Europeia (2017-2021). Advogada na MLGTS (2005-2010). Adjunta nos gabinetes do Ministro da Solidariedade, Emprego e Segurança Social e do Secretário de Estado da Administração Interna do XIX Governo Constitucional (2011-2015). Perita externa do Parlamento Europeu para a realização de pareceres independentes externos nas áreas do direito internacional e do direito da União Europeia (2017-2021). Consultora na Sérvulo & Associados (2021-2024). Adjunta no gabinete do Secretário de Estado da Presidência do Conselho de Ministros do XXIV Governo Constitucional (2024-2025). Associada de nível 1 do Centro Jurídico do Estado (CEJURE) (2025).
+
+119858783

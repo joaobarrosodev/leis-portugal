@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/323/1996/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/323-1996-407292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc84c3045a55895f6709a98f9b697e8228d21ad59efcbe96a07dcc2254da38c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 620478e35c01e260859e88832b11dee41ce961572f6d73b6dfb08ad51ace2a52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
 - Curso de Engenharia Rural
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
-- Castelo Branco
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:203473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203473:por
+  label: "Finalizada, com a entrada em funcionamento da opção de Engenharia Rural do curso de Engenharia das Ciências Agrárias\
+    \ da ESA de Castelo Branco, a ministração do curso de bacharelato em Engenharia Rural e revogado o presente diploma, findo\
+    \ o supracitado processo de transição, pela PORT.466-F/2000.2000.07.21.ME, DR.IS-B [167]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-f-2000-203473
+  date: '2000-07-21'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:52Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +151,8 @@ O curso entra em funcionamento progressivamente, um ano curricular em cada ano l
 
 Ministério da Educação.
 
-**Assinada em 27 de Junho de 1996.**
+Assinada em 27 de Junho de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/177b00/22602261.pdf))](https://files.diariodarepublica.pt/1s/1996/08/177b00/22602261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/177b00/22602261.pdf)

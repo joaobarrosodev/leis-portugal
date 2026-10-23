@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24900/0008000084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/201/2023/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2023-835809054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f78cbb440a81fdd44d485731b2f37730fff29782b64d1b4ce4228d4d46f36f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05e0910839521041e75fe82e7928b836f87cc4aefc50b7285227f30c2971fa6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Navegação Aérea
+- Aeroporto Humberto Delgado
+- Avaliação do Património
+- BENS Imóveis do Estado
 - Comissão de Negociação
 - Compensação Financeira
 - Contrato de Concessão
-- Regulamentação de Atos Legislativos
 - Domínio Público do Estado
 - Estamo-participações Imobiliárias
-- BENS Imóveis do Estado
 - Gestão Orçamental
-- Avaliação do Património
+- Navegação Aérea
+- Regulamentação de Atos Legislativos
 - Serviço Público
-- Aeroporto Humberto Delgado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2013/01/18/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:35Z'
   warnings: []
   errors: []
 ---
@@ -197,16 +213,16 @@ Presidência do Conselho de Ministros, 7 de dezembro de 2023. - O Primeiro-Minis
 
 Obrigações específicas de desenvolvimento - Cláusula 17.ª e anexo 9 do Contrato de Concessão de Serviço Público Aeroportuário nos Aeroportos Situados em Portugal Continental e na Região Autónoma dos Açores
 
-|  |  |  |
-| --- | --- | --- |
 | Aeroporto | Obrigações específicas de desenvolvimento (OED) | Novo prazo |
+| --- | --- | --- |
+|  |  |  |
 | Lisboa... | (08) Construção de entradas múltiplas na pista 03 (atual 02) ... | (*) |
-| Lisboa... | (10) Remodelação das áreas dos curbsides ... | 2024-2025 |
-| Lisboa... | (13) Construção de saídas rápidas de pista - pista 03 (atual 02) - «Realização da Fase 2 da Saída Rápida H2» . | (**) 2026 |
-| Lisboa... | (14) Construção de entradas múltiplas na pista 21 (atual 20) ... | (**) 2025-2027 |
-| Lisboa... | (15) Remodelação da rede média tensão (Fase 2) ... | (*) |
-| Lisboa... | (16) Remodelação da plataforma de estacionamento 80 ... | (*) |
-| Lisboa... | (17) Expropriação de armazéns na zona das entradas múltiplas da pista 21 (atual 20) - Relação com a OED 14. | 2024-2025 |
+| (10) Remodelação das áreas dos curbsides ... | 2024-2025 |  |
+| (13) Construção de saídas rápidas de pista - pista 03 (atual 02) - «Realização da Fase 2 da Saída Rápida H2» . | (**) 2026 |  |
+| (14) Construção de entradas múltiplas na pista 21 (atual 20) ... | (**) 2025-2027 |  |
+| (15) Remodelação da rede média tensão (Fase 2) ... | (*) |  |
+| (16) Remodelação da plataforma de estacionamento 80 ... | (*) |  |
+| (17) Expropriação de armazéns na zona das entradas múltiplas da pista 21 (atual 20) - Relação com a OED 14. | 2024-2025 |  |
 
 (*) O Concedente aceita a substituição da OED mediante a execução de proposta alternativa, mas sem direito a reequilíbrio financeiro pela Concessionária.
 
@@ -214,13 +230,13 @@ Obrigações específicas de desenvolvimento - Cláusula 17.ª e anexo 9 do Cont
 
 Obrigações de desenvolvimento (cláusula 17.ª) do Contrato de Concessão de Serviço Público Aeroportuário nos Aeroportos Situados em Portugal Continental e na Região Autónoma dos Açores
 
-|  |  |  |
-| --- | --- | --- |
 | Aeroporto | Obrigações Desenvolvimento (OD) | Prazo |
-| Lisboa... | Braço Sul do Terminal 1 (Pier Sul) ... | (*) 2024-2026 (**) 2025-2027 |
-| Lisboa... | Área de estacionamento na soleira da 35 (plataforma de estacionamento sul) ... | (*) 2024-2026 (**) 2025-2027 |
-| Lisboa... | Remodelação interior do Terminal 1 (1.ª fase) ... | 2024-2026 |
-| Lisboa... | Ampliação do corpo central do Terminal 1 ... | (*) 2026-2028 (**) 2027-2029 |
+| --- | --- | --- |
+|  |  |  |
+| Lisboa... | Braço Sul do Terminal 1 (Pier Sul) ... | (*) 2024-2026<br>(**) 2025-2027 |
+| Área de estacionamento na soleira da 35 (plataforma de estacionamento sul) ... | (*) 2024-2026<br>(**) 2025-2027 |  |
+| Remodelação interior do Terminal 1 (1.ª fase) ... | 2024-2026 |  |
+| Ampliação do corpo central do Terminal 1 ... | (*) 2026-2028<br>(**) 2027-2029 |  |
 
 (*) Caso a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), venha a decidir pela isenção do investimento a procedimento de avaliação de impacte ambiental (AIA), nos termos do [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, na sua redação atual.
 
@@ -230,4 +246,7 @@ Obrigações de desenvolvimento (cláusula 17.ª) do Contrato de Concessão de S
 
 Planta 1 - «Área do Aeródromo de Trânsito n.º 1 a desafetar»
 
-![](https://files.diariodarepublica.pt/images/835809054/835825279.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835809054/835825279.png) |
+| --- |
+
+117197981

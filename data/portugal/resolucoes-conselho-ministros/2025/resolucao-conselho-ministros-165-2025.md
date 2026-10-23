@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/165/2025/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-2025-941845858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e493bcb990aab0fbb79b6fc52a6d8835a121b5132fdb15a23366213e29915973
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83c7ad131c15f74b598dede6e7e5ffbb3a89f51d50fe8ef54eb9b3c5c86a74bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação para a Ciência e a Tecnologia
 - Conselho Diretivo
+- Fundação para a Ciência e a Tecnologia
 - Nomeação
 - Vice-presidente
 relationships:
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+- type: cites
+  target: pt:dre:185504371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:10Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +124,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos artigos 5.º e 12.º do [Decreto-Lei n.º 55/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2013-260419), de 17 de abril, e dos n.<sup>os</sup>2 e 3 do artigo 13.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, o Conselho de Ministros resolve:
+Nos termos dos artigos 5.º e 12.º do [Decreto-Lei n.º 55/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2013-260419), de 17 de abril, e dos n.os2 e 3 do artigo 13.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta do Ministro de Estado e das Finanças e do Ministro da Educação, Ciência e Inovação, João Nuno Urbano Ferreira para o cargo de vice-presidente do conselho diretivo da Fundação para a Ciência e a Tecnologia, I. P., cujas idoneidade, experiência e competência profissionais são evidenciadas na nota curricular e profissional que consta do anexo à presente resolução e da qual faz parte integrante.
 
@@ -141,3 +157,5 @@ De outubro de 1993 a janeiro de 2013, foi diretor técnico na FCCN. Ao longo des
 Em 1997 e 1998 foi, igualmente, docente na Universidade Atlântica;
 
 De dezembro de 1991 a outubro de 1993, desempenhou as funções de técnico superior do Departamento de Informática da Universidade do Minho.
+
+119684802

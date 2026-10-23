@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24202/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/188-a/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-a-2024-900164449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afe0029e3379143f261e8b5906427b0198b32200761c2835cccb409d35960d28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17360e2dec74ce9ff5e5a5e945005ecb31ff07cd122ad53f50a875573197077c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Conselho de Ministros
-- Força Aérea
 - Delegação de Competências
 - Despesas Públicas
-- Ministro da Defesa Nacional
+- Força Aérea
 - Governo XXIV
+- Ministro da Defesa Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/88/2024/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88/2024/07/12/p/dre
+- type: cites
+  target: pt:dre:219991254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763926:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:49Z'
   warnings: []
   errors: []
 ---
@@ -128,17 +148,17 @@ Tendo o programa KC-390 permitido a capacitação nacional nos processos de enge
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>5 e 6 do artigo 1.º, do n.º 1 do artigo 2.º e do n.º 2 do artigo 10.º da Lei de Programação Militar, aprovada pela [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto, da alínea b) do n.º 1 do artigo 346.º do Tratado sobre o Funcionamento da União Europeia, da alínea c) do n.º 3 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os5 e 6 do artigo 1.º, do n.º 1 do artigo 2.º e do n.º 2 do artigo 10.º da Lei de Programação Militar, aprovada pela [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto, da alínea b) do n.º 1 do artigo 346.º do Tratado sobre o Funcionamento da União Europeia, da alínea c) do n.º 3 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar os encargos orçamentais plurianuais e a realização da despesa com a aquisição de 12 aeronaves A-29N Super Tucano, simulador de voo e bens e serviços de sustentação logística, à Embraer, S. A., até ao montante máximo global de € 196 662 481,42, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, quando aplicável.
 
 2 - Autorizar os encargos orçamentais plurianuais e a realização de despesas, não incluídas no número anterior, necessárias à plena concretização do programa de aquisição e sustentação das aeronaves A-29N, até ao montante máximo de € 4 477 518,58, a que acresce o IVA à taxa legal em vigor, quando aplicável, nomeadamente com a aquisição de equipamentos de apoio, ferramentas e demais bens e serviços específicos necessários à execução dos vários elementos de missão, com a infraestrutura SI/TIC (Sistemas de Informação/Tecnologias de Informação e Comunicação), com a construção e ou remodelação de infraestruturas e as demais despesas indispensáveis ao acompanhamento e fiscalização do programa.
 
-3 - Determinar, sem prejuízo do disposto no n.º 4, que os encargos resultantes das aquisições que a se referem os n.<sup>os</sup>1 e 2 são satisfeitos através de verbas adequadamente inscritas anualmente na Lei de Programação Militar, aprovada pela [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto (LPM), resultante da dotação orçamental do Ministério da Defesa Nacional, inscrita nos Serviços Centrais, na Capacidade «Capacidades Conjuntas», no Projeto «Aeronave de Apoio Aéreo Próximo», não podendo exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor, quando aplicável:
+3 - Determinar, sem prejuízo do disposto no n.º 4, que os encargos resultantes das aquisições que a se referem os n.os1 e 2 são satisfeitos através de verbas adequadamente inscritas anualmente na Lei de Programação Militar, aprovada pela [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto (LPM), resultante da dotação orçamental do Ministério da Defesa Nacional, inscrita nos Serviços Centrais, na Capacidade «Capacidades Conjuntas», no Projeto «Aeronave de Apoio Aéreo Próximo», não podendo exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor, quando aplicável:
 
-| Ano | Encargos previstos na presente resolução | Encargos previstos na presente resolução |
+| Ano | Encargos previstos na presente resolução |  |
 | --- | --- | --- |
-| Ano | N.º 1 | N.º 2 |
+| N.º 1 | N.º 2 |  |
 | 2024 | € 25 480 000,00 | € 0,00 |
 | 2025 | € 48 520 000,00 | € 3 800 000,00 |
 | 2026 | € 1 899 629,40 | € 100 370,60 |
@@ -158,3 +178,5 @@ Nos termos dos n.<sup>os</sup>5 e 6 do artigo 1.º, do n.º 1 do artigo 2.º e d
 7 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 12 de dezembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118470028

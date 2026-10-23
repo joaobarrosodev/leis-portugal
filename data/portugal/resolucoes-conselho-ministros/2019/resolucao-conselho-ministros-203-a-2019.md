@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/2019, 1º Suplemento, Série I de 2019-12-30
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(2) a 72-(391)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/203-a-2019-127659203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17f1d0161f1ef8fb05ad32dce5e64b8d187c45f9f8f81354a76d9c80c4caad20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e598cd64dac973e2b30a90d621815b68015d800b08a547888763234966546cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Mar
-- Zona Económica Exclusiva
-- Plataforma Continental
-- Mar Territorial
 - Domínio Público Marítimo
 - Espaço Marítimo
-- Meio Marinho
 - Madeira.região Autónoma
+- Mar
+- Mar Territorial
+- Meio Marinho
+- Ordenamento do Território
 - Plano de Situação de Ordenamento do Espaço Marítimo Nacional
+- Plataforma Continental
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:906519104:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:891107797:por
+  label: 'Aprovadas as adendas aos Volumes I - Enquadramento, Estrutura e Dinâmica e II - Metodologia Geral: Servidões, Usos
+    e Atividades pelo(a) Resolução do Conselho de Ministros n.º 136/2024 - Diário da República n.º 201/2024, Série I de 2024-10-16'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/136-2024-891107797
+  date: '2024-10-16'
+- type: amended_by
+  target: pt:dre:906519104:por
+  label: Alterada, a partir de 8 de fevereiro de 2025, a Ficha 6C pelo(a) Resolução do Conselho de Ministros n.º 19/2025 -
+    Diário da República n.º 27/2025, Série I de 2025-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/19-2025-906519104
+  date: '2025-02-07'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -221,6 +233,606 @@ relationships:
   target: eli:http://data.europa.eu/eli/re
   label: null
   source: http://data.europa.eu/eli/re
+- type: cites
+  target: pt:dre:105820646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106589745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107078027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107477153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107514243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107648934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107987275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108192977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114701912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116152181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117343949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122074192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58728911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66253426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66558700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70348608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70693924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73943941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75367887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75554999:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -239,14 +851,14 @@ relationships:
   source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:24Z'
   warnings: []
   errors: []
 ---
@@ -371,9 +983,9 @@ O Plano de Situação foi objeto de Avaliação Ambiental Estratégica, nos term
 
 Toda a documentação escrita e cartográfica pode ser consultada em www.psoem.pt.
 
-##### SUBDIVISÃO DO CONTINENTE
+SUBDIVISÃO DO CONTINENTE
 
-##### SUBDIVISÃO DA PLATAFORMA CONTINENTAL ESTENDIDA
+SUBDIVISÃO DA PLATAFORMA CONTINENTAL ESTENDIDA
 
 Nos termos do anexo I do Despacho n.º 11494/2015, publicado no Diário da República, 2.ª série, n.º 201, de 14 de outubro, os trabalhos de elaboração do Plano de Situação foram acompanhados pela Comissão Consultiva (CC) respeitante à subdivisão do Continente e da Plataforma Continental Estendia tendo o Plano sido aprovado por maioria.
 
@@ -389,7 +1001,7 @@ Foram ainda realizadas reuniões de concertação com o Instituto do Turismo de 
 
 Os volumes III-C/PCE, IV-C e IV-PCE integram a espacialização dos usos e atividades e o relatório de caracterização da subdivisão do Continente e da Plataforma Continental Estendida.
 
-##### SUBDIVISÃO DA MADEIRA
+SUBDIVISÃO DA MADEIRA
 
 Nos termos do anexo II do Despacho n.º 11494/2015, publicado no Diário da República, 2.ª série, n.º 201, de 14 de outubro, os trabalhos de elaboração do Plano de Situação foram acompanhados pela Comissão Consultiva respeitante à subdivisão da Madeira, tendo o Plano sido aprovado por unanimidade.
 
@@ -399,7 +1011,7 @@ Durante o referido período de discussão pública procedeu-se à consulta trans
 
 Os volumes III-M, IV-M integram, respetivamente, a espacialização dos usos e atividades e o relatório de caracterização da subdivisão da Madeira.
 
-##### Subdivisão dos Açores
+Subdivisão dos Açores
 
 Atendendo a que o regime jurídico consigna a possibilidade de elaboração faseada do plano, a espacialização dos usos e atividades para a zona do espaço marítimo adjacente ao arquipélago dos Açores, e respetivo relatório de caracterização, serão apresentados numa segunda fase.
 
@@ -411,7 +1023,7 @@ Os volumes III-A e IV-A incluirão, respetivamente, a espacialização dos usos 
 
 Todos os documentos serão colocados à discussão pública no final de 2019.
 
-# PARTE A - ENQUADRAMENTO E ESTRUTURA
+PARTE A - ENQUADRAMENTO E ESTRUTURA
 
 A.1 - INTRODUÇÃO
 
@@ -425,13 +1037,13 @@ Assim, um reino de navegação e comércio da Etiópia, Arábia, Pérsia e Índi
 
 A expansão e contração portuguesas deixaram pelo mundo um espaço lusófono de Estados independentes. Portugal é hoje constituído por dois arquipélagos, Açores e Madeira, e pela faixa ocidental atlântica da península Ibérica. Estes territórios constituem os vértices do chamado triângulo estratégico português, triângulo que se estende desde a zona subtropical do Atlântico Sul até ao centro do Atlântico Norte (Fernandes, 2014). A unir estes três vértices está o mar. Um mar interterritorial e livre de obstáculos. Portugal é hoje uma nação alicerçada num território arquipelágico, de dimensão atlântica, localizado no centro das ligações marítimas entre a América, a Europa, e os países ribeirinhos da África Noroeste (Figura 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A DIMENSÃO DO MAR PORTUGUÊS
 
 O espaço marítimo nacional representa cerca de 1 % das águas marinhas mundiais e cerca de 10 % da bacia do Atlântico Oriente (MMA, 2014) (Figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A superfície do plano de água das zonas marítimas portuguesas estende-se por cerca de 2 milhões de km2 e compreende três estatutos diferentes: i) zona económica exclusiva (ZEE); ii) mar territorial e iii) águas interiores marítimas. Devido à profundidade média dos fundos marinhos, as colunas de água que estão sob jurisdição nacional representam 48 % do volume de água da União Europeia (UE). Da mesma grandeza é a área do solo e subsolo marinho sob jurisdição nacional que, neste caso, representa quase 50 % do solo e subsolo marinhos do designado mar pan-europeu.
 
@@ -443,11 +1055,11 @@ Desde o séc. XVIII até ao séc. XX, e após as disputas marítimas entre Portu
 
 A Convenção das Nações Unidas sobre o Direito do Mar, de 1982 (UNCLOS) veio definir o mar territorial por uma faixa de mar que acompanha a linha de costa até à distância de 12 milhas náuticas a partir das linhas de base (Figura 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O desenvolvimento da economia do mar, um pouco por todo o mundo, tem vindo a ocupar progressivamente as áreas mais afastadas da costa e das respetivas zonas portuárias e, gradualmente, o conceito de território vai-se estendendo às águas marinhas, proporcionando mais espaço para o estabelecimento de novas atividades económicas, definindo novas paisagens e unindo fortemente o mar e a terra nos delicados ecossistemas costeiros e litorais (Figura 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ESTRUTURA DO PLANO DE SITUAÇÃO
 
@@ -481,7 +1093,7 @@ REGIÃO ATLÂNTICO NORDESTE
 
 A denominada região do Atlântico Nordeste é, grosso modo, definida pelas áreas regulamentares da NEAFC (North East Atlantic Fisheries Commission) e OSPAR (Convenção para a Proteção do Meio Marinho do Atlântico Nordeste), cujas áreas regulamentares são coincidentes (Figura 5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Nessa região do Atlântico encontram-se a dorsal Médio-Atlântica e a Crista da Gronelândia-Escócia (que separa a Bacia Atlântica dos Mares Nórdicos). As profundidades variam de cerca de 5.000 m, de cada lado da dorsal Médio-Atlântica, a menos de 200 m na plataforma continental, junto à costa do continente europeu. As áreas mais extensas da plataforma continental geológica localizam-se no Mar do Norte e nos Mares Celtas.
 
@@ -495,7 +1107,7 @@ REGIÃO DA MACARONÉSIA
 
 A Macaronésia é uma designação que inclui os arquipélagos dos Açores, da Madeira, das Canárias e de Cabo Verde (Figura 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Trata-se de uma das regiões biogeográficas mais extensa dos mares europeus. Esta região é partilhada por dois Estados-Membros da UE (Açores e Madeira, Portugal; Canárias, Espanha) e um Estado-Membro da Comunidade Económica dos Estados da África Ocidental (CDEAO, Cabo Verde).
 
@@ -539,7 +1151,7 @@ O ordenamento do espaço marítimo tem a sua génese moderna no zonamento e regu
 
 Desde então, a criação de AMP em grandes espaços marítimos constitui-se como a oportunidade para dar início ao ordenamento do espaço marítimo em várias partes do mundo, com destaque para os Estados Unidos e alguns países da UE. Na UE sobressaem os exemplos do mar Báltico e do mar do Norte como pioneiros em matéria de ordenamento do espaço marítimo. Estes espaços marítimos caracterizam-se por terem agregado vários usos e atividades, alguns em conflito entre si, o que acaba por representar graves problemas ambientais ao nível dos ecossistemas e das espécies marinhas (Douvere, 2008). A Figura 7 ilustra os processos de ordenamento do espaço marítimo que à presente data estão a ocorrer um pouco por todo o mundo (Marine spatial planning programme, 2018).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 PORTUGAL E O ORDENAMENTO DO ESPAÇO MARÍTIMO
 
@@ -629,7 +1241,7 @@ A Tabela I resume as principais diferenças que determinam os modelos de ordenam
 
 Tabela I. Principais diferenças entre os ambientes marinho e terrestre que determinam modelos de ordenamento do espaço diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A.4 - CONVENÇÕES, ACORDOS INTERNACIONAIS E DIRETIVAS EUROPEIAS APLICÁVEIS AO ESPAÇO MARÍTIMO NACIONAL
 
@@ -703,7 +1315,7 @@ Em 2008, na 9.ª COP, em Bona, foram acordados os critérios científicos (Crit�
 
 O processo de designação de EBSA encontra-se a decorrer ao nível global. Portugal definiu o seu próprio roteiro de designação de EBSA, tendo já submetido dois importantes ecossistemas de montes submarinos ao secretariado da CDB conforme Figura 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 As EBSA propostas são ecossistemas vulneráveis, localizados em águas oceânicas e em habitats de profundidade.
 
@@ -773,7 +1385,7 @@ A DQEM dividiu as zonas marinhas europeias em regiões e sub-regiões para efeit
 
 As águas marinhas sob soberania ou jurisdição de Portugal enquadram-se na região do Atlântico Nordeste e em duas sub-regiões: sub-região do Golfo da Biscaia e Costa Ibérica e sub-região da Macaronésia, de acordo com Figura 9.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Tendo em conta as especificidades destas sub-regiões, e com vista a facilitar a elaboração das estratégias marinhas para as águas marinhas nacionais, foram designadas quatro subdivisões: a subdivisão do Continente, que inclui as águas marinhas nacionais em torno do território continental e integra a sub-região do Golfo da Biscaia e da Costa Ibérica, a subdivisão dos Açores, que inclui as águas marinhas nacionais em torno do arquipélago dos Açores, a Subdivisão da Madeira, que inclui as águas marinhas nacionais em torno do arquipélago da Madeira e a Subdivisão da Plataforma Continental Estendida que inclui a plataforma continental para além das 200 milhas náuticas, integrando estas três subdivisões a sub-região da Macaronésia.
 
@@ -839,7 +1451,7 @@ A UNCLOS, ao mesmo tempo que dispõe sobre os direitos dos Estados costeiros na 
 
 As águas marítimas interiores são as zonas que correspondem às massas de água localizadas entre a linha de costa e a linha de base do mar territorial. Nestas zonas a soberania do Estado costeiro é idêntica à exercida em todo o seu território nacional emerso (ou terrestre). Devido à existência de arquipélagos e inúmeros cabos e promontórios, as águas interiores marítimas portuguesas assumem inegável dimensão, originando vários polígonos (Figura 10).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 De acordo com Bessa (2014) o total de águas interiores marítimas é de 6.508 km2 no Continente, 6.082 km2 no arquipélago dos Açores e 825 km2 no arquipélago da Madeira. As águas interiores marítimas integram o DPM.
 
@@ -851,7 +1463,7 @@ No mar territorial, o Estado costeiro exerce soberania sobre o leito do mar, sub
 
 A dimensão da área do mar territorial de Portugal, considerando todas as parcelas do território (Figura 11), é de cerca de 50.957 km2, dos quais 16.460 km2 correspondem à parcela do continente, 23.663 km2 à parcela do arquipélago dos Açores e 10.834 km2 à parcela do arquipélago da Madeira (Bessa, 2014).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ZONA CONTÍGUA
 
@@ -859,7 +1471,7 @@ A zona contígua estende-se a partir do limite exterior do mar territorial até 
 
 A zona contígua já se encontra integrada na zona económica exclusiva (ZEE, descrita abaixo) e, como tal, já não integra o DPM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ZEE - ZONA ECONÓMICA EXCLUSIVA
 
@@ -877,7 +1489,7 @@ Os Estados costeiros podem, assim na ZEE, autorizar, construir e regular a const
 
 A ZEE portuguesa compreende três subáreas (Figura 13): subárea do Continente (287.521 km2), subárea dos Açores (930.687 km2) e subárea da Madeira (442.248 km2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 PLATAFORMA CONTINENTAL
 
@@ -891,11 +1503,11 @@ A plataforma continental jurídica de um estado costeiro corresponde ao leito e 
 
 Portugal submeteu, em 2009, na Comissão de Limites da Plataforma Continental (CLPC) a demarcação dos limites exteriores da sua plataforma continental além das 200 milhas náuticas. A proposta de extensão da plataforma continental portuguesa foi submetida considerando três regiões: a região oriental, compreendendo a extensão da plataforma relativa ao arquipélago da Madeira e Continente, a região ocidental, compreendendo a extensão relativa ao arquipélago dos Açores e a região do Banco da Galiza que é uma área de interesse comum entre Portugal Espanha (Figura 14).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A 1 de agosto de 2017 Portugal entregou a Adenda à Proposta de Extensão da Plataforma Continental, baseada nos novos dados de batimetria, geologia e geofísica, recolhidos desde 2009. Esta Adenda inclui um novo limite (Figura 15).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O Estado costeiro exerce direitos de soberania sobre a plataforma continental para efeitos de exploração e aproveitamento dos seus recursos naturais, sendo os mesmos exclusivos, no sentido de que, se o Estado costeiro não explora a plataforma continental ou não aproveita os recursos naturais da mesma, ninguém pode empreender estas atividades sem o seu expresso consentimento.
 
@@ -911,7 +1523,7 @@ A.5.3 - REGIÃO DE BUSCA E SALVAMENTO
 
 A região de Busca e Salvamento definida para Portugal (Figura 16) não deriva da UNCLOS, mas sim da Convenção Internacional sobre Busca e Salvamento Marítimo, de 1979 (SAR/SRR - Search and Rescue Region), de 1979.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os limites geográficos, para a área de responsabilidade nacional, constam no [Decreto-Lei n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1994-512027), de 22 de janeiro, alterado pelo [Decreto-Lei n.º 399/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), de 14 de outubro. Em 2007, estes limites foram alterados pela circular IMO (International Maritime Organization) SAR.8/Circ.1/Corr.5 de 23 de abril e mantiveram-se na circular IMO SAR.8/Circ. 4 de 1 de dezembro de 2012 (Bessa, 2014). Estas últimas alterações, acordadas internacionalmente, ainda não foram vertidas para a legislação nacional que define formalmente o espaço de responsabilidade.
 
@@ -955,7 +1567,7 @@ O Plano de Situação abrange todo o espaço marítimo nacional, desde as linhas
 
 O Plano de Situação abrange assim as zonas marítimas adjacentes ao arquipélago dos Açores, ao arquipélago da Madeira e ao Continente (Figura 17).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Excluem-se do âmbito do Plano de Situação as águas interiores marítimas das áreas sob jurisdição das entidades portuárias e também aquelas que se localizam no interior das linhas de fecho das barras dos estuários e rias e das lagoas costeiras abertas ao mar.
 
@@ -975,7 +1587,7 @@ A.7.3 - VISÃO
 
 A visão do Plano de Situação baseia-se nos objetivos e nos princípios que sustentam a LBOGEM e na própria visão da ENM (2013-2020) que refere que "O Mar-Portugal é um desígnio nacional cujo potencial será concretizado pela valorização económica, social e ambiental do oceano e das zonas costeiras, para benefício de todos os portugueses". Assim, o Plano de Situação apresenta a seguinte visão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A.7.4 - PRINCÍPIOS ORIENTADORES
 
@@ -1025,7 +1637,7 @@ O ordenamento do espaço marítimo nacional tem necessariamente de incorporar os
 
 O Plano de Situação tem em linha de conta a ocupação marítima que ocorre na vizinhança do espaço marítimo nacional seja, no que respeita às infraestruturas existentes (ex. cabos submarinos, Figura 18), no que respeita a servidões e áreas condicionadas (ex. AMP), ou no que respeita à distribuição e extensão dos habitat e recursos geológicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A Região Autónoma da Madeira, pretende alargar nos próximos anos o número de AMP, protegendo determinadas espécies e habitats considerados importantes.
 
@@ -1039,7 +1651,7 @@ Tal como referido anteriormente (vide A.4.2), no âmbito da implementação naci
 
 Neste sentido, a estrutura dos Volumes III tem por base estas subdivisões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A elaboração do Plano de Situação, implicou assim, um esforço de coordenação entre as administrações central e regionais, de modo a que, sem perder de vista as competências próprias dos governos regionais e a suas legítimas perspetivas de ordenamento de um espaço marítimo que influencia as respetivas economias regionais, se garantisse, simultaneamente, a coerência de princípios e práticas de ordenamento ao nível nacional.
 
@@ -1047,7 +1659,7 @@ A.8.2 - UNIDADES FUNCIONAIS
 
 Atendendo às zonas marítimas definidas pela LBOGEM e às zonas marítimas sob soberania ou jurisdição nacional de acordo com o definido na UNCLOS, o Plano de Situação estabelece três unidades funcionais: o Mar Territorial e águas interiores marítimas, a ZEE e a Plataforma Continental. Estas unidades funcionais são consideradas em cada uma das subdivisões anteriormente referidas (Figura 20).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Nas fichas de atividades são indicadas a subdivisão e a unidade funcional a que se refere a espacialização do uso ou atividade (vide Volume III para cada uma das subdivisões).
 
@@ -1075,7 +1687,7 @@ Na Tabela II são apresentadas as dimensões das zonas marítimas nacionais sob 
 
 Tabela II. Dimensão das zonas marítimas nacionais sob soberania ou jurisdição nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Fonte: Bessa, 2013
 
@@ -1179,7 +1791,7 @@ A.10 - GESTÃO ADAPTATIVA
 
 O Plano de Situação, à semelhança do anterior POEM, é, nos seus pressupostos, informado pelo princípio da gestão adaptativa. A gestão adaptativa é uma abordagem sistemática que permite melhorar a gestão com base nos resultados do próprio processo de gestão. Trata-se no fundo de aprender da experiência e modificar a gestão à luz dessa mesma experiência (Figura 21).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No caso do ordenamento dos espaços marítimos, este processo é ainda mais importante atendendo ao pouco conhecimento que se tem sobre a complexidade do funcionamento dos ecossistemas marinhos (Allen et al. 2011). Com efeito, uma das premissas fundamentais da gestão adaptativa é que o conhecimento dos sistemas ecológicos não é apenas incompleto, mas é também esquivo. A gestão adaptativa, é ainda mais necessária, no caso dos ecossistemas marinhos, atendendo à variabilidade das condições ambientais e ao dinamismo próprio desses ecossistemas, acentuado ainda mais pelas alterações climáticas (Frazão, 2016b).
 
@@ -1187,7 +1799,7 @@ Um elemento base deste processo é a monitorização do Plano de Situação, a q
 
 A gestão adaptativa é implementada através dos mecanismos de alteração do Plano de Situação, conforme descrito na parte B do presente volume, relativa à dinâmica do plano (vide capítulo B.1).
 
-# PARTE B - DINÂMICA, MONITORIZAÇÃO E GOVERNANÇA
+PARTE B - DINÂMICA, MONITORIZAÇÃO E GOVERNANÇA
 
 B.1 - DINÂMICA DO PLANO DE SITUAÇÃO
 
@@ -1277,7 +1889,7 @@ O modelo de governança deverá permitir a concretização de uma gestão integr
 
 O quadro de governança segue o modelo estabelecido para a DQEM (Figura 22).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 GLOSSÁRIO
 
@@ -1549,19 +2161,19 @@ Coordenação:
 
 Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM); DRAM da Região Autónoma dos Açores; Direção Regional do Ordenamento do Território e do Ambiente (DROTA) da Região Autónoma da Madeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Equipa Técnica - Subdivisão Continente e Plataforma Continental Estendida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Equipa Técnica: Subdivisão Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO I — Grupos de Trabalho Temáticos e Reuniões
 
-##### SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
+SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
 
 No âmbito da primeira reunião plenária da Comissão Consultiva da zona do espaço marítimo correspondente à subdivisão do Continente e Plataforma Continental Estendida, foi apresentada e aprovada a metodologia de trabalho para a elaboração do plano de situação.
 
@@ -1627,9 +2239,9 @@ Os contributos das diversas reuniões foram vertidos na cartografia e nas fichas
 
 Tabela III. Reuniões realizadas com os GT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
-##### SUBDIVISÃO: MADEIRA
+SUBDIVISÃO: MADEIRA
 
 Foram constituídos cinco grupos de trabalho temáticos (GT) e as respetivas reuniões tiveram a coordenação da DROTA:
 
@@ -1667,7 +2279,7 @@ As reuniões realizadas para acompanhar o desenvolvimento do Plano de Situação
 
 Tabela IV. Reuniões realizadas com os GT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Reuniões entre os representantes da CC-Madeira
 
@@ -1675,7 +2287,7 @@ As reuniões entre os representantes da CC-Madeira, tiveram como principal objet
 
 Tabela V. Reuniões entre os representantes da Comissão Consultiva-Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO II — Participação dos Interessados
 
@@ -1683,47 +2295,47 @@ O direito à participação na elaboração do Plano de Situação foi concretiz
 
 As participações que foram rececionadas pela DGRM durante o processo de elaboração do plano foram 14 sendo que 10 dizem respeito a pedidos de informação e 4 relativas a envio de informação/estudos que foram integrados no processo de elaboração.
 
-##### SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
+SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
 
 Foram realizadas reuniões com os interessados na elaboração do Plano de Situação, nomeadamente os relacionados com usos e atividades onde se espera que ocorram mais conflitos na utilização do espaço marítimo (Tabela VI).
 
 Tabela VI. Reuniões realizadas com os interessados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Foram ainda promovidas pela DGRM diversas reuniões com associações e organizações do sector da pesca do Norte ao Sul do território continental. Na Tabela VII consta a listagem das reuniões realizadas. A associação de pequena pesca de Viana do Castelo (Darpesca) considerou que os respetivos associados já tinham sido informados, na sequência das reuniões realizadas com as outras Associações locais, e que irão participar, nesse âmbito, pelo que não entenderam necessário reunir com a DGRM.
 
 Tabela VII. Reuniões realizadas com associações e organizações do sector da pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
-##### SUBDIVISÃO: MADEIRA
+SUBDIVISÃO: MADEIRA
 
 As reuniões entre os representantes da CC-Madeira e outras entidades exteriores ao plano, tiveram como principal objetivo resolver os conflitos existentes no espaço marítimo regional. As entidades que participaram nestas reuniões desempenham um papel importante no espaço marítimo (Tabela VIII).
 
 Tabela VIII. Reuniões entre os representantes da CC-Madeira e outras entidades exteriores ao Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Também foram realizadas reuniões entre a equipa do plano e entidades exteriores que pretenderam participar ativamente na sua elaboração (Tabela IX).
 
 Tabela IX. Reuniões com entidades exteriores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO III — Reuniões Comissão Consultiva
 
-##### SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
+SUBDIVISÃO: CONTINENTE E PLATAFORMA CONTINENTAL ESTENDIDA
 
 Tabela X. Reuniões plenárias da Comissão Consultiva - Continente e Plataforma Continental Estendida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
-##### SUBDIVISÃO: MADEIRA
+SUBDIVISÃO: MADEIRA
 
 Tabela XI. Reuniões plenárias da Comissão Consultiva - Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1)
 
@@ -1747,7 +2359,7 @@ As estratégias, fundos e programas de financiamento de âmbito nacional são ap
 
 A informação geográfica, e as infraestruturas associadas, são fundamentais para a divulgação e implementação de políticas públicas, nomeadamente para a política do mar, bem como para a partilha de informação entre as diversas entidades públicas e privadas. Nesse sentido, foi desenvolvido para o Plano de Situação a respetiva infraestrutura geográfica, bem como o correspondente Sistema de Informação Geográfica (SIG). A informação espacializada foi desenvolvida individualmente pela DGRM, DRAM e DROTA, no entanto é possível a visualização conjunta da informação acedendo ao GeoPortal do Plano de Situação.
 
-# PARTE A - METODOLOGIA DE ESPACIALIZAÇÃO DOS USOS E ATIVIDADES SUJEITOS A TÍTULO
+PARTE A - METODOLOGIA DE ESPACIALIZAÇÃO DOS USOS E ATIVIDADES SUJEITOS A TÍTULO
 
 De acordo com a LBOGEM, o ordenamento do espaço marítimo tem por objetivo "a promoção da exploração económica sustentável, racional e eficiente dos recursos marinhos e dos serviços dos ecossistemas, garantido a compatibilidade e a sustentabilidade dos diversos usos e atividades nele desenvolvidos".
 
@@ -1815,7 +2427,7 @@ A estratégia de espacialização de utilizações sujeitas a TUPEM, ordenou as 
 
 USOS COMUNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O uso comum do espaço marítimo nacional não está sujeito a TUPEM. Os usos comuns são identificados para cada subdivisão no respetivo volume III.
 
@@ -1823,7 +2435,7 @@ A.1.1 - TÍTULO DE UTILIZAÇÃO DO ESPAÇO MARÍTIMO
 
 Atualmente a utilização privativa do espaço marítimo nacional é atribuída através do TUPEM - Titulo de Utilização Privativa do Espaço Marítimo, concedido ao abrigo do [Decreto-Lei n.º 38/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2015-66727183), de 12 de março, na sua redação atual, e através do TAA - Título de Atividade Aquícola, concedido ao abrigo do [Decreto-Lei n.º 40/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), de 4 de abril.
 
-## TÍTULO DE UTILIZAÇÃO PRIVATIVA DO ESPAÇO MARÍTIMO (TUPEM)
+TÍTULO DE UTILIZAÇÃO PRIVATIVA DO ESPAÇO MARÍTIMO (TUPEM)
 
 Os pedidos de TUPEM são efetuados junto da DGRM ou, no caso das zonas marítimas adjacentes aos arquipélagos, entre as linhas de base e o limite exterior do mar territorial, a zona económica exclusiva e a plataforma continental até às 200 milhas náuticas, junto da DROTA e da DRAM.
 
@@ -1855,7 +2467,7 @@ Está sujeita a autorização a utilização privativa do espaço marítimo naci
 
 A autorização tem a duração máxima de 10 anos.
 
-## TÍTULO DE ATIVIDADE AQUÍCOLA (TAA)
+TÍTULO DE ATIVIDADE AQUÍCOLA (TAA)
 
 O direito de utilização privativa do espaço marítimo para o desenvolvimento da atividade aquícola é concedido pelo Título de Atividade Aquícola (TAA), emitido no âmbito do [Decreto-Lei n.º 40/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), de 4 de abril, referente ao regime jurídico relativo à instalação e exploração de estabelecimentos de culturas marinhas. As Regiões Autónomas estão a proceder à adaptação a esta legislação.
 
@@ -2023,13 +2635,13 @@ O Plano de Situação estabelece áreas existentes e áreas potenciais para o de
 
 As áreas existentes são todas aquelas que estão reservadas a determinado uso ou atividade desenvolvidos ao abrigo de Título de Utilização Privativa do Espaço Marítimo Nacional ou títulos de utilização privativa emitidos ao abrigo de legislação anterior. A Figura 1 mostra um exemplo de como essas áreas foram espacializadas nas fichas das atividades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ÁREAS POTENCIAIS
 
 Este tipo de áreas representa o espaço disponível para a instalação de determinadas atividades ou usos de acordo com condições oceânicas específicas (agitação marítima, biótopos marinhos, correntes, distância à costa, etc.) e tendo em atenção os condicionalismos relativos a usos comuns e servidões ou restrições administrativas (Figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O Plano de Situação prevê áreas potenciais para a instalação dos seguintes usos e atividades:
 
@@ -2057,7 +2669,7 @@ O Plano de Situação prevê áreas potenciais para a instalação dos seguintes
 
 Alguns usos ou atividades poderão ocorrer genericamente no oceano, não fazendo sentido definir áreas potenciais para a sua futura instalação. Neste caso são definidas áreas de exclusão, admitindo-se que o restante espaço marítimo é suscetível de poder ser utilizado para esses usos ou atividades. O Plano de Situação prevê áreas de exclusão para a instalação de cabos submarinos (Figura 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A.2.3 - USOS E ATIVIDADES NÃO ESPACIALIZADAS
 
@@ -2163,7 +2775,7 @@ A.3.2 - BOAS PRÁTICAS
 
 Para os usos e atividades privativos do espaço marítimo nacional são identificadas boas práticas a observar na utilização e gestão do espaço marítimo nacional e que visam garantir o bom estado ambiental do meio marinho, o bom estado das águas costeiras e transição, e o estado de conservação favorável dos habitats e espécies. As boas práticas tiveram por base, designadamente, o conhecimento científico, a experiência proveniente do licenciamento da atividade, da emissão de títulos de utilização privativa do espaço marítimo, das avaliações de impacte ambiental e ainda documentos elaborados por instituições, convenções e organizações comunitárias e internacionais e estão identificadas em cada uma das fichas do uso ou atividade que integram o volume III de cada subdivisão.
 
-# PARTE B - GEORREFERENCIAÇÃO
+PARTE B - GEORREFERENCIAÇÃO
 
 A informação geográfica, e as suas infraestruturas associadas, são fundamentais para a partilha de informação entre as diversas entidades e para a aplicação e divulgação das políticas públicas. No presente capítulo descreve-se, em traços gerais, o desenvolvimento e a implementação do Sistema de Informação Geográfica (SIG) da DGRM (DGRM_GeoDB), infraestrutura geográfica que suporta também o Plano de Situação e o SIG desenvolvido no âmbito do Plano de Situação.
 
@@ -2191,19 +2803,19 @@ O SIG existente na DGRM é um sistema de bases de dados - georreferenciadas e al
 
 . GeoPortal - SIG na Web. Interface e funcionalidade de pesquisa geográfica de informação alfanumérica e tabular. O sistema indica as origens da informação e apontadores para disponibilização da informação para a comunidade; Catálogo de metadados da DGRM (Figura 4) que integra os metadados da informação produzida nesta Direção-Geral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 . Tecnologia Esri ArcGis Server e BD Oracle para os SIG na Web (GeoPortal) e Esri Desktop nos locais de trabalho para produção, edição e análise espacial dos dados.
 
 A plataforma tecnológica de armazenamento e integração, disponibiliza informação georreferenciada em conformidade com as disposições da diretiva INSPIRE (Figura 5). O sistema deverá ser a plataforma de arquivo nacional de informação sobre os valores e ocorrências existentes no espaço marítimo nacional, no âmbito das competências da DGRM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 B.1 - INFORMAÇÃO GEOESPACIAL DO PLANO (SIG-PSOEM)
 
 O desenvolvimento do SIG do Plano de Situação (SIG-PSOEM) tem como principal objetivo a criação de uma Infraestrutura de Dados Espaciais (IDE), específica para o Plano de Situação, garantindo-se a visualização permanente dessa informação num GeoPortal de acesso público permanente (Figura 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 De acordo com a legislação, o Plano de Situação deverá incluir:
 
@@ -2223,7 +2835,7 @@ Desenvolve-se assim um sistema de disponibilização de cartografia na internet 
 
 Procurou-se a integração de informação geospacial proveniente de outras entidades (ex: IH, APA, IPMA, ICNF, EMODNET, OSPAR, GEBCO, etc.) sempre que possível em serviços de mapas produzidos pelas entidades fornecedoras (serviços em formato OGC/WMS, e ArcGis Server/REST) (Figura 7).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O formato OGC/WMS permite a visualização de dados espaciais de forma dinâmica. Não se acede aos dados, que podem ser de origem vetorial e/ou raster, mas sim a uma representação em formato imagem dos mesmos (ex: dados provenientes do IH).
 
@@ -2277,7 +2889,7 @@ A localização de um lugar, objeto, fenómeno, etc. à superfície da terra ou 
 
 A área de estudo do Plano de situação desenvolve-se entre as coordenadas apresentadas na Figura 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O sistema de informação geográfico utilizado pode organizar os temas em dois sistemas diferentes:
 
@@ -2291,23 +2903,23 @@ Os sistemas de informação geográfica transformam com facilidade os diferentes
 
 No GeoPortal é possível a interoperabilidade entre sistemas de coordenadas, tendo-se integrado, além do WGS 84 padrão, outros sistemas, nomeadamente, o WGS 84 World Mercator, ETRS 89, PTRA 08-UTM/ITRF 93 e outros sistemas de referência (do Continente e das Regiões Autónomas, em desuso) (Figura 9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Este último permite, por exemplo, o cálculo aproximado de áreas e distâncias definidas com o rato do computador diretamente no ecrã (ver exemplo na Figura 10).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A Figura 11 e a Tabela I apresentam a totalidade dos sistemas que abrangem o espaço marítimo do Plano de Situação. Trata-se de algo particularmente útil para o cálculo de áreas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Consoante o caso, optou-se pela utilização de um sistema de coordenadas identificado fornecido pelo software SIG em função do objetivo pretendido dependente do espaço geográfico em que se situa (ZEE, Mar Territorial, águas interiores marítimas e Plataforma Continental Estendida).
 
 Tabela I. Latitudes e longitudes máximas e mínimas dos diferentes sistemas de coordenadas (adaptado de Esri)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
-# PARTE C - INSTRUMENTOS ESTRATÉGICOS DE POLÍTICA E DE GESTÃO DO ESPAÇO MARÍTIMO NACIONAL
+PARTE C - INSTRUMENTOS ESTRATÉGICOS DE POLÍTICA E DE GESTÃO DO ESPAÇO MARÍTIMO NACIONAL
 
 O sistema de ordenamento e de gestão do espaço marítimo nacional compreende, para além dos instrumentos de ordenamento, os instrumentos de política e gestão.
 
@@ -2337,7 +2949,7 @@ A ENM 2013-2020 e os seus instrumentos de operacionalização pretendem concorre
 
 O ordenamento do espaço marítimo é uma peça estruturante da ENM 2013-2020, integrando o Eixo de Suporte ES1, eixo relativo à Governação que tem por objetivo facilitar e regular a atividade económica, promover um ambiente favorável ao investimento e melhorar o bem-estar social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Enquadramento do Plano de Situação na Estratégia Nacional para o Mar:
 
@@ -2349,7 +2961,7 @@ A tabela seguinte evidencia as ações do Plano de Situação que contribuem par
 
 Tabela II - Execução do Plano de Situação em linha com os objetivos das Áreas Programáticas da ENM 2013-2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 C.2 - CRESCIMENTO AZUL - ESTRATÉGIAS SECTORIAIS
 
@@ -2539,7 +3151,7 @@ Segundo a CSM, a Economia do Mar compreende o conjunto de atividades económicas
 
 Tabela III. Agrupamentos de atividades económicas para a Economia do Mar na CSM. Adaptado de (DGPM/ INE, 2015)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No geral, os resultados da CSM para o período 2010-2013 apontam para o bom desempenho da economia do mar, tendo sido identificadas aproximadamente 60 mil entidades, cuja atividade representou, em média, 3,1 % do Valor Acrescentado Bruto (VAB) e 3,6 % do Emprego (Equivalente a Tempo Completo, ETC) da economia portuguesa, o que correspondeu a um VAB de 4.680 milhões de euros e 160.766 ETC (Tabela IV).
 
@@ -2547,47 +3159,47 @@ Tabela IV. Principais indicadores - valores médios no período 2010-2013
 
 Fonte: (DGPM, 2017), dados INE, CSM, CN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Entre 2010 e 2013 a economia do mar cresceu, em termos de VAB, 2,1 %, enquanto que a economia nacional teve uma retração de 5,4 % (Figura 12). Este bom desempenho da economia do mar, num período particularmente difícil da economia nacional resultou num aumento da sua importância relativa, tendo passado a representar cerca de 3,1 % da economia nacional em 2013, comparativamente com os 2,9 % registados em 2010. Tendo em consideração que a ENM 2013-2020 define como meta o aumento até 2020 da contribuição direta do sector do mar para o PIB nacional em 50 % face ao referencial de 2010, prevê-se que o contributo em termos de VAB deverá atingir 5 % da economia nacional em 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No que se refere ao emprego, no mesmo período, a economia do mar decresceu 3,4 %, comparativamente a uma diminuição de 10,0 % ocorrida ao nível da economia nacional. Assim, em 2013, a economia do mar representava 3,8 % do emprego nacional. A remuneração média por ETC teve um desempenho mais favorável em relação à remuneração média nacional, registando um acréscimo de 3 % face à economia nacional.
 
 De acordo com a tendência da economia nacional, o Consumo Público registou um decréscimo acentuado, contrariamente ao Consumo Privado, que aumentou 7 % no mesmo período (Figura 13).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os agrupamentos de atividades com maior expressão na economia do mar, em termos de VAB (Figura 14), são o 'Recreio, Desporto, Cultura e Turismo', que representou 35,5 % do total dos agrupamentos, a 'Pesca, Aquacultura, Transformação e Comercialização dos seus Produtos', com 25,7 %, os 'Serviços Marítimos', com 15,8 % e os 'Portos, Transportes e Logística', com 14,5 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Estes são também os agrupamentos mais expressivos em termos de emprego (Figura 15), com a 'Pesca, Aquacultura, Transformação e Comercialização dos seus Produtos' a representar 38,8 %, o 'Recreio, Desporto, Cultura e Turismo' a registar 28,6 %, os 'Serviços Marítimos' a chegarem aos 11,6 % e os 'Portos, Transportes e Logística' a apontar para os 9,4 %. Estes quatro agrupamentos representam na economia do mar cerca de 91,5 % e 88,4 % em termos de VAB e emprego, respetivamente. Só no agrupamento da 'Pesca, Aquacultura, Transformação e Comercialização dos seus Produtos' estão empregadas um equivalente a 62.395 pessoas a tempo completo e no agrupamento 'Recreio, Desporto, Cultura e Turismo' o equivalente a cerca de 45.401 pessoas a tempo completo. O agrupamento relativo aos 'Novos Usos e Recursos do Mar' ainda não apresentou expressão ao nível do VAB e do emprego no período de 2010 a 2013.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Em termos da evolução do VAB (Figura 16), os agrupamentos que mais cresceram foram o dos 'Portos, Transportes e Logística', com um aumento de 30 %, o do 'Recreio, Desporto, Cultura e Turismo', com um aumento de 5,4 % e o da 'Pesca, Aquacultura, Transformação e Comercialização dos seus Produtos', a que correspondeu um aumento de 4 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Em termos da evolução do emprego (Figura 17), os agrupamentos que cresceram foram o dos 'Portos, Transportes e Logística', com um aumento de 14 % e o do 'Pesca, Aquacultura, Transformação e Comercialização dos seus Produtos', com um aumento de 6 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No que respeita à Formação Bruta de Capital Fixo (FBCF), que corresponde a um indicador de investimento na economia do mar, registou-se um decréscimo de 9,5 % entre 2011 e 2013, enquadrado na redução de 22,6 % para o total da economia portuguesa (Figura 18).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Neste período, a principal área de investimento na economia do mar correspondeu à construção e trabalhos de construção de engenharia civil, nomeadamente obras na zona costeira (exceto obras nos portos e dragagens para canais de navegação) que registou 38,7 % da FBCF da economia do mar (Figura 19).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 É de salientar que os serviços de investigação e desenvolvimento científico, enquadrados no agrupamento 'Novos Usos e Recursos do Mar', representaram cerca de 21,9 % da FBCF na economia do mar, situação que revela um potencial latente ao nível da inovação.
 
 Adicionalmente, apesar da reduzida expressão em termos de emprego do agrupamento 'Novos Usos e Recursos do Mar', este apresenta a remuneração média mais elevada, cerca de 88,8 % acima da remuneração média nacional (Figura 20), pelo que, em face de um elevando potencial de inovação latente, se prevê que poderá vir a ter uma importante expressão no futuro. Em oposição, o agrupamento da pesca, aquacultura, transformação e comercialização dos seus produtos e o agrupamento dos equipamentos marítimos apresentam as remunerações médias mais baixas, de valor inferior à média nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Ainda que, entre 2011 e 2013, as importações de produtos "Mar" tenham diminuído 1,5 %, o aumento das exportações que se verificou nesse período resultou em saldos externos positivos (Tabela V). Em 2013, o saldo externo de bens e serviços atinge 116,4 milhões de euros, para o qual contribui, de forma significativa, o turismo das zonas costeiras, designadamente através dos serviços de alojamento.
 
@@ -2595,15 +3207,15 @@ Tabela V. Evolução das importações, exportações e do saldo externo, em mil
 
 Fonte: (DGPM, 2017), dados INE, CSM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os produtos com maior relevância na estrutura das importações (Figura 21) são os produtos alimentares (produtos transformados, destacando-se o peixe fresco, refrigerado ou congelado e crustáceos, o peixe seco, salgado ou em salmoura; peixe fumado e, ainda, as conservas e outras preparações de peixe), que registaram 62,7 % do valor médio das importações, seguindo-se os produtos da pesca e da aquacultura, com 15,0 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Ainda que predominem, estes produtos assumem menor importância no caso das exportações (Figura 22), adquirindo maior peso os serviços de alojamento e os serviços de transporte por água, com 24,7 % e 12,4 % do valor das exportações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO I — Camadas de Informação do Geoportal
 
@@ -3515,7 +4127,7 @@ ESQUEMAS DE SEPARAÇÃO DE TRÁFEGO
 
 Em 1986 foram estabelecidos esquemas de separação de tráfego (EST) ao longo da costa continental portuguesa, que vigoraram no exterior das Berlengas, ao largo do cabo da Roca e do cabo de São Vicente até 2004.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No entanto, foi sempre reconhecido o risco que representava a passagem pelo corredor ascendente do EST do cabo de São Vicente, em que os limites interiores fixados em 1986 estavam perigosamente próximos da linha da costa, circunstância que motivou ações de apoio ao afastamento da navegação comercial na zona do referido cabo, tendo em vista a proteção da costa algarvia. A Organização Marítima Internacional (OMI) apreciou e adotou, no ano de 2003, importantes alterações ao EST do cabo Finisterra, na costa noroeste de Espanha, que entraram em vigor em junho de 2004, com novos limites e novas zonas de passagem para navios que transportam cargas perigosas ou poluentes a granel. Na sequência desta iniciativa, Portugal preparou e submeteu, ao subcomité da OMI para a segurança da navegação (NAV), propostas de alteração ao EST do cabo da Roca e ao EST do cabo de São Vicente, nelas se incluindo novas regras de atravessamento a cumprir pela navegação que os utiliza e propondo, simultaneamente, a criação de uma Área A Evitar (AAE) na região das ilhas Berlengas, esta em contrapartida da revogação do EST das Berlengas, que se concluiu ser dispensável. Esta proposta foi adotada pela OMI, tendo o Comité decidido que os novos EST e a AAE entrariam em vigor em julho de 2005.
 
@@ -3531,7 +4143,7 @@ Existem 16 AMPS localizadas em todo o mundo. Algumas dessas AMPS são de grande 
 
 A costa Continental portuguesa está coberta por uma das maiores AMPS da OMI, a Western European Waters, que se estende desde a Escócia até ao Golfo de Cádis (Figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Infraestruturas Portuárias e Marinas e Portos de Recreio
 
@@ -3545,7 +4157,7 @@ Existem ainda algumas incorreções cartográficas devidas à falta de definiç�
 
 Não tendo sido possível até à presente data georreferenciar no GeoPortal do Plano de Situação os limites de jurisdição dos portos sob jurisdição da Docapesca, optou-se pela sua sinalização conforme Figura 4 e disponibilizar em formato de popup o PDF relativo a cada porto de pesca.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 MARINAS E PORTOS DE RECREIO
 
@@ -3553,7 +4165,7 @@ As marinas e portos de recreio definem servidões relacionadas com a necessidade
 
 A Figura 6 representa a globalidade das condicionantes que incidem sobre o Espaço Marítimo Nacional para as subdivisões Continente e Plataforma Continental Estendida referentes a segurança marítima e infraestruturas portuárias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conservação da Natureza
 
@@ -3561,11 +4173,11 @@ Conservação da Natureza
 
 As Áreas Protegidas Marinhas de âmbito nacional existentes na subdivisão Continente e que integram a Rede Nacional de Áreas Protegidas (RNAP) são maioritariamente áreas protegidas marinhas costeiras localizadas nos limites do Mar Territorial. Fazem parte da rede de AMP designadas ao abrigo da Convenção OSPAR, desde 2016, cinco dessas áreas: Litoral Norte, Berlengas Arrábida, lagoas de Santo André e da Sancha, Sudoeste Alentejano e Costa Vicentina (Figura 7).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na subdivisão da Plataforma Continental Estendida existem AMP que se encontram integradas na rede OSPAR de AMP (vide Volume IV-PCE). O Plano de Situação reconhece também as áreas com interesse para a conservação da natureza delimitadas para efeitos de cumprimento do Programa de Medidas da Diretiva Quadro Estratégia Marinha e indicadas por Portugal à Comissão Europeia (Figura 8).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O conjunto das áreas com interesse para a conservação da natureza, identificadas no Plano de Situação, irá permitir que Portugal atinja em 2020 a meta de 14 % do seu espaço marítimo coberto por AMP. Este valor consegue-se com AMP localizadas essencialmente nos ecossistemas marinhos vulneráveis que se situam na plataforma continental portuguesa.
 
@@ -3573,7 +4185,7 @@ REDE NATURA 2000
 
 Em Portugal Continental, encontram-se classificados no âmbito da Diretiva Habitats, nove Sítios que abrangem área marinha: Litoral Norte, Peniche/Santa Cruz, Sintra/Cascais, Costa Sudoeste (incluindo o seu alargamento), Ria de Aveiro, Arrábida/Espichel, Dunas de Mira, Gândara e Gafanhas, Estuário do Sado, Banco Gorringe e Maceda/Praia da Vieira. Os sítios designados são essencialmente sítios terrestres costeiros, que incluem área marinha com exceção do SIC Maceda/Praia da Vieira e SIC banco Goringe único sítio exclusivamente marinho (Figura 9). No que se refere a ZPE estão classificadas 11 em área marinha: Estuários dos rios Minho e Coura, Ria de Aveiro, Berlengas, Lagoa de Santo André, Lagoa da Sancha, Leixão da Gaivota, Ria Formosa, Cabo Espichel, Cabo Raso, Aveiro/Nazaré, Costa Sudoeste e Estuários dos rios Minho e Coura (Figura 9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No âmbito da extensão da Rede Natura 2000 ao meio marinho foi recentemente designado o SIC Maceda/Praia da Vieira e aprovado o alargamento do SIC Costa Sudoeste. Encontra-se em discussão a proposta de SIC Costa de Setúbal e o alargamento do SIC Estuário do Sado, pelo que, sendo o Plano de Situação um instrumento permanentemente atualizado e concebido para acolher e integrar todas as servidões e restrições administrativas que venham a ser criadas, sempre que a Lista Nacional de Sítios e as ZPE forem atualizadas, o Plano será de imediato atualizado.
 
@@ -3581,7 +4193,7 @@ No âmbito da avaliação ambiental foi efetuada a avaliação dos efeitos decor
 
 A Figura 10, retirada do GeoPortal, mostra algumas áreas marinhas protegida e áreas da Rede Natura 2000, assim como algumas atividades previstas no Plano de Situação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ECOSSISTEMAS MARINHOS VULNERÁVEIS (EMV)
 
@@ -3597,11 +4209,11 @@ A nível comunitário, o novo [Regulamento (UE) n.º 2016/2336](https://diarioda
 
 Relativamente à adoção de medidas de proteção, na área NEAFC a partir de 2005 foram encerradas à pesca de fundo várias áreas para proteção de EMV, inclusive sobre a plataforma continental portuguesa. Em águas comunitárias, a adoção de medidas de restrição da pesca para proteção de EMV realizou-se inicialmente no âmbito do [Regulamento (CE) n.º 850/98](https://diariodarepublica.pt/application/external/eurolex?98R0850) do Conselho, de 30 de março de 1998 (ex. Darwin Mounds, Açores e Madeira e Canárias), e dos Regulamentos de fixação das possibilidades de pesca publicados anualmente (ex. Porcupine Bank e El Cachucho). Após aprovação do Tratado de Lisboa em 2013, deixou de ser possível adotar medidas técnicas nos regulamentos anuais pelo que as várias áreas criadas foram incorporadas no [Regulamento n.º 850/98](https://diariodarepublica.pt/application/external/eurolex?98R0850) através do [Regulamento (UE) n.º 227/2013](https://diariodarepublica.pt/application/external/eurolex?13R0227) do Parlamento Europeu e do Conselho, de 13 de março de 2013. Atualmente é o artigo 11.º do [Regulamento (UE) n.º 1380/2013](https://diariodarepublica.pt/application/external/eurolex?13R1380), de 11 de dezembro que esclarece o procedimento para adoção de medidas de restrição de pesca em áreas marinhas protegidas no âmbito da PCP. Finalmente, a nível nacional a [Portaria n.º 114/2014](https://diariodarepublica.pt/dr/detalhe/portaria/114-2014-25345953), de 28 de maio, proíbe de forma generalizada o uso das artes de arrasto e de emalhar de fundo por embarcações portuguesas numa área considerável do espaço marítimo nacional (Figura 11) a fim de se preservarem os fundos marinhos dos impactes adversos da atividade da pesca e estabelece a obrigação de registo e comunicação de informação sobre a captura de espécies indicadores de EMV.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O Plano de Situação (vide também volumes IV) faz referência a este tipo de ecossistemas, estando identificados no GeoPortal, tal como demonstrado na Figura 12.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Necessariamente é ainda uma carta muito incompleta e que será atualizada com dados das recentes campanhas oceanográficas aos complexos de montes submarinos situados na plataforma continental portuguesa.
 
@@ -3639,37 +4251,37 @@ Para a instalação de novos usos ou atividade em locais identificados com patri
 
 O Plano de Situação procedeu à georreferenciação de achados, despojos e naufrágios arqueológicos (Figura 13).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Manchas de Empréstimo Destinadas à Alimentação Artificial da Zona Costeira
 
 Na subdivisão do continente estão identificadas as manchas de empréstimo para alimentação artificial da zona costeira, identificadas nos POC e no Grupo Trabalho Sedimentos, como áreas sujeitas a restrições, não sendo possível a sua exploração para fins comerciais ou ficando interditas a instalação de atividade na coluna de água que possam prejudicar o fim para que foram criadas (Figura 14).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Servidões Militares
 
 Na subdivisão do continente estão definidas áreas de exercícios militares, as quais podem ser visualizadas no geoportal (Figura 15).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Cabos Submarinos
 
 A subdivisão do Continente e a subdivisão da Plataforma Continental Estendida são atravessadas por vários cabos submarinos para telecomunicações, o Plano de Situação procedeu à sua identificação (Figura 16).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Zonas de Tomada de Água (Scooping)
 
 Na subdivisão do Continente estão definidos quatro pontos de scooping localizados em Viana do Castelo, Carcavelos, Lagos e Faro, os quais podem ser visualizados no geoportal (Figuras 17 e 18).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 5 - Obras de defesa costeira
 
 As obras de defesa costeira (alínea j) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 38/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2015-66727183), de 12 de março, na sua redação atual), apesar de não serem servidões ou restrições administrativas, nem usos privativos de espaço marítimo nacional têm de estar identificadas pelo Plano de Situação. O geoportal inclui uma camada específica cujos dados são provenientes da Agência Portuguesa do Ambiente (Figura 19).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 6 - Usos Comuns
 
@@ -3815,7 +4427,7 @@ O Plano de Situação na subdivisão Continente define uma faixa de proteção n
 
 A faixa de proteção será de 1,5 milhas náuticas em toda a costa continental, dimensão que teve por base a melhor compatibilização entre a proteção das vistas, a circulação de embarcações de pesca e marítimo turísticas e o desenvolvimento da aquacultura (Figura 20).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Nesta faixa de proteção não será possível a instalação de plataformas ou estruturas flutuantes fixas que não estejam relacionadas com a atividade de recreio, desporto e turismo. Também a atividade de aquacultura não se poderá instalar nesta faixa de proteção quando dirigida à produção de peixe.
 
@@ -3823,7 +4435,7 @@ As atividades que não prevejam a instalação de plataformas flutuantes como se
 
 Abaixo apresentam-se alguns pormenores da faixa de proteção, ao longo da costa (figuras 21, 22 e 23).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Compatibilização entre Usos e Atividades Privativos
 
@@ -3841,7 +4453,7 @@ Tabela I
 
 Potenciais compatibilidades, incompatibilidades e sinergias entre utilizações privativas em espaço marítimo nacional (subdivisão Continente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 8 - Boas Práticas
 
@@ -3865,7 +4477,7 @@ Para além destas alterações, o Plano de Situação espacializou atividades qu
 
 Quando se compara a cartografia do POEM com a do Plano de Situação (Figuras 24, 25 e 26), percebe-se melhor qual o efeito do Plano de Situação no ordenamento do espaço marítimo e na visualização desse mesmo ordenamento. De facto, o Plano de Situação, apesar de integrar maior número de camadas, é mais nítido e tem menos ruído. Tal circunstância, deve-se, em larga medida, ao facto do Plano de Situação ter ponderado na espacialização das atividades/usos a compatibilização dessas mesmas atividades/usos entre si, evitando a sobreposição de camadas de espacialização que, muitas das vezes, seriam conflituantes e incompatíveis com as servidões restrições administrativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A par de um maior conhecimento sobre os ecossistemas marinhos, a tecnologia informática construída para o Plano de Situação permitiu trabalhar as diversas classes de espaço com mais detalhe, garantindo um maior respeito pelas servidões e restrições administrativas e pelos usos comuns, nomeadamente a pequena pesca costeira. Estas circunstâncias possibilitaram ao país ultrapassar as dificuldades sentidas durante a elaboração do POEM, apresentando agora um Plano cientificamente mais adequado e mais defensor do bom estado do ambiente marinho.
 
@@ -3877,7 +4489,7 @@ Tabela II
 
 Principais diferenças entre o POEM e o Plano de Situação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DESENVOLVIMENTO DO PLANO DE SITUAÇÃO
 
@@ -3889,27 +4501,27 @@ Tabela III
 
 Áreas Potenciais para usos/atividades privativos - Subdivisões Continente e PCE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os mapas abaixo tentam dar uma visão global da ocupação do espaço marítimo para os principais usos/atividades previstos e espacializados no Plano de Situação para o Mar Territorial adjacente ao Continente, admitindo a concretização plena do Plano de Situação. Não foi considerada a área potencial para o turismo, recreio e lazer, que corresponde quase toda a orla costeira, para facilidade de leitura do mesmo (Figura 27).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A zona norte do país (Figura 28), apesar de possuir condições mais desfavoráveis de agitação marítima, poderá acolher um maior e mais diversificado número de usos/atividades. A este facto não é alheio a maior extensão da plataforma geológica que nessa zona marítima assume relevância expressiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na zona da costa ocidental sul (Figuras 29 e 30), a região que poderá ter maior relevo será Lisboa-Setúbal, onde a proximidade às grandes zonas urbanas e industriais, conjugada com condições favoráveis de agitação marítima, poderá permitir a instalação de vários usos/atividade. Salienta-se em particular a maior concentração de cabos submarinos de telecomunicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na costa sul algarvia (Figura 31) a possibilidade de ocorrência de várias atividades também é significativa. Destaca-se com especial relevo a aquicultura que, mercê das boas condições de agitação marítima torna esta zona marinha é aquela que oferece melhores condições para esta atividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na costa algarvia ocorre, junto à fronteira com Espanha, uma situação de sobreposição significativa de atividades (Figura 32).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Trata-se de uma zona fronteiriça onde a fixação de atividade poderá permitir uma maior vigilância e "ocupação" territorial numa zona que se sabe ser particularmente sensível no que concerne à prática de ilicitudes e crimes ligados a tráfico de pessoas e estupefacientes.
 
@@ -3939,7 +4551,7 @@ Ficha 1C
 
 AQUICULTURA E PESCA QUANDO ASSOCIADA A INFRAESTRUTURAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4005,7 +4617,7 @@ Tendo em atenção a necessidade de salvaguardar as atividades recreativas de tu
 
 No caso das aquiculturas de bivalves, dado as estruturas utilizadas (boias e fiadas de cordas submersíveis), por não prejudicarem o direito de vistas, ou as atividades acima referidas, admite-se as atuais localizações, devendo no entanto as novas instalações de bivalves serem localizadas a partir da 1 milha náutica, devendo ainda atender aos regimes jurídicos da conservação da natureza e da biodiversidade e da Rede Natura 2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A definição das áreas potenciais teve assim em conta os seguintes pressupostos:
 
@@ -4131,7 +4743,7 @@ Outra atividade com a qual a produção aquícola pode ser compatibilizada é a 
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Documentos e ligações úteis
 
@@ -4157,21 +4769,21 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 COMPARAÇÃO ENTRE SITUAÇÃO EXISTENTE E SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Ficha 2C/PCE
 
 BIOTECNOLOGIA MARINHA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4183,7 +4795,7 @@ Portugal, no âmbito do processo de avaliação e estudo necessários para funda
 
 Em termos globais é de salientar que esta atividade tem uma relevância crescente, que se reflete no número de patentes registadas internacionalmente que passou de 26 até 1997 para 145 até 2007 (Leary, 2009) e para 677 até 2011 (Silva, 2015). Apesar da concorrência e competitividade nesta atividade ser enorme, empresas portuguesas têm obtido bom desempenho e ganho prémios internacionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Este é um domínio apoiado, quase exclusivamente, por uma forte componente I&D e os objetivos da política nacional direcionam-se para o desenvolvimento de novas patentes e promoção da comercialização de aplicações e produtos e da distribuição justa e equitativa dos benefícios que advêm da sua utilização.
 
@@ -4225,7 +4837,7 @@ Em termos Comunitários, foi adotado o Documento de Orientação, publicado com 
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 COMPATIBILIZAÇÃO DE USOS
 
@@ -4261,7 +4873,7 @@ Ficha 3C/A/M/PCE
 
 RECURSOS MINERAIS METÁLICOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4357,7 +4969,7 @@ Dificilmente esta atividade poderá ser compatível com outras. Provavelmente a 
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Documentos e ligações úteis
 
@@ -4405,13 +5017,13 @@ LIGAÇÕES ÚTEIS
 
 CARTOGRAFIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Ficha 4C
 
 RECURSOS MINERAIS NÃO METÁLICOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4425,7 +5037,7 @@ A avaliação teve como base a análise de cerca de 500 amostras de sedimentos n
 
 Para a classificação destes materiais Dias. et al. (1980) adotou a classificação textural proposta por Nickless (1973). A classificação, que compreende 13 classes (Figura 4C-1), baseia-se num diagrama triangular cujos polos são: cascalho, areia e lodo (silte+-argila), em que o limite dimensional superior da areia são os 2 mm e não os 4 mm usados por Nickless (1973).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Segundo esta classificação, o primeiro índice a ser considerado é o conteúdo em finos. Se estes excedem 40 % da amostra, o sedimento é considerado como não potencialmente explorável. Depósitos com menos de 40 % de finos são classificados segundo a razão areia/cascalho, obtendo-se deste modo quatro grupos de classes:
 
@@ -4447,7 +5059,7 @@ Cada um destes grupos de classes é constituído por três termos diferenciados,
 
 Os depósitos sedimentares, que apresentam melhores características do ponto de vista de uma eventual exploração, são os pertencentes às classes l, IV, VII e X, isto é, os que apresentam conteúdo em finos inferior a 10 %. A classificação da amostragem segundo este método permitiu elaborar um mapa (Mapa 4C-1) com a distribuição, na plataforma continental, subdivisão do Continente, dos depósitos enquadráveis nas diferentes classes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 OCORRÊNCIAS DE DEPÓSITOS CASCALHENTOS
 
@@ -4551,7 +5163,7 @@ Atualmente não existem concessões ativas de exploração de inertes, não tend
 
 O Mapa 4C-2 apresenta a localização das áreas referidas. Conforme se pode constatar, todas essas concessões e pedidos encontram-se suspensos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação potencial
 
@@ -4597,7 +5209,7 @@ Esta atividade, na sua fase de exploração, afigura-se como incompatível com a
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -4623,7 +5235,7 @@ Ficha 5C
 
 RECURSOS ENERGÉTICOS FÓSSEIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4655,7 +5267,7 @@ De acordo com o conhecimento atual das bacias sedimentares no domínio marítimo
 
 A localização das referidas bacias pode ser visualizada na figura seguinte (Figura 5C-1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A Bacia do Porto, localizada a norte, tem uma extensão de 100 km e prolonga-se para lá da fronteira marítima luso-espanhola. Esta bacia desenvolve-se exclusivamente no offshore e cobre uma área de cerca 2800 km2 - até à batimétrica dos 1000 m - em águas portuguesas. Os sedimentos Mesozoicos nela depositados podem atingir os 8 km de espessura e encontram-se cobertos por um registo sedimentar pouco espesso de sedimentos Cenozoicos. Trata-se de uma bacia subavaliada, apenas com 8 sondagens de pesquisa realizadas até hoje, tendo os resultados obtidos revelado que as rochas-reservatório mais promissoras para acumulação de petróleo e/ou gás compreendem arenitos deltaicos e marinhos de pouca profundidade de idade cretácica.
 
@@ -4665,11 +5277,11 @@ A Bacia do Algarve, com cerca de 8500 km2, fica localizada na Orla Meridional do
 
 Estão, assim, identificados dois prováveis sistemas petrolíferos nestas bacias sedimentares: O Sistema Petrolífero Paleo-Mesozoico, cujas rochas geradoras são de idade paleozoica e as rochas reservatório e selantes de idade mesozoica e o Sistema Petrolífero Meso-Cenozoico, cujas rochas geradoras são de idade mesozoica e as rochas reservatório e selantes de idade mesozoica e cenozoica (Figura 5C-2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Quanto às bacias sedimentares exteriores, a sua evolução não é bem conhecida uma vez que os dados adquiridos são muito recentes e apenas de natureza indireta, sem que qualquer sondagem de pesquisa tenha sido executada em qualquer uma destas bacias e encontrando-se grande parte dos dados adquiridos, ainda, sob confidencialidade. Assim, as áreas totais das bacias exteriores são desconhecidas, no entanto, os dados sísmicos permitiram reconhecer genericamente as suas formas e identificar algumas estruturas geológicas promissoras (Figura 5C-3) sendo, no entanto, os seus limites ainda muito incertos. O mesmo pode ser afirmado relativamente à espessura sedimentar e respetivas idades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ATIVIDADES DESENVOLVIDAS
 
@@ -4699,7 +5311,7 @@ Os trabalhos mínimos obrigatórios resultantes destes contratos, entre 2008 e 2
 
 O mapa seguinte (Figura 5C-4) resume os trabalhos de prospeção e pesquisa realizados em áreas concessionadas pelo Estado Português, consubstanciados em campanhas geofísicas, quer gravimétricas/magnetométricas, quer sísmicas e em operações de sondagens de pesquisa, que permitiram novas interpretações, avaliação do potencial geológico das bacias e a obtenção de dados brutos para o país.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Traduzido em números, o desenvolvimento de atividades de prospeção e pesquisa, durante cerca de oito décadas, resultaram em cerca de 72.600 km de dados sísmica 2D, 10.272 km2 de dados sísmica 3D, 26.086 km de dados aeromagnéticos, 2 campanhas de recolha de amostras de sedimentos marinhos e 175 sondagens de pesquisa, sendo 27 no offshore (ENMC, 2018).
 
@@ -4755,7 +5367,7 @@ BIBLIOGRAFIA
 
 . European Commission. Offshore oil and gas safety. Acedido a 29 de março de 2018, em: https://ec.europa.eu/energy/en/topics/oil-gas-and-coal/offshore-oil-and-gas-safety
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4809,7 +5421,7 @@ Na Tabela 6C-1, encontram-se elencados os principais projetos desenvolvidos em P
 
 Tabela 6C-1 Principais projetos de energia renovável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na zona de S. Pedro de Moel, o Estado Português criou uma zona piloto com cerca de 320 km2 para o desenvolvimento de energias renováveis offshore, em particular energia das ondas, concessionado em 2010 à ENONDAS. Neste espaço, ao qual não se aplica o [Decreto-Lei n.º 38/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2015-66727183), de 12 de março, na sua redação atual, e que se rege pelo [Decreto-Lei n.º 5/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2008-386865), de 8 de janeiro, alterado pelo [Decreto-Lei n.º 15/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2012-544431), de 23 de janeiro, não foi implementado nenhum projeto, estando previsto que seja deslocalizado para uma outra área ao largo de Viana do Castelo.
 
@@ -4821,11 +5433,11 @@ Neste momento encontra-se previsto o alargamento a todas as fontes primárias de
 
 Os mapas a baixo, extraídos do relatório em epígrafe, mostram as potencialidades eólicas do continente europeu e da costa continental portuguesa no que se refere ao aproveitamento para energia eólica (Figura 6C-1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Apesar da grande potencialidade, do espaço marítimo nacional para a instalação de energias renováveis, as condições de agitação marítima, e a profundidade média da coluna de água, exigem o recurso a tecnologias mais sofisticadas e mais caras, relativamente às que são utilizadas no Mar do Norte, onde a pouca profundidade dos fundos marinhos permite a instalação de aerogeradores fixos. A Figura 6C-2 ilustra o tipo de aerogeradores marítimos que ocorrem relativamente à profundidade do leito marinho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 De acordo com o já citado relatório "os principais constrangimentos tecnológicos ao desenvolvimento do sector eólico offshore são de carácter infraestrutural, prendendo-se, atualmente, com a escassez de serviços e meios para a instalação, operação e manutenção do elevado número de turbinas eólicas offshore existente".
 
@@ -4899,7 +5511,7 @@ A instalação de plataformas flutuantes offshore para a energia eólica deverá
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -4929,7 +5541,7 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE E SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -4987,7 +5599,7 @@ A instalação destas estruturas está sujeita a TUPEM e a Título de Utilizaç�
 
 Não se prevê a curto prazo a instalação de gasodutos relacionados com transporte de hidrocarbonetos (gás natural). Conforme consta da Figura 7C-1, o abastecimento de gás natural a Portugal é feito por uma ligação marítima que liga o gasoduto do Magrebe ao gasoduto do al-Andaluz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 BOAS PRÁTICAS
 
@@ -5039,19 +5651,19 @@ SITUAÇÃO EXISTENTE
 
 CABOS DE TELECOMUNICAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CABOS DE TRANSPORTE DE ENERGIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 EMISSÁRIOS SUBMARINOS E MONOBOIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5061,7 +5673,7 @@ As plataformas multiusos são estruturas que permitem vários usos e atividades,
 
 A construção de plataformas multiusos, como a da Figura 8C-1, gera uma cadeia de valor tecnológico e industrial offshore, onde as indústrias navais têm o papel central e as novas tecnologias na área das comunicações, automação e eletrónica têm um forte potencial de crescimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ESTRUTURAS FLUTUANTES
 
@@ -5071,7 +5683,7 @@ Existem, no entanto, outro tipo de estruturas flutuantes, que têm uso e propós
 
 A título de exemplo, os túneis ou pontes flutuantes (Figura 8C-2) são estruturas com flutuadores que equilibram as cargas verticais. A utilização deste tipo de sistemas surge em locais onde as condições de implementação e construção de uma ponte convencional se tornam tecnicamente inviáveis ou economicamente pouco adequadas. Constituem-se atualmente como uma alternativa às pontes convencionais, permitindo efetuar a ligação entre terrenos em que o maciço se localiza a uma profundidade relativamente elevada ou possui fracas características geotécnicas, com capacidade de carga deficiente, e em locais com forte atividade sísmica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO EXISTENTE
 
@@ -5139,11 +5751,11 @@ As servidões e restrições administrativas existentes e potenciais nessa faixa
 
 . afundamento de navios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 À situação potencial para esta atividade sobrepôs-se ainda a cartografia de agitação marítima, considerando uma altura de onda significativa máxima de 7 m cenário inverno (Mapa 8C-3). Os polígonos finais para a instalação de plataformas multiusos com carácter de projeto-piloto, foram delimitados sobre a área potencial favorável representada no Mapa 8C-4, considerando a exclusão dos locais com património cultural subaquático e os pontos de imersão de dragados, dando origem às zonas potenciais para expansão desta atividade (Mapas 8C-5, 6, 7 e 8) supondo um cenário de necessidade para os próximos 10 anos (parecer de perito).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Deve, ainda, considerar-se a compatibilidade com os instrumentos de gestão territoral território, ou seja, planos e programas territoriais que incidam sobre a mesma área, bem como com os regimes jurídicos da conservação da natureza e da biodiversidade e da Rede Natura 2000.
 
@@ -5177,7 +5789,7 @@ A instalação destas estruturas deve assegurar a compatibilização com outras 
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -5203,7 +5815,7 @@ SITUAÇÃO POTENCIAL
 
 PLATAFORMAS MULTIUSOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5265,7 +5877,7 @@ LIGAÇÕES ÚTEIS
 
 . EMEPC (2015). O Projeto - Extensão da Plataforma Continental. Acedido a 12 de abril de 2018, em: https://www.emepc.pt/pt/o-projeto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5387,7 +5999,7 @@ Como já referido, as atividades de recreio, desporto e turismo sujeitas à emis
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -5413,11 +6025,11 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5589,7 +6201,7 @@ Consideram-se inadequadas as seguintes atividades nos parques arqueológicos vis
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -5607,7 +6219,7 @@ LIGAÇÕES ÚTEIS
 
 CARTOGRAFIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5639,7 +6251,7 @@ Numa estratégia em que "cada grão conta", materiais arenosos, sem contaminaç�
 
 Tabela 12C-1 TUPEM emitidos para a imersão de dragados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Nos cinco anos compreendidos entre 2012 e 2016, provenientes de dragagens de manutenção e de primeiro estabelecimento, foram imersos no mar cerca de catorze milhões e quinhentas mil toneladas de materiais dragados classificados entre não contaminados (classe 1) a pouco contaminados (classe 3).
 
@@ -5647,7 +6259,7 @@ Situação potencial
 
 Atendendo ao exposto, serão necessárias dragagens periódicas em todos os portos portugueses, cujo destino, maioritário, será previsivelmente a respetiva imersão no espaço marítimo ou mesmo colocados na praia emersa. Nas tabelas seguintes, elaboradas com base nas que constam no relatório do GTS, atualizando-o, encontram-se as estimativas das médias anuais estabelecidas com base nas previsões efetuadas para os anos entre 2015 e 2020, por porto comercial e por porto de pesca.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A viabilidade para a realização de imersão destes sedimentos depende da existência, na proximidade de cada porto, de local ou locais para a imersão dos materiais dragados. Conjugando a necessidade da proximidade à costa com o imperativo de se atenuar os efeitos erosivos, cada porto, sempre que exequível, deverá ter na sua proximidade um local para imersão de materiais dragados que contribuam para a deriva litoral.
 
@@ -5709,7 +6321,7 @@ Em termos gerais, a imersão de dragados deve garantir as condições de seguran
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -5731,15 +6343,15 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO EXISTENTE E POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -5775,7 +6387,7 @@ O arrastão Engenheiro António Nunes, afundado em 16 de maio de 1995 pelo IPMA 
 
 Os navios do parque subaquático Ocean Revival, encontram-se afundados a curta distância uns dos outros, ao largo da cidade de Portimão no litoral sul de Portugal. A escolha desta localização deveu-se à fraca agitação marítima que a costa sul oferece e à grande procura turística pelo Algarve que assim se valoriza, oferecendo mais um produto turístico ligado ao mar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Entre 1990 e 2003 foram submersas pelo IPMA, entre os 15 e 30 metros de profundidade, estruturas recifais nas águas costeiras algarvias com o objetivo de contrariar a diminuição dos stocks ícticos, provocada pela pesca excessiva. Estes complexos recifais cobrem uma área efetiva total de 33,9 km2 e uma área envolvente de 43,5 km2, o que representa a maior área de habitats artificiais em águas europeias.
 
@@ -5813,7 +6425,7 @@ A área de estudo para o afundamento de navios e estruturas análogas com a fina
 
 À área disponível (Mapa 13 C-2), sobrepôs-se ainda a cartografia de agitação marítima, considerando uma altura de onda significativa máxima de 7 m para um cenário de inverno (Mapa 13C-3), resultando o Mapa 13C-4 com a área favorável à expansão deste uso. Os polígonos finais foram delimitados sobre esta área considerando ainda a exclusão dos locais com património cultural subaquático e os pontos de imersão de dragados, dando origem às zonas potenciais para o afundamento de navios e estruturas análogas (Mapa 13 C-11), supondo um cenário de necessidade para os próximos 10 anos (opinião pericial).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 COMPLEXOS RECIFAIS PARA MELHORIA DAS CONDIÇÕES DE PRODUTIVIDADE
 
@@ -5845,7 +6457,7 @@ Para a identificação da área favorável para este uso, foram excluídas (Mapa
 
 . complexos recifais (existentes).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os polígonos finais para expansão do afundamento de estruturas recifais, foram delimitados sobre a área favorável considerando ainda a exclusão dos locais com património cultural subaquático e os pontos de imersão de dragados, dando origem às zonas potenciais para o afundamento de estruturas recifais, tendo em vista o aumento de produtividade marinha, (Mapa 13 C-11), supondo um cenário de necessidade para os próximos 20 anos.
 
@@ -5957,21 +6569,21 @@ SITUAÇÃO EXISTENTE
 
 AFUNDAMENTO DE NAVIOS E ESTRUTURAS ANÁLOGAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 COMPLEXOS RECIFAIS PARA MELHORIA DAS CONDIÇÕES DE PRODUTIVIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
 AFUNDAMENTO DE NAVIOS E ESTRUTURAS ANÁLOGAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 COMPLEXOS RECIFAIS PARA MELHORIA DAS CONDIÇÕES DE PRODUTIVIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -6037,7 +6649,7 @@ LIGAÇÕES ÚTEIS
 
 . ECO2 - Sub-seabed CO2 Storage: Impact on Marine Ecosystems (2018). Acedido a 18 de abril de 2018, em: http://www.eco2-project.eu/
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARACTERIZAÇÃO GERAL
 
@@ -6061,25 +6673,25 @@ A LBOGEM dispõe no seu artigo 16.º sobre a admissibilidade de reserva de espa�
 
 O estabelecimento de uso privativo associado ao património natural, e que por isso necessita de reserva de espaço, justifica-se, nomeadamente nas situações em que seja vantajoso ordenar e condicionar o acesso a determinados locais que, pelo valor do património natural marinho em presença, possam suscitar situações de pressão que ponham em causa esse mesmo património.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
-# Parte das áreas passíveis de serem consideradas como potenciais para o presente uso privativo são áreas consideradas relevantes para a conservação da natureza, integrando o Sistema Nacional de Áreas Classificadas (SNAC) e dentro deste, designadamente a Rede Nacional de Áreas Protegidas e/ou a Rede Natura 2000. Estas áreas dispõem de regulamentação própria (planos de ordenamento e plano setorial, respetivamente), com normativos específicos e orientações de gestão, a serem cumpridos pela utilização privativa que se faça desse espaço.
+Parte das áreas passíveis de serem consideradas como potenciais para o presente uso privativo são áreas consideradas relevantes para a conservação da natureza, integrando o Sistema Nacional de Áreas Classificadas (SNAC) e dentro deste, designadamente a Rede Nacional de Áreas Protegidas e/ou a Rede Natura 2000. Estas áreas dispõem de regulamentação própria (planos de ordenamento e plano setorial, respetivamente), com normativos específicos e orientações de gestão, a serem cumpridos pela utilização privativa que se faça desse espaço.
 
 Na área marítima adjacente ao Continente, e até à presente data, não foi ainda solicitada reserva de espaço para o desenvolvimento de atividades associadas ao património natural marinho, pelo que não foi ainda atribuído nenhum TUPEM. No entanto, é patente que, nalguns locais, mormente em zonas de forte pressão turística, ocorrem várias atividades que importa garantir que não colocam em risco os locais de interesse geológico e/ou biológico que constituem o património natural em questão, devido à falta de regras no seu desenvolvimento. De seguida identificam-se algumas das atividades associadas ao património natural marinho.
 
 A visitação de grutas submarinas é uma das atividades de fruição do património natural marinho que ocorre em vários locais do litoral continental. O mergulho turístico é prática comum no litoral rochoso das zonas costeiras expostas a sul, onde as condições de agitação marítima são menos intensas. O Percurso Subaquático da Praia da Marinha, criado pela CCDR Algarve, no concelho da Lagoa, é disso um exemplo. Nesse percurso subaquático de natureza, os visitantes desfrutam das paisagens marinhas e dos seus valores naturais, sendo simultaneamente disponibilizada informação sistematizada numa perspetiva de conservação e educação ambiental.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na zona marítima adjacente ao arquipélago dos Açores regista-se a atividade de mergulho turístico com tubarões, desconhecendo-se, no entanto, a sua prática na zona marítima adjacente ao Continente. A organização de excursões de observação de cetáceos (whale watching) que é, desde há vários anos, prática corrente na Reserva Natural do Estuário do Sado, é ainda uma atividade pouco desenvolvida no espaço marítimo nacional, mas com tendência para o seu crescimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
 O progressivo aumento do conhecimento dos ecossistemas marinhos litorais e seus recursos naturais implicará, necessariamente, a descoberta de locais de ocorrência de património natural marinho de interesse para o seu estudo, preservação, salvaguarda e fruição (Figura 15C-5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Assim, e devido igualmente à tendência para o aumento da disponibilização de serviços turísticos que promovam e organizem atividades dependentes de património natural marinho, é previsível que, por iniciativa privada, ou também, eventualmente, por iniciativa pública, se proceda à reserva de espaço marítimo para efeitos de ordenamento e controlo de visitas.
 
@@ -6091,7 +6703,7 @@ As áreas com maior potencial para o desenvolvimento das atividades associadas a
 
 O Mapa 15C-1 indica as potencialidades da costa continental para esta atividade, considerando estes dois fatores. Para além destas áreas, poderão surgir descobertas de geossítios marinhos, tais como grutas subaquáticas que podem vir a ser objeto de estudo, preservação, salvaguarda e fruição, constituindo um recurso valioso no desenvolvimento desta atividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 É definida como área potencial, para o desenvolvimento das atividades relacionadas com o património natural marinho, a faixa do espaço marítimo que se estende até às 6 milhas náuticas, devidamente excecionadas as servidões e restrições administrativas existentes nessa faixa, relativas a zonas portuárias (limites de jurisdição dos portos e canais de acesso aos mesmos), bem como as áreas relativas às utilizações privativas não compatíveis com esta atividade, a saber:
 
@@ -6187,7 +6799,7 @@ SITUAÇÃO POTENCIAL
 
 A zona potencial para desenvolvimento das atividades associadas ao património natural marinho apresenta-se no Mapa 15C-2 e é idêntica à prevista para o recreio, desporto e Turismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ## ANEXO I — Identificação dos Usos e Atividades Privativos na Área de Influência dos Planos de Ordenamento da Orla Costeira e Programas da Orla Costeira
 
@@ -6247,7 +6859,7 @@ No âmbito do transporte marítimo, são apontados como principais oportunidades
 
 . Tendência de crescimento da procura de atividades marítimo-turísticas, sobretudo de novos circuitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.1.2 - Plano Referencial Estratégico Mar Madeira 2030 - Estratégia Mar Madeira 2030
 
@@ -6257,7 +6869,7 @@ Este documento pretende constituir uma referência para intervenções estratég
 
 Na Estratégia Mar Madeira 2030, o ordenamento do espaço marítimo é referido no Eixo Estratégico de Intervenção 6 - Implementar um modelo de governação capaz de responder aos desafios do desenvolvimento da economia do mar. O ordenamento do espaço marítimo é apontado como um domínio de atuação de natureza eminentemente transversal, assumindo-se como um dos grandes desafios ao desenvolvimento de uma verdadeira economia do mar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.1.3 - Estratégia CLIMA - Madeira. Estratégia de Adaptação às Alterações Climáticas da Região Autónoma da Madeira
 
@@ -6271,7 +6883,7 @@ Nesta estratégia, também é referido que os efeitos das alterações climátic
 
 A Estratégia CLIMA-Madeira constitui-se, assim, como uma ferramenta fundamental que visa a adoção de medidas face às alterações climáticas e pretende responder e apoiar de forma concertada e célere as políticas do Governo Regional relativas aos impactos decorrentes das alterações climáticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.2 - Instrumentos financeiros na subdivisão Madeira
 
@@ -6287,7 +6899,7 @@ Os recursos do mar que integram os setores de atividade da economia azul são re
 
 O Programa Operacional incita a cooperação transfronteiriça com os arquipélagos dos Açores e das Canárias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.3 - Planos e programas territoriais que abrangem o espaço marítimo
 
@@ -6461,7 +7073,7 @@ No âmbito deste plano, é efetuada uma análise às pressões hidromorfológica
 
 No Relatório Síntese da Caracterização da Região Hidrográfica, foram identificadas as massas de água que deveriam ser analisadas. Na ilha da Madeira foram identificadas quatro massas de água: COSTMADP1; COSTMAD P2; COSTMADI1; COSTMADI2. No Porto Santo foi identificada a COSTPORI. Para as ilhas Desertas a COSTDESI. Para as ilhas Selvagens a COSTELI1 para a Selvagem Grande e a COSTELI2 para a Selvagem Pequena.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.3.10 - Plano de Gestão de Riscos e Inundações da Região Autónoma da Madeira (PGRI - RAM)
 
@@ -6473,7 +7085,7 @@ O objetivo geral do Plano de Gestão de Riscos de Inundação da Região Autóno
 
 . Melhorar o ordenamento do território e a gestão da exposição nas áreas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 . Melhorar a resiliência e diminuir a vulnerabilidade dos elementos situados nas zonas de possível inundação
 
@@ -6541,7 +7153,7 @@ Este plano integra o SIC - PTMAD0003 incluindo a rede ecológica europeia denomi
 
 Desta área marinha protegida faz parte uma zona de proteção especial (ZPE) e uma zona especial de conservação (ZEC).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.2 - Plano Especial de Ordenamento e Gestão da Reserva Natural Parcial do Garajau
 
@@ -6549,7 +7161,7 @@ A Reserva Natural Parcial do Garajau, é uma reserva exclusivamente marinha loca
 
 O Plano de Ordenamento e Gestão da Reserva Natural Parcial do Garajau e respetivos regulamentos e plantas de síntese e de condicionantes foram aprovados pela Resolução n.º 882/2010 de 12 de agosto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.3 - Programa de Medidas de Gestão e Conservação do Sítio da Rede Natura 2000 - Ilhéu da Viúva
 
@@ -6559,7 +7171,7 @@ O Programa de Medidas de Gestão e Conservação do Sítio da Rede Natura 2000 -
 
 Esta reserva, também denominada Reserva Natural do Sítio da Rocha do Navio, tem uma área total de 17.53 km2 sendo que, 17.52 km2 corresponde a área marinha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.4 - Plano de Ordenamento e Gestão da Rede de Áreas Marinhas Protegidas do Porto Santo
 
@@ -6569,7 +7181,7 @@ O Plano de Ordenamento e Gestão das Áreas Marinhas Protegidas do Porto Santo e
 
 Este plano integra o SIC - PTMAD0001 integrando a rede ecológica europeia denominada Natura 2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.5 - Plano de Ordenamento e Gestão das Ilhas Desertas
 
@@ -6577,7 +7189,7 @@ As ilhas Desertas estão localizadas a Sudeste da ilha da Madeira, a 22 milhas n
 
 Com uma área total de 11 457 hectares, a reserva natural das ilhas Desertas é delimitada pela batimétrica dos 100 metros e inclui toda a área terrestre das ilhas (ilhéu Chão, Deserta Grande, Bugio) e ilhéus adjacentes, e toda a área marinha adjacente. A área de ZEC coincide com a área de reserva e a área de ZPE, com uma área total de 76 462 hectares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.6 - Plano de Ordenamento e Gestão das Ilhas Selvagens
 
@@ -6587,7 +7199,7 @@ As ilhas Selvagens estão localizadas a 163 milhas náuticas a Sudeste da ilha d
 
 A área de ZPE (PTZPE0062) corresponde a 1245.29 km2 sendo que 1242.52 km2 correspondem a área marinha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.4.7 - Decreto Legislativo Regional - Parque Natural Marinho do Cabo Girão e respetivo regime jurídico
 
@@ -6677,7 +7289,7 @@ Porto do Funchal
 
 O porto encontra-se localizado na baía da cidade do Funchal. Nos últimos anos, o porto do Funchal foi alvo de profundas restruturações. A incapacidade de lidar com a multiplicidade de atividades comerciais e turísticas levou à restruturação do porto do Funchal, tornando-o num porto dedicado ao turismo de cruzeiros e às atividades náuticas, libertando a cidade do Funchal da movimentação e transporte de carga, passando a atividade comercial para o porto do Caniçal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Caraterísticas da infraestrutura portuária:
 
@@ -6773,7 +7385,7 @@ O terminal de combustíveis do Caniçal, localiza-se a Leste do porto do Caniça
 
 Este terminal é constituído por 4 boias de amarração orientadas a Sul/Norte e recebe navios até 180 metros de comprimento e com uma cota de -15 ZH.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Porto do Porto Santo
 
@@ -6781,7 +7393,7 @@ O porto do Porto Santo localiza-se na extremidade Leste da costa Sul da ilha do 
 
 O acesso ao porto é efetuado pela estrada regional marginal à costa, constituindo-se como o eixo de ligação ao principal núcleo urbano da ilha. O porto tem como finalidade, o transporte de pessoas e mercadorias e o desenvolvimento de atividades recreativas e desportivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Caraterísticas da infraestrutura portuária
 
@@ -6807,11 +7419,11 @@ Destina-se essencialmente à receção de navios de carga geral.
 
 O terminal do Porto Santo, encontra-se instalado junto ao troço curvo do molhe principal do porto do Porto Santo. Este terminal destina-se à descarga e movimentação de granéis sólidos (cimento) e encontra-se concessionado pela APRAM, S. A. O terminal do Porto Santo possui uma profundidade da bacia de acostagem de -6,0 m ZH.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na figura seguinte constam as principais infraestruturas portuárias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Portos secundários
 
@@ -6829,7 +7441,7 @@ Porto do Porto Novo
 
 O porto do Porto Novo localiza-se no concelho de Santa Cruz. Destina-se à descarga de inertes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Porto de Câmara de Lobos
 
@@ -6837,7 +7449,7 @@ O porto de Câmara de Lobos inclui uma área portuária e dispõe de um cais aco
 
 No porto de Câmara de Lobos está incluído o antigo terminal dos Socorridos. Este terminal destina-se à descarga de cimento a granel e carateriza-se por ter fundos de -8,0 metros (ZH), o que permite a acostagem de navios até 120 m de comprimento e calado máximo de 7 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Porto do Porto Moniz
 
@@ -6847,7 +7459,7 @@ Porto da Calheta
 
 Dispõe de um cais acostável com cerca de 100 m de comprimento, com fundos cerca de -3,8 m (ZH).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Portos terciários
 
@@ -6877,11 +7489,11 @@ Porto de Santa Cruz
 
 O porto de Santa Cruz dispõe de um molhe de abrigo com aproximadamente 50 m de comprimento. O porto destina-se a servir a pesca artesanal, náutica de recreio e atividades marítimo-turísticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na região existem ainda diversas infraestruturas secundárias que proporcionam o acesso ao mar em condições de segurança adequadas. Tratam-se essencialmente de rampas, cais, pontões que têm apoiado o desenvolvimento da atividade marítimo-turística ou que, pelo menos, têm potencial para servir essa atividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Embora não estejam referenciados enquanto portos secundários ou terciários, importa referir também o cais da Madalena do Mar e o cais de Santa Cruz (debaixo da cabeceira do aeroporto), o cais do Seixal, assim como alguns pontões, pontes cais ou outras estruturas fixas de acostagem de embarcações que existem ao longo da costa. Em alguns casos estas infraestruturas encontram-se em deficiente estado de conservação, pelo que necessitam de intervenções significativas ao nível de manutenção. Estas infraestruturas estão sob a salvaguarda de entidades públicas ou privadas.
 
@@ -6891,7 +7503,7 @@ A RAM dispõe de cinco infraestruturas principais dotadas de abrigo contra a agi
 
 Tabela 1 - Características das marinas de recreio da região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Importa ainda referir a doca destinada às atividades marítimo-turísticas, junto do porto do Funchal. Esta doca dispõe de um cais acostável com cerca de 200 m de comprimento e uma profundidade mínima de serviço de - 3,5 m (ZH).
 
@@ -6899,7 +7511,7 @@ Importa ainda referir a doca destinada às atividades marítimo-turísticas, jun
 
 Para os portos principais, secundários, terciários e marinas/portos de recreio, foram delimitadas as áreas de aproximação portuária. A delimitação destas áreas teve por base o diploma em vigor - [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964) de 23 de agosto, e os trabalhos de alteração das áreas de jurisdição que decorreram durante a elaboração do Plano de Situação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ÁREAS DE PRECAUÇÃO Á NAVEGAÇÃO E DE PILOTAGEM OBRIGATÓRIA
 
@@ -6913,7 +7525,7 @@ Na costa Norte das ilhas da Madeira e do Porto Santo, assiste-se à presença de
 
 . Porto do Porto Santo: o interior do porto e até ao limite exterior de 3 milhas, centrado no farolim do molhe sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A aterragem aos portos e marinas processa-se em águas safas e sem riscos de monta para o navegador experiente, desde que na operação seja seguido o mínimo de cuidado náutico.
 
@@ -6935,7 +7547,7 @@ Na RAM, as áreas destinadas à conservação da natureza possuem essencialmente
 
 As figuras 30 e 31 representam as áreas de rede natura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A delimitação destas áreas marinhas protegidas pretende proteger e salvaguardar os habitats e ecossistemas considerados importantes ou vulneráveis.
 
@@ -6949,7 +7561,7 @@ Deste modo, deve ser intensificado a investigação de forma a que possa ser min
 
 A Portaria Regional n.º 46/2014 de 22 de abril, regula a capacidade de carga inerente à atividade de observação de cetáceos na região e delimita uma área de exclusão para a observação de cetáceos. Esta área caracteriza-se por ser um habitat preferencial do golfinho-roaz para se alimentar, socializar, descansar e reproduzir (Freitas et al., 2013).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 A área de exclusão da atividade de observação de cetáceos, tem uma área total de 1021 quilómetros quadrados, definida pelas seguintes coordenadas:
 
@@ -7005,7 +7617,7 @@ ii) Distância(maior que) a 100 m e até 300m - até duas plataformas;
 
 iii) Distância(maior que) a 300 m e até 500m - até quatro plataformas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 b) Nas restantes áreas (Área II):
 
@@ -7015,7 +7627,7 @@ ii) Distância(maior que) a 100 m e até 300m - uma plataforma;
 
 iii) Distância(maior que) a 300 m e até 500m - até duas plataformas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O mesmo artigo refere que as embarcações que estiverem fora da área de aproximação, à espera para entrar, deverão respeitar um período de espera mínimo de 120 minutos, após o abandono da última embarcação da área de aproximação.
 
@@ -7029,7 +7641,7 @@ As plataformas de observação deverão efetuar uma aproximação, de forma suav
 
 A observação subaquática deverá ser efetuada nos setores de observação exemplificados de seguida:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 No presente diploma é referido, também, o tempo máximo que as plataformas devem cumprir para a observação de vertebrados, a velocidade, as regras de boa conduta que devem ser adotadas pelas embarcações de forma a não prejudicar os mamíferos ou aves marinhas, o modo como as embarcações obtêm autorização para efetuarem a operação turística de observação de vertebrados, como é efetuado a gestão e fiscalização, o regime das contraordenações assim como as sanções acessórias.
 
@@ -7063,7 +7675,7 @@ Em termos nacionais, deve ser referenciada a [Portaria n.º 114/2014](https://di
 
 Embora esta área se encontre dentro da ZEE da região, está devidamente salvaguardada uma vez que as artes de pesca, como o arrasto de fundo, não são permitidas na RAM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.3 - Servidões militares
 
@@ -7073,7 +7685,7 @@ No espaço marítimo da RAM são realizados exercícios militares pela Marinha P
 
 A zona de exercícios militares realizados pela marinha abrange a área do Sítio Cetáceos Madeira (ver figura 37, subcapítulo M4.8. e Volume VI-M). Uma vez que as ações consideradas de cariz de militar têm impactos previsíveis nos cetáceos, a situação deverá ser analisada pelo Plano de Ordenamento e Gestão da área do Sítio Cetáceos. Ambas entidades deverão trabalhar em conjunto para que se consiga acomodar ambos os interesses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.4 - Servidões aeroportuárias
 
@@ -7081,7 +7693,7 @@ As zonas confinantes com os aeródromos civis e as instalações de apoio à avi
 
 O [Decreto Regulamentar Regional n.º 1/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2014-570715), de 30 de janeiro, delimita e regulamenta a área de servidão portuária do aeroporto do Funchal. A delimitação desta área tem em consideração as exigências estabelecidas no Anexo 14 da Convenção Internacional sobre Aviação Civil, aprovada pela Organização Internacional de Aviação Civil (ICAO).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.5 - Património cultural subaquático
 
@@ -7113,7 +7725,7 @@ A proteção dos recursos culturais subaquáticos, é da competência do sistema
 
 Na RAM, o património cultural subaquático existente destina-se, essencialmente, a atividades de mergulho recreativo, da qual resultou um roteiro de mergulho intitulado Roteiro de Mergulho em Naufrágios na Madeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 As áreas que, consignadas pelo património cultural subaquático, constituem-se como áreas de servidão administrativa. As atividades ou usos, de cariz privativo ou comum, que se possam vir a desenvolver na mesma área, devem ser compatíveis com esta servidão, de forma a não comprometer o património cultural subaquático existente.
 
@@ -7121,7 +7733,7 @@ Para esta área são, sobretudo, valorizados os trabalhos de investigação arqu
 
 A instalação de novos usos ou atividades de cariz privativo, em locais identificados como património cultural subaquático, deverão ser acompanhados pela realização de trabalhos de arqueologia atualizados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Caso se verifique o aparecimento de vestígios arqueológicos durante a instalação de uma atividade no espaço marítimo, é obrigatório a paragem imediata dos trabalhos e a comunicação da ocorrência à entidade responsável.
 
@@ -7129,7 +7741,7 @@ M.5.6 - Áreas de fundeadouro: permitidos e proibidos
 
 As áreas de fundeadouro foram definidas pela Autoridade Marítima Nacional no seu edital e constam das Normas Especiais de Segurança Marítimo Portuária.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Na ilha da Madeira, as áreas de fundeadouro localizam-se, essencialmente, na costa Sul da ilha da Madeira e Porto Santo, onde a ondulação é mais fraca, e junto das áreas portuárias.
 
@@ -7143,15 +7755,15 @@ M.5.7 - Cabos submarinos, emissários e ductos
 
 O Plano de Situação procedeu à identificação dos cabos submarinos, dos emissários e dos ductos submarinos. A cada uma destas estruturas encontra-se associada uma série de condicionalismos que devem ser referidos. No que diz respeito aos cabos submarinos, o [Decreto-Lei n.º 507/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1972-685201), de 12 de dezembro, identifica as práticas proibidas e sancionáveis a respeitar nas áreas onde passam os cabos submarinos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Os emissários submarinos existentes localizam-se na costa Sul da ilha da Madeira e do Porto Santo, onde se verifica uma maior pressão demográfica (vide, ficha 6 - cabos, emissários e ductos submarinos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 O ducto submarino existente localiza-se no Caniçal, junto do terminal de combustíveis (vide ficha 6 - cabos, emissários e ductos submarinos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.8 - Imersão de dragados
 
@@ -7165,7 +7777,7 @@ A área determinada para a deposição de dragados encontra-se localizada na cos
 
 No caso da ilha do Porto Santo, a dragagem do porto destina-se à alimentação da praia. Neste caso, a [Portaria n.º 1450/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1450-2007-629400) de 12 de novembro, prevê que só podem ser utilizados os materiais que se insiram na classe de qualidade um, considerado material dragado limpo que pode ser depositado no meio aquático ou reposto em locais sujeitos a erosão ou utilizado para alimentação de praias sem normas restritivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.9 - Manchas de empréstimo para a alimentação artificial da zona costeira
 
@@ -7173,7 +7785,7 @@ O Plano de Situação identifica as manchas de empréstimo para alimentação ar
 
 O Laboratório Nacional de Engenharia Civil (LNEC), através do Estudo de Manutenção e Melhoramento da Praia do Porto Santo e do estudo desenvolvido pela Faculdade de Ciências da Universidade de Lisboa, intitulado, Estudo da dinâmica sedimentar da praia do Porto Santo, propunham uma área de prospeção para a extração de areia localizada na costa Sul da ilha do Porto Santo, tendo por base a batimetria e a geomorfologia dos fundos marinhos. Embora seja ainda uma proposta, deverá ser devidamente identificada no Plano de Situação, uma vez que se trata de uma área de restrição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.5.10 - Obras de defesa costeira
 
@@ -7235,7 +7847,7 @@ NAVEGAÇÃO E TRANSPORTES MARÍTIMOS
 
 A região detém uma posição privilegiada considerada geoestratégica no que diz respeito às rotas de navegação, na confluência das principais rotas entre a Europa-África, Mediterrâneo-Atlântico e Atlântico Leste - Oeste. Porém esta posição privilegiada ainda se encontra subaproveitada. Caso fosse devidamente aproveitada traria benefícios, ao nível do turismo de cruzeiros, que escalam ou partem do porto do Funchal. O PIETRAM 2014-2020 também refere a importância destas rotas ao nível do transporte de mercadorias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 INVESTIGAÇÃO CIENTÍFICA QUE NÃO REQUEIRA RESERVA DE ESPAÇO
 
@@ -7299,11 +7911,11 @@ De acordo com as reuniões desenvolvidas e de acordo com o parecer da ANA - Aero
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação durante a resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conflito Funchal
 
@@ -7321,11 +7933,11 @@ Resolução: De acordo com a convenção da UNESCO, só é considerado patrimón
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação depois da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conflito Ribeira Brava - Cabo Girão
 
@@ -7351,11 +7963,11 @@ Uma vez que ainda não existirem estudos suficientes na RAM relativos ao desenvo
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação depois da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conflito Anjos (Ponta do Sol)
 
@@ -7381,11 +7993,11 @@ Uma vez que se trata de duas atividades com uma grande importância para a econo
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação depois da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conflito Paul do Mar - Jardim do Mar
 
@@ -7411,11 +8023,11 @@ Uma vez que a aquicultura é bastante importante para a região e a criação de
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação depois da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Conflito Ponta do Pargo
 
@@ -7439,11 +8051,11 @@ Visto que se verificou algumas incompatibilidades entre a constituição de uma 
 
 Situação antes da resolução do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Situação depois do conflito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.7 - Fichas de usos e atividades
 
@@ -7463,7 +8075,7 @@ A cartografia apresentada nas fichas tem por objetivo facilitar a leitura do tex
 
 O Geoportal é atualizado automaticamente e permanentemente e as fichas irão refletir essa atualização num período não superior a um ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -7651,7 +8263,7 @@ As ZIA são incompatíveis com as seguintes atividades:
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013 -2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -7689,11 +8301,11 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -7769,7 +8381,7 @@ EMEPC, para assuntos relacionados com a extensão da plataforma, disponível em:
 
 Site do ICNF, para questões relacionadas com recursos genéticos, disponível em: http://www2.icnf.pt/portal/pn/biodiversidade/ei/acesso-recursos-geneticos-ue
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -7865,7 +8477,7 @@ Dificilmente esta atividade poderá ser compatível com outras. Provavelmente a 
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -7913,11 +8525,11 @@ LIGAÇÕES ÚTEIS
 
 CARTOGRAFIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Figura 3M- 1 Ocorrência de minerais metálicos no espaço marítimo nacional. Fonte: Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -7991,7 +8603,7 @@ As áreas selecionadas para a extração de inertes são compatíveis com as seg
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013 -2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -8025,11 +8637,11 @@ CARTOGRAFIA
 
 SITUAÇÃO ANTERIOR AO PSOEM - MADEIRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -8143,7 +8755,7 @@ Os sistemas eólicos offshore e outras estruturas energéticas flutuantes são f
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013 -2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -8169,7 +8781,7 @@ CARTOGRAFIA
 
 SITUAÇÃO POTENCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -8377,23 +8989,23 @@ SITUAÇÃO EXISTENTE
 
 CABOS E EMISSÁRIOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DUCTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Ficha 7 M
 
 Investigação Científica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
 As áreas de investigação científica destinam-se ao desenvolvimento de projetos-piloto, zonas de teste e demonstração abrangendo várias áreas do conhecimento. Embora a investigação científica se possa desenvolver em todo o espaço marítimo regional, estrategicamente, pelas suas caraterísticas oceanográficas, geográficas e por se encontrarem próximas de equipamentos e infraestruturas terrestres, que potenciam o desenvolvimento de projetos piloto ou zonas de testes e demonstração que devem ser referidas no Plano de Situação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO EXISTENTE
 
@@ -8415,7 +9027,7 @@ Existem áreas identificadas como de permanência mais prolongada das tartarugas
 
 Esta área tem também potencial para o desenvolvimento de estudos ou projetos que visem o conhecimento do mar profundo. É possível o acesso ao mar profundo e ultra profundo a poucas milhas da costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 Assim, a região detém condições únicas para o desenvolvimento de estudos ou projetos que visem o aumento do conhecimento do mar profundo. As vantagens/pontos positivos do acesso ao mar profundo num curto espaço de tempo face às distâncias reduzidas costa são as seguintes: custos de operação, exploração e mapeamento mais reduzidos para atividades de investigação aplicada e robótica assim como a redução de certos fatores logísticos e temporais que podem inviabilizar a exploração sustentável de certos recursos marinhos.
 
@@ -8435,7 +9047,7 @@ Na área Oeste da ilha da Madeira, na zona designada "Canhão da Ribeira Brava f
 
 Uma vez que se trata de uma área rica em valores naturais (espécies, habitats, processos ecológicos e recursos haliêuticos) e com interesse para o conhecimento dos mares e exploração dos recursos existentes de forma sustentável, foram analisados os usos e atividades existentes ou potenciais. Foi possível detetar que é exercida a arte de pesca do palangre para a captura do peixe-espada preto. Comparativamente ao arrasto ou outras artes de pesca fundeadas como linhas e anzóis ou armadilhas (Watling and Norse, 1998; Koslow et al., 2001; Pham et al., 2014), os potenciais impactos provocados por este tipo de palangre derivante (operação na zona pelágica) deverão ser residuais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 ÁREA DA BAÍA DE MACHICO ATÉ À PONTA DE SÃO LOURENÇO
 
@@ -8527,7 +9139,7 @@ Dentro desta faixa é possível detetar várias características que exibem form
 
 O fundo marinho é composto por pequenas ravinas em forma de V, com poucas centenas de metros de largura e até 2-3 km de comprimento. Geralmente são organizados em redes paralelas, ligeiramente convergentes, dividindo-se em vários canais mais largos e profundos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 BOAS PRÁTICAS
 
@@ -8539,7 +9151,7 @@ Nestas áreas não são limitadas quaisquer atividades humanas. Trata-se de cria
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -8807,7 +9419,7 @@ Wittmann, K.J., Wirtz, P., 1998. A first inventory of the mysid fauna (Crustacea
 
 Yesson, C., Wright, E., and Braga-Henriques, A. (2018). Population genetics of Narella versluysi (Octocorallia: Alcyonacea, Primnoidae) in the Bay of Biscay (NE Atlantic). Marine Biology 165: 135. https://doi.org/10.1007/s00227-018-3394-z.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -8855,7 +9467,7 @@ A inobservância das condições estabelecidas é matéria suscetível de consti
 
 No que diz respeito aos eventos desportivos, a segurança é da responsabilidade da entidade organizadora e cabe às Capitanias do Porto do Funchal e do Porto Santo autorizarem/licenciarem a realização dos mesmos. A Capitania do Porto do Funchal e do Porto Santo, podem complementar o dispositivo de segurança com a participação de meios náuticos, no caso de ser solicitado pelo requerente em eventos de maior risco ou de maior envergadura. Quando estiver prevista a afluência e concentração de público em grande número, poderá ser necessário o promotor requisitar dispositivo policial a fixar pelo comandante da força policial territorialmente competente, para efeitos de segurança, proteção e ordem pública, devendo ser apresentado o requerimento endereçado ao Comandante Local da Polícia Marítima do Funchal ou do Porto Santo, acompanhado do Plano de Segurança e emergência e outra documentação considerada elegível, nos termos e para os efeitos legais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 SITUAÇÃO POTENCIAL
 
@@ -8901,7 +9513,7 @@ Em determinados cenários, deverão ser criadas sinergias com as utilizações j
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -8931,7 +9543,7 @@ Autoridade Marítima Nacional, Capitania do Porto do Funchal. Disponível em: ht
 
 European Commission, Maritime Affairs (2018), Coastal and maritime tourism. https://ec.europa.eu/maritimeaffairs/policy/coastal_tourism_en
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -9055,7 +9667,7 @@ O património cultural subaquático é compatível com as seguintes atividades o
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -9095,7 +9707,7 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -9177,7 +9789,7 @@ A imersão de resíduos/dragados é incompatível com as seguintes atividades ou
 
 CONTRIBUIÇÃO PARA A EXECUÇÃO DA ENM 2013-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 DOCUMENTOS E LIGAÇÕES ÚTEIS
 
@@ -9191,7 +9803,7 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -9267,7 +9879,7 @@ CARTOGRAFIA
 
 SITUAÇÃO EXISTENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 CARATERIZAÇÃO GERAL
 
@@ -9355,7 +9967,7 @@ No que respeita à subdivisão da Madeira, a grande maioria dos usos/atividades 
 
 Os mapas abaixo tentam dar uma visão global da ocupação do espaço marítimo para os principais usos/atividades previstos e espacializados no Plano de Situação especialmente para o mar territorial e águas interiores, admitindo a concretização plena do Plano de Situação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf))](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/25001/0000200391.pdf)
 
 M.9 - Bibliografia
 
@@ -9988,3 +10600,5 @@ g) Plataforma Continental para além das 200 milhas;
 10.3.2.2 - Reserva Mundial de Surf da Ericeira;
 
 10.3.2.3 - Surf Spots.
+
+112721709

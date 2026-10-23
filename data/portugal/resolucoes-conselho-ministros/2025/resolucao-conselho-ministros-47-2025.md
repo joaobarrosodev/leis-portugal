@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05300/0004600046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/47/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2025-911089437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 598c7abb097d8ce8d9b701fb9499bc09f904a4a7afa30b3345b99304867424b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8eb370930af5bb51c0dffd34612d4ced100ae91d623e4bdeb07292f22f9c94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
 - Cidadão Estrangeiro
 - Estatuto dos Refugiados
 - Prorrogação de Prazo
+- Residência de Estrangeiros
 - Ucrânia
 - Vítima de Guerra
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:29-A/2022
+  label: Prorroga, com efeitos a 1 de março de 2025, até 4 de março de 2026 os títulos de proteção temporária concedidos ao
+    abrigo da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, Diário da República n.º 42/2022, 2º Suplemento,
+    Série I
+  source: null
+  date: '2022-03-01'
 - type: cites
   target: celex:32001L0055
   label: null
@@ -100,6 +107,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909115437:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0055
   label: null
@@ -107,13 +130,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:06Z'
   warnings: []
   errors: []
 ---
@@ -143,3 +166,5 @@ Nos termos do n.º 2 do artigo 7.º da [Lei n.º 67/2003](https://diariodarepubl
 2 - Estabelecer que a presente resolução produz efeitos a 1 de março de 2025.
 
 Presidência do Conselho de Ministros, 7 de março de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+118813339

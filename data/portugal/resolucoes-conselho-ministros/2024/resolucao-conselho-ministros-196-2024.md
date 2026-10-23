@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/196/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2024-901400368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f0ca5b139eb24c38617bf2a6b9c7cdee4d84a84dc9d0be84551eab061230d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b077523878822f01be8fe48f5cc8c02489d4c747f5b440ed85c5ab165da0c840
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - ÁREA Metropolitana
 - Autorização de Despesas
-- Titulo de Transporte
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
-- Indemnização Compensatória
-- Passe Social
-- Serviço Público
 - Ensino Superior
+- Indemnização Compensatória
+- Passe Jovem
+- Passe Social
+- Regulamentação de Atos Legislativos
+- Serviço Público
+- Titulo de Transporte
 - Transporte de Passageiros
 - Transporte Público
-- Passe Jovem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14-c/2020/04/07/p/dre
@@ -118,16 +118,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/116/2023/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/116/2023/10/03/p/dre
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205493446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222367461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2472435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875716582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891541243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:55Z'
   warnings: []
   errors: []
 ---
@@ -156,11 +200,11 @@ a) Até ao montante de € 4 050 000,00, a que acresce o IVA, à taxa legal em v
 
 b) Até ao montante de € 2 363 000,00, a que acresce o IVA, à taxa legal em vigor, com efeitos a 1 de janeiro de 2024, a processar pelo Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários.
 
-5 - Determinar que as indemnizações compensatórias referidas nos n.<sup>os</sup>1 e 3 pressupõem a observância das condições de prestação do serviço público que as justificam.
+5 - Determinar que as indemnizações compensatórias referidas nos n.os1 e 3 pressupõem a observância das condições de prestação do serviço público que as justificam.
 
 6 - Autorizar, em casos especiais e devidamente justificados, a possibilidade de serem redistribuídas, por despacho dos membros do Governo responsáveis pela área das finanças e pelo setor de atividade das empresas envolvidas, as verbas cuja distribuição é agora aprovada nos termos da presente resolução.
 
-7 - Publicitar, nos termos do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua redação atual, as indemnizações compensatórias referidas nos n.<sup>os</sup> 1 e 3, a atribuir no decurso do corrente ano a empresas prestadoras de serviço público de transporte de passageiros, as quais se encontram identificadas no anexo à presente resolução e da qual faz parte integrante.
+7 - Publicitar, nos termos do [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua redação atual, as indemnizações compensatórias referidas nos n.os 1 e 3, a atribuir no decurso do corrente ano a empresas prestadoras de serviço público de transporte de passageiros, as quais se encontram identificadas no anexo à presente resolução e da qual faz parte integrante.
 
 8 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
@@ -168,9 +212,9 @@ Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere o n.º 7)
 
-| Setor/empresa | Indemnizações compensatórias |
+| Unidade: euros |  |
 | --- | --- |
-| Unidade: euros | Unidade: euros |
+| Setor/empresa | Indemnizações compensatórias |
 | Transportes ferroviários - Setor Público | 2 250 000,00 |
 | A processar pelo GPIAAF: |  |
 | CP - Comboios de Portugal, E. P. E.: |  |
@@ -195,3 +239,5 @@ Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Mini
 | Passe Sub23@superior.tp | 26 000,00 |
 | Passe Social+ | 2 900 000,00 |
 | Total | 6 480 000,00 |
+
+118502241

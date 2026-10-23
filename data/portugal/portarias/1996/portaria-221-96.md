@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/221/1996/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-1996-428049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17a275ddf19daa7b1b41022adc38d4c0311a277358d3779fc1ceb9c6bcd3e4c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb3379bbc0b4df412de854db94997d51eabf1352e38cbb4e6b7c414a061690c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Instituto Politécnico
 - Instituto Superior de Engenharia
-- Coimbra
 - Pessoal Docente
-- Quadro de Pessoal
 - Porto
-relationships: []
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DOCENTE DO INSTITUTO SUPERIOR DE ENGENHARIA DO INSTITUTO POLITÉCNICO DO PORTO, PELA\
+    \ PORT 359/96 DE 19-AGO DR.IS-B [191]\0.IS-B [191]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-19'
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:13Z'
   warnings: []
   errors: []
 ---
@@ -107,14 +129,14 @@ Manda o Governo, pelos Ministros das Finanças, da Educação e Adjunto que aos 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
 
-**Assinada em 20 de Maio de 1996.**
+Assinada em 20 de Maio de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf))](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf))](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/144b00/15981598.pdf)

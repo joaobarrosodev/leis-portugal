@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/855/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/855-1995-460220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 362236d8b450b8c66cc6f5965de5a31dbb0cb81e4fbac241ba4181e1fd254b67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2422afe197a2d7d4d94d86b5a716642c221ba7b5cb00b7c989d8eb8c9819c403
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,31 @@ relationships:
   target: pt:dre:482840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517606:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça, pela PORT.749/2004.30.06.2004.MADRP,\
+    \ DR.IS-B [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-2004-517606
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:315164:por
+  label: "Renovada por doze anos a concessão de zona de caça pela PORT.1457-C/2004.06.12.2004.MAPF, DR.IS-B [285-Supl] de\
+    \ 06.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1457-c-2004-315164
+  date: '2004-12-06'
+- type: amended_by
+  target: pt:dre:262156:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Portaria 1457-C/2004,\
+    \ de 06 de Dezembro pela PORT.59/2007.11.01.2007.MAOTDR, DR.IS [8] de 11.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-2007-262156
+  date: '2007-01-11'
+- type: amended_by
+  target: pt:dre:482840:por
+  label: "Anexados, vários prédios rústicos, à zona de caça associativa de Ifanes, concessionada pelo presente diploma, renovada\
+    \ pela Port 1457-C/2004 de 06-Dez e alterada pela Port 59/2007 de 11-Jan, pela PORT.1288/2009.19.10.2009.MAOTDR, DR.IS\
+    \ [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1288-2009-482840
+  date: '2009-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/602/1992/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/602/1992/06/27/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:40Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +184,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/44734473.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/44734473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44734473.pdf)

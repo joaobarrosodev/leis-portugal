@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20301/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140-a/2024/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-a-2024-891777897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 972f3203ac382d4d8886de98c3413cfa703687a587e9fe571fbc96cf3c55d5c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7b8519827c9110560945d3db943c5db382e305e359be1e33bd445f11bee6642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Nacional para as Migrações e Asilo
 - Nomeação
 - Presidente
-- Conselho Nacional para as Migrações e Asilo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/53/2024/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2024/08/30/p/dre
+- type: cites
+  target: pt:dre:886311870:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:46Z'
   warnings: []
   errors: []
 ---
@@ -130,3 +134,5 @@ Durante estes anos, António Vitorino desenvolveu competências de liderança, g
 Desempenhou também as funções de Juiz do Tribunal Constitucional Português de 1989 a 1994.
 
 Para além da sua vasta experiência política e no serviço público, António Vitorino é também um advogado experiente e um académico reconhecido. Durante mais de 25 anos, foi assistente e professor de Direito Constitucional, Direito Internacional dos Direitos Humanos, Direito da União Europeia nas áreas da Justiça e Assuntos Internos, na Faculdade de Direito de Lisboa e na Universidade Nova de Lisboa.
+
+118248931

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/08300/0175901761.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/49/2018/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2018-115200301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557f72a3f4d96fd58b54231e4f9046d00d3f82645b426006967ee024b211c260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc82d1c2d1ef02817948fbbb3dac0c84f7538aeeadedfaa7c3e6e3d6d90771d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão Integrada de Fogos Rurais
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
-- Incêndio
 - Autorização de Despesas
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
 - Conselho de Ministros
 - Contrato de Prestação de Serviços
 - Delegação de Competências
 - Despesas Públicas
-- Proteção da Floresta
 - Fiscalização
-- Primeiro-ministro
-- Pagamento
-- Chefe do Estado Maior do Exército
+- Governo XXI
+- Incêndio
 - Instituto da Conservação da Natureza e das Florestas
 - Ministro da Defesa Nacional
+- Pagamento
+- Primeiro-ministro
+- Proteção da Floresta
 - Servidão Administrativa
-- Governo XXI
-- Agência para a Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/d
@@ -130,16 +130,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114655033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114706489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:02Z'
   warnings: []
   errors: []
 ---
@@ -251,3 +299,5 @@ b) A celebrar novos contratos de aquisição de serviços com diferente objeto e
 13 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
 
 Presidência do Conselho de Ministros, 5 de abril de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111304905

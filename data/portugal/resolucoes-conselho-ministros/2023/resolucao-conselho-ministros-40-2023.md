@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08500/0001900024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/40/2023/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2023-212551390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd082f938a7888aa46689ccaae06ad5cd2429f4c35ffb928e101cdb161f1d5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f567371b99d9ddea0c86d84429073b8344183c33530d833791ba2cddc376a3d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate à Violência
-- Combate ao Terrorismo
-- Segurança Interna
 - Combate ao Crime
+- Combate ao Terrorismo
+- Crime
 - Definição de Competências
-- Terrorismo
-- Relatório
 - Prevenção Criminal
+- Relatório
+- Segurança Interna
+- Terrorismo
 - Unidade de Coordenação Antiterrorismo
 relationships:
 - type: cites
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/7-a/2015/02/20/p/dre
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66567251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:13Z'
   warnings: []
   errors: []
 ---
@@ -289,3 +297,5 @@ A execução da ENCT requer um compromisso de mobilização, coordenação e coo
 A ENCT é objeto de revisão quinquenal, da responsabilidade do Secretário-Geral do Sistema de Segurança Interna, sem prejuízo de revisões extraordinárias, sempre que as circunstâncias o exijam, tendo em vista a sua adequação à constante evolução da ameaça terrorista e aos desafios daí decorrentes.
 
 A execução da ENCT é sujeita a uma avaliação anual, da responsabilidade da UCAT, prevendo-se, para o efeito, a elaboração do respetivo relatório, a ser aprovado nesta sede.
+
+116402219

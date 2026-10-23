@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10200/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2021/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2021-164091782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6d57ba8073f97e18a96dfc2507801c49ac181d61146bbdefe5274cf88420d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c17db20dc2ad5520f8fb608d9e8d73fc256b61bec1f3d9321c408de6fe5d2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ALTO Comissariado para as Migrações
-- Instituto da Segurança Social
 - Associação de Moradores
+- Autarquia Local
 - Casa Degradada
+- Cobrança de Dívidas
 - Cooperativa de Habitação
 - Definição de Competências
-- Renovação Urbana
 - Direção Geral do Tesouro e Finanças
-- Equipa de Missão
-- Lisboa
-- Habitação Social
-- Laboratório Nacional de Engenharia Civil
-- Santa Casa da Misericórdia
-- Instituto da Habitação e da Reabilitação Urbana
-- Setúbal
-- Política de Habitação
-- Urbanismo
-- Cobrança de Dívidas
-- Gestão de Créditos
-- Autarquia Local
-- Programa de Apoio ao Acesso à Habitação-1.º Direito
 - Direito à Habitação
+- Equipa de Missão
+- Gestão de Créditos
+- Habitação Social
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto da Segurança Social
+- Laboratório Nacional de Engenharia Civil
+- Lisboa
+- Política de Habitação
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Renovação Urbana
+- Santa Casa da Misericórdia
+- Setúbal
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406131:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:57Z'
   warnings: []
   errors: []
 ---
@@ -167,3 +179,5 @@ f) Da Santa Casa da Misericórdia de Lisboa.
 9 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 13 de maio de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114270737

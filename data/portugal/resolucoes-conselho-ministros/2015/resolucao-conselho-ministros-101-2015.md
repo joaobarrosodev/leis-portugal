@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25000/0982509838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2015/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2015-72963280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b596e883d6e8178de4a1229f83a763a2619e138f5d52f1f762107934d1c105d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 060de7dc684a17b1e49cee92180589ba6642c52e45d2b9be75076b333b1020f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ALTO Comissariado para as Migrações
+- Alto Comissário para as Migrações
+- Apoio ao Investimento
+- Criança
 - Empreendedorismo
+- Emprego
 - Financiamento
 - Formação Profissional
-- Criança
-- Apoio ao Investimento
-- Projeto de Investimento
-- Jovem
 - Inclusão Digital
-- Proteção à Infância
+- Jovem
 - Política de Educação
-- Política Social
-- Qualificação Profissional
-- Emprego
-- Presidência do Conselho de Ministros
-- Protecção à Juventude
 - Política de Juventude
+- Política Social
+- Presidência do Conselho de Ministros
 - Programa Escolhas
-- Alto Comissário para as Migrações
+- Projeto de Investimento
+- Proteção à Infância
+- Protecção à Juventude
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -105,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2012/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2012/08/09/p/dre
+- type: cites
+  target: pt:dre:175292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66639546:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:12Z'
   warnings: []
   errors: []
 ---

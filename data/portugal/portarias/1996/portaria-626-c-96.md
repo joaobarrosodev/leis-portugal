@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 255/1996, 2º Suplemento, Série I-B de 1996-11-04
   number: '255'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3904-(6) a 3904-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/626-c/1996/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-c-1996-385851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: addc54279c5d705a5f2f6965a13d3cfba39be7fc1434d708edddd5b5086b15f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0258d9685b91cdc24e4e0d82d4f59442fb51471a6887332ee468889614c8aaba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de VOTO
-- Eleição
 - Círculo Eleitoral
 - Comunidades Portuguesas
-- Emigrante
 - Conselho Consultivo
-- Sistema Eleitoral
 - Conselho das Comunidades Portuguesas
-- Emigração
 - Direito de Voto
+- Eleição
+- Emigração
+- Emigrante
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:444445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444445:por
+  label: "Alterados os nºs 7 e 8 do nº 10.º, al. b) do nº 2 e nºs 4 e 7 do nº 12º, nº 2 do nº 16.º, e nºs 5, 6 e 7 do art.\
+    \ 17º, e acrescentados um nº 11 ao nº 10º e um nº 8 ao nº 12º, pela pela PORT.268-A/97.1997.04.18.MNE, DR.IS-B [91]Supl\0\
+    l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-a-1997-444445
+  date: '1997-04-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:241642:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623002:por
+  label: "Rectificada pela DECL-RECT.16-X/96.1996.12.31.PCM DR.IS-B [302]5ºSupl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-x-1996-623002
+  date: '1996-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:25Z'
   warnings: []
   errors: []
 ---
@@ -300,12 +316,12 @@ i) No final dos trabalhos das assembleias ou secções de voto, envia os documen
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 5 de Novembro de 1996.**
+Assinada em 5 de Novembro de 1996.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf))](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf)
 
 ## ANEXO II — Caderno eleitoral para o Conselho das Comunidades Portuguesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf))](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/255b02/00060009.pdf)

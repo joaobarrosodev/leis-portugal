@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/14800/0376203763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/104/2018/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2018-115879179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d563db823c4fda3a214c086bdfec79ca3de3785b90ff6352a8883bae0650c000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6467a201dd945ec84c48957a1278d13b65400a964ddb8fd9ec51dc102d1c967f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2017/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2017/05/04/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:32Z'
   warnings: []
   errors: []
 ---
@@ -132,3 +144,5 @@ Percurso Profissional:
 Adjunta da Secretária de Estado da Saúde (de dezembro de 2017 até à presente data); Adjunta do Secretário de Estado da Saúde (de novembro de 2015 até dezembro de 2017); Adjunta do Secretário de Estado Adjunto do Ministro da Saúde (de outubro de 2015 até novembro de 2015); Adjunta do Secretário de Estado da Saúde (de junho de 2014 até outubro de 2015); Assessora do Secretário de Estado da Saúde (de janeiro de 2012 a maio de 2014); Diretora-Geral do Orçamento (de maio de 2010 a dezembro de 2011); Subdiretora-Geral do Orçamento (junho de 2009 a abril de 2010); Adjunta do Secretário de Estado Adjunto e do Orçamento (de junho de 2007 a junho de 2009); Subdiretora-Geral de Estudos e Previsão (de maio de 2004 a maio de 2007); Diretora de serviços, em regime de substituição, de Estudos Monetários e Financeiros da Direção-Geral de Estudos e Previsão do Ministério das Finanças; Técnica economista assessora na Direção-Geral de Estudos e Previsão, Ministério das Finanças (2000-2001); Macroeconomista no Programa de Gestão Económica, projeto das Nações Unidas executado pelo Governo de Moçambique (1996-2000); Chefe de projeto, macroeconomista assessora do projeto das Nações Unidas «Support to Economic Policy Formulation and Planning» na Comissão Nacional do Plano - Ministério do Plano, Moçambique (1988-1995); Técnica assessora no Gabinete de Estudos do Ministério das Finanças (1986-1987); Diretora de serviços do Departamento de Conjuntura do Instituto de Análise da Conjuntura e Estudos de Planeamento (1983-1986); Técnica e técnica superior principal no Instituto de Análise da Conjuntura e Estudos de Planeamento, Portugal (1974-1982).
 
 Atividade docente: Tutora do curso Macroeconomic Models and Policies do Msc in Financial Economics da University of London (1993); Docente da Universidade Eduardo Mondlane, Maputo; curso de um ano de Planeamento - Teorias e Técnicas; Docente e coordenadora do curso de Teoria e Métodos de Planeamento II no Instituto Superior de Economia e Gestão da Universidade de Lisboa; Docente no Instituto Superior de Economia e Gestão da Universidade de Lisboa em diferentes cursos (Teoria e Técnicas de Planeamento I, Economia Política, Economia Portuguesa e Teoria Macroeconómica).
+
+111549356

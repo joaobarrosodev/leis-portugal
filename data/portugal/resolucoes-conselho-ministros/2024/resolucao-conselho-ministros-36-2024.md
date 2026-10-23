@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04500/0000800012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/36/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2024-854054391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4769f1cbb012cdeb6cb954d4ab33a1218365eaef76b1d50412e2bcc66e2eba15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e0f90b2bdc3b61ee591391b192be8055188a827537e0f91bcdce5618c45ff57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Financiamento
+- Área Integrada de Gestão da Paisagem
 - Desenvolvimento Rural
+- Estratégia Nacional para as Florestas
+- Financiamento
 - Ordenamento do Território
+- Prevenção de Incêndios
+- Programa de Transformação da Paisagem
 - Proteção da Floresta
 - Proteção do Ambiente
-- Programa de Transformação da Paisagem
-- Estratégia Nacional para as Florestas
-- Área Integrada de Gestão da Paisagem
 relationships:
 - type: amended_by
   target: pt:dre:893982650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:49/2020
+  label: Altera, a partir de 5 de março de 2024, os n.ºs 12, 14, 18, 19 e o anexo v e revoga o n.º 17 da Resolução do Conselho
+    de Ministros n.º 49/2020, de 24 de junho, Diário da República n.º 121/2020, Série I
+  source: null
+  date: '2020-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -104,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2020/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2020/06/24/p/dre
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117866:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:43Z'
   warnings: []
   errors: []
 ---
@@ -263,3 +293,5 @@ b) Apoios dirigidos aos sistemas culturais que contribuam para o aumento da resi
 Os apoios são assim disponibilizados em função do sistema cultural associado à transformação realizada e à dimensão da área gerida, e majorados em função do seu contributo para a resiliência ao fogo e, por essa via, para aumentar as condições de prestação de serviços dos ecossistemas relacionados com o aumento da biodiversidade, com a proteção da água e do solo e com o contributo para o sequestro de carbono, de forma a assegurar aos produtores florestais e agrícolas rentabilidades previsíveis e estáveis a médio prazo.
 
 Os sistemas culturais elegíveis, montantes e respetiva majoração, são publicados em orientação técnica, no sítio institucional do Fundo Ambiental, definindo os apoios à gestão e manutenção conjunta e integrada das OIGP e os apoios aos sistemas culturais que contribuam para o aumento da resiliência e diminuição da vulnerabilidade dos territórios aos incêndios rurais."
+
+117408864

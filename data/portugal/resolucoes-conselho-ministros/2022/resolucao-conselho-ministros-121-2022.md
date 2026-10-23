@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23600/0004600086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/121/2022/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-2022-204502329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf34ea679ee50add1b09d9b222070f40689439e4d6936c80ad11030e5374a6c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 016b5ef93f18445b61d5c6edf0da1dbb77695f01aeadf67bdc6dfdd8c44738ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Humanitária
+- Camões - Instituto da Cooperação e da Língua
 - Comissão Interministerial para a Cooperação
 - Conselho de Ministros
 - Cooperação
-- Política de Cooperação
-- Educação
-- Timor Leste
+- Cooperação Política
+- CPLP
 - Definição de Competências
 - Delegação de Competências
 - Desenvolvimento
-- Ministro dos Negócios Estrangeiros
-- CPLP
-- Palop
-- Camões - Instituto da Cooperação e da Língua
-- Cooperação Política
-- Governo XXIII
+- Educação
 - Estratégia da Cooperação Portuguesa 2030
+- Governo XXIII
+- Ministro dos Negócios Estrangeiros
+- Palop
+- Política de Cooperação
+- Timor Leste
 relationships:
 - type: amended_by
   target: pt:dre:223077495:por
@@ -123,16 +123,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2010/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2010/11/04/p/dre
+- type: cites
+  target: pt:dre:115221285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119622096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75784201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:14Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +411,7 @@ A medida 3.3 concretiza-se a três níveis de consolidação: nos sistemas de ac
 
 É estabelecido um modelo de governação, acompanhamento e avaliação da ECP 2030 (medida 3.4), cuja coordenação e liderança cabe ao Ministério dos Negócios Estrangeiros (MNE)/Camões, I. P., e que inclui a constituição de uma comissão de acompanhamento no âmbito da SPCIC, bem como a comunicação e consensualização desses resultados em sede de coordenação mais alargada, designadamente no âmbito do FCD. Serão realizadas uma avaliação intercalar e uma avaliação final externa, ambas públicas.
 
-# Parte I - Enquadramento da Cooperação Portuguesa
+Parte I - Enquadramento da Cooperação Portuguesa
 
 1 - Desafios globais da cooperação internacional e do desenvolvimento
 
@@ -397,7 +449,7 @@ A ECP 2030 promove a concertação e as sinergias dos vários quadros setoriais 
 
 São ainda incorporadas as Recomendações do Comité de Ajuda ao Desenvolvimento (CAD-OCDE) à Cooperação Portuguesa em 2022, incluindo em áreas-chave visando o reforço da liderança do Camões, I. P., no âmbito da supervisão, direção e coordenação da política de cooperação, bem como da prossecução de abordagens mais robustas e programáticas, envolvendo diferentes atores nacionais, com o objetivo de aumentar o impacto e a visibilidade da Cooperação Portuguesa.
 
-# Parte II - Quadro de política
+Parte II - Quadro de política
 
 3 - A visão da Cooperação Portuguesa rumo a 2030
 
@@ -449,7 +501,7 @@ Assim, definem-se cinco eixos temáticos de atuação, que se desdobram em prior
 
 Figura: Eixos e áreas prioritárias de atuação da Cooperação Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23600/0004600086.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23600/0004600086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23600/0004600086.pdf)
 
 O desenvolvimento humano é o enfoque temático central da cooperação para o desenvolvimento, enquadrando todas as ações a desenvolver nas áreas setoriais.
 
@@ -801,7 +853,7 @@ A nível interno, continuará a consolidar-se a intervenção nacional ao nível
 
 Na sequência da EOAHE, promove-se a necessidade de se avançar com a integração das OSC nas estruturas de coordenação e planeamento em AHE, que garanta uma participação efetiva dos intervenientes-chave no domínio humanitário. Além disso, o apoio a ações da sociedade civil, quer no âmbito da emergência e resposta rápida quer nos projetos de ação humanitária, manter-se-á como um vetor importante de atuação, continuando a previsibilidade dos apoios a conceder.
 
-# Parte III - Quadro de ação
+Parte III - Quadro de ação
 
 O quadro estratégico de ação da Cooperação Portuguesa define as linhas prioritárias de atuação para implementar a visão e as prioridades geográficas e setoriais definidas até 2030. Está centrado em três objetivos estratégicos, aos quais correspondem medidas e prioridades de ação: 1) afirmar a centralidade da Cooperação Portuguesa; 2) reforçar a capacidade de intervenção da Cooperação Portuguesa, e 3) ampliar a qualidade e eficácia da Cooperação Portuguesa.
 
@@ -1184,3 +1236,5 @@ Cabe à comissão de acompanhamento: i) concretizar o sistema de governação e 
 Os resultados dos trabalhos da comissão de acompanhamento serão comunicados e consensualizados em sede de coordenação mais alargada, no âmbito do FCD.
 
 Será implementado um sistema de acompanhamento e avaliação da ECP 2030, que permita compreender a evolução da implementação, identificar obstáculos e propor soluções para os ultrapassar. Prevê-se uma avaliação intercalar, a meio percurso, e a promoção de análises no decurso da sua implementação. Será realizada uma avaliação final externa, permitindo a integração dos resultados numa futura Estratégia. Os resultados destas duas avaliações serão públicos.
+
+115916999

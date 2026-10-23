@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20600/0004100042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/143/2024/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2024-892301181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4209f621140d41c2e04461b7d2a20f2b65777971d5878effe5ab2b64bdfef229
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de5fe4e9f2fb08ee4ecb22d1a7e7ac1bb3da1bd4945036a51ec99ab75419dcf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Ministro dos Negócios Estrangeiros
 - Governo XXIV
+- Ministro dos Negócios Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/91/2021/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/91/2021/03/26/p/dre
+- type: cites
+  target: pt:dre:160316756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:49Z'
   warnings: []
   errors: []
 ---
@@ -124,13 +144,13 @@ Acresce que o referido artigo estabelece, igualmente, que a aquisição de bens 
 
 O espaço onde se realizará o 10.º Fórum Global da Aliança das Civilizações das Nações Unidas deverá observar um conjunto de requisitos definidos pela UNAOC, sendo que apenas o Centro de Congressos do Estoril (CCE) demonstra ter disponibilidade para as datas determinadas pelas Nações Unidas.
 
-Sucede que, em virtude do contrato em vigor celebrado entre a empresa municipal Cascais Dinâmica, detentora do CCE, e a Europalco, L.<sup>da</sup>, de acordo com as regras da contratação pública, esta detém a exclusividade para a prestação de serviços audiovisuais, bens e serviços conexos. Tal significa que, de acordo com o estabelecido no referido contrato, todos os eventos que se realizem no CCE são obrigatoriamente assegurados por esta empresa.
+Sucede que, em virtude do contrato em vigor celebrado entre a empresa municipal Cascais Dinâmica, detentora do CCE, e a Europalco, L.da, de acordo com as regras da contratação pública, esta detém a exclusividade para a prestação de serviços audiovisuais, bens e serviços conexos. Tal significa que, de acordo com o estabelecido no referido contrato, todos os eventos que se realizem no CCE são obrigatoriamente assegurados por esta empresa.
 
 Neste contexto, revela-se necessário proceder à aquisição de serviços audiovisuais, de bens e serviços conexos essenciais para a concretização do 10.º Fórum Global da Aliança das Civilizações, no montante máximo global de € 500 000,00, devendo, para tal, ser autorizada a realização da despesa, bem como, o respetivo procedimento pré-contratual de ajuste direto.
 
 Assim:
 
-Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea e) do n.º 1 do artigo 24.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea e) do n.º 1 do artigo 24.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Autorizar a Direção-Geral de Política Externa (DGPE) a realizar a despesa relativa a contratação de serviços audiovisuais, bens e serviços conexos, no âmbito do 10.º Fórum Global da Aliança das Civilizações das Nações Unidas, até ao montante máximo global de € 500 000,00, a que acresce o imposto sobre o valor acrescentado, à taxa legal em vigor, por recurso ao procedimento pré-contratual de ajuste direto.
 
@@ -141,3 +161,5 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do
 4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 4 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118254333

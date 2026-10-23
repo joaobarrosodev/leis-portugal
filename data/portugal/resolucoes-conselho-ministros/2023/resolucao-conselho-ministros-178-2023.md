@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24600/0001800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/178/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2023-812826244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f1c6de65f1a336aa86380dbb40e27861073582747f39096a0c0d54858a329c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7f740ad3575ea41723ba1d0b8b0affdfa35ce3e0368a01996ed314ffefbf2d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Nacional de Municípios Portugueses
-- Financiamento
-- Obras de Conservação e Restauro
 - Empréstimo
-- FEDER
-- Obras Públicas
 - Estabelecimento de Ensino
+- FEDER
+- Financiamento
 - Governo
-- Subsídio
+- Obras de Conservação e Restauro
+- Obras Públicas
 - Plano de Recuperação e Resiliência
+- Subsídio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2019/01/30/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:02Z'
   warnings: []
   errors: []
 ---
@@ -190,13 +202,17 @@ Presidência do Conselho de Ministros, 16 de novembro de 2023. - O Primeiro-Mini
 
 Plano de Financiamento Anual Indicativo
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
+| Programa Escolas<br>-<br>Fontes de financiamento | Dotações para compromissos anuais - Valores indicativos (M (euro) |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Programa Escolas - Fontes de financiamento | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) | Dotações para compromissos anuais - Valores indicativos (M (euro) |
-| Programa Escolas - Fontes de financiamento | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | Total |
+| 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | Total |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Plano de Recuperação e Resiliência... | 70 | 140 | 240 |  |  |  |  |  |  |  | 450 |
 | PT2030... | 30,25 | 30,25 | 30,25 | 30,25 |  |  |  |  |  |  | 121 |
 | Fundo Europeu de Desenvolvimento Regional... | 25 | 25 | 25 | 25 |  |  |  |  |  |  | 100 |
 | Projetos cofinanciados/Empréstimo-Quadro do Banco Europeu de Investimento... | 5,25 | 5,25 | 5,25 | 5,25 |  |  |  |  |  |  | 21 |
 | Banco Europeu de Investimento/Orçamento do Estado/outras fontes de financiamento... | 50 | 50 | 50 | 120 | 124 | 150 | 150 | 150 | 155 | 160 | 1 159 |
 | Total... | 150,25 | 220,25 | 320,25 | 150,25 | 124 | 150 | 150 | 150 | 155 | 160 | 1 730 |
+
+117177341
+
+.Tbl1 { text-align:center; vertical-align:center; } .Tbl2 { text-align:justify; vertical-align:top; } .Tbl3 { text-align:center; vertical-align:top; } .Tbl4 { text-align:justify; vertical-align:bottom; } .Tbl5 { text-align:center; vertical-align:bottom; }

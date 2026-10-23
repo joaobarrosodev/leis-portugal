@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23200/0003400034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/171/2024/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2024-898378510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b7b26d1b9eacf447883f1d8f16e96a0fea169c18c5fb6ffe87f9cb0a3d44a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2481c6b8ae43474d368595169d99ac045c5c647b734362ce615008d8893ef245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ subjects:
 - Despesas Públicas
 - Sistema de Informação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:111/2022
+  label: Altera, a partir de 30 de novembro de 2024, os n.ºs 1 e 2 da Resolução do Conselho de Ministros n.º 111/2022, de
+    23 de novembro, Diário da República n.º 226/2022, Série I
+  source: null
+  date: '2022-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -92,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/111/2022/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/111/2022/11/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203802285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:27Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +142,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar os n.<sup>os</sup>1 e 2 da [Resolução do Conselho de Ministros n.º 111/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2022-203802285), de 23 de novembro, que passam a ter a seguinte redação:
+1 - Alterar os n.os1 e 2 da [Resolução do Conselho de Ministros n.º 111/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2022-203802285), de 23 de novembro, que passam a ter a seguinte redação:
 
 «1 - Autorizar a Autoridade Tributária e Aduaneira (AT) a realizar despesa, no montante máximo de € 134 312 500,00 ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com vista à celebração de um acordo quadro para a aquisição de serviços de desenvolvimento aplicacional dos sistemas de informação da AT (AQSDASI), para o período inicial de vigência de dois anos, que pode ser prorrogado automaticamente por períodos sucessivos de um ano, até ao limite total de quatro anos, com início em 2024.
 
@@ -133,3 +159,5 @@ Em 2027: € 33 578 125,00.»
 2 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 14 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118393305

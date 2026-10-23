@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/270b00/42084209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/686/1996/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-1996-198081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df7b302c4e1639a444669989d2394cdcb7859a75ea776f146469b0877e191f1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f036a3a1c0cd4dd19863a3073cf2d146ce5c6e51c921aee1998244b807363693
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Diploma
 - Doutoramento
+- Ensino Superior
 - Florença
 - Instituto Universitário Europeu
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:116068880:por
@@ -81,16 +81,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/1996/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/1996/07/16/p/dre
+- type: cites
+  target: pt:dre:414389:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116068880:por
+  label: Revogada, a partir de 01.01.2019, pelo(a) Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de
+    2018-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2018-116068880
+  date: '2018-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:55Z'
   warnings: []
   errors: []
 ---
@@ -165,6 +175,6 @@ O registo deve ser realizado no prazo de 10 dias úteis contado a partir da data
 
 Ministério da Educação.
 
-**Assinada em 23 de Outubro de 1996.**
+Assinada em 23 de Outubro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

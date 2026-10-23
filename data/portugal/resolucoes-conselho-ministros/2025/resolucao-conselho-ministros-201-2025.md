@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/201/2025/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/201-2025-992402117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92982f84ce697cc2f5cae6cddf6d46cd669397fb1a6f8015186102d7b9bfcc7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e2f27bd1a0a88076c2527e6bdfab9af9a337e60da1770be2c669a8b2fcd1cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Ministério da Defesa Nacional
 - Conselho de Ministros
 - Contrapartida
 - Delegação de Competências
 - Despesas Públicas
-- Pagamento
-- Ministro de Estado e das Finanças
-- Ministro da Defesa Nacional
 - Direção Geral de Recursos da Defesa Nacional
 - Governo XXV
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Ministro de Estado e das Finanças
+- Pagamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/397/2019/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/397/2019/11/21/p/dre
+- type: cites
+  target: pt:dre:126365739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150233:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:00Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +144,7 @@ validation:
 
 A [Portaria n.º 278/2012](https://diariodarepublica.pt/dr/detalhe/portaria/278-2012-175980), de 14 de setembro, procedeu à regulamentação da implementação gradual do princípio da onerosidade, mediante a determinação dos termos em que é devida a contrapartida pelos serviços, organismos ou demais entidades utilizadoras de espaços públicos.
 
-A [Portaria n.º 278/2012](https://diariodarepublica.pt/dr/detalhe/portaria/278-2012-175980), de 14 de setembro, foi alterada, pelas Portarias n.<sup>os</sup>[222-A/2016](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2016-75150233), de 12 de agosto, [397/2019](https://diariodarepublica.pt/dr/detalhe/portaria/397-2019-126365739), de 21 de novembro, e [309-D/2020](https://diariodarepublica.pt/dr/detalhe/portaria/309-d-2020-152637762), de 31 de dezembro, por forma a garantir a adaptação da Administração Pública à evolução do contexto em que se insere, e acautelar necessidades concretas de afetação das receitas, provenientes das contrapartidas decorrentes da aplicação do princípio da onerosidade.
+A [Portaria n.º 278/2012](https://diariodarepublica.pt/dr/detalhe/portaria/278-2012-175980), de 14 de setembro, foi alterada, pelas Portarias n.os[222-A/2016](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2016-75150233), de 12 de agosto, [397/2019](https://diariodarepublica.pt/dr/detalhe/portaria/397-2019-126365739), de 21 de novembro, e [309-D/2020](https://diariodarepublica.pt/dr/detalhe/portaria/309-d-2020-152637762), de 31 de dezembro, por forma a garantir a adaptação da Administração Pública à evolução do contexto em que se insere, e acautelar necessidades concretas de afetação das receitas, provenientes das contrapartidas decorrentes da aplicação do princípio da onerosidade.
 
 Assim, havendo disponibilidade para o efeito e no contexto da sustentabilidade das finanças públicas, importa proceder em 2025 ao pagamento da contrapartida decorrente da aplicação do princípio da onerosidade, referente ao ano de 2026, do Ministério da Defesa Nacional.
 
@@ -137,3 +161,5 @@ Nos termos do artigo 4.º do [Decreto-Lei n.º 280/2007](https://diariodarepubli
 4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de dezembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119919881

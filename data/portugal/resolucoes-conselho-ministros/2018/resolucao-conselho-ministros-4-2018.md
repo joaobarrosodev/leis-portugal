@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00700/0034600350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2018/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2018-114494517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28455a497e4651d917447fbc515f0ddb2ccedbb7522adcadf6f65ef0147b876
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd23d60262ae05ae221dfdc238f3bceabed9ec1ea3bfee7fb118a5b6284423da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,9 @@ subjects:
 - Administração Regional de Saúde do Norte
 - Alcobaça
 - Alvaiázere
-- Instituto da Segurança Social
 - Ansião
-- Protecção à Vítima
+- Arganil
 - Arouca
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
 - Aveiro
 - Braga
 - Cabeceiras de Basto
@@ -83,27 +79,33 @@ subjects:
 - Carregal do SAL
 - Castelo de Paiva
 - Castro Daire
+- Catástrofe
 - Celorico da Beira
+- Comissão
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Definição de Competências
 - Contrato Local de Desenvolvimento Social
+- Definição de Competências
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Serviço Nacional de Saúde
-- Comissão
+- Figueira da Foz
+- Financiamento
 - Fornos de Algodres
-- Catástrofe
 - Góis
 - Gouveia
-- Ministro da Justiça
-- Pagamento
+- Governo XXI
+- Guarda
+- Incêndio
 - Indemnização
+- Instituto da Segurança Social
 - Instituto Nacional de Medicina Legal e Ciências Forenses
+- JurisAPP
 - Leiria
 - Lousã
 - Mangualde
+- Marinha Grande
 - Melgaço
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Ministro da Justiça
 - MIRA
 - Monção
 - Mortágua
@@ -112,34 +114,32 @@ subjects:
 - Oliveira de Frades
 - Oliveira do Bairro
 - Oliveira do Hospital
+- Pagamento
 - Pampilhosa da Serra
 - Penacova
 - Pinhel
-- Arganil
-- VILA NOVA de Poiares
 - Pombal
-- Figueira da Foz
 - Presidência do Conselho de Ministros
-- Marinha Grande
+- Prevenção de Incêndios
+- Protecção à Vítima
 - Resende
 - Ribeira de PENA
 - Santa Comba DÃO
 - são Pedro do SUL
 - Seia
 - Sertã
+- Serviço Nacional de Saúde
 - Tabua
 - Tondela
 - Trancoso
-- Guarda
+- Unidade de Missão para a Valorização do Interior
 - Vagos
 - VALE de Cambra
 - Vieira do Minho
+- VILA NOVA de Poiares
 - Viseu
 - Vítima
 - Vouzela
-- Governo XXI
-- Unidade de Missão para a Valorização do Interior
-- JurisAPP
 relationships:
 - type: cites
   target: eli:http://data
@@ -181,16 +181,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:107648921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107685594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107995244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114145440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114145441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114200691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114200699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114233329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114236462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114264987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114276585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114321092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114360527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73268683:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:53Z'
   warnings: []
   errors: []
 ---
@@ -549,4 +673,6 @@ Vouzela
 
 ## ANEXO III — [a que se referem a alínea g) do n.º 10 e o n.º 19]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00700/0034600350.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00700/0034600350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00700/0034600350.pdf)
+
+111051601

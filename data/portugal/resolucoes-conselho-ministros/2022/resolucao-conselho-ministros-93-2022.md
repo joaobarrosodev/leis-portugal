@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20100/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/93/2022/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2022-202345718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b0a63f775b3021bffa6f4af0fb7047e2114bfcc4b1de58a114cf7d914e773b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1ff30cfa164f83f62642d155ae042cd406507100d54b4ce9b97b0a6cbb6037d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Financiamento
+- Comissão CE
 - Coordenador
 - Definição de Competências
-- União Europeia
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
 - Fundos CE
-- Comissão CE
-- Ministério das Finanças
 - Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Ministério das Finanças
+- Plano de Recuperação e Resiliência
 - Presidente
 - Remuneração
+- União Europeia
 - Vice-presidente
-- Plano de Recuperação e Resiliência
-- Mecanismo de Recuperação e Resiliência da União Europeia
-- Estrutura de Missão Recuperar Portugal
 relationships:
 - type: cites
   target: celex:32021R0241
@@ -118,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166300968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:17Z'
   warnings: []
   errors: []
 ---
@@ -359,3 +395,5 @@ b) Têm direito a ajudas de custo e de deslocação, nos termos previstos nas di
 27 - Estabelecer que o mandato da «Recuperar Portugal» tem duração até 31 de dezembro de 2026.
 
 28 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+115776982

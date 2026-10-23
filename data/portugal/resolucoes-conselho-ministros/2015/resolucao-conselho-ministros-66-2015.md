@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17500/0725807259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2015/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2015-70215249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bab6d97bcab230794e1be546fa15ee0d2126a14527c2d8107c3ce32714dde86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07333a4a64468546b8c3e1b64cd71aeabcaa41dcce5e4806271aa7c54f9eda01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Bens e Serviços
-- Interconexão de Dados
-- Recolha de Dados
-- Modernização Administrativa
-- Certificação Electrónica
 - Administração Pública
-- Setor Empresarial do Estado
-- Gabinete Nacional de Segurança
-- Grupo de Trabalho Interministerial
+- Agência para a Modernização Administrativa
+- Aquisição de Bens e Serviços
 - Base de Dados
-- TIC
-- Entidade de Serviços Partilhados da Administração Pública
-- Página na Internet
-- Internet
 - Ceger
 - Centro Nacional de Cibersegurança
-- Presidência do Conselho de Ministros
-- REDE Interministerial TIC
-- Agência para a Modernização Administrativa
-- Setor Público
+- Certificação Electrónica
+- Entidade de Serviços Partilhados da Administração Pública
+- Gabinete Nacional de Segurança
+- Grupo de Trabalho Interministerial
+- Interconexão de Dados
+- Internet
+- Modernização Administrativa
+- Página na Internet
 - Plataforma Eletrónica
+- Presidência do Conselho de Ministros
+- Recolha de Dados
+- REDE Interministerial TIC
+- Setor Empresarial do Estado
+- Setor Público
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2012/05/18/p/dre
@@ -116,16 +116,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
+- type: cites
+  target: pt:dre:146274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69956138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:47Z'
   warnings: []
   errors: []
 ---

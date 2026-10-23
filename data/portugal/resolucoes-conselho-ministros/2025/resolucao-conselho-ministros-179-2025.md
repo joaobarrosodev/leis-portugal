@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/179/2025/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2025-950872041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 460425f209481bfdc57ddeb07338af1f649a8a9f8651e4888738932369548e26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1a3f624c573a3c838b5db742748a06e699e603c37598bc289e3396cfc5a6dd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71/2021/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71/2021/06/08/p/dre
+- type: cites
+  target: pt:dre:164798792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:27Z'
   warnings: []
   errors: []
 ---
@@ -156,3 +164,5 @@ António Fontaínhas Fernandes é, atualmente, professor catedrático da Univers
 Foi reitor da UTAD entre 2013 e 2021 e presidente do Conselho de Reitores das Universidades Portuguesas, tendo representado o ensino superior português em diversas estruturas nacionais e internacionais. Participou em grupos de peritos da Associação das Universidades Europeias e da Organização para a Cooperação e Desenvolvimento Económico, bem como no Conselho Económico e Social, onde coordenou e relatou pareceres sobre matérias estratégicas como o desenvolvimento sustentável e a reforma do ensino superior.
 
 Após cessar funções como reitor, tem integrado comissões de avaliação institucional da Agência de Avaliação e Acreditação do Ensino Superior e de projetos no âmbito do Plano de Recuperação e Resiliência e colaborado com a Comissão de Coordenação e Desenvolvimento Regional do Norte em estudos sobre desenvolvimento regional e inovação. No domínio da coesão territorial, foi fundador do Movimento do Interior, membro da Comissão Independente para a Descentralização e é, atualmente, vice-presidente da SEDES - Delegação de Vila Real e presidente da Liga dos Amigos do Douro Património Mundial. Doutorado em Engenharia Biológica, com agregação em Bioquímica Ambiental, é autor de mais de uma centena de publicações científicas, tendo desempenhado funções relevantes em associações científicas ibero-americanas e em redes de transferência de conhecimento. Paralelamente, tem mantido uma forte intervenção cívica e cultural, nomeadamente como comissário das comemorações do centenário de Agustina Bessa-Luís e promotor de iniciativas ligadas à literatura e ao cinema.
+
+119797093

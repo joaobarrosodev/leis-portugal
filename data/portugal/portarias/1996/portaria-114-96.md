@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/087b00/08340840.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/114/1996/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-1996-566243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99141a8485a04e6d8d78ac8472b957c1024114aaf3f8588ee918305eae9fe7b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a0bcd5e6bf78b2ba6537a84010ffb86ae81fa12aa094e99e4cc4745a9b4467e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
-- Produto Hortícola
-- Produção Agrícola
-- Regulamento
 - Comércio
+- Controlo de Qualidade
+- Produção Agrícola
+- Produto Hortícola
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:641704:por
@@ -89,16 +89,26 @@ relationships:
   target: celex:31993L0062
   label: null
   source: http://data.europa.eu/eli/dir/1993/62/oj
+- type: corrected_by
+  target: pt:dre:218320:por
+  label: "Rectificada pela DECL-RECT.11-G/96.1996.06.28.PCM, DR.IS-B [149]3ºSupl de 29/Jun/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-g-1996-218320
+  date: '1996-06-28'
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogada pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:34Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +131,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 7 de Março de 1996.**
+Assinada em 7 de Março de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -437,4 +447,4 @@ QUADRO II
 
 Lista de organismos nocivos e doenças específicas com incidência significativa na qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/087b00/08340840.pdf))](https://files.diariodarepublica.pt/1s/1996/04/087b00/08340840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/087b00/08340840.pdf)

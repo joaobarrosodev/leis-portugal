@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/541/1996/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/541-1996-232348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4426192567112da9522cea0500ed392bca0f80f561d74a9d7c7a35b1bb508d01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0358f2597036e359e1bd5488987cb77bb43f6b4955b6d2fb73794874081c1a68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,29 @@ relationships:
   target: pt:dre:580985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241236:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.766/98.1998.09.15.PCM DR.IS-B [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-1998-241236
+  date: '1998-09-15'
+- type: amended_by
+  target: pt:dre:222065:por
+  label: "Alterado o quadro de pessoal pela PORT.1009/98.1998.12.04.PCM DR.IS-B [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1009-1998-222065
+  date: '1998-12-04'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar das Caldas da Rainha aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:580985:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar das Caldas da Rainha, aprovado pelo presente diploma e posteriormente\
+    \ alterado pelas Portarias n.os 766/98, de 15 de Setembro, e 1009/98, de 4 de Dezembro, pela PORT.136/2004.11.02.2004.MF,\
+    \ DR.IS-B [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-2004-580985
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/160/1992/09/30/p/dre
   label: null
@@ -88,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/1995/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/1995/08/16/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632007:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:12Z'
   warnings: []
   errors: []
 ---
@@ -122,21 +173,21 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, o seguinte:
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 26 de Agosto de 1996.**
+Assinada em 26 de Agosto de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Centro Hospitalar das Caldas da Rainha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/230b00/34703475.pdf))](https://files.diariodarepublica.pt/1s/1996/10/230b00/34703475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/230b00/34703475.pdf)
 
 ## ANEXO I
 
 Unidades orgânicas de natureza técnica:
 
-##### Divisão de Serviços Farmacêuticos;
+Divisão de Serviços Farmacêuticos;
 
-##### Divisão de Gestão Financeira.
+Divisão de Gestão Financeira.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -144,19 +195,19 @@ Repartição de Pessoal e Admissão de Doentes:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Patrimonial;
+Secção de Contabilidade Patrimonial;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazenagem e Inventário.
+Secção de Armazenagem e Inventário.
 
 ## ANEXO II — Carreira de técnico auxiliar
 

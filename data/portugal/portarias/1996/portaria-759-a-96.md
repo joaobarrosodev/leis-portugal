@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1996, 1º Suplemento, Série I-B de 1996-12-26
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4672-(2) a 4672-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/298b01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/759-a/1996/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/759-a-1996-375190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c023846859cd94a5e36699a9633ded4939f47a41e9432b0c6ee2d8906c379a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfcf6049c546c689bd7dcfbf70beb11a31375de3c1ad1aaf01f6f27b24ce69b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:202781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621289:por
+  label: "Alterado o art. 6º da Port 224-A/96 de 24-Jun, na redacção dada pelo presente diploma, pela PORT.58-B/98.1998.02.07.MF,\
+    \ DR.IS-B [32]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-b-1998-621289
+  date: '1998-02-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/224-a/1996/06/24/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/575-a/1996/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/575-a/1996/10/14/p/dre
+- type: cites
+  target: pt:dre:220149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245882:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:19Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +157,6 @@ d) ...
 
 Ministérios das Finanças e da Economia.
 
-**Assinada em 26 de Dezembro de 1996.**
+Assinada em 26 de Dezembro de 1996.
 
 Pelo Ministro das Finanças, António Carlos dos Santos, Secretário de Estado dos Assuntos Fiscais. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

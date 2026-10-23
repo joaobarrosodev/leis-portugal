@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11900/0000700017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/80/2024/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2024-869623320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49bcf57a78f46335b659417646213610836867e8900ec880ea936d141d016ca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6b59029a92c7617419d8366dc263c845c03ff33c2179d5ac5b1a7c65e6d4a8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Energia
+- Agência Portuguesa do Ambiente
+- Agricultura
 - Água
 - ÁGUA de REGA
-- Recursos Hídricos
 - Algarve
+- Autarquia Local
 - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
-- SECA
 - Instituto da Conservação da Natureza e das Florestas
 - Instituto do Turismo de Portugal
-- Prazo
-- Região de Turismo do Algarve
-- Agricultura
-- Autarquia Local
-- Situação de Alerta
 - Plano de Recuperação e Resiliência
-- Agência Portuguesa do Ambiente
+- Prazo
+- Recursos Hídricos
+- Região de Turismo do Algarve
+- SECA
+- Situação de Alerta
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
@@ -123,23 +123,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26-a/2024/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26-a/2024/02/20/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853137731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860479776:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:26-A/2024
+  label: Revoga, com efeitos a 14 de junho de 2024, nos termos dos n.ºs 46 e 47, a Resolução do Conselho de Ministros n.º
+    26-A/2024, de 20 de fevereiro, Diário da República n.º 36/2024, 1º Suplemento, Série I
+  source: null
+  date: '2024-02-20'
+- type: repeals
+  target: pt:numero:despacho:4089/2024
+  label: Revoga, com efeitos a 14 de junho de 2024, nos termos dos n.ºs 46 e 47, o Despacho n.º 4089/2024, de 15 de abril,
+    Diário da República n.º 74/2024, Série II
+  source: null
+  date: '2024-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:04Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 80/2024
 
-Na região do Algarve, desde maio de 2022 que os níveis de armazenamento de água nas albufeiras se situam abaixo dos 50 %. A falta de reposição durante os períodos húmidos tem gerado um défice contínuo no que diz respeito à utilização de água (superficial e subterrânea) disponível. A precipitação que ocorreu durante os meses de março e abril permitiu incrementar os volumes armazenados nas albufeiras de referência da região do Algarve, permitindo, entre 1 de janeiro a 30 de abril, aumentar o volume armazenado em mais 84 hm<sup>3</sup>. Esta situação possibilita, embora de forma cautelosa, diminuir o nível de redução dos volumes atribuídos para os diferentes usos e caudais ecológicos sem, no entanto, descurar que no final do mês de dezembro de 2024 o volume útil armazenado nas albufeiras garante um ano de abastecimento público.
+Na região do Algarve, desde maio de 2022 que os níveis de armazenamento de água nas albufeiras se situam abaixo dos 50 %. A falta de reposição durante os períodos húmidos tem gerado um défice contínuo no que diz respeito à utilização de água (superficial e subterrânea) disponível. A precipitação que ocorreu durante os meses de março e abril permitiu incrementar os volumes armazenados nas albufeiras de referência da região do Algarve, permitindo, entre 1 de janeiro a 30 de abril, aumentar o volume armazenado em mais 84 hm3. Esta situação possibilita, embora de forma cautelosa, diminuir o nível de redução dos volumes atribuídos para os diferentes usos e caudais ecológicos sem, no entanto, descurar que no final do mês de dezembro de 2024 o volume útil armazenado nas albufeiras garante um ano de abastecimento público.
 
 Conforme estipulado nas alíneas n) e o) do n.º 2 do artigo 8.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual (Lei da Água), é responsabilidade da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), enquanto Autoridade Nacional da Água, declarar a situação de alerta em casos de seca. A APA, I. P., deve também, em coordenação com as entidades competentes e os principais utilizadores, iniciar medidas de informação e atuação adequadas, além de promover o uso eficiente da água e a implementação de medidas imperativas em situações de seca.
 
@@ -159,7 +223,7 @@ A hierarquia e a priorização dos usos da água, nos termos da Lei da Água, e,
 
 Assente neste enquadramento, foram realizadas diversas reuniões de trabalho com os diferentes setores económicos da região do Algarve, visando reavaliar o programa de ação definido para promover a gestão o mais eficiente possível das disponibilidades hídricas naturais atualmente existentes, para garantir a manutenção dos usos prioritários e minimizar os efeitos nos ecossistemas, até que haja recuperação e/ou que as medidas destinadas a assegurar maior resiliência do sistema hídrico, quer ao nível da oferta, quer ao nível da procura, sejam implementadas.
 
-Na 19.ª Reunião da Comissão Permanente de Prevenção, Monitorização e Acompanhamento dos Efeitos da Seca, realizada no dia 22 de maio de 2024, foi decidido proceder ao alívio de algumas restrições impostas na [Resolução do Conselho de Ministros n.º 26-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-a-2024-853137731), de 20 fevereiro, designadamente, disponibilizando mais 20 hm<sup>3</sup> à região (cerca de 10 % dos consumos globais), garantindo a prioridade dos usos e assegurando uma reserva de água disponível no final de 2024 que garanta o abastecimento público durante 2025. Por setores, o acréscimo será de 2,65 hm<sup>3</sup> no setor urbano, 13,14 hm<sup>3</sup> no setor agrícola, 4,17 hm<sup>3</sup> no setor do turismo, no qual já estão contemplados o golfe e o alojamento turístico. A estes valores correspondem uma redução de procura nos volumes de água captado nas albufeiras de 10 % para o setor urbano e de 13 % para os setores agrícola e do turismo, face aos volumes consumidos no período homólogo de 2023. Para as captações de águas subterrâneas a redução é de 15 % relativamente ao volume titulado.
+Na 19.ª Reunião da Comissão Permanente de Prevenção, Monitorização e Acompanhamento dos Efeitos da Seca, realizada no dia 22 de maio de 2024, foi decidido proceder ao alívio de algumas restrições impostas na [Resolução do Conselho de Ministros n.º 26-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-a-2024-853137731), de 20 fevereiro, designadamente, disponibilizando mais 20 hm3 à região (cerca de 10 % dos consumos globais), garantindo a prioridade dos usos e assegurando uma reserva de água disponível no final de 2024 que garanta o abastecimento público durante 2025. Por setores, o acréscimo será de 2,65 hm3 no setor urbano, 13,14 hm3 no setor agrícola, 4,17 hm3 no setor do turismo, no qual já estão contemplados o golfe e o alojamento turístico. A estes valores correspondem uma redução de procura nos volumes de água captado nas albufeiras de 10 % para o setor urbano e de 13 % para os setores agrícola e do turismo, face aos volumes consumidos no período homólogo de 2023. Para as captações de águas subterrâneas a redução é de 15 % relativamente ao volume titulado.
 
 No enquadramento do esforço que é solicitado aos setores para a redução de consumos, são definidas medidas de contingência de caráter restritivo complementares entre si, assentes num modelo de governança colaborativo e responsável das diferentes entidades públicas e privadas. A situação apela ao envolvimento de todos e à informação completa sobre a situação vivida na região, pelo que o modelo de governança deve ter por base as seguintes ações prioritárias:
 
@@ -221,7 +285,7 @@ b) No âmbito do turismo:
 
 i) Suspensão do abastecimento da água da rede pública para rega de campos de golfe;
 
-ii) Redução da rega dos campos de golfe com água natural superficial até uma dotação máxima de 1,7 hm<sup>3</sup> (1,3 hm<sup>3</sup> Sotavento; 0,2 hm<sup>3</sup> Arade e 0,2 hm<sup>3</sup> Bravura);
+ii) Redução da rega dos campos de golfe com água natural superficial até uma dotação máxima de 1,7 hm3 (1,3 hm3 Sotavento; 0,2 hm3 Arade e 0,2 hm3 Bravura);
 
 iii) Redução da taxa de renovação de água das piscinas públicas, sem comprometer a saúde pública, em cumprimento do disposto no [Decreto Regulamentar n.º 5/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662), de 31 de março, e na norma NP 4542, sobre as instalações de recirculação e tratamento da água dos tanques;
 
@@ -237,11 +301,11 @@ ii) Avaliação e implementação do aproveitamento do volume morto da albufeira
 
 iii) Controlo dos volumes atribuídos para 2024 nos regadios coletivos, garantindo o cumprimento dos compromissos assumidos na presente resolução;
 
-iv) Autorização de captações subterrâneas requeridas em articulação com a associação de regantes da área do perímetro de rega do Sotavento para rega, até ao limite máximo de 5 hm<sup>3</sup>/ano;
+iv) Autorização de captações subterrâneas requeridas em articulação com a associação de regantes da área do perímetro de rega do Sotavento para rega, até ao limite máximo de 5 hm3/ano;
 
-v) Autorização de captações subterrâneas, requeridas em articulação com a associação de regantes da área do perímetro de rega do Alvor para rega, até ao limite máximo de 0,5 hm<sup>3</sup>/ano;
+v) Autorização de captações subterrâneas, requeridas em articulação com a associação de regantes da área do perímetro de rega do Alvor para rega, até ao limite máximo de 0,5 hm3/ano;
 
-vi) Autorização de uma captação subterrânea coletiva no setor Poente requerida pela associação de regantes da área do perímetro de rega do Alvor para reforço do perímetro do Alvor, até ao limite máximo de 0,5 hm<sup>3</sup>/ano;
+vi) Autorização de uma captação subterrânea coletiva no setor Poente requerida pela associação de regantes da área do perímetro de rega do Alvor para reforço do perímetro do Alvor, até ao limite máximo de 0,5 hm3/ano;
 
 vii) Promover, excecionalmente, nas situações referidas nas subalíneas iv) e v), a utilização das captações subterrâneas particulares nas áreas dos perímetros hidroagrícolas, através de proposta de novo modelo de cobrança da taxa de conservação apresentadas pelas Associações de Beneficiários e validada pela DGADR;
 
@@ -257,17 +321,17 @@ ix) Determinar que, na área beneficiada pela albufeira do Arade, não há autor
 
 9 - Determinar, nos termos da alínea e) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, na sua redação atual, e no prazo de 15 dias contados da publicação da presente resolução:
 
-a) A revisão temporária dos TURH emitidos para captação de água superficial destinado à produção de água para abastecimento público dos sistemas Odeleite-Beliche, Odelouca, Bravura e Funcho, com uma redução global de 10 % do volume captado, face ao volume total captado no ano de 2023, até ao valor máximo de 61,3 hm<sup>3</sup>;
+a) A revisão temporária dos TURH emitidos para captação de água superficial destinado à produção de água para abastecimento público dos sistemas Odeleite-Beliche, Odelouca, Bravura e Funcho, com uma redução global de 10 % do volume captado, face ao volume total captado no ano de 2023, até ao valor máximo de 61,3 hm3;
 
-b) A revisão temporária dos TURH emitidos para captação de água superficial do sistema Funcho-Arade, de forma a garantir uma redução de 13 % face aos volumes captados em 2023 para a rega agrícola, até um máximo de 8 hm<sup>3</sup>, sem prejuízo, em caso de maior escassez, da necessária prevalência do uso para abastecimento público considerado prioritário, nos termos do disposto do artigo 64.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual;
+b) A revisão temporária dos TURH emitidos para captação de água superficial do sistema Funcho-Arade, de forma a garantir uma redução de 13 % face aos volumes captados em 2023 para a rega agrícola, até um máximo de 8 hm3, sem prejuízo, em caso de maior escassez, da necessária prevalência do uso para abastecimento público considerado prioritário, nos termos do disposto do artigo 64.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual;
 
-c) A revisão temporária do TURH emitido para captação de água superficial no sistema Odeleite-Beliche para rega agrícola, por forma a atingir um volume de água máximo superficial captado no sistema de 18 hm<sup>3</sup>, que conjugado com a utilização de águas subterrâneas, prevista na subalínea iv) da alínea c) do n.º 5 perfaz uma redução de 13 % face ao volume consumido em 2023, sem prejuízo, em caso de maior escassez, da necessária prevalência do uso para abastecimento público considerado prioritário, nos termos do disposto do artigo 64.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual;
+c) A revisão temporária do TURH emitido para captação de água superficial no sistema Odeleite-Beliche para rega agrícola, por forma a atingir um volume de água máximo superficial captado no sistema de 18 hm3, que conjugado com a utilização de águas subterrâneas, prevista na subalínea iv) da alínea c) do n.º 5 perfaz uma redução de 13 % face ao volume consumido em 2023, sem prejuízo, em caso de maior escassez, da necessária prevalência do uso para abastecimento público considerado prioritário, nos termos do disposto do artigo 64.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual;
 
-d) A revisão temporária do TURH emitido para captação de água superficial na albufeira da Bravura para rega agrícola, de forma a garantir um volume máximo de água captado de 2,0 hm<sup>3</sup>;
+d) A revisão temporária do TURH emitido para captação de água superficial na albufeira da Bravura para rega agrícola, de forma a garantir um volume máximo de água captado de 2,0 hm3;
 
 e) A revisão temporária de todos os TURH emitidos na região do Algarve, excluindo os que forem expressamente autorizados pela APA, I. P., dentro dos perímetros de rega, para captação de água subterrânea, a ser notificada por edital, com uma redução de 15 % do volume titulado.
 
-10 - Determinar que, na revisão das condições dos TURH emitidos, quando estabeleçam um volume máximo mensal igual ou superior a 5 000 m<sup>3</sup>, se inclua a obrigatoriedade de utilização de meios de medição direta dos volumes de água extraídos e de reporte quinzenal dos volumes captados, mediante o preenchimento de formulário eletrónico disponibilizado pela APA, I. P..
+10 - Determinar que, na revisão das condições dos TURH emitidos, quando estabeleçam um volume máximo mensal igual ou superior a 5 000 m3, se inclua a obrigatoriedade de utilização de meios de medição direta dos volumes de água extraídos e de reporte quinzenal dos volumes captados, mediante o preenchimento de formulário eletrónico disponibilizado pela APA, I. P..
 
 11 - Determinar, se necessário, a mobilização do volume morto das albufeiras da Bravura, Odeleite e Odelouca, de acordo com o modelo de exploração de contingência para o abastecimento público de água para o consumo humano.
 
@@ -293,7 +357,7 @@ c) Cumprimento das condições dos TURH revistos.
 
 19 - Recomendar à AdA, S. A., e aos municípios da região do Algarve que se articulem no sentido de viabilizar a afetação ao sistema multimunicipal de abastecimento de água e de saneamento do Algarve das captações públicas existentes que venham a ser reabilitadas para o abastecimento público de água para consumo humano.
 
-20 - Determinar que todas as entidades gestoras devem colaborar ativamente com a APA, I. P., a partir da data de produção de efeitos da presente resolução, nas ações de fiscalização definidas nos n.<sup>os</sup>13 e 14, nomeadamente em matéria de partilha de informação relativa a consumos e localização de captações subterrâneas.
+20 - Determinar que todas as entidades gestoras devem colaborar ativamente com a APA, I. P., a partir da data de produção de efeitos da presente resolução, nas ações de fiscalização definidas nos n.os13 e 14, nomeadamente em matéria de partilha de informação relativa a consumos e localização de captações subterrâneas.
 
 21 - Cometer ao membro do Governo responsável pela área do ambiente a coordenação geral de todas as medidas elencadas e a operacionalização e a prática de todos os atos necessários à respetiva execução pelas entidades públicas sujeitas à sua direção, tutela ou superintendência.
 
@@ -309,7 +373,7 @@ c) Cumprimento das condições dos TURH revistos.
 
 27 - Manter a autorização para o Turismo de Portugal, I. P., realizar, em 2024 e 2025, a despesa relativa à aquisição de bens e serviços necessários para a realização da campanha a que se refere o n.º 18, em estreita articulação com a Região de Turismo do Algarve, no montante de 1 milhão de euros, com recurso ao saldo de gerência daquele Instituto.
 
-28 - Instar à rápida execução das novas medidas previstas nos n.<sup>os</sup>29 a 37.
+28 - Instar à rápida execução das novas medidas previstas nos n.os29 a 37.
 
 29 - Autorizar, a partir de 1 de janeiro de 2025, a DGADR ou a quem esta delegar a realizar a despesa relativa aquisição de bens, serviços e empreitadas, até ao montante de 27 milhões de euros, excluindo o imposto sobre valor acrescentado (IVA) à taxa legal em vigor, com financiamento a 100 % por recurso ao orçamento do Fundo Ambiental, cuja aplicação em despesa visa o reforço da eficiência hídrica através da construção do adutor do Funcho.
 
@@ -329,7 +393,7 @@ c) Cumprimento das condições dos TURH revistos.
 
 37 - Determinar que, no prazo de 1 mês contado a partir da data de aprovação da presente resolução, os membros do Governo responsáveis pelas áreas do ambiente e da agricultura definem as condições e os termos de referência para a elaboração da estratégia a "Água que Une", visando uma lógica prospetiva de atualização do quadro de planeamento numa abordagem multissetorial articulada da gestão da água, atento a que a água constitui "um único recurso" estratégico, que não pode ser gerido de forma fragmentada e pouco eficiente.
 
-38 - Determinar que, nos termos do n.º 4 do artigo 42.º da [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) de 29 de dezembro, fica autorizada a dispensa do cumprimento do disposto nos n.<sup>os</sup>1 a 3 do mesmo artigo, quanto às aquisições de serviços previstas no âmbito da presente resolução, a concretizar pelas entidades a que aludem os n.<sup>os</sup>21, 22 e 23.
+38 - Determinar que, nos termos do n.º 4 do artigo 42.º da [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) de 29 de dezembro, fica autorizada a dispensa do cumprimento do disposto nos n.os1 a 3 do mesmo artigo, quanto às aquisições de serviços previstas no âmbito da presente resolução, a concretizar pelas entidades a que aludem os n.os21, 22 e 23.
 
 39 - Delegar, com faculdade de subdelegação, nos membros do Governo responsáveis pelas áreas do turismo, do ambiente e da agricultura, respetivamente, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
 
@@ -361,7 +425,7 @@ e) Grupo de trabalho V - Fiscalização - coordenado pela APA, I. P.
 
 Presidência do Conselho de Ministros, 14 de junho de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>2 e 4)
+## ANEXO I — (a que se referem os n.os2 e 4)
 
 1 - É devida uma componente tarifária adicional para promoção da eficiência hídrica, a aplicar pela Águas do Algarve, S. A. (ADA, S. A.), para o serviço de abastecimento de água para consumo público no sistema multimunicipal de abastecimento de água e de saneamento do Algarve, nos seguintes termos:
 
@@ -454,3 +518,5 @@ Orla Meridional Indiferenciado da Bacia do Guadiana.
 S. Bartolomeu.
 
 Monte Gordo.
+
+117823219

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 231/1996, 1º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3500-(17) a 3500-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b01/00170018.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-z/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-z-1996-391462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcbdaa03b706e7f2d75cae7bac20fef6378f05b48e440d680ef416e3291758c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 307fdbfc10ea4a6db717420f0649b81567906eb8a19f0319235bfe7bf86ca4f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,23 @@ relationships:
   target: pt:dre:603493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263678:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.307/2002.2002.03.20.MADRP DR.IS-B [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-2002-263678
+  date: '2002-03-20'
+- type: amended_by
+  target: pt:dre:671211:por
+  label: "Renovada por seis anos a concessão de zona de caça associativa, com a redacção da Port 307/2002 de 20-Mar, pela\
+    \ PORT.570/2003.2003.07.16.MADRP DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-2003-671211
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:603493:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 307/2002,\
+    \ de 20-Mar e pela Port 570/2003, de 16-Jul, pela PORT.317/2009.30.03.2009.MADRP, DR.IS [62] de 30.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-2009-603493
+  date: '2009-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -87,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-n1/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-n1/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:57Z'
   warnings: []
   errors: []
 ---
@@ -141,8 +182,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 26 de Setembro de 1996.**
+Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b01/00170018.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b01/00170018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b01/00170018.pdf)

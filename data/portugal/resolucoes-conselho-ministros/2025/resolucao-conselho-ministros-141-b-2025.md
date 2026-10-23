@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/141-b/2025/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-b-2025-936209684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591e1a080d9675a5b93cc16e1caa171020264ab102258dc8188362315fd48a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffd02b67ff08a6bc8387206e9f9f92e8ed03c99f10b48d968b6e82f9150c0999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,10 +73,10 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Empresa Pública
-- Setor Empresarial do Estado
-- Privatização
-- TAP
 - Governo XXV
+- Privatização
+- Setor Empresarial do Estado
+- TAP
 relationships:
 - type: cites
   target: celex:32008R1008
@@ -126,16 +126,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/147/2024/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/147/2024/10/28/p/dre
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:893148874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928937302:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:37Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +230,7 @@ Caderno de Encargos da venda direta de referência
 
 4 - O contrato de compra e venda de ações representativas do capital social da TAP, o acordo parassocial e outros instrumentos contratuais necessários ou convenientes para a concretização da venda direta de referência, adiante designados abreviadamente por «instrumentos contratuais», regem-se pelo disposto no direito privado.
 
-5 - Sem prejuízo das competências do Conselho de Ministros e de outras entidades a quem seja atribuída competência para a prática de quaisquer atos no contexto da venda direta de referência, a PARPÚBLICA - Participações Sociais (SGPS), S. A., adiante abreviadamente designada por «PARPÚBLICA», instrui o respetivo procedimento e presta ao Conselho de Ministros toda a assistência necessária para a condução do mesmo, nomeadamente a prevista no n.º 2 do artigo 7.º, no artigo 9.º, nos n.<sup>os</sup>4 e 5 do artigo 11.º, nos n.<sup>os</sup> 8 a 12 do artigo 12.º, nos artigos 14.º e 19.º
+5 - Sem prejuízo das competências do Conselho de Ministros e de outras entidades a quem seja atribuída competência para a prática de quaisquer atos no contexto da venda direta de referência, a PARPÚBLICA - Participações Sociais (SGPS), S. A., adiante abreviadamente designada por «PARPÚBLICA», instrui o respetivo procedimento e presta ao Conselho de Ministros toda a assistência necessária para a condução do mesmo, nomeadamente a prevista no n.º 2 do artigo 7.º, no artigo 9.º, nos n.os4 e 5 do artigo 11.º, nos n.os 8 a 12 do artigo 12.º, nos artigos 14.º e 19.º
 
 6 - A TAP deve prestar ao Conselho de Ministros, às entidades a quem seja atribuída competência para a prática de quaisquer atos no contexto da venda direta de referência e à PARPÚBLICA toda a informação e assistência que lhe seja requerida, nos prazos por estes indicados.
 
@@ -330,7 +362,7 @@ c) Contra a entrega direta em suporte em papel é passado recibo, do qual consta
 
 3 - A entrega de elementos nos termos previstos no número anterior não prejudica as formalidades materiais e procedimentais aplicáveis, designadamente no que respeita à exigência de que os atos subjacentes sejam praticados por representante com poderes para o efeito.
 
-4 - Pode sempre ser exigido ao interessado ou proponente a apresentação dos originais e documentação de suporte de quaisquer declarações, informações, documentação ou propostas cuja reprodução tenha sido apresentada nos termos do disposto nos n.<sup>os</sup> 1 e 2, em caso de dúvida fundada sobre o conteúdo ou a autenticidade destes, devendo o interessado ou proponente apresentá-los no prazo fixado pela para o efeito.
+4 - Pode sempre ser exigido ao interessado ou proponente a apresentação dos originais e documentação de suporte de quaisquer declarações, informações, documentação ou propostas cuja reprodução tenha sido apresentada nos termos do disposto nos n.os 1 e 2, em caso de dúvida fundada sobre o conteúdo ou a autenticidade destes, devendo o interessado ou proponente apresentá-los no prazo fixado pela para o efeito.
 
 ###### Artigo 8.º — Confidencialidade
 
@@ -434,7 +466,7 @@ f) Quaisquer outros aspetos que o proponente antecipe que possam ser relevantes.
 
 10 - Caso sejam pedidos esclarecimentos sobre as propostas a qualquer um dos proponentes, o prazo de 30 dias previsto no número anterior suspende-se até que sejam prestados todos os referidos esclarecimentos ou decorra o prazo que tenha sido fixado aos proponentes para o efeito.
 
-11 - É aplicável ao relatório previsto nos números anteriores o previsto nos n.<sup>os</sup>3 e 4 do artigo 19.º
+11 - É aplicável ao relatório previsto nos números anteriores o previsto nos n.os3 e 4 do artigo 19.º
 
 12 - Tendo em consideração o relatório elaborado pela PARPÚBLICA nos termos do disposto nos números anteriores, o Conselho de Ministros seleciona as propostas não-vinculativas que considere melhor prosseguirem os objetivos da presente reprivatização, convidando os respetivos proponentes a apresentar propostas vinculativas nos termos do disposto no artigo seguinte.
 
@@ -536,7 +568,7 @@ l) Declaração expressa de aceitação, sem condições nem reservas, do conte�
 
 m) Declaração na qual indique se tem ou não relações de simples participação ou relações de participação recíproca, tal como são definidas nos artigos 483.º e 485.º do Código das Sociedades Comerciais, independentemente de a respetiva sede estatutária ou efetiva ser no estrangeiro, com outra entidade também proponente que pertença ou não a um agrupamento;
 
-n) Nos casos em que o proponente seja um agrupamento, declaração na qual conste a confirmação de cumprimento dos requisitos constantes dos n.<sup>os</sup>1, 2 e 3 do artigo 3.º;
+n) Nos casos em que o proponente seja um agrupamento, declaração na qual conste a confirmação de cumprimento dos requisitos constantes dos n.os1, 2 e 3 do artigo 3.º;
 
 o) Nos casos em que o proponente seja um agrupamento, declaração quanto à inexistência de quaisquer constrangimentos à constituição da pessoa coletiva a que se refere o n.º 4 do artigo 2.º, em prazo compatível com o disposto no artigo 25.º, e de quaisquer restrições à capacidade de exercício ou de outra natureza que afetem o cumprimento do disposto no presente Caderno de Encargos; e
 
@@ -760,7 +792,7 @@ b) Da parte dos interessados ou proponentes, aqueles que sejam expressamente ind
 
 3 - As comunicações eletrónicas enviadas até às 16.59 horas de Portugal continental consideram-se recebidas no próprio dia em que foram enviadas, considerando-se as comunicações enviadas entre as 17.00 horas e as 23.59 horas recebidas no dia seguinte.
 
-## Anexo I ao Caderno de Encargos - Formulário de manifestação de interesse e de cumprimento dos requisitos de participação
+Anexo I ao Caderno de Encargos - Formulário de manifestação de interesse e de cumprimento dos requisitos de participação
 
 1 - Identificação e contactos do interessado
 
@@ -771,8 +803,8 @@ b) Da parte dos interessados ou proponentes, aqueles que sejam expressamente ind
 | 4 - Número de identificação fiscal dos interessados ou equivalente no Estado sede do estabelecimento principal (no caso de agrupamento, de cada um dos respetivos membros) |  |
 | 5 - Estrutura acionista do interessado (no caso de agrupamento, de cada um dos respetivos membros) |  |
 | 6 - Identificação do beneficiário último efetivo do interessado (no caso de agrupamento, de cada um dos respetivos membros) |  |
-| Contactos para efeitos da manifestação de interesse | Contactos para efeitos da manifestação de interesse |
-| 7 - Dados para contacto | 7 - Dados para contacto |
+| Contactos para efeitos da manifestação de interesse |  |
+| 7 - Dados para contacto |  |
 | i) Nome |  |
 | ii) Morada |  |
 | iii) País |  |
@@ -803,9 +835,9 @@ b) Da parte dos interessados ou proponentes, aqueles que sejam expressamente ind
 
 6 - Declaração final
 
-| O interessado (ou, no caso de agrupamento, cada um dos respetivos membros):a) Manifesta o seu interesse em participar na venda direta de referência da TAP;b) Declara, sob pena de exclusão, que cumpre os requisitos de participação constantes do Caderno de Encargos;c) Declara, sob pena de exclusão, que as informações constantes do presente formulário são verdadeiras e precisas, compromete-se a comunicar de imediato qualquer alteração superveniente à veracidade ou precisão das informações ora prestadas;d) Reconhece que as informações prestadas são utilizadas para aferir o cumprimento dos requisitos de participação no âmbito da venda direta de referência da TAP, reconhecendo e aceitando que o não-preenchimento destes requisitos em qualquer momento da venda direta de referência determina a sua não-inclusão na segunda etapa da venda direta de referência ou a sua exclusão da mesma;e) Compreende e aceita que podem ser solicitados elementos adicionais para comprovar o cumprimento dos requisitos de participação, comprometendo-se a prestá-los no prazo que lhe seja fixado para o efeito;f) Compreende e aceita que o Estado Português e a PARPÚBLICA reservam o direito de rejeitar a manifestação de interesse caso não seja apresentada resposta a todas as questões relevantes, sejam prestadas informações falsas ou enganosas, ou não se verifique o cumprimento dos requisitos de participação;g) Compreende e aceita os termos definidos no Caderno de Encargos da venda direta de referência, designadamente que pode não ser convidado a participar em qualquer das etapas da venda direta de referência, que pode ser excluído da venda direta de referência caso se verifiquem os respetivos pressupostos, e que pode a venda direta de referência ser suspensa ou terminada, sem que tenha qualquer direito indemnizatório ou compensatório, independentemente da sua natureza, pelas circunstâncias previstas na presente alínea. | O interessado (ou, no caso de agrupamento, cada um dos respetivos membros):a) Manifesta o seu interesse em participar na venda direta de referência da TAP;b) Declara, sob pena de exclusão, que cumpre os requisitos de participação constantes do Caderno de Encargos;c) Declara, sob pena de exclusão, que as informações constantes do presente formulário são verdadeiras e precisas, compromete-se a comunicar de imediato qualquer alteração superveniente à veracidade ou precisão das informações ora prestadas;d) Reconhece que as informações prestadas são utilizadas para aferir o cumprimento dos requisitos de participação no âmbito da venda direta de referência da TAP, reconhecendo e aceitando que o não-preenchimento destes requisitos em qualquer momento da venda direta de referência determina a sua não-inclusão na segunda etapa da venda direta de referência ou a sua exclusão da mesma;e) Compreende e aceita que podem ser solicitados elementos adicionais para comprovar o cumprimento dos requisitos de participação, comprometendo-se a prestá-los no prazo que lhe seja fixado para o efeito;f) Compreende e aceita que o Estado Português e a PARPÚBLICA reservam o direito de rejeitar a manifestação de interesse caso não seja apresentada resposta a todas as questões relevantes, sejam prestadas informações falsas ou enganosas, ou não se verifique o cumprimento dos requisitos de participação;g) Compreende e aceita os termos definidos no Caderno de Encargos da venda direta de referência, designadamente que pode não ser convidado a participar em qualquer das etapas da venda direta de referência, que pode ser excluído da venda direta de referência caso se verifiquem os respetivos pressupostos, e que pode a venda direta de referência ser suspensa ou terminada, sem que tenha qualquer direito indemnizatório ou compensatório, independentemente da sua natureza, pelas circunstâncias previstas na presente alínea. |
+| O interessado (ou, no caso de agrupamento, cada um dos respetivos membros):a) Manifesta o seu interesse em participar na venda direta de referência da TAP;b) Declara, sob pena de exclusão, que cumpre os requisitos de participação constantes do Caderno de Encargos;c) Declara, sob pena de exclusão, que as informações constantes do presente formulário são verdadeiras e precisas, compromete-se a comunicar de imediato qualquer alteração superveniente à veracidade ou precisão das informações ora prestadas;d) Reconhece que as informações prestadas são utilizadas para aferir o cumprimento dos requisitos de participação no âmbito da venda direta de referência da TAP, reconhecendo e aceitando que o não-preenchimento destes requisitos em qualquer momento da venda direta de referência determina a sua não-inclusão na segunda etapa da venda direta de referência ou a sua exclusão da mesma;e) Compreende e aceita que podem ser solicitados elementos adicionais para comprovar o cumprimento dos requisitos de participação, comprometendo-se a prestá-los no prazo que lhe seja fixado para o efeito;f) Compreende e aceita que o Estado Português e a PARPÚBLICA reservam o direito de rejeitar a manifestação de interesse caso não seja apresentada resposta a todas as questões relevantes, sejam prestadas informações falsas ou enganosas, ou não se verifique o cumprimento dos requisitos de participação;g) Compreende e aceita os termos definidos no Caderno de Encargos da venda direta de referência, designadamente que pode não ser convidado a participar em qualquer das etapas da venda direta de referência, que pode ser excluído da venda direta de referência caso se verifiquem os respetivos pressupostos, e que pode a venda direta de referência ser suspensa ou terminada, sem que tenha qualquer direito indemnizatório ou compensatório, independentemente da sua natureza, pelas circunstâncias previstas na presente alínea. |  |
 | --- | --- |
-| PELO INTERESSADO | PELO INTERESSADO |
+| PELO INTERESSADO |  |
 | Nome: |  |
 | Data: |  |
 | Assinatura: |  |
@@ -822,7 +854,7 @@ Oferta destinada aos trabalhadores da TAP e aos trabalhadores de outras empresas
 
 1 - O processo de reprivatização compreende a possibilidade de trabalhadores da TAP - Transportes Aéreos Portugueses, S. A., adiante designada abreviadamente por «TAP», e de outras empresas do Grupo TAP adquirirem ações representativas de até 5 % do capital social da TAP, de acordo com procedimento a lançar em momento a determinar por resolução do Conselho de Ministros após o termo da venda direta de referência.
 
-2 - Para efeitos do disposto no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de abril, alterada pelas Leis n.<sup>os</sup>[102/2003](https://diariodarepublica.pt/dr/detalhe/lei/102-2003-446372), de 15 de novembro, e [50/2011](https://diariodarepublica.pt/dr/detalhe/lei/50-2011-671005), de 13 de setembro, e do disposto no artigo 7.º do [Decreto-Lei n.º 92/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302), de 14 de agosto, consideram-se trabalhadores da TAP, e trabalhadores de outras empresas do Grupo TAP, as pessoas que cumpram os seguintes requisitos cumulativos:
+2 - Para efeitos do disposto no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de abril, alterada pelas Leis n.os[102/2003](https://diariodarepublica.pt/dr/detalhe/lei/102-2003-446372), de 15 de novembro, e [50/2011](https://diariodarepublica.pt/dr/detalhe/lei/50-2011-671005), de 13 de setembro, e do disposto no artigo 7.º do [Decreto-Lei n.º 92/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302), de 14 de agosto, consideram-se trabalhadores da TAP, e trabalhadores de outras empresas do Grupo TAP, as pessoas que cumpram os seguintes requisitos cumulativos:
 
 a) Estejam ao serviço da TAP, S. A., ou de qualquer sociedade que com esta última se encontre em relação de domínio ou de grupo à data do lançamento do procedimento;
 
@@ -831,3 +863,7 @@ b) Tenham mantido vínculo laboral durante mais de três anos consecutivos com a
 3 - O preço por ação das ações objeto do presente artigo é o mesmo que o preço por ação da venda direta de referência.
 
 4 - As demais condições a que deve obedecer a aquisição de ações por parte de trabalhadores da TAP, e de outras empresas do Grupo TAP, designadamente um eventual período de indisponibilidade, os critérios de alocação e rateio e o valor final por ação, são definidas pela resolução do Conselho de Ministros referida no n.º 1.
+
+119563837
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:75px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { min-height:31px; } .Tbl6 { min-height:42px; } .Tbl7 { min-height:20px; } .Tbl8 { min-height:556px; } .Tbl9 { margin-left:11px; } .Tbl10 { min-height:79px; } .Tbl11 { text-align:justify; text-align-last:justify; } .Tbl12 { min-height:59px; } .Tbl13 { min-height:69px; } .Tbl14 { min-height:171px; } .Tbl15 { min-height:231px; } .Tbl16 { min-height:18px; }

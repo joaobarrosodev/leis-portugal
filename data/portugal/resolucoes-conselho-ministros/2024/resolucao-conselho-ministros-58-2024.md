@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06400/0000500041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2024/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2024-858167925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 660aaf4f7a8fb1e487782d1a1d494db4605fbae037dbded0e2f0c450c8e7594f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 467fbaccfa5232e26c1036c044440731c094c6ad71d4c0d94012d35ee41f0cf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Exposição Mundial de Osaka em 2025
 - Programa de Actividades
 - Relatório
-- Exposição Mundial de Osaka em 2025
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:149/2022
+  label: Altera, com efeitos a partir de 14 de março de 2024, a alínea c) do n.º 3 da Resolução do Conselho de Ministros n.º
+    149/2022, de 29 de dezembro, Diário da República n.º 250/2022, Série I
+  source: null
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2023/09/22/p/dre
   label: null
@@ -78,23 +84,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/149/2022/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/149/2022/12/29/p/dre
+- type: cites
+  target: pt:dre:205450896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221937434:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:31Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 58/2024
 
-A [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup> 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, definiu o modelo geral da participação de Portugal na Expo 2025 Osaka Kansai.
+A [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.os 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, definiu o modelo geral da participação de Portugal na Expo 2025 Osaka Kansai.
 
 De acordo com o disposto no n.º 10 da referida Resolução, o modelo institucional e o programa de atividades para a participação portuguesa naquele evento devem ser aprovados por Resolução do Conselho de Ministros, sob proposta da comissária-geral, sem prejuízo do início imediato dos trabalhos preparatórios, designadamente relativos ao projeto, ao tema da participação e aos contactos institucionais com a organização.
 
@@ -104,7 +118,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 1 - Aprovar o modelo institucional e o programa de atividades para a participação de Portugal na Expo 2025 Osaka Kansai, propostos pela comissária-geral de Portugal, os quais são publicados em anexo à presente resolução e da qual fazem parte integrante.
 
-2 - Alterar a [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup> 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, que passa a ter a seguinte redação:
+2 - Alterar a [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.os 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, que passa a ter a seguinte redação:
 
 "1 - […]
 
@@ -188,7 +202,8 @@ A candidatura apresentada pelo Japão para a realização da Expo na cidade de O
 
 A Exposição Mundial realizar-se-á na Ilha Yumeshima, cidade de Osaka, no Japão, entre 13 de abril e 13 de outubro de 2025.
 
-![](https://dre.pt/application/file/857845243)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845243) |
+| --- |
 
 Figura 1 | Localização do recinto | Ilha Yumeshima, cidade de Osaka
 
@@ -220,7 +235,7 @@ Ao colocar este subtema em prática, por exemplo através da utilização da ci�
 
 2 - Objetivos e tema da participação de Portugal
 
-Portugal é um país oceânico, com uma linha de costa de cerca de 2500 km, contando com uma das maiores zonas económicas exclusivas do mundo, que se estende por 1,7 milhões de km<sup>2</sup>, incluindo uma grande diversidade de ecossistemas e de recursos. Portugal (continente, Madeira e Açores) tem jurisdição sobre cerca de metade das águas marinhas da União Europeia (48 %). Acresce a importância da plataforma continental estendida para além das 200 milhas náuticas, cujo processo de delimitação está a decorrer junto das Nações Unidas, e que aumenta para 4 100 000 km<sup>2</sup> a área abrangida pelos espaços marítimos sob soberania ou jurisdição nacional, alargando assim direitos de soberania, para além da Zona Económica Exclusiva (ZEE), para efeitos de conservação, gestão e exploração de recursos naturais do solo e subsolo marinhos. Esta realidade constitui-se como uma das razões da responsabilidade acrescida que Portugal tem vindo a assumir nas questões ligadas à governação do oceano, incluindo a sua conservação, conhecimento, defesa e "exploração".
+Portugal é um país oceânico, com uma linha de costa de cerca de 2500 km, contando com uma das maiores zonas económicas exclusivas do mundo, que se estende por 1,7 milhões de km2, incluindo uma grande diversidade de ecossistemas e de recursos. Portugal (continente, Madeira e Açores) tem jurisdição sobre cerca de metade das águas marinhas da União Europeia (48 %). Acresce a importância da plataforma continental estendida para além das 200 milhas náuticas, cujo processo de delimitação está a decorrer junto das Nações Unidas, e que aumenta para 4 100 000 km2 a área abrangida pelos espaços marítimos sob soberania ou jurisdição nacional, alargando assim direitos de soberania, para além da Zona Económica Exclusiva (ZEE), para efeitos de conservação, gestão e exploração de recursos naturais do solo e subsolo marinhos. Esta realidade constitui-se como uma das razões da responsabilidade acrescida que Portugal tem vindo a assumir nas questões ligadas à governação do oceano, incluindo a sua conservação, conhecimento, defesa e "exploração".
 
 Com a realização da Expo 98, lançámos o tema "Oceanos" na agenda política internacional e desde essa data temos, sistematicamente, afirmado a nossa presença nos vários tratados, programas, comissões e fóruns internacionais sobre os oceanos, tendo inclusive Portugal dado uma contribuição decisiva para a inclusão deste tema e de outros diretamente relacionados com os ODS.
 
@@ -260,7 +275,7 @@ Portugal assume a presença na Expo 2025 Osaka Kansai como uma oportunidade para
 
 3 - Modelo institucional
 
-A [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup> 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, define o modelo geral da participação de Portugal na Expo 2025 Osaka Kansai, designa o comissário-geral de Portugal e estabelece o modelo institucional.
+A [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro, alterada pelas Resoluções do Conselho de Ministros n.os 114/2023, de 22 de setembro, e 194/2023, de 26 de dezembro, define o modelo geral da participação de Portugal na Expo 2025 Osaka Kansai, designa o comissário-geral de Portugal e estabelece o modelo institucional.
 
 Ao membro do Governo responsável pela área dos negócios estrangeiros compete supervisionar e coordenar, a nível governamental, os trabalhos de conceção e execução da participação portuguesa na Exposição Mundial de Osaka em 2025, cabendo à comissária-geral, Dr.ª Joana Gomes Cardoso (designada pela [Resolução do Conselho de Ministros n.º 114/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2023-221937434), de 22 de setembro, que altera a [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 29 de dezembro), a coordenação e a definição estratégica da participação portuguesa, em todas as suas fases e vertentes.
 
@@ -292,7 +307,7 @@ Para responder (1) aos pressupostos inerentes à participação numa Exposição
 
 O Pavilhão de Portugal constitui a "sede" da participação na Exposição Mundial de Osaka, e durante os 184 dias que decorrerá a Exposição Mundial acolherá uma exposição especificamente concebida para o efeito e estará apto a dar resposta às necessidades identificadas para o cumprimento dos objetivos traçados para a participação de Portugal, nomeadamente quanto ao número e tipologia de visitantes e de eventos. Para além dos espaços inerentes às necessidades expositivas, administrativas e técnicas, o Pavilhão de Portugal integrará uma loja, um espaço de restauração dedicado à promoção da gastronomia e do setor agroalimentar portugueses, e um espaço multiusos preparado para acolher eventos de diversas tipologias.
 
-A programação económica, a programação científica e a programação cultural terão como objetivo principal a promoção da internacionalização da economia portuguesa nos setores identificados como prioritários, designadamente economia azul, turismo e cultura. Para tal, serão desenvolvidos programas específicos conforme descrito nos n.<sup>os</sup> 6 e 7 do presente anexo.
+A programação económica, a programação científica e a programação cultural terão como objetivo principal a promoção da internacionalização da economia portuguesa nos setores identificados como prioritários, designadamente economia azul, turismo e cultura. Para tal, serão desenvolvidos programas específicos conforme descrito nos n.os 6 e 7 do presente anexo.
 
 A operação desenvolve-se em quatro fases:
 
@@ -316,7 +331,8 @@ Fase 4 - Desmobilização e encerramento da operação
 
 A Fase 4 decorrerá desde a conclusão do evento, em 13 de outubro de 2025, até à submissão ao Governo do Relatório Final da participação de Portugal na Expo 2025 Osaka Kansai. Inclui a desmontagem/demolição do Pavilhão de Portugal, a conclusão dos contratos efetuados com os prestadores de serviços e o fecho de contas.
 
-![](https://dre.pt/application/file/857845244)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845244) |
+| --- |
 
 Figura 2 | Faseamento macro da operação
 
@@ -324,9 +340,10 @@ Figura 2 | Faseamento macro da operação
 
 5.1 - Enquadramento
 
-O Pavilhão de Portugal estará localizado na zona "Empowering Lives", num lote com 1836,75 m<sup>2</sup>, disponibilizado pela organização da Expo 2025 Osaka Kansai.
+O Pavilhão de Portugal estará localizado na zona "Empowering Lives", num lote com 1836,75 m2, disponibilizado pela organização da Expo 2025 Osaka Kansai.
 
-![](https://dre.pt/application/file/857845245)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845245) |
+| --- |
 
 Figura 3 | Localização do Pavilhão de Portugal na Expo 2025 Osaka Kansai
 
@@ -354,7 +371,8 @@ Valorizar as Regiões Autónomas dos Açores e Madeira (áreas marinhas protegid
 
 5.3 - Modelo funcional
 
-![](https://dre.pt/application/file/857845246)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845246) |
+| --- |
 
 Figura 4 | Esquema conceptual | Modelo funcional do Pavilhão de Portugal na Expo 2025 Osaka Kansai
 
@@ -422,7 +440,8 @@ No segundo núcleo, denominado "A vida em nós", apresenta-se o país atual e, e
 
 No terceiro núcleo, "Parcerias para o futuro", haverá uma obra de grande impacto visual e criatividade, que reflete a relação de Portugal com o Oceano Atlântico, designadamente a biotecnologia, energias renováveis offshore e monitorização oceânica - robótica marinha e tecnologias aeroespaciais - para demonstrar ao mundo que estamos hoje a construir um "futuro" para todos.
 
-![](https://dre.pt/application/file/857845247)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845247) |
+| --- |
 
 Figura 5 | Esquema conceptual | Estrutura narrativa
 
@@ -472,7 +491,8 @@ O posicionamento estratégico do país também se coloca ao nível da governanç
 
 Em resultado das opções estratégicas foram identificados como clusters de intervenção prioritária os referidos na imagem infra.
 
-![](https://dre.pt/application/file/857845248)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845248) |
+| --- |
 
 6.3 - Estrutura programática
 
@@ -503,7 +523,8 @@ As propostas de ações poderão ser promovidas por associações, empresas, ins
 
 O modelo proposto pressupõe uma envolvência e cooperação transversal com um conjunto de entidades consideradas fundamentais para a boa execução dos objetivos e atividades a desenvolver, nomeadamente: associações empresariais representativas dos setores envolvidos; entidades oficiais e governamentais; clusters de fileira; empresas; e individualidades.
 
-![](https://dre.pt/application/file/857845249)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845249) |
+| --- |
 
 Figura 6 | Tipologia de ações
 
@@ -537,7 +558,7 @@ Será solicitado às empresas/associações empresariais e setoriais que proceda
 
 Para motivar a participação das empresas japonesas, a participação de Portugal na Expo 2025 Osaka Kansai contratará uma agência de comunicação e relações-públicas japonesa, que disponha de uma rede de contactos de negócio adequada a este propósito, e que promoverá ações de divulgação, conforme descrito no capítulo 11 do presente documento. Paralelamente, o elemento da equipa do Pavilhão de Portugal responsável pela área da comunicação assegurará a divulgação da programação junto de outros países participantes, com o objetivo de impactar potenciais parceiros de negócio de outros países, ação que será preparada e acompanhada pelo diretor do Pavilhão e pelo delegado da AICEP, E. P. E., em Tóquio, no Japão.
 
-O Pavilhão de Portugal disponibiliza para o "Centro de Negócios" uma Sala Multiusos com cerca de 100 m<sup>2</sup>, com capacidade para 50 pessoas sentadas, e um espaço (Sala VIP) com capacidade para 20 pessoas, interligadas entre si.
+O Pavilhão de Portugal disponibiliza para o "Centro de Negócios" uma Sala Multiusos com cerca de 100 m2, com capacidade para 50 pessoas sentadas, e um espaço (Sala VIP) com capacidade para 20 pessoas, interligadas entre si.
 
 A Sala Multiusos foi projetada como um auditório informal, constituindo-se como um espaço polivalente para realização de diferentes tipos de iniciativas, nomeadamente, conferências, seminários, palestras, workshops, ações de formação, projeção de imagens e filmes, bem como espetáculos musicais e outros de natureza variada, permitindo inclusivamente broadcasting e livestreaming de eventos. Estará equipada com sistema de som e luz profissional, uma cabine dupla de tradução simultânea com todo o equipamento necessário (dois idiomas em simultâneo), cadeiras empilháveis para 50 pessoas em condições de conforto, mesas desmontáveis para apoio à realização de reuniões/palestras, dois púlpitos digitais, para além de um sistema vídeo/projeção que permitirá igualmente video-mapping para fundo de palco com capacidade de inserção de live streaming.
 
@@ -616,11 +637,11 @@ A tabela seguinte ilustra a estruturação preliminar da programação, consider
 | Promotor | Evento | Modelo |
 | --- | --- | --- |
 | Participação de Portugal | Dia Nacional na Expo | (vide capítulo 8) |
-| Participação de Portugal | Dias Especiais | Programação tendo por base a comemoração de dias especiais, sendo possível a esta data indicar a intenção de promover programação específica para:Dia Mundial dos Oceanos (8 de junho);Dia de Portugal, de Camões e das Comunidades Portuguesas (10 de junho). |
-| Participação de Portugal | Programação temporária no Pavilhão"Sharing PT" | Eventos a programar em alinhamento com as Semanas Temáticas da Expo e com a estrutura conceptual da programação cultural. Curadoria e custos a serem suportados pela participação de Portugal. |
-| Participação de Portugal | Programação permanente no Pavilhão"Sharing PT" | Evento que deverá ocorrer sistematicamente no mesmo dia da semana e durante o mesmo período do dia. Curadoria e custos a suportar pela participação de Portugal. Por exemplo: Recitais de Guitarra Portuguesa e Fado, e DJ com repertório que reinterpreta temas portugueses. |
+| Dias Especiais | Programação tendo por base a comemoração de dias especiais, sendo possível a esta data indicar a intenção de promover programação específica para:Dia Mundial dos Oceanos (8 de junho);Dia de Portugal, de Camões e das Comunidades Portuguesas (10 de junho). |  |
+| Programação temporária no Pavilhão"Sharing PT" | Eventos a programar em alinhamento com as Semanas Temáticas da Expo e com a estrutura conceptual da programação cultural. Curadoria e custos a serem suportados pela participação de Portugal. |  |
+| Programação permanente no Pavilhão"Sharing PT" | Evento que deverá ocorrer sistematicamente no mesmo dia da semana e durante o mesmo período do dia. Curadoria e custos a suportar pela participação de Portugal. Por exemplo: Recitais de Guitarra Portuguesa e Fado, e DJ com repertório que reinterpreta temas portugueses. |  |
 | Organização Expo 2025 Osaka | Semanas Temáticas | Eventos cooperativos com temática relacionada com a semana respetiva (com participação de artistas portugueses). Curadoria da organização. Custos a suportar pela participação de Portugal. |
-| Organização Expo 2025 Osaka | Dias Especiais | Eventos cooperativos com temática relacionada com o Dia Comemorativo (com participação de artistas portugueses). Curadoria da organização. Custos a suportar pela participação de Portugal. |
+| Dias Especiais | Eventos cooperativos com temática relacionada com o Dia Comemorativo (com participação de artistas portugueses). Curadoria da organização. Custos a suportar pela participação de Portugal. |  |
 | Coprodução com União Europeia | Dia da União Europeia na Expo | Eventos cooperativos com representação de criação com forte cariz identitário (com participação de artistas portugueses). Curadoria partilhada. Custos a suportar pela participação de Portugal. |
 
 Palcos e espaços de representação
@@ -629,7 +650,8 @@ As ações culturais decorrerão, na sua maioria, na Sala Multiusos do Pavilhão
 
 A definição e caracterização das peças criativas a contratar terá em consideração os espaços/palcos disponíveis no Pavilhão de Portugal e pela organização da Expo 2025 Osaka Kansai, cujas características e localização se encontram ilustradas na imagem seguinte.
 
-![](https://dre.pt/application/file/857845250)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845250) |
+| --- |
 
 Figura 7 | Localização de palcos e espaços de representação disponibilizados pela organização da Expo 2025 Osaka Kansai
 
@@ -683,7 +705,7 @@ Sem prejuízo dos aspetos organizativos e de programação específica que viere
 
 09h45 | Momento cultural junto ao Event Hall 2 (opcional)
 
-10h00 | Cerimónia Oficial*<sup>1</sup>, Evento Especial Oficial*<sup>2</sup>
+10h00 | Cerimónia Oficial*1, Evento Especial Oficial*2
 
 11h00 | Conclusão do Evento Especial Oficial
 
@@ -755,7 +777,7 @@ Modelo institucional e estruturação programática
 
 Será adotado um conceito programático adaptado ao tema da participação de Portugal na Expo 2025 Osaka Kansai, centrado no oceano e na sua conservação. Neste contexto, serão promovidos e destacados produtos de design ecológico, feitos a partir de materiais naturais de origem portuguesa e de forte cariz identitário, como é o caso da cortiça, do burel e do vime, e, sempre que possível, subprodutos de origem em atividades relacionadas com a economia do mar.
 
-Com uma área estimada de 15 m<sup>2</sup> e projetada de forma a poder funcionar autonomamente, a loja estará localizada na saída do percurso expositivo e será acessível desde o exterior do Pavilhão. A loja terá um espaço reduzido, o que condicionará o número de marcas e produtos portugueses presentes.
+Com uma área estimada de 15 m2 e projetada de forma a poder funcionar autonomamente, a loja estará localizada na saída do percurso expositivo e será acessível desde o exterior do Pavilhão. A loja terá um espaço reduzido, o que condicionará o número de marcas e produtos portugueses presentes.
 
 O espaço estará equipado com estantes, com regulação da altura para exposição de diferentes tipologias de produtos, mesas de apoio para exposição de produtos, sistema de alarme para deteção de furtos, balcão de saída para dois postos de trabalho com caixa registadora e equipamentos de pagamento eletrónico, e um aparador de apoio ao balcão de saída para acomodar material necessário ao funcionamento da loja. A este espaço estará associada uma área de armazenagem para o abastecimento e reposição de produtos, dimensionada para garantir a disponibilidade de stock "on prem" para aproximadamente quinze dias.
 
@@ -771,7 +793,8 @@ Nos termos dos regulamentos da Expo 2025 Osaka Kansai, a participação de Portu
 
 Tipologia da oferta
 
-![](https://dre.pt/application/file/857845251)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845251) |
+| --- |
 
 Figura 8 | Esquema conceptual da tipologia
 
@@ -875,7 +898,8 @@ Meios de comunicação social e opinion makers
 
 A estratégia e relação especial a criar para este público é determinante para atingir os restantes. A partilha de informação com os meios de comunicação social de todas as atividades e ações a desenvolver na Expo 2025 Osaka Kansai, com especial destaque para os quatro eixos específicos da participação de Portugal, amplia significativamente a voz da participação de Portugal na Expo 2025 Osaka Kansai, ao proporcionar um fluxo de informação regular aos públicos e constituir um veículo de comunicação preferencial para públicos mais específicos, como as empresas.
 
-![](https://dre.pt/application/file/857845252)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845252) |
+| --- |
 
 Figura 9 | Estruturação dos públicos
 
@@ -883,15 +907,16 @@ Figura 9 | Estruturação dos públicos
 
 Faseamento
 
-![](https://dre.pt/application/file/857845253)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845253) |
+| --- |
 
 Figura 10 | Faseamento da estratégia de comunicação
 
 A AICEP, E. P. E., assumirá a elaboração do plano de comunicação, sob coordenação da comissária-geral e do diretor do Pavilhão, que terá como premissas as orientações estratégicas explanadas no presente documento. Não obstante, na tabela seguinte são identificadas algumas ações transversais e prioritárias à data para colmatar necessidades da fase em que a participação de Portugal se encontra (Fase A).
 
-|  | Portugueses (opinião pública) | Empresas portuguesas dos setores prioritários | Empresas japonesas com investimento em Portugal | Academia/centros de investigação | Entidades institucionais | Visitantes da Expo 2025 Osaka Kansai | Empresas japonesas nos setores prioritários | Academia/ centros de investigação | Entidades institucionais | Meios de comunicação social | Opinion makers |
+|  | Grupo 1 | Grupo 2 | Grupo 3 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Grupo 1 | Grupo 1 | Grupo 1 | Grupo 1 | Grupo 1 | Grupo 2 | Grupo 2 | Grupo 2 | Grupo 2 | Grupo 3 | Grupo 3 |
+| Portugueses (opinião pública) | Empresas portuguesas dos setores prioritários | Empresas japonesas<br>com<br>investimento em Portugal | Academia/centros<br>de investigação | Entidades institucionais | Visitantes<br>da Expo 2025 Osaka Kansai | Empresas japonesas<br>nos setores prioritários | Academia/ centros<br>de investigação | Entidades institucionais | Meios<br>de<br>comunicação social | Opinion makers |  |
 | Objetivos |  |  |  |  |  |  |  |  |  |  |  |
 | Reforçar a relevância da participação de Portugal na Expo 2025 Osaka Kansai como instrumento de diplomacia económica entre Portugal e o Japão e de promoção da marca "Portugal" | X | X |  |  | X |  |  |  |  | X | X |
 | Mobilizar os keystakeholders para envolvimento na participação de Portugal na Expo 2025 Osaka Kansai e da sua consciencialização como beneficiários principais das ações desenvolvidas |  |  | X | X | X |  | X | X | X |  |  |
@@ -916,7 +941,8 @@ A criação de um website oficial da participação portuguesa na Expo 2025 Osak
 
 Prevê-se que o site, cujo domínio é www.portugalexpo2025.pt, seja disponibilizado em junho de 2024, sendo a estrutura base evolutiva à medida que a operação e os conteúdos para cada área estejam definidos. De referir ainda que os conteúdos do website serão regularmente atualizados pela equipa dedicada, em estrito cumprimento do dever público de partilha de conhecimento e de informação.
 
-![](https://dre.pt/application/file/857845254)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845254) |
+| --- |
 
 Figura 11 | Estrutura base do website oficial da participação de Portugal
 
@@ -980,7 +1006,8 @@ Os elementos da equipa serão nomeados pela comissão executiva da AICEP, E. P. 
 
 A equipa da AICEP, E. P. E., será mobilizada para Osaka em três fases. A primeira, em maio de 2024, para acompanhamento da execução do contrato de conceção, construção, manutenção e desmontagem do Pavilhão de Portugal, especificamente para a atividade de construção do pavilhão, serão mobilizados o responsável pela área técnica (chief technical officer), que assegurará o controlo técnico da empreitada, e o responsável pela área de operações (chief operating officer) assegurando a relação contratual com o empreiteiro, a fiscalização e a relação institucional e operacional com organização da Expo 2025 Osaka. Em novembro de 2024, será mobilizado o diretor do Pavilhão (pavilion director), para assegurar as atividades finais de preparação da operação do Pavilhão de Portugal, incluindo as contratações locais, entrevistas, plano de segurança, plano de operações, plano e ações de formação, bem como estabelecer as relações com os diversos departamentos da organização da Expo 2025 Osaka Kansai. E por último, em março de 2025, serão mobilizados os restantes técnicos, que irão assegurar a área comercial e a área de protocolo. A área de comunicação será assegurada por um técnico em regime de contratação local (contrato de trabalho a termo certo).
 
-![](https://dre.pt/application/file/857845255)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845255) |
+| --- |
 
 Figura 12 | Organograma da equipa de gestão do Pavilhão de Portugal (funções na cor cinza; relação com entidades externas a branco)
 
@@ -1038,7 +1065,8 @@ No que diz respeito às relações-públicas serão igualmente estabelecidas dir
 
 14 - Orçamento
 
-![](https://dre.pt/application/file/857845256)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/857845256) |
+| --- |
 
 A [Resolução do Conselho de Ministros n.º 149/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/149-2022-205450896), de 22 de dezembro, aprova o orçamento geral da participação de Portugal na Expo 2025 Osaka Kansai,
 
@@ -1076,28 +1104,28 @@ Indicadores quantitativos
 
 | Descritores | Meta | Obs. |
 | --- | --- | --- |
-| Visitantes do Pavilhão de Portugal | Visitantes do Pavilhão de Portugal | Visitantes do Pavilhão de Portugal |
+| Visitantes do Pavilhão de Portugal |  |  |
 | Apreciação (+6, Escala 1-10) da experiência | 65 % | Informação a recolher no final do percurso expositivo |
 | Número de visitantes | 1,4 milhões |  |
 | % de visitantes em relação ao total do recinto | 5 % | (28,2 milhões de visitantes previstos no recinto) |
 | % de visitantes virtuais | 5 % | Em relação ao total da "Expo Virtual" |
-| Loja | Loja | Loja |
+| Loja |  |  |
 | Faturação global | 550.000€ |  |
 | Número de produtos de merchandising vendidos | 110.000 | (Pins, sacos e t-shirts)~8 % do número total de visitantes estimado |
 | Introdução de novos produtos no mercado japonês | 40 |  |
-| Concessão do espaço de restauração | Concessão do espaço de restauração | Concessão do espaço de restauração |
+| Concessão do espaço de restauração |  |  |
 | Faturação | 2,2 M€ |  |
 | Número de refeições servidas "on prem" | 66.000 | Média 360/dia |
 | Número de refeições em take away | 50.000 | Média 280/dia |
-| Programação | Programação | Programação |
+| Programação |  |  |
 | Número eventos | 150 | 184 dias de operação |
 | Número de entidades envolvidas | (+800) |  |
 | Número de convidados/participantes | 5.000 | Média 30 pax/evento - detalhar por tipologia de evento |
-| Business e protocolo | Business e protocolo | Business e protocolo |
+| Business e protocolo |  |  |
 | Número parcerias estabelecidas (I&D, Governo, B2B) | 10 |  |
 | Leads para empresas dos setores prioritários | 5 % | (Do número de eventos business) |
 | Número de delegações/personalidades recebidas (VIP) | 50 | (33 % no número de países participantes) |
-| Comunicação | Comunicação | Comunicação |
+| Comunicação |  |  |
 | Número de notícias positivas em OCS PT | 1500 |  |
 | Número de notícias positivas em OCS JP | 1500 |  |
 | Número de notícias em OCS JP especializados pelos setores prioritários | 100 | Economia azul: energias renováveis, agroalimentar; monitorização oceânica; conhecimento/I&D turismo; cultura; arquitetura; |
@@ -1105,6 +1133,8 @@ Indicadores quantitativos
 | Website - número impressões | 10.000 |  |
 | Redes sociais - número de seguidores | 20.000 |  |
 | Redes sociais - distribuição geográfica | 30 % PT, 20 % UE, 50 % JP |  |
-| Indicadores qualitativos | Indicadores qualitativos | Indicadores qualitativos |
-| Notoriedade/reconhecimento | Notoriedade/reconhecimento | Notoriedade/reconhecimento |
-| Publicidade positiva e prémios | Publicidade positiva e prémios | Publicidade positiva e prémios |
+| Indicadores qualitativos |  |  |
+| Notoriedade/reconhecimento |  |  |
+| Publicidade positiva e prémios |  |  |
+
+117503447

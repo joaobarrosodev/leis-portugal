@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 56/2022, 2º Suplemento, Série I de 2022-03-21
   number: '56'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 36-(2) a 36-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05602/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/29-f/2022/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-f-2022-180830510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ab0a291fd8e1940e6888e039eb4ae5d47483b91c8b2b330e8622529ff653057
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a64c44778d4e97dd9ff0699b9e197cc6c27d53d404652874e63cb91b01879cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Certificado Digital COVID da UE
 - Circulação de Pessoas
 - Controlo Sanitário
-- Saúde Pública
-- Política de Saúde
-- Isolamento Profiláctico
+- Cuidados Médicos
 - Doença Infecciosa
 - Epidemia
-- Cuidados Médicos
-- Prorrogação de Prazo
-- Vacinação
 - Equipamento de Proteção
-- Vigilância Epidemiológica
+- Isolamento Profiláctico
+- Política de Saúde
+- Prorrogação de Prazo
+- Saúde Pública
 - Situação de Alerta
-- Certificado Digital COVID da UE
+- Vacinação
+- Vigilância Epidemiológica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25-a/2022/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25-a/2022/02/18/p/dre
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165865578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179327570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:00Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +169,5 @@ Nos termos do artigo 12.º do [Decreto-Lei n.º 54-A/2021](https://diariodarepub
 2 - Determinar que a presente resolução entra em vigor no dia 23 de março de 2022.
 
 Presidência do Conselho de Ministros, 17 de março de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115142653

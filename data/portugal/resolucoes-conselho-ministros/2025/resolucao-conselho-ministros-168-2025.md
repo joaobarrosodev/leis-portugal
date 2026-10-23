@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/168/2025/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2025-942971720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fb0ef9bf85795007c13ea36f38381cfb5f373f77d1f90bf3dfb40b32d582b8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880ac76e3d0fbb224be9ab36a49dfc47d9b82bed6f8d1885bc24743e56ba1808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Diretivo
+- Instituto de Educação Qualidade e Avaliação
 - Nomeação
 - Presidente
 - Vice-presidente
 - Vogal
-- Instituto de Educação Qualidade e Avaliação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935098429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:12Z'
   warnings: []
   errors: []
 ---
@@ -164,3 +180,5 @@ Nome: Rebeca Gouveia Coutinho Sá Couto.
 Habilitações académicas: mestrado integrado em Engenharia Física Tecnológica pelo IST, com classificação de 19 valores na dissertação; masters in Business Administration pelo INSEAD, tendo-se graduada com distinção; pós-graduação em Educação em Creche pela ESELx.
 
 Experiência profissional: 2025 - subdiretora-geral da Educação e adjunta do Ministro da Educação, Ciência e Inovação, com foco no tema do Digital na Educação e Educação Pré-Escolar; 2021 a 2024 - diretora de Parcerias Públicas, Teach For Portugal; 2021 a 2022 - fundadora e gestora do projeto Escola «Equitativa», Associação Passa Sabi; 2020 a 2021 - gestora do projeto GAP - Gulbenkian Aprendizagem, Teach For Portugal; 2012 a 2020 - associada, consultora e gestora de projeto, Boston Consulting Group.
+
+119705724

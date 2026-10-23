@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/006b00/00340034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/1996/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-1996-624850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc66094aba70dafe6d6e83bf3ec82d8e01f427539fc7c54a79a0b8fc414e4822
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e1597a3427585987e02b04d75c170ae58f3002038802591afe7a8f3baee38bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Beja
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Beja
 relationships:
 - type: amended_by
   target: pt:dre:407291:por
@@ -81,16 +81,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1186/1993/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1186/1993/11/12/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690179:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407291:por
+  label: "Revogada pela PORT.322/96.01.08.1996.ME, DR.IS-B [177] de 01.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1996-407291
+  date: '1996-08-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:04Z'
   warnings: []
   errors: []
 ---
@@ -121,6 +142,6 @@ Aplicação
 
 Ministério da Educação.
 
-**Assinada em 12 de Dezembro de 1995.**
+Assinada em 12 de Dezembro de 1995.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.

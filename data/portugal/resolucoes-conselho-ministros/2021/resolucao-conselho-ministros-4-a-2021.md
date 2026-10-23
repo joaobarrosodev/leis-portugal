@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15
   number: '10'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 31-(9) a 31-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01002/0000900011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-a-2021-154361180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d73a6711b6b3a8947cbc97c36728d55eee211cd4285f419da79faf5885a5e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c96912eccb0294d7969e2cfe92ce407c01467fcd398cbca1d93b9dcf9ce48d52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comparticipação do Estado
+- Cultura
 - Deficiente
-- Financiamento
+- Definição de Competências
+- Doença Infecciosa
 - Empresa
+- Epidemia
 - Espetáculos e Divertimentos Públicos
 - Estabelecimento Comercial
-- Comparticipação do Estado
-- Terceira Idade
-- Definição de Competências
-- Saúde Pública
 - Estabelecimento Industrial
 - Estado de Emergência
+- Financiamento
 - Financiamento da Segurança Social
+- Fundo de Reestruturação do Setor Solidário
 - Ministro da Cultura
-- Doença Infecciosa
-- Epidemia
-- Proteção ao Deficiente
+- Ministro de Estado da Economia e da Transição Digital
+- Ministro do Trabalho Solidariedade e Segurança Social
 - Política Cultural
 - Política Económica
 - Política Social
-- Cultura
+- Programa Adaptar Social+
+- Programa APOIAR
+- Proteção ao Deficiente
 - Proteção Social
 - Reembolso
+- Saúde Pública
 - Segurança Social
+- Situação de Calamidade
 - Subsídio
 - Subsídio não Reembolsável
-- Ministro do Trabalho Solidariedade e Segurança Social
-- Fundo de Reestruturação do Setor Solidário
-- Ministro de Estado da Economia e da Transição Digital
-- Programa Adaptar Social+
-- Situação de Calamidade
-- Programa APOIAR
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:204672332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160149402:por
+  label: Determinado o alargamento e o aumento dos limites máximos do apoio de tesouraria sob a forma de subsídio a fundo
+    perdido aprovado pelo n.º 1 da presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 33-A/2021 - Diário da
+    República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/33-a-2021-160149402
+  date: '2021-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/178/2020/07/28/p/dre
   label: null
@@ -118,16 +125,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
+- type: cites
+  target: pt:dre:138963711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149104781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149532792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:29Z'
   warnings: []
   errors: []
 ---
@@ -195,3 +218,5 @@ f) Prorrogação da Linha de Apoio ao Setor Social COVID-19.
 8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 14 de janeiro de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113892532

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/48/2015/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2015-69812100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f85e3418c0322645116d7257c8f51ca7ad3a524bc526fad955d8b64cec42d88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bf1370cf191621c5008963598c5140f13770759db942b53d23228f96da66a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
+- Comissão
 - Comissão de Acompanhamento
 - Crédito à Habitação
 - Criação de Serviços
 - Definição de Competências
-- Comissão
+- Habitação
 - Habitação Social
 - Instituto da Habitação e da Reabilitação Urbana
 - Política de Habitação
 - Programa de Reabilitação Urbana
-- Habitação
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:836117862:por
@@ -125,16 +125,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
+- type: cites
+  target: pt:dre:175305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:836117862:por
+  label: Revogada, a partir de 6 de janeiro de 2024, pelo(a) Lei n.º 2/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05
+    nos termos do artigo 6.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2024-836117862
+  date: '2024-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:17Z'
   warnings: []
   errors: []
 ---
@@ -287,7 +337,7 @@ Entre 1970 e 2011, segundo os respetivos censos, o número de alojamentos famili
 
 Segundo os censos de 2011 existiam 735.128 habitações vagas (xv), número que era de 373.950 em 1970, ou seja um aumento quase para o dobro. Mas se compararmos este indicador com o dos censos de 1981 (190.331 alojamentos vagos) verifica-se que quadruplicaram os fogos vagos nos últimos 30 anos;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 Fig. 1 - Alojamentos familiares clássicos (1970-2011)
 
@@ -297,7 +347,7 @@ Conclui-se, assim, que a par com o crescimento do parque habitacional, cresceu i
 
 Analisando, agora, as formas de ocupação dos alojamentos familiares clássicos, verifica-se que o arrendamento, que chegou a representar nos censos de 1970 quase 46 % das formas de ocupação dos alojamentos, caiu para cerca de 21 % em 2011 (xvii). Em sentido contrário, houve um aumento da habitação própria permanente, que subiu de 54,5 %, em 1970, para quase 79 %, em 2011 (xviii).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 Fig. 2 - Formas de ocupação de alojamentos clássicos
 
@@ -305,7 +355,7 @@ No que se refere às áreas e tipologias da habitação, Portugal era, em 2011, 
 
 Saliente-se ainda a variação verificada nos alojamentos familiares clássicos sublotados (xxi) e sobrelotados (xxii) de 2001 para 2011. Em 2001 estes indicadores eram respetivamente de 56,9 % e de 16,0 %. Em 2011 evoluíram para 64,9 % e 11,2 %. Ou seja, neste intervalo de 10 anos, os fogos sublotados aumentaram 28,2 % e os fogos sobrelotados reduziram-se em 20,8 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 Fig. 3 - Alojamentos familiares clássicos - evolução das áreas, rácios e tipologias (1970-2011)
 
@@ -341,7 +391,7 @@ Quanto ao peso da reabilitação de edifícios no setor da construção, salient
 
 Em 2011, o peso da reabilitação no setor da construção no que se referia ao volume de produção só representava 8 %, percentagem reduzida quando comparada com a média dos países da Europa a 28 que era de 26 % (xxxi);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 Fig. 4 - Evolução do número de fogos concluídos e do peso dos fogos concluídos em obras de reabilitação (1991-2013)
 
@@ -1435,7 +1485,7 @@ Medida 3.3.1 - Incentivar a melhoria do conforto térmico e da eficiência energ
 
 Enquadramento - Em Portugal o setor dos edifícios é responsável por cerca de 29 % da energia final consumida, cabendo aos alojamentos familiares cerca de 17 % destes consumos.
 
-# Parte do contributo para a redução das emissões dos gases com efeitos de estufa tem que resultar das medidas de eficiência energética no setor dos edifícios, apontando-se para uma redução dos consumos em cerca de 50 %.
+Parte do contributo para a redução das emissões dos gases com efeitos de estufa tem que resultar das medidas de eficiência energética no setor dos edifícios, apontando-se para uma redução dos consumos em cerca de 50 %.
 
 Uma vez que a prioridade é dada ao setor da reabilitação de edifícios habitacionais, não se podem esperar os mesmos resultados, em matéria de eficiência energética, que se obteriam por intervenções em construção nova ou em grandes renovações de edifícios.
 
@@ -1551,7 +1601,7 @@ A concretização da ENH passa pela fixação de um conjunto de metas e indicado
 
 Relativamente às metas apontam-se os anos de 2021 e 2031, coincidentes com os censos, como momentos de aferição dos resultados face aos critérios de sucesso a seguir definidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 Os valores apresentados para cada uma das metas têm em conta o atual contexto económico e as previsões da sua evolução, uma avaliação realista das respetivas oportunidades e possibilidades e as aspirações subjacentes aos desafios da ENH.
 
@@ -1563,7 +1613,7 @@ Será dada especial atenção aos indicadores novos, para os quais será necess�
 
 No quadro seguinte apresenta-se uma matriz com a identificação das medidas e iniciativas da ENH que contribuem para os 10 critérios de sucesso e metas a alcançar. Nos casos em que o contributo é o mais relevante a célula da matriz está sinalizada duas vezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13600/0482604850.pdf)
 
 VII. O modelo de governação
 

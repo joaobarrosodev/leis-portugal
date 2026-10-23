@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/1996/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1996-420807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1f370e0868b2205367b8d2de0e1ebe3d821743b7696f7ae8c94e26822f1415c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd371b0dcfcfd89095a4193e98a94a2160a6b4a29dfc042a28087d036a62afeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,52 @@ reuse:
 subjects:
 - Alfândega da FÉ
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:66602073:por
+  label: Tornadas públicas a aprovação, em 13.12.2014, da revisão do Plano Diretor Municipal de Alfandega da Fé (PDMAF); e
+    a revogação (a partir da entrada em vigor da citada revisão – 03.03.2015) do Plano de Pormenor da Zona Industrial de Alfândega
+    da Fé, ratificado pelo presente diploma, pelo(a) Aviso n.º 2147/2015 - Diário da República n.º 40/2015, Série II de 2015-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2147-2015-66602073
+  date: '2015-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:56Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +137,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 27 de Maio de 1996.**
+Assinada em 27 de Maio de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DE ALFÂNDEGA DA FÉ
 
@@ -284,4 +311,4 @@ As situações de ordem jurídica não previstas nestas normas serão solucionad
 
 O Tribunal Judicial da Comarca de Alfandega da Fé é o órgão territorialmente competente para a resolução de conflitos entre as partes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf))](https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf)

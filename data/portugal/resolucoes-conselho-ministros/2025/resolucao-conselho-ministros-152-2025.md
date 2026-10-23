@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/152/2025/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2025-938630861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58567ddf6b86eb6f5aa9830f8ccea6eaf39d0a9fd93cea6671a56f9e1f480e28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8bf0d6fe6094f2de18cc67499692571a31bf1134a1dc9943c17c51777102135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ subjects:
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Financiamento
 - Centro Hospitalar de Lisboa Central
 - Conselho de Ministros
 - Delegação de Competências
-- Lisboa
+- Estabelecimento Hospitalar
+- Financiamento
 - Fundos CE
+- Hospital de Lisboa Oriental
+- Lisboa
 - Orçamento
 - Parceria Público-Privada
-- Estabelecimento Hospitalar
-- Hospital de Lisboa Oriental
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:178/2017
+  label: Altera, com efeitos a 30 de setembro de 2025, a Resolução do Conselho de Ministros n.º 178/2017, de 28 de novembro,
+    Diário da República n.º 229/2017, Série I
+  source: null
+  date: '2017-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -112,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:114251184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114264986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114360526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:54Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +194,7 @@ Assim:
 
 Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Alterar a [Resolução do Conselho de Ministros n.º 178/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2017-114264986), de 28 de novembro, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[191-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-a-2017-114360526), de 14 de dezembro, e [22-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-a-2024-840060214), de 1 de fevereiro, que passa a ter a seguinte redação:
+1 - Alterar a [Resolução do Conselho de Ministros n.º 178/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2017-114264986), de 28 de novembro, alterada pelas Resoluções do Conselho de Ministros n.os[191-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-a-2017-114360526), de 14 de dezembro, e [22-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-a-2024-840060214), de 1 de fevereiro, que passa a ter a seguinte redação:
 
 «1 - Autorizar a realização da despesa inerente à celebração do contrato de concessão, em regime de parceria público-privada, para a conceção, projeto, construção, financiamento, conservação, manutenção e exploração do Hospital de Lisboa Oriental (HLO), no montante máximo de € 796 386 966,43, a preços correntes, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com a repartição prevista no número seguinte.
 
@@ -234,9 +276,9 @@ c) 2026 - € 67 134 793,82.
 
 7 - [...]
 
-8 - Determinar que os encargos referidos nos n.<sup>os</sup>5 a 7 são assegurados por verbas do PRR inscritas e a inscrever no orçamento da ACSS, I. P., no âmbito da componente C1 - Serviço Nacional de Saúde, sem prejuízo, se aplicável, do disposto no artigo 16.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual.
+8 - Determinar que os encargos referidos nos n.os5 a 7 são assegurados por verbas do PRR inscritas e a inscrever no orçamento da ACSS, I. P., no âmbito da componente C1 - Serviço Nacional de Saúde, sem prejuízo, se aplicável, do disposto no artigo 16.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual.
 
-9 - Determinar que, para garantir os encargos referidos nos n.<sup>os</sup>5 a 7, provenientes das verbas do PRR, deve ser alterado o contrato de gestão do complexo hospitalar do Hospital de Lisboa Oriental, em regime de parceria público-privada, para refletir nas obrigações contratuais com a entidade privada os termos da Decisão de Execução do Conselho Europeu (UE) (ST 8055/25) de 6 de maio de 2025, que aprova o PRR, na qual estão estabelecidas as condições necessárias para receber as verbas, sendo que o prazo máximo para a apresentação das evidências de cumprimento dessas condições é fixado para 31 de agosto de 2026.
+9 - Determinar que, para garantir os encargos referidos nos n.os5 a 7, provenientes das verbas do PRR, deve ser alterado o contrato de gestão do complexo hospitalar do Hospital de Lisboa Oriental, em regime de parceria público-privada, para refletir nas obrigações contratuais com a entidade privada os termos da Decisão de Execução do Conselho Europeu (UE) (ST 8055/25) de 6 de maio de 2025, que aprova o PRR, na qual estão estabelecidas as condições necessárias para receber as verbas, sendo que o prazo máximo para a apresentação das evidências de cumprimento dessas condições é fixado para 31 de agosto de 2026.
 
 10 - (Anterior n.º 9.)
 
@@ -247,3 +289,5 @@ c) 2026 - € 67 134 793,82.
 2 - Determinar que a presente resolução produz efeitos a 30 de setembro de 2025.
 
 Presidência do Conselho de Ministros, 3 de outubro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119617783

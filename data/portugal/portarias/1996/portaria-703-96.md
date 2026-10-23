@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/703/1996/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1996-186297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 411fda5549f9b10d7ee3132b340ecd2442e2b3a6fcd4b894c3046b6ae28f09e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14f5c94a741398345ad32cc4934039b22e358f8eafa572a9f7d9f0a5ec77b9b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
 - Bebida não Alcoólica
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fabrico Industrial
-- Embalagem
 - Informação do Consumidor
-- Aditivo Alimentar
 - Proteção do Consumidor
 - Refrigerante
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:439406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439406:por
+  label: "Alterado o nº 5º e revogado o nº 2 do nº 5º pela PORT.1296/2008.11.11.2008.MAOTDR, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1296-2008-439406
+  date: '2008-11-11'
 - type: cites
   target: eli:/application/external/tratado
   label: null
@@ -87,13 +92,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:33Z'
   warnings: []
   errors: []
 ---
@@ -198,6 +203,6 @@ d) «Com água mineral natural» ou «Com água de nascente», seguida do nome d
 
 Ministérios da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e do Ambiente.
 
-**Assinada em 5 de Novembro de 1996.**
+Assinada em 5 de Novembro de 1996.
 
-**O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

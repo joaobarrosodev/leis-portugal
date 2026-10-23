@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16800/0441004410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/113/2018/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-2018-116272162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f81990aa3d46b570f1770cbf1a895a407b768809ff868133b54cb2b387d7a40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39e4c56b8599d33a26e19eb37d60759043bc44993dd4815f1af0ea4f5fcac542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Mandato
-- Prorrogação de Prazo
-- Ministro da Defesa Nacional
 - Direção Geral de Recursos da Defesa Nacional
 - Grupo de Projeto Space Surveillance and Tracking
+- Mandato
+- Ministro da Defesa Nacional
+- Prorrogação de Prazo
 relationships:
 - type: cites
   target: celex:32014D0541
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2018/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2018/03/12/p/dre
+- type: cites
+  target: pt:dre:108051991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114848692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:41Z'
   warnings: []
   errors: []
 ---
@@ -127,3 +139,5 @@ Ao abrigo do disposto no n.º 6 da [Resolução do Conselho de Ministros n.º 11
 5 - Estabelecer que a presente resolução produz efeitos a partir de 25 de agosto de 2018.
 
 Presidência do Conselho de Ministros, 23 de agosto de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111616553

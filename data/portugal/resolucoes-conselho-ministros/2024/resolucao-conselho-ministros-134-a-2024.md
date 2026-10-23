@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/134-a/2024/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-a-2024-890505159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b29e70fd280f6f564ce39367064a14f9d679e7881ba83e320fabb7241cf1876f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c82b342657ff4997837245ae9dcc5cf9377159fb4642783c8620b3507e0661f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Adjudicação
 - Contrato de Concessão
 - Oliveira do Bairro
+- Porto
 - Rede Ferroviária Portuguesa de Alta Velocidade
 - Relatório
-- Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836495402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:33Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +129,7 @@ Em face do exposto, entende-se como justificável, à luz do n.º 5 do artigo 18
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1, 2 e 5 do artigo 18.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1, 2 e 5 do artigo 18.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Determinar a continuação do procedimento concursal para a adjudicação da única proposta apresentada para a concessão da conceção, projeto, construção, financiamento, manutenção e disponibilização da linha ferroviária de alta velocidade entre Porto (Campanhã) e Oiã, seguindo-se os seus ulteriores trâmites procedimentais.
 
@@ -126,3 +138,5 @@ Nos termos dos n.<sup>os</sup>1, 2 e 5 do artigo 18.º do [Decreto-Lei n.º 111/
 3 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
 
 Presidência do Conselho de Ministros, 4 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118213452

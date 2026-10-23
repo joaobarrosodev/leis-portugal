@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22/2015/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2015-66997036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dffb379748aa65e526b5ca2bf53f2f2e1d0873f46af0f02fff8b26e01778dbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08aa652a8058b27a9d973d62f0fa19d0c18cfa399bc11b5abc516c62719728f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
+- Agenda Portugal Digital
+- Autoridade Nacional de Comunicações
+- Comércio Eletrónico
+- Comissão de Acompanhamento
+- Comissão Interministerial
 - Economia Digital
 - Empreendedorismo
 - Empresa
-- Modernização Administrativa
-- Comissão de Acompanhamento
-- Comissão Interministerial
-- Agenda Portugal Digital
-- Administração Pública
-- TIC
 - Governo Electrónico
+- IAPMEI
+- Modernização Administrativa
 - Portugal Digital
 - Setor Privado
 - Setor Público
-- Comércio Eletrónico
-- IAPMEI
-- Autoridade Nacional de Comunicações
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/112/2012/12/31/p/dre
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91/2010/11/19/p/dre
+- type: cites
+  target: pt:dre:189514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66414245:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:30Z'
   warnings: []
   errors: []
 ---
@@ -261,39 +277,41 @@ Agenda Portugal Digital
 
 Esta área de intervenção integra 10 medidas. Constituem objetivos estratégicos desta área: a) Promover o desenvolvimento da infraestrutura de banda larga, de forma a permitir que todos os cidadãos possam ter acesso à banda larga de velocidade igual ou superior a 30 Mbps; b) Promover o desenvolvimento da infraestrutura de banda larga, de forma a permitir que 50 % dos agregados familiares possam ter acesso à Internet de banda larga de velocidade igual ou superior a 100 Mbps, até 2020; c) Promover o desenvolvimento de condições para que metade da população em concelhos rurais da Região Autónoma da Madeira possa ter acesso de banda larga de velocidade igual ou superior a 40 Mbps. d) Criar as condições para que 35 % das PME utilizem o comércio eletrónico até 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 2 - Investimento em Investigação e Desenvolvimento (I&D) e Inovação
 
-Esta área integra 3 medidas que se constituem como o enquadramento estratégico necessário para: mobilizar e articular diferentes fontes e instrumentos de financiamento para a I&D e Inovação em TIC; fortalecer a internacionalização do sistema português de I&D em TIC, aproveitando as oportunidades presentes nos programas quadro da U.E. e o contexto de outros programas de natureza transnacional e/ou bilateral; qualificar a comunidade científica com competências avançadas, de forma a potenciar as oportunidades que surgem no contexto da "Economia Digital"; promover a Inovação com base no conhecimento científico e tecnológico TIC (criar/extrair benefício social do novo conhecimento e das tecnologias emergentes - Redes de Nova Geração, Redes de sensores, Internet do Futuro, Internet das Coisas, "Cloud Computing", Sistemas de energia e transporte inteligentes, Ambientes Inteligentes/AAL, Robótica e conteúdos digitais interativos; e apoiar a difusão de novas aplicações TIC para cidades inteligentes, transportes e logística, "green energy", comércio eletrónico, administração pública, a aprendizagem em linha, infoinclusão, saúde, cultura, entre outras dimensões societais); promover infraestruturas eletrónicas que visem conhecer e apoiar atividades de I&D; utilizar e promover as potencialidades das TIC enquanto sistema de recursos tecnológicos facilitador do acesso, reutilização e difusão do conhecimento científico e tecnológico; promover um serviço de observação do mar e da atmosfera, como componentes da observação da Terra (TIC Marítimas). Objetivo estratégico desta área: Aumentar o financiamento público direto à I&D em TIC em 10 % até 2020 (tendo como referência os dados de 2012: 5.962 Milhões de Euros; Fonte: https://ec.europa.eu/digital-agenda/en).
+Esta área integra 3 medidas que se constituem como o enquadramento estratégico necessário para: mobilizar e articular diferentes fontes e instrumentos de financiamento para a I&D e Inovação em TIC; fortalecer a internacionalização do sistema português de I&D em TIC, aproveitando as oportunidades presentes nos programas quadro da U.E. e o contexto de outros programas de natureza transnacional e/ou bilateral; qualificar a comunidade científica com competências avançadas, de forma a potenciar as oportunidades que surgem no contexto da "Economia Digital"; promover a Inovação com base no conhecimento científico e tecnológico TIC (criar/extrair benefício social do novo conhecimento e das tecnologias emergentes - Redes de Nova Geração, Redes de sensores, Internet do Futuro, Internet das Coisas, "Cloud Computing", Sistemas de energia e transporte inteligentes, Ambientes Inteligentes/AAL, Robótica e conteúdos digitais interativos; e apoiar a difusão de novas aplicações TIC para cidades inteligentes, transportes e logística, "green energy", comércio eletrónico, administração pública, a aprendizagem em linha, infoinclusão, saúde, cultura, entre outras dimensões societais); promover infraestruturas eletrónicas que visem conhecer e apoiar atividades de I&D utilizar e promover as potencialidades das TIC enquanto sistema de recursos tecnológicos facilitador do acesso, reutilização e difusão do conhecimento científico e tecnológico; promover um serviço de observação do mar e da atmosfera, como componentes da observação da Terra (TIC Marítimas). Objetivo estratégico desta área: Aumentar o financiamento público direto à I&D em TIC em 10 % até 2020 (tendo como referência os dados de 2012: 5.962 Milhões de Euros; Fonte: https://ec.europa.eu/digital-agenda/en).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 3 - Melhorar a literacia, qualificação e inclusão digitais
 
 Esta área de intervenção integra 3 medidas. Constitui objetivo estratégico desta área: Promover a utilização das tecnologias de informação, para que seja possível diminuir para 23 % a proporção de indivíduos que nunca utilizou a Internet e para 35 % a proporção de ativos com baixas ou sem competências digitais, até 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 4 - "Combate à Fraude e à Evasão Fiscais contributivas e prestacionais
 
 Esta área de intervenção integra 2 medidas. As TIC devem desempenhar um papel decisivo no combate à fraude e à evasão fiscais, contributivas e prestacionais, pelo que constituem objetivos estratégicos desta área: a) Garantir a equidade social e a justa repartição do esforço fiscal; b) contribuir para a redução da economia paralela e simplificação das obrigações declarativas; c) aumentar a eficiência e transparência das organizações; d) introduzir melhorias funcionais em todos os processos desde o processo declarativo até ao processo de pagamento contributivo ou recebimento prestacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 5 - "Resposta aos desafios societais"
 
 Esta área de intervenção integra 35 medidas e tem como macro objetivo promover, junto da população portuguesa uma maior utilização dos serviços públicos online, convergindo até 2020, com a média europeia. Para atingir este objetivo esta área de intervenção inclui: a) Maior eficiência e menor custo da Administração Pública; b) Melhor Educação; c) Melhor Emprego; d) Melhor Justiça; e) Melhor Saúde; f) Mobilidade mais Inteligente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 6 - Empreendedorismo e internacionalização do setor das TIC
 
 Esta área de intervenção integra 3 medidas. Constitui seu objetivo principal criar as condições que permitam o aumento em 25 % das exportações em Tecnologias de Informação e Comunicação (TIC), em valores acumulados, até 2020, tendo como referência o ano de 2011;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
-## ANEXO II — (a que se refere o n.º 4)
+ANEXO II
+
+(a que se refere o n.º 4)
 
 (Republicação da [Resolução do Conselho de Ministros n.º 112/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-2012-189514), de 31 de dezembro)
 
@@ -399,7 +417,9 @@ x) Até cinco representantes da sociedade civil com relevância na área das TIC
 
 14 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
 
-## ANEXO — (a que se refere o n.º 1)
+ANEXO
+
+(a que se refere o n.º 1)
 
 Agenda Portugal Digital
 
@@ -407,34 +427,34 @@ Agenda Portugal Digital
 
 Esta área de intervenção integra 10 medidas. Constituem objetivos estratégicos desta área: a) Promover o desenvolvimento da infraestrutura de banda larga, de forma a permitir que todos os cidadãos possam ter acesso à banda larga de velocidade igual ou superior a 30 Mbps; b) Promover o desenvolvimento da infraestrutura de banda larga, de forma a permitir que 50 % dos agregados familiares possam ter acesso à Internet de banda larga de velocidade igual ou superior a 100 Mbps, até 2020; c) Promover o desenvolvimento de condições para que metade da população em concelhos rurais da Região Autónoma da Madeira possa ter acesso de banda larga de velocidade igual ou superior a 40 Mbps. d) Criar as condições para que 35 % das PME utilizem o comércio eletrónico até 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 2 - Investimento em Investigação e Desenvolvimento (I&D) e Inovação
 
-Esta área integra 3 medidas que se constituem como o enquadramento estratégico necessário para: mobilizar e articular diferentes fontes e instrumentos de financiamento para a I&D e Inovação em TIC; fortalecer a internacionalização do sistema português de I&D em TIC, aproveitando as oportunidades presentes nos programas quadro da U.E. e o contexto de outros programas de natureza transnacional e/ou bilateral; qualificar a comunidade científica com competências avançadas, de forma a potenciar as oportunidades que surgem no contexto da "Economia Digital"; promover a Inovação com base no conhecimento científico e tecnológico TIC (criar/extrair benefício social do novo conhecimento e das tecnologias emergentes - Redes de Nova Geração, Redes de sensores, Internet do Futuro, Internet das Coisas, "Cloud Computing", Sistemas de energia e transporte inteligentes, Ambientes Inteligentes/AAL, Robótica e conteúdos digitais interativos; e apoiar a difusão de novas aplicações TIC para cidades inteligentes, transportes e logística, "green energy", comércio eletrónico, administração pública, a aprendizagem em linha, infoinclusão, saúde, cultura, entre outras dimensões societais); promover infraestruturas eletrónicas que visem conhecer e apoiar atividades de I&D; utilizar e promover as potencialidades das TIC enquanto sistema de recursos tecnológicos facilitador do acesso, reutilização e difusão do conhecimento científico e tecnológico; promover um serviço de observação do mar e da atmosfera, como componentes da observação da Terra (TIC Marítimas). Objetivo estratégico desta área: Aumentar o financiamento público direto à I&D em TIC em 10 % até 2020 (tendo como referência os dados de 2012: 5.962 Milhões de Euros; Fonte: https://ec.europa.eu/digital-agenda/en).
+Esta área integra 3 medidas que se constituem como o enquadramento estratégico necessário para: mobilizar e articular diferentes fontes e instrumentos de financiamento para a I&D e Inovação em TIC; fortalecer a internacionalização do sistema português de I&D em TIC, aproveitando as oportunidades presentes nos programas quadro da U.E. e o contexto de outros programas de natureza transnacional e/ou bilateral; qualificar a comunidade científica com competências avançadas, de forma a potenciar as oportunidades que surgem no contexto da "Economia Digital"; promover a Inovação com base no conhecimento científico e tecnológico TIC (criar/extrair benefício social do novo conhecimento e das tecnologias emergentes - Redes de Nova Geração, Redes de sensores, Internet do Futuro, Internet das Coisas, "Cloud Computing", Sistemas de energia e transporte inteligentes, Ambientes Inteligentes/AAL, Robótica e conteúdos digitais interativos; e apoiar a difusão de novas aplicações TIC para cidades inteligentes, transportes e logística, "green energy", comércio eletrónico, administração pública, a aprendizagem em linha, infoinclusão, saúde, cultura, entre outras dimensões societais); promover infraestruturas eletrónicas que visem conhecer e apoiar atividades de I&D utilizar e promover as potencialidades das TIC enquanto sistema de recursos tecnológicos facilitador do acesso, reutilização e difusão do conhecimento científico e tecnológico; promover um serviço de observação do mar e da atmosfera, como componentes da observação da Terra (TIC Marítimas). Objetivo estratégico desta área: Aumentar o financiamento público direto à I&D em TIC em 10 % até 2020 (tendo como referência os dados de 2012: 5.962 Milhões de Euros; Fonte: https://ec.europa.eu/digital-agenda/en).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 3 - Melhorar a literacia, qualificação e inclusão digitais
 
 Esta área de intervenção integra 3 medidas. Constitui objetivo estratégico desta área: Promover a utilização das tecnologias de informação, para que seja possível diminuir para 23 % a proporção de indivíduos que nunca utilizou a Internet e para 35 % a proporção de ativos com baixas ou sem competências digitais, até 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 4 - "Combate à Fraude e à Evasão Fiscais contributivas e prestacionais
 
 Esta área de intervenção integra 2 medidas. As TIC devem desempenhar um papel decisivo no combate à fraude e à evasão fiscais, contributivas e prestacionais, pelo que constituem objetivos estratégicos desta área: a) Garantir a equidade social e a justa repartição do esforço fiscal; b) contribuir para a redução da economia paralela e simplificação das obrigações declarativas; c) aumentar a eficiência e transparência das organizações; d) introduzir melhorias funcionais em todos os processos desde o processo declarativo até ao processo de pagamento contributivo ou recebimento prestacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 5 - "Resposta aos desafios societais"
 
 Esta área de intervenção integra 35 medidas e tem como macro objetivo promover, junto da população portuguesa uma maior utilização dos serviços públicos online, convergindo até 2020, com a média europeia. Para atingir este objetivo esta área de intervenção inclui: a) Maior eficiência e menor custo da Administração Pública; b) Melhor Educação; c) Melhor Emprego; d) Melhor Justiça; e) Melhor Saúde; f) Mobilidade mais Inteligente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
 
 Área de intervenção 6 - Empreendedorismo e internacionalização do setor das TIC.
 
 Esta área de intervenção integra 3 medidas. Constitui seu objetivo principal criar as condições que permitam o aumento em 25 % das exportações em Tecnologias de Informação e Comunicação (TIC), em valores acumulados, até 2020, tendo como referência o ano de 2011;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07400/0189801928.pdf)

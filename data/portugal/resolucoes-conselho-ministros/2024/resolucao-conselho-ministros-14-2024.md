@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00900/0003100078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/2024/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2024-836495389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcdc9b71ba17bd0774fc17c60398f57b06a1c9af5d94bc8b1efaab4928587160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a82d86385d713f62695d3834e9bc4a7cfad1b69865812bba5da2e28b8c997d22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Terceira Idade
-- Coordenador
-- Saúde
 - Conselho Consultivo
-- Proteção na Velhice
-- Saúde Mental
-- Presidente
+- Coordenador
 - Plano de Ação de Envelhecimento Ativo e Saudável 2023-2026
+- Presidente
+- Proteção na Velhice
+- Saúde
+- Saúde Mental
+- Terceira Idade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93/2023/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93/2023/08/16/p/dre
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212075891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219991577:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:42Z'
   warnings: []
   errors: []
 ---
@@ -310,7 +326,8 @@ B - Enquadramento e definição estratégica
 
 Segundo os dados oficiais das Nações Unidas, Portugal apresenta uma pirâmide etária com os grupos de maior população entre os 40 e os 65 anos, existindo uma redução muito significativa do número de indivíduos nos grupos abaixo dos 45 anos de idade, que é progressiva até à faixa de 0 a 5 anos.
 
-![](https://files.diariodarepublica.pt/images/836495389/836629075.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836629075.png) |
+| --- |
 
 Fonte: United Nations, Department of Economic and Social Affairs (2022 Revision).
 
@@ -318,7 +335,8 @@ Figura 1 - Pirâmide etária portuguesa em 2022
 
 Na década de 2009 a 2019, ocorreu um duplo envelhecimento da população portuguesa, com estreitamento da base, resultante da redução da taxa de natalidade e do aumento do número de pessoas com mais de 65 anos (Figura 2).
 
-![](https://files.diariodarepublica.pt/images/836495389/836629175.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836629175.png) |
+| --- |
 
 Fonte: Instituto Nacional de Estatística.
 
@@ -326,7 +344,8 @@ Figura 2 - Evolução da pirâmide etária em Portugal de 2009 para 2019
 
 A referida evolução demográfica tem provocado um aumento muito significativo do índice de envelhecimento da população portuguesa que, em 2021, era de 178,4 idosos por cada 100 jovens (Figura 3).
 
-![](https://files.diariodarepublica.pt/images/836495389/836629275.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836629275.png) |
+| --- |
 
 Fonte: Pordata.
 
@@ -334,7 +353,8 @@ Figura 3 - Evolução do Índice de Envelhecimento em Portugal
 
 A esperança média de vida à nascença continuou a aumentar durante as últimas 2 décadas, com um crescimento menos relevante nos últimos anos (Figura 4). A esperança média de vida em Portugal era, em 2020, de 80,7 anos (77,7 anos nos homens e 83,4 anos nas mulheres).
 
-![](https://files.diariodarepublica.pt/images/836495389/836629375.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836629375.png) |
+| --- |
 
 Fonte: Instituto Nacional de Estatística.
 
@@ -342,7 +362,8 @@ Figura 4 - Evolução da esperança média de vida em Portugal
 
 A esperança média de vida em níveis elevados revela, como essencial, o foco no número de anos de vida saudáveis e com qualidade de vida. Esta situação pode ser analisada mediante o número de anos de vida saudável aos 65 anos, sendo, em Portugal, estes resultados inferiores aos da média da União Europeia (homens em 2019: Portugal 7,9 anos vs 10,2 anos na União Europeia; mulheres em 2019: Portugal 6,9 anos vs 10,4 anos na União Europeia) (Figura 5).
 
-![](https://files.diariodarepublica.pt/images/836495389/836629475.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836629475.png) |
+| --- |
 
 Fonte: Pordata.
 
@@ -350,7 +371,8 @@ Figura 5 - Anos de vida saudáveis após os 65 anos (à esquerda sexo masculino 
 
 A perda de anos de vida saudável por morte prematura, doença ou incapacidade pode ser mensurada pelo indicador Disability Adjusted Life Years (DALY), permitindo identificar as principais causas e, por consequência, priorizar as intervenções (Figura 6).
 
-![](https://files.diariodarepublica.pt/images/836495389/836631575.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836631575.png) |
+| --- |
 
 Fonte: Instituto Nacional de Estatística, I. P. - Portugal. Tratamento de dados: Equipa PNS 21-30/DGS.
 
@@ -360,7 +382,8 @@ Em Portugal, as principais causas de DALY, em 2019, foram as doenças cardiovasc
 
 O conhecimento destes dados revela-se ainda mais preponderante tendo em conta as previsões da evolução demográfica em Portugal, com o espectável envelhecimento progressivo da população nas próximas décadas (Figura 7).
 
-![](https://files.diariodarepublica.pt/images/836495389/836631675.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836495389/836631675.png) |
+| --- |
 
 Fonte: Instituto Nacional de Estatística.
 
@@ -496,9 +519,9 @@ Todas as medidas e atividades serão avaliadas com indicadores de execução e c
 
 Em termos internacionais, importa ainda referir que o Índice de Envelhecimento Ativo, publicado pela UNECE, é composto por 4 domínios e 22 indicadores, conforme se discrimina seguidamente:
 
-|  |  |  |
-| --- | --- | --- |
 | 1 - Emprego |  |  |
+| --- | --- | --- |
+|  |  |  |
 | 1.1 | Taxa de emprego dos 55-59 anos | Taxa de emprego dos 55-59 anos. |
 | 1.2 | Taxa de emprego dos 60-64 anos | Taxa de emprego dos 60-64 anos. |
 | 1.3 | Taxa de emprego dos 65-69 anos | Taxa de emprego dos 65-69 anos. |
@@ -717,264 +740,264 @@ O acompanhamento dos indicadores será efetuado através de um relatório elabor
 
 ## ANEXO I — (a que se refere o sumário executivo do Plano de Ação do Envelhecimento Ativo e Saudável 2023-2026)
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| I Saúde e bem-estar | I Saúde e bem-estar | I Saúde e bem-estar | II Autonomia e vida independente | II Autonomia e vida independente | II Autonomia e vida independente | II Autonomia e vida independente | III Desenvolvimento e aprendizagem ao longo da vida |
-| I.i Promoção da saúde e prevenção da doença | I.ii Cuidados integrados e de longa duração | I.iii Capacitação dos cuidadores e melhoria das condições de prestação de cuidados | II.i Vida independente | II.ii Ambientes seguros | II.ii Ambientes seguros | II.iii Ambientes acessíveis | III.i Educação e formação ao longo da vida |
-| IV Vida laboral saudável ao longo do ciclo de vida | IV Vida laboral saudável ao longo do ciclo de vida | IV Vida laboral saudável ao longo do ciclo de vida | V Rendimentos e economia | V Rendimentos e economia | V Rendimentos e economia | V Rendimentos e economia | VI Participação na sociedade |
-| IV.i Participação no mercado de trabalho | IV.ii Adaptação das carreiras profissionais e locais | IV.iii Promoção da diversidade intergeracional no local de trabalho | V.i Garantia de rendimento individual | V.i Garantia de rendimento individual | V.ii Economia do Envelhecimento | V.ii Economia do Envelhecimento | VI.i Participação na sociedade |
-| Catalisadores | Catalisadores | Catalisadores | Catalisadores | Catalisadores | Catalisadores | Catalisadores | Catalisadores |
-| A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação | A - Ciência e Inovação |
-| B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia | B - Comunicação, Estereótipos, Educação e Literacia |
+| I<br>Saúde e bem-estar | II<br>Autonomia e vida independente | III<br>Desenvolvimento e aprendizagem ao longo da vida |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+| I.i<br>Promoção da saúde<br>e prevenção<br>da doença | I.ii<br>Cuidados integrados<br>e de longa duração | I.iii<br>Capacitação<br>dos cuidadores<br>e melhoria das<br>condições de prestação de cuidados | II.i<br>Vida independente | II.ii<br>Ambientes<br>seguros | II.iii<br>Ambientes<br>acessíveis | III.i<br>Educação e formação ao longo da vida |
+| IV<br>Vida laboral saudável ao longo do ciclo de vida | V<br>Rendimentos e economia | VI<br>Participação na sociedade |  |  |  |  |
+| IV.i<br>Participação<br>no mercado de trabalho | IV.ii<br>Adaptação<br>das carreiras<br>profissionais e locais | IV.iii<br>Promoção<br>da diversidade<br>intergeracional<br>no local de trabalho | V.i<br>Garantia de rendimento<br>individual | V.ii<br>Economia<br>do Envelhecimento | VI.i<br>Participação na sociedade |  |
+| Catalisadores |  |  |  |  |  |  |
+| A - Ciência e Inovação |  |  |  |  |  |  |
+| B - Comunicação, Estereótipos, Educação e Literacia |  |  |  |  |  |  |
 
 Pilar I - Saúde e Bem-Estar
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Promoção da saúde e prevenção da doença. | 1 - Programas de promoção da saúde. | 1 - Realização de sessões de promoção da saúde e de prevenção da doença para o ensino até ao 12.º ano. | N.º de sessões. | Nível de conhecimento dos alunos. Carga de doença após os 50 anos (*). IEA - 3.1; 4.1; 4.2; 4.3. | . MS . MEDU | DGS DGEstE | PNS 2030 |
-|  |  | 2 - Realização de sessões de promoção da saúde e de prevenção da doença para o ensino superior. | N.º de sessões. | Nível de conhecimento dos alunos. Carga de doença após os 50 anos (*). IEA - 3.1; 4.1; 4.2; 4.3. | . MS . MCTES . - | DGS DGES CRUP/ CCISP DGEstE ANQEP | PNS 2030 |
-|  |  | 3 - Realização de sessões de promoção da saúde e prevenção da doença para a população. | N.º de sessões. | Taxa de controlo de fatores de risco. Taxa de participação em rastreios. IEA - 3.1; 4.1; 4.2; 4.3. | . MS . MEDU | DGS DE-SNS CSP/ULS Inst. Ens. Sup. ANQEP | PNS 2030 |
-|  |  | 4 - Aprovação e implementação de planos municipais de saúde com foco na promoção da saúde e bem-estar e na prevenção da doença. | N.º de planos municipais implementados. | Taxa de controlo de fatores de risco. Taxa de participação em rastreios. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS . MCT | ANMP Municípios ANQEP | PNS 2030 |
-|  |  | 5 - Programas municipais de atividade física de promoção da alimentação saudável e de apoio intensivo à cessação tabágica, ao longo do ciclo de vida. | N.º de programas implementados. | Taxa de controlo de fatores de risco. Taxa de obesidade. Taxa de tabagismo. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS . MCT | ANMP Municípios | PNS 2030 |
-|  |  | 6 - Apoiar os programas de desenvolvimento desportivo que promovam a generalização da prática desportiva em todas as idades e de âmbito informal, recreativo ou competitivo (não federado). | N.º de projetos apoiados. | Níveis de atividade física da população. N.º de pessoas abrangidas. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MAAP | IPDJ | PNDpT |
-|  |  | 7 - Aumentar o conhecimento dos cidadãos sobre os benefícios da prática regular de atividade física, em todas as idades e de acordo com a sua capacidade. | N.º de downloads da APP SUAVA. N.º de ativações da campanha. | Níveis de atividade física da população. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MAAP | IPDJ | SUAVA - PRR |
-|  |  | 8 - Avaliação dos níveis de atividade física dos utentes e aconselhamento breve para a sua promoção, por parte dos profissionais de saúde, no âmbito dos cuidados de saúde primários. | N.º de avaliações realizadas. N.º de guias de aconselhamento breve emitidas. | Níveis de atividade física da população. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS | DGS PNPAF DE-SNS | PNS 2030 PNPAF |
-|  |  | 9 - Realização de intervenções breves de aconselhamento para a cessação tabágica. | N.º de Ações de Sensibilização para a prevenção do tabagismo. N.º de utentes fumadores aconselhados por intervenção breve que deixa de fumar às 4 semanas. | Taxa de Tabagismo. Taxa de utentes fumadores aconselhados a deixar de fumar. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS . MCT | DGS Municípios | PNS 2030 |
-|  |  | 10 - Realização de intervenções breves para aconselhamento da redução do consumo de álcool ao longo do ciclo de vida. | N.º de Ações de Sensibilização para a prevenção do alcoolismo. | Taxa de Alcoolismo. IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS . MCT | DGS ICAD, I. P. Municípios | PNS 2030 |
-|  | 2 - Prevenção da Mortalidade e Morbilidade Cardiovascular. | 11 - Realização de rastreios cardiovasculares. | N.º de ações de rastreio. N.º de utentes rastreados. | Taxa de identificação de fatores de risco cardiovasculares. IEA - 4.1; 4.2. | . MS | DE-SNS SPC | PNS 2030 |
-|  |  | 12 - Controlo e prevenção dos fatores de risco cardiovasculares. | Taxa de controlo de fatores de risco cardiovasculares. Taxa de realização do Programa de apoio intensivo à cessação tabágica. Taxa de utentes com registo dos seus hábitos tabágicos na sua ficha clínica. | Taxa de EAM. Taxa de AVC. IEA - 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
-|  |  | 13 - Promoção da utilização da Via Verde Coronária. | Taxa de utilização da Via Verde Coronária. | Taxa de mortalidade por EAM. Taxa de doentes com IC pós EAM. IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS INEM | PNS 2030 |
-|  |  | 14 - Promoção da utilização da Via Verde do AVC. | Taxa de utilização da Via Verde do AVC. | Taxa de mortalidade por AVC. Taxa de doentes dependentes após AVC. IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS INEM | PNS 2030 |
-|  |  | 15 - Aumento da Rede de Desfibrilhação Automática Externa na comunidade. | N.º de planos municipais de DAE. N.º de DAE. N.º de operadores de SBV/DAE. | Taxa de redução na morte súbita nos casos de PCR. IEA - 3.2; 4.1; 4.2. | . MS | Municípios INEM | PNS 2030 |
-|  | 3 - Prevenção da mortalidade e morbilidade oncológica. | 16 - Promoção da realização de rastreios oncológicos. | N.º de ações de sensibilização. | Taxa de população com rastreios realizados. IEA - 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
-|  |  | 17 - Realização de rastreios oncológicos. | N.º de rastreios. | Taxa de neoplasias em estadios precoces. Taxa de mortalidade oncológica. IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
-|  | 4 - Promoção da saúde mental e prevenção da demência. | 18 - Programas de promoção da saúde mental ao longo do ciclo de vida. | N.º de programas implementados. | Taxa de doença mental (*). Taxa de demências (*). IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CE-PNSD | PNS 2030 PNSD |
-|  |  | 19 - Programas de estimulação cognitiva e prevenção da doença mental. | N.º de programas implementados. | Taxa de doença mental (*). Taxa de demências (*). IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS ANMP CE-PNSD | PNS 2030 PNSD |
-|  |  | 20 - Rastreios de demências e doenças neurodegenerativas. | N.º de rastreios. | Taxa de deteção de demências em estádios precoces. IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CE-PNSD | PNS 2030 PNSD |
-|  |  | 21 - Programas de tratamento precoce de demências. | N.º de utentes em tratamento precoce. | Taxa de dependência por demência (*). IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CE-PNSD | PNS 2030 PNSD |
-|  |  | 22 - Rastreios de morbilidade psiquiátrica. | N.º de rastreios realizados. | Taxa de deteção de patologia mental com necessidade de tratamento. IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CNSM | PNS 2030 PNSM |
-|  |  | 23 - Promoção de respostas de proximidade em saúde mental para pessoas com mais de 65 anos. | % de serviços locais de saúde mental com equipas comunitárias estruturadas. | Variação do cumprimento dos tempos máximos de resposta garantidos para pessoas com mais de 65 anos. IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CNSM | PNS 2030 PNSM |
-|  |  | 24 - Implementação de respostas específicas de psiquiatria geriátrica nos serviços locais de saúde mental. | % de serviços locais de saúde mental com consultas/programas de psiquiatria geriátrica. | Variação do n.º de utentes seguidos em consultas de psiquiatria geriátrica. IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS CNSM | PNS 2030 PNSM |
-|  | 5 - Promoção da saúde prevenção das morbilidade músculo-esquelético. | 25 - Programas de avaliação músculo-esquelética. | N.º de programas implementados. | Taxa de deteção de patologia músculo-esquelética precoce. Taxa de dependência por patologia músculo-esquelética (*). IEA - 3.2; 4.2. | . MS | DE-SNS Municípios | PNS 2030 |
-|  |  | 26 - Programas de rastreio de osteoporose. | N.º de rastreios. | Taxa de deteção de osteoporose. Taxa de fraturas osteoporóticas (*). IEA - 3.2; 4.2. | . MS | DE-SNS | PNS 2030 |
-|  |  | 27 - Programas de exercício físico de manutenção e reabilitação. | N.º de programas implementados. N.º de utentes em programas de exercício físico. | Taxa de dependência por patologia músculo-esquelética (*). IEA - 3.1; 3.2; 4.1; 4.2; 4.3; 4.5. | . MS | DE-SNS Municípios | PNS 2030 |
-|  | 6 - Promover um adequado estado nutricional. | 28 - Realização do rastreio nutricional nos Cuidados de Saúde Primários. | N.º de rastreios. | Taxa da população elegível com rastreio nutricional realizado. IEA - 3.2; 4.2; 4.3. | . MS | DGS DE-SNS | PNS 2030 PNPAS |
-|  |  | 29 - Promoção da otimização da oferta alimentar nas instituições que prestam apoio a idosos, nomeadamente através da atualização das orientações para alimentação presentes nos Manuais de Gestão da Qualidade das Respostas Sociais dirigidas para idosos. | N.º de Instituições com manuais atualizados. | Taxa de desnutrição nos idosos institucionalizados. Taxa de obesidade nos idosos institucionalizados. IEA - 3.2; 4.2; 4.3. | . MS . MTSSS | DGS ISS | PNS 2030 PNPAS |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Promoção da saúde e prevenção da doença. | 1 - Programas de promoção da saúde. | 1 - Realização de sessões de promoção da saúde e de prevenção da doença para o ensino até ao 12.º ano. | N.º de sessões. | Nível de conhecimento dos alunos.<br>Carga de doença após os 50 anos (*).<br>IEA - 3.1; 4.1; 4.2; 4.3. | . MS<br>. MEDU | DGS<br>DGEstE | PNS 2030 |
+|  |  | 2 - Realização de sessões de promoção da saúde e de prevenção da doença para o ensino superior. | N.º de sessões. | Nível de conhecimento dos alunos.<br>Carga de doença após os 50 anos (*).<br>IEA - 3.1; 4.1; 4.2; 4.3. | . MS<br>. MCTES<br>. - | DGS<br>DGES<br>CRUP/<br>CCISP<br>DGEstE ANQEP | PNS 2030 |
+|  |  | 3 - Realização de sessões de promoção da saúde e prevenção da doença para a população. | N.º de sessões. | Taxa de controlo de fatores de risco.<br>Taxa de participação em rastreios.<br>IEA - 3.1; 4.1; 4.2; 4.3. | . MS<br>. MEDU | DGS<br>DE-SNS<br>CSP/ULS<br>Inst. Ens. Sup.<br>ANQEP | PNS 2030 |
+|  |  | 4 - Aprovação e implementação de planos municipais de saúde com foco na promoção da saúde e bem-estar e na prevenção da doença. | N.º de planos municipais implementados. | Taxa de controlo de fatores de risco.<br>Taxa de participação em rastreios.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS<br>. MCT | ANMP<br>Municípios<br>ANQEP | PNS 2030 |
+|  |  | 5 - Programas municipais de atividade física de promoção da alimentação saudável e de apoio intensivo à cessação tabágica, ao longo do ciclo de vida. | N.º de programas implementados. | Taxa de controlo de fatores de risco.<br>Taxa de obesidade.<br>Taxa de tabagismo.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS<br>. MCT | ANMP<br>Municípios | PNS 2030 |
+|  |  | 6 - Apoiar os programas de desenvolvimento desportivo que promovam a generalização da prática desportiva em todas as idades e de âmbito informal, recreativo ou competitivo (não federado). | N.º de projetos apoiados. | Níveis de atividade física da população.<br>N.º de pessoas abrangidas.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MAAP | IPDJ | PNDpT |
+|  |  | 7 - Aumentar o conhecimento dos cidadãos sobre os benefícios da prática regular de atividade física, em todas as idades e de acordo com a sua capacidade. | N.º de downloads da APP SUAVA.<br>N.º de ativações da campanha. | Níveis de atividade física da população.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MAAP | IPDJ | SUAVA - PRR |
+|  |  | 8 - Avaliação dos níveis de atividade física dos utentes e aconselhamento breve para a sua promoção, por parte dos profissionais de saúde, no âmbito dos cuidados de saúde primários. | N.º de avaliações realizadas.<br>N.º de guias de aconselhamento breve emitidas. | Níveis de atividade física da população.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS | DGS<br>PNPAF<br>DE-SNS | PNS 2030<br>PNPAF |
+|  |  | 9 - Realização de intervenções breves de aconselhamento para a cessação tabágica. | N.º de Ações de Sensibilização para a prevenção do tabagismo.<br>N.º de utentes fumadores aconselhados por intervenção breve que deixa de fumar às 4 semanas. | Taxa de Tabagismo.<br>Taxa de utentes fumadores aconselhados a deixar de fumar.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS<br>. MCT | DGS<br>Municípios | PNS 2030 |
+|  |  | 10 - Realização de intervenções breves para aconselhamento da redução do consumo de álcool ao longo do ciclo de vida. | N.º de Ações de Sensibilização para a prevenção do alcoolismo. | Taxa de Alcoolismo.<br>IEA - 3.1; 4.1; 4.2; 4.3; 4.5. | . MS<br>. MCT | DGS<br>ICAD, I. P.<br>Municípios | PNS 2030 |
+|  | 2 - Prevenção da Mortalidade e Morbilidade Cardiovascular. | 11 - Realização de rastreios cardiovasculares. | N.º de ações de rastreio.<br>N.º de utentes rastreados. | Taxa de identificação de fatores de risco cardiovasculares.<br>IEA - 4.1; 4.2. | . MS | DE-SNS<br>SPC | PNS 2030 |
+|  |  | 12 - Controlo e prevenção dos fatores de risco cardiovasculares. | Taxa de controlo de fatores de risco cardiovasculares.<br>Taxa de realização do Programa de apoio intensivo à cessação tabágica.<br>Taxa de utentes com registo dos seus hábitos tabágicos na sua ficha clínica. | Taxa de EAM.<br>Taxa de AVC.<br>IEA - 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
+|  |  | 13 - Promoção da utilização da Via Verde Coronária. | Taxa de utilização da Via Verde Coronária. | Taxa de mortalidade por EAM.<br>Taxa de doentes com IC pós EAM.<br>IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS<br>INEM | PNS 2030 |
+|  |  | 14 - Promoção da utilização da Via Verde do AVC. | Taxa de utilização da Via Verde do AVC. | Taxa de mortalidade por AVC.<br>Taxa de doentes dependentes após AVC.<br>IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS<br>INEM | PNS 2030 |
+|  |  | 15 - Aumento da Rede de Desfibrilhação Automática Externa na comunidade. | N.º de planos municipais de DAE.<br>N.º de DAE.<br>N.º de operadores de SBV/DAE. | Taxa de redução na morte súbita nos casos de PCR.<br>IEA - 3.2; 4.1; 4.2. | . MS | Municípios<br>INEM | PNS 2030 |
+|  | 3 - Prevenção da mortalidade e morbilidade oncológica. | 16 - Promoção da realização de rastreios oncológicos. | N.º de ações de sensibilização. | Taxa de população com rastreios realizados.<br>IEA - 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
+|  |  | 17 - Realização de rastreios oncológicos. | N.º de rastreios. | Taxa de neoplasias em estadios precoces.<br>Taxa de mortalidade oncológica.<br>IEA - 3.2; 4.1; 4.2. | . MS | DE-SNS | PNS 2030 |
+|  | 4 - Promoção da saúde mental e prevenção da demência. | 18 - Programas de promoção da saúde mental ao longo do ciclo de vida. | N.º de programas implementados. | Taxa de doença mental (*).<br>Taxa de demências (*).<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CE-PNSD | PNS 2030<br>PNSD |
+|  |  | 19 - Programas de estimulação cognitiva e prevenção da doença mental. | N.º de programas implementados. | Taxa de doença mental (*).<br>Taxa de demências (*).<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>ANMP<br>CE-PNSD | PNS 2030<br>PNSD |
+|  |  | 20 - Rastreios de demências e doenças neurodegenerativas. | N.º de rastreios. | Taxa de deteção de demências em estádios precoces.<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CE-PNSD | PNS 2030<br>PNSD |
+|  |  | 21 - Programas de tratamento precoce de demências. | N.º de utentes em tratamento precoce. | Taxa de dependência por demência (*).<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CE-PNSD | PNS 2030<br>PNSD |
+|  |  | 22 - Rastreios de morbilidade psiquiátrica. | N.º de rastreios realizados. | Taxa de deteção de patologia mental com necessidade de tratamento.<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CNSM | PNS 2030<br>PNSM |
+|  |  | 23 - Promoção de respostas de proximidade em saúde mental para pessoas com mais de 65 anos. | % de serviços locais de saúde mental com equipas comunitárias estruturadas. | Variação do cumprimento dos tempos máximos de resposta garantidos para pessoas com mais de 65 anos.<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CNSM | PNS 2030<br>PNSM |
+|  |  | 24 - Implementação de respostas específicas de psiquiatria geriátrica nos serviços locais de saúde mental. | % de serviços locais de saúde mental com consultas/programas de psiquiatria geriátrica. | Variação do n.º de utentes seguidos em consultas de psiquiatria geriátrica.<br>IEA - 3.2; 4.2; 4.3. | . MS | DE-SNS<br>CNSM | PNS 2030<br>PNSM |
+|  | 5 - Promoção da saúde prevenção das morbilidade músculo-esquelético. | 25 - Programas de avaliação músculo-esquelética. | N.º de programas implementados. | Taxa de deteção de patologia músculo-esquelética precoce.<br>Taxa de dependência por patologia músculo-esquelética (*).<br>IEA - 3.2; 4.2. | . MS | DE-SNS<br>Municípios | PNS 2030 |
+|  |  | 26 - Programas de rastreio de osteoporose. | N.º de rastreios. | Taxa de deteção de osteoporose.<br>Taxa de fraturas osteoporóticas (*).<br>IEA - 3.2; 4.2. | . MS | DE-SNS | PNS 2030 |
+|  |  | 27 - Programas de exercício físico de manutenção e reabilitação. | N.º de programas implementados.<br>N.º de utentes em programas de exercício físico. | Taxa de dependência por patologia músculo-esquelética (*).<br>IEA - 3.1; 3.2; 4.1; 4.2; 4.3; 4.5. | . MS | DE-SNS<br>Municípios | PNS 2030 |
+|  | 6 - Promover um adequado estado nutricional. | 28 - Realização do rastreio nutricional nos Cuidados de Saúde Primários. | N.º de rastreios. | Taxa da população elegível com rastreio nutricional realizado.<br>IEA - 3.2; 4.2; 4.3. | . MS | DGS<br>DE-SNS | PNS 2030<br>PNPAS |
+|  |  | 29 - Promoção da otimização da oferta alimentar nas instituições que prestam apoio a idosos, nomeadamente através da atualização das orientações para alimentação presentes nos Manuais de Gestão da Qualidade das Respostas Sociais dirigidas para idosos. | N.º de Instituições com manuais atualizados. | Taxa de desnutrição nos idosos institucionalizados.<br>Taxa de obesidade nos idosos institucionalizados.<br>IEA - 3.2; 4.2; 4.3. | . MS<br>. MTSSS | DGS<br>ISS | PNS 2030<br>PNPAS |
 
 (*) Indicador de impacto a longo prazo.
 
 O subpilar i - Promoção da saúde e prevenção da doença possui 6 medidas, tendo sido definidas 29 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar II Cuidados integrados e de longa duração. | 1 - Reformar os Cuidados Integrados e de Longa Duração. | 1 - Assegurar um contínuo de cuidados que garantam o apoio mais adequado e com maior articulação entre os cuidados continuados, paliativos, estabelecimentos residenciais e apoios domiciliários e destes com o sistema pré-hospitalar, cuidados de saúde primários e hospitalar. | Reforma dos cuidados integrados e de longa duração. | N.º de pessoas com acesso a cuidados. Taxa de utentes com cuidados adequados. Grau de satisfação dos utentes. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MS . MTSSS | ISS ACSS, I. P. DE-SNS |  |
-|  | 2 - Acesso de proximidade aos cuidados de saúde através do SNS 24. | 2 - Ação de sensibilização para aumentar a utilização da Linha SNS 24 para as situações agudas de saúde. | N.º de utilizadores da linha SNS24. | % de idas aos serviços de urgência referenciados pela linha SNS 24. IEA - 3.2. | . MS | DE-SNS DGS |  |
-|  |  | 3 - Aumentar a acessibilidade aos cuidados de saúde de proximidade às populações mais vulneráveis e com maior dificuldade de deslocação, através dos Balcões de SNS 24. | N.º de concelhos com balcões SNS 24. N.º total de balcões SNS 24. N.º de balcões SNS 24 em ERPIs. | % de atos realizados sem deslocação a instituições do SNS. IEA - 3.2; 4.4. | . MS | SPMS Municípios IPSS |  |
-|  | 3 - Linha 60+. | 4 - Aumentar a acessibilidade aos cuidados de saúde e sociais através da Linha 60 +. | Implementação da linha 60 +. | % de respostas efetivas sem deslocação do cidadão. IEA - 3.2. | . MTSSS | ISS |  |
-|  | 4 - Gestor 60+. | 5 - Implementação de uma rede de gestores 60+, garantindo a resposta adequada aos cidadãos mais vulneráveis. | % de concelhos com Gestor 60+. N.º total de Gestores 60+. | % de população sem acesso a apoios sociais/saúde. IEA - 3.2; 3.3; 4.1; 4.2; 4.3. | . MTSSS | Municípios |  |
-|  | 5 - Alargar as vagas de internamento em cuidados continuados. | 6 - Aumentar o número de vagas de institucionalização em cuidados continuados. | N.º de vagas criadas. | % de utentes com critérios para institucionalização com vaga. % de agudizações com necessidade de internamento hospitalar. IEA - 3.2; 4.1; 4.2; 4.3. | . MTSSS . MS | ISS ACSS, I. P. UCCI DE-SNS | PRR |
-|  | 6 - Alargar as vagas de apoio domiciliário de cuidados continuados. | 7 - Aumentar o número de vagas com apoio domiciliário dos cuidados continuados. | N.º de vagas de apoio domiciliário. | % de utentes com resposta adequada de apoio no domicílio. % de utentes com necessidade de institucionalização. % de agudizações com necessidade de internamento hospitalar. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4. | . MTSSS . MS | ISS ACSS, I. P. UCCI DE-SNS | PRR |
-|  | 7 - Alargar o apoio de cuidados paliativos. | 8 - Aumentar a disponibilidade de vagas de internamento com cuidados paliativos. | N.º vagas de internamento criadas. | % de utentes com critérios para institucionalização com vaga. % de agudizações com necessidade de internamento hospitalar. IEA - 3.2. | . MS | ACSS, I. P. UCP DE-SNS | PRR |
-|  |  | 9 - Aumentar a disponibilidade de vagas de apoio domiciliário em cuidados paliativos. | N.º de equipas de apoio criadas. | % de utentes com resposta adequada de apoio no domicílio. % de utentes com necessidade de institucionalização. IEA - 3.2; 3.3; 4.3; 4.4. | . MS | ACSS, I. P. UCP DE-SNS | PRR |
-|  | 8 - Alargar e requalificar a rede de ERPIs. | 10 - Aumentar o número de vagas em ERPIs e requalificar a resposta com foco na preservação da autonomia. | N.º de vagas criadas ou remodeladas. | % de utentes com critérios para institucionalização com vaga. % de agudizações com necessidade de internamento hospitalar. IEA - 3.2; 4.1; 4.2; 4.3. | . MTSSS | ISS |  |
-|  | 9 - Dotar de DAE e capacitar para a sua utilização nos ERPIs. | 11 - Dotar os ERPIs com DAE e formação dos seus profissionais em SBV + DAE. | N.º de DAE disponibilizados. % de profissionais com capacitação. | % de reanimação de morte súbita nos ERPIs. % de casos após PCR com elevada dependência. IEA - 3.2; 4.1; 4.2. | . MS | INEM | PN DAE |
-|  | 10 - Respostas inovadoras. | 12 - Aumentar o número de vagas em respostas inovadoras (habitações colaborativas, co-housing, comunidades residenciais, etc.). | N.º de vagas criadas. | Grau de satisfação dos utentes. IEA - 3.2; 3.3; 3.6; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS | PRR |
-|  | 11 - SAD 4.0. | 13 - Alargar e qualificar os serviços de apoio domiciliário, com tecnologia e multidisciplinaridade. | N.º de viaturas elétricas de apoio ao SAD. Número de utentes do SAD 4.0. | % de utentes com manutenção de autonomia. % de utentes com recuperação de autonomia. % de utentes com necessidade de institucionalização. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS |  |
-|  | 12 - Qualidade dos cuidados. | 14 - Apoiar a certificação de qualidade dos cuidados prestados pelas unidades. | % de UCCI certificadas. % de UCP certificadas. % de ERPIs certificadas. % de cuidados domiciliários certificados. | Grau de satisfação dos utentes. % de internamentos por agudização. IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS . MTSSS | DE-SNS UCCI UCP ERPIs |  |
-|  | 13 - Cuidados inclusivos para situações de grande vulnerabilidade. | 15 - Assegurar que a prestação de cuidados inclui as pessoas com deficiência, sem abrigo, migrantes, incluindo refugiados, e comunidades ciganas. | % de vagas com prioridade para estas populações mais vulneráveis. | Taxa de acesso a cuidados pela população vulnerável. IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS . MS . MAAP | DE-SNS UCCI UCP ERPIs AIMA, I. P. |  |
-|  |  | 16 - Criação de estruturas e equipas municipais ou regionais que difundam os direitos e apoiem as populações mais vulneráveis. | N.º de estruturas criadas. | Taxa de acesso a cuidados pela população vulnerável. IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS Municípios |  |
-|  | 14 - Transportes para utentes vulneráveis. | 17 - Promover estratégias entre os promotores dos cuidados e os municípios para reforçar as soluções de transporte de doentes/utentes. | N.º de estratégias implementadas. | % de utentes sem acesso a cuidados. % de internamentos por ausência de acesso a cuidados de manutenção. IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS . MTSSS . MCT | DE-SNS Municípios |  |
-|  | 15 - Acesso e gestão da medicação dos mais vulneráveis. | 18 - Implementação de um programa de âmbito nacional de apoio à gestão da medicação dos utentes mais vulneráveis com envolvimento das farmácias da comunidade (incluindo utentes de ERPIs). | Implementação do programa. N.º de utentes com acesso ao programa. | % de erros, ausência ou toma incorreta da medicação. % de internamentos por erro na gestão da medicação. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS . MTSSS | OF Farmácias DE-SNS |  |
-|  |  | 19 - Garantir acesso à medicação a todos os que dela necessitem. | N.º de pessoas em programas de acesso a medicação. | N.º de pessoas sem acesso a medicação. % de pessoas sem acesso a medicação. % de agudizações de doença por ausência de acesso a medicação. IEA - 3.2; 3.6; 4.1; 4.2; 4.3. | . MTSSS . MS | ISS DE-SNS |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar II<br>Cuidados integrados e de longa duração. | 1 - Reformar os Cuidados Integrados e de Longa Duração. | 1 - Assegurar um contínuo de cuidados que garantam o apoio mais adequado e com maior articulação entre os cuidados continuados, paliativos, estabelecimentos residenciais e apoios domiciliários e destes com o sistema pré-hospitalar, cuidados de saúde primários e hospitalar. | Reforma dos cuidados integrados e de longa duração. | N.º de pessoas com acesso a cuidados.<br>Taxa de utentes com cuidados adequados.<br>Grau de satisfação dos utentes.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MS<br>. MTSSS | ISS<br>ACSS, I. P.<br>DE-SNS |  |
+|  | 2 - Acesso de proximidade aos cuidados de saúde através do SNS 24. | 2 - Ação de sensibilização para aumentar a utilização da Linha SNS 24 para as situações agudas de saúde. | N.º de utilizadores da linha SNS24. | % de idas aos serviços de urgência referenciados pela linha SNS 24.<br>IEA - 3.2. | . MS | DE-SNS<br>DGS |  |
+|  |  | 3 - Aumentar a acessibilidade aos cuidados de saúde de proximidade às populações mais vulneráveis e com maior dificuldade de deslocação, através dos Balcões de SNS 24. | N.º de concelhos com balcões SNS 24.<br>N.º total de balcões SNS 24.<br>N.º de balcões SNS 24 em ERPIs. | % de atos realizados sem deslocação a instituições do SNS.<br>IEA - 3.2; 4.4. | . MS | SPMS<br>Municípios<br>IPSS |  |
+|  | 3 - Linha 60+. | 4 - Aumentar a acessibilidade aos cuidados de saúde e sociais através da Linha 60 +. | Implementação da linha 60 +. | % de respostas efetivas sem deslocação do cidadão.<br>IEA - 3.2. | . MTSSS | ISS |  |
+|  | 4 - Gestor 60+. | 5 - Implementação de uma rede de gestores 60+, garantindo a resposta adequada aos cidadãos mais vulneráveis. | % de concelhos com Gestor 60+.<br>N.º total de Gestores 60+. | % de população sem acesso a apoios sociais/saúde.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3. | . MTSSS | Municípios |  |
+|  | 5 - Alargar as vagas de internamento em cuidados continuados. | 6 - Aumentar o número de vagas de institucionalização em cuidados continuados. | N.º de vagas criadas. | % de utentes com critérios para institucionalização com vaga.<br>% de agudizações com necessidade de internamento hospitalar.<br>IEA - 3.2; 4.1; 4.2; 4.3. | . MTSSS<br>. MS | ISS<br>ACSS, I. P.<br>UCCI<br>DE-SNS | PRR |
+|  | 6 - Alargar as vagas de apoio domiciliário de cuidados continuados. | 7 - Aumentar o número de vagas com apoio domiciliário dos cuidados continuados. | N.º de vagas de apoio domiciliário. | % de utentes com resposta adequada de apoio no domicílio.<br>% de utentes com necessidade de institucionalização.<br>% de agudizações com necessidade de internamento hospitalar.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4. | . MTSSS<br>. MS | ISS<br>ACSS, I. P.<br>UCCI<br>DE-SNS | PRR |
+|  | 7 - Alargar o apoio de cuidados paliativos. | 8 - Aumentar a disponibilidade de vagas de internamento com cuidados paliativos. | N.º vagas de internamento criadas. | % de utentes com critérios para institucionalização com vaga.<br>% de agudizações com necessidade de internamento hospitalar.<br>IEA - 3.2. | . MS | ACSS, I. P.<br>UCP<br>DE-SNS | PRR |
+|  |  | 9 - Aumentar a disponibilidade de vagas de apoio domiciliário em cuidados paliativos. | N.º de equipas de apoio criadas. | % de utentes com resposta adequada de apoio no domicílio.<br>% de utentes com necessidade de institucionalização.<br>IEA - 3.2; 3.3; 4.3; 4.4. | . MS | ACSS, I. P.<br>UCP<br>DE-SNS | PRR |
+|  | 8 - Alargar e requalificar a rede de ERPIs. | 10 - Aumentar o número de vagas em ERPIs e requalificar a resposta com foco na preservação da autonomia. | N.º de vagas criadas ou remodeladas. | % de utentes com critérios para institucionalização com vaga.<br>% de agudizações com necessidade de internamento hospitalar.<br>IEA - 3.2; 4.1; 4.2; 4.3. | . MTSSS | ISS |  |
+|  | 9 - Dotar de DAE e capacitar para a sua utilização nos ERPIs. | 11 - Dotar os ERPIs com DAE e formação dos seus profissionais em SBV + DAE. | N.º de DAE disponibilizados.<br>% de profissionais com capacitação. | % de reanimação de morte súbita nos ERPIs.<br>% de casos após PCR com elevada dependência.<br>IEA - 3.2; 4.1; 4.2. | . MS | INEM | PN DAE |
+|  | 10 - Respostas inovadoras. | 12 - Aumentar o número de vagas em respostas inovadoras (habitações colaborativas, co-housing, comunidades residenciais, etc.). | N.º de vagas criadas. | Grau de satisfação dos utentes.<br>IEA - 3.2; 3.3; 3.6; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS | PRR |
+|  | 11 - SAD 4.0. | 13 - Alargar e qualificar os serviços de apoio domiciliário, com tecnologia e multidisciplinaridade. | N.º de viaturas elétricas de apoio ao SAD.<br>Número de utentes do SAD 4.0. | % de utentes com manutenção de autonomia.<br>% de utentes com recuperação de autonomia.<br>% de utentes com necessidade de institucionalização.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS |  |
+|  | 12 - Qualidade dos cuidados. | 14 - Apoiar a certificação de qualidade dos cuidados prestados pelas unidades. | % de UCCI certificadas.<br>% de UCP certificadas.<br>% de ERPIs certificadas.<br>% de cuidados domiciliários certificados. | Grau de satisfação dos utentes.<br>% de internamentos por agudização.<br>IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS<br>. MTSSS | DE-SNS<br>UCCI<br>UCP<br>ERPIs |  |
+|  | 13 - Cuidados inclusivos para situações de grande vulnerabilidade. | 15 - Assegurar que a prestação de cuidados inclui as pessoas com deficiência, sem abrigo, migrantes, incluindo refugiados, e comunidades ciganas. | % de vagas com prioridade para estas populações mais vulneráveis. | Taxa de acesso a cuidados pela população vulnerável.<br>IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS<br>. MS<br>. MAAP | DE-SNS<br>UCCI<br>UCP<br>ERPIs<br>AIMA, I. P. |  |
+|  |  | 16 - Criação de estruturas e equipas municipais ou regionais que difundam os direitos e apoiem as populações mais vulneráveis. | N.º de estruturas criadas. | Taxa de acesso a cuidados pela população vulnerável.<br>IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MTSSS | ISS<br>Municípios |  |
+|  | 14 - Transportes para utentes vulneráveis. | 17 - Promover estratégias entre os promotores dos cuidados e os municípios para reforçar as soluções de transporte de doentes/utentes. | N.º de estratégias implementadas. | % de utentes sem acesso a cuidados.<br>% de internamentos por ausência de acesso a cuidados de manutenção.<br>IEA - 3.2; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS<br>. MTSSS<br>. MCT | DE-SNS<br>Municípios |  |
+|  | 15 - Acesso e gestão da medicação dos mais vulneráveis. | 18 - Implementação de um programa de âmbito nacional de apoio à gestão da medicação dos utentes mais vulneráveis com envolvimento das farmácias da comunidade (incluindo utentes de ERPIs). | Implementação do programa.<br>N.º de utentes com acesso ao programa. | % de erros, ausência ou toma incorreta da medicação.<br>% de internamentos por erro na gestão da medicação.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4: 4.5. | . MS<br>. MTSSS | OF<br>Farmácias<br>DE-SNS |  |
+|  |  | 19 - Garantir acesso à medicação a todos os que dela necessitem. | N.º de pessoas em programas de acesso a medicação. | N.º de pessoas sem acesso a medicação.<br>% de pessoas sem acesso a medicação.<br>% de agudizações de doença por ausência de acesso a medicação.<br>IEA - 3.2; 3.6; 4.1; 4.2; 4.3. | . MTSSS<br>. MS | ISS<br>DE-SNS |  |
 
 O subpilar ii - Cuidados integrados e de longa duração possui 15 medidas, tendo sido definidas 19 atividades concretas a serem priorizadas no âmbito deste Plano.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar III Capacitação dos cuidadores e melhoria das condições de prestação de cuidados. | 1 - Criação de um Centro de Competências de Envelhecimento Ativo. | 1 - Criação do Centro de Competências com foco na formação e capacitação nas temáticas do envelhecimento ativo, incluindo os cuidadores. | Criação do Centro. | IEA - todos os indicadores. | . MTSSS | IEFP |  |
-|  | 2 - Capacitação dos gestores de instituições prestadoras de cuidados. | 2 - Organização de cursos de capacitação de gestores de IPSS e outras instituições de prestação de cuidados. | N.º de formandos. | % de instituições com melhoria da sustentabilidade. % de instituições com certificação de qualidade. % de instituições com melhoria da satisfação dos utentes. % de instituições com melhoria da taxa de hospitalizações por agudizações. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CEIS IEFP |  |
-|  | 3 - Capacitação dos profissionais graduados. | 3 - Organização de cursos de capacitação dos profissionais graduados para a temática do envelhecimento ativo. | N.º de formandos. | Grau de satisfação dos utentes na prestação de cuidados. Taxa de hospitalizações por agudização. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP |  |
-|  | 4 - Capacitação dos profissionais com funções operacionais na prestação de cuidados. | 4 - Organização de cursos de capacitação certificados para os profissionais não graduados na temática do envelhecimento ativo. | N.º de formandos. | Grau de satisfação dos utentes na prestação de cuidados. Taxa de hospitalizações por agudização. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP |  |
-|  |  | 5 - Organização de cursos de capacitação certificados para os profissionais na temática da alimentação e nutrição. | N.º de formandos. | Grau de satisfação dos utentes relativo à alimentação. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS . MS | CCEA IEFP | PNS 2030 |
-|  | 5 - Promover a igualdade entre mulheres e homens na prestação de cuidados. | 6 - Promoção de ações para sensibilização das instituições para a igualdade de oportunidades independentemente do sexo, quer seja na prestação de cuidados quer seja nos cargos de direção. | N.º de instituições com ações de sensibilização realizadas. | Diferença em % entre mulheres e homens na prestação de cuidados. Diferença de % entre mulheres e homens nos cargos de direção. Diferença de rendimentos entre mulheres e homens. IEA - 1.1; 1.2; 1.3; 3.4. | . MTSSS . MAAP | CCEA IPSS CIG; CITE |  |
-|  | 6 - Melhoria das condições dos profissionais cuidadores. | 7 - Revisão e melhoria da carreira de profissionais. | Revisão da carreira. | Taxa de retenção de profissionais nas instituições. IEA - 3.2; 3.5. | . MTSSS . MS | ISS ACSS, I. P. IPSS |  |
-|  | 7 - Capacitação dos cuidadores informais. | 8 - Organização de cursos de capacitação certificados para os cuidadores informais na temática do envelhecimento ativo. | N.º de formandos. % de cuidadores informais com formação. | % de internamentos por agudização dos utentes. IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP |  |
-|  |  | 9 - Organização de cursos de capacitação certificados para os cuidadores informais na temática da alimentação e nutrição. | N.º de formandos. % de cuidadores informais com formação. | % de internamentos por agudização dos utentes. IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP | PNS2030 PNPAS |
-|  | 8 - Melhoria das condições para os cuidadores informais. | 10 - Concretização plena dos apoios aos cuidadores informais previstas no estatuto. | Concretização das medidas do estatuto de cuidadores informais. | Taxa de acesso a cuidados. IEA - 3.2; 3.3; 3.5; 3.6. | . MTSSS | ISS |  |
-|  |  | 11 - Linha de apoio aos cuidadores informais (Utilização da linha lares). | % de cuidadores informais com apoio. | Grau de satisfação do cuidador. % de internamentos por agudização dos utentes. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS SCML/ABC |  |
-|  |  | 12 - Ligação dos cuidadores informais ao apoio domiciliário. | % de cuidadores com ligação a apoio domiciliário. | % de internamentos por agudização dos utentes. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
-|  | 9 - Aumentar a participação dos cuidadores informais não familiares. | 13 - Definir e implementar medidas de apoio aos cuidadores individuais não familiares. | N.º de cuidadores não familiares com apoio. N.º de utentes com apoio. | Taxa de acesso a cuidados. IEA - 3.2; 3.3; 3.5; 3.6. | . MTSSS | CCEA IEFP |  |
-|  |  | 14 - Capacitar os cuidadores individuais não familiares. | N.º de cuidadores não familiares capacitados. | % de internamentos por agudização dos utentes. IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP |  |
-|  | 10 - Capacitação dos profissionais para a gestão da qualidade dos cuidados. | 15 - Capacitação dos profissionais das instituições para a gestão da qualidade da prestação de cuidados. | N.º de formandos. % de instituições com certificação de qualidade. | Grau de satisfação dos utentes. Taxa de hospitalizações por agudizações. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA IEFP |  |
-|  | 11 - Apoio aos processos de certificação de qualidade. | 16 - Apoiar a implementação de processos de qualidade das instituições. | N.º de instituições apoiadas. % de instituições com certificação de qualidade. | Grau de satisfação dos utentes. Taxa de hospitalizações por agudizações. IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA RePEnSA |  |
-|  | 12 - Promoção de boas práticas. | 17 - Organização de iniciativas de partilha de boas práticas entre os cuidadores formais e informais. | N.º de iniciativas. N.º de boas práticas replicadas. | Grau de satisfação dos utentes. IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS . MS | DE-SNS CCEA IEFP |  |
-|  | 13 - Criação do manual de boas práticas de prestação de cuidados. | 18 - Criação e disponibilização do manual de boas práticas de prestação de cuidados. | Disponibilização do manual. | Grau de satisfação dos utentes. Taxa de hospitalizações por agudizações. IEA - 3.1; 3.2; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA |  |
-|  | 14 - Capacitação da população para o autocuidado. | 19 - Organização e difusão de iniciativas de capacitação de autocuidado. | N.º de iniciativas. | % de internamentos por ausência de autocuidado. IEA - 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA Coletividades |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar III<br>Capacitação dos cuidadores e melhoria das condições de prestação de cuidados. | 1 - Criação de um Centro de Competências de Envelhecimento Ativo. | 1 - Criação do Centro de Competências com foco na formação e capacitação nas temáticas do envelhecimento ativo, incluindo os cuidadores. | Criação do Centro. | IEA - todos os indicadores. | . MTSSS | IEFP |  |
+|  | 2 - Capacitação dos gestores de instituições prestadoras de cuidados. | 2 - Organização de cursos de capacitação de gestores de IPSS e outras instituições de prestação de cuidados. | N.º de formandos. | % de instituições com melhoria da sustentabilidade.<br>% de instituições com certificação de qualidade.<br>% de instituições com melhoria da satisfação dos utentes.<br>% de instituições com melhoria da taxa de hospitalizações por agudizações.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CEIS<br>IEFP |  |
+|  | 3 - Capacitação dos profissionais graduados. | 3 - Organização de cursos de capacitação dos profissionais graduados para a temática do envelhecimento ativo. | N.º de formandos. | Grau de satisfação dos utentes na prestação de cuidados.<br>Taxa de hospitalizações por agudização.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP |  |
+|  | 4 - Capacitação dos profissionais com funções operacionais na prestação de cuidados. | 4 - Organização de cursos de capacitação certificados para os profissionais não graduados na temática do envelhecimento ativo. | N.º de formandos. | Grau de satisfação dos utentes na prestação de cuidados.<br>Taxa de hospitalizações por agudização.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP |  |
+|  |  | 5 - Organização de cursos de capacitação certificados para os profissionais na temática da alimentação e nutrição. | N.º de formandos. | Grau de satisfação dos utentes relativo à alimentação.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS<br>. MS | CCEA<br>IEFP | PNS 2030 |
+|  | 5 - Promover a igualdade entre mulheres e homens na prestação de cuidados. | 6 - Promoção de ações para sensibilização das instituições para a igualdade de oportunidades independentemente do sexo, quer seja na prestação de cuidados quer seja nos cargos de direção. | N.º de instituições com ações de sensibilização realizadas. | Diferença em % entre mulheres e homens na prestação de cuidados.<br>Diferença de % entre mulheres e homens nos cargos de direção.<br>Diferença de rendimentos entre mulheres e homens.<br>IEA - 1.1; 1.2; 1.3; 3.4. | . MTSSS<br>. MAAP | CCEA<br>IPSS<br>CIG; CITE |  |
+|  | 6 - Melhoria das condições dos profissionais cuidadores. | 7 - Revisão e melhoria da carreira de profissionais. | Revisão da carreira. | Taxa de retenção de profissionais nas instituições.<br>IEA - 3.2; 3.5. | . MTSSS<br>. MS | ISS<br>ACSS, I. P.<br>IPSS |  |
+|  | 7 - Capacitação dos cuidadores informais. | 8 - Organização de cursos de capacitação certificados para os cuidadores informais na temática do envelhecimento ativo. | N.º de formandos.<br>% de cuidadores informais com formação. | % de internamentos por agudização dos utentes.<br>IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP |  |
+|  |  | 9 - Organização de cursos de capacitação certificados para os cuidadores informais na temática da alimentação e nutrição. | N.º de formandos.<br>% de cuidadores informais com formação. | % de internamentos por agudização dos utentes.<br>IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP | PNS2030<br>PNPAS |
+|  | 8 - Melhoria das condições para os cuidadores informais. | 10 - Concretização plena dos apoios aos cuidadores informais previstas no estatuto. | Concretização das medidas do estatuto de cuidadores informais. | Taxa de acesso a cuidados.<br>IEA - 3.2; 3.3; 3.5; 3.6. | . MTSSS | ISS |  |
+|  |  | 11 - Linha de apoio aos cuidadores informais (Utilização da linha lares). | % de cuidadores informais com apoio. | Grau de satisfação do cuidador.<br>% de internamentos por agudização dos utentes.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS<br>SCML/ABC |  |
+|  |  | 12 - Ligação dos cuidadores informais ao apoio domiciliário. | % de cuidadores com ligação a apoio domiciliário. | % de internamentos por agudização dos utentes.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
+|  | 9 - Aumentar a participação dos cuidadores informais não familiares. | 13 - Definir e implementar medidas de apoio aos cuidadores individuais não familiares. | N.º de cuidadores não familiares com apoio.<br>N.º de utentes com apoio. | Taxa de acesso a cuidados.<br>IEA - 3.2; 3.3; 3.5; 3.6. | . MTSSS | CCEA<br>IEFP |  |
+|  |  | 14 - Capacitar os cuidadores individuais não familiares. | N.º de cuidadores não familiares capacitados. | % de internamentos por agudização dos utentes.<br>IEA - 2.1; 2.3; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP |  |
+|  | 10 - Capacitação dos profissionais para a gestão da qualidade dos cuidados. | 15 - Capacitação dos profissionais das instituições para a gestão da qualidade da prestação de cuidados. | N.º de formandos.<br>% de instituições com certificação de qualidade. | Grau de satisfação dos utentes.<br>Taxa de hospitalizações por agudizações.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>IEFP |  |
+|  | 11 - Apoio aos processos de certificação de qualidade. | 16 - Apoiar a implementação de processos de qualidade das instituições. | N.º de instituições apoiadas.<br>% de instituições com certificação de qualidade. | Grau de satisfação dos utentes.<br>Taxa de hospitalizações por agudizações.<br>IEA - 3.1; 3.2; 3.3; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>RePEnSA |  |
+|  | 12 - Promoção de boas práticas. | 17 - Organização de iniciativas de partilha de boas práticas entre os cuidadores formais e informais. | N.º de iniciativas.<br>N.º de boas práticas replicadas. | Grau de satisfação dos utentes.<br>IEA - 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS<br>. MS | DE-SNS<br>CCEA<br>IEFP |  |
+|  | 13 - Criação do manual de boas práticas de prestação de cuidados. | 18 - Criação e disponibilização do manual de boas práticas de prestação de cuidados. | Disponibilização do manual. | Grau de satisfação dos utentes.<br>Taxa de hospitalizações por agudizações.<br>IEA - 3.1; 3.2; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA |  |
+|  | 14 - Capacitação da população para o autocuidado. | 19 - Organização e difusão de iniciativas de capacitação de autocuidado. | N.º de iniciativas. | % de internamentos por ausência de autocuidado.<br>IEA - 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>Coletividades |  |
 
 O subpilar iii - Capacitação dos cuidadores e melhoria das condições de prestação de cuidados possui 14 medidas, tendo sido definidas 19 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Pilar II - Autonomia e Vida Independente
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Vida Independente. | 1 - Promover o Programa de «Radar Social». | 1 - Implementar um sistema integrado de sinalização de idosos isolados com garantia de integração na rede social e contacto regular. | Número de concelhos com equipas de Radar Social. | % de idosos com integração social. IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MTSSS | ISS | PRR |
-|  | 2 - Censos Sénior/A solidariedade não tem idade. | 2 - Realização de operações nacionais, em larga escala, de sensibilização e sinalização de pessoas idosas em situação de vulnerabilidade acrescida (GNR e PSP). | N.º de operações. | % de idosos com integração social. IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR e PSP Municípios MTSSS, MS | Estratégia Integrada de Segurança Urbana. |
-|  | 3 - Combater o isolamento da população idosa nos territórios de baixa densidade. | 3 - Programas de acompanhamento e visitas regulares com a população mais idosa nos territórios de baixa densidade. | N.º de visitas realizadas. N.º de idosos acompanhados. | % de idosos com integração social. Taxa de violência. IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR PSP |  |
-|  | 4 - Soluções inovadoras de Habitação colaborativa. | 4 - Promoção de soluções inovadoras de habitação colaborativa que promovam a autonomia e a vida independente. | N.º de utentes em habitação colaborativa. | Taxa de dependência com necessidade de institucionalização (*). IEA - 3.3; 3.6; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
-|  | 5 - Apostar em unidades de reforço de autonomia. | 5 - Incrementar as unidades de apoio que preservem e reforcem a autonomia das pessoas idosas. | N.º de vagas nas unidades. | Taxa de dependência com necessidade de institucionalização (*). IEA - 3.3; 3.6; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
-|  | 6 - Apostar nos serviços de apoio domiciliário integrados de nova geração. | 6 - Apoio domiciliário diferenciado e com utilização das novas tecnologias, com foco na independência e autonomia. | N.º de vagas de apoio domiciliário. | Taxa de dependência com necessidade de institucionalização. IEA: 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS | PRR |
-|  | 7 - Capacitação para utilizar aplicações que preservam a autonomia. | 7 - Capacitar a população mais necessitada a utilizar aplicações de preservação da autonomia e manutenção da vida ativa e independente. | N.º de utilizadores. | Taxa de dependência com necessidade de institucionalização. IEA: 3.2; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA RUTIS |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Vida Independente. | 1 - Promover o Programa de «Radar Social». | 1 - Implementar um sistema integrado de sinalização de idosos isolados com garantia de integração na rede social e contacto regular. | Número de concelhos com equipas de Radar Social. | % de idosos com integração social.<br>IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MTSSS | ISS | PRR |
+|  | 2 - Censos Sénior/A solidariedade não tem idade. | 2 - Realização de operações nacionais, em larga escala, de sensibilização e sinalização de pessoas idosas em situação de vulnerabilidade acrescida (GNR e PSP). | N.º de operações. | % de idosos com integração social.<br>IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR e PSP<br>Municípios<br>MTSSS,<br>MS | Estratégia Integrada de Segurança Urbana. |
+|  | 3 - Combater o isolamento da população idosa nos territórios de baixa densidade. | 3 - Programas de acompanhamento e visitas regulares com a população mais idosa nos territórios de baixa densidade. | N.º de visitas realizadas.<br>N.º de idosos acompanhados. | % de idosos com integração social.<br>Taxa de violência.<br>IEA - 3.2; 3.3; 3.4; 3.5; 3.6; 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR<br>PSP |  |
+|  | 4 - Soluções inovadoras de Habitação colaborativa. | 4 - Promoção de soluções inovadoras de habitação colaborativa que promovam a autonomia e a vida independente. | N.º de utentes em habitação colaborativa. | Taxa de dependência com necessidade de institucionalização (*).<br>IEA - 3.3; 3.6; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
+|  | 5 - Apostar em unidades de reforço de autonomia. | 5 - Incrementar as unidades de apoio que preservem e reforcem a autonomia das pessoas idosas. | N.º de vagas nas unidades. | Taxa de dependência com necessidade de institucionalização (*).<br>IEA - 3.3; 3.6; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS |  |
+|  | 6 - Apostar nos serviços de apoio domiciliário integrados de nova geração. | 6 - Apoio domiciliário diferenciado e com utilização das novas tecnologias, com foco na independência e autonomia. | N.º de vagas de apoio domiciliário. | Taxa de dependência com necessidade de institucionalização.<br>IEA: 3.2; 3.3; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | ISS | PRR |
+|  | 7 - Capacitação para utilizar aplicações que preservam a autonomia. | 7 - Capacitar a população mais necessitada a utilizar aplicações de preservação da autonomia e manutenção da vida ativa e independente. | N.º de utilizadores. | Taxa de dependência com necessidade de institucionalização.<br>IEA: 3.2; 3.8; 4.1; 4.2; 4.3; 4.4; 4.5. | . MTSSS | CCEA<br>RUTIS |  |
 
 (*) Indicador de impacto a longo prazo.
 
 O subpilar i - Vida independente possui 7 medidas, tendo sido definidas 7 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar II Ambientes Seguros. | 1 - 1.º Direito - Programa de Apoio no Acesso à Habitação. | 1 - Programa de Apoio ao Acesso à Habitação, com promoção de soluções habitacionais para pessoas em condições habitacionais indignas e que não dispõem de capacidade financeira. | N.º Habitações Acessíveis. N.º de famílias apoiadas. | Taxa de idosos sem habitação acessível. IEA - 3.3; 3.5; 3.6; 3.7. | . MH | IHRU CIM AM Autarquias | Nova Geração de Políticas de Habitação/Lei de Bases da Habitação. |
-|  | 2 - Nova Geração de Cooperativismo. | 2 - Nova geração de cooperativismo para a promoção de habitação acessível com o desenvolvimento de projetos de uma forma intergeracional, incluindo habitação colaborativa (co-housing). | N.º de habitações integradas em modelos cooperativos e intergeracionais. | Taxa de idosos a viver nos projetos cooperativos de caracter intergeracional. IEA - 3.3; 3.5; 3.6; 3.7; 4.5. | . MH |  | Programa Mais Habitação. |
-|  |  | 3 - Reabilitação com vista ao aumento da eficiência energética e do conforto térmico das habitações. | N.º de habitações sujeitas a reabilitação energética. | Consumo energético habitacional. Taxa de internamentos por infeção respiratória. Taxa de internamentos por calor. IEA - 3.3; 3.5; 3.6; 3.7. | . MH . MAAC . MS | IHRU CIM AM Autarquias | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
-|  |  | 4 - Promover processos de reabilitação do parque habitacional tornando-as mais acessíveis e seguras para a população idosa. | N.º de habitações reabilitadas com acessibilidade melhorada. | Taxa de internamentos por fraturas. IEA - 3.3; 3.5; 3.6; 3.7; 4.2. | . MH . MS | IHRU CIM AM Autarquias | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
-|  | 3 - Aplicação de boas práticas na gestão do parque habitacional público. | 5 - Dotar as habitações de condições adequadas às dos utilizadores (nomeadamente através da substituição de banheiras por bases de chuveiro). | N.º de habitações adaptadas. | Taxa de internamentos por fraturas. IEA - 3.3; 3.7; 4.2. | . MH . MS | IHRU | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
-|  | 4 - Adaptação das habitações. | 6 - Adaptação das habitações com preservação da vida autónoma e remoção de barreiras. | N.º de habitações adaptadas. | Taxa de internamentos por fraturas. IEA - 3.3; 3.7; 4.2. | . MTSSS | ISS CIM Municípios | PRR |
-|  |  | 7 - Criar sistema nacional de controlo, disponibilização e reutilização de ajudas técnicas aos cidadãos com dependência. | N.º de cidadãos apoiados. | Taxa de necessidade de institucionalização. IEA - 3.2; 3.3; 3.7. | . MTSSS | Municípios Associações de doentes | PRR |
-|  | 5 - Segurança no local de residência. | 8 - Reforçar as medidas de prevenção e de segurança das pessoas idosas, no que se refere à exposição a riscos naturais (nomeadamente incêndios rurais, cheias e deslizamento de terras). | N.º de aglomerados abrangidos. | N.º de óbitos por situações de risco. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC. Municípios Freguesias | Aldeia segura, Pessoa segura |
-|  |  | 9 - Educação e formação ou campanhas de sensibilização face aos riscos. | N.º de folhetos distribuídos. | N.º de óbitos por situações de risco. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC | ENPCP |
-|  |  | 10 - Sensibilização sobre prevenção de comportamentos de risco face aos incêndios rurais. | N.º de idosos abrangidos. | N.º de feridos nos incêndios. N.º de óbitos nos incêndios. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC Municípios Freguesias | Aldeia segura, Pessoa segura |
-|  |  | 11 - Sistema de avisos direcionados à população idosa em situação de vulnerabilidade. | N.º de avisos emitidos. | Taxa de violência contra idosos. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC | ENPCP |
-|  | 6 - Apoio 65+ Idosos em segurança. | 12 - Ações de sensibilização de segurança. | N.º de ações. N.º de pessoas abrangidas. | Taxa de violência contra idosos. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR e PSP Municípios MTSSS, MS | Estratégia Integrada de Segurança Urbana. |
-|  | 7 - Policiamento de proximidade dirigido à população idosa. | 13 - Elaboração do Guia e integração das suas orientações nas ações realizadas no âmbito dos CLS. | Elaboração do Guia. | Taxa de violência contra idosos. IEA - 3.7; 3.8. | . MAI | GNR e PSP CCCLS | Estratégia Integrada de Segurança Urbana. |
-|  | 8 - Implementação do Sistema de Teleassistência a Pessoas Vulneráveis - eGuard (GNR). | 14 - Disseminação do projeto a todas as unidades territoriais da GNR de Portugal Continental. | % de unidades territoriais abrangidas. | Taxa de utilização de tecnologia. Taxa de violência contra idosos. IEA - 3.2; 3.3; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MAI | GNR e PSP Municípios MTSSS, MS Privados | Estratégia Integrada de Segurança Urbana. |
-|  | 9 - Prevenção da violência, abuso e negligência. | 15 - Realização de campanha de sensibilização para a violência, abuso e negligência. | N.º de campanhas. | Taxa de denúncia de violência. Taxa de violência contra idosos. IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MTSSS . MAI . MAAP | CIG APAV Outras inst. |  |
-|  |  | 16 - Formação para prevenção da violência. | N.º de ações de formação. | Taxa de denúncia de violência. Taxa de violência contra idosos. IEA - 3.7; 3.8; 4.1; 4.2; 4.3; 4.5. | . MTSSS . MAI . MAAP | CIG APAV Outras Inst. |  |
-|  | 10 - Apoio e atuação nas denúncias de violência. | 17 - Linha 60 + para apoio à gestão da violência contra idosos. |  | Taxa de denúncia de violência. Taxa de violência contra idosos. IEA - 3.2; 3.7; 3.8; 4.1; 4.2; 4.3; 4.5. | . MTSSS | ISS | PT 2030 |
+|  |  |  |  |  |  |  |  |
+| Subpilar II<br>Ambientes Seguros. | 1 - 1.º Direito - Programa de Apoio no Acesso à Habitação. | 1 - Programa de Apoio ao Acesso à Habitação, com promoção de soluções habitacionais para pessoas em condições habitacionais indignas e que não dispõem de capacidade financeira. | N.º Habitações Acessíveis.<br>N.º de famílias apoiadas. | Taxa de idosos sem habitação acessível.<br>IEA - 3.3; 3.5; 3.6; 3.7. | . MH | IHRU<br>CIM<br>AM<br>Autarquias | Nova Geração de Políticas de Habitação/Lei de Bases da Habitação. |
+|  | 2 - Nova Geração de Cooperativismo. | 2 - Nova geração de cooperativismo para a promoção de habitação acessível com o desenvolvimento de projetos de uma forma intergeracional, incluindo habitação colaborativa (co-housing). | N.º de habitações integradas em modelos cooperativos e intergeracionais. | Taxa de idosos a viver nos projetos cooperativos de caracter intergeracional.<br>IEA - 3.3; 3.5; 3.6; 3.7; 4.5. | . MH |  | Programa Mais Habitação. |
+|  |  | 3 - Reabilitação com vista ao aumento da eficiência energética e do conforto térmico das habitações. | N.º de habitações sujeitas a reabilitação energética. | Consumo energético habitacional.<br>Taxa de internamentos por infeção respiratória.<br>Taxa de internamentos por calor.<br>IEA - 3.3; 3.5; 3.6; 3.7. | . MH<br>. MAAC<br>. MS | IHRU<br>CIM<br>AM<br>Autarquias | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
+|  |  | 4 - Promover processos de reabilitação do parque habitacional tornando-as mais acessíveis e seguras para a população idosa. | N.º de habitações reabilitadas com acessibilidade melhorada. | Taxa de internamentos por fraturas.<br>IEA - 3.3; 3.5; 3.6; 3.7; 4.2. | . MH<br>. MS | IHRU<br>CIM<br>AM<br>Autarquias | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
+|  | 3 - Aplicação de boas práticas na gestão do parque habitacional público. | 5 - Dotar as habitações de condições adequadas às dos utilizadores (nomeadamente através da substituição de banheiras por bases de chuveiro). | N.º de habitações adaptadas. | Taxa de internamentos por fraturas.<br>IEA - 3.3; 3.7; 4.2. | . MH<br>. MS | IHRU | Programa 1.º DT/PRR/Nova Geração de Políticas de Habitação. |
+|  | 4 - Adaptação das habitações. | 6 - Adaptação das habitações com preservação da vida autónoma e remoção de barreiras. | N.º de habitações adaptadas. | Taxa de internamentos por fraturas.<br>IEA - 3.3; 3.7; 4.2. | . MTSSS | ISS<br>CIM<br>Municípios | PRR |
+|  |  | 7 - Criar sistema nacional de controlo, disponibilização e reutilização de ajudas técnicas aos cidadãos com dependência. | N.º de cidadãos apoiados. | Taxa de necessidade de institucionalização.<br>IEA - 3.2; 3.3; 3.7. | . MTSSS | Municípios<br>Associações<br>de doentes | PRR |
+|  | 5 - Segurança no local de residência. | 8 - Reforçar as medidas de prevenção e de segurança das pessoas idosas, no que se refere à exposição a riscos naturais (nomeadamente incêndios rurais, cheias e deslizamento de terras). | N.º de aglomerados abrangidos. | N.º de óbitos por situações de risco.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC.<br>Municípios<br>Freguesias | Aldeia segura, Pessoa segura |
+|  |  | 9 - Educação e formação ou campanhas de sensibilização face aos riscos. | N.º de folhetos distribuídos. | N.º de óbitos por situações de risco.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC | ENPCP |
+|  |  | 10 - Sensibilização sobre prevenção de comportamentos de risco face aos incêndios rurais. | N.º de idosos abrangidos. | N.º de feridos nos incêndios.<br>N.º de óbitos nos incêndios.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC<br>Municípios<br>Freguesias | Aldeia segura, Pessoa segura |
+|  |  | 11 - Sistema de avisos direcionados à população idosa em situação de vulnerabilidade. | N.º de avisos emitidos. | Taxa de violência contra idosos.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | ANEPC | ENPCP |
+|  | 6 - Apoio 65+ Idosos em segurança. | 12 - Ações de sensibilização de segurança. | N.º de ações.<br>N.º de pessoas abrangidas. | Taxa de violência contra idosos.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MAI | GNR e PSP<br>Municípios<br>MTSSS,<br>MS | Estratégia Integrada de Segurança Urbana. |
+|  | 7 - Policiamento de proximidade dirigido à população idosa. | 13 - Elaboração do Guia e integração das suas orientações nas ações realizadas no âmbito dos CLS. | Elaboração do Guia. | Taxa de violência contra idosos.<br>IEA - 3.7; 3.8. | . MAI | GNR e PSP<br>CCCLS | Estratégia Integrada de Segurança Urbana. |
+|  | 8 - Implementação do Sistema de Teleassistência a Pessoas Vulneráveis - eGuard (GNR). | 14 - Disseminação do projeto a todas as unidades territoriais da GNR de Portugal Continental. | % de unidades territoriais abrangidas. | Taxa de utilização de tecnologia.<br>Taxa de violência contra idosos.<br>IEA - 3.2; 3.3; 3.7; 4.1; 4.2; 4.3; 4.4; 4.5. | . MAI | GNR e PSP<br>Municípios<br>MTSSS, MS<br>Privados | Estratégia Integrada de Segurança Urbana. |
+|  | 9 - Prevenção da violência, abuso e negligência. | 15 - Realização de campanha de sensibilização para a violência, abuso e negligência. | N.º de campanhas. | Taxa de denúncia de violência.<br>Taxa de violência contra idosos.<br>IEA - 3.7; 4.1; 4.2; 4.3; 4.5. | . MTSSS<br>. MAI<br>. MAAP | CIG<br>APAV<br>Outras inst. |  |
+|  |  | 16 - Formação para prevenção da violência. | N.º de ações de formação. | Taxa de denúncia de violência.<br>Taxa de violência contra idosos.<br>IEA - 3.7; 3.8; 4.1; 4.2; 4.3; 4.5. | . MTSSS<br>. MAI<br>. MAAP | CIG<br>APAV<br>Outras Inst. |  |
+|  | 10 - Apoio e atuação nas denúncias de violência. | 17 - Linha 60 + para apoio à gestão da violência contra idosos. |  | Taxa de denúncia de violência.<br>Taxa de violência contra idosos.<br>IEA - 3.2; 3.7; 3.8; 4.1; 4.2; 4.3; 4.5. | . MTSSS | ISS | PT 2030 |
 
 O subpilar ii - Ambientes seguros possui 10 medidas, tendo sido definidas 17 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar III Ambientes acessíveis. | 1 - Melhorar a acessibilidade às habitações. | 1 - Transferir a população com limitações na mobilidade de andares superiores para andares inferiores. | N.º de transferências realizadas. | Taxa de institucionalizações de idosos por inacessibilidade. IEA - 3.3; 3.7. | . MH . MTSSS | IHRU | Plano de gestão do parque habitacional do IHRU. |
-|  |  | 2 - Prover os edifícios de rampas ou de plataformas mecânicas tornando-os assim acessíveis. | N.º de edifícios adaptados. | Taxa de institucionalizações de idosos por inacessibilidade. IEA - 3.3; 3.7. | . MH . MTSSS | IHRU | Plano de reabilitação e manutenção do parque habitacional do IHRU. |
-|  | 2 - Cidades acessíveis. | 3 - Mobilizar as autarquias para remoção das barreiras à mobilidade das pessoas nas cidades. | N.º de Municípios que aderiram. | Taxa de fraturas por quedas no espaço público. IEA - 3.3; 3.7; 4.5. | . MCT | Municípios |  |
-|  | 3 - Cidades e Bairros Intergeracionais. | 4 - Difusão de boas práticas com aposta em bairros que promovam a mistura de gerações. | N.º de Municípios que aderiram. | Taxa de inclusão social. IEA - 3.3; 4.5. | . MCT | Municípios | Plano Nacional da Habitação |
-|  | 4 - Promoção de espaços para lazer nas cidades. | 5 - Implementar programas que promovam a existência de espaços públicos que favoreçam a vida independente para as pessoas. | N.º de Municípios que aderiram. | Taxa de idosos independentes. IEA - 3.3; 3.7. | . MCT | Municípios |  |
-|  | 5 - Disponibilizar transportes acessíveis. | 6 - Disponibilizar transportes plenamente acessíveis, adaptados para pessoas com mobilidade reduzida e age-friendly. | N.º de transportes plenamente acessíveis. | Taxa de utilização de transporte público. Taxa de utilização de transporte ferroviário. IEA - 3.3; 3.7; 4.5. | . MI | Municípios Empresas Transportes Públicos |  |
-|  | 6 - Disponibilização de serviços públicos de proximidade. | 7 - Criação de formas de atendimento de proximidade com utilização das novas tecnologias. | N.º de serviços passíveis de utilização por acesso por smartphone. | Taxa de utilização das tecnologias. IEA - 4.4. | . Várias | Entidades públicas |  |
-|  |  | 8 - Disponibilização de serviços públicos móveis para deslocação aos locais mais isolados ou de maior dificuldade de acessibilidade. | % de serviços públicos com unidades móveis. | Taxa de acessibilidade aos serviços públicos. IEA - 3.2; 3.3. | . Várias | Entidades públicas Municípios |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar III<br>Ambientes acessíveis. | 1 - Melhorar a acessibilidade às habitações. | 1 - Transferir a população com limitações na mobilidade de andares superiores para andares inferiores. | N.º de transferências realizadas. | Taxa de institucionalizações de idosos por inacessibilidade.<br>IEA - 3.3; 3.7. | . MH<br>. MTSSS | IHRU | Plano de gestão do parque habitacional do IHRU. |
+|  |  | 2 - Prover os edifícios de rampas ou de plataformas mecânicas tornando-os assim acessíveis. | N.º de edifícios adaptados. | Taxa de institucionalizações de idosos por inacessibilidade.<br>IEA - 3.3; 3.7. | . MH<br>. MTSSS | IHRU | Plano de reabilitação e manutenção do parque habitacional do IHRU. |
+|  | 2 - Cidades acessíveis. | 3 - Mobilizar as autarquias para remoção das barreiras à mobilidade das pessoas nas cidades. | N.º de Municípios que aderiram. | Taxa de fraturas por quedas no espaço público.<br>IEA - 3.3; 3.7; 4.5. | . MCT | Municípios |  |
+|  | 3 - Cidades e Bairros Intergeracionais. | 4 - Difusão de boas práticas com aposta em bairros que promovam a mistura de gerações. | N.º de Municípios que aderiram. | Taxa de inclusão social.<br>IEA - 3.3; 4.5. | . MCT | Municípios | Plano Nacional da Habitação |
+|  | 4 - Promoção de espaços para lazer nas cidades. | 5 - Implementar programas que promovam a existência de espaços públicos que favoreçam a vida independente para as pessoas. | N.º de Municípios que aderiram. | Taxa de idosos independentes.<br>IEA - 3.3; 3.7. | . MCT | Municípios |  |
+|  | 5 - Disponibilizar transportes acessíveis. | 6 - Disponibilizar transportes plenamente acessíveis, adaptados para pessoas com mobilidade reduzida e age-friendly. | N.º de transportes plenamente acessíveis. | Taxa de utilização de transporte público.<br>Taxa de utilização de transporte ferroviário.<br>IEA - 3.3; 3.7; 4.5. | . MI | Municípios<br>Empresas Transportes Públicos |  |
+|  | 6 - Disponibilização de serviços públicos de proximidade. | 7 - Criação de formas de atendimento de proximidade com utilização das novas tecnologias. | N.º de serviços passíveis de utilização por acesso por smartphone. | Taxa de utilização das tecnologias.<br>IEA - 4.4. | . Várias | Entidades públicas |  |
+|  |  | 8 - Disponibilização de serviços públicos móveis para deslocação aos locais mais isolados ou de maior dificuldade de acessibilidade. | % de serviços públicos com unidades móveis. | Taxa de acessibilidade aos serviços públicos.<br>IEA - 3.2; 3.3. | . Várias | Entidades públicas<br>Municípios |  |
 
 O subpilar iii - Ambientes acessíveis possui 6 medidas, tendo sido definidas 8 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Pilar III - Desenvolvimento e Aprendizagem ao Longo da Vida
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Educação e formação ao longo da vida. | 1 - Formação inicial para aquisição de competências. | 1 - Programas de acesso ao ensino superior, incluindo a população mais vulnerável. | N.º de alunos do ensino superior. | Taxa de alunos que integram o ensino superior. Taxa de pessoas com formação superior. IEA - 4.6. | . MCTES | DGES |  |
-|  |  | 2 - Programas de aquisição de novas competências (cursos de aprendizagem, cursos de educação e formação de adultos; cursos de especialização tecnológica). | N.º de cursos. N.º de alunos dos cursos. | Taxa de pessoas com mais de 55 anos com formação. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4; 4.6. | . MTSSS | IEFP |  |
-|  |  | 3 - Reconhecimento, validação e certificação de competências. | N.º de pessoas com reconhecimento de competências. | Taxa de pessoas com mais de 55 anos com formação reconhecida. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.6. | . MTSSS | IEFP |  |
-|  |  | 4 - Formação para a inclusão de grupos vulneráveis, incluindo migrantes, nomeadamente refugiados, e pessoas com deficiência. | N.º de cursos. N.º de alunos dos cursos. | Taxa de formados com inclusão social. Taxa de formandos com emprego. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.6. | . MTSSS | IEFP |  |
-|  | 2 - Formação, requalificação e reconversão profissional. | 5 - Programas de formação e de requalificação profissional: - Formação Modular; - Competências digitais; - Trabalhos e competências verdes; - Cidadania digital. | N.º de profissionais formados. N.º de profissionais requalificados. | Taxa de profissionais com novas competências. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP |  |
-|  | 3 - Programas flexíveis de formação profissional. | 6 - Programas de formação mais flexíveis para a formação profissional com b-learning e e-learning. | N.º de programas com formação com b-learning ou e-learning. N.º de profissionais formados. | Taxa de participação em formação profissional. Taxa de profissionais com novas competências. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP |  |
-|  | 4 - Formação em competências digitais para a população. | 7 - Capacitação digital da população mais velha. | N.º de cursos realizados. N.º de idosos capacitados. | Taxa de utilização de aplicações pelos idosos. IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP RUTIS |  |
-|  | 5 - Universidades Sénior. | 8 - Apoiar as Universidades Sénior nacionais no aumento de cursos de formação, estimulação e integração. | N.º de cursos realizados. N.º de idosos nos programas. | Taxa de inclusão societal. Taxa de participação em atividades de voluntariado. IEA - 2.1; 3.3; 3.8; 4.4; 4.5. | . MTSSS | RUTIS |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Educação e formação ao longo da vida. | 1 - Formação inicial para aquisição de competências. | 1 - Programas de acesso ao ensino superior, incluindo a população mais vulnerável. | N.º de alunos do ensino superior. | Taxa de alunos que integram o ensino superior.<br>Taxa de pessoas com formação superior.<br>IEA - 4.6. | . MCTES | DGES |  |
+|  |  | 2 - Programas de aquisição de novas competências (cursos de aprendizagem, cursos de educação e formação de adultos; cursos de especialização tecnológica). | N.º de cursos.<br>N.º de alunos dos cursos. | Taxa de pessoas com mais de 55 anos com formação.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4; 4.6. | . MTSSS | IEFP |  |
+|  |  | 3 - Reconhecimento, validação e certificação de competências. | N.º de pessoas com reconhecimento de competências. | Taxa de pessoas com mais de 55 anos com formação reconhecida.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.6. | . MTSSS | IEFP |  |
+|  |  | 4 - Formação para a inclusão de grupos vulneráveis, incluindo migrantes, nomeadamente refugiados, e pessoas com deficiência. | N.º de cursos.<br>N.º de alunos dos cursos. | Taxa de formados com inclusão social.<br>Taxa de formandos com emprego.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.6. | . MTSSS | IEFP |  |
+|  | 2 - Formação, requalificação e reconversão profissional. | 5 - Programas de formação e de requalificação profissional:<br>- Formação Modular;<br>- Competências digitais;<br>- Trabalhos e competências verdes;<br>- Cidadania digital. | N.º de profissionais formados.<br>N.º de profissionais requalificados. | Taxa de profissionais com novas competências.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP |  |
+|  | 3 - Programas flexíveis de formação profissional. | 6 - Programas de formação mais flexíveis para a formação profissional com b-learning e e-learning. | N.º de programas com formação com b-learning ou e-learning.<br>N.º de profissionais formados. | Taxa de participação em formação profissional.<br>Taxa de profissionais com novas competências.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP |  |
+|  | 4 - Formação em competências digitais para a população. | 7 - Capacitação digital da população mais velha. | N.º de cursos realizados.<br>N.º de idosos capacitados. | Taxa de utilização de aplicações pelos idosos.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.8; 4.4. | . MTSSS | IEFP<br>RUTIS |  |
+|  | 5 - Universidades Sénior. | 8 - Apoiar as Universidades Sénior nacionais no aumento de cursos de formação, estimulação e integração. | N.º de cursos realizados.<br>N.º de idosos nos programas. | Taxa de inclusão societal.<br>Taxa de participação em atividades de voluntariado.<br>IEA - 2.1; 3.3; 3.8; 4.4; 4.5. | . MTSSS | RUTIS |  |
 
 O subpilar i - Educação e formação ao longo da vida possui 5 medidas, tendo sido definidas 8 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Pilar IV - Vida Laboral Saudável ao Longo do Ciclo de Vida
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Participação no mercado de trabalho. | 1 - Promoção do emprego de trabalhadores (maior que) 50 anos. | 1 - Programas de promoção de emprego para trabalhadores com idade (maior que) 50 anos, incluindo recrutamento. | N.º de indivíduos abrangidos. | Taxa de desemprego acima dos 50 anos. IEA: 1.1; 1.2; 1.3; 1.4; 3.4; 3.5. | . MTSSS | IEFP |  |
-|  |  | 2 - Capacitação dos trabalhadores mais velhos em áreas emergentes para prevenir desemprego sénior. | N.º de indivíduos abrangidos. | Taxa de desemprego acima dos 50 anos. | . ME | IAPMEI d'NOVO |  |
-|  | 2 - Passagem à reforma mais flexível. | 3 - Criação da reforma a tempo parcial, antes da idade da reforma para promover transição gradual. | Aprovação da nova legislação. | Taxa de emprego após os 65 anos. IEA - 1.3; 1,4; 3,4; 3.5; 3.6. | . MTSSS | ISS |  |
-|  | 3 - Conciliação de trabalho com a vida pessoal e familiar. | 4 - Medidas que visem facilitar a conciliação do trabalho com a vida pessoal e familiar, com flexibilidade ao longo do ciclo de vida (Agenda do trabalho digno). | Flexibilidade da legislação laboral. | Taxa de emprego. Taxa de participação nas atividades familiares (Ex: Filhos). Taxa de pessoas a prestar cuidados a dependentes. IEA - 1.1; 1.2; 1.3; 1.4; 2.2; 2.3. | . MTSSS | ISS |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Participação no mercado de trabalho. | 1 - Promoção do emprego de trabalhadores (maior que) 50 anos. | 1 - Programas de promoção de emprego para trabalhadores com idade (maior que) 50 anos, incluindo recrutamento. | N.º de indivíduos abrangidos. | Taxa de desemprego acima dos 50 anos.<br>IEA: 1.1; 1.2; 1.3; 1.4; 3.4; 3.5. | . MTSSS | IEFP |  |
+|  |  | 2 - Capacitação dos trabalhadores mais velhos em áreas emergentes para prevenir desemprego sénior. | N.º de indivíduos abrangidos. | Taxa de desemprego acima dos 50 anos. | . ME | IAPMEI<br>d'NOVO |  |
+|  | 2 - Passagem à reforma mais flexível. | 3 - Criação da reforma a tempo parcial, antes da idade da reforma para promover transição gradual. | Aprovação da nova legislação. | Taxa de emprego após os 65 anos.<br>IEA - 1.3; 1,4; 3,4; 3.5; 3.6. | . MTSSS | ISS |  |
+|  | 3 - Conciliação de trabalho com a vida pessoal e familiar. | 4 - Medidas que visem facilitar a conciliação do trabalho com a vida pessoal e familiar, com flexibilidade ao longo do ciclo de vida (Agenda do trabalho digno). | Flexibilidade da legislação laboral. | Taxa de emprego.<br>Taxa de participação nas atividades familiares (Ex: Filhos).<br>Taxa de pessoas a prestar cuidados a dependentes.<br>IEA - 1.1; 1.2; 1.3; 1.4; 2.2; 2.3. | . MTSSS | ISS |  |
 
 O subpilar i - Participação no mercado de trabalho possui 3 medidas, tendo sido definidas 4 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar II Adaptação das carreiras profissionais e postos de trabalho. | 1 - Adaptação dos locais de trabalho. | 1 - Adaptação dos locais de trabalho e respetivas acessibilidades às características e capacidades dos trabalhadores ao longo da sua vida laboral. | N.º de projetos implementados. N.º de visitas efetuadas. N.º de trabalhadores abrangidos. | Taxa de emprego após 55 anos. Taxa de absentismo laboral. Anos de vida saudável após os 55 anos. IEA - 1.1; 1.2; 1.3; 1.4; 4.2; 4.3. | . MTSSS | IEFP CCEA ACT | PT2030 |
-|  | 2 - Campanhas de Saúde e Segurança no trabalho ao longo da vida. | 2 - Campanhas para a promoção da cultura de saúde e segurança no trabalho ao longo da vida. | N.º de campanhas realizadas. | Taxa de sinistralidade laboral. Taxa de doenças profissionais. IEA - 4.1; 4.2; 4.3. | . MTSSS | ACT |  |
-|  | 3 - Novas medidas de Saúde e Segurança no trabalho. | 3 - Avaliação ajustada a novas formas de trabalho com revisão da composição das Equipas de Saúde e Segurança no Trabalho, incluindo avaliação psicossocial e reforço do psicólogo nas equipas. | Aprovação de nova legislação. | Taxa de absentismo laboral. Anos de vida saudável após os 55 anos. Taxa de bem-estar mental. IEA - 4.1; 4.2; 4.3. | . MTSSS | ACT | PT2030 |
+|  |  |  |  |  |  |  |  |
+| Subpilar II<br>Adaptação das carreiras profissionais e postos de trabalho. | 1 - Adaptação dos locais de trabalho. | 1 - Adaptação dos locais de trabalho e respetivas acessibilidades às características e capacidades dos trabalhadores ao longo da sua vida laboral. | N.º de projetos implementados.<br>N.º de visitas efetuadas.<br>N.º de trabalhadores abrangidos. | Taxa de emprego após 55 anos.<br>Taxa de absentismo laboral.<br>Anos de vida saudável após os 55 anos.<br>IEA - 1.1; 1.2; 1.3; 1.4; 4.2; 4.3. | . MTSSS | IEFP<br>CCEA<br>ACT | PT2030 |
+|  | 2 - Campanhas de Saúde e Segurança no trabalho ao longo da vida. | 2 - Campanhas para a promoção da cultura de saúde e segurança no trabalho ao longo da vida. | N.º de campanhas realizadas. | Taxa de sinistralidade laboral.<br>Taxa de doenças profissionais.<br>IEA - 4.1; 4.2; 4.3. | . MTSSS | ACT |  |
+|  | 3 - Novas medidas de Saúde e Segurança no trabalho. | 3 - Avaliação ajustada a novas formas de trabalho com revisão da composição das Equipas de Saúde e Segurança no Trabalho, incluindo avaliação psicossocial e reforço do psicólogo nas equipas. | Aprovação de nova legislação. | Taxa de absentismo laboral.<br>Anos de vida saudável após os 55 anos.<br>Taxa de bem-estar mental.<br>IEA - 4.1; 4.2; 4.3. | . MTSSS | ACT | PT2030 |
 
 O subpilar ii - Adaptação das carreiras profissionais e postos de trabalho possui 3 medidas, tendo sido definidas 3 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar III Promoção da diversidade intergeracional no local de trabalho. | 1 - Programas de gestão com diversidade geracional nos locais de trabalho. | 1 - Programas que promovam a diversidade geracional nos locais de trabalho, permitindo a adaptação das carreiras e locais de trabalho a trabalhadores de diferentes idades. | N.º de programas implementados. | Taxa de emprego após 55 anos. Taxa de absentismo laboral. IEA - 1.1; 1.2; 1.3; 3.4; 3.5; 3.6. | . MTSSS | IEFP ACT | PT2030 |
-|  | 2 - Combater o idadismo no local de trabalho. | 2 - Campanhas de sensibilização para combater a discriminação baseada na idade no local de trabalho. Realçar a importância da transmissão de saberes e competências. | N.º de campanhas realizadas. | Taxa de emprego após os 55 anos. IEA - 1.1; 1.2; 1.3; 3.4; 3.5; 3.6. | . MTSSS | IEFP ACT |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar III<br>Promoção da diversidade intergeracional no local de trabalho. | 1 - Programas de gestão com diversidade geracional nos locais de trabalho. | 1 - Programas que promovam a diversidade geracional nos locais de trabalho, permitindo a adaptação das carreiras e locais de trabalho a trabalhadores de diferentes idades. | N.º de programas implementados. | Taxa de emprego após 55 anos.<br>Taxa de absentismo laboral.<br>IEA - 1.1; 1.2; 1.3; 3.4; 3.5; 3.6. | . MTSSS | IEFP<br>ACT | PT2030 |
+|  | 2 - Combater o idadismo no local de trabalho. | 2 - Campanhas de sensibilização para combater a discriminação baseada na idade no local de trabalho. Realçar a importância da transmissão de saberes e competências. | N.º de campanhas realizadas. | Taxa de emprego após os 55 anos.<br>IEA - 1.1; 1.2; 1.3; 3.4; 3.5; 3.6. | . MTSSS | IEFP<br>ACT |  |
 
 O subpilar iii - Promoção da diversidade intergeracional no local de trabalho possui 2 medidas, tendo sido definidas 2 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Pilar V - Rendimentos e Economia
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Garantia de Rendimento Individual. | 1 - Complemento Solidário para Idosos. | 1 - Garantir a convergência do complemento solidário para idosos para garantir rendimento acima do limiar de pobreza. | N.º de idosos apoiados. | Taxa de pobreza após 65 anos. IEA - 3.4; 3.5; 3.6. | . MTSSS | ISS |  |
-|  | 2 - Valorização das pensões. | 2 - Prosseguir com a valorização real dos rendimentos dos pensionistas. | Taxa de aumento médio das pensões. | Taxa de pobreza após 65 anos. IEA - 3.4; 3.5; 3.6. | . MTSSS | ISS |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Garantia de Rendimento Individual. | 1 - Complemento Solidário para Idosos. | 1 - Garantir a convergência do complemento solidário para idosos para garantir rendimento acima do limiar de pobreza. | N.º de idosos apoiados. | Taxa de pobreza após 65 anos.<br>IEA - 3.4; 3.5; 3.6. | . MTSSS | ISS |  |
+|  | 2 - Valorização das pensões. | 2 - Prosseguir com a valorização real dos rendimentos dos pensionistas. | Taxa de aumento médio das pensões. | Taxa de pobreza após 65 anos.<br>IEA - 3.4; 3.5; 3.6. | . MTSSS | ISS |  |
 
 O subpilar i - Garantia de rendimento individual possui 2 medidas, tendo sido definidas 2 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar II Economia do Envelhecimento. | 1 - Empreendedorismo Sénior. | 1 - Formação e capacitação dos mais idosos para a criação de empresas e gestão do seu próprio negócio. | N.º de formandos. | N.º de projetos implementados. N.º de empregos criados. Rendimento médio após os 65 anos. IEA - 1.1; 1.2; 1.3; 1.4; 3.4; 3.5; 3.6. | . MTSSS | IEFP RePEnSA | PT2030 |
-|  |  | 2 - Apoio à criação de novas empresas. | N.º de novas empresas criadas por Pessoas com mais de 55 anos. | N.º de empregos criados. Rendimento médio após os 65 anos. IEA - 1.1; 1.2; 1.3; 1.4; 3.4; 3.5; 3.6. | . MTSSS | IEFP |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar II<br>Economia do Envelhecimento. | 1 - Empreendedorismo Sénior. | 1 - Formação e capacitação dos mais idosos para a criação de empresas e gestão do seu próprio negócio. | N.º de formandos. | N.º de projetos implementados.<br>N.º de empregos criados.<br>Rendimento médio após os 65 anos.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.4; 3.5; 3.6. | . MTSSS | IEFP<br>RePEnSA | PT2030 |
+|  |  | 2 - Apoio à criação de novas empresas. | N.º de novas empresas criadas por Pessoas com mais de 55 anos. | N.º de empregos criados.<br>Rendimento médio após os 65 anos.<br>IEA - 1.1; 1.2; 1.3; 1.4; 3.4; 3.5; 3.6. | . MTSSS | IEFP |  |
 
 O subpilar ii - Economia do envelhecimento possui 1 medida, tendo sido definidas 2 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Pilar VI - Participação na Sociedade
 
-|  |  |  |  |  |  |  |  |
+| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Subpilar | Medida | Atividade | Indicador de execução | Indicador de impacto | Área governativa responsável | Entidades | Estratégia/Programa |
-| Subpilar I Participação na sociedade. | 1 - Voluntariado Sénior. | 1 - Promoção de programas de voluntariado Sénior. | N.º de programas de voluntariado. | Taxa de participação em voluntariado após os 65 anos. Taxa de pessoas com bem-estar mental. IEA - 2.1; 2.2; 2.3; 4.3; 4.5. | . MTSSS | ISS |  |
-|  | 2 - Participação Cívica. | 2 - Promoção da participação cívica na vida política, social e cultural. | N.º de programas com estímulo da participação cívica após os 55 anos. | Taxa de participação política após os 55 anos. Taxa de participação em associações sociais e culturais. Taxa de bem-estar mental após os 55 anos. IEA - 2.4; 4.3; 4.5. | . MTSSS | ISS RUTIS |  |
-|  | 3 - Empoderamento Sénior. | 3 - Promoção da participação dos cidadãos Sénior nos nas iniciativas legislativas e de programas públicos relacionados com o envelhecimento. | N.º de iniciativas e programas com cidadãos Sénior incluídos. | Taxa de participação política após os 55 anos. IEA - 2.4; 4.5. | . MTSSS . MS |  |  |
-|  | 4 - Inclusão social com programas intergeracionais. | 4 - Implementação de projetos de inclusão social e participação cívica intergeracionais. | N.º de programas. | Taxa de inclusão social. Taxa de bem-estar mental após os 55 anos. IEA - 4.3; 4.5. | . MTSSS | CCDR | PT2030 |
-|  | 5 - Projetos criativos com valorização do envelhecimento. | 5 - Promover o desenvolvimento de projetos criativos de diferentes linguagens artísticas que contribuam para a valorização do processo de envelhecimento ativo ao longo do ciclo de vida, o combate ao idadismo, uma perceção positiva do envelhecimento e participação das pessoas idosas. | N.º de projetos criados. | Taxa de pessoas com bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | DG Artes |  |
-|  | 6 - Participação voluntária das pessoas mais velhas no setor da cultura. | 6 - Promoção do envelhecimento ativo e saudável, através da sensibilização e mobilização de pessoas de todas as idades, particularmente das mais velhas, para a participação voluntária ativa no setor da Cultura. | % de voluntárias acima dos 50 anos. | Taxa de voluntariado após 55 anos. Taxa de bem-estar mental acima dos 55 anos. IEA - 2.1; 4.3; 4.5. | . MC | DGPC/MMP BNP DRC |  |
-|  | 7 - Promover o direito à participação na vida cultural, facilitando o acesso e a fruição por parte das pessoas idosas à cultura e ao património. | 7 - Visitas guiadas a Museus, Monumentos, Palácios e outros espaços culturais. | N.º visitas organizadas. N.º de participantes 65+. | Taxa de pessoas com bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | DGARTES em articulação com as entidades integrantes da Rede de Teatros e Cineteatros Portugueses e da Rede Portuguesa de Arte Contemporânea. DGPC/MMP DRC/BNP RUTIS |  |
-|  |  | 8 - Continuidade e promoção dos programas de isenções e/ou descontos nos ingressos. | N.º de visitas com aplicação de isenção. N.º de ingressos com desconto para pessoas com (igual ou maior que) 65 anos. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | DGPC/MMP BNP DRC |  |
-|  | 8 - Programa «EU no MUSEU». | 9 - Promover, através da Arte em contexto museológico, a estimulação cognitiva, o bem-estar de pessoas com situações no espectro da Doença de Alzheimer. | N.º de sessões realizadas. N.º de museus que iniciam o programa por ano. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. Taxa de demência com dependência. IEA - 4.2; 4.3; 4.5. | . MC | DGPC Alzheimer Portugal |  |
-|  | 9 - Promoção de iniciativas participativas para Seniores na atividade dos Teatros Nacionais. | 10 - Aulas de dança clássica abertas à comunidade sem limite de idade. | N.º de Aulas realizadas. | Taxa de participação em exercício físico após os 55 anos. Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 3.1; 4.2; 4.3; 4.5. | . MC | OPART - Estúdios Victor Córdon |  |
-|  |  | 11 - Projeto Dançar com Parkinson - aulas de dança para pessoas com Parkinson, familiares e amigos. | N.º de Aulas realizadas. | Taxa de participação em exercício físico após os 55 anos. Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 3.1; 4.2; 4.3; 4.5. | . MC | OPART - Companhia Nacional de Bailado. APDPk |  |
-|  |  | 12 - Ensaios Gerais abertos. | N.º de ensaios abertos realizados. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | OPART - Teatro Nacional de São Carlos - Ópera. |  |
-|  |  | 13 - Criação de um Coro externo, para participantes a partir dos 50 anos. | N.º de participantes no coro. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | OPART - Teatro Nacional de São Carlos. |  |
-|  |  | 14 - Clube de Teatro Sub-88 para usufruto, por parte de público adulto não-profissional, da experiência de produção de um espetáculo de teatro. | N.º de participantes acima dos 55 anos. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | Teatro Nacional de São Carlos. |  |
-|  |  | 15 - Oficina-Visita em torno de um espetáculo teatral. | N.º de iniciativas. N.º de participantes. | Taxa de bem-estar mental acima dos 55 anos. Taxa de inclusão social. IEA - 4.3; 4.5. | . MC | Teatro Nacional de São João. |  |
+|  |  |  |  |  |  |  |  |
+| Subpilar I<br>Participação na sociedade. | 1 - Voluntariado Sénior. | 1 - Promoção de programas de voluntariado Sénior. | N.º de programas de voluntariado. | Taxa de participação em voluntariado após os 65 anos.<br>Taxa de pessoas com bem-estar mental.<br>IEA - 2.1; 2.2; 2.3; 4.3; 4.5. | . MTSSS | ISS |  |
+|  | 2 - Participação Cívica. | 2 - Promoção da participação cívica na vida política, social e cultural. | N.º de programas com estímulo da participação cívica após os 55 anos. | Taxa de participação política após os 55 anos.<br>Taxa de participação em associações sociais e culturais.<br>Taxa de bem-estar mental após os 55 anos.<br>IEA - 2.4; 4.3; 4.5. | . MTSSS | ISS<br>RUTIS |  |
+|  | 3 - Empoderamento Sénior. | 3 - Promoção da participação dos cidadãos Sénior nos nas iniciativas legislativas e de programas públicos relacionados com o envelhecimento. | N.º de iniciativas e programas com cidadãos Sénior incluídos. | Taxa de participação política após os 55 anos.<br>IEA - 2.4; 4.5. | . MTSSS<br>. MS |  |  |
+|  | 4 - Inclusão social com programas intergeracionais. | 4 - Implementação de projetos de inclusão social e participação cívica intergeracionais. | N.º de programas. | Taxa de inclusão social.<br>Taxa de bem-estar mental após os 55 anos.<br>IEA - 4.3; 4.5. | . MTSSS | CCDR | PT2030 |
+|  | 5 - Projetos criativos com valorização do envelhecimento. | 5 - Promover o desenvolvimento de projetos criativos de diferentes linguagens artísticas que contribuam para a valorização do processo de envelhecimento ativo ao longo do ciclo de vida, o combate ao idadismo, uma perceção positiva do envelhecimento e participação das pessoas idosas. | N.º de projetos criados. | Taxa de pessoas com bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | DG Artes |  |
+|  | 6 - Participação voluntária das pessoas mais velhas no setor da cultura. | 6 - Promoção do envelhecimento ativo e saudável, através da sensibilização e mobilização de pessoas de todas as idades, particularmente das mais velhas, para a participação voluntária ativa no setor da Cultura. | % de voluntárias acima dos 50 anos. | Taxa de voluntariado após 55 anos.<br>Taxa de bem-estar mental acima dos 55 anos.<br>IEA - 2.1; 4.3; 4.5. | . MC | DGPC/MMP<br>BNP<br>DRC |  |
+|  | 7 - Promover o direito à participação na vida cultural, facilitando o acesso e a fruição por parte das pessoas idosas à cultura e ao património. | 7 - Visitas guiadas a Museus, Monumentos, Palácios e outros espaços culturais. | N.º visitas organizadas.<br>N.º de participantes 65+. | Taxa de pessoas com bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | DGARTES em articulação com as entidades integrantes da Rede de Teatros e Cineteatros Portugueses e da Rede Portuguesa de Arte Contemporânea.<br>DGPC/MMP<br>DRC/BNP<br>RUTIS |  |
+|  |  | 8 - Continuidade e promoção dos programas de isenções e/ou descontos nos ingressos. | N.º de visitas com aplicação de isenção.<br>N.º de ingressos com desconto para pessoas com (igual ou maior que) 65 anos. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | DGPC/MMP<br>BNP<br>DRC |  |
+|  | 8 - Programa «EU no MUSEU». | 9 - Promover, através da Arte em contexto museológico, a estimulação cognitiva, o bem-estar de pessoas com situações no espectro da Doença de Alzheimer. | N.º de sessões realizadas.<br>N.º de museus que iniciam o programa por ano. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>Taxa de demência com dependência.<br>IEA - 4.2; 4.3; 4.5. | . MC | DGPC<br>Alzheimer<br>Portugal |  |
+|  | 9 - Promoção de iniciativas participativas para Seniores na atividade dos Teatros Nacionais. | 10 - Aulas de dança clássica abertas à comunidade sem limite de idade. | N.º de Aulas realizadas. | Taxa de participação em exercício físico após os 55 anos.<br>Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 3.1; 4.2; 4.3; 4.5. | . MC | OPART -<br>Estúdios<br>Victor Córdon |  |
+|  |  | 11 - Projeto Dançar com Parkinson - aulas de dança para pessoas com Parkinson, familiares e amigos. | N.º de Aulas realizadas. | Taxa de participação em exercício físico após os 55 anos.<br>Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 3.1; 4.2; 4.3; 4.5. | . MC | OPART - Companhia Nacional de Bailado.<br>APDPk |  |
+|  |  | 12 - Ensaios Gerais abertos. | N.º de ensaios abertos realizados. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | OPART - Teatro Nacional de São Carlos - Ópera. |  |
+|  |  | 13 - Criação de um Coro externo, para participantes a partir dos 50 anos. | N.º de participantes no coro. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | OPART - Teatro Nacional de São Carlos. |  |
+|  |  | 14 - Clube de Teatro Sub-88 para usufruto, por parte de público adulto não-profissional, da experiência de produção de um espetáculo de teatro. | N.º de participantes acima dos 55 anos. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | Teatro Nacional de São Carlos. |  |
+|  |  | 15 - Oficina-Visita em torno de um espetáculo teatral. | N.º de iniciativas.<br>N.º de participantes. | Taxa de bem-estar mental acima dos 55 anos.<br>Taxa de inclusão social.<br>IEA - 4.3; 4.5. | . MC | Teatro Nacional de São João. |  |
 
 O subpilar i - Participação na sociedade possui 9 medidas, tendo sido definidas 15 atividades concretas a serem priorizadas no âmbito do presente Plano de Ação.
 
 Catalisador A: Ciência e Inovação
 
-|  |  |  |  |  |
+| Medida | Atividade | Área governativa<br>responsável | Entidades | Estratégia/Programa |
 | --- | --- | --- | --- | --- |
-| Medida | Atividade | Área governativa responsável | Entidades | Estratégia/Programa |
-| FCT, I. P. ANI, S. A. Investigação e Inovação. | Financiamento de Projetos de I&D na área da Saúde e Envelhecimento. | . MCTES | FCT, I. P. |  |
-| FCT, I. P. ANI, S. A. Investigação e Inovação. | Cofinanciamento de Projetos de I&D no âmbito da parceria europeia AAL - Active Assisted Living. | . MCTES | FCT, I. P. |  |
+|  |  |  |  |  |
+| FCT, I. P.<br>ANI, S. A.<br>Investigação e Inovação. | Financiamento de Projetos de I&D na área da Saúde e Envelhecimento. | . MCTES | FCT, I. P. |  |
+| Cofinanciamento de Projetos de I&D no âmbito da parceria europeia AAL - Active Assisted Living. | . MCTES | FCT, I. P. |  |  |
 |  | Cofinanciamento de Projetos de I&D no âmbito da Parceria EUTransformative Heath Care Systems - THCS. | . MCTES | FCT, I. P. |  |
 |  | Financiamento de Unidades de Investigação que operam na área da Saúde/Envelhecimento. | . MCTES | FCT, I. P. |  |
-|  | Financiamento de CoLAB por via do PRR-Missão Interface. | . MCTES . MEM | ANI, S. A. |  |
-|  | Financiamento do ABC Colab - Envelhecimento. | . MCTES . MEM | ANI, S. A. CCDR |  |
+|  | Financiamento de CoLAB por via do PRR-Missão Interface. | . MCTES<br>. MEM | ANI, S. A. |  |
+|  | Financiamento do ABC Colab - Envelhecimento. | . MCTES<br>. MEM | ANI, S. A.<br>CCDR |  |
 |  | Bolsas de Doutoramento financiadas na temática do envelhecimento. | . MCTES | FCT, I. P. |  |
-| AICIIB. Investigação. | Bolsas para projetos da área do envelhecimento ativo. | . MCTES . MS | AICIB |  |
-| ANI, S. A. Inovação na economia do envelhecimento. | HORIZON-MISS-2021-NEB-01. Iniciativa New European Bauhaus (NEB) destinada a melhorar a forma como vivemos juntos no ambiente construído. Inclui atividades que se focam em grupos de pessoas envelhecidas e em ferramentas que melhorem o seu bem-estar. | . ME | COM ANI, S. A. | Horizonte Europa. |
-|  | HORIZON-CL2-2022-TRANSFORMATIONS-01-10. Efeitos socioeconómicos de sociedades envelhecidas. | . ME | COM ANI, S. A. | Horizonte Europa. |
-|  | HORIZON-CL6-2023-COMMUNITIES-01-1. Aumentar a inclusão social nas áreas rurais: foco nas populações numa situação vulnerável e na economia social. | . ME | COM ANI, S. A. | Horizonte Europa. |
-|  | HORIZON-CL6-2022-COMMUNITIES-02-02-two-stage. Desenvolver terapias com base na natureza para a saúde e bem-estar. | . ME | COM ANI, S. A. | Horizonte Europa. |
-|  | I&D em Copromoção. Sistema de incentivos que prevê apoiar projetos de empresas em copromoção com outras empresas ou restantes entidades do Sistema de I&I. Inclui como temas «Envelhecimento e Vida ativa». | . ME | ANI, S. A. |  |
-|  | SI I&DT - Projetos Mobilizadores. Visam a criação de novos produtos, processos ou serviços com elevado conteúdo tecnológico e de inovação. Inclui projetos no âmbito do envelhecimento ativo e saudável no plano estratégico do Health Cluster Portugal nas temáticas «Saúde, Investigação clínica e de transição, incluindo novas terapêuticas médicas nas áreas de oncologia, cardiologia, diabetes e envelhecimento». | . ME | ANI, S. A. |  |
+| AICIIB.<br>Investigação. | Bolsas para projetos da área do envelhecimento ativo. | . MCTES<br>. MS | AICIB |  |
+| ANI, S. A.<br>Inovação na economia do envelhecimento. | HORIZON-MISS-2021-NEB-01.<br>Iniciativa New European Bauhaus (NEB) destinada a melhorar a forma como vivemos juntos no ambiente construído. Inclui atividades que se focam em grupos de pessoas envelhecidas e em ferramentas que melhorem o seu bem-estar. | . ME | COM<br>ANI, S. A. | Horizonte Europa. |
+|  | HORIZON-CL2-2022-TRANSFORMATIONS-01-10.<br>Efeitos socioeconómicos de sociedades envelhecidas. | . ME | COM<br>ANI, S. A. | Horizonte Europa. |
+|  | HORIZON-CL6-2023-COMMUNITIES-01-1.<br>Aumentar a inclusão social nas áreas rurais: foco nas populações numa situação vulnerável e na economia social. | . ME | COM<br>ANI, S. A. | Horizonte Europa. |
+|  | HORIZON-CL6-2022-COMMUNITIES-02-02-two-stage.<br>Desenvolver terapias com base na natureza para a saúde e bem-estar. | . ME | COM<br>ANI, S. A. | Horizonte Europa. |
+|  | I&D em Copromoção.<br>Sistema de incentivos que prevê apoiar projetos de empresas em copromoção com outras empresas ou restantes entidades do Sistema de I&I. Inclui como temas «Envelhecimento e Vida ativa». | . ME | ANI, S. A. |  |
+|  | SI I&DT - Projetos Mobilizadores.<br>Visam a criação de novos produtos, processos ou serviços com elevado conteúdo tecnológico e de inovação.<br>Inclui projetos no âmbito do envelhecimento ativo e saudável no plano estratégico do Health Cluster Portugal nas temáticas «Saúde, Investigação clínica e de transição, incluindo novas terapêuticas médicas nas áreas de oncologia, cardiologia, diabetes e envelhecimento». | . ME | ANI, S. A. |  |
 
 Lista de siglas e abreviaturas
 
@@ -1145,3 +1168,5 @@ UCCI - Unidades de Cuidados Continuados Integrados.
 UCP - Unidades de Cuidados Paliativos.
 
 UNECE - Comissão Económica para as Nações Unidas para a Europa.
+
+117225139

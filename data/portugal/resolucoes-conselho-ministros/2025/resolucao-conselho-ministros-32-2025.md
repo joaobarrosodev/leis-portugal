@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2025/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2025-908290394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d31dfe4e3b1076596fd34dce8e59eaa3fa6f1870945e990a290c49f96bc4d488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa1b5ea5c8c7167a1a2666807d9230b69ec672e8663e0bbb072ba61c27c5191c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Administração
 - Agência de Gestão da Tesouraria e da Dívida Pública
+- Conselho de Administração
 - Nomeação
 - Presidente
 - Vogal
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2062969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:40Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +126,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1 a 4 do artigo 13.º e do n.º 1 do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, aplicáveis por força do disposto no n.º 2 do artigo 8.º dos estatutos da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 200/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556), de 27 de agosto, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1 a 4 do artigo 13.º e do n.º 1 do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, aplicáveis por força do disposto no n.º 2 do artigo 8.º dos estatutos da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 200/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556), de 27 de agosto, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta do Ministro de Estado e das Finanças, Pedro Miguel Pereira Cabeços, Márcia Raquel Duarte Rodrigues e Rui Manuel Sampaio Amaral para os cargos, respetivamente, de presidente e de vogais do conselho de administração da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., cuja idoneidade, experiência e competência profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam em anexo à presente resolução e da qual fazem parte integrante.
 
@@ -183,3 +199,5 @@ Diretor-adjunto no Caixa - Banco de Investimento, S. A.;
 Subdiretor no Banco Millennium BCP Investimento, S. A.;
 
 Gestor de clientes no DNB ASA.
+
+118723778

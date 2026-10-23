@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/64/2016/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-2016-75554998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57819d1ab36663cc656cd5c6bd42e0e1cd2e39c2060201f60f8686b5b33e31d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e5325d6cb3b4e72209be670970e719b24348aab6396162368c5a6907839687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Cascais
 relationships:
 - type: amended_by
   target: pt:dre:122074192:por
@@ -92,16 +92,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre
+- type: cites
+  target: pt:dre:240050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122074192:por
+  label: Revogado o Plano de Ordenamento da Orla Costeira Cidadela-Forte de São Julião da Barra, aprovado pela Res 123/98
+    de 19-out da PCM, na redação do presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 66/2019 - Diário da República
+    n.º 72/2019, Série I de 2019-04-11, sem prejuízo do seu n.º 6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2019-122074192
+  date: '2019-04-11'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:10Z'
   warnings: []
   errors: []
 ---
@@ -140,13 +163,17 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 2 - A AMP das Avencas localiza-se entre as praias de São Pedro do Estoril e da Parede e é delimitada pela Estrada Marginal e pela distância à costa de um quarto de milha, conforme representação constante da planta de síntese - planta geral, à escala 1:5000.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - A delimitação da AMP das Avencas encontra-se fixada na planta de síntese - planta geral, à escala 1:5000 - e pelas coordenadas (WGS84): 38º41'35" N; 9º22'03" W |38º41'10" N; 9º21'15" W |38º41'23" N; 9º22'11" W |38º40'57" N; 9º21'21" W, tendo como limite em terra a Estrada Marginal e, no mar, uma linha distanciada um quarto de milha da costa.
 
 2 - As restrições estabelecidas têm por objetivo a conservação e a valorização do património natural e da biodiversidade da AMP das Avencas, pressuposto de um desenvolvimento sustentável, em particular a conservação e a valorização do habitat rochoso entre-marés e a promoção de atividades de educação e sensibilização ambiental que visem o desenvolvimento de uma relação mais estreita, consciente e harmoniosa entre o cidadão e o ambiente.
 
-###### Artigo 84.º — Proteção e conservação
+Artigo 84.º
+
+Proteção e conservação
 
 1 - A entidade com competência para o efeito pode restringir ou interditar, com caráter temporário ou definitivo, a livre utilização desta área marinha protegida relativamente aos recursos vivos marinhos a proteger ou a conservar, em função de estudos específicos.
 
@@ -154,7 +181,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 3 - Será da responsabilidade do Município de Cascais assegurar a monitorização prevista no número anterior e a elaboração dos respetivos relatórios de avaliação.
 
-###### Artigo 85.º — Restrições
+Artigo 85.º
+
+Restrições
 
 1 - Dentro dos limites da AMP das Avencas são interditos os seguintes atos e atividades:
 
@@ -210,4 +239,4 @@ c) As ações de educação e sensibilização ambiental.
 
 Presidência do Conselho de Ministros, 8 de junho de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/20100/0377003772.pdf))](https://files.diariodarepublica.pt/1s/2016/10/20100/0377003772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/20100/0377003772.pdf)

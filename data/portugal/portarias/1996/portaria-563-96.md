@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/563/1996/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-1996-233096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 555109f352a65420b559b2dae6bf3c38ff555bb622436af63bfb1acb83d8ada8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 637af499d19c1cf21a88a649d1e8ecd05be52966763bacce285e9e70ff2e0181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Criação de Lugares
 - Direcção Geral de Portos Navegação e Transportes Marítimos
-- Pessoal Operário
 - Pessoal Administrativo
 - Pessoal Auxiliar
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/12/1994/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/12/1994/01/05/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655527:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:22Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +125,8 @@ Manda o Governo, pelos Ministros das Finanças, do Equipamento, do Planeamento e
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 17 de Setembro de 1996.**
+Assinada em 17 de Setembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/234b00/35543555.pdf))](https://files.diariodarepublica.pt/1s/1996/10/234b00/35543555.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/234b00/35543555.pdf)

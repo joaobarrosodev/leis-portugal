@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/96/1995/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-1995-138091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cc972801b7c136669a65a55c345e1f4e7b5295c5ad9f61cf775a864c9b20f7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98f0bd8570cccf33b5568a5aaec70277129e6cf26f3ad05b6f2593546771740b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Mudança de Curso
 - Numerus Clausus
-- Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 - Transferência de Alunos
 relationships:
 - type: amended_by
   target: pt:dre:629157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:629157:por
+  label: "Alterado o artigo 2.º Regulamento, aprovado pela Portaria 612/93, de 29 de Junho, na redação do presente diploma,\
+    \ pela PORT.317-A/96.29.07.1996.ME, DR.IS-B [174]2ºSupl de 29.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-a-1996-629157
+  date: '1996-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/612/1993/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/612/1993/06/29/p/dre
+- type: cites
+  target: pt:dre:374857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:19Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +148,6 @@ c) Estabelecimentos de ensino superior particular e cooperativo.
 
 Ministério da Educação.
 
-**Assinada em 5 de Janeiro de 1995.**
+Assinada em 5 de Janeiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.

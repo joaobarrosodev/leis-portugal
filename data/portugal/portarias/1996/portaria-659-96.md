@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/659/1996/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/659-1996-166395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ee0fe27dd6c1f10265ba4cc1cec048c3b2ec7d39818ce5e3caad24e5b56cf79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7964c8b8ddd1de10a6364115df9df25e6bdf68ea2dc42f400572941f10aef9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Protecção Civil
 - Pessoal Administrativo
 - Quadro de Pessoal
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/720/1994/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/720/1994/08/11/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:18Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +113,6 @@ Manda o Governo, pelos Ministros das Finanças, da Administração Interna e Adj
 
 Presidência de Conselho de Ministros e Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 11 de Outubro de 1996.**
+Assinada em 11 de Outubro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Alberto Bernardes Costa. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.

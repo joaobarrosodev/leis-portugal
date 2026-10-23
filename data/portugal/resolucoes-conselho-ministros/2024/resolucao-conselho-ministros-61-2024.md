@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06500/0005100065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/61/2024/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2024-858576211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d460853bf384e0e6707945006f3c1e42ef157cf6c67f6f892d0e9781de96ee1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2e9d1ffe7b5629ed322f1e1fe37fe13f73965b98335dcda81fc7b00ee74a89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Comissão Interministerial
 - Comissão Técnica
-- Política Social
-- Inserção Social
-- Sem-abrigo
 - Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo
+- Inserção Social
+- Instituto da Segurança Social
 - Plano de Recuperação e Resiliência
+- Política Social
+- Sem-abrigo
 relationships:
 - type: amended_by
   target: pt:dre:901536082:por
@@ -86,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/2/2020/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/2/2020/01/21/p/dre
+- type: cites
+  target: pt:dre:107745746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326623:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:901536082:por
+  label: Revogada, a partir de 1 de janeiro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 208/2024 - Diário da República
+    n.º 252/2024, Série I de 2024-12-30, nos termos do n.º 25 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/208-2024-901536082
+  date: '2024-12-30'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:107/2017
+  label: Revoga, a partir de 1 de janeiro de 2025, a Resolução do Conselho de Ministros n.º 107/2017, de 25 de julho, Diário
+    da República n.º 142/2017, Série I
+  source: null
+  date: '2017-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:39Z'
   warnings: []
   errors: []
 ---
@@ -661,3 +681,5 @@ b) Relatório de Avaliação do Plano de Ação, a apresentar até 31 de março 
 c) Relatório de Avaliação Final da ENIPSSA 2025-2030, a ser apresentada até 30 de junho de 2031.
 
 Os resultados da monitorização dos planos de ação e o relatório de avaliação da ENIPSSA 2025-2030 devem retratar o ponto da situação da sua evolução e as perspetivas futuras e serão publicitados no sítio da Internet da Segurança Social e da ENIPSSA.
+
+117534535

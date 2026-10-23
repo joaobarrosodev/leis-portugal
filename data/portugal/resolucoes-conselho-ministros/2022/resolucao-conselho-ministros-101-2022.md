@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20700/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2022/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2022-202709176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c90352bf5921dd16b315b7c981b68b2f42d2c9169a5bb817f75fa1f0fae134f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655adf4e71dada530ae858e6eb9cf9213efda9bbccc494712863193fa94b83dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,12 +72,12 @@ subjects:
 - Delegação de Competências
 - Despesas Públicas
 - Educação dos Adultos
-- Qualificação Profissional
+- Estrutura de Missão Recuperar Portugal
+- Governo XXIII
 - Ministro da Educação
 - Ministro do Trabalho Solidariedade e Segurança Social
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Governo XXIII
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:47Z'
   warnings: []
   errors: []
 ---
@@ -138,3 +146,5 @@ d) Em 2025 - (euro) 11 000 000.
 6 - Determinar que a presente resolução produz efeitos a 1 de junho de 2022.
 
 Presidência do Conselho de Ministros, 13 de outubro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+115804212

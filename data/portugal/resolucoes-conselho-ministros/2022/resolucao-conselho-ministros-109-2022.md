@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22600/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2022/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2022-203802283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63c22282aa6044fe4fc2c972a160eaf456b7768d45989ef0906cec6a45a6ac51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da7d76053e60909793407dd5f2bd538ad77a639dcbe0a689481c02a229381e7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA Metropolitana
+- Autoridade da Mobilidade e dos Transportes
 - Autorização de Despesas
 - Conselho de Ministros
-- Lisboa
-- Secretaria Geral
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 - Indemnização Compensatória
+- Lisboa
 - Passe Social
 - Porto
-- Autoridade da Mobilidade e dos Transportes
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14-c/2020/04/07/p/dre
@@ -113,16 +113,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2472435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:57Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +223,6 @@ Presidência do Conselho de Ministros, 10 de novembro de 2022. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere o n.º 10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/22600/0000600008.pdf))](https://files.diariodarepublica.pt/1s/2022/11/22600/0000600008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/22600/0000600008.pdf)
+
+115900716

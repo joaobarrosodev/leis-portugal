@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/072000000/1513415134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1048-2009-1159136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02fc348e8ef71f2c99596874bc968ced4cca0b31e609b1e9efe04e40c641a093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17f5bfa36cb2b593b7501b2118bd8136648f4fc84169afb1ea5e1bb36746a7c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:26Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por despacho do Presidente do Instituto Politécnico de Setúbal, de 31 de Dezem
 Rectifica-se o despacho (extracto) n.º 24123/2008, publicado no Diário da República 2.ª série, n.º 185, de 24 de Setembro, pelo que onde se lê: "(...)autorizado o contrato de trabalho em funções públicas por tempo indeterminado, como professor adjunto, com um período inicial experimental de três anos, para exercer funções na Escola Superior de Ciências Empresariais deste Instituto Politécnico, com a remuneração mensal de (euro)1.961,86, correspondente ao escalão 1, índice 185, produzindo efeitos a partir da data da publicação no Diário da República, considerando-se rescindido o anterior contrato a partir da mesma data. "deve ler-se: "(...)autorizada a nomeação provisória como professor adjunto precedendo concurso de provas públicas, por um período inicial de três anos, em regime de tempo integral, para a mesma Escola, com a remuneração mensal de (euro)1.961,86, correspondente ao escalão 1, índice 185, com efeitos à data de 24 de Setembro de 2008 (...)"
 
 3 de Abril de 2009. - A Administradora, Ângela Noiva Gonçalves.
+
+201657733

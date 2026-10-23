@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 8/2024, 1º Suplemento, Série I de 2024-01-11
   number: '8'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8-(2) a 8-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00801/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/12-a/2024/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-a-2024-836494845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82a9a90cdb4247f03402c413262c27ff16b27f2eaed37f484ed36535d19f1ee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d11e28417fd28b6a48eb601db206b2d3890e005ad1b3acb8f05e4588f0fdabdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - Contrato de Concessão
 - Despesas Públicas
 - Parceria Público-Privada
-- Rede Ferroviária Portuguesa de Alta Velocidade
 - Porto
+- Rede Ferroviária Portuguesa de Alta Velocidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -95,16 +95,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/192/2023/12/26/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202753539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674297:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:12Z'
   warnings: []
   errors: []
 ---
@@ -244,3 +276,5 @@ b) A soma dos pagamentos a que se refere o n.º 4, expressos a preços correntes
 7 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
 
 Presidência do Conselho de Ministros, 11 de janeiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117243356

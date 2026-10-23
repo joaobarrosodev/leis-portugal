@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/08800/0150101502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2016/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2016-74376980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d6422fe6fb0b1e6658470b5cf05c9a5eb7114d792cc77c35f275dbef9faa12b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696756324b241da33864a53f1736b294df7f0034dd44f75f808a3a3e0477e29f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Energia Elétrica
-- Ministério da Administração Interna
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Energia Elétrica
 - Entidade de Serviços Partilhados da Administração Pública
+- Governo XXI
+- Ministério da Administração Interna
 - Ministro da Administração Interna
 - Unidade Ministerial de Compras
-- Governo XXI
 relationships:
 - type: amended_by
   target: pt:dre:126870687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126870687:por
+  label: Alterados os n.ºs 1 e 2 e o anexo do presente diploma pelo(a) Resolução do Conselho de Ministros n.º 185/2019 - Diário
+    da República n.º 233/2019, Série I de 2019-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/185-2019-126870687
+  date: '2019-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
   label: null
@@ -111,16 +117,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:40Z'
   warnings: []
   errors: []
 ---
@@ -169,4 +203,4 @@ Presidência do Conselho de Ministros, 21 de abril de 2016. - O Primeiro-Ministr
 
 Fornecimento de Eletricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/08800/0150101502.pdf))](https://files.diariodarepublica.pt/1s/2016/05/08800/0150101502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/08800/0150101502.pdf)

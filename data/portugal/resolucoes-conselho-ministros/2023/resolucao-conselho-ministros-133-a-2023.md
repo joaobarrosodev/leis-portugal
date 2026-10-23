@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 208/2023, 1º Suplemento, Série I de 2023-10-26
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 41-(2) a 41-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/133-a/2023/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/133-a-2023-223414648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2575776b8c1ab56e0ddd707b759afdb42c2cd61ba16f83e1f9d854333ade8bda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eae6737278687814a3edf8b2c7aac697caecc8332ebfde8f7b12142c22b285f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Indústria Electrotécnica
 - Caderno de Encargos
 - Capital Social
 - Empresa Nacionalizada
+- Energia
 - Engenharia
+- Indústria Electrotécnica
 - Mobilidade Elétrica
 - Parpública
-- Energia
 - Privatização
 - Venda Directa
 relationships:
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57/2023/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57/2023/06/13/p/dre
+- type: cites
+  target: pt:dre:137126910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203747047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214315734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:10Z'
   warnings: []
   errors: []
 ---
@@ -139,3 +155,5 @@ Nos termos do artigo 13.º do caderno de encargos da venda direta, aprovado em a
 7 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 26 de outubro de 2023. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117002656

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/08100/0140401405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/24/2016/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2016-74284596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d4190474e6eb7b9cb951c747a9da58a1e909c9f262e4e0a2194e9e49e549362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de6ab145f46905e4746e7954ef907617258894016e496380f34e59fd04de3865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Ministro da Economia
 - Comércio Externo
 - Conselho Estratégico de Internacionalização da Economia
 - Definição de Competências
 - Diplomacia Económica
 - Internacionalização Empresarial
-- Ministro dos Negócios Estrangeiros
-- Primeiro-ministro
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Ministro da Economia
+- Ministro dos Negócios Estrangeiros
 - Presidência do Conselho de Ministros
+- Primeiro-ministro
 relationships:
+- type: amended_by
+  target: pt:dre:123036563:por
+  label: Determinada a atribuição ao Ministro do Planeamento das competências anteriormente atribuídas ao Ministro do Planeamento
+    e das Infraestruturas pela Res 44/2011 de 25-out da PCM, na redação do presente diploma, pelo(a) Resolução do Conselho
+    de Ministros n.º 112/2019 - Diário da República n.º 129/2019, Série I de 2019-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2019-123036563
+  date: '2019-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/115/2009/12/15/p/dre
   label: null
@@ -99,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/64/2013/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64/2013/10/15/p/dre
+- type: cites
+  target: pt:dre:146923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:37Z'
   warnings: []
   errors: []
 ---

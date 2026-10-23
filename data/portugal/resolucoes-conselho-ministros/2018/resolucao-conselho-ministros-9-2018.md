@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/01900/0072000720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/9/2018/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2018-114585059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0de8be7a08a2c457421bfc8f9b343d0e2c4e61da61dc58cba9020209d55727bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b444f4808890d9899c1f290afaf037286e881da135af91e0468bfd293bcc00f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
 - Autorização de Despesas
-- Financiamento
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Conselho de Ministros
 - Delegação de Competências
 - Empreitada de Obras Públicas
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Financiamento
+- Governo XXI
+- Habitação
+- Ministro do Planeamento e das Infraestruturas
 - Mortágua
 - Obras Públicas
 - Oliveira do Hospital
 - Pampilhosa da Serra
 - Penacova
-- Habitação
+- Prevenção de Incêndios
+- Programa de Apoio à Reconstrução de Habitação Permanente
 - Santa Comba DÃO
 - Tabua
 - Tondela
 - Vouzela
-- Governo XXI
-- Ministro do Planeamento e das Infraestruturas
-- Programa de Apoio à Reconstrução de Habitação Permanente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2017/11/14/p/dre
@@ -107,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:114200699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:36Z'
   warnings: []
   errors: []
 ---
@@ -160,3 +180,5 @@ e) Empreitada para a reconstrução de habitações permanentes nos Municípios 
 5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 25 de janeiro de 2018. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+111089405

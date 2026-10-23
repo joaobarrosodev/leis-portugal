@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14100/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2022/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2022-186522362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4a66692f4d4b5fced62c3f8aa74653efe0c436d622dd608aa9a2389251d31c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e4ead6b47969d1d09be42ee1c29c5de2c86f81c11c24cb608c68b9682683ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Definição de Competências
+- Doença Infecciosa
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
 - Ensino Oficial
 - Ensino Profissional
+- Ensino Secundário
+- Epidemia
 - Escolaridade Obrigatória
+- Estabelecimento de Ensino
 - Estudante
 - Gestão Escolar
-- Ensino Secundário
 - Instituto de Avaliação Educativa
-- Doença Infecciosa
-- Epidemia
-- Política de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
-- Sistema de Ensino
-- Educação Pré-escolar
 - Plano 21|23 Escola+
+- Política de Educação
+- Sistema de Ensino
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:90/2021
+  label: Mantém em vigor, com as especificidades constantes na presente resolução e na Resolução do Conselho de Ministros
+    n.º 90/2021, de 7 de julho, as regras de organização do ano letivo nos estabelecimentos públicos de educação pré-escolar
+    e dos ensinos básico e secundário, previstas no DN 10-B/2018 de 06-jul DR.IIS [129]Supl, e estabelece que, no ano letivo
+    de 2022/2023, ficam excecionalmente abrangidos pelas tutorias previstas no art. 12.º daquele despacho os alunos dos 2.º
+    e 3.º ciclos do ensino básico e do ensino secundário que, no ano letivo de 2021/2022, não transitam para o ano de escolaridade
+    seguinte.
+  source: null
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
   label: null
@@ -91,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
+- type: cites
+  target: pt:dre:115652972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166569087:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:24:43Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +158,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 6 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
 
 Presidência do Conselho de Ministros, 7 de julho de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115538339

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 192/2015, 1º Suplemento, Série I de 2015-10-01
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8578-(169) a 8578-(278)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83-b/2015/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-b-2015-70433354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905cc335918d0bab0f3bc5ca24678cd6273ac75b6416d41cdc0e69618f3a071d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7761b3bbc826e020f9076cee9623fbb3b3b96a30462dfa988d112c900e369931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada com Portagem SCUT
 - Auto-estrada da Beira Interior
-- SCUT
-- Financiamento
 - Beira Interior
-- Transporte Terrestre
-- Ministro da Economia
 - Contrato de Concessão
 - Definição de Competências
-- Rede de Estradas
+- Financiamento
 - Gestão
-- Auto-estrada
-- Parceria Público-Privada
+- Ministro da Economia
 - Ministro de Estado e das Finanças
+- Parceria Público-Privada
+- Rede de Estradas
+- SCUT
 - Scutvias
 - Taxa
+- Transporte Terrestre
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -127,16 +127,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93-a/1999/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93-a/1999/08/20/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70409923:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:11Z'
   warnings: []
   errors: []
 ---
@@ -397,57 +457,57 @@ cccc) Viagem - o percurso realizado num conjunto de Sublanços, com um ou mais p
 
 ## ANEXO 1: Contrato de Empreitada;
 
-## ANEXO 2: Contratos de Financiamento;
+ANEXO 2: Contratos de Financiamento;
 
 ## ANEXO 3: Contratos do Projeto;
 
-## ANEXO 4: Composição do Agrupamento;
+ANEXO 4: Composição do Agrupamento;
 
 ## ANEXO 5: Estatutos;
 
-## ANEXO 6: Acordo de Subscrição e Realização de Capital;
+ANEXO 6: Acordo de Subscrição e Realização de Capital;
 
 ## ANEXO 7: Acordo Parassocial;
 
-## ANEXO 8: Programa de Trabalhos;
+ANEXO 8: Programa de Trabalhos;
 
-## ANEXO 9: Estrutura acionista da Concessionária;
+ANEXO 9: Estrutura acionista da Concessionária;
 
-## ANEXO 10: Limites à oneração de ações;
+ANEXO 10: Limites à oneração de ações;
 
 ## ANEXO 11: Caso Base;
 
-## ANEXO 12: Garantias bancárias;
+ANEXO 12: Garantias bancárias;
 
 ## ANEXO 13: Programa de seguros;
 
-## ANEXO 14: Acordo Direto;
+ANEXO 14: Acordo Direto;
 
-## ANEXO 15: Condições de intervenção dos Bancos Financiadores;
+ANEXO 15: Condições de intervenção dos Bancos Financiadores;
 
-## ANEXO 16: Definição dos Sublanços e limites da Concessão;
+ANEXO 16: Definição dos Sublanços e limites da Concessão;
 
-## ANEXO 17: Garantias relativas aos Lanços existentes;
+ANEXO 17: Garantias relativas aos Lanços existentes;
 
-## ANEXO 18: Estrutura Acionista Atual da Concessionária;
+ANEXO 18: Estrutura Acionista Atual da Concessionária;
 
-## ANEXO 19: Critérios Chave da reposição do equilíbrio financeiro;
+ANEXO 19: Critérios Chave da reposição do equilíbrio financeiro;
 
-## ANEXO 20: Sistema de cobrança de taxas de portagem;
+ANEXO 20: Sistema de cobrança de taxas de portagem;
 
-## ANEXO 21: Compensações anuais do Concedente;
+ANEXO 21: Compensações anuais do Concedente;
 
-## ANEXO 22: Informação processada pelo sistema de cobrança de taxas de portagem;
+ANEXO 22: Informação processada pelo sistema de cobrança de taxas de portagem;
 
-## ANEXO 23: Memorando de Entendimento;
+ANEXO 23: Memorando de Entendimento;
 
-## ANEXO 24: Contrato de Manutenção;
+ANEXO 24: Contrato de Manutenção;
 
-## ANEXO 25: Contrato de Prestação de Serviços;
+ANEXO 25: Contrato de Prestação de Serviços;
 
-## ANEXO 26: Manual de Operação e Manutenção;
+ANEXO 26: Manual de Operação e Manutenção;
 
-## ANEXO 27: Plano de Controlo de Qualidade.
+ANEXO 27: Plano de Controlo de Qualidade.
 
 2.2. Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão devem ser consideradas as disposições dos documentos que nele se consideram integrados, nos termos do número anterior, que tenham relevância na matéria em causa, e vice-versa.
 
@@ -841,7 +901,7 @@ Salvo quando o contrário decorrer do presente contrato ou de disposição imper
 
 30.1. As datas limite de entrada em serviço de cada um dos Lanços referidos nos números 5.1. e 5.2. são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 30.2. As datas de entrada em serviço e as datas de início da construção e da duplicação de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos.
 
@@ -1229,7 +1289,7 @@ b) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 As classes de veículos que os equipamentos descritos na cláusula anterior devem permitir classificar são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 54. Operação e manutenção
 
@@ -1401,7 +1461,7 @@ b) A compatibilidade com o disposto nas normas nacionais e da União Europeia re
 
 64.1. Para efeito da aplicação das tarifas de portagem, as classes de veículos são, por ordem crescente do respetivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 64.2. Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com 2 (dois) eixos, peso bruto superior a 2 300 kg e inferior ou igual a 3 500 kg, com lotação igual ou superior a 5 (cinco) lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às 4 (quatro) rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando os seus utilizadores:
 
@@ -1427,7 +1487,7 @@ b) Façam prova, perante a entidade gestora do respetivo sistema eletrónico de 
 
 65.1. As tarifas de portagem podem ser atualizadas, anualmente, no primeiro mês de cada ano civil, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 65.2. A proposta de atualização das tarifas de portagem deve ser apresentada pela Concessionária ao IMT e à IGF, devidamente justificada e com a antecedência mínima de 60 (sessenta) dias relativamente à data da entrada em vigor das mesmas.
 
@@ -1667,15 +1727,15 @@ Pent = Montante correspondente a cada penalidade diária aplicável no ano t nos
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 78.6. Sempre que se verifique:
 
@@ -1687,11 +1747,11 @@ b) ISt (Conc) (maior que) ISt-1 (ponderado), a Concessionária tem uma penalidad
 
 a) Incentivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 b) Penalidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 78.8. No caso de o Termo da Concessão ocorrer em mês diverso do mês de dezembro, são feitos os necessários ajustes ao cálculo dos incentivos e penalidades aplicáveis, na proporção dos meses inteiros que decorram entre janeiro e o Termo da Concessão.
 
@@ -1713,7 +1773,7 @@ c) Dos padrões mínimos de qualidade das Autoestradas definidos nos termos do P
 
 79.5. Sem prejuízo do disposto no número seguinte, o montante relativo às penalidades por incumprimento dos requisitos de qualidade das Autoestradas corresponde à soma das penalidades diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte (valores em euros):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 79.6. As penalidades previstas no número anterior são aplicadas a partir de 31 de dezembro de 2015 e apenas em 50% (cinquenta por cento) até 31 de dezembro de 2016.
 
@@ -2061,7 +2121,7 @@ h) Atividade fraudulenta destinada a lesar o interesse do público.
 
 97.3. No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do presente contrato, sendo entregues ao Concedente todos os bens que integram a Concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19201/0016900278.pdf)
 
 97.4. Todos os bens não contemplados no quadro constante do número anterior devem ser entregues em estado que garanta 50% (cinquenta por cento) da vida útil de cada um dos seus componentes.
 

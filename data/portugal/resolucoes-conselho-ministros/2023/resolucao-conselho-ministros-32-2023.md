@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06100/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2023/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2023-210982934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09135581bf435b56068cf7d95336503849138ad7f4be173e3e2195bef92d6cb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a552b7659af5bebfed9e33b6141731bba14552afa396da74340f14c5d315f3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aquisição de Bens e Serviços
-- Força Aérea
+- Autoridade Nacional de Emergência e Proteção Civil
 - Contrato
 - Despesas Públicas
 - Equipamento de Combate a Incêndios
-- Autoridade Nacional de Emergência e Proteção Civil
+- Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:216512894:por
@@ -90,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216512894:por
+  label: Revogada pelo(a) Resolução do Conselho de Ministros n.º 86-B/2023 - Diário da República n.º 147/2023, 1º Suplemento,
+    Série I de 2023-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/86-b-2023-216512894
+  date: '2023-07-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:01Z'
   warnings: []
   errors: []
 ---
@@ -149,3 +167,5 @@ c) Coadjuva a Força Aérea no acompanhamento da execução do contrato.
 8 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 23 de fevereiro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116303245

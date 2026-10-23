@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/897/1995/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/897-1995-462388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92a5efac82643202b0341fe68b029e3bec2f8bd6c4c2c6d0f99985f880fd33a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70597c90d7f7468adf87b9f1c13c4ef9ea72d21eb4ad49357d5594f6b2f7b427
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
-- Recursos Geológicos
-- Recursos Minerais
-- Recursos Geotérmicos
-- Recursos Naturais
 - Águas Subterrâneas
+- Recursos Geológicos
+- Recursos Geotérmicos
+- Recursos Hídricos
+- Recursos Minerais
+- Recursos Naturais
 - TAXA de Prestação de Serviços
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:43Z'
   warnings: []
   errors: []
 ---
@@ -100,30 +132,30 @@ Nestes termos, manda o Governo, pelos Ministros das Finanças e da Indústria e 
 
 1.º Águas de nascente ([Decreto-Lei n.º 84/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1990-333157), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 2.º Águas minero-industriais ([Decreto-Lei n.º 85/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1990-333158), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 3.º Águas minerais naturais ([Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 4.º Recursos geotérmicos ([Decreto-Lei n.º 87/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1990-333155), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 5.º Depósitos minerais ([Decreto-Lei n.º 88/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 6.º Massas minerais ([Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45524553.pdf)
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 14 de Junho de 1995.**
+Assinada em 14 de Junho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

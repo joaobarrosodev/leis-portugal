@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/09/18800/0000300045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/143/2025/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2025-937197428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7d94d57f20ec3f7e75ee93a9bacf7eedc9a63772f291ea646f5f4c913f6e120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3885540e961d2ab8ab5468b90509bc1f78feea7a52198540bc70b68ebe59dbbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração do Porto de Lisboa
-- Sociedade Anónima
+- Autoridade da Mobilidade e dos Transportes
 - Capital Social
 - Contrato de Concessão
-- Regulamentação de Atos Legislativos
-- Administração de Portos
-- Gestão do Património
 - Empresa de Silos Portuários
-- Autoridade da Mobilidade e dos Transportes
+- Gestão do Património
 - Minuta
+- Regulamentação de Atos Legislativos
+- Sociedade Anónima
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -121,23 +121,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+- type: cites
+  target: pt:dre:177455548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911131668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:935441900:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:41Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 143/2025
 
-O [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, e [13-B/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), de 14 de março, determinou a dissolução da SILOPOR - Empresa de Silos Portuários, S. A. (SILOPOR, S. A.), com efeitos reportados a 19 de junho de 2000, bem como a sua consequente entrada em liquidação.
+O [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.os[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, e [13-B/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), de 14 de março, determinou a dissolução da SILOPOR - Empresa de Silos Portuários, S. A. (SILOPOR, S. A.), com efeitos reportados a 19 de junho de 2000, bem como a sua consequente entrada em liquidação.
 
 Em 2025, a SILOPOR, S. A., apenas tinha por objeto a gestão integrada dos terminais da Trafaria e do Beato e dos respetivos silos no porto de Lisboa, bem como a exploração do silo no interior de Vale de Figueira, todos dedicados à movimentação e armazenamento de cereais.
 
@@ -169,7 +213,7 @@ Considerando que:
 
 A) A APL - Administração do Porto de Lisboa, S. A., é uma sociedade anónima de capitais exclusivamente públicos, que tem por objeto a administração do porto de Lisboa, assegurando o seu regular funcionamento nos seus múltiplos aspetos de ordem económica, financeira e patrimonial, de gestão de efetivos e de exploração portuária e ainda as atividades que lhe sejam complementares, subsidiárias ou acessórias, nos termos do [Decreto-Lei n.º 336/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1998-223015), de 3 de novembro, na sua redação atual;
 
-B) A SILOTAGUS, S. A., é uma sociedade integralmente detida pela APL, tendo por objeto a prestação do serviço de descarga e armazenagem de matérias-primas alimentares, incluindo a gestão integrada dos terminais da Trafaria e do Beato e dos silos da Trafaria, do Beato e do silo no interior de Vale de Figueira, tendo sucedido na posição da extinta SILOPOR - Empresa de Silos Portuários, S. A., nos termos dos n.<sup>os</sup>1 e 2 do artigo 7.º-A do [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, aditado pelo [Decreto-Lei n.º 13-B/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), de 14 de março;
+B) A SILOTAGUS, S. A., é uma sociedade integralmente detida pela APL, tendo por objeto a prestação do serviço de descarga e armazenagem de matérias-primas alimentares, incluindo a gestão integrada dos terminais da Trafaria e do Beato e dos silos da Trafaria, do Beato e do silo no interior de Vale de Figueira, tendo sucedido na posição da extinta SILOPOR - Empresa de Silos Portuários, S. A., nos termos dos n.os1 e 2 do artigo 7.º-A do [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, aditado pelo [Decreto-Lei n.º 13-B/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), de 14 de março;
 
 C) Nos termos da alínea b) do n.º 2 do artigo. 3.º do [Decreto-Lei n.º 336/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1998-223015), de 3 de novembro, na sua redação atual, é da competência da APL, a Concessão de serviços públicos portuários, podendo praticar todos os atos necessários à atribuição, execução, modificação e extinção da Concessão, nos termos da legislação aplicável;
 
@@ -289,9 +333,9 @@ Cláusula 5.ª
 
 |  | Unidade | Terminal do Beato | Terminal da Trafaria | Silo de Vale de Figueira |
 | --- | --- | --- | --- | --- |
-| Área coberta | m<sup>2</sup> | 6 624 | 11 862 | 3 164 |
-| Área descoberta | m<sup>2</sup> | 25 150 | 140 176 | 7 330 |
-| Leito do Rio | m<sup>2</sup> | 0 | 62 971 | 0 |
+| Área coberta | m2 | 6 624 | 11 862 | 3 164 |
+| Área descoberta | m2 | 25 150 | 140 176 | 7 330 |
+| Leito do Rio | m2 | 0 | 62 971 | 0 |
 | Cais | ml | 197 | 877 | 0 |
 
 2 - A Concedente deve proceder, no prazo de dois meses após a assinatura do Contrato, ao levantamento topográfico das áreas identificadas no número anterior.
@@ -446,9 +490,9 @@ b) As obras, equipamentos, máquinas, aparelhagens e respetivos acessórios, e t
 
 12 - A autorização da Concedente referida no número anterior considera-se concedida relativamente à celebração pela Concessionária dos Contratos de aluguer, locação operacional ou figuras contratuais afins, que tenham por objeto os bens e equipamentos que, nos termos do plano de investimentos, se prevê que sejam disponibilizados à Concessionária por recurso a essas tipologias contratuais, mas essa autorização não implica qualquer promessa de assunção, por parte da Concedente, da posição contratual da Concessionária nesses Contratos em caso de sequestro, resolução ou resgate da Concessão.
 
-13 - As contratações efetuadas pela Concessionária ao abrigo dos n.<sup>os</sup>9 e 10, não a eximem de qualquer das obrigações previstas no Contrato perante a Concedente, permanecendo a Concessionária a única responsável perante a Concedente, pelo bom e pontual cumprimento das obrigações que decorrem do Contrato.
+13 - As contratações efetuadas pela Concessionária ao abrigo dos n.os9 e 10, não a eximem de qualquer das obrigações previstas no Contrato perante a Concedente, permanecendo a Concessionária a única responsável perante a Concedente, pelo bom e pontual cumprimento das obrigações que decorrem do Contrato.
 
-14 - Não são oponíveis à Concedente quaisquer pretensões, exceções ou meios de defesa que resultem das relações contratuais estabelecidas com terceiros pela Concessionária nos termos dos n.<sup>os</sup>9 e 10.
+14 - Não são oponíveis à Concedente quaisquer pretensões, exceções ou meios de defesa que resultem das relações contratuais estabelecidas com terceiros pela Concessionária nos termos dos n.os9 e 10.
 
 Cláusula 12.ª
 
@@ -640,23 +684,23 @@ a) Taxa fixa (em euros), acrescida de IVA à taxa em vigor:
 
 a1) Terminal da Trafaria:
 
-i) Áreas Cobertas: 14,00 €/m<sup>2</sup>/ano;
+i) Áreas Cobertas: 14,00 €/m2/ano;
 
-ii) Áreas Descobertas: 8,00 €/m<sup>2</sup>/ano;
+ii) Áreas Descobertas: 8,00 €/m2/ano;
 
 iii) Comprimento dos Cais: 200,00 €/ml/ano;
 
-iv) Áreas de Leito do Rio: 1,32 €/m<sup>2</sup>/ano;
+iv) Áreas de Leito do Rio: 1,32 €/m2/ano;
 
 a2) Terminal do Beato:
 
-i) Áreas Cobertas: 24,00 €/m<sup>2</sup>/ano;
+i) Áreas Cobertas: 24,00 €/m2/ano;
 
-ii) Áreas Descobertas: 18,00 €/m<sup>2</sup>/ano;
+ii) Áreas Descobertas: 18,00 €/m2/ano;
 
 iii) Comprimento do Cais: 500,00 €/ml/ano;
 
-a3) Silo no interior de Vale de Figueira: 5,00 €/m<sup>2</sup>/ano;
+a3) Silo no interior de Vale de Figueira: 5,00 €/m2/ano;
 
 b) Taxa variável (em euros), acrescida do IVA à taxa em vigor, por tonelada movimentada nos cais dos Terminais da Trafaria e do Beato: 0,60 €/tonelada ou 6 % sobre o volume de negócios, consoante o montante que for mais elevado em cada período anual de referência.
 
@@ -960,7 +1004,7 @@ Não continuidade da exploração do Terminal de Granéis Alimentares do Beato
 
 3 - A não continuidade da exploração do Terminal de Granéis Alimentares do Beato inserida no presente Contrato, confere o direito à Concedente, querendo, de proceder ao lançamento e adjudicação de um procedimento pré-contratual concorrencial para a celebração de um Contrato de Concessão de serviço público que inclua a exploração do Terminal de Granéis Alimentares do Beato.
 
-4 - No caso referido no n.º 1 da presente cláusula, e na eventualidade da Concedente não dar continuidade à exploração do Terminal de Granéis Alimentares do Beato, a Concessionária fica obrigada ao cumprimento do fixado nos n.<sup>os</sup>9 e 10 da cláusula 19.ª
+4 - No caso referido no n.º 1 da presente cláusula, e na eventualidade da Concedente não dar continuidade à exploração do Terminal de Granéis Alimentares do Beato, a Concessionária fica obrigada ao cumprimento do fixado nos n.os9 e 10 da cláusula 19.ª
 
 ### CAPÍTULO VII — VICISSITUDES
 
@@ -1038,7 +1082,7 @@ Alteração das circunstâncias
 
 3 - Ressalvando as situações de absoluta impossibilidade de cumprimento do Contrato, a resolução do Contrato pela Concessionária, nos termos previstos no número anterior, apenas é admitida se não implicar grave prejuízo para a realização do interesse público subjacente à relação jurídica contratual ou, mesmo que implique tal prejuízo, se a manutenção do Contrato puser em causa a viabilidade económico-financeira da Concessionária ou se revele excessivamente onerosa, devendo, neste último caso, ser devidamente ponderados os interesses públicos e privados subjacentes ao Contrato.
 
-4 - Verificando-se a resolução do Contrato nos termos previstos nos n.<sup>os</sup>2 e 3 da presente cláusula, revertem e transferem-se para a Concedente o conjunto de bens, instalações e equipamentos móveis e fixos que integrem o Estabelecimento da Concessão, nos termos fixados no n.º 8 da cláusula 45.ª
+4 - Verificando-se a resolução do Contrato nos termos previstos nos n.os2 e 3 da presente cláusula, revertem e transferem-se para a Concedente o conjunto de bens, instalações e equipamentos móveis e fixos que integrem o Estabelecimento da Concessão, nos termos fixados no n.º 8 da cláusula 45.ª
 
 5 - Se a resolução do Contrato pela Concessionária se encontrar vedada por força do disposto no n.º 3, assiste à Concessionária o direito a uma compensação financeira, segundo critérios de equidade, pelos prejuízos decorrentes da manutenção do Contrato.
 
@@ -1234,7 +1278,7 @@ c) Incumprimentos leves - variam entre o limite de 1/3 do conjunto das taxas dom
 
 9 - Nos casos em que seja atingido o limite previsto no número anterior e a Concedente decida não proceder à resolução do Contrato, por dela resultar grave dano para o interesse público, aquele limite é elevado para 30 %.
 
-10 - Para efeitos dos limites previstos nos n.<sup>os</sup>7 e 8, no caso de prorrogações do prazo contratual, o valor máximo das sanções a aplicar tem por referência o preço contratual relativo ao seu período de vigência inicial.
+10 - Para efeitos dos limites previstos nos n.os7 e 8, no caso de prorrogações do prazo contratual, o valor máximo das sanções a aplicar tem por referência o preço contratual relativo ao seu período de vigência inicial.
 
 11 - A aplicação das sanções cabe ao Conselho de Administração da Concedente, devendo obrigatoriamente ser precedida de audição da Concessionária, nos termos do Código do Procedimento Administrativo.
 
@@ -1342,9 +1386,9 @@ d) Pelo exercício do direito de resolução.
 
 10 - Para os efeitos dos números anteriores, a Concessionária deve manter permanentemente atualizada, para apresentação à Concedente quando por esta requerido:
 
-a) Relação dos bens existentes a essa data como parte do estabelecimento e que, nos termos dos n.<sup>os</sup>2 e 6, devem reverter ou ser transferidos gratuitamente para a Concedente no termo da Concessão, com indicação do seu estado de conservação, condições de funcionamento e segurança, certificado por empresa terceira com reconhecida competência a nível nacional;
+a) Relação dos bens existentes a essa data como parte do estabelecimento e que, nos termos dos n.os2 e 6, devem reverter ou ser transferidos gratuitamente para a Concedente no termo da Concessão, com indicação do seu estado de conservação, condições de funcionamento e segurança, certificado por empresa terceira com reconhecida competência a nível nacional;
 
-b) Relação dos bens e equipamentos que, nos termos dos n.<sup>os</sup>3 e 6, devem reverter ou ser transferidos para a Concedente mediante indemnização, dele constando o respetivo valor contabilístico líquido de amortizações;
+b) Relação dos bens e equipamentos que, nos termos dos n.os3 e 6, devem reverter ou ser transferidos para a Concedente mediante indemnização, dele constando o respetivo valor contabilístico líquido de amortizações;
 
 c) Relação de direitos detidos pela Concessionária sobre terceiros que se considerem necessários para a continuidade dos serviços concedidos.
 
@@ -1372,7 +1416,7 @@ a) Ao valor mínimo entre (i) a soma dos valores de Cash-Flow do Projeto previst
 
 b) Ao valor apurado com base no número anterior acresce o valor contabilístico líquido estimado no final do período de Concessão, atualizado para a data do resgate com base na TIR da Concessão prevista no Caso Base, de instalações e equipamentos que, não fazendo parte do Plano de Investimentos, sejam propriedade da Concessionária e façam parte do Estabelecimento da Concessão, desde que a construção ou aquisição desses bens, equipamentos e instalações tenha sido previamente autorizada pela Concedente, com aprovação do respetivo custo e prazo de amortização, e desde esse valor corresponda a uma compensação devida pela Concedente no final do período de Concessão e não tenham dado causa à reposição do equilíbrio financeiro da Concessão, nos termos previstos na cláusula 34.ª
 
-c) Ao resultado apurado nos termos dos n.<sup>os</sup>5 e 6, deve deduzir-se o valor respeitante à poupança obtida pela Concessionária com a extinção antecipada da Concessão.
+c) Ao resultado apurado nos termos dos n.os5 e 6, deve deduzir-se o valor respeitante à poupança obtida pela Concessionária com a extinção antecipada da Concessão.
 
 6 - Os números anteriores são restritos apenas à parte resgatada, no caso do resgate previsto no n.º 2.
 
@@ -1636,18 +1680,24 @@ Anexos
 
 Fazem parte integrante do presente Contrato de Concessão, para todos os efeitos legais e contratuais os seguintes anexos:
 
-## Anexo I - Planta e Características das áreas dos Terminais da Trafaria e do Beato concessionados;
+Anexo I - Planta e Características das áreas dos Terminais da Trafaria e do Beato concessionados;
 
-## Anexo II - Planta e Características da área do Silo no interior de Vale de Figueira;
+Anexo II - Planta e Características da área do Silo no interior de Vale de Figueira;
 
-## Anexo III - Plano Físico dos Terminais e Silos;
+Anexo III - Plano Físico dos Terminais e Silos;
 
-## Anexo IV - Regulamentos de Exploração dos Terminais;
+Anexo IV - Regulamentos de Exploração dos Terminais;
 
-## Anexo V - Regulamentos de Tarifas dos Terminais;
+Anexo V - Regulamentos de Tarifas dos Terminais;
 
-## Anexo VI - Planos de Segurança dos Terminais;
+Anexo VI - Planos de Segurança dos Terminais;
 
-## Anexo VII - Caso Base; — Anexo VIII - Programa de Seguros da Concessão; e
+## Anexo VII - Caso Base;
 
-## Anexo IX - Investimentos mínimos a realizar pela Concessionária e respetivos prazos.
+## Anexo VIII - Programa de Seguros da Concessão; e
+
+Anexo IX - Investimentos mínimos a realizar pela Concessionária e respetivos prazos.
+
+119585756
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; }

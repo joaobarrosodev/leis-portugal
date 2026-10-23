@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/414/1996/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1996-401886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ac6d70276d8a89fc1200802df5bff7de71f1a6bfab08d9cd9d043fe6d5ec6c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e200ce70e164a21c813027d282c380cbb7de5e82b4fbee08e7923eeffa40a4ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Definição de Competências
-- Desemprego de Longa Duração
 - Artesanato
 - Criação de Emprego
+- Definição de Competências
+- Desemprego de Longa Duração
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Política de Emprego
 - Primeiro Emprego
 - Programa Escolas-oficinas
 - Promoção de Emprego
-- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:644358:por
+  label: "Revogados os nºs 18º a 20º pela PORT.196-A/2001.2001.03.10.MTS DR.IS-B [59]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-a-2001-644358
+  date: '2001-03-10'
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogada a partir de 31.01.2015, na redação da Port 196-A/2001, de 10-mar, pelo(a) Decreto-Lei n.º 13/2015 - Diário
+    da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:02Z'
   warnings: []
   errors: []
 ---
@@ -373,9 +392,9 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministério para a Qualificação e o Emprego.
 
-**Assinada em 12 de Julho de 1996.**
+Assinada em 12 de Julho de 1996.
 
-**A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.**
+A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
 
 LISTA ANEXA
 

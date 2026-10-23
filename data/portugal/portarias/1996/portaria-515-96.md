@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/515/1996/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/515-1996-214537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeed46aecd514296a93af7203670ae476a86ee07972106a44bd6198b7e4bb8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6297852f91fe4f9faf09a94cba48ca8d06448dae46b1e86b7c23f4372443aa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Cinema
 - Concurso
-- Produção Cinematográfica
+- Financiamento
+- Indústria Cinematográfica
 - Instituto Português da ARTE Cinematográfica e Audiovisual
 - JURO Bonificado
+- Produção Cinematográfica
 - Regime de Apoio
-- Cinema
-- Indústria Cinematográfica
 - Subsídio
 - Subsídio não Reembolsável
 relationships:
@@ -80,6 +80,47 @@ relationships:
   target: pt:dre:480711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144631:por
+  label: "Alterada a redacção do art. 1º, da al. a) do art. 3º, da al. l) do art. 4º, eliminado o n.º 3 do art. 5.º e mantido\
+    \ em vigor o Regime aprovado pelo presente diploma, pela Port.565/97.1997.07.26.MC, DR.IS-B [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/565-1997-144631
+  date: '1997-07-26'
+- type: amended_by
+  target: pt:dre:187745:por
+  label: "Alterada a redacção do art. 1.º, da al. l) do art. 4.º (ambos na redacção da Port 565/97, de 26-Jul), do n.º 2 do\
+    \ art. 5.º, aditados dois novos n.ºs. ao art. 3.º, uma nova al. p) ao art. 4.º e um n.º 3 ao art. 10.º, mantido em vigor\
+    \ o Regime aprovado pelo presente diploma, e republicado na íntegra, pela PORT.1061/98.1998.12.28.MC DR.IS-B [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1061-1998-187745
+  date: '1998-12-28'
+- type: amended_by
+  target: pt:dre:627259:por
+  label: "Alterada a redacção do art. 1.º, do n.º 1 do art. 3.º e da al. l) do art. 4.º e mantido em vigor o regime publicado\
+    \ em anexo ao presente diploma, alterado pela Port 565/97, de 26-Jul e alterado e republicado pela Port 1061/98, de 28-Dez,\
+    \ pela PORT.1057/99.03.12.1999.MC, DR.IS-B [281] de 03.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1057-1999-627259
+  date: '1999-12-03'
+- type: amended_by
+  target: pt:dre:660080:por
+  label: "Alterados o art. 1.º, os n.ºs 1 e 3 do art. 3.º, als. f) e l) do art. 4º e eliminada a al. o) do mesmo art., e determinada\
+    \ para o ano 2000, a manutenção em vigor do regime aprovado pelo presente diploma, com as alterações dadas pelas Ports\
+    \ 565/97 de 26-Jul, 1061/98 de 28-Dez e 1057/99 de 23-Dez, pela PORT.1200/2000.2000.12.20.MC DR.IS-B [292], que o republica\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1200-2000-660080
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:508237:por
+  label: "Alterados os arts. 1º, 3º, 4º e 9º do regime transitório de apoio financeiro à exibição cinematográfica, constante\
+    \ deste diploma, com as alterações introduzidas pelas Port 565/97 de 26-Jul, 1061/98 de 28-Dez 1057/99 de 03-Dez e 1200/2000\
+    \ de 20-Dez, pela PORT.1452-A/2001.2001.12.27.MC DR.IS-B [298]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1452-a-2001-508237
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:480711:por
+  label: "Mantida em vigor pela LEI.42/2004.18.08.2004.AR, DR.IS-A [194] de 18.08.2004, até à aprovação das normas de execução\
+    \ da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2004-480711
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -92,16 +133,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:276786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:31Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +181,7 @@ Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
 Ministério da Cultura.
 
-**Assinada em 22 de Agosto de 1996.**
+Assinada em 22 de Agosto de 1996.
 
 Pelo Ministro da Cultura, Rui Vieira Nery, Secretário de Estado da Cultura.
 

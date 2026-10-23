@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21700/0008600092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/159/2024/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/159-2024-895990689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1072df1a9dfe3eb0ac35daf0ed27d9b5ace0ac0fcb640305c41f8be5d6c64df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 863f0f3b41a9d69c10f30cf80a3f5749ef588ef1d62073f2e6f3ad7f1cdc2b82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Autorização de Despesas
-- Ministro da Saúde
-- Ministro da Economia
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
-- Ministro da Cultura
 - Entidade de Serviços Partilhados da Administração Pública
-- Ministro da Agricultura e Pescas
-- Ministro dos Assuntos Parlamentares
-- Ministro de Estado e das Finanças
-- Ministro da Defesa Nacional
-- Ministro da Presidência
-- Ministro da Administração Interna
-- Ministro do Trabalho Solidariedade e Segurança Social
+- Gás Natural
 - Governo XXIV
 - Ministro Adjunto e da Coesão Territorial
+- Ministro da Administração Interna
+- Ministro da Agricultura e Pescas
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
 - Ministro da Educação Ciência e Inovação
-- Ministro das Infraestruturas e Habitação
-- Ministro do Ambiente e Energia
+- Ministro da Justiça
 - Ministro da Juventude e Modernização
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Infraestruturas e Habitação
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente e Energia
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Assuntos Parlamentares
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
@@ -119,16 +119,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:08Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +195,7 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 Presidência do Conselho de Ministros, 29 de outubro de 2024. - O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1, 2 e 4)
+## ANEXO — (a que se referem os n.os1, 2 e 4)
 
 | Número de identificação de pessoa coletiva | Designação da entidade | Valor s/ IVA 2025 |
 | --- | --- | --- |
@@ -323,3 +351,7 @@ Presidência do Conselho de Ministros, 29 de outubro de 2024. - O Primeiro-Minis
 | 501442600 | Instituto do Emprego e Formação Profissional, I. P. | 4 800 342,40 € |
 | 600081966 | Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social | 9 756,10 € |
 |  | Total (s/ IVA) | 37 527 103,91 € |
+
+118324933
+
+.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { text-align:right; } .Tbl13 { min-height:18px; } .Tbl14 { text-decoration:none; } .Tbl15 { min-height:19px; } .Tbl16 { min-height:29px; }

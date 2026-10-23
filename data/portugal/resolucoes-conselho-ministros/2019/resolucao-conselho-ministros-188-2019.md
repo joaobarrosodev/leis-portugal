@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/23400/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/188/2019/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2019-126904848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: babe31f04512ede06df3812d9dc7fe2f4b45ee5745fde8ca656dd2b94f64822e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fadc723b4b69eb742509e85a3e3e33f3aba07d59793c36b0410631d37ebce5b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Energia Elétrica
+- Combustível
 - Conselho de Ministros
+- Contratação Pública
 - Contrato Administrativo
 - Delegação de Competências
 - Despesas Públicas
-- Combustível
-- JURI
+- Energia Elétrica
 - Entidade de Serviços Partilhados da Administração Pública
+- Gás Natural
 - Governo XXII
-- Contratação Pública
+- JURI
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2017/06/06/p/dre
+- type: cites
+  target: pt:dre:107477149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124981341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124981342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124981343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:10Z'
   warnings: []
   errors: []
 ---
@@ -137,3 +161,5 @@ Nos termos da [Resolução do Conselho de Ministros n.º 78/2017](https://diario
 2 - Determinar que a presente resolução produz efeitos a 26 de outubro de 2019, ficando por esta forma ratificados todos os atos que, no âmbito das competências ora delegadas, tenham sido praticados.
 
 Presidência do Conselho de Ministros, 28 de novembro de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+112816374

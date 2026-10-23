@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/714/1996/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-1996-186756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ab1d9df6dc598a9a3ff4f329bd3c0aac15a331ccc89691f2fada6ea39e3640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e478b1f9ea615a0c353041f2afe03ae4555668c7115eda4b28db0ee023f9ec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Cinema
+- Cobrança de Dívidas
 - Dívida
 - Dívidas ao Estado
-- Produção Cinematográfica
-- Ministro da Cultura
-- Instituto Português da ARTE Cinematográfica e Audiovisual
-- Prazo
-- Cobrança de Dívidas
-- Reembolso
-- Cinema
+- Financiamento
 - Indústria Cinematográfica
+- Instituto Português da ARTE Cinematográfica e Audiovisual
+- Ministro da Cultura
+- Prazo
+- Produção Cinematográfica
+- Reembolso
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:193582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515241:por
+  label: "Alterado o num 2.5 e o num 2.7 do num 2 pela Port 175/97.1997.03.10.MC, DR.IS-B [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1997-515241
+  date: '1997-03-10'
+- type: amended_by
+  target: pt:dre:193582:por
+  label: "Mantida em vigor pelo DEC LEI.15/99.1999.01.15.MC DR.IS-A [12], até à aprovação das respectivas normas de execução.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1999-193582
+  date: '1999-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/188/1991/09/04/p/dre
   label: null
@@ -122,16 +133,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:219366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662907:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:53Z'
   warnings: []
   errors: []
 ---
@@ -200,6 +271,6 @@ Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
 Ministério da Cultura.
 
-**Assinada em 4 de Novembro de 1996.**
+Assinada em 4 de Novembro de 1996.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.

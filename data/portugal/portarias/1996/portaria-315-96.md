@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/315/1996/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/315-1996-408500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4bc7bcf9c4007c3924af59f41d16db6dd0969432a36037f542d46674ef6f8e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5941127a830917577e8de7d26a3b36006b7fe61cfbaee92d6e063cdf8c6925cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Cinema
 - Convenção
-- Produção Cinematográfica
+- Financiamento
+- Indústria Cinematográfica
 - Instituto Português da ARTE Cinematográfica e Audiovisual
 - País Estrangeiro
+- Produção Cinematográfica
 - Regulamento
 - Regulamento de Apoio Financeiro as Co-produções Cinematográficas
-- Cinema
-- Indústria Cinematográfica
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:480711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193582:por
+  label: "Mantida em vigor pelo DEC LEI.15/99.1999.01.15.MC DR.IS-A [12], até à aprovação das respectivas normas de execução\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1999-193582
+  date: '1999-01-15'
+- type: amended_by
+  target: pt:dre:480711:por
+  label: "Mantida em vigor pela LEI.42/2004.18.08.2004.AR, DR.IS-A [194] de 18.08.2004, até à aprovação das normas de execução\
+    \ da mesma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2004-480711
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -88,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:35Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +144,9 @@ Ao abrigo do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 350/93](http
 
 Ministério da Cultura.
 
-**Assinada em 17 de Junho de 1996.**
+Assinada em 17 de Junho de 1996.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
 REGULAMENTO DE APOIO FINANCEIRO ÀS CO-PRODUÇÕES CINEMATOGRÁFICAS
 

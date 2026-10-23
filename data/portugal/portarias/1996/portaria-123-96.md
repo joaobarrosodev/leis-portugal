@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/091b00/08860887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123/1996/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-1996-571619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa5e1fb613098ad70f5a344750dd7c232d7a15da75e5c75d244fb4964f451c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6d6d43b0fdb6d22217186bdbeec7590f7178eb5d586f1e3777a938f61d24325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
-- Infarmed
 - Conselho Nacional de Publicidade de Medicamentos
+- Infarmed
+- Publicidade
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:667088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567696:por
+  label: "Alterado o art. 2º do Regulamento aprovado pelo presente diploma, pela PORT.696/98.1998.09.04.PCM, DR.IS-B [204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-1998-567696
+  date: '1998-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:264967:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667088:por
+  label: "Revogada pela PORT.257/2006.10.03.2006.MS, DR.IS-B [50] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-2006-667088
+  date: '2006-03-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:50Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +121,7 @@ Manda o Governo, pela Ministra da Saúde, aprovar o Regulamento do Conselho Naci
 
 Ministério da Saúde.
 
-**Assinada em 21 de Março de 1996.**
+Assinada em 21 de Março de 1996.
 
 Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
 

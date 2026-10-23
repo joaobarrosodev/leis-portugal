@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/226b00/34123424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/518/1996/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-1996-213617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9790ef4a831ebfa776eb4198eb30365890661b315fa805b6ee1fb58cb3ffc84e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67e7a56ca6fc7d8c8374b91c4ea518fd86d66d66681153ca256a69a075e70cba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
 subjects:
 - Árvore
 - Catálogo Nacional de Variedades
+- Certificado de Qualidade
+- Comércio
 - Comissão Nacional para o Exame de Variedades de Morangueiro
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
 - Estatuto
 - Estatuto de Produtor e de Fornecedor de Materiais de Viveiro Certificados de Morangueiro
+- Fruticultura
 - Licenciamento
-- Certificado de Qualidade
 - Materiais de Viveiro
-- Produção Agrícola
 - Plantula
+- Produção Agrícola
 - Produção Vegetal
 - Regulamento
-- Fruticultura
 - Regulamento Geral para a Constituição da Lista Nacional de Variedades de Morangueiro e do Catálogo Nacional de Variedades
   de Morangueiro
 - Regulamento para a Execução do Esquema da Certificação de Materiais de Viveiro de Morangueiro
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:641704:por
@@ -107,16 +107,26 @@ relationships:
   target: celex:31993L0079
   label: null
   source: http://data.europa.eu/eli/dir/1993/79/oj
+- type: corrected_by
+  target: pt:dre:235330:por
+  label: "Rectificada pela DECL-RECT.4-G/97.1997.01.20.PCM, DR.IS-B [26]3ºsupl de 1997.01.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-g-1997-235330
+  date: '1997-01-20'
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogada pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 article_structure:
   article_count: 52
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:37Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +155,7 @@ c) Estatuto de Produtor e Fornecedor de Materiais de Viveiro Certificados de Mor
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 27 de Agosto de 1996.**
+Assinada em 27 de Agosto de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
 

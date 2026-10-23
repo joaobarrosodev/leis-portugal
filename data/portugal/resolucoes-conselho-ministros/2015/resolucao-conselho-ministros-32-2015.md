@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09800/0261302614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2015/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2015-67250266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 150053711b6458aef0240a9ed6fcc91f202109a699ea1edc7a611075781bb686
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6db7132e7775860aac5747c4dde405e80a04d2bec3e4d0af5f58ca3cebed11c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Meteorologia
 - Conselho de Ministros
 - Contrato
 - Convenção
 - Delegação de Competências
 - Despesas Públicas
 - Eumetsat
-- Instituto Português do Mar e da Atmosfera
 - Governo XIX
+- Instituto Português do Mar e da Atmosfera
+- Meteorologia
 - Ministro da Agricultura e do MAR
 - Satélite
 relationships:
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:128907747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128907747:por
+  label: Alterados, com efeitos a 23.01.2020, os n.ºs. 1, 2, 3 e 5 e o anexo ao presente diploma, pelo(a) Resolução do Conselho
+    de Ministros n.º 5/2020 - Diário da República n.º 26/2020, Série I de 2020-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/5-2020-128907747
+  date: '2020-02-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -104,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/22/1994/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/22/1994/05/11/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:42Z'
   warnings: []
   errors: []
 ---
@@ -156,4 +186,4 @@ Presidência do Conselho de Ministros, 7 de maio de 2015. - O Primeiro-Ministro,
 
 ## ANEXO — (a que se refere o n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09800/0261302614.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09800/0261302614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09800/0261302614.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/851/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/851-1995-460208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcdee34f6ada808e4c103ca2d0153fc5ab520a3b70ac778cdbabdd6118056ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4efcdd273e2db215b76961c69f9eb942f5c824452dd405a090151253fdc283bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:494500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:270409:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, pela PORT.524/2004.20.05.2004.MECO,\
+    \ DR.IS-B [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-2004-270409
+  date: '2004-05-20'
+- type: amended_by
+  target: pt:dre:346094:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça atribuída pelo presente diploma, alterado pela\
+    \ Port 524/2004, de 20-Mai, pela PORT.539/2006.08.06.2006.MADRP, DR.IS-B [111] de 08.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-2006-346094
+  date: '2006-06-08'
+- type: amended_by
+  target: pt:dre:494500:por
+  label: "Transferida para a Herdeiros de João Rodrigues Ferreira Palma, a zona de caça atribuída pelo presente diploma, alterada\
+    \ pela Port 524/2004, de 20-Maio e pela Port 539/2006, de 08-Jun, pela PORT.621/2009.08.06.2009.MADRP, DR.IS [110] de\
+    \ 08.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-2009-494500
+  date: '2009-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-a3/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-a3/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:35Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +179,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/44704470.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/44704470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44704470.pdf)

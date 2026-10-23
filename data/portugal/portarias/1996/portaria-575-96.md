@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/575/1996/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-1996-230931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fea23f45756cb0b3a0bbfc505dcb6a4b52b5f7ae932c15be64637968c74f4be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f36b664ffcdceabe4a36bd94d34b5eafa1916bb0b64693be5b0eba100ea95064
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Departamento de Relações Internacionais de Segurança Social
 - Carreira Profissional
-- Pessoal Operário
-- Impressor de Offset
+- Departamento de Relações Internacionais de Segurança Social
 - Descrição de Funções
+- Impressor de Offset
+- Pessoal Operário
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 - Segurança Social
@@ -83,16 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/320/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/320/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:626591:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:516900:por
+  label: "Rectificada pela Decl-Rect.16-F/96.1996.11.19.PCM, DR.IS-B [278]2ºSupl de 1996.11.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-f-1996-516900
+  date: '1996-11-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:54Z'
   warnings: []
   errors: []
 ---
@@ -111,14 +120,14 @@ Manda o Governo, pelos Ministros das Finanças, da Solidariedade e Segurança So
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Solidariedade e Segurança Social.
 
-**Assinada em 26 de Agosto de 1996.**
+Assinada em 26 de Agosto de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Solidariedade e Segurança Social, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO I — Quadro de pessoal do Departamento de Relações Internacionais de Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf))](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf)
 
 ## ANEXO II — Conteúdos funcionais das categorias de pessoal das carreiras de tradutor-correspondente-intérprete e de impressor de offset
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf))](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/238b00/35943595.pdf)

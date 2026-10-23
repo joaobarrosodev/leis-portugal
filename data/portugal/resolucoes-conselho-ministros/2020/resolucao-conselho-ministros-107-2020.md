@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24100/0001000010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/107/2020/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2020-151036060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 623a0237814a9beaefd28a4556a85814bb821aea867ea089927c78dbaedcdbcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac902333f7a6b15e394728f540bb20e982ed0ace6d336f392fa1325b63c1e9db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
 subjects:
 - Cidadão Estrangeiro
 - Direito de Regresso
-- Pagamento
 - Indemnização
-- Serviço de Estrangeiros e Fronteiras
+- Pagamento
 - Provedor de Justiça
 - Responsabilidade do Estado
+- Serviço de Estrangeiros e Fronteiras
 - Ucrânia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:28Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +117,5 @@ Nos termos da alínea f) do n.º 1 do artigo 200.º da Constituição, o Conselh
 4 - Determinar que a referida indemnização seja desde já suportada pelo orçamento do Serviço de Estrangeiros e Fronteiras, sendo o direito de regresso exercido nos termos que resultarem da responsabilidade individual judicialmente provada.
 
 Presidência do Conselho de Ministros, 10 de dezembro de 2020. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113800337

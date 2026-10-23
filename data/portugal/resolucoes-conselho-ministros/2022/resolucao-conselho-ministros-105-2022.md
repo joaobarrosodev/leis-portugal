@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21100/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/105/2022/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2022-202899923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afc6b8079a95760c95ec3181277151bcf1fa1ade3e2d0c06e2c6024e74da7264
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f0a95198df229c6238f8712cd97be99d56c3d182564d97956c3c78612ba6d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Regional
 - FEDER
-- Fundos CE
+- Financiamento
 - FSE
+- Fundos CE
+- IFRRU 2020
+- PORTUGAL 2020
 - Programa de Reabilitação Urbana
 - Reembolso
-- PORTUGAL 2020
-- IFRRU 2020
 relationships:
 - type: cites
   target: celex:32013R1301
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
+- type: cites
+  target: pt:dre:69866641:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:51Z'
   warnings: []
   errors: []
 ---
@@ -139,3 +143,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 5 - Estabelecer que a presente resolução entra em vigor no dia útil seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 20 de outubro de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115826123

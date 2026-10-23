@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/18200/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/133/2021/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/133-2021-171516468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7fd7131bcfb35be53c82deabb6aee17e10835d727860f8b8337bce99bdd7712
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ffc2af8dae73bed2514f48f704df83011d47ddfbdd59e766d9f73461b0e079
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
-- Crustáceo
-- Recursos do Mar
-- Instituto da Conservação da Natureza e das Florestas
+- Agência Portuguesa do Ambiente
 - Aquicultura
-- Proteção do Ambiente
+- Crustáceo
 - Diversidade Biológica
 - Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
+- Proteção do Ambiente
+- Proteção dos Animais
+- Recursos do Mar
 - Recursos Naturais
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32014R1143
@@ -124,16 +124,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/55/2018/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2018/05/07/p/dre
+- type: cites
+  target: pt:dre:106824982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108107541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108165169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108174112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108174113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114236882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115146377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485722:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:00Z'
   warnings: []
   errors: []
 ---
@@ -503,3 +551,5 @@ Tendo em conta que as medidas de controlo serão implementadas por entidades que
 11 - Governança do plano de ação
 
 O ICNF, I. P., exerce a coordenação, o controlo, a vigilância e a monitorização do presente plano de ação dentro do seu orçamento, com pessoal próprio e, portanto, sem aumento de despesa.
+
+114570161

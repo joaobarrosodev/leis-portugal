@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/188/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2024-900079877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86cb5b9c1d49bb1b778567c1eafa1670fa6997384205ea40a2c7ed3332df3e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65ba83f655b0159871c9eba04f0064233cc58a2148b21934e2412af29006c847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
 - Conselho de Ministros
+- Cooperação Tecnológica
 - Delegação de Competências
 - Despesas Públicas
-- Cooperação Tecnológica
+- Fundação para a Ciência e a Tecnologia
 - Governo XXIV
+- Investigação Científica e Tecnológica
 - Ministro da Educação Ciência e Inovação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:193/2023
+  label: Altera, a partir de 14 de dezembro de 2024, os n.ºs 2, 3, 4, 5, 6, 7, 8, 9, 10 e os anexos i e ii e adita o anexo
+    iii à Resolução do Conselho de Ministros n.º 193/2023, de 26 de dezembro, Diário da República n.º 247/2023, Série I
+  source: null
+  date: '2023-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -105,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2018/03/08/p/dre
+- type: cites
+  target: pt:dre:114832286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205110007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674298:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:47Z'
   warnings: []
   errors: []
 ---
@@ -183,35 +217,37 @@ Presidência do Conselho de Ministros, 28 de novembro de 2024. - O Primeiro-Mini
 
 Programa «GoPortugal - Global Science and Technology Partnerships - Portugal»
 
-|  | 2024 | 2025 |
+| (em euros) |  |  |
 | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) |
+|  | 2024 | 2025 |
 | Fraunhofer Portugal | [...] | 1 500 000,00 |
 | MIT-Portugal | [...] | – |
 | CMU - Portugal | [...] | – |
 | UT Austin - Portugal | [...] | – |
 | Total | [...] | 1 500 000,00 |
-| Total global | 14 200 000,00 | 14 200 000,00 |
+| Total global | 14 200 000,00 |  |
 
-## ANEXO II — (a que se refere o n.º 3)
+ANEXO II
+
+(a que se refere o n.º 3)
 
 Quotizações de organizações internacionais relativas a 2024
 
-|  | 2024 | 2024 |
+| (em euros) |  |  |
 | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) |
-| Acordo-Quadro com a Fundação «La Caixa» | 10 506 053,78 | 10 506 053,78 |
-| CERN - European Organization for Nuclear Research | 14 870 951,55 | 14 870 951,55 |
-| CYTED - Programa Iberoamericano de Ciencia y Tecnologia para el Desarrollo | [...] | [...] |
-| EMBC - European Molecular Biology Conference | [...] | [...] |
-| EMBL - European Molecular Biology Laboratory | 1 736 900,00 | 1 736 900,00 |
-| ESA - European Space Agency | 30 414 611,00 | 30 414 611,00 |
-| ESO - European Southern Observatory | [...] | [...] |
-| ESFR - European Synchrotron Radiation Facility | [...] | [...] |
-| INL - International Iberian Nanotechnology | [...] | [...] |
-| Pequenas organizações | [...] | [...] |
-| Programa Polar | 400 000,00 | 400 000,00 |
-| SKAO - Square Kilometre Array Observatory | 5 811 063,19 | 5 811 063,19 |
+|  | 2024 |  |
+| Acordo-Quadro com a Fundação «La Caixa» | 10 506 053,78 |  |
+| CERN - European Organization for Nuclear Research | 14 870 951,55 |  |
+| CYTED - Programa Iberoamericano de Ciencia y Tecnologia para el Desarrollo | [...] |  |
+| EMBC - European Molecular Biology Conference | [...] |  |
+| EMBL - European Molecular Biology Laboratory | 1 736 900,00 |  |
+| ESA - European Space Agency | 30 414 611,00 |  |
+| ESO - European Southern Observatory | [...] |  |
+| ESFR - European Synchrotron Radiation Facility | [...] |  |
+| INL - International Iberian Nanotechnology | [...] |  |
+| Pequenas organizações | [...] |  |
+| Programa Polar | 400 000,00 |  |
+| SKAO - Square Kilometre Array Observatory | 5 811 063,19 |  |
 | Total | 77 150 562,20 | » |
 
 ## ANEXO II — (a que se refere o n.º 3)
@@ -222,18 +258,20 @@ Quotizações de organizações internacionais relativas a 2024
 
 Quotizações de organizações internacionais relativas a 2025
 
-|  | 2025 | 2025 |
+| (em euros) |  |  |
 | --- | --- | --- |
-| (em euros) | (em euros) | (em euros) |
-| Acordo-Quadro com a Fundação «La Caixa» | 4 100 000,00 | 4 100 000,00 |
-| CERN - European Organization for Nuclear Research | 15 152 499,12 | 15 152 499,12 |
-| CYTED - Programa Iberoamericano de Ciencia y Tecnologia para el Desarrollo | 262 500,00 | 262 500,00 |
-| EMBC - European Molecular Biology Conference | 412 479,00 | 412 479,00 |
-| EMBL - European Molecular Biology Laboratory | 1 860 531,00 | 1 860 531,00 |
-| ESA - European Space Agency | 26 250 000,00 | 26 250 000,00 |
-| ESO - European Southern Observatory | 2 900 000,00 | 2 900 000,00 |
-| ESFR - European Synchrotron Radiation Facility | 1 155 000,00 | 1 155 000,00 |
-| INL - International Iberian Nanotechnology | 3 990 000,00 | 3 990 000,00 |
-| Programa Polar | 400 000,00 | 400 000,00 |
-| SKAO - Square Kilometre Array Observatory | 4 207 000,00 | 4 207 000,00 |
+|  | 2025 |  |
+| Acordo-Quadro com a Fundação «La Caixa» | 4 100 000,00 |  |
+| CERN - European Organization for Nuclear Research | 15 152 499,12 |  |
+| CYTED - Programa Iberoamericano de Ciencia y Tecnologia para el Desarrollo | 262 500,00 |  |
+| EMBC - European Molecular Biology Conference | 412 479,00 |  |
+| EMBL - European Molecular Biology Laboratory | 1 860 531,00 |  |
+| ESA - European Space Agency | 26 250 000,00 |  |
+| ESO - European Southern Observatory | 2 900 000,00 |  |
+| ESFR - European Synchrotron Radiation Facility | 1 155 000,00 |  |
+| INL - International Iberian Nanotechnology | 3 990 000,00 |  |
+| Programa Polar | 400 000,00 |  |
+| SKAO - Square Kilometre Array Observatory | 4 207 000,00 |  |
 | Total | 60 690 009,12 | » |
+
+118454274

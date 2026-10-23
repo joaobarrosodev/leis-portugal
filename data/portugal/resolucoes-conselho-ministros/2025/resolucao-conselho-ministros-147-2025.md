@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/147/2025/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-2025-938108819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae26fdaec02a95e1db87326238c75cd0ae1f5bcb51cca07dd8bb867c5efec7f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bbaa689ebb9eea7ed8a4843f3a5ea654aed22541715a956ff65b43ddad182b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Integração Migrações e Asilo I. P.
 - Nomeação
 - Vogal
-- Agência para a Integração Migrações e Asilo I. P.
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
@@ -85,23 +85,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2024/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2024/08/08/p/dre
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899344:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:47Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 147/2025
 
-O conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), é composto por um presidente e quatro vogais, nomeados para um mandato de cinco anos, renovável uma vez por igual período, de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, nos termos dos n.<sup>os</sup>1 e 5 do artigo 5.º da respetiva orgânica, aprovada em anexo ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, do n.º 1 do artigo 20.º da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e do artigo 12.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual (EGP).
+O conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), é composto por um presidente e quatro vogais, nomeados para um mandato de cinco anos, renovável uma vez por igual período, de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, nos termos dos n.os1 e 5 do artigo 5.º da respetiva orgânica, aprovada em anexo ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, do n.º 1 do artigo 20.º da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e do artigo 12.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual (EGP).
 
 Tendo cessado, antecipadamente e a seu pedido, os mandatos de Luísa Maria Coelho Ribeiro e Mário Luís Magalhães Pedro, ambos vogais do conselho diretivo da AIMA, I. P., cargos para os quais haviam sido nomeados pela [Resolução do Conselho de Ministros n.º 103/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2024-875899344), de 8 de agosto, com efeitos a 26 de julho de 2024, torna-se necessário proceder à nomeação de dois vogais.
 
@@ -109,7 +125,7 @@ Foi ouvida a Comissão de Recrutamento e Seleção para a Administração Públi
 
 Assim:
 
-Nos termos do n.º 5 do artigo 5.º da orgânica da Agência para a Integração, Migrações e Asilo, I. P., aprovada em anexo ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, dos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 5 do artigo 5.º da orgânica da Agência para a Integração, Migrações e Asilo, I. P., aprovada em anexo ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, dos n.os2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Nomear, sob proposta do membro do Governo responsável pela área das migrações, por um período de cinco anos, para os cargos de vogais do conselho diretivo da Agência para a Integração, Migrações e Asilo, I. P., os seguintes membros, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação para o adequado exercício das referidas funções são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante:
 
@@ -170,3 +186,5 @@ Foi membro do Grupo Consultivo em contratação por resultados do Government Out
 Estagiou no Ministério dos Negócios Estrangeiros e na Comissão Europeia, na Direção-Geral Justice and Home Affairs. Foi gestora de programas europeus em Bruxelas, onde coordenou iniciativas em parceria com a Comissão Europeia, a Agência Espacial Europeia e o Banco Mundial. Integrou ainda a equipa do United Nations Global Compact em Nova Iorque, com funções no Brasil, a partir de São Paulo, onde participou no lançamento da Agenda 2030 e dos Objetivos de Desenvolvimento Sustentável.
 
 Ao longo dos anos, participou enquanto oradora e organizou conferências, seminários e diversos encontros de âmbito nacional e internacional, tendo igualmente desenvolvido atividades de voluntariado de capacitação e liderança para jovens e mulheres. Entre 2019 e 2023, foi membro, em regime voluntário, do Health Parliament Portugal na Comissão de Saúde Mental.
+
+119614048

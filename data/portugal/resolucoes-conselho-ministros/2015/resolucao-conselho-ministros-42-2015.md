@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11800/0414304146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-2015-67540636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12427157fc2039c5780a146da4968261b2b92a4811283d8db8e5b55df45dc4a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59a493277d8bbd3bae99c128be14db45e883c9151d71ccd9332d211c874f15b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Administração Pública
+- Agência para a Modernização Administrativa
 - AMA
-- Interconexão de Dados
-- Modernização Administrativa
+- Atendimento Público
+- Base de Dados
 - Certificação Electrónica
+- Comunicações
 - Comunicações Eletrónicas
 - Definição de Competências
-- União Europeia
-- Especificação Técnica
-- Administração Pública
-- Informática
-- Formulário Eletrónico
-- Base de Dados
-- TIC
-- Publicitação
 - Documento Eletrónico
+- Especificação Técnica
+- Formulário Eletrónico
+- Informática
+- Interconexão de Dados
+- Internet
+- Modernização Administrativa
 - Organismo do Estado
 - Página na Internet
-- Internet
-- Sistema de Informação
-- Serviço Público
 - Presidência do Conselho de Ministros
 - Protocolo de Modernização Administrativa
+- Publicitação
 - REDE Interministerial TIC
-- Agência para a Modernização Administrativa
-- Comunicações
-- Atendimento Público
+- Serviço Público
+- Sistema de Informação
+- TIC
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:837022979:por
@@ -146,16 +146,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91/2012/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91/2012/11/08/p/dre
+- type: cites
+  target: pt:dre:146274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66997036:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:58Z'
   warnings: []
   errors: []
 ---

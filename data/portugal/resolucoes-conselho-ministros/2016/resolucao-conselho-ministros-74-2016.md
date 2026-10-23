@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22700/0420204203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/74/2016/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2016-75796639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c4a9fd24f4165d10844bbe1ef981d97fbea5d7ccd03faa40e13552f55eeaae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e4a835ddd81d3a97065b4cdb1e6e2947bd008f1384894f761750f8f6b5dc99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,38 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Empreendedorismo
-- Financiamento
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Comissão Directiva
 - Definição de Competências
+- Desenvolvimento Económico
 - Desenvolvimento Social
+- Empreendedorismo
+- Estrutura de Missão Portugal Inovação Social
+- Financiamento
 - Fundo Europeu de Investimento
 - Fundos CE
+- Iniciativa Portugal Inovação Social
 - Instalação de Serviços
 - Investimento
+- Investimento Privado
 - Investimento Público
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Nomeação
 - PCM-Entidades
-- Desenvolvimento Económico
 - Presidente
 - Programa Operacional
 - Regulamento CE
-- Investimento Privado
 - Secretariado Técnico
-- Estrutura de Missão Portugal Inovação Social
-- Iniciativa Portugal Inovação Social
 relationships:
 - type: amended_by
   target: pt:dre:117428719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108323924:por
+  label: Alterados a partir de 16.10.2017 os n.ºs 8 e 9 da Res 73-A/2014, de 16-dez, da PCM, na redação do presente diploma
+    pelo(a) Resolução do Conselho de Ministros n.º 157/2017 - Diário da República n.º 202/2017, Série I de 2017-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/157-2017-108323924
+  date: '2017-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/39/2016/07/28/p/dre
   label: null
@@ -118,16 +124,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73-a/2014/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73-a/2014/12/16/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65908878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75049338:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:10:20Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21300/0000900013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/136/2023/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-2023-223700463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95e4b4da0b1799d8e7c7a4901398918c29c2f11f216b945bd1aa679afa3fb2c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce21464618aced75d24a1e9793dc27ad6825f7368f67e6ff34b807535dc86535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,43 @@ reuse:
 subjects:
 - Ajuda aos Sinistrados
 - Ajudas Sociais Pecuniárias
-- Aljezur
-- Incêndio
-- Empresa
-- Turismo
-- Desenvolvimento Rural
-- Política de Família
-- Conselho de Ministros
-- Regulamentação de Atos Legislativos
-- Competitividade Empresarial
+- Alentejo
 - Algarve
+- Aljezur
+- Apicultura
+- Área Integrada de Gestão da Paisagem
+- Autarquia Local
+- Baiona
+- Castelo Branco
 - Catástrofe
-- Fundo de Emergência Municipal
 - Comissão de Coordenação e Desenvolvimento Regional
+- Competitividade Empresarial
+- Conselho de Ministros
+- Desenvolvimento Rural
+- Empresa
+- Fundo de Emergência Municipal
+- Habitação
+- Incêndio
 - Instituto do Turismo de Portugal
+- Linha de financiamento
 - Monchique
 - Odemira
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
-- Proteção do Ambiente
-- Castelo Branco
+- PDR 2020
+- Plano de Recuperação e Resiliência
+- Política de Família
 - Política Económica
 - Política Social
-- Alentejo
+- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
+- Portugal 2030
 - Proença-a-nova
-- Apicultura
 - Programa de Apoio ao Empreendedorismo e à Criação do Próprio Emprego
-- Habitação
+- Proteção do Ambiente
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Sistema Complementar
 - Subsídio Complementar
-- Autarquia Local
-- PDR 2020
-- Baiona
-- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
-- Área Integrada de Gestão da Paisagem
-- Plano de Recuperação e Resiliência
-- Portugal 2030
-- Linha de financiamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:836147187:por
@@ -129,16 +129,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205994956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489770:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:26:13Z'
   warnings: []
   errors: []
 ---
@@ -260,3 +280,5 @@ iii) Abertura de avisos para promoção turístico-cultural dos ativos patrimoni
 7 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 19 de outubro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117007168

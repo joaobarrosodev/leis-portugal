@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0038000387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/13/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2019-118051702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3a853c0af3149d7ecd6624e1945869e36c62117fd47b4bf69939bab103ba1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca9daa7429792748b9964f3a2b01287abbd52233295113f912fb96652749c8a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Silvicultura
-- Ordenamento do Território
-- Proteção da Floresta
 - Apoio ao Investimento
-- Linha de Crédito
-- Ordenamento Florestal
-- Prédio Rústico
-- Exploração Florestal
-- Política Florestal
-- Relatório
 - Benefícios Fiscais
+- Exploração Florestal
+- Linha de Crédito
+- Ordenamento do Território
+- Ordenamento Florestal
+- Política Florestal
+- Prédio Rústico
+- Proteção da Floresta
+- Relatório
+- Silvicultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
@@ -110,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114358690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75120530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:08Z'
   warnings: []
   errors: []
 ---
@@ -441,3 +473,5 @@ Denominação: Linha de crédito para financiamento da aquisição de prédios r
 Área da governação responsável pela execução: MAFDR e MF
 
 Descrição: Criação de uma linha de crédito para financiamento da aquisição de (i) prédios rústicos confinantes ou contíguos ou situados num mesmo perímetro florestal; (ii) quotas indivisas em prédios com dimensão inferior à UC; (iii) quotas em heranças indivisas que integrem vários prédios rústicos; com compromisso de efetuar gestão ativa ou entregar gestão a entidade associativa ou empresarial. A linha de crédito deve operar no âmbito do sistema de garantia mútua sistema de garantia mútua, permitindo o acesso dos organismos de investimento coletivo. Tendo em conta que o grau de utilização da linha de crédito criada no corrente ano para a limpeza da floresta não tem tido grau de utilização significativo, poder-se-á alargar o seu âmbito de aplicação. O crédito deverá ter prazos e períodos de carência adequados à natureza da operação e ser garantido exclusivamente pelo próprio terreno adquirido.
+
+111989527

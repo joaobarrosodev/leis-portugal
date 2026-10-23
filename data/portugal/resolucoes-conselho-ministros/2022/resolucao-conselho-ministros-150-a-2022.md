@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 250/2022, 1º Suplemento, Série I de 2022-12-29
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 171-(14) a 171-(91)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/150-a/2022/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/150-a-2022-205493469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c556649680ae90377e8a495a8863ebb5141f0fd33acce0a297982a31f30a6d0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 836940c06cb9a32227c5187e854e1103d9d9b26ab46098607dc2101f7d2ee7d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Substancia Cancerigena
+- Agência Portuguesa do Ambiente
+- Cancro
+- Certificação Energética dos Edifícios
+- Definição de Competências
+- Eficiência Energética
+- Gás
+- Orçamento
+- Página na Internet
+- Plano Nacional para o Radão
+- Política do Ambiente
+- Prédio Urbano
+- Proteção do Ambiente
 - Qualidade do AR
 - Radiactividade
 - Radioprotecção
-- Saúde
-- Definição de Competências
-- Cancro
 - Regulamentação de Atos Legislativos
-- Sistema de Certificação Energética
-- Saúde Pública
-- Gás
-- Certificação Energética dos Edifícios
-- Orçamento
-- Página na Internet
-- Proteção do Ambiente
-- Política do Ambiente
 - Relatório
-- Prédio Urbano
-- Eficiência Energética
+- Saúde
+- Saúde Pública
+- Sistema de Certificação Energética
+- Substancia Cancerigena
 - Substância Perigosa
-- Agência Portuguesa do Ambiente
-- Plano Nacional para o Radão
 relationships:
 - type: cites
   target: celex:32002L0091
@@ -140,6 +140,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/353-a/2013/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/353-a/2013/12/04/p/dre
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166296490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178882450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32010L0031
   label: null
@@ -158,14 +194,14 @@ relationships:
   source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:57Z'
   warnings: []
   errors: []
 ---
@@ -256,13 +292,13 @@ De referir ainda que o PNRn foi desenvolvido em linha com as recomendações efe
 
 Atendendo a que a abordagem do PNRn é multissetorial, a sua implementação será acompanhada por várias entidades públicas e privadas, criando-se para o efeito grupos interministeriais e interdisciplinares, sendo a monitorização efetuada com recurso a indicadores e métricas. A avaliação dos resultados das ações implementadas será determinante para aferição da sua efetividade e para o processo de revisão do PNRn, no qual serão também tidos em conta novos desenvolvimentos e/ou recomendações internacionais e equacionada a necessidade de acomodar novas medidas que venham a ser consideradas oportunas.
 
-### CAPÍTULO 1 - Fundamentos e princípios
+CAPÍTULO 1 - Fundamentos e princípios
 
 1. Radão e riscos para a saúde
 
 O Rn é um elemento químico do grupo dos gases raros e nas condições normais de temperatura e pressão é um gás inodoro e incolor. O rádon tem vários isótopos, todos eles radioativos e com tempos de semi-vida curtos, dos quais se destacam o Rn (Rn-222) e o torão (Rn-220). O Rn tem um tempo de semi-vida de 3,82 dias e é um isótopo da cadeia de decaimento do urânio-238 (U-238), constituindo mais de 99 % do urânio presente nas rochas e solos (Figura 1A). Quanto maior a concentração de urânio nas rochas e solos, maior será a produção de gás Rn no substrato geológico. Por sua vez, o torão é um isótopo da cadeia de decaimento do tório (Th-232), tem um tempo de semi-vida de 55,6 segundos e a maioria dos seus átomos decaem antes de chegarem à superfície terrestre (Figura 1B). Contudo, e apesar da abundância mundial de tório ser superior à do urânio, pouco se conhece da contribuição do seu descendente, o torão, para a dose efetiva, incluindo em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 1 - Cadeias de decaimento do U-238 (A) e do Th-232 (B) (IAEA, 2010).
 
@@ -272,7 +308,7 @@ O Rn é um gás radioativo de origem natural que provém das rochas e dos solos 
 
 A inalação de Rn é a maior fonte de exposição à radiação ionizante contribuindo com mais de 40 % para a dose efetiva anual da população mundial (Figura 2). As exposições mais elevadas ocorrem em países com um clima temperado e onde existe a necessidade de aquecimento durante o inverno. Neste contexto, é de referir a interação das políticas de eficiência energética nos edifícios com a exposição ao Rn que, numa perspetiva de gestão de risco deve ser tida em conta, uma vez que ao tornar os edifícios mais herméticos poderá, nas zonas mais propensas a níveis elevados de Rn, potenciar esta situação (FOPH, 2020). O Rn presente nos edifícios provém essencialmente do urânio contido nas rochas e solos e penetra nos edifícios através de fissuras ou fendas no chão e nas paredes, pelas juntas entre o chão e a parede e pela canalização mal ou não isolada (WHO, 2009). Existem outras fontes de exposição, mas muito menos relevantes, como os materiais de construção e a água de consumo (WHO, 2009).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 2 - Percentagem da dose anual recebida pela população mundial (UNSCEAR, 2008).
 
@@ -378,7 +414,7 @@ Por outro lado, se o valor for superior ao nível de referência nacional, devem
 
 Nesta fase, a entidade empregadora deve proceder à avaliação da exposição de trabalhadores, devendo: (i) quanto aos locais de trabalho em que a dose efetiva para trabalhadores seja igual ou inferior a 6 mSv/ano, manter as exposições dos seus trabalhadores sob observação; (ii) quanto aos locais de trabalho em que a exposição de trabalhadores seja suscetível de exceder uma dose efetiva de 6 mSv/ano, respeitar as disposições legais referentes às situações de exposição planeada; e (iii) estabelecer uma estratégia de proteção em coordenação com a autoridade competente, nos termos do artigo 137.º e seguintes do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 3 - Diagrama explicativo para a gestão do Rn nos locais de trabalho. Adaptado de (IAEA, 2003).
 
@@ -398,7 +434,7 @@ c) Entidades Empregadoras - informação específica que sensibilize para os efe
 
 A realização de workshops e sessões de esclarecimento são fundamentais para promover o diálogo e a participação do público, permitindo um processo interativo de troca de informação e opiniões entre os participantes e potenciando a confiança nas instituições (Wynne, 2013).
 
-### CAPÍTULO 2 - Situação de referência em Portugal
+CAPÍTULO 2 - Situação de referência em Portugal
 
 O levantamento de dados e de estudos existentes relativos à exposição ao Rn em Portugal permitiu traçar um diagnóstico da situação atual, possibilitando o desenvolvimento de uma estratégia nacional para a gestão do Rn, delineada de acordo com as áreas de intervenção identificadas no capítulo anterior.
 
@@ -418,7 +454,7 @@ Em Portugal, existe um único nível de referência para todos os tipos de expos
 
 O primeiro estudo nacional para avaliação da concentração de Rn no interior das habitações iniciou-se em 1987, com um levantamento nacional conduzido pelo Departamento de Proteção e Segurança Radiológica do extinto Laboratório Nacional de Engenharia e Tecnologia Industrial. Os resultados obtidos dos 4 200 dosímetros analisados permitiram aferir a concentração média de Rn em Portugal Continental, calculada em 37 Bq/m3, e a dose efetiva da população portuguesa devido à inalação do Rn, calculada em 1,9 mSv/ano (Faisca, Teixeira, & Bettencourt, 1992). Com esta informação, foi elaborado um mapa das concentrações de Rn médias por concelho (Figura 4A), que permite visualizar a distribuição das concentrações de Rn em Portugal continental, agrupadas em classes de (menor que)50 Bq/m3, de 50 a 100 Bq/m3, 100 a 200 Bq/m3 e superior a 200 Bq/m3 (Direção-Geral do Ambiente, 1995). Mais tarde, em 2005, o mapa foi reformulado, com novas classes de concentrações e um esquema de cores diferente (Figura 4B) (ITN, 2005).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 4 - Mapa de concentrações médias de Rn no interior de edifícios por concelho elaborado por (A) Direção Geral do Ambiente (Direção Geral do Ambiente, 1995) e (B) pelo Instituto Tecnológico e Nuclear (ITN, 2005)
 
@@ -438,7 +474,7 @@ c) O nível elevado indica as zonas onde o nível de referência nacional é exc
 
 A diferença entre os diferentes níveis de risco provou ser estatisticamente significativa (para dois graus de liberdade) e para cada uma das variáveis em causa, o que é um excelente indicador da robustez da metodologia seguida no estudo. Em resultado, constata-se que as zonas com elevado potencial de exposição ao Rn (ZSER) têm maior probabilidade de ocorrer em unidades geológicas compostas por rochas de natureza granítica ou sienítica, e, em alguns casos, também por rochas metassedimentares, aflorantes maioritariamente nas regiões norte e centro do território continental português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 5 - Mapa de risco de exposição ao gás Rn em edifícios no território continental (A) (Domingos, Seco, & Pereira, 2021) e mapa suscetibilidade ao Rn classificado por freguesias (APA, 2022) (B).
 
@@ -472,7 +508,7 @@ A Tabela 1 regulamenta a periodicidade na monitorização de Rn nos locais de tr
 
 Tabela 1 - Periodicidade na monitorização do Rn nos locais de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 6. A comunicação do risco
 
@@ -486,9 +522,9 @@ Para além disso, reconhecendo que a diversificação de canais de comunicação
 
 Tabela 2 - Exemplos de ações de comunicação realizadas no âmbito da Campanha Nacional de Monitorização do Gás Rn
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
-### CAPÍTULO 3 - Objetivo, visão e pilares de atuação para o Plano Nacional do Radão
+CAPÍTULO 3 - Objetivo, visão e pilares de atuação para o Plano Nacional do Radão
 
 O PNRn apresenta-se como um instrumento de planeamento macro da política de proteção efetiva de trabalhadores e da população em geral à exposição ao Rn no interior dos edifícios, estabelecendo orientações estratégicas de âmbito nacional, tendo em vista a concretização dos princípios enunciados na legislação da União Europeia (UE) e nacional e com o objetivo de reduzir os riscos de longo prazo decorrentes da exposição ao Rn em habitações, edifícios abertos ao público e locais de trabalho.
 
@@ -514,7 +550,7 @@ Na promoção da tomada de consciência sobre os efeitos do Rn, a promoção de 
 
 A visão e os pilares de atuação estruturam-se em torno dos OP, para cuja concretização contribui o conjunto de ações definido para cada um, como se pode constatar pela Figura 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Figura 6 - Estrutura do PNRn - Visão, Pilares de Atuação, Objetivos Operacionais e Ações.
 
@@ -526,7 +562,7 @@ O.P.1. Definição de orientações metodológicas
 
 Como previsto no artigo 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro, é fundamental estabelecer orientações complementares de apoio que constituem, do ponto de vista conceptual e prático, uma explanação das melhores práticas, métodos e materiais adequados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A1.1. Promover a qualidade e a especialização dos serviços de medição do radão no ar interior de edifícios usando detetores passivos
 
@@ -574,7 +610,7 @@ OP.2. Promoção da investigação e desenvolvimento
 
 Os projetos de investigação revelam-se fundamentais para o desenvolvimento dos diversos estudos que se encontram descritos ao longo do PNRn e que são essenciais para promover e melhorar o conhecimento nesta área, nos termos do artigo 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro. Procura-se, assim, desta forma, alertar as diversas entidades relevantes, nomeadamente as universidades e os centros de investigação, para a importância deste campo de investigação, que engloba diversas áreas científicas nomeadamente, saúde, física, ambiente, arquitetura e engenharia civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A2.1. Investigar a influência da sazonalidade nos níveis do gás radão no interior dos edifícios
 
@@ -648,7 +684,7 @@ OP.3. Gestão e redução da exposição
 
 A gestão da exposição de trabalhadores e do público em geral ao gás Rn passa pela oferta das ferramentas necessárias à sua redução, como a disponibilização de guias e de programas de incentivo financeiro à remediação, bem como a criação de mecanismos que permitam uma correta avaliação a nível nacional da exposição, nos termos dos artigos 147.º, 148.º e 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A3.1. Promover a gestão eficaz da exposição ao radão nos locais de trabalho
 
@@ -718,7 +754,7 @@ OP.4. Promoção da qualidade da prestação de serviços
 
 Com foco na garantia de um padrão de qualidade e excelência, a revisão e análise de procedimentos é fundamental para uma adequação, compatibilidade e alinhamento com as necessidades específicas de proteção radiológica dos trabalhadores e do público. O objetivo destas medidas é justamente incentivar os prestadores de serviços do setor a implementar, manter e otimizar procedimentos que assegurem o fornecimento de serviços com alto padrão de qualidade, seguindo as boas práticas do segmento, em respeito pela legislação em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A4.1. Organizar um procedimento de reconhecimento para prestadores de serviços na medição de radão
 
@@ -780,7 +816,7 @@ OP.5. Divulgação e gestão da informação
 
 Como parte fundamental da linha estratégica para a sensibilização das pessoas para a temática do Rn, é essencial a divulgação de informação clara e compreensível às diferentes audiências, sendo necessário o desenvolvimento de ferramentas e materiais que o permitam. Para tal, nos termos do artigo 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro, é imperativo criar materiais de divulgação diversificados e fornecer informação fiável e com base científica, como seja o mapa de suscetibilidade de exposição ao Rn.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A5.1. Consolidar o sítio na Internet da Agência Portuguesa do Ambiente, I. P., como referência da informação sobre o radão
 
@@ -828,7 +864,7 @@ OP.6. Comunicação e interação com o Público
 
 Nos termos do artigo 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro, é reconhecida a importância da interação com o público, como forma de consciencialização para os riscos da exposição ao Rn. Através do desenvolvimento de ações que potenciam o contacto com o público, procura-se promover a mudança de atitudes e aumento do conhecimento sobre o tema, como forma de capacitação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A6.1. Aumentar a comunicação e o diálogo com o público para promover o interesse pelo tema
 
@@ -872,7 +908,7 @@ Entidades envolvidas: APA, I. P., INSA, I. P., instituições de ensino superior
 
 Período de implementação: Anos um a cinco
 
-### CAPÍTULO 4 - Execução, monitorização e revisão do Plano Nacional para o Radão
+CAPÍTULO 4 - Execução, monitorização e revisão do Plano Nacional para o Radão
 
 Atendendo a que o PNRn é um plano de ação nacional e multissetorial, o sucesso da sua implementação depende das diferentes entidades, públicas, cooperativas ou privadas, que pela sua atividade são relevantes para a prossecução do plano. A articulação das entidades com a autoridade competente para a atribuição de responsabilidades, mecanismos de coordenação e gestão dos recursos disponíveis para a execução do PNRn encontra-se de acordo com o previsto na alínea j) do n.º 1 do artigo 150.º do [Decreto-Lei n.º 108/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), de 3 de dezembro.
 
@@ -880,7 +916,7 @@ A execução do PNRn será avaliada de acordo com o cronograma definido (Tabela 
 
 Tabela 3 - Cronograma com a calendarização das ações definidas para o PNRn
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 T - trimestre
 
@@ -896,19 +932,19 @@ i) Exposição da população ao radão
 
 Avalia a contribuição do PNRn na redução da ocorrência de efeitos adversos para a saúde humana decorrentes da exposição prolongada ao Rn.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 ii) Qualidade do parque imobiliário
 
 Avalia a contribuição do plano na melhoria das características do parque imobiliário (habitações e locais de trabalho) para a proteção contra o Rn, tanto na construção de novos edifícios (medidas preventivas) como nos edifícios existentes (medidas corretivas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 iii) Governação
 
 Avalia o nível de articulação e desenvolvimento das capacidades das entidades envolvidas na gestão do Rn.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 A monitorização e avaliação dos resultados das ações implementadas será determinante para aferição da sua efetividade e para o processo de revisão do PNRn, a realizar no ano anterior ao fim do seu período de vigência, que será de cinco anos.
 
@@ -1004,7 +1040,7 @@ Detetor de Rn - Dispositivo de medição para determinar a concentração de Rn 
 
 Dose efetiva (E) - Soma das doses equivalentes ponderadas em todos os tecidos e órgãos do corpo e resultantes de exposição interna e externa. É definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf))](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/25001/0001400091.pdf)
 
 Exposição - Ato de expor ou o facto de estar exposto a radiações ionizantes emitidas fora do corpo humano (exposição externa) ou dentro do corpo humano (exposição interna);
 
@@ -1051,3 +1087,5 @@ Suscetibilidade - É a incidência espacial do perigo. Representa a propensão p
 Torão - O radionuclídeo Rn-220 e sua descendência, conforme pertinente;
 
 Zona de risco - Determinada área geográfica onde uma proporção significativa de edifícios excede o nível de referência.
+
+116014512

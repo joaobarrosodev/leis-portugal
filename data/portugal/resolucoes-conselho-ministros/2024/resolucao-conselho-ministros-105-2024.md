@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16100/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2024-884941426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed0b388d9eb3eb26a942503fa9854c679c39a86fd53aff27e96e413f22486b8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58d044e7a28e2c88285cfeff799409b3449a08e2a0f860d8246badeb5df74a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- '#PortugalMediaLab'
+- Campus XXI
 - Comunicação Social
 - Criação de Serviços
-- Secretaria Geral
 - Mandato
-- Presidência do Conselho de Ministros
-- Transferência de Competências
 - Plano Nacional para a Literacia Mediática
-- Campus XXI
-- '#PortugalMediaLab'
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:912444913:por
@@ -99,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
+- type: cites
+  target: pt:dre:224427490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:142/2023
+  label: Revoga, a partir de 22 de agosto de 2024, a Resolução do Conselho de Ministros n.º 142/2023, de 17 de novembro, Diário
+    da República n.º 223/2023, Série I
+  source: null
+  date: '2023-11-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:49Z'
   warnings: []
   errors: []
 ---
@@ -190,3 +216,5 @@ c) Cedência de interesse público.
 17 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118032555

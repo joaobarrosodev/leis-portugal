@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19500/0000400010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/118/2023/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/118-2023-222547758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 053461f1aceacdb25d2cdf77a7174d6a9215723f1db592ff794be892269bf004
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d343c2a748faa3bb00f75a9cdf660e3f3e1c61c7550341571e4fbe92f6b72cd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
+- Cascais
 - Ordenamento do Território
-- Plano Director Municipal
+- Organização Territorial
 - Orla Costeira
 - Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
+- Plano Director Municipal
 - Política de Solos
-- Cascais
+- Proteção do Ambiente
+- Zona de Proteção
 - ZONA de Protecção Especial do CABO Espichel
 relationships:
 - type: cites
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2019/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2019/04/11/p/dre
+- type: cites
+  target: pt:dre:115573967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122074192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:52Z'
   warnings: []
   errors: []
 ---
@@ -210,23 +238,25 @@ A redação em vigor desta norma inviabilizava qualquer tipo de licenciamento na
 
 Disposições da alteração do Plano Diretor Municipal de Cascais, objeto do pedido de ratificação, por incompatibilidade ou desconformidade em termos territoriais com o Plano de Ordenamento do Parque Natural de Sintra-Cascais
 
-![](https://files.diariodarepublica.pt/images/222547758/222547945.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222547758/222547945.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/222547758/222547946.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222547758/222547946.png) |
+| --- |
 
 TABELA 1
 
 Tabela de fundamentação da ratificação
 
-|  |  |  |  |  |
+| Manchas dos polígonos A, B, C<br>e D constantes da figura 1 | Classificação e qualificação<br>do solo no PDMC | Incompatibilidade com o POPNSC | Fundamentação | Decisão |
 | --- | --- | --- | --- | --- |
-| Manchas dos polígonos A, B, C e D constantes da figura 1 | Classificação e qualificação do solo no PDMC | Incompatibilidade com o POPNSC | Fundamentação | Decisão |
-| A.F B.F B.A B.C B.K C.H C.E C.C D.D D.I D.G D.E | Solo rústico Espaço de ocupação turística de nível 1 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção parcial tipo i (APPI), regulado nos termos dos artigos 14.º e 15.º do Regulamento do POPNSC. | Os quatro polígonos da Quinta da Penha Longa que resultaram da configuração constante no projeto do Conjunto Turístico da Quinta da Penha Longa/Plano Geral, de 1993, com título constitutivo, foram integrados na planta de síntese do POPNSC com o regime de proteção APCI, e transpostos para o PDM de Cascais através da «Planta de Ordenamento - Regimes de Proteção/Parque Natural Sintra-Cascais», no âmbito de procedimento de alteração por adaptação do referido plano territorial, em 2017. A referida peça desenhada, constituindo um dos desdobramentos da planta de ordenamento, conjuga-se com a relativa à qualificação do solo, em que os quatro polígonos são estabelecidos na categoria de espaços de ocupação turística no PDMC em vigor. A planta de ordenamento do PDM de Cascais vigente observa coerência espacial entre os regimes especiais e a qualificação do solo. Com o levantamento topográfico espoletado no âmbito dos estudos de impacte ambiental desenvolvidos para dois dos polígonos, a CMC informou que este melhor traduz a realidade existente no Plano Geral aprovado pela Direção-Geral de Turismo e que observa diferenças face ao definido na planta de síntese do POPNSC e, por conseguinte, ao transposto para o PDMC, e que constitui a referência da categoria de espaço de ocupação turística. | Ratificar. |
-|  |  |  | A redefinição espacial dos quatro polígonos da Quinta da Penha Longa agora proposta, para além de implicar um novo desenho, consolida uma deslocação, incidindo sobre o regime de proteção APPI. A alteração de incidência da categoria de espaço de ocupação turística de nível 1 implica a alteração do regime de proteção de APPI para o regime de proteção APCI, por forma a garantir a aplicação do regime de proteção estabelecido na data de elaboração do PONSC para o efeito e a harmonia entre as duas peças desenhadas da proposta de alteração do PDMC. |  |
-| A.E B.B C.B D.C | Solo rústico Espaço de ocupação turística de nível 1 | Não existe desconformidade. | Não aplicável. | - |
-| A.D | Solo rústico Espaço florestal de nível 2 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria espaço florestal de nível 2, em solo rústico, com o regime de proteção APCI, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI na planta de síntese do POPNSC. | Ratificar. |
-| A.B B.H B.J C.F D.F D.B D.H D.J | Solo rústico Espaço natural de nível 1 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria de espaço natural de nível 1, em solo rústico, com o regime de proteção APCI, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI na planta de síntese do POPNSC. | Ratificar. |
-| A.C A.A B.D B.E B.G B.I C.G C.D C.A D.A | Solo rústico Espaço natural de nível 2 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria de espaço natural de nível 2, em solo rústico, com o regime de proteção APC I, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI, na planta de síntese do POPNSC. | Ratificar. |
+|  |  |  |  |  |
+| A.F<br>B.F<br>B.A<br>B.C<br>B.K<br>C.H<br>C.E<br>C.C<br>D.D<br>D.I<br>D.G<br>D.E | Solo rústico<br>Espaço de ocupação turística de nível 1 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção parcial tipo i (APPI), regulado nos termos dos artigos 14.º e 15.º do Regulamento do POPNSC. | Os quatro polígonos da Quinta da Penha Longa que resultaram da configuração constante no projeto do Conjunto Turístico da Quinta da Penha Longa/Plano Geral, de 1993, com título constitutivo, foram integrados na planta de síntese do POPNSC com o regime de proteção APCI, e transpostos para o PDM de Cascais através da «Planta de Ordenamento - Regimes de Proteção/Parque Natural Sintra-Cascais», no âmbito de procedimento de alteração por adaptação do referido plano territorial, em 2017. A referida peça desenhada, constituindo um dos desdobramentos da planta de ordenamento, conjuga-se com a relativa à qualificação do solo, em que os quatro polígonos são estabelecidos na categoria de espaços de ocupação turística no PDMC em vigor.<br>A planta de ordenamento do PDM de Cascais vigente observa coerência espacial entre os regimes especiais e a qualificação do solo.<br>Com o levantamento topográfico espoletado no âmbito dos estudos de impacte ambiental desenvolvidos para dois dos polígonos, a CMC informou que este melhor traduz a realidade existente no Plano Geral aprovado pela Direção-Geral de Turismo e que observa diferenças face ao definido na planta de síntese do POPNSC e, por conseguinte, ao transposto para o PDMC, e que constitui a referência da categoria de espaço de ocupação turística. | Ratificar. |
+|  |  |  | A redefinição espacial dos quatro polígonos da Quinta da Penha Longa agora proposta, para além de implicar um novo desenho, consolida uma deslocação, incidindo sobre o regime de proteção APPI.<br>A alteração de incidência da categoria de espaço de ocupação turística de nível 1 implica a alteração do regime de proteção de APPI para o regime de proteção APCI, por forma a garantir a aplicação do regime de proteção estabelecido na data de elaboração do PONSC para o efeito e a harmonia entre as duas peças desenhadas da proposta de alteração do PDMC. |  |
+| A.E<br>B.B<br>C.B<br>D.C | Solo rústico<br>Espaço de ocupação turística de nível 1 | Não existe desconformidade. | Não aplicável. | - |
+| A.D | Solo rústico<br>Espaço florestal<br>de nível 2 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria espaço florestal de nível 2, em solo rústico, com o regime de proteção APCI, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI na planta de síntese do POPNSC. | Ratificar. |
+| A.B<br>B.H<br>B.J<br>C.F<br>D.F<br>D.B<br>D.H<br>D.J | Solo rústico<br>Espaço natural<br>de nível 1 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria de espaço natural de nível 1, em solo rústico, com o regime de proteção APCI, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI na planta de síntese do POPNSC. | Ratificar. |
+| A.C<br>A.A<br>B.D<br>B.E<br>B.G<br>B.I<br>C.G<br>C.D<br>C.A<br>D.A | Solo rústico<br>Espaço natural<br>de nível 2 | Desconformidade em termos territoriais com a planta de síntese do POPNSC - no regime de proteção área de proteção complementar do tipo i (APCI), regulado nos termos dos artigos 19.º e 20.º do Regulamento do POPNSC. | Considerando a fundamentação referida na 1.ª linha desta tabela, entende-se pertinente ratificar as áreas de sobreposição da nova incidência espacial da subcategoria de espaço natural de nível 2, em solo rústico, com o regime de proteção APC I, na Quinta da Penha Longa, tendo como consequência alterar o regime de proteção de APCI para o de APPI, na planta de síntese do POPNSC. | Ratificar. |
 
 Identificadores das imagens e respetivos endereços do sítio do SNIT
 
@@ -235,3 +265,7 @@ Identificadores das imagens e respetivos endereços do sítio do SNIT
 69366 - [https://ssaigt.dgterritorio.pt/i/Outras_Plantas_69366_Figura1-localizada.jpg](https://ssaigt.dgterritorio.pt/i/Outras_Plantas_69366_Figura1-localizada.jpg)
 
 69367 - [https://ssaigt.dgterritorio.pt/i/Outras_Plantas_69367_Figura2-localizada.jpg](https://ssaigt.dgterritorio.pt/i/Outras_Plantas_69367_Figura2-localizada.jpg)
+
+116926322
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl20 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

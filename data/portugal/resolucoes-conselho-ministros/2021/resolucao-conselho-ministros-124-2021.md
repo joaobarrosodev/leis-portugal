@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17300/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/2021/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2021-170794624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6be33d1cb899792d114f0452775ea59c8683e222407277105d0807af6e5cd6eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f611c1c99e656c81d52f2b1a24eadbd329fa3e4835f8b88ed7da2e58185626e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Ministério da Educação
 - Educação
-- Secretário de Estado da Educação
+- Ensino Básico
+- Ensino Secundário
 - Igualdade de Oportunidades
 - Insucesso Escolar
-- Ensino Secundário
-- Ensino Básico
-- Programa Nacional de Promoção do Sucesso Escolar
+- Ministério da Educação
 - Plano 21|23 Escola+
+- Programa Nacional de Promoção do Sucesso Escolar
+- Secretário de Estado da Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2016/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2016/04/11/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74094661:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:52Z'
   warnings: []
   errors: []
 ---
@@ -133,3 +141,5 @@ b) Apresentar ao membro do Governo responsável pela área da educação, até 3
 3 - Determinar que a presente resolução produz efeitos a partir do dia seguinte à data fixada para o termo do mandato da Estrutura de Missão, nos termos do n.º 1 da [Resolução do Conselho de Ministros n.º 135/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/123968668/details/normal?l=1), de 14 de agosto.
 
 Presidência do Conselho de Ministros, 26 de agosto de 2021. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+
+114539285

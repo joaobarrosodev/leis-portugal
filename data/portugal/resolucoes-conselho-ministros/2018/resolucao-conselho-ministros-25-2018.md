@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04800/0120401206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25/2018/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2018-114832287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc332d460e0b442290e2b68e0cc6029ef710eff2c6d18cac794811c20d08b438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ade9af105e64f2362bfc7bfc6b69e527cc6d4e8545b1a1d696bf744b8c4e5a35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,53 +65,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Empresa
-- Investigação Científica e Tecnológica
+- ANI-Agência Nacional de Inovação
+- Apoio ao Investimento
+- Centro de Interface Tecnológico
 - Centro Tecnológico
-- Fundação para a Ciência e a Tecnologia
+- Competitividade da Economia
+- Competitividade Empresarial
 - Definição de Competências
 - Desenvolvimento
-- Mudança Tecnológica
-- Competitividade Empresarial
+- Empreendedorismo
+- Empresa
+- Estratégia de Inovação Tecnológica e Empresarial para Portugal 2018-2030
+- Fundação para a Ciência e a Tecnologia
+- Fundo de Inovação Tecnologia e Economia Circular
+- IAPMEI
 - Internacionalização Empresarial
-- Apoio ao Investimento
-- Competitividade da Economia
 - Investigação
+- Investigação Científica e Tecnológica
 - Investimento
 - Investimento Estrangeiro
+- Investimento Privado
 - Investimento Público
 - Manual de Boas Práticas
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Política de Investigação e Desenvolvimento
-- Projecto de Investigação
-- Investimento Privado
-- Sistema de Incentivos à Inovação
-- IAPMEI
-- ANI-Agência Nacional de Inovação
 - Programa StartUP Portugal
-- Fundo de Inovação Tecnologia e Economia Circular
-- Centro de Interface Tecnológico
-- Estratégia de Inovação Tecnológica e Empresarial para Portugal 2018-2030
+- Projecto de Investigação
+- Sistema de Incentivos à Inovação
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176714555:por
+  label: Alterados os n.os 1 e 4 do anexo pelo(a) Resolução do Conselho de Ministros n.º 186/2021 - Diário da República n.º
+    251/2021, Série I de 2021-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/186-2021-176714555
+  date: '2021-12-29'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado a partir de 30.03.2022 que a superintendência e tutela sobre a ANI - Agência Nacional de Inovação, S.
+    A constante do presente diploma seja exercida pelo Ministro da Economia e do Mar, conjuntamente com a Ministra da Ciência,
+    Tecnologia e Ensino Superior, nas matérias da sua competência pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º
+    89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:14:36Z'
   warnings: []
   errors: []
 ---
@@ -227,3 +245,5 @@ Neste sentido, deverá ser aprofundada a iniciativa «Born from Knowledge», com
 8 - Monitorização e avaliação
 
 Com vista a monitorizar e avaliar a execução deste programa, a ANI deverá, em articulação com o IAPMEI, I. P. - Agência para a Competitividade e Inovação, a Fundação para a Ciência e a Tecnologia, I. P., e a Startup Portugal e com base nos dados oficiais e nas estatísticas produzidas pela Direção-Geral de Estatísticas da Educação e Ciência, produzir bienalmente um Relatório Nacional de Inovação, centrado no acompanhamento das medidas, na identificação de tendências e na caracterização dos atores.
+
+111179104

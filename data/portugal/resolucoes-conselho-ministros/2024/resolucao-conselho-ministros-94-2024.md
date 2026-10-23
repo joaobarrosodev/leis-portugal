@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14300/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2024-873371754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b0b740ee7b705da689875f1e8e7a71e2ad9473af31d1539e79792c277dd7a97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a757a66df74495a523f82fd073ed4e615ba07c02666f0eb87d6e206b3286cc26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AMA
-- Modernização Administrativa
 - Comité de Acompanhamento
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
-- Estrutura de Missão Portugal Digital
-- Plano de Recuperação e Resiliência
-- Fórum da Administração Pública
 - Conselho para o Digital na Administração Pública
+- Estrutura de Missão Portugal Digital
+- Fórum da Administração Pública
+- Modernização Administrativa
+- Plano de Recuperação e Resiliência
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:1084345988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que o Conselho para o Digital na Administração Pública é o órgão consultivo
+    do Ministro Adjunto e da Reforma do Estado pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento,
+    Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -91,16 +98,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1084345988:por
+  label: Revogada, a partir de 18 de abril de 2026, pelo(a) Decreto-Lei n.º 85/2026 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13, extinguindo o Conselho para o Digital na Administração Pública
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2026-1084345988
+  date: '2026-04-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:24Z'
   warnings: []
   errors: []
 ---
@@ -262,3 +287,5 @@ b) Pronunciar-se sobre os objetivos, as prioridades e os desafios na implementa�
 25 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 16 de julho de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+117943237

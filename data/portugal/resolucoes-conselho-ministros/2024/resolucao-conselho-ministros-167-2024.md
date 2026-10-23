@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22300/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/167/2024/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/167-2024-896834903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58f74c776e20a367b9c40d36402130d2fdff29af094c3e364a09df5b94968399
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d9e127bd96d21c00ce7f8a74eaa028cca625d63685d055ff3e68f370510191
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,19 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Despesas Públicas
-- Pessoal de Vigilância
 - Ministério do Trabalho Solidariedade e Segurança Social
+- Pessoal de Vigilância
 relationships:
 - type: amended_by
   target: pt:dre:1005948603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:175/2021
+  label: Altera, a partir de 19 de novembro de 2024, o n.º 1 e o anexo da Resolução do Conselho de Ministros n.º 175/2021,
+    de 15 de dezembro, Diário da República n.º 241/2021, Série I
+  source: null
+  date: '2021-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -100,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/175/2021/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/2021/12/15/p/dre
+- type: cites
+  target: pt:dre:175923962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:18Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +172,7 @@ Presidência do Conselho de Ministros, 14 de novembro de 2024. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere o n.º 2)
 
-| Organismo | 2022 | 2023 | 2024 | 2025 | 2026 | Valor Total (sem IVA) |
+| Organismo | 2022 | 2023 | 2024 | 2025 | 2026 | Valor Total<br>(sem IVA) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Autoridade para as Condições do Trabalho | 103 823,56 € | 130 454,87 € | 118 817,89 € | 118 817,89 € | 29 704,47 € | 501 618,68 € |
 | Casa Pia de Lisboa, I. P. | 357 757,16 € | 486 124,02 € | 531 558,96 € | 531 558,97 € | 132 889,74 € | 2 039 888,85 € |
@@ -156,3 +186,5 @@ Presidência do Conselho de Ministros, 14 de novembro de 2024. - O Primeiro-Mini
 | Programa Operacional Temático Inclusão Social e Emprego/PESSOAS 2030 | 24 964,73 € | 33 767,43 € | 36 538,49 € | 36 538,49 € | 9 134,62 € | 140 943,76 € |
 | Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social | 62 573,61 € | 84 180,87 € | 91 603,14 € | 91 603,14 € | 22 900,78 € | 352 861,54 € |
 | Total Geral | 8 184 776,49 € | 11 121 499,12 € | 11 755 560,81 € | 10 639 962,45 € | 2 035 520,27 € | 43 737 319,14 € |
+
+118358216

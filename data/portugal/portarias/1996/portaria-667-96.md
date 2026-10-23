@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667/1996/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-1996-166387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95e6eb99cec5f8f775026ef003e396bb01a2f4e52e172c8912a2d8a9f610fc57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97a3ed682249864096d37a5a8e127f371223032bc15208ed92cca6877aee2a11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
-- Universidade Atlântica
 - Ensino Superior
+- Plano de Estudos
+- Universidade Atlântica
 relationships:
 - type: amended_by
   target: pt:dre:667478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229114:por
+  label: "Alterada para Gestão de Sistemas e Tecnologias de Informação a denominação e o plano de estudos do curso autorizado\
+    \ neste diploma pela PORT.944/98.1998.10.30.ME DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/944-1998-229114
+  date: '1998-10-30'
+- type: amended_by
+  target: pt:dre:264677:por
+  label: "Alterado o plano de estudos aprovado pelo presente diploma, na redacção da Port 944/98, de 30-Out, pela PORT.285/2002.2002.03.15.ME,\
+    \ DR.IS-B [63]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/285-2002-264677
+  date: '2002-03-15'
+- type: amended_by
+  target: pt:dre:667478:por
+  label: "Alterada para curso de Gestão de Sistemas e Computação a denominação do curso de licenciatura em Gestão de Sistemas\
+    \ e Tecnologias de Informação, autorizado pelo presente diploma, alterado pelas Port 944/98, de 30-Out e 285/2002, de\
+    \ 15-Mar, pela PORT.261/2006.14.03.2006.MCTES, DR.IS-B [52] de 14.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-2006-667478
+  date: '2006-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1996/07/31/p/dre
   label: null
@@ -86,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:406880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:28Z'
   warnings: []
   errors: []
 ---
@@ -164,10 +195,10 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 21 de Outubro de 1996.**
+Assinada em 21 de Outubro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Curso: Gestão de Sistemas e Informação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/264b00/40514053.pdf))](https://files.diariodarepublica.pt/1s/1996/11/264b00/40514053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/264b00/40514053.pdf)

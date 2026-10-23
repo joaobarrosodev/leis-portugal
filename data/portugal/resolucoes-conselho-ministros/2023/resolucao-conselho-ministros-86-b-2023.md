@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 147/2023, 1º Suplemento, Série I de 2023-07-31
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14701/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86-b/2023/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-b-2023-216512894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72f1169912e0d1068f919e27de71d16306ae50e0a40362e84787815b9c8fba88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6ee95b6161d30e6f8eb71e143f18e07512b12790228a1971ea91976cad53fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aquisição de Bens e Serviços
-- Prevenção de Incêndios
+- Autoridade Nacional de Emergência e Proteção Civil
 - Autorização de Despesas
-- Força Aérea
 - Delegação de Competências
 - Despesas Públicas
-- Membros do Governo
-- Forças Armadas
 - Equipamento de Combate a Incêndios
-- Autoridade Nacional de Emergência e Proteção Civil
+- Força Aérea
+- Forças Armadas
 - Governo XXIII
+- Membros do Governo
+- Prevenção de Incêndios
 relationships:
 - type: cites
   target: eli:http
@@ -119,16 +119,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/32/2023/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/32/2023/03/27/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116747965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159841269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208129042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210982934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:14Z'
   warnings: []
   errors: []
 ---
@@ -219,4 +259,6 @@ Presidência do Conselho de Ministros, 27 de julho de 2023. - Pelo Primeiro-Mini
 
 ## ANEXO III — (a que se referem os n.os 8 e 9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14701/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14701/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14701/0000200004.pdf)
+
+116734871

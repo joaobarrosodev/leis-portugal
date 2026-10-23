@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/746/1996/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/746-1996-146773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f050764080429cc8c4a8d122a768aa9b56d8cc87350e29c1bf71a94ef597d58a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0fd588f7de14ac2c32bff58f9a79a7ad4115182dc18c1325496e77de5f36b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ subjects:
 - Direcção Geral dos Serviços Prisionais
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:56Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Manda o Governo, pelos Ministros das Finanças, da Justiça e Adjunto, que seja 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 21 de Novembro de 1996.**
+Assinada em 21 de Novembro de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
@@ -104,4 +116,4 @@ Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Se
 
 Pessoal dos serviços centrais e dos serviços externos da DGSP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/293b00/45424542.pdf))](https://files.diariodarepublica.pt/1s/1996/12/293b00/45424542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/293b00/45424542.pdf)

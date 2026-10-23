@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/966/1995/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/966-1995-479376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7f50061811f06792bcc512f87b11a0eae4de73257fb6aeae995edcbb230e4ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ade020da376d7d3a6c636ec380375e3a9d54d3f68f20db905cb72c9212e9f713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,49 @@ relationships:
   target: pt:dre:343108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216328:por
+  label: "Renovada a concessão da zona de caça estabelecida pela 701/92 de 09-Jul DR.IS-B [156], na redacção dada pelo presente\
+    \ diploma, pela PORT.991/98.1998.11.24.MADRP DR.IS-B [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-1998-216328
+  date: '1998-11-24'
+- type: amended_by
+  target: pt:dre:284316:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 701/92, de 09-Jul DR.IS-B [156], com\
+    \ a redacção do presente diploma, pela Port.1033-GH/2004.10.08.2004.MAPF, DR.IS-B [187-2ºSupl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-gh-2004-284316
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:667082:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 701/92, de 09-Jul, com a redacção do presente\
+    \ diploma, pela PORT.247/2006.10.03.2006.MADRP, DR.IS-B [50] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2006-667082
+  date: '2006-03-10'
+- type: amended_by
+  target: pt:dre:343108:por
+  label: "Renovada a concessão da zona de caça associativa criada pela Port. 701/92, de 09-Jul,na redacção da presente portaria\
+    \ e anexados vários prédios rústicos à mesma zona de caça pela PORT.667/2010.11.08.2010.MADRP, DR.IS [155] de 11.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-2010-343108
+  date: '2010-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/701/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/701/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288586:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:29Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +138,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 701/92](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/182b00/49934994.pdf))](https://files.diariodarepublica.pt/1s/1995/08/182b00/49934994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/182b00/49934994.pdf)

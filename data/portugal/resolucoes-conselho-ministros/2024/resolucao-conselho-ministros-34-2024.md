@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04500/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34/2024/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2024-854054389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afd25dd90379d758df443fd3f259b526bc4aa1421502076d70fd54063c3827ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 205539004743160d453b32dbff170c4d1210339d284522a908e223303cfbbc96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
+- BENS Imóveis do Estado
 - Contrapartida
 - Domínio Público do Estado
 - Estamo-participações Imobiliárias
-- BENS Imóveis do Estado
 - Transferência Patrimonial
 relationships:
 - type: cites
@@ -93,23 +93,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/2008/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2008/01/10/p/dre
+- type: cites
+  target: pt:dre:216055960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:40Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 34/2024
 
-Os vulgarmente conhecidos terrenos da antiga lota de Aveiro (antiga lota de Aveiro) são uma unidade predial de natureza mista, com a área de 118 000 m<sup>2</sup>, correspondente aos terrenos e construções ali implantadas, sito no lugar da Fonte de S. João, na União de Freguesias da Glória e Vera Cruz, do Município de Aveiro.
+Os vulgarmente conhecidos terrenos da antiga lota de Aveiro (antiga lota de Aveiro) são uma unidade predial de natureza mista, com a área de 118 000 m2, correspondente aos terrenos e construções ali implantadas, sito no lugar da Fonte de S. João, na União de Freguesias da Glória e Vera Cruz, do Município de Aveiro.
 
 Desde 1998, os terrenos que integram a antiga lota do porto de Aveiro estavam integrados na área de abrangência do Programa Polis de Aveiro, tendo sido considerado essencial ao cumprimento dos objetivos definidos no respetivo Plano de Urbanização.
 
@@ -139,7 +159,7 @@ Assim:
 
 Nos termos do artigo 3.º do [Decreto-Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2008-386824), de 10 de janeiro, do artigo 24.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, do n.º 4 do artigo 2.º do [Decreto-Lei n.º 60/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), de 24 de julho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Determinar a reversão para o domínio público do Estado do prédio, denominado "antiga lota de Aveiro", com a área de 118 000 m<sup>2</sup>, atualmente inscrito nos artigos urbanos 2064 e 2066 e rústico 412, todos da União de Freguesias de Glória e Vera Cruz, do Município de Aveiro, e registados na competente conservatória do registo predial a favor da APA - Administração do Porto de Aveiro, S. A. (APA, S. A.), que confronta a norte com esteiro da Reduzia, a sul com o canal de São Roque, a nascente com esteiro da Reduzia e Marinha Rata e a poente com estrada e ria, assinalada na planta constante do anexo à presente resolução e da qual faz parte integrante.
+1 - Determinar a reversão para o domínio público do Estado do prédio, denominado "antiga lota de Aveiro", com a área de 118 000 m2, atualmente inscrito nos artigos urbanos 2064 e 2066 e rústico 412, todos da União de Freguesias de Glória e Vera Cruz, do Município de Aveiro, e registados na competente conservatória do registo predial a favor da APA - Administração do Porto de Aveiro, S. A. (APA, S. A.), que confronta a norte com esteiro da Reduzia, a sul com o canal de São Roque, a nascente com esteiro da Reduzia e Marinha Rata e a poente com estrada e ria, assinalada na planta constante do anexo à presente resolução e da qual faz parte integrante.
 
 2 - Autorizar, por mutação dominial subjetiva, a transferir para o domínio público do Município de Aveiro o prédio a que se refere o número anterior, para afetação aos fins integrados nas suas atribuições, nomeadamente a requalificação e a regeneração daqueles territórios.
 
@@ -159,4 +179,7 @@ Presidência do Conselho de Ministros, 1 de fevereiro de 2024. - Pelo Primeiro-M
 
 ## ANEXO — (a que se refere o n.º 1)
 
-![](https://dre.pt/application/file/854054584)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/854054584) |
+| --- |
+
+117325911

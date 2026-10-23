@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17800/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/125/2024/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-2024-887665681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42c1c0f8538ef78ebf554567427df7f7ad94e6ca641920e28bd12987f13ff24c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 674310db103dcb54c9faf9c700ee6f8116ce004d20f03557757ac4bb431bf631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Conselho Diretivo
+- Exoneração
 - Instituto da Habitação e da Reabilitação Urbana
 - Nomeação
 relationships:
+- type: amends
+  target: pt:numero:despacho:6497/2023
+  label: Determina, com efeitos a 9 de setembro de 2024, a dissolução do conselho diretivo do Instituto da Habitação e da
+    Reabilitação Urbana, I. P., nomeado pelo Despacho n.º 6497/2023, de 15 de junho, Diário da República n.º 115/2023, Série
+    II
+  source: null
+  date: '2023-06-15'
+- type: amends
+  target: pt:numero:despacho:12255/2023
+  label: Determina, com efeitos a 9 de setembro de 2024, a cessação do mandato da designada pelo Despacho n.º 12255/2023,
+    de 30 de novembro, Diário da República n.º 232/2023, Série II
+  source: null
+  date: '2023-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
   label: null
@@ -91,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-a/2015/07/23/p/dre
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184242532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866641:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:18Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +142,7 @@ validation:
 
 O Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), é um instituto público de regime especial e gestão participada, nos termos do artigo 47.º e da alínea g) do n.º 3 do artigo 48.º, ambos da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e do n.º 1 do artigo 1.º e do n.º 1 do artigo 5.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, na sua redação atual, sendo o respetivo conselho diretivo composto por um presidente, um vice-presidente e dois vogais, nomeados por resolução do Conselho de Ministros.
 
-Nos termos dos n.<sup>os</sup>1 e 2 da [Resolução do Conselho de Ministros n.º 48/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2022-184242532), de 1 de junho, e pelo Despacho n.º 6497/2023, publicado no Diário da República, 2.ª série, n.º 115, de 15 de junho de 2023, foi designado o conselho diretivo do IHRU, I. P., tendo sido posteriormente alterada a sua composição quanto a uma das suas vogais, pelo Despacho n.º 12255/2023, publicado no Diário da República, 2.ª série, n.º 232, de 30 de novembro de 2023.
+Nos termos dos n.os1 e 2 da [Resolução do Conselho de Ministros n.º 48/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2022-184242532), de 1 de junho, e pelo Despacho n.º 6497/2023, publicado no Diário da República, 2.ª série, n.º 115, de 15 de junho de 2023, foi designado o conselho diretivo do IHRU, I. P., tendo sido posteriormente alterada a sua composição quanto a uma das suas vogais, pelo Despacho n.º 12255/2023, publicado no Diário da República, 2.ª série, n.º 232, de 30 de novembro de 2023.
 
 Tendo sido aprovada a Nova Estratégia para a Habitação - Construir Portugal, para fazer face à urgência nacional que constitui o combate à crise da habitação, revela-se premente que todos os agentes públicos com responsabilidades neste setor se encontrem empenhados e alinhados na execução e implementação das diversas medidas que a compõem.
 
@@ -121,7 +154,7 @@ Assim:
 
 Nos termos da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Determinar a dissolução do conselho diretivo do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), por mera conveniência, ao abrigo do disposto nos n.<sup>os</sup>1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+1 - Determinar a dissolução do conselho diretivo do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), por mera conveniência, ao abrigo do disposto nos n.os1 e 2 do artigo 26.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
 
 2 - Nomear, ao abrigo do disposto no n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e no n.º 1 do artigo 5.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, na sua redação atual, António Benjamim Costa Pereira, Rui Manuel Lavadinho Estríbio, Sónia Maria da Silva Barbosa e Ana Elisa Dias Lourenço Barreiros Proença, respetivamente, para os cargos de presidente, vice-presidente, vogal para a área financeira e vogal do conselho diretivo do IHRU, I. P., cuja idoneidade, experiência e competências profissionais são evidenciadas nas respetivas sínteses curriculares, que constam do anexo à presente resolução e da qual faz parte integrante.
 
@@ -159,13 +192,13 @@ De setembro de 2007 a outubro de 2009 exerceu as funções de presidente da Junt
 
 De novembro de 2005 a setembro de 2007 exerceu as funções de secretário da Junta de Freguesia de Forjães.
 
-De dezembro de 2005 a setembro de 2007 exerceu as funções de sócio-gerente na firma Erindustria - Investimentos Imobiliários, L.<sup>da</sup>
+De dezembro de 2005 a setembro de 2007 exerceu as funções de sócio-gerente na firma Erindustria - Investimentos Imobiliários, L.da
 
-De dezembro de 2005 a novembro de 2007 exerceu as funções de técnico responsável na firma Projicávado, Consultoria e projetos de Eng. Civil, L.<sup>da</sup>
+De dezembro de 2005 a novembro de 2007 exerceu as funções de técnico responsável na firma Projicávado, Consultoria e projetos de Eng. Civil, L.da
 
-De julho de 2005 a novembro de 2009 exerceu as funções de sócio-gerente na firma ABenjamimPereira, Unipessoal, L.<sup>da</sup>, - Engenharia, Arquitectura e Avaliação Imobiliária.
+De julho de 2005 a novembro de 2009 exerceu as funções de sócio-gerente na firma ABenjamimPereira, Unipessoal, L.da, - Engenharia, Arquitectura e Avaliação Imobiliária.
 
-De abril de 2001 a junho de 2009 exerceu as funções de técnico responsável na firma Daniel, Filhos, Construções, L.<sup>da</sup>, titular do certificado de empreiteiro de obras públicas n.º 25947 - EOP e de industrial de construção civil n.º 25681 - ICC.
+De abril de 2001 a junho de 2009 exerceu as funções de técnico responsável na firma Daniel, Filhos, Construções, L.da, titular do certificado de empreiteiro de obras públicas n.º 25947 - EOP e de industrial de construção civil n.º 25681 - ICC.
 
 Experiência profissional complementar:
 
@@ -332,3 +365,5 @@ Experiência profissional complementar:
 Professora convidada na Escola Superior de Atividades Imobiliárias, desde setembro de 2019 até à presente data.
 
 Coorganizadora de Ciclo de Tertúlias da Ordem dos Arquitetos Secção Regional Sul em torno das dinâmicas das cidades e do papel dos arquitetos, entre setembro de 2018 e 2019.
+
+118109708

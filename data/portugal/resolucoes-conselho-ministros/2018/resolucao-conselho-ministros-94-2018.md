@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/2018/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2018-115698904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d6ba25bd06a703463ee66090e23ad27a21c1cedcec896f9e769eeaee5f73a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 192ccf3c0ec6493ae455bccb952fccc8a3a6004d89bfedb277d5d6956a229144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Camões - Instituto da Cooperação e da Língua
 - Comissão de Acompanhamento
 - Desenvolvimento Social
 - Direcção Geral da Educação
-- Luta contra a Discriminação
 - Discriminação Racial
 - Discriminação Sexual
-- Camões - Instituto da Cooperação e da Língua
-- Política de Educação
 - Estratégia Nacional de Educação para o Desenvolvimento
+- Luta contra a Discriminação
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:942401305:por
@@ -103,16 +103,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/2018/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/2018/05/21/p/dre
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107745746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108038372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115360036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572415:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:942401305:por
+  label: Revogada, a partir de 28 de outubro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 167/2025 - Diário da
+    República n.º 207/2025, Série I de 2025-10-27 nos termos do n.º 8 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/167-2025-942401305
+  date: '2025-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:39Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +195,7 @@ QUADRO N.º 1
 
 Instituições envolvidas no processo de elaboração da Estratégia Nacional de Educação para o Desenvolvimento 2018-2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 A ENED 2018-2022 está estruturada em quatro dimensões:
 
@@ -191,7 +221,7 @@ No quadro da UE, é essencial referir os desenvolvimentos posteriores à adoçã
 
 Figura 1.1 - Cronologia internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 Mais recentemente, em junho de 2017, a UE e os seus Estados-Membros aprovaram um «Novo Consenso Europeu sobre o Desenvolvimento» intitulado «Our world, our dignity, our future». Este documento reafirma o papel importante da ED e da sensibilização no aprofundamento do compromisso e mobilização dos indivíduos e para a prossecução dos ODS ao nível nacional e global, contribuindo para a construção de uma cidadania global.
 
@@ -215,7 +245,7 @@ E, em 2017, o Governo aprovou a Estratégia Nacional de Educação para a Cidada
 
 Figura 1.2 - Cronologia nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 No âmbito da implementação da ENED 2010-2016, vários documentos permitiram a institucionalização de um compromisso político entre entidades públicas e OSC de diferentes setores de atividade, orientando também a atual Estratégia. Em 2010, foi aprovado o «Plano de Ação», através da subscrição de um protocolo por parte de 14 entidades públicas e OSC (as ESPA) e, em 2012, foi celebrado um Protocolo de Colaboração entre o Camões, I. P., e a DGE, tendo em vista a implementação das medidas da ENED relativas à educação formal. Em 2016, o «Relatório de Avaliação Externa Final da ENED 2010-2016» constituiu também um documento de referência para a elaboração da presente Estratégia. Neste documento recomendou-se a atualização da ENED e do respetivo Plano de Ação e o aprofundamento do cariz participativo do processo.
 
@@ -267,7 +297,7 @@ A ED procura assim promover a tomada de consciência e a mobilização dos cidad
 
 Figura 2.1 - Educação para o Desenvolvimento: conceito e objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 Embora a ED partilhe dimensões temáticas, assim como éticas e metodológicas, com outras abordagens educativas, é essencial destacar alguns elementos centrais e específicos na construção da sua identidade. Estes residem essencialmente na questão temática geral - problemáticas relacionadas com o desenvolvimento - e no foco geopolítico específico - Sul e Norte globais (ENED 2010-2016: 21). Historicamente, a ED tem como preocupação central a consciencialização sobre e a mobilização para a alteração das condições estruturais geradoras de pobreza, exclusão e desigualdades sociais, as quais afetam, com particular severidade, as populações do Sul global, no quadro das relações Norte-Sul. A própria reflexão em torno das categorias «Norte» e «Sul», vistas de forma cada vez mais fluida e complexa, é também ela matéria de ED.
 
@@ -341,7 +371,7 @@ Atores, de naturezas distintas, intervêm no quadro da ED e desempenham, neste c
 
 Figura 3.1 - Atores de Educação para o Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 No âmbito da ED, torna-se difícil a distinção entre atores e públicos. Por um lado, tendo em conta a abordagem participativa e mobilizadora, os públicos constituem-se necessariamente como atores. Por outro, ser ator de ED significa também, necessariamente, passar por processos contínuos de aprendizagem, respondendo permanentemente a novos desafios à ação de cada um e de cada uma.
 
@@ -353,7 +383,7 @@ A ENED 2018-2022 inclui quatro objetivos identificados como fundamentais (Figura
 
 Figura 4.1 - Objetivos estratégicos da Estratégia Nacional de Educação para o Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0319003202.pdf)
 
 Objetivo 1 - Reforçar a capacidade de intervenção em matéria de Educação para o Desenvolvimento
 
@@ -432,3 +462,5 @@ Pretende-se a elaboração de um Plano de Ação conjunto dando continuidade ao 
 Medida 4.3 - Cultura de avaliação na Estratégia Nacional de Educação para o Desenvolvimento
 
 Pretende-se continuar o aprofundamento do debate do que significa e de como pode ser realizada a avaliação no âmbito da ED, articulando a reflexão ao nível nacional com aquela que se vai desenvolvendo a nível internacional. Pretende-se ainda garantir dois momentos de avaliação: um intermédio e de natureza interna à ENED e um momento final assegurado por avaliadores externos. Visando ambos os exercícios fundamentar a reflexão sobre a implementação da Estratégia, o primeiro permitirá ainda um ajustamento do Plano de Ação, se necessário, de acordo com as necessidades e dificuldades identificadas de modo a obter resultados ainda durante a vigência da presente ENED.
+
+111504692

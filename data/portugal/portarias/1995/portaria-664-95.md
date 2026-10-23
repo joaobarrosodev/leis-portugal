@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/664/1995/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1995-476319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 170b6331695d976070101b9ea594536a20e28fb13726a7dd2a4928e9dfa39fa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0532632fb656ee3ee14f4d7d6d2d377efe3e98d9a55198f66b6a7673ed01f5b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/728/1994/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/728/1994/08/12/p/dre
+- type: cites
+  target: pt:dre:225465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:08Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do n.º 4 
 
 100 - a) Distrito consular de Seul:
 
-#### Secção consular em Seul - todo o território da República da Coreia.
+Secção consular em Seul - todo o território da República da Coreia.
 
 Consulado honorário em Manila - regiões de Ilocos, Cagayan, Luzon Central, capital nacional, Tagalog do Sul, Bicol, Mindanao Nordeste, Mindanao Sudeste, Mindanao Central e Cordillera.
 
@@ -106,6 +118,6 @@ Consulado honorário em Cebu - regiões de Visayas Central, Visayas Leste e Visa
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 7 de Junho de 1995.**
+Assinada em 7 de Junho de 1995.
 
-**O Secretário de Estado das Comunidades Portuguesas, Luís Manuel da Costa de Sousa de Macedo.**
+O Secretário de Estado das Comunidades Portuguesas, Luís Manuel da Costa de Sousa de Macedo.

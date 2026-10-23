@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/769/1996/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/769-1996-494799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 396515d57c275257c691f622cd08ab6c3edcfb883743522fd903c98f379ae585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 802cc241c197aa3d6aa50671e883afba21f699ba2b70a651b0956c087a753231
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Comunicação e Comportamento do Consumidor
 - Ensino Superior Politécnico
 - Escola Superior de Comunicação Social
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:623028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:524851:por
+  label: "Alterado o num 24º pela PORT.212/97.1997.03.29.ME, DR.IS-B [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1997-524851
+  date: '1997-03-29'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:623028:por
+  label: "Revogada, com a redacção dada pela Port 212/97 de 29-Mar, pela PORT.1045/2000.2000.10.27.ME DR.IS-B [249], nos termos\
+    \ do respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-2000-623028
+  date: '2000-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:36Z'
   warnings: []
   errors: []
 ---
@@ -326,7 +349,7 @@ O número de vagas para a candidatura à matrícula e inscrição, no ano lectiv
 
 Ministério da Educação.
 
-**Assinada em 26 de Novembro de 1996.**
+Assinada em 26 de Novembro de 1996.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
@@ -338,4 +361,4 @@ Curso: Comunicação e Comportamento do Consumidor
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/301b00/46964699.pdf))](https://files.diariodarepublica.pt/1s/1996/12/301b00/46964699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/301b00/46964699.pdf)

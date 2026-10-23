@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45/2023/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2023-213294160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69e6e83d30315ddef34eef95cbc14d66540321c4c4fcd825f1d31011e46a3cb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90bc3967f8cffa008210b645c0bfe34040aec9e29880c00beba8f322a3242e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ subjects:
 - Comissão de Acompanhamento
 - Conselho de Ministros
 - Definição de Competências
+- Instituto da Conservação da Natureza e das Florestas
+- Plano de ação para as vias prioritárias de introdução não intencional de espécies exóticas invasoras em Portugal continental
+- Política do Ambiente
+- Proteção do Ambiente
 - Regulamentação de Atos Legislativos
 - União Europeia
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
-- Política do Ambiente
-- Plano de ação para as vias prioritárias de introdução não intencional de espécies exóticas invasoras em Portugal continental
 relationships:
 - type: cites
   target: celex:32014R1143
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170591677:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:22Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +245,7 @@ QUADRO 1
 
 Agrupamento das vias prioritárias de introdução das EEI identificadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 3 - Auscultação e participação de partes interessadas
 
@@ -279,7 +295,7 @@ QUADRO 2
 
 Lista de ações preparatórias definidas no plano de ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 5.2 - Medidas específicas
 
@@ -299,7 +315,7 @@ QUADRO 3
 
 Medidas e ações previstas nos sete tomos que integram o plano de ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 6 - Planeamento
 
@@ -311,7 +327,7 @@ QUADRO 4
 
 Potenciais fontes de financiamento do plano de ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A implementação de cada ação a aplicar no plano de ação, descrita no capítulo anterior, tem, naturalmente, um custo associado. Uma vez que a forma de cada ação ainda não está definitivamente determinada, foi estabelecido um conjunto de ordens de grandeza dos custos associados à sua implementação.
 
@@ -321,7 +337,7 @@ QUADRO 5
 
 Classes de custo das ações previstas no plano de ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 6.2 - Calendário de atuação
 
@@ -345,7 +361,7 @@ QUADRO 6
 
 Coordenação da implementação do plano de ação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 7.2 - Acompanhamento do progresso das medidas e ações
 
@@ -367,7 +383,7 @@ Não obstante, a revisão do plano de ação deve ser efetuada regularmente, no 
 
 Quanto ao tipo de via, a via aquicultura é classificada como transporte intencional, incluindo-se na categoria fugas de cativeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A via aquicultura refere-se a espécies exóticas introduzidas como consequência de fugas de situações confinadas ou controladas em ambientes aquáticos (dulçaquícolas e marinhos) em que são cultivadas ou criadas para a produção de alimentos, para consumo humano ou animal, ou outros produtos de tipo agrícola. Esta via abrange qualquer espécie aquática de fungos, algas, plantas ou animais (peixes e invertebrados) que são cultivados ou criados para produzir alimentos ou bens. O seu cultivo ou a exploração podem ocorrer em ambientes completamente artificiais (e.g., tanques, lagos artificiais) ou (semi)naturais, onde são implementadas medidas para impedir a fuga de indivíduos (e.g., gaiolas, redes de piscicultura). Tal como acontece com todas as vias de fugas de cativeiro, existe tipicamente um substancial grau de maneio envolvido no cultivo ou criação das espécies.
 
@@ -375,7 +391,7 @@ As medidas implementadas para impedir a fuga das espécies exóticas cultivadas 
 
 Quanto ao tipo de via, a via contaminantes em animais é classificada como transporte não intencional, sendo incluída na categoria transporte - contaminante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A aquicultura pode também contribuir para a introdução e dispersão de organismos exóticos, quando outras espécies epibiontes ou endobiontes são transportadas involuntariamente com as espécies a cultivar, sendo assim considerados como contaminantes em animais, bem como doenças e parasitas. Várias invasões biológicas ocorreram através de uma primeira introdução involuntária, «à boleia» de moluscos cultivados, como foi o caso dos gastrópodes Crepidula fornicata e Ocinebrellus inornatus e da ascídea Ciona intestinalis (Fitridge et al., 2012).
 
@@ -389,15 +405,15 @@ Em termos gerais, os contaminantes em animais são taxa introduzidos involuntari
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos de espécies exóticas introduzidas pelas vias anteriormente identificadas, constantes nos anexos ii e iii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.1.3 - Fichas das vias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.1.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.2 - Tomo 2 - Via incrustação em cascos de embarcações
 
@@ -405,7 +421,7 @@ Especificamente para Portugal continental podem ser referidos os seguintes exemp
 
 Quanto ao tipo de via, a incrustação em cascos de embarcações é um transporte não intencional, incluindo-se na categoria transporte - clandestino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A via incrustação em cascos refere-se à circunstância de as embarcações transportarem espécies sésseis (e móveis associadas), quando estas se fixam no navio e formam colónias ou comunidades no casco e outras estruturas. As colónias ou comunidades podem desenvolver-se durante a viagem, ou entre períodos de tratamento anti-incrustante, sendo propagadas meramente pelos seus processos normais de reprodução ou de forma acidental quando o casco da embarcação é limpo.
 
@@ -413,15 +429,15 @@ A via incrustação em cascos refere-se à circunstância de as embarcações tr
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos de EEI introduzidas pela via incrustação em cascos de embarcações, constantes na Lista Nacional de Espécies Invasoras (anexo ii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.2.3 - Ficha da via
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.2.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.3 - Tomo 3 - Via contaminante de material de viveiro, via contaminante em plantas e via transporte de material de habitat.
 
@@ -429,7 +445,7 @@ Especificamente para Portugal continental podem ser referidos os seguintes exemp
 
 Quanto ao tipo de via, as três vias selecionadas - vias contaminantes de material de viveiro/contaminante em plantas/transporte de material de habitat - são classificadas como transporte não intencional, incluindo-se na categoria transporte - contaminante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A via contaminante de material de viveiro abrange qualquer espécie - e.g., fungos, animais (tanto vertebrados como invertebrados) e propágulos de outras espécies de plantas - libertada involuntariamente como contaminante em plantas ou material vegetal associado a viveiros comerciais, excluindo contaminantes transportados por sementes ou parasitas. Devem também ser incluídos na presente subcategoria quaisquer contaminantes envolvidos em material de habitat (e.g., pequenas quantidades de solo e/ou turfa, que envolvem raízes ou que se encontram dentro de vasos e cujo objetivo é assegurar a sobrevivência das plantas até à sua plantação) associado a plantas cultivadas e ao seu transporte. A definição cinge-se a situações em que a quantidade de material de habitat é limitada, servindo apenas para providenciar um ambiente adequado às plantas a cultivar/transportar, sendo as plantas o foco do transporte ou comércio (IUCN, 2017).
 
@@ -441,15 +457,15 @@ A via transporte de material de habitat abrange qualquer espécie introduzida in
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos como EEI introduzidas pelas vias anteriormente identificadas, constantes na Lista Nacional de Espécies Invasoras (anexo ii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.3.3 - Fichas das vias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.3.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.4 - Tomo 4 - Via dispersão natural das espécies
 
@@ -457,7 +473,7 @@ Especificamente para Portugal continental podem ser referidos os seguintes exemp
 
 Quanto ao tipo de via, a via dispersão natural das espécies é classificada como corredores e dispersão, incluindo-se na categoria não ajudado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 As espécies são consideradas exóticas se foram introduzidas numa região fora da sua área de distribuição natural, por meio de ação antrópica. Contudo, uma vez introduzidas num novo território, estas espécies exóticas podem dispersar naturalmente para os territórios adjacentes (IUCN, 2017).
 
@@ -467,15 +483,15 @@ Na presente categoria estão também incluídos taxa exóticos introduzidos como
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos de EEI introduzidas pela via dispersão natural das espécies, de entre as integrantes da Lista Nacional de Espécies Invasoras (anexo ii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.4.3 - Ficha da via
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.4.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.5 - Tomo 5 - Via horticultura e via ornamental
 
@@ -483,7 +499,7 @@ Especificamente para Portugal continental podem ser referidos os seguintes exemp
 
 Quanto ao tipo de via, ambas as vias - horticultura e ornamental - são classificadas como transporte intencional, incluindo-se na categoria fugas de cativeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 A via horticultura considera o cultivo comercial em grande escala de plantas em ambiente controlado ou de confinamento, incluindo aquelas mantidas por colecionadores privados ou amadores, para qualquer uso. A presente via incide em plantas mantidas em instalações comerciais de cultivo (e.g., viveiros, estufas), a partir dos quais se podem disseminar por má gestão, assim como no transporte para os locais de comércio (IUCN, 2017).
 
@@ -495,15 +511,15 @@ Devido à ausência de registos sobre esta matéria, é difícil separar as esp�
 
 Especificamente para Portugal continental podem-se referir os seguintes exemplos de EEI introduzidas pelas vias anteriormente identificadas, constantes na Lista Nacional de Espécies Invasoras (anexos II e III ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.5.3 - Fichas das vias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.5.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.6 - Tomo 6 - Via animais de companhia/aquários/terrários
 
@@ -511,7 +527,7 @@ Especificamente para Portugal continental podem-se referir os seguintes exemplos
 
 Quanto ao tipo de via, a via animais de companhia/aquários/terrários é classificada como transporte intencional, incluindo-se na categoria fugas de cativeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 Esta via abrange qualquer espécie que escapou de confinamento ou dos ambientes controlados, onde foram mantidas por colecionadores particulares ou aficionados, para recreação, diversão ou companhia.
 
@@ -527,15 +543,15 @@ Esta via considera ainda a libertação acidental ou irresponsável de organismo
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos de EEI introduzidas pela via animais de companhia/aquários/terrários, constantes na Lista Nacional de Espécies Invasoras (anexo ii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.6.3 - Ficha das vias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.6.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.7 - Tomo 7 - Via Veículos
 
@@ -543,7 +559,7 @@ Especificamente para Portugal continental podem ser referidos os seguintes exemp
 
 Quanto ao tipo de via, a via veículos é classificada como transporte não intencional, incluindo-se na categoria transporte - clandestino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 Esta via abrange qualquer espécie introduzida acidentalmente como clandestina associada a veículos terrestres, mas não os que o fazem como contaminantes, quer de mercadorias ou bagagens. Os meios de transporte mais comuns correspondem aos carros, carrinhas, camiões e comboios, que têm o potencial de serem vetores de introdução de espécies clandestinas para fora da sua área de distribuição natural, escondidas ou fixas em qualquer espaço disponível.
 
@@ -551,12 +567,14 @@ Esta via abrange qualquer espécie introduzida acidentalmente como clandestina a
 
 Especificamente para Portugal continental podem ser referidos os seguintes exemplos de EEI introduzidas pela via veículos, constantes na Lista Nacional de Espécies Invasoras (anexo ii ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.7.3 - Ficha da via
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
 
 9.7.4 - Medidas e ações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09800/0000200073.pdf)
+
+116438468

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 278/1996, 3º Suplemento, Série I-B de 1996-11-30
   number: '278'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4340-(12) a 4340-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/278b03/00120012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/698-a/1996/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-a-1996-516895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc57e42e4ee9c072e1fa858f63a863efc992481682acbb003acd49a152f0428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e2acb1da9f85678cfb2bc8acd1d32f8c09fba35c37f7d2dcb38c68b10e1914
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Equipamento de Pesca
-- Pesca
 - Gestão dos Recursos
 - Licenciamento
-- Recursos do Mar
+- Pesca
 - Pesca Profissional
+- Recursos do Mar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1135/1994/12/21/p/dre
@@ -81,16 +81,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/296/1994/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/296/1994/05/17/p/dre
+- type: cites
+  target: pt:dre:261933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:25Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +129,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 29 de Novembro de 1996.**
+Assinada em 29 de Novembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas.

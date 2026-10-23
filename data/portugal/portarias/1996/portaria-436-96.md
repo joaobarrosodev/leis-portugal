@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/1996/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-1996-241252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab4d4cc293502994bb155aaee60f9b861b2f9724c2948b7d029984f55548a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18fcef2cf1605eb97810ec7b69b0fc638fa3743936add05063ee9d41e3c869f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Pessoal Operário
+- Capelão
 - Hospital Distrital
 - Mirandela
 - Pessoal Administrativo
 - Pessoal Auxiliar
-- Capelão
 - Pessoal de Enfermagem
 - Pessoal de Informática
+- Pessoal Dirigente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
@@ -83,6 +83,24 @@ relationships:
   target: pt:dre:526799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276472:por
+  label: "Alterado o quadro de pessoal pela PORT.107/2002.2002.02.04.MF DR.IS-B [29] DE 04/FEV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-2002-276472
+  date: '2002-02-04'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Mirandela aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:526799:por
+  label: "Extinta a área funcional de pneumologia e alterado o quadro de pessoal do Hospital Distrital de Mirandela, aprovado\
+    \ pelo presente diploma, na redacção das Ports 107/2002 de 04-Fev e 1374/2002 de 22-Out, pela PORT.798/2004.13.07.2004.MF,\
+    \ DR.IS-B [163] de 13.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-2004-526799
+  date: '2004-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1098/1992/11/28/p/dre
   label: null
@@ -103,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:37Z'
   warnings: []
   errors: []
 ---
@@ -137,13 +187,13 @@ Manda o Governo, pelos Ministros das Finanças, da Saúde e Adjunto, o seguinte:
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Saúde.
 
-**Assinada em 26 de Julho de 1996.**
+Assinada em 26 de Julho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 Quadro de pessoal do Hospital Distrital de Mirandela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/204b00/29312934.pdf))](https://files.diariodarepublica.pt/1s/1996/09/204b00/29312934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/204b00/29312934.pdf)
 
 ## ANEXO I
 
@@ -153,19 +203,19 @@ Repartição de Pessoal e Admissão de Doentes, com:
 
 #### Secção de Pessoal;
 
-#### Secção de admissão de doentes;
+Secção de admissão de doentes;
 
 Repartição de Contabilidade, com:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aproveitamento, com:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 ## ANEXO II
 

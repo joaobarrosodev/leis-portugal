@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14300/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2024/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2024-873371752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:34:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6062940702f0fc8ee5daaa4a18960767ac5806a81bbb4c41356bfa3d54373469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c9e364019f5ba03ed0593d660c8721678889dc366b9a64e99006ff0f6475e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:34:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Radiocomunicações
 - Comunicações Eletrónicas
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
 - FEDER
+- Governo XXIV
+- Radiocomunicações
 - Rede Fixa de Comunicações Eletrónicas
 - Rede Móvel de Comunicações Eletrónicas
-- Governo XXIV
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:156-A/2023
+  label: Altera, a partir de 26 de agosto de 2024, os n.º 7, 8 e 9 da Resolução do Conselho de Ministros n.º 156-A/2023, de
+    30 de novembro, Diário da República n.º 232/2023, 4º Suplemento, Série I
+  source: null
+  date: '2023-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/156-a/2023/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/156-a/2023/11/30/p/dre
+- type: cites
+  target: pt:dre:225125618:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:34:21Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +111,7 @@ A [Resolução do Conselho de Ministros n.º 156-A/2023](https://diariodarepubli
 
 Este projeto prevê um investimento total de 345 200 000,00 EUR e, para este objetivo, a mencionada resolução autoriza uma despesa pública até ao montante global de 172 260 400,00 EUR, acrescido do imposto sobre o valor acrescentado (IVA). Esta autorização de despesa pública reparte-se entre o Fundo Europeu de Desenvolvimento Regional (FEDER), no âmbito do Portugal 2030, no montante de 142 603 000,00 EUR e uma despesa pública adicional no montante de 29 657 400,00 EUR, acrescidos de IVA, proveniente das receitas do "leilão 5G e outras faixas relevantes".
 
-Nesta circunstância, importa alterar a mencionada resolução, determinando-se que os montantes fixados nos n.<sup>os</sup>4 a 6 da mesma, para os anos posteriores a 2024, podem ser acrescidos, respetivamente, dos saldos apurados nos anos económicos anteriores.
+Nesta circunstância, importa alterar a mencionada resolução, determinando-se que os montantes fixados nos n.os4 a 6 da mesma, para os anos posteriores a 2024, podem ser acrescidos, respetivamente, dos saldos apurados nos anos económicos anteriores.
 
 Assim:
 
@@ -121,7 +131,7 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 6 - […]
 
-7 - Determinar que os montantes fixados nos n.<sup>os</sup>4 a 6, para os anos posteriores a 2024, podem ser acrescidos, respetivamente, dos saldos apurados nos anos económicos anteriores.
+7 - Determinar que os montantes fixados nos n.os4 a 6, para os anos posteriores a 2024, podem ser acrescidos, respetivamente, dos saldos apurados nos anos económicos anteriores.
 
 8 - (Anterior n.º 7.)
 
@@ -130,3 +140,5 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 11 de julho de 2024. - Pelo Primeiro-Ministro, Joaquim José Miranda Sarmento, Ministro de Estado e das Finanças.
+
+117943189

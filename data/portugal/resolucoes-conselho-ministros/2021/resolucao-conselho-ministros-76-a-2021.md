@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 116/2021, 2º Suplemento, Série I de 2021-06-17
   number: '116'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 285-(2) a 285-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11602/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/76-a/2021/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-a-2021-165373331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5a60043dd7d752e1c36ab5df82e13d4d6fd6a6b80f82f41e2bda16f1d446d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 563f0f84ddad7874ca2eba5270fecb9aab39bffabf84508134d667ca0dc6b9ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,59 +67,65 @@ reuse:
 subjects:
 - Acordo de Schengen
 - Aeroporto
+- Albufeira.concelho
+- ANA
 - ÁREA Metropolitana
-- Crime
 - Arruda dos Vinhos
-- Equipamento Desportivo
-- Jogos de Fortuna e Azar
+- ASAE
+- Atendimento Público
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
 - Braga
 - Cabeleireiro
+- Casamento
+- Cascais
+- Certificado Digital COVID da UE
 - Circulação de Pessoas
-- Transporte Marítimo
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Manifestação Cultural
-- Transporte Terrestre
-- Direção Geral da Saúde
-- Transporte Aéreo
-- Local de Divertimento
 - Controlo Sanitário
-- Saúde Pública
-- União Europeia
+- Crime
+- Desporto
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Epidemia
+- Equipamento Desportivo
+- Estabelecimento Comercial
 - Fiscalização
-- Lisboa
 - Horário de Funcionamento
 - Isolamento Profiláctico
-- ASAE
+- Jogos de Fortuna e Azar
+- Lisboa
+- Local de Divertimento
 - Loulé
+- Manifestação Cultural
 - Museu
 - Odemira
 - Parque de Diversões
-- Doença Infecciosa
-- Epidemia
-- ANA
-- Albufeira.concelho
-- Casamento
+- Saúde Pública
 - Sertã
 - Sesimbra
-- Cascais
 - Sintra
-- Comércio
-- Atendimento Público
+- Situação de Calamidade
+- Transporte Aéreo
 - Transporte Fluvial
-- Desporto
-- Autarquia Local
+- Transporte Marítimo
+- Transporte Terrestre
+- União Europeia
 - Veículo de Aluguer
 - Veículo de Aluguer sem Condutor
-- Autoridade Nacional de Emergência e Proteção Civil
 - Vigilância Epidemiológica
-- Situação de Calamidade
-- Certificado Digital COVID da UE
 relationships:
 - type: amended_by
   target: pt:dre:202552708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Considera revogada, a partir de 25.10.2022, pelo(a) Resolução do Conselho de Ministros n.º 96/2022 - Diário da República
+    n.º 205/2022, Série I de 2022-10-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/96-2022-202552708
+  date: '2022-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -160,16 +166,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/74-a/2021/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/74-a/2021/06/09/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164712104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164955319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:12Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +290,9 @@ i) Sintra.
 
 4 - O disposto na secção iii do capítulo iii é especialmente aplicável ao município de Sesimbra, o qual, de acordo com os critérios definidos na [Resolução do Conselho de Ministros n.º 70-B/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-b-2021-164712104), de 4 de junho, em especial no seu n.º 4, é qualificado, para efeitos do presente regime, como «Municípios de risco muito elevado».
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -264,7 +320,9 @@ d) Não seja apresentado o Certificado Digital COVID da UE.
 
 9 - A apresentação do Certificado Digital COVID da UE dispensa a apresentação de comprovativo de realização de teste para despiste da infeção por SARS-CoV-2 prevista nos n.os 3 e 4.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As companhias aéreas só devem permitir o embarque dos passageiros de voos com destino ou escala em Portugal continental mediante a apresentação, no momento da partida, de comprovativo de realização laboratorial de teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 com resultado negativo, realizado nas 72 ou 48 horas anteriores à hora do embarque, respetivamente, competindo às companhias aéreas a verificação da existência do referido teste no momento da partida, sem prejuízo de verificação aleatória, à chegada a território nacional continental, por parte da Polícia de Segurança Pública ou do Serviço de Estrangeiros e Fronteiras (SEF).
 
@@ -288,7 +346,9 @@ d) Não seja apresentado o Certificado Digital COVID da UE.
 
 11 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -316,9 +376,13 @@ Limitação à deslocação ou circulação de e para a Área Metropolitana de L
 
 É proibida a circulação de e para a Área Metropolitana de Lisboa no período compreendido entre as 15:00 h do dia 18 de junho e as 06:00 h do dia 21 de junho, sem prejuízo das exceções previstas no artigo 11.º do [Decreto n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/decreto/9-2020-149103950), de 21 de novembro, as quais são aplicáveis com as necessárias adaptações.
 
-#### SECÇÃO III — Medidas aplicáveis a municípios de risco muito elevado
+SECÇÃO III
 
-###### Artigo 49.º — Encerramento de instalações e estabelecimentos em municípios de risco muito elevado
+Medidas aplicáveis a municípios de risco muito elevado
+
+Artigo 49.º
+
+Encerramento de instalações e estabelecimentos em municípios de risco muito elevado
 
 Sem prejuízo do elencado no anexo i ao presente regime, são encerradas as seguintes instalações e estabelecimentos:
 
@@ -358,7 +422,9 @@ l) Provas e exibições náuticas e aeronáuticas;
 
 m) Equipamentos de diversão e similares.
 
-###### Artigo 50.º — Horários em municípios de risco muito elevado
+Artigo 50.º
+
+Horários em municípios de risco muito elevado
 
 1 - Apenas podem abrir ao público antes das 10:00 h os estabelecimentos que não tenham encerrado ao abrigo do disposto no [Decreto n.º 3-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto/3-a-2021-153959843), de 14 de janeiro, bem como, nos termos em que sejam admitidos ao abrigo do presente capítulo, os salões de cabeleireiro, os barbeiros, os institutos de beleza, os restaurantes e similares, as cafetarias, as casas de chá e afins e as instalações desportivas.
 
@@ -376,7 +442,9 @@ m) Equipamentos de diversão e similares.
 
 8 - Os horários de funcionamento dos estabelecimentos de comércio a retalho ou de prestação de serviços podem ser limitados ou modificados por despacho do membro do Governo responsável pela área da economia.
 
-###### Artigo 51.º — Restauração e similares em municípios de risco muito elevado
+Artigo 51.º
+
+Restauração e similares em municípios de risco muito elevado
 
 1 - Os estabelecimentos de restauração e similares, independentemente da área de venda ou prestação de serviços, podem funcionar para efeitos de atividade de confeção destinada a consumo fora do estabelecimento através de entrega ao domicílio, diretamente ou através de intermediário, bem como para disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away).
 
@@ -408,7 +476,9 @@ b) Qualquer espaço do estabelecimento, desde que exterior e ao ar livre.
 
 9 - Os estabelecimentos de restauração e similares que pretendam manter a respetiva atividade, total ou parcialmente, para efeitos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, diretamente ou através de intermediário, estão dispensados de licença para confeção destinada a consumo fora do estabelecimento ou entrega no domicílio e podem determinar aos seus trabalhadores, desde que com o seu consentimento, a participação nas respetivas atividades, ainda que as mesmas não integrem o objeto dos respetivos contratos de trabalho.
 
-###### Artigo 52.º — Eventos em municípios de risco muito elevado
+Artigo 52.º
+
+Eventos em municípios de risco muito elevado
 
 1 - É proibida a realização de celebrações e de outros eventos em interior, sem prejuízo do disposto no número seguinte.
 
@@ -430,7 +500,9 @@ d) Eventos de natureza corporativa realizados em espaços adequados para o efeit
 
 6 - O disposto nos números anteriores não prejudica a realização de eventos em formato digital ou através de meios telemáticos.
 
-###### Artigo 53.º — Atividade física e desportiva em municípios de risco muito elevado
+Artigo 53.º
+
+Atividade física e desportiva em municípios de risco muito elevado
 
 É permitida, desde que no cumprimento das orientações específicas da DGS:
 
@@ -442,7 +514,9 @@ c) A prática de atividade física ao ar livre, em grupos de até seis pessoas;
 
 d) A prática de atividade física e desportiva em ginásios e academias, estando proibida a realização de aulas de grupo e de modalidades desportivas que não sejam de baixo ou médio risco de acordo com as orientações da DGS.
 
-###### Artigo 54.º — Serviços públicos em municípios de risco muito elevado
+Artigo 54.º
+
+Serviços públicos em municípios de risco muito elevado
 
 1 - As lojas de cidadão mantêm o atendimento presencial por marcação, bem como a continuidade e o reforço da prestação dos serviços através dos meios digitais e dos centros de contacto com os cidadãos e as empresas.
 
@@ -450,7 +524,9 @@ d) A prática de atividade física e desportiva em ginásios e academias, estand
 
 3 - Sem prejuízo do atendimento presencial previamente agendado nos serviços, o atendimento prioritário previsto no [Decreto-Lei n.º 58/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2016-75216373), de 29 de agosto, é realizado sem necessidade de marcação prévia.
 
-###### Artigo 55.º — Transportes em municípios de risco muito elevado
+Artigo 55.º
+
+Transportes em municípios de risco muito elevado
 
 1 - As entidades públicas ou privadas responsáveis por transporte coletivo de passageiros devem assegurar a lotação máxima de 2/3 da sua capacidade para o transporte terrestre, fluvial e marítimo que se realize de ou para municípios de risco muito elevado ou no interior destes.
 
@@ -487,3 +563,5 @@ Presidência do Conselho de Ministros, 17 de junho de 2021. - O Primeiro-Ministr
 4 - [...]:
 
 [...].»
+
+114329851

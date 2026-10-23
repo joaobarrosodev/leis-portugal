@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/67/2023/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2023-215338988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c048f7c23f35a9f77df5db0c403612f6771c34134058c4a7d9e9176439044ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 698136dc4d1ccf37a984a4a918e4193f662fabe8e9abbddb637cc268117917a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Comissão Interministerial para a Mobilidade Ativa Ciclável
 - Definição de Competências
+- Estratégia Nacional para a Mobilidade Ativa Ciclável
+- Estratégia Nacional para a Mobilidade Ativa Pedonal
 - Grupo de Trabalho
 - Instituto da Mobilidade e dos Transportes
 - Mobilidade Sustentável
-- Estratégia Nacional para a Mobilidade Ativa Ciclável
-- Comissão Interministerial para a Mobilidade Ativa Ciclável
-- Estratégia Nacional para a Mobilidade Ativa Pedonal
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/131/2019/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/131/2019/08/02/p/dre
+- type: cites
+  target: pt:dre:123666113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134918042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:28:47Z'
   warnings: []
   errors: []
 ---
@@ -293,7 +317,7 @@ Na quarta parte propõe-se, numa perspetiva participada, o modelo de governança
 
 No decurso da elaboração da ENMAP 2030 convencionou-se a adoção da expressão andar a pé em detrimento da palavra caminhar, habitualmente mais utilizada no contexto de turismo, de lazer ou de exercício físico.
 
-# Parte 1 — Contexto histórico e contemporâneo
+## Parte 1 — Contexto histórico e contemporâneo
 
 Andar a pé é o ato mais óbvio que praticamos para nos deslocarmos e foi, ao longo da história, o ato de locomoção mais utilizado até tempos historicamente recentes. Talvez se possa localizar no processo da revolução industrial o início da inversão da importância de andar a pé.
 
@@ -377,7 +401,7 @@ Os eventos decorrentes do aquecimento global têm vindo a acentuar-se. Inundaç�
 
 A imprevisibilidade dos eventos naturais, quer no conteúdo e na forma, quer no espaço e no tempo, introduz uma incerteza sobre os seus efeitos que cria forte insegurança nas sociedades contemporâneas, particularmente nas mais desenvolvidas.
 
-# Parte das razões do aquecimento global está na emissão de GEE para a atmosfera. Se considerarmos que, de acordo com o Relatório do Estado do Ambiente, da Agência Portuguesa do Ambiente, e com a Agência Europeia do Ambiente, quase 30 % desses gases são emitidos pelos transportes, em particular pelos movidos a derivados de combustíveis fósseis, facilmente se compreende a importância e a urgência da sua redução.
+Parte das razões do aquecimento global está na emissão de GEE para a atmosfera. Se considerarmos que, de acordo com o Relatório do Estado do Ambiente, da Agência Portuguesa do Ambiente, e com a Agência Europeia do Ambiente, quase 30 % desses gases são emitidos pelos transportes, em particular pelos movidos a derivados de combustíveis fósseis, facilmente se compreende a importância e a urgência da sua redução.
 
 O Acordo de Paris, aprovado em dezembro de 2015, é claro no apelo que faz à necessidade de uma mudança de paradigma nas sociedades, definindo, como medida global e de enorme ambição, a descarbonização praticamente total da sociedade até ao final do século. No mesmo sentido, o Acordo de Glasgow faz notar o lento ritmo desta mudança de paradigma, pelo que urge acelerar as medidas preconizadas.
 
@@ -465,7 +489,7 @@ Pela igualdade de oportunidades, condições de acesso e segurança em deslocaç
 
 A análise das questões de género é reveladora de algumas especificidades dos padrões de mobilidade. Considerando o número total de habitantes em Portugal (10 343 066 habitantes de acordo com os Censos de 2021) e o número de detentores de habilitação legal para a condução (6 618 597 condutores), verifica-se que 64 % da população portuguesa possui carta de condução, sendo a maioria dos encartados do sexo masculino (56 %) (figura 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 1 - Número de condutores por género (janeiro de 2023)
 
@@ -551,7 +575,7 @@ A mobilidade pedonal deve ser o centro nevrálgico dos sistemas de mobilidade mu
 
 No entanto, os apuramentos estatísticos de 2014 (gráfico 1), respeitantes à repartição modal, evidenciam a secundarização do modo pedonal no sistema de mobilidade europeu. Com efeito, a média apurada para os países da UE a 28 indica um peso de 14 % do modo pedonal enquanto opção preferencial, um quantitativo estatístico consideravelmente inferior ao registado para o transporte individual (54 %). Já Portugal regista um valor superior à média europeia (16 %).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Gráfico 1 - Percentagem da população que opta pelo modo pedonal como principal modo de transporte
 
@@ -639,7 +663,7 @@ Não obstante as diversas iniciativas desenvolvidas em matéria de promoção da
 
 Verifica-se a tendência predominante da utilização do transporte individual (gráfico 2) como principal modo de transporte, com acréscimos na ordem dos 20 % por década, no período intercensitário 2001-2021, remetendo o modo pedonal para uma posição periférica no modelo de mobilidade. Importa referir que estes dados advêm dos Censos, realizados de 10 em 10 anos e onde se questiona sobre o principal modo de transporte, e apenas para quem trabalha ou estuda, e faz deslocações diárias entre o local de residência e os locais de trabalho ou estudo. Desta forma não são considerados os percursos efetuados a pé antes ou depois da principal etapa da deslocação, realizada em modos motorizados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Gráfico 2 - Evolução da distribuição modal em Portugal entre 2001 e 2021
 
@@ -651,7 +675,7 @@ A crescente utilização do transporte individual motorizado verifica-se no núm
 
 Esta tendência é, também, reforçada pelos dados do Instituto Nacional de Estatística, I. P. (INE, I. P.) (gráfico 3), no inquérito realizado nas duas áreas metropolitanas em 2017, sendo a utilização do transporte individual motorizado dominante enquanto meio principal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Gráfico 3 - Distribuição das deslocações por meio de transporte principal, dos residentes nas Áreas Metropolitanas
 
@@ -665,7 +689,7 @@ Os dados dos Censos de 2021 revelam que 51,7 % dos movimentos pendulares da popu
 
 Com efeito, a análise macroespacial (figura 2) evidencia uma dicotomia litoral-interior, destacando-se o facto de no litoral os tempos de viagem serem superiores, devido a múltiplos fatores como o congestionamento, a expansão urbana e o consequente distanciamento dos locais de residência face ao emprego ou a outras atividades geradoras de deslocações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 2 - Tempo médio declarado na deslocação para o local de trabalho ou estudo, em 2021
 
@@ -683,7 +707,7 @@ Considerando os dados acumulados de 2016 a 2020, o Programa de Proteção Pedona
 
 Considerando o elevado número de atropelamentos em passagens sinalizadas para peões, entre 2016 e 2020 (figura 3), deverá ser melhorado o quadro normativo, designadamente com a inclusão de regras rigorosas relativas ao desenho, dimensionamento, localização de passagens para peões, subida da cota para níveis do passeio, iluminação adequada, sinalização conforme e priorização do tráfego pedonal sobre o rodoviário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 3 - Peões vítimas segundo a ação (dentro e fora das localidades), 2010 a 2016
 
@@ -703,11 +727,11 @@ O conceito de rua tem vindo a ser alterado nos últimos anos, tendo esta passado
 
 Fatores internos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Fatores externos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 3.5 - Uma estratégia participada
 
@@ -741,7 +765,7 @@ Foram também promovidas sessões de auscultação com especialistas em mobilida
 
 As respostas obtidas foram sistematizadas e, sempre que possível, consideradas no Plano de Ação da ENMAP 2030. As áreas temáticas mais referenciadas, quer ao nível das razões pelas quais a mobilidade pedonal tem perdido importância quer ao nível das medidas a implementar para inverter essa tendência, prenderam-se com a necessidade de: comunicar e sensibilizar de uma forma eficiente, estimular a participação pública, promover a formação em diversas áreas técnicas, aprofundar a relação entre o uso do solo, o ordenamento do território e o planeamento da mobilidade, intervir de forma adequada no espaço público, reforçar a oferta de transportes públicos e racionalizar o uso do transporte individual e proceder à recolha de dados, à sua sistematização e disponibilização pública para o apoio mais informado na tomada de decisão.
 
-# Parte 2 — Visão, missão, metas e fatores críticos de sucesso
+## Parte 2 — Visão, missão, metas e fatores críticos de sucesso
 
 4 - Visão, missão, metas e fatores críticos de sucesso
 
@@ -785,7 +809,7 @@ Promover estilos de vida ativos e saudáveis - Diminuir o sedentarismo
 
 Os fatores críticos de sucesso (figura 4) são pontos-chave fundamentais para garantir o êxito da ENMAP 2030 e que podem alavancar ou condicionar a sua implementação. A identificação destes fatores assume por isso uma relevância extrema no garante do desenvolvimento das suas medidas e consequente alcance das suas metas, missão e visão. Com efeito, impõe-se uma articulação intersectorial das políticas públicas associadas à mobilidade pedonal bem como a sua articulação com os demais modos de transporte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 4 - Fatores críticos de sucesso
 
@@ -849,7 +873,7 @@ Promover a transferência de receitas provenientes dos impostos associados à aq
 
 Outros aspetos a considerar são medidas, fiscais ou outras, dissuasoras da ocupação de lugares de estacionamento na via pública. O maior entrave à melhoria da infraestrutura pedonal é a pressão do estacionamento, pelo que importa definir uma política fiscal que contribua para a redução da oferta de estacionamento na via pública, designadamente a 2.ª e 3.ª motorização.
 
-# Parte 3 — Plano de ação
+## Parte 3 — Plano de ação
 
 5 - Plano de ação
 
@@ -857,7 +881,7 @@ Outros aspetos a considerar são medidas, fiscais ou outras, dissuasoras da ocup
 
 O Plano de Ação da ENMAP 2030 desenvolve-se em torno de cinco vetores estratégicos: Educação, Cultura, Planeamento, Infraestruturas e Fiscalidade e Incentivos. Cada um destes vetores desdobra-se em eixos de ação que são compostos por medidas concretas com vista à promoção de andar a pé. No plano de ação são também identificadas as entidades responsáveis e as entidades envolvidas em cada medida, sendo possível a sua atualização, quando tal seja necessário e devidamente justificado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 5 - Vetores estratégicos, eixos de ação e medidas
 
@@ -1081,13 +1105,13 @@ Desenvolver mecanismos de índole diversa, nomeadamente através da formalizaç�
 
 5.2 - Cronograma de desenvolvimento das medidas da ENMAP 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Figura 6 - Cronograma
 
 Fonte: elaboração própria.
 
-# Parte 4 — Governança, monitorização e financiamento
+## Parte 4 — Governança, monitorização e financiamento
 
 6 - Governança
 
@@ -1171,20 +1195,22 @@ As práticas internacionais demonstram que o valor investido na promoção efeti
 
 ## ANEXO 1 — Estratégias nacionais ou locais de promoção do modo pedonal e ciclável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 ## ANEXO 2 — Estratégias de valorização do modo pedonal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 ## ANEXO 3 — Instrumentos de política internacional/comunitária e nacional, nos âmbitos da mobilidade, ambiente e energia
 
 (os documentos cuja vigência se encontra ultrapassada encontram-se assinalados a sombreado)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 ## ANEXO 4 — Variação do meio de transporte mais utilizado nos movimentos pendulares (n.º), entre 2001 e 2021, por NUTS II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13100/0001000059.pdf)
 
 Fonte: Instituto Nacional de Estatística, Censos 2001 e 2021.
+
+116620433

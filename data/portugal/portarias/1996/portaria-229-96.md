@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/146b00/16221624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/229/1996/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-1996-427403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbcff9ee1e8341b2858688004abfd69172d8f81155e1fd0ba0af8f5742027a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10dfedd76cccb934d04abad6bb9b2b3dcdabf5bb5b55e13aad8818a5a845e0c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Mulher
+- Mulher Trabalhadora
 - Produto Químico
 - Protecção da Maternidade
-- Mulher
 - Radioprotecção
 - Segurança no Trabalho
-- Mulher Trabalhadora
-- Condições de Higiene e Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:502399:por
@@ -85,16 +85,22 @@ relationships:
   target: celex:31992L0085
   label: null
   source: http://data.europa.eu/eli/dir/1992/85/oj
+- type: repealed_by
+  target: pt:dre:502399:por
+  label: "Revogada, sem prejuízo do previsto no nº 2 do art. 21.º do Código do Trabalho, pela LEI.35/2004.29.07.2004.AR, DR.IS-A\
+    \ [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2004-502399
+  date: '2004-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:24Z'
   warnings: []
   errors: []
 ---
@@ -145,9 +151,9 @@ Ao abrigo do n.º 7 do artigo 16.º da Lei n.º 4/84, de 5 de Abril, na redacç�
 
 Presidência do Conselho de Ministros e Ministérios da Saúde e para a Qualificação e o Emprego.
 
-**Assinada em 22 de Maio de 1996.**
+Assinada em 22 de Maio de 1996.
 
-**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.**
+A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
 
 ## ANEXO I — Lista dos agentes e dos processos condicionados às mulheres grávidas, puérperas ou lactantes
 

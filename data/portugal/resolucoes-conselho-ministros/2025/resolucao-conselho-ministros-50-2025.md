@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05300/0005100055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2025-911089440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d180c7a2b95d68eec33a35ac1928f165b3316f6f6c50dd614ae63ca49362591c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dffa76f5fc0568d5bcec3569c13d93c2838c2e041b02261fc7f4a42c1652ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - Nomeação
 - Presidente
 - Unidade Local de Saúde
-- Vogal
 - Unidade Local de Saúde do Arco Ribeirinho
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:38:11Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +143,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., a presidente e três vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução do Conselho de Ministros, e da qual faz parte integrante:
 
@@ -307,8 +327,10 @@ Participação em várias ações de formação no âmbito da contratualização
 
 Experiência profissional:
 
-Iniciou a atividade profissional em 1990, em diversas entidades do setor privado: com as funções de controller no Departamento Financeiro da Helly-Hansen, nos anos de 1993 a 1997; com as funções de responsável administrativo no Departamento de Setúbal da Delta Cafés, nos anos de 1998 a 2000; com as funções de responsável administrativo e financeiro na Martins e Costa, L.<sup>da</sup> (Fricon), até ao ano de 2003;
+Iniciou a atividade profissional em 1990, em diversas entidades do setor privado: com as funções de controller no Departamento Financeiro da Helly-Hansen, nos anos de 1993 a 1997; com as funções de responsável administrativo no Departamento de Setúbal da Delta Cafés, nos anos de 1998 a 2000; com as funções de responsável administrativo e financeiro na Martins e Costa, L.da (Fricon), até ao ano de 2003;
 
 Em janeiro de 2004, com a transformação dos hospitais SPA em sociedades anónimas, iniciou as funções de diretor financeiro no Hospital Nossa Senhora do Rosário, S. A., tendo acompanhado nestes últimos 20 anos todas as transformações deste Hospital: em 2005, a transformação dos hospitais SA em entidades públicas empresariais, em novembro de 2009, com a criação do Centro Hospitalar Barreiro-Montijo, E. P. E., por fusão do Hospital Nossa Senhora do Rosário, E. P. E., com o Hospital Distrital do Montijo, e, em janeiro de 2024, com a criação da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., por integração no Centro Hospitalar Barreiro-Montijo, E. P. E., do Agrupamento dos Centros de Saúde do Arco Ribeirinho;
 
 Atualmente mantém as funções de diretor financeiro na Unidade Local de Saúde do Arco Ribeirinho, E. P. E.
+
+118813152

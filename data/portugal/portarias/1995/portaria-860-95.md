@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/860/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1995-460236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90d8868590ba627c46641a663546bc291bb8a595ef04f8568dc87b84aef21ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 319d4aacabd4c3e930a91988f427343dc1581505cea8452576362e4c03d5dbfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:520604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186084:por
+  label: "Transferida a concessão da zona de caça turística estabelecida pelo presente diploma, pela PORT.156/98.1998.03.13.MECO,\
+    \ DR.IS-B [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-1998-186084
+  date: '1998-03-13'
+- type: amended_by
+  target: pt:dre:552304:por
+  label: "Excluída uma área de 6 ha da zona de caça atribuída pelo presente diploma, com as alterações introduzidas pela Port\
+    \ 156/98 de 13-Mar, pela PORT.1426/2006.21.12.2006.MADRP, DR.IS [244] de 21.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1426-2006-552304
+  date: '2006-12-21'
+- type: amended_by
+  target: pt:dre:520604:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, concessionad pelo presente diploma, alterada pelas\
+    \ Ports. 156/98 de 13-Mar e 1426/2006 de 21-Dez, pela PORT.613/2007.22.05.2007.MADRP, DR.IS [98] de 22.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-2007-520604
+  date: '2007-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:47Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +163,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/44764477.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/44764477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44764477.pdf)

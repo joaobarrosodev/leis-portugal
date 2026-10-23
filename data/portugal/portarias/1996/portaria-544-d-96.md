@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 231/1996, 1º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3500-(4) a 3500-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b01/00040004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-d/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-d-1996-391443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51064d1b4d0138b54f0dfb6c1429fb396ac0b20b26f54b4dc4a65885a4540376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a8dd0f5d4e8b9d186b644e550d1279d4604ac2712494e76c7ee277fdd856177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:455588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174076:por
+  label: "Renovada a concessão atribuida pela Port 451/90 de 18-Jun, na redacção dada pelo presente diploma, pela PORT.1167/2002.2002.08.29.MECO,\
+    \ DR.IS-B [199] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1167-2002-174076
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:455588:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça atribuída pela Portaria 451/90, de 18 de Junho,\
+    \ na redacção do presente diploma, pela PORT.873/2008.13.08.2008.MADRP, DR.IS [156] de 13.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/873-2008-455588
+  date: '2008-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -84,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/484/1996/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/484/1996/09/10/p/dre
+- type: cites
+  target: pt:dre:219936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575111:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:32Z'
   warnings: []
   errors: []
 ---
@@ -124,6 +148,6 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 25 de Setembro de 1996.**
+Assinada em 25 de Setembro de 1996.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

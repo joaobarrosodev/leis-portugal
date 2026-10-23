@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 296/1996, 3º Suplemento, Série I-B de 1996-12-23
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4594-(8) a 4594-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/296b03/00080009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754-d/1996/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-d-1996-146235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf17ee1d13252361adc42f36c5184e0907c69e85354dac91227ca4d189f2182e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f47c4b60369c8016d6151fd7206b761a487f51ab2d7fd26070f45421291ebc18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-n/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-n/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:206065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420416:por
+  label: "Revogada pela PORT.1241/97.1997.12.18.MECO E MADRP DR.IS-B [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1241-1997-420416
+  date: '1997-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:39:13Z'
   warnings: []
   errors: []
 ---
@@ -129,8 +146,8 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 23 de Dezembro de 1996.**
+Assinada em 23 de Dezembro de 1996.
 
 Pelo Ministro da Economia, Jaime Serrão Andrez, Secretário de Estado do Comércio e Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/296b03/00080009.pdf))](https://files.diariodarepublica.pt/1s/1996/12/296b03/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/296b03/00080009.pdf)

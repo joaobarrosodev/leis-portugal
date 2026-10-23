@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/20/2021/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2021-159792487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab44ace18d1eb41ffd31912be2596502a930dff8a7432d0b287067723dcfad61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621bfe3f87fa36aa28115d086cee8e0a79f432266e0b96d77e742f85ccac264d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
+- Apoio à Exportação
 - Comércio Externo
 - Conselho Estratégico de Internacionalização da Economia
 - Diversificação das Exportações
-- Internacionalização Empresarial
-- Incentivos à Exportação
-- Apoio à Exportação
-- Mercado Internacional
 - Exportação
+- Incentivos à Exportação
+- Internacionalização Empresarial
+- Mercado Internacional
 - Presidência do Conselho de Ministros
 - Programa Internacionalizar
 relationships:
@@ -97,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/189/2017/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/189/2017/12/06/p/dre
+- type: cites
+  target: pt:dre:122202602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:11Z'
   warnings: []
   errors: []
 ---
@@ -181,13 +193,13 @@ Durante vários anos estes objetivos gerais contribuíram decisivamente para o e
 
 Nestes termos e sem prejuízo de um acompanhamento regular e da sua revisão sempre que se justificar, são definidas metas que, numa primeira fase pretendem recuperar os objetivos do impacto da pandemia da doença COVID-19, para depois aproximar a economia portuguesa de uma taxa cobertura de 100 % em 2027, ambicionando em 2030 atingir um valor do mesmo indicador próximo dos 105 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
 
 2 - Desenvolvimento estratégico:
 
 O ambicionado crescimento sustentável da economia nacional, assente numa agenda de transformações estruturais e investimentos seletivos, em áreas como a inovação e o conhecimento, a digitalização, o empreendedorismo, a economia circular, a transição energética e novos mercados, prolongando o trajeto de convergência com a União Europeia e a Zona Euro, é uma meta transversal da atividade do Ministério dos Negócios Estrangeiros. É neste enquadramento que o Programa Internacionalizar 2030 assume um papel determinante, não só pelas medidas que contempla, mas também pelo papel central que assume na articulação das diversas vertentes da política externa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
 
 O Programa Internacionalizar 2030 assume-se como o elemento de ligação de vários programas/dimensões e agentes de política externa - das comunidades à cooperação, da língua e cultura à Comunidade dos Países de Língua Portuguesa (CPLP), dos assuntos bilaterais e multilaterais internacionais às questões europeias - em prol do objetivo comum de promover o crescimento económico, a convergência social e coesão territorial do nosso país.
 
@@ -207,7 +219,7 @@ O cumprimento das metas definidas no âmbito dos objetivos gerais do Programa In
 
 Para a dinamização destas duas dimensões concorrem seis eixos de intervenção: A) Business and Market Intelligence; B) Formação e qualificação de recursos humanos e do território; C) Financiamento; D) Apoio no acesso aos mercados e ao investimento em Portugal; E) Desenvolvimento da Marca «Portugal»; F) Política comercial e custos de contexto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
 
 Estes seis eixos de intervenção dão forma à cadeia de valor da internacionalização, sendo fatores dinamizadores de condições mais favoráveis para a promoção das duas dimensões estratégicas já referidas. Os eixos «E» e «F» assumem uma natureza mais transversal e de contexto, onde o impacto nos objetivos gerais se faz através de externalidades positivas. Os restantes eixos representam recursos, que se espera sejam mais competitivos e que possam ser utilizados pelos diversos agentes no apoio aos seus processos de internacionalização.
 
@@ -285,7 +297,7 @@ Partindo deste cenário e como estratégia de resposta a esta pandemia, o Progra
 
 É atuando dentro destes domínios, com ações concretas inseridas nas medidas do Programa Internacionalizar 2030, que se procurará aumentar as exportações, o IDE e aproveitar as oportunidades associadas à redefinição das cadeias de valor e, assim, contribuir para uma retoma mais célere da nossa economia para níveis anteriores aos da pandemia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
 
 5 - Fatores chave e medidas a executar:
 
@@ -549,4 +561,6 @@ Ação COVID-19 - Desenvolvimento de processo logístico de comércio eletrónic
 
 6 - Cronograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05500/0003200049.pdf)
+
+114072895

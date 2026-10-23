@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00200/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1/2021/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-2021-152850634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c279d7be521d6121f9c3a011c13f15ad3c62697393ae1057c85d93fc972357d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6265035894362d8442ba361473c345804e3634eff4e17c1888cce9fffa4c138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Apoio Técnico
-- Definição de Competências
-- Secretaria Geral
 - Comissão de Coordenação e Desenvolvimento Regional
-- Orgânica
-- Presidente
-- Presidência do Conselho de Ministros
 - Conselho de Concertação Territorial
+- Definição de Competências
+- Orgânica
+- Presidência do Conselho de Ministros
+- Presidente
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2014/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2014/03/05/p/dre
+- type: cites
+  target: pt:dre:572153:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:25Z'
   warnings: []
   errors: []
 ---
@@ -158,3 +162,5 @@ m) Os presidentes das comissões de coordenação e desenvolvimento regional.
 3 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de dezembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113851198

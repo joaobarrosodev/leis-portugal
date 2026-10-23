@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/119/2025/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2025-928506357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e7c1bfda719d4a92a98f45590345e704f0b294490f079779a29118af7baefd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f256dc0bcae7d627a2166dc7cab9cb879f80848b0532a3cfdf2385185f1f39a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação Nacional de Municípios Portugueses
-- Tráfego Marítimo
-- Transporte Marítimo
 - Administração de Portos
-- Instituto da Mobilidade e dos Transportes
+- Associação Nacional de Municípios Portugueses
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Estratégia para os Portos Comerciais do Continente 2025-2035
+- Instituto da Mobilidade e dos Transportes
 - PORTOS 5+
+- Tráfego Marítimo
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32014L0094
@@ -110,16 +110,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/175/2017/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/2017/11/24/p/dre
+- type: cites
+  target: pt:dre:114248655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897543549:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:175/2017
+  label: Revoga, a partir de 13 de agosto de 2025, a Resolução do Conselho de Ministros n.º 175/2017, de 24 de novembro, Diário
+    da República n.º 227/2017, Série I
+  source: null
+  date: '2017-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:04Z'
   warnings: []
   errors: []
 ---
@@ -224,13 +250,13 @@ Foram promovidas reuniões com as administrações portuárias do continente, co
 
 1.1 - Tendências no transporte marítimo
 
-Com base na informação da UNCTAD (<sup>1</sup>), o comércio marítimo global enfrentou um declínio marginal em 2022, refletindo as tensões geopolíticas e económicas internacionais e a reconfiguração das rotas daí advenientes, tendo recuperado em 2023, e esperando-se uma média de crescimento de 2,1 % até 2028. A mudança na geografia do comércio global, com destaque para as rotas Sul-Sul, tem impulsionado novas iniciativas da China, dos Estados Unidos da América e da Europa, mas enfrenta desafios como a falta de capacidade no Panamá e a falta de segurança no Suez. As economias emergentes, como o Brasil, a Índia e os países do Sudeste Asiático, têm fortalecido as suas participações, levando a um crescimento do comércio entre regiões do hemisfério sul.
+Com base na informação da UNCTAD (1), o comércio marítimo global enfrentou um declínio marginal em 2022, refletindo as tensões geopolíticas e económicas internacionais e a reconfiguração das rotas daí advenientes, tendo recuperado em 2023, e esperando-se uma média de crescimento de 2,1 % até 2028. A mudança na geografia do comércio global, com destaque para as rotas Sul-Sul, tem impulsionado novas iniciativas da China, dos Estados Unidos da América e da Europa, mas enfrenta desafios como a falta de capacidade no Panamá e a falta de segurança no Suez. As economias emergentes, como o Brasil, a Índia e os países do Sudeste Asiático, têm fortalecido as suas participações, levando a um crescimento do comércio entre regiões do hemisfério sul.
 
 Com o aumento do movimento de carga contentorizada e o crescimento das frotas de grande porte, os portos de águas profundas têm continuado a destacar-se, desempenhando um papel crucial como centros (hubs) de distribuição. A expansão em cascata para navios de maior capacidade, acima dos 24 000 TEU (unidade de medida equivalente a um contentor de 20 pés), pressiona os portos portugueses para se adaptarem, atualizando infraestruturas e ampliando a capacidade para receber navios de maior porte. Em resposta ao crescimento de capacidade do transporte marítimo no mercado de contentores, os operadores de linha, especialmente na Europa, estão a adotar estratégias de ajuste de capacidade através de redução da velocidade e rotas alternativas. Assim, Portugal necessita de otimizar operações e adaptar as suas infraestruturas portuárias para suportar um fluxo variado de mercadorias e modos de transporte, e simultaneamente incrementar a competitividade.
 
 A digitalização do setor a nível mundial, com impactos significativos na conectividade portuária e marítima à escala global, requer uma maior interoperabilidade entre os portos e os modos de transporte, que devem antecipar esta transição para melhorar a previsibilidade, a confiança e a eficiência operacional, fatores cruciais para a competitividade e a atração de investimento. A modernização alfandegária dos portos, focada numa fiscalização mais eficiente e na maior simplificação dos processos, contribuirá para a transparência das operações e reduzir o tempo e o custo de movimentação de carga.
 
-Em 2023, as emissões de CO<sub>2</sub> do transporte marítimo internacional representaram um aumento de 20 % em relação à década anterior (<sup>2</sup>). A implementação dos índices de eficiência energética e de emissões de carbono da União Europeia e da Organização Marítima Internacional é essencial para o cumprimento dos objetivos de sustentabilidade. Para cumprir as metas de redução de emissões, os portos devem investir em tecnologia verde e adaptar as suas infraestruturas, por forma a que estas sustentem e forneçam combustíveis alternativos.
+Em 2023, as emissões de CO2 do transporte marítimo internacional representaram um aumento de 20 % em relação à década anterior (2). A implementação dos índices de eficiência energética e de emissões de carbono da União Europeia e da Organização Marítima Internacional é essencial para o cumprimento dos objetivos de sustentabilidade. Para cumprir as metas de redução de emissões, os portos devem investir em tecnologia verde e adaptar as suas infraestruturas, por forma a que estas sustentem e forneçam combustíveis alternativos.
 
 As importações para a União Europeia de produtos cuja produção seja particularmente intensiva em carbono necessitam de certificados CBAM (Carbon Border Adjustment Mechanism), desde outubro de 2023, nos termos do [Regulamento (UE) 2023/956](https://data.europa.eu/eli/reg/2023/956/oj?locale=pt) do Parlamento Europeu e do Conselho, de 10 de maio de 2023, que criou um mecanismo de ajustamento carbónico fronteiriço. E foi também aprovada a [Diretiva (UE) 2023/959](https://data.europa.eu/eli/dir/2023/959/oj?locale=pt) do Parlamento Europeu e do Conselho, de 10 de maio de 2023, que estende ao setor dos transportes marítimos o regime do comércio europeu de licenças de emissão de gases com efeito de estufa que poderá conduzir a reconfigurações na logística, influenciando na escolha dos portos de entrada e de transbordo (transhipment). A conformidade com essas novas regulamentações constitui um desafio para os portos portugueses.
 
@@ -238,7 +264,7 @@ As importações para a União Europeia de produtos cuja produção seja particu
 
 Os portos nacionais do continente registaram, na última década, um período de contração da movimentação de cargas, em grande parte devido ao declínio de mercados obsoletos e ao reduzido investimento na renovação e expansão das infraestruturas e equipamentos para suporte de novos mercados verdes. A modernização e a adaptação dos portos face às novas exigências de digitalização, descarbonização e conectividade, no contexto europeu e mundial, permanecem por cumprir. Neste contexto, é imperioso e urgente investir na melhoria das capacidades das infraestruturas, dos equipamentos e das acessibilidades marítimas e terrestres dos portos comerciais do continente.
 
-A Estratégia para o Aumento da Competitividade da Rede de Portos Comerciais do Continente - Horizonte 2026, publicada através da [Resolução do Conselho de Ministros n.º 175/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2017-114248655), de 24 de novembro, apresentou uma perspetiva de aumento substancial do movimento de mercadorias em 2026. Contudo, o movimento global de carga nos portos comerciais do continente, de acordo com os números da Autoridade da Mobilidade e dos Transportes (<sup>3</sup>), constantes dos seus relatórios de acompanhamento do mercado portuário, decaiu quase em contínuo, atingindo 83 355 milhares de toneladas em 2023, ou seja, cerca de 8 toneladas por habitante/ano, quando os portos espanhóis movimentaram cerca de 11 toneladas por habitante/ano (<sup>4</sup>).
+A Estratégia para o Aumento da Competitividade da Rede de Portos Comerciais do Continente - Horizonte 2026, publicada através da [Resolução do Conselho de Ministros n.º 175/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2017-114248655), de 24 de novembro, apresentou uma perspetiva de aumento substancial do movimento de mercadorias em 2026. Contudo, o movimento global de carga nos portos comerciais do continente, de acordo com os números da Autoridade da Mobilidade e dos Transportes (3), constantes dos seus relatórios de acompanhamento do mercado portuário, decaiu quase em contínuo, atingindo 83 355 milhares de toneladas em 2023, ou seja, cerca de 8 toneladas por habitante/ano, quando os portos espanhóis movimentaram cerca de 11 toneladas por habitante/ano (4).
 
 Assim, importa avançar para a ação e operacionalização de novos investimentos e de novas concessões, ajustando os objetivos de governação das administrações portuárias, promovendo uma gestão mais empresarial, orientada para a atração de investimento privado e definindo metas estratégicas ambiciosas. Adicionalmente, torna-se necessário repensar a organização da administração marítimo-portuária institucional, concentrando as atribuições e competências atualmente dispersas. Por fim, é imprescindível clarificar, atualizar e modernizar o quadro legal do setor, adequando-o às novas exigências de maior flexibilidade e concorrência dos novos modelos de investimento e financiamento em energias verdes e economia circular. Esta atualização deve priorizar o apoio à expansão dos portos e à transição energética e digital com investimentos privados, garantindo maior agilidade e capacidade de resposta às necessidades emergentes. Para o efeito, foi recentemente alterado o prazo máximo das concessões portuárias de serviço público, alinhando-o com o prazo máximo previsto para as concessões portuárias de uso privativo, no contexto da Lei da Água.
 
@@ -362,20 +388,50 @@ A estratégica integrada e coordenada entre os portos comerciais do continente, 
 
 Em síntese:
 
-| Vocações | Hinterland | Transhipment | Industrial | Agro Alimentar | Gases combustíveis | Combustíveis Verdes | Eólicas offshore | Roro Viaturas | Trailers Roro/ Ferry | Cruzeiros |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Castelo |  |  | • |  |  |  | • |  |  |  |
-| Leixões | • |  | • | • |  | • |  | • | • | • |
-| Douro |  |  |  |  |  |  |  |  |  | • |
-| Aveiro |  |  | • | • |  | • | • | • | • |  |
-| F. Foz | • |  | • |  |  |  | • |  |  |  |
-| Lisboa | • |  |  | • |  |  |  |  |  | • |
-| Setúbal | • |  | • |  | • |  | • | • | • |  |
-| Sines | • | • | • |  | • | • |  |  |  |  |
-| Portimão |  |  |  |  |  |  |  |  | • | • |
-| Faro |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-| Legenda: | • | VocaçãoPrincipal |  | • | VocaçãoSecundária |  |  |  |  |  |
+| Vocações |
+| --- |
+
+Hinterland
+
+Transhipment
+
+Industrial
+
+Agro Alimentar
+
+Gases combustíveis
+
+Combustíveis Verdes
+
+Eólicas offshore
+
+Roro Viaturas
+
+Trailers Roro/ Ferry
+
+Cruzeiros
+
+Castelo••
+
+Leixões•••••••
+
+Douro•
+
+Aveiro••••••
+
+F. Foz•••
+
+Lisboa•••
+
+Setúbal••••••
+
+Sines•••••
+
+Portimão••
+
+Faro
+
+Legenda:•VocaçãoPrincipal•VocaçãoSecundária
 
 6 - Objetivos de movimentação de cargas e de capacidades por porto
 
@@ -485,13 +541,13 @@ A monitorização da implementação da PORTOS 5+, e os ajustamentos de recursos
 | Mais Digitalização e Automação | Automação dos portos e dos terminais portuários | N.º de portarias automáticas inteligentes nos portosQuota de equipamentos inteligentes de cais e de parqueamento nos portos | 100 % existentes e novas100 % novos equipamentos | Anual |
 | Mais Integração Local, Regional e Setorial | Transferir áreas sem funções portuárias para os municípios | N.º de Protocolos entre os portos e as cidades para gestão partilhada de áreas | 9 novos protocolos | Anual |
 
-(<sup>1</sup>) Acessível em https://unctad.org/publication/review-maritime-transport-2024.
+(1) Acessível em https://unctad.org/publication/review-maritime-transport-2024.
 
-(<sup>2</sup>) UNCTAD, 2024 - https://unric.org/pt/unctad-pede-acao-global-para-descarbonizar-o-transporte-maritimo.
+(2) UNCTAD, 2024 - https://unric.org/pt/unctad-pede-acao-global-para-descarbonizar-o-transporte-maritimo.
 
-(<sup>3</sup>) Fonte: Relatórios de Acompanhamento dos Mercados Portuários - 2015 a 2023.
+(3) Fonte: Relatórios de Acompanhamento dos Mercados Portuários - 2015 a 2023.
 
-(<sup>4</sup>) Fonte: Puertos del Estado, Espanha.
+(4) Fonte: Puertos del Estado, Espanha.
 
 ## ANEXO II — (a que se refere o n.º 3)
 
@@ -502,14 +558,14 @@ Medidas por porto para o período de 2025-2035
 | Viana do Castelo | Expansão do porto como plataforma industrial de exportação do norte de Portugal e melhoria dos equipamentos.Criar doca seca especializada, ajustar o canal de acesso e reabilitar o molhe norte. | Apostar nas indústrias de energias renováveis e no apoio ao cluster da produção de equipamento para a energia eólica terrestre e marítima e manutenção. | Integrar o porto nas cadeias logísticas multimodais, alinhando-se com os objetivos de descarbonização e sustentabilidade | Implementar processos digitais avançados para monitorização dos terminais, contribuindo para maior eficiência nos processos portuários. | Desenvolver infraestruturas para receber cruzeiros e marina privada, promovendo uma maior interação do porto com o turismo, a cidade e as comunidades locais.Ajustar as infraestruturas da via de cintura portuária, facilitando a convivência entre áreas portuárias e urbanas. |
 | Leixões | Construir um novo cais e ampliação de terraplenos no terminal de contentores Norte, através do lançamento de concurso público.Ampliação do cais e terrappleno para carga roll-on roll-off.Reconversão do terminal petroleiro e novo centro inspectivo.Modernizar os Terminais de Carga Geral e Granéis Sólidos e alinhamento do muro cais. | Implementar a instalação de sistemas de produção e fornecimento de energia verde a navios, com vista à neutralidade carbónica em 2035.Remodelar a rede elétrica, desenvolvimento da subestação e instalação de sistemas OPS nos terminais.Promover a sustentabilidade e a redução da pegada ambiental nas operações logísticas da plataforma de Leixões. | Desenvolver os terminais ferroviários de Leixões e da Guarda, aumentando a intermodalidade.Melhorar as acessibilidades terrestres e as portarias, garantindo fluidez no acesso ao porto.Promover o desenvolvimento de soluções logísticas inovadoras verdes.Estruturação da plataforma logística de Leixões (Pólo 1 e 2). | Desenvolver a Janela Única Logística (JUL), avançando na digitalização e automação dos serviços portuários.Desenvolvimento de novo Datacenter.Desenvolvimento da sensoriação do porto e novo digital twin. | Promover parcerias com as comunidades locais e modernizar espaços urbanos, em especial com o município de Matosinhos.Reordenar a via de cintura portuária, facilitando a convivência porto-cidade.Aumentar a colaboração com as comunidades locais e com as zonas urbanas adjacentes e desenvolver planos de monitorização ambiental. |
 | Via Navegável do Douro | Promover e apoiar iniciativas comerciais para carga e navegação turística, com conexão transfronteiriça ao porto de Vega Terrón.Promover a correção de canais e reabilitar o molhe norte do Douro e as 5 eclusas (Crestuma/Lever, Carrapatelo, Régua, Valeira e Pocinho). | Expansão do sistema OPS (onshore power supply) e abastecimento de água em 19 cais, com prioridade para os 10 cais principais.Equipar a VND com mais plataformas flutuantes e recursos para a gestão de resíduos, reduzindo o impacto ambiental das operações fluviais. | Promover a cooperação com municípios e operadores para desenvolver interfaces e conexões entre os cais e outras infraestruturas logísticas e de transporte.Beneficiar e transformar o Cais de Gaia para embarque/desembarque público, aumentando o fluxo de passageiros e a atividade turística. | Modernizar os sistemas digitais de gestão e navegação da via navegável e dos cais (RIS). | Clarificar as competências com as autarquias, particularmente no Cais de Gaia.Modernizar e melhorar a segurança das eclusas.Promover a cooperação com municípios e operadores, aumentando a integração. |
-|  | Incentivar o investimento privado para aumento de capacidade na Marina do Ouro, no cais do Cavaco e noutros cais.Priorizar os investimentos nos cais de Pinhão, Sabrosa, Lamego, Pocinho e Ferradosa, promovendo maior capacidade e desenvolvimento regional. | Promover práticas sustentáveis nos cais e marinas. |  |  |  |
+| Incentivar o investimento privado para aumento de capacidade na Marina do Ouro, no cais do Cavaco e noutros cais.Priorizar os investimentos nos cais de Pinhão, Sabrosa, Lamego, Pocinho e Ferradosa, promovendo maior capacidade e desenvolvimento regional.Promover práticas sustentáveis nos cais e marinas. |  |  |  |  |  |
 | Aveiro | Melhorar as condições de navegabilidade para acomodar navios de maior dimensão, incluindo a substituição de defensas e cabeços de amarração.Expansão da capacidade de movimentação no Terminal de Granéis Líquidos (TGL).Expandir a capacidade de acostagem de novo terminal para viaturas e carga de projeto. | Expandir a rede elétrica para Onshore Power Supply e implementar uma microrede elétrica.Consolidar a operação dos serviços de reboque, amarração e estiva, promovendo equipamento hibridos e elétricos. | Estabelecer acordos com portos secos para otimizar a conectividade terrestre.Construção de um Terminal Intermodal na ZALI e concessionar a exploração.Reabilitação e reordenamento da rede viária interna. | Apostar na modernização tecnológica do VTS (sistema de tráfego marítimo).Implementar portarias digitais e um sistema inteligente de segurança.Desenvolver sistema inteligente de segurança. | Promover um alinhamento com os objetivos das autarquias e operadores regionais.Concessionar serviços e terminais com critérios que promovam integração sustentável.Construção de cais-dique no porto de pesca do largo. |
 | Figueira da Foz | Melhorar as acessibilidades marítimas e expandir as infraestruturas a norte do porto.Reordenar as atividades e áreas de armazenagem nos terminais, otimizando o uso do espaço para e aumentando a eficiência logística e promover a valorização da zona de novas atividades logísticas, atraindo novos negócios e cargas. | Incentivar o uso de equipamentos portuários mais eficientes ambientalmente e implementar sistemas de Onshore Power Supply (OPS) nos terminais.Promover práticas ambientais sustentáveis através de critérios nos licenciamentos. | Promover um terminal rodoferroviário, integrando o porto em cadeias multimodais.Implementar módulos ferroviários na plataforma digital do porto (JUL) e construção de linhas ferroviárias nos terminais. | Modernizar o sistema de gestão do porto (Vessel Traffic Service “VTS”).Implementar soluções digitais inovadoras, reforçando a integração de processos. | Concessão da marina atlântica e terminal de cruzeiros.Reforçar as condições de segurança no acesso ao porto e integração urbana. |
 | Lisboa | Consolidar a exploração dos terminais da Trafaria e Beato, aumentando o investimento e a concorrência como infraestrutura crítica agroalimentar. | Implementar sistema de energia Onshore Power Supply (OPS) nos terminais de cruzeiros e de contentores. | Promover o desenvolvimento das acessibilidades fluviais, ferroviárias e rodoviárias verdes de forma autossustentada e integrada com as cadeias logísticas verdes. | Promover o reforço da Cibersegurança e a integração dos terminais e serviços na JUL. | Promover a transferência de áreas sem atividade portuária para os municípios, fortalecendo a integração Porto-Cidade com Lisboa e o Arco Ribeirinho. |
-|  | Consolidar as obras de reforço da capacidade e a atividade do terminal de Alcântara, a atividade do terminal de Cruzeiros e a atividade dos terminais da Zona Oriental e margem sul do Tejo no abastecimento da região.Promover o planeamento integrado funcional com o porto de Setúbal. | Promover a eletrificação do equipamento dos terminais portuários e a economia circular, contribuindo para a regeneração dos ecossistemas e a sustentabilidade da região.Incluir rigorosos requisitos tecnológicos e ambientais nas novas concessões portuárias. | Desenvolver sistemas de otimização e coordenação do tráfego do porto com a cidade.Desenvolver soluções verdes nas acessibilidades aos terminais de Alcântara, Santa Apolónia e Trafaria. | Promover sistemas de inteligência artificial e automação para o controlo e a otimização da logística dos navios, comboios e camiões, das cargas e dos terminais portuários. | Promover a integração urbana e paisagístico do porto com a cidade em Alcântara, na Zona Portuária Oriental e no Arco Ribeirinho Sul.Promover projetos de integração das comunidades locais no desenvolvimento sustentável do porto, do Tejo e das ligações fluviais. |
+| Consolidar as obras de reforço da capacidade e a atividade do terminal de Alcântara, a atividade do terminal de Cruzeiros e a atividade dos terminais da Zona Oriental e margem sul do Tejo no abastecimento da região.Promover o planeamento integrado funcional com o porto de Setúbal.Promover a eletrificação do equipamento dos terminais portuários e a economia circular, contribuindo para a regeneração dos ecossistemas e a sustentabilidade da região.Incluir rigorosos requisitos tecnológicos e ambientais nas novas concessões portuárias.Desenvolver sistemas de otimização e coordenação do tráfego do porto com a cidade.Desenvolver soluções verdes nas acessibilidades aos terminais de Alcântara, Santa Apolónia e Trafaria.Promover sistemas de inteligência artificial e automação para o controlo e a otimização da logística dos navios, comboios e camiões, das cargas e dos terminais portuários.Promover a integração urbana e paisagístico do porto com a cidade em Alcântara, na Zona Portuária Oriental e no Arco Ribeirinho Sul.Promover projetos de integração das comunidades locais no desenvolvimento sustentável do porto, do Tejo e das ligações fluviais. |  |  |  |  |  |
 | Setúbal | Expandir a capacidade no segmento roll-on roll-off na importação e exportação, adequando às necessidades das unidades industriais e criando valor logístico no porto.Preparar a expansão das capacidades do porto nos segmentos da carga geral /projeto e carga multimodal e graneis.Expandir a atividade dos estaleiros para apoio a novos segmentos do cluster da energia eólica e da economia circular dos navios. | Implementar sistemas de OPS e incluir nas novas concessões exigências de eletrificação de equipamentos e tratamento de resíduos, eliminando a poluição no ar, o ruído e no Estuário do Sado.Desenvolver soluções logísticas com a comunidade logística e local que permitam a atração de novos clusters industriais da economia circular e economia verde, com a proteção e regeneração de ecossistemas.Estabelecer fortes compromissos com a proteção ambiental e a regeneração dos ecossistemas do Estuário do Sado. | Eletrificar o “last-mile” ferroviário no porto, promovendo maior capacidade e conectividade sustentável.Consolidar as acessibilidades marítimas e o aumento sustentável da capacidade do interface ferroviário ao porto de Setúbal.Consolidar as acessibilidades e terraplenos do Porto de Setúbal como porto de movimentação de carga militar. | Promover o reforço da Cibersegurança e a automação dos terminais.Promover sistemas de inteligência artificial e automação para o controlo e a otimização da logística dos navios, dos comboios e camiões, das cargas e dos terminais portuários. | Consolidar o planeamento integrado com a cidade de Setúbal e a transferência de áreas sem funções portuárias para o município.Promover, com o município, o desenvolvimento privado de infraestruturas para náutica de recreio e cruzeiros.Promover projetos de integração das comunidades locais no desenvolvimento sustentável do porto e do Sado. |
 | Sines | Desenvolver a Plataforma Logística de Sines com estatuto aduaneiro industrial, posicionando o porto como a principal porta atlântica industrial e logística da Península Ibérica.Concluir a terceira fase de expansão do Terminal XXI, duplicando a capacidade e aproveitando as novas acessibilidades ferroviárias para alargar o hinterland a Espanha. | Promover a instalação de unidades para fornecimento de energia elétrica a navios (OPS).Tornar o porto autossuficiente com energia renovável.Promover o armazenamento e utilização de combustíveis sustentáveis, bem como o fornecimento de bancas verdes e LNG a navios no terminal e em barcaças, para os resntantes portos do continente. | Melhorar as acessibilidades terrestres à Península Ibérica, com investimento em infraestrutura rodoviária e ferroviária.Consolidar a função dual civil e militar do porto de Sines, com reforço de acessibilidades e infraestruturas. | Promover a implementação de infraestrutura e sistemas digitais de controlo de acessos na pré- Gate e Área de Espera de Camiões.Desenvolver uma plataforma de dados abertos (Open Data Collaboration Platform) para integrar eventos do transporte multimodal e fornecedores privados de serviços digitais avançados logísticos e portuários. | Melhorar os processos inspetivos e reforçar os recursos humanos do Centro de Despacho de Mercadorias.Integrar a visão estratégica do porto e do município de Sines, como um polo de inovação e sustentabilidade no AtlânticoPromover a monitorização ambiental e a participação das comunidades locais nas atividades do porto. |
-|  | Proceder ao lançamento do concurso público para a concessão de um novo terminal de contentores de transhipment (Terminal Vasco da Gama).Promover a concessão de áreas de armazenamento de combustíveis sustentáveis de hidrogénio verde no Parque de Tancagem de Produtos Sustentáveis. | Criar parcerias locais para a Comunidade de Energia Renovável (CER) | Desenvolver uma plataforma logística multimodal que integre o transporte marítimo, ferroviário e rodoviário, fortalecendo Sines como um hub intermodal estratégico Ibérico, com ligação atlântica e ao extremo oriente. | Consolidar a atividade do centro de Cibersegurança (Port Cyber Arena).Disseminar os resultados do projeto NEXUS a todos os portos comerciais do continente. |  |
+| Proceder ao lançamento do concurso público para a concessão de um novo terminal de contentores de transhipment (Terminal Vasco da Gama).Promover a concessão de áreas de armazenamento de combustíveis sustentáveis de hidrogénio verde no Parque de Tancagem de Produtos Sustentáveis.Criar parcerias locais para a Comunidade de Energia Renovável (CER)Desenvolver uma plataforma logística multimodal que integre o transporte marítimo, ferroviário e rodoviário, fortalecendo Sines como um hub intermodal estratégico Ibérico, com ligação atlântica e ao extremo oriente.Consolidar a atividade do centro de Cibersegurança (Port Cyber Arena).Disseminar os resultados do projeto NEXUS a todos os portos comerciais do continente. |  |  |  |  |  |
 | Algarve | Melhorar as acessibilidades marítimas e requalificar os molhes de proteção.Apostar no porto de Portimão para concentrar as atividades comerciais e de turismo no Algarve, em especial através de novos serviços ferry e cruzeiros. | Promover a instalação de sistemas OPS para fornecer energia elétrica aos navios.Adaptar as infraestruturas portuárias às exigências dos navios de cruzeiro modernos. | Melhorar as acessibilidades terrestres, garantindo maior conectividade e fluidezReabilitar o Cais e a Plataforma Ro-Ro para apoiar operações ferry. | Apoiar o uso de tecnologias avançadas e sistemas inteligentes para monitorização | Avaliar a gestão dos portos do Algarve com os municípios.Transformar o porto de Faro num ponto para atividades náuticas, recreativas e de economia azul, promovendo sinergias com a gestão municipal.Promover Portimão e o Algarve como destinos de cruzeiros. |
 
 ## ANEXO III — (a que se refere o n.º 3)
@@ -518,24 +574,24 @@ Investimentos por objetivos para o período de 2025-2035
 
 Os investimentos dos portos comerciais do continente para o período de 2025 a 2035 incluem os principais projetos agregados dos planos estratégicos de cada porto, repartidos pelos cinco objetivos de crescimento, descarbonização, digitalização, intermodalidade e integração. Com um valor de investimento total previsto em cerca de 4 mil milhões de euros, a financiar pelas autoridades portuárias, eventuais fundos comunitários e empresas privadas, esta estratégia visa aumentar a competitividade, promover a sustentabilidade e fomentar a integração das infraestruturas portuárias no contexto nacional e internacional. A componente de financiamento das administrações portuárias em cada investimento está dependente da aprovação prévia pelas tutelas financeira e setorial e dos planos de atividade e orçamento anuais aprovados.
 
-| Investimento | (M€) | Investimento | (M€) | Investimento | (M€) | Investimento | (M €) | Investimento | (M€) |
+| Mais Investimento e Crescimento | Mais Descarbonização e Sustentabilidade | Mais Intermodalidade e Conectividade | Mais Digitalização e Automação | Mais Integração Local, Regional e Setorial |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mais Investimento e Crescimento | Mais Investimento e Crescimento | Mais Descarbonização e Sustentabilidade | Mais Descarbonização e Sustentabilidade | Mais Intermodalidade e Conectividade | Mais Intermodalidade e Conectividade | Mais Digitalização e Automação | Mais Digitalização e Automação | Mais Integração Local, Regional e Setorial | Mais Integração Local, Regional e Setorial |
+| Investimento | (M€) | Investimento | (M€) | Investimento | (M€) | Investimento | (M €) | Investimento | (M€) |
 | Desenvolvimento do Porto de Viana do Castelo | 133 | Eletricidade para Navios e Equipamentos nos Portos | 147 | Plataforma Logística e Ferrovia no Porto de Leixões | 72 | Data Center, Digital Twin e Sensorização do Porto de Leixões e VND | 34 | integração do Porto de Viana do Castelo com as Zonas Urbanas | 6 |
 | Expansão do Porto de Leixões | 637 | Produção de Energia Verde nos Portos | 55 | Via Navegável do Douro | 80 | Portarias Digitais e VTS dos Portos de Aveiro e Figueira da Foz | 12 | Integração do Porto de Leixões com Matosinhos | 93 |
 | Expansão Portuária e Acessos Marítimos dos Portos de Aveiro/Figueira da Foz | 229 | Instalações Portuárias para Combustíveis Verdes | 11 | Porto Seco da Guarda | 5 | SmartPort, Portaria Digital e Inovação dos Portos de Lisboa e Setúbal | 11 | Integração da Via Navegável do Douro com a Região | 109 |
 | Reordenamento do Porto de Llsboa | 478 | Terminal de Gases Criogénicos do Porto deSines | 37 | Termina] Intermodal no Porto de Aveiro | 17 | Cibersegurança e Open Data do Porto de Sines | 15 | Integração dos Portos de Aveiro e Figueira da Foz com as Zonas Urbanas | 44 |
-| Desenvolvimento do Porto de Setúbal | 250 |  |  | Navegabilidade do Tejo | 22 |  |  | Integração do Porto de Lisboa com as zonas urbanas | 27 |
-| Estaleiro da Mitrcna no Porto de Setúbal | 300 |  |  | Acessibilidade Ferroviárias no Interior do Porto de Setúbal | 40 |  |  | Integração Porto de Setúbal com as Zonas Urbanas | 14 |
-| Expansão da Infraestrutura do Porto de Sines e do Terminal XXI | 328 |  |  | Novas Acessibilidades Terrestres no Interior do Porto de Sines | 60 |  |  |  |  |
+| Desenvolvimento do Porto de Setúbal | 250 | Navegabilidade do Tejo22Integração do Porto de Lisboa com as zonas urbanas27 |  |  |  |  |  |  |  |
+| Estaleiro da Mitrcna no Porto de Setúbal | 300 | Acessibilidade Ferroviárias no Interior do Porto de Setúbal40Integração Porto de Setúbal com as Zonas Urbanas14 |  |  |  |  |  |  |  |
+| Expansão da Infraestrutura do Porto de Sines e do Terminal XXI | 328 | Novas Acessibilidades Terrestres no Interior do Porto de Sines60 |  |  |  |  |  |  |  |
 | Novo Terminal Vasco da Gama do Porto de Sines | 701 |  |  |  |  |  |  |  |  |
 | Total | 3056 | Total | 250 | Total | 296 | Total | 72 | Total | 293 |
 
 Em resumo, o investimento previsto por fonte de financiamento e por porto, em milhões de euros, é o seguinte:
 
-| Fonte de financiamento | Porto | Porto | Porto | Porto | Porto | Porto | Porto | Porto | Porto |
+| Fonte de financiamento | Porto |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fonte de financiamento | Viana do Castelo | Via Navegável Douro | Leixões | Aveiro | Figueira da Foz | Lisboa | Setúbal | Sines | Total |
+| Viana do Castelo | Via Navegável Douro | Leixões | Aveiro | Figueira da Foz | Lisboa | Setúbal | Sines | Total |  |
 | Autoridade Portuária/Fundos Comunitários | 77 | 109 | 219 | 151 | 55 | 78 | 80 | 257 | 1 026 |
 | Empresas Privadas | 62 | 91 | 712 | 90 | 33 | 478 | 550 | 925 | 2 941 |
 | Total | 139 | 200 | 931 | 241 | 88 | 556 | 630 | 1 182 | 3 967 |
@@ -555,3 +611,7 @@ No total, estão previstas novas concessões de serviço público a serem lança
 | Lísboa | Terminal de Contentores de Santa ApolóniaTerminais Multiúsos de Santa ApolóniaTerminal de Granéis Líquidos do BarreiroTerminal da Trafaria | ContentoresCarga Geral e GranéisGranéis LíquidosCereais | 700 mil TEU13,5 milhões de toneladas1,2 milhões de toneladas3 milhões de toneladas | 115955030 |
 | Setúbal | Terminal Multiúsos da MitrenaTerminal Roll-on Roll-off do Porto de SetúbalTerminal Multiúsos e Carga de ProjetoEstaleiro da Mitrena | Carga Geral e GranéisVeículos Novos e Pesados com CargaMultiúsosApoio ao Ouster e Eólico e Reparação/Desmantelamento Naval | 5 milhões toneladas700 mil veículosCargas de ProjetoDesenvolvimento de novas infraestruturas e novos cais | 8060100300 |
 | Sines | Terminal Vasco da Gama | Transhipment de Contentores | 3 milhões de TEU | 560 |
+
+119408195
+
+.Tbl2 { background-color:rgb(192,192,192); }

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/1996/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-1996-608527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f0ffebae6e92a73aab891714dfe7ba2610dd05e77973bc910226e13a8ea421d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d3e2b7b4b141b75264bde0a54552f531fe2f46e25eda9db32430ef2825b5b73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,16 +89,21 @@ relationships:
   target: celex:31994L0077
   label: null
   source: http://data.europa.eu/eli/dir/1994/77/oj
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogada pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:10Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +124,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 29 de Dezembro de 1995.**
+Assinada em 29 de Dezembro de 1995.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
@@ -131,11 +136,11 @@ a) Na parte A - Antibióticos, sob a posição E713 - Fosfato de tilosina, a fra
 
 b) Na parte E - Emulsionantes, estabilizantes, espessantes e gelificantes é aditada a seguinte posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 c) O texto da parte F - Corantes, incluindo os pigmentos é substituído pelo texto seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 d) Na parte L - Aglomerantes, antiespumantes e coagulantes:
 
@@ -143,11 +148,11 @@ d1) O número CE correspondente à sepiolite é substituído pelo número E562;
 
 d1.1) É aditada a seguinte posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 e) Na parte M - Reguladores de acidez são aditadas as seguintes posições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 2 - O anexo II é alterado do seguinte modo:
 
@@ -163,7 +168,7 @@ a1.3) Na posição n.º 30 - Virginiamicina, a data de «30 de Novembro de 1994�
 
 a1.4) São aditadas as seguintes posições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 b) Na parte D - Coccidiostáticos e outras substâncias medicamentosas:
 
@@ -173,7 +178,7 @@ b2) Na posição n.º 25 - Halofuginona, a data de «30 de Novembro de 1994» co
 
 c)Na parte F - Corantes, incluindo pigmentos é aditada a seguinte posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 d) Na parte L - Aglomerantes, antiespumantes e coagulantes:
 
@@ -181,16 +186,16 @@ d1) Na posição n.º 1 - Aluminantes de cálcio sintético, a data de «30 de N
 
 d2) É aditada a seguinte posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 e) são aditados o grupo e a posição seguintes: N - Enzimas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 f) São aditados o grupo e as posições seguintes: O - Microorganimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
 
 Quadro sinóptico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf))](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/029b00/02080215.pdf)

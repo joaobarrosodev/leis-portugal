@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/3/2023/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2023-206198898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ec962933b201269da3232fc43532ca19361d5d83b41891808602760abdbbc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 733889a2b3d1bb438213ba76bafbc7467fe6155ace83ab2036164a4b452aedbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exclusão Social
-- Instituto da Segurança Social
-- Luta contra a Pobreza
-- Pobreza
-- Financiamento
-- Criança
 - Comissão Técnica de Acompanhamento
-- Coordenador Nacional
-- Direitos da Criança
-- Definição de Competências
-- Jovem
 - Conselho Consultivo
+- Coordenador Nacional
+- Criança
+- Definição de Competências
+- Direitos da Criança
+- Exclusão Social
+- Financiamento
+- Garantia para a Infância
+- Instituto da Segurança Social
+- Jovem
+- Luta contra a Pobreza
+- Plano de Ação Nacional para Implementação da Garantia para a Infância
+- Pobreza
 - Proteção à Infância
 - Recomendação CE
-- Plano de Ação Nacional para Implementação da Garantia para a Infância
-- Garantia para a Infância
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/136/2021/10/01/p/dre
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2021/1004/oj
   label: null
   source: http://data.europa.eu/eli/reco/2021/1004/oj
+- type: cites
+  target: pt:dre:172266413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:57Z'
   warnings: []
   errors: []
 ---
@@ -272,7 +280,7 @@ O Pilar I integra seis medidas que se dirigem diretamente às famílias com cria
 
 Pilar I: Emprego, qualificações e competências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
 
 C.2 - Pilar II: Proteção social e ação social
 
@@ -300,7 +308,7 @@ O Pilar II do PAGPI tem assim dois objetivos estratégicos com 10 medidas com en
 
 Pilar II: Proteção social e ação social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
 
 C.2.1. - Modelo de intervenção
 
@@ -336,7 +344,7 @@ O Pilar III agrega, sob cinco objetivos estratégicos, um conjunto de 49 medidas
 
 Pilar III - Serviços essenciais de qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
 
 C.4 - Pilar IV - Inclusão de crianças e jovens de especial vulnerabilidade
 
@@ -354,7 +362,7 @@ O Pilar IV do PAGPI contém três objetivos estratégicos, contemplando 19 medid
 
 Pilar IV: Inclusão de crianças e jovens especialmente vulneráveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
 
 D - Modelo de governação
 
@@ -374,10 +382,12 @@ A monitorização da implementação do PAGPI será realizada através de um con
 
 Ao longo da execução do PAGPI serão desenvolvidos indicadores de resultados, quantitativos e qualitativos, que, a cada momento, se considerem mais adequados para avaliar a aplicação da Recomendação Europeia relativa à criação de uma Garantia Europeia para a Infância.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
 
 (1) De acordo com o indicador de risco de pobreza monetária.
 
 ## ANEXO I — (a que se refere o sumário executivo do Plano de Ação da Garantia para a Infância 2022-2030)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01200/0000200039.pdf)
+
+116059241

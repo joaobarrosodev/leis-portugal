@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21700/0001600020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/175/2025/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2025-945116919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d0061e952b10b064ea69659c802405c5ce7a74d4a899d2a67c619b90eb4424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1c23516792637796d134e1bde081f660e6e7f2d3fc654418e1193c845360a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Grupo de Trabalho
 - Estratégia Digital Nacional
+- Grupo de Trabalho
 - Igualdade de género
 - Programa Nacional das Raparigas nas STEM
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2024/07/25/p/dre
+- type: cites
+  target: pt:dre:873371754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901536081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:22Z'
   warnings: []
   errors: []
 ---
@@ -181,3 +189,7 @@ Tendo em consideração tudo quanto antecede, esta primeira fase do Programa é 
 | Transversal | #2 - Diminuir a diferença entre número de mulheres e de homens inscritos e diplomados em cursos superiores de STEM e TIC | Reduzir a taxa de abandono entre raparigas nos cursos de ensino superior das áreas STEM | Prémio para alunas que se destacam em áreas científicas | Criar um Prémio em áreas científicas para as alunas com notas mais elevadas em todo o país na conclusão de mestrados em áreas STEM. | MECI, MNE e MDN | Número de prémios atribuídos | Número de candidatas ao prémio | FCT | FCT e Instituições de Ensino superior | 2.º semestre de 2026 | 2.º semestre 2029 | Orçamento da FCT |
 | Transversal | #4 - Garantir alinhamento com iniciativas nacionais e internacionais de promoção da igualdade de género nas áreas STEM | Reconhecer iniciativas nacionais de promoção da igualdade de género nas STEM | Criação do Emblema «Raparigas nas STEM» | - Criação de um emblema atribuído pelo Governo de Portugal a projetos dinamizados pelo setor público, setor privado, terceiro setor, academia e sociedade civil, que promovam o interesse, a atração e a retenção das raparigas e mulheres nas áreas STEM. | MCJD | Número de projetos reconhecidos com o emblema | Número de projetos candidatos ao emblema | ARTE e CIG | Outras entidades relevantes | 1.º semestre de 2026 | 2.º semestre 2029 | Orçamento do Estado - Orçamento CIG |
 | Transversal | #4 - Garantir alinhamento com iniciativas nacionais e internacionais de promoção da igualdade de género nas áreas STEM | Promover parcerias para colaboração internacional na área da igualdade de género nas STEM | Criação da Aliança Internacional para as Raparigas nas STEM | - Criar a Aliança Internacional para as Raparigas nas STEM, estabelecendo um canal de cooperação entre nações para promover políticas e programas de promoção de igualdade de género nas áreas STEM | MCJD | Número de parcerias internacionais | Número de iniciativas desenvolvidas no âmbito da Aliança | Instituto Camões e CIG | Outras entidades relevantes | 1.º semestre de 2026 | 2.º semestre 2029 | Orçamento CIG |
+
+119742782
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:34px; } .Tbl3 { background-color:rgb(0,100,0); } .Tbl4 { text-align:center; } .Tbl5 { background-color:rgb(169,169,169); } .Tbl6 { min-height:189px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:117px; } .Tbl12 { min-height:113px; } .Tbl13 { min-height:105px; } .Tbl14 { min-height:57px; } .Tbl15 { min-height:73px; } .Tbl16 { min-height:121px; } .Tbl17 { min-height:59px; } .Tbl18 { min-height:93px; } .Tbl19 { min-height:76px; }

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16700/0439504395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/108/2018/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2018-116237021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826f54c61cb68efa246885ae20a7884ab24fc5747c184e306014165b7046fbfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5affc4beba79e24cc2eeeda26a4b64ebd05c55b8bbe644c8017b13be69449b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:875899342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187100803:por
+  label: Renovado o mandato pelo Despacho n.º 9652/2022 - Diário da República n.º 151/2022, Série II de 2022-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9652-2022-187100803
+  date: '2022-08-05'
+- type: amended_by
+  target: pt:dre:875899342:por
+  label: Renovado, com efeitos a 10 de agosto de 2024, por um período de três anos, o mandato de Eugénia Maria Guedes Pinto
+    Antunes da Cunha, no cargo de vogal do INMLCF, I. P., e por inerência, a função de diretora da Delegação do Sul do INMLCF,
+    I. P., designada pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 101/2024 - Diário da República
+    n.º 153/2024, Série I de 2024-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/101-2024-875899342
+  date: '2024-08-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2012/07/31/p/dre
   label: null
@@ -82,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:179288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:13:33Z'
   warnings: []
   errors: []
 ---
@@ -121,3 +142,5 @@ Presidência do Conselho de Ministros, 9 de agosto de 2018. - O Primeiro-Ministr
 Antropóloga forense, bióloga de formação (1984), com doutoramento em Ciências (Antropologia Biológica), em 1994, pela Universidade de Coimbra; agregada em 2001, pela mesma Universidade.
 
 Professora catedrática do Departamento de Ciências da Vida da FCTUC, desde 2003; consultora nacional para a Antropologia Forense para o Instituto Nacional de Medicina Legal e Ciências Forenses, desde 1997; coordenadora do Laboratório de Antropologia Forense da FCTUC do Centro de Ecologia Funcional; presidente da FASE (Forensic Anthropology Society of Europe) 2009-2016; professora convidada da Université Paul Sabatier, Toulouse, França (2016); professora visitante no âmbito dum projeto da área Pro-Forense (CAPES) na USP, Ribeirão Preto, Brasil (2017); diplomada honoris causa pela FASE como perita independente de antropologia forense, desde 2014; membro do grupo internacional de Antropologia e Patologia da Interpol; membro do grupo de peritos da JRR (Justice Rapid Response), desde 2013; fellow da American Academy of Forensic Sciences; autora de quase uma centena de publicações científicas internacionais indexadas e de mais de uma centena de outro tipo de publicações; editora e autora de dois livros internacionais na área forense (2006 e 2018, no prelo); oradora convidada na área forense em cerca de 20 países; organizadora e preletora de vários cursos internacionais de antropologia forense; perita forense e coordenadora de várias missões internacionais (Timor-Leste; Guiné-Bissau, Mali, Gâmbia); foi ou é coordenadora de vários cursos entre os quais o de Pós-Graduação (UC, desde 2011) e o Mestrado em Antropologia Forense (UC, desde 2018).
+
+111616261

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 231/1996, 1º Suplemento, Série I-B de 1996-10-04
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3500-(18) a 3500-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b01/00180019.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544-aa/1996/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-aa-1996-391440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48017913fc685cfc12c28386ba8632db63ad7ec312b0b6bd87e25a9c93e0f48a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbb2fc12796852757dcfba06fd295f9b75d1982cfe5f3867dbb22dbf25c9c267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,41 @@ relationships:
   target: pt:dre:455667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659744:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na concessão atribuída pelo presente diploma, pela\
+    \ Port.1007/97.1997.09.24.MADRP, DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1007-1997-659744
+  date: '1997-09-24'
+- type: amended_by
+  target: pt:dre:667881:por
+  label: "Alterado o nº 1º e aditado um nº 1º-A pela PORT.1052/97.1997.10.14.MADRP DR.IS-B [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1052-1997-667881
+  date: '1997-10-14'
+- type: amended_by
+  target: pt:dre:197530:por
+  label: "Suspenso pelo prazo máximo de nove meses o exercício da caça e actividades venatórias pela PORT.890/2002.2002.07.27.MADRP\
+    \ DR.IS-B [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2002-197530
+  date: '2002-07-27'
+- type: amended_by
+  target: pt:dre:405726:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.1519/2002.2002.12.19.MADRP, DR.IS-B [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1519-2002-405726
+  date: '2002-12-19'
+- type: amended_by
+  target: pt:dre:423630:por
+  label: "Anexados vários prédios rústicos á zona de caça criada pelo presente diploma, renovada pela Port 1519/2002, de 19-Dez,\
+    \ pela PORT.1392/2003.22.12.2003.MADRP, DR.IS-B [294] de 22.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1392-2003-423630
+  date: '2003-12-22'
+- type: amended_by
+  target: pt:dre:455667:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, na redacção das Portarias 1052/97,\
+    \ de 14 de Outubro, 1519/2002, de 19 de Dezembro e 1392/2003, de 22 de Dezembro, pela PORT.854/2008.12.08.2008.MADRP,\
+    \ DR.IS [155] de 12.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-2008-455667
+  date: '2008-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -86,16 +121,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/681/1995/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/681/1995/06/28/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:17Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +199,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 26 de Setembro de 1996.**
+Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b01/00180019.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b01/00180019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b01/00180019.pdf)

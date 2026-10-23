@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19101/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/146-a/2025/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/146-a-2025-938108794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:35:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f68af6b0a2a5daa003f20116048ca5400752e932875b047f70d7074771ff87bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d225d9c4ffe0e9cec51cfd8964390450b2f2cc190bebb6c0639efc54029a6013
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:35:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53-b/2020/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53-b/2020/07/17/p/dre
+- type: cites
+  target: pt:dre:138223804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:35:46Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ A par da sua independência, a isenção, o rigor e a transparência no âmbito 
 
 Não menos importante é o papel de aconselhamento técnico aos governos nos domínios económico e financeiro, estatutariamente atribuído àquele banco.
 
-A Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual, estabelece, nos n.<sup>os</sup>1 a 3 do seu artigo 27.º, que o governador e os demais membros do respetivo conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções, sendo designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após audição e parecer da comissão competente da Assembleia da República.
+A Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual, estabelece, nos n.os1 a 3 do seu artigo 27.º, que o governador e os demais membros do respetivo conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções, sendo designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após audição e parecer da comissão competente da Assembleia da República.
 
 De acordo com o disposto no n.º 2 do artigo 33.º da referida lei orgânica, os membros do conselho de administração do Banco de Portugal exercem os respetivos cargos por um prazo de cinco anos, renovável por uma vez e por igual período.
 
@@ -107,11 +115,11 @@ Dada a composição do conselho de administração do Banco de Portugal legalmen
 
 A personalidade entretanto indigitada para o cargo em apreço evidencia o perfil de competências e experiência profissional compatíveis com o exercício de uma liderança do Banco de Portugal que assegure a independência e transparência na sua atuação e, bem assim, a credibilidade e a sua afirmação como autoridade pública em matéria das suas atribuições.
 
-Nos termos e para os efeitos do disposto nos n.<sup>os</sup>2 e 3 do artigo 27.º da Lei Orgânica do Banco de Portugal, a personalidade indigitada para o referido cargo foi ouvida na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, no dia 17 de setembro de 2025, a qual aprovou, em 25 de setembro de 2025, o respetivo parecer fundamentado, reconhecendo a competência e experiência técnica para o exercício daquele cargo.
+Nos termos e para os efeitos do disposto nos n.os2 e 3 do artigo 27.º da Lei Orgânica do Banco de Portugal, a personalidade indigitada para o referido cargo foi ouvida na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, no dia 17 de setembro de 2025, a qual aprovou, em 25 de setembro de 2025, o respetivo parecer fundamentado, reconhecendo a competência e experiência técnica para o exercício daquele cargo.
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>1 a 4 do artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos dos n.os1 a 4 do artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada em anexo à [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de janeiro, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar, sob proposta do Ministro de Estado e das Finanças, para o cargo de governador do Banco de Portugal o Doutor Álvaro Miguel Rodrigues dos Santos Pereira, cuja idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções são evidenciados na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, que constam, respetivamente, dos anexos i e ii à presente resolução e da qual fazem parte integrante.
 
@@ -166,3 +174,5 @@ A Assembleia da República, através da Comissão de Orçamento, Finanças e Adm
 Das respostas dadas às questões formuladas e da análise e escrutínio da sua nota biográfica, a Comissão de Orçamento, Finanças e Administração Pública reconhece a competência e experiência técnica do Doutor Álvaro Miguel Rodrigues dos Santos Pereira para o cargo de Governador do Banco de Portugal.
 
 Da audição foi produzido o presente relatório, do qual, para os devidos efeitos, será dado conhecimento ao Senhor Presidente da Assembleia da República e ao Governo, através da Secretaria de Estado dos Assuntos Parlamentares.»
+
+119610979

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01400/0001000019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2025/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2025-904130035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd3c1b2524a115473c3e1e50b9dbfd09e4f42e429d05a2c21e7594b1467e0669
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84453672918610972d6b8853b57c7785ef5bcbb3875a4cb82e3bf1873d19c99d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Setor Empresarial do Estado
 - Nomeação
 - Representante do Governo
+- Setor Empresarial do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2023/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2023/01/03/p/dre
+- type: cites
+  target: pt:dre:205644583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:55Z'
   warnings: []
   errors: []
 ---
@@ -309,3 +317,5 @@ Alexandra Sofia Vieira Nogueira Barbosa.
 Licenciada em Direito pela Universidade de Lisboa em 1994, tendo complementado a sua formação académica com o Programa Avançado de Gestão para Executivos da Universidade Católica em 2004.
 
 Inicia a sua atividade profissional em 1996 como advogada, com patrocínio de processos nos ramos de direito comercial, penal e laboral. Em 2000 principia a sua colaboração com a Refer Telecom, S. A., tendo sido nomeada diretora de Recursos Humanos. Em 2004 integra o quadro da Rede Ferroviária Nacional, REFER - E. P. E., com a responsabilidade da área de relações de trabalho e contencioso laboral, empresa onde vem a assumir a Direção de Capital Humano, além de funções na Comissão de Supervisão de Gestão de Riscos. Com a criação da Infraestruturas de Portugal, S. A., por incorporação da Estradas de Portugal, S. A., na Rede Ferroviária Nacional, REFER - E. P. E., é nomeada diretora de Capital Humano. Em 2018 é nomeada para o conselho de administração executivo da Infraestruturas de Portugal, S. A., e, em 2019, para o conselho de administração da IP Engenharia, S. A., e da IP Património, S. A., empresas do Grupo IP.
+
+118581817

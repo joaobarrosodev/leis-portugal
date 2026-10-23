@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/070000000/1472814728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1032-2009-2068304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bdf99f6fa142d93a9841ff24945d5af17d0ba4184654c3592400c4d3ce08b59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f33a0abe8bf9a87169d63168d440a261b6b0173e569c90b624b310bbea12cd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3366151:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1032/2009
+# Declaração de rectificação n.º 1032/2009
 
 Rectificação ao [Aviso n.º 6314/2009](https://diariodarepublica.pt/dr/detalhe/aviso/6314-2009-3366151), publicação da lista de Antiguidade do pessoal não docente deste estabelecimento de ensino reportada a 31 de Dezembro de 2008, publicado no Diário da República, 2.ª série, n.º 59 de 25 de Março de 2009.
 
@@ -90,3 +94,5 @@ Para os devidos efeitos, declara-se que o aviso no 6314/2009, publicação da li
 Nos termos do artigo 96.º do mesmo diploma, onde se lê, "os docentes", deve ler-se "o pessoal não docente", dispõem de 30 dias a contar da data da publicação deste aviso no Diário da República para reclamação ao dirigente máximo dos serviços.
 
 31 de Março de 2009. - A Presidente do Conselho Executivo, Adelaide Coutinho de Carvalho.
+
+201644887

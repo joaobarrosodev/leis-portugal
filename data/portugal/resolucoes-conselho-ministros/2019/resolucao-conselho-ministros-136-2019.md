@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15500/0003200032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/136/2019/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-2019-123968669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69d1c9c99fa8fc6dc2e7da23d16921d0e3bb42c2d9b1384d7ac10ace9aa6f939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb41a0786f58c29eb77b54cf01ebf453f5778e05b59efdba871e6f2417f8055f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
-- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
-- Ministro das Finanças
 - Ensino Secundário
-- Membros do Governo
-- Parque Escolar
 - Estabelecimento de Ensino
 - Governo XXI
+- Membros do Governo
+- Ministro das Finanças
+- Parque Escolar
+- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2008/08/26/p/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:14Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +153,5 @@ c) 2021 - (euro) 99 430 046,24.
 7 - Determinar que a presente resolução produz efeitos a partir de 1 de janeiro de 2019.
 
 Presidência do Conselho de Ministros, 1 de agosto de 2019. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112513247

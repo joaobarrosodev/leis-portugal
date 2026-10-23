@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1996, 3º Suplemento, Série I-B de 1996-07-15
   number: '162'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1970-(64) a 1970-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/162b03/00640065.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254-dp/1996/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-dp-1996-157386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ade4499fcf39c7e663e52128acb33af61b212059ef0c8531837c9884510aaa1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f808674b74659ab7444a5dfbb2c5d230d0ab6954b4c0e559760519440971447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aljustrel
 - CAÇA
 - Ferreira do Alentejo
-- Aljustrel
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:353958:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186085:por
+  label: "Alterada pela PORT.157/98.1998.03.13.MADRP, DR.IS-B [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1998-186085
+  date: '1998-03-13'
+- type: amended_by
+  target: pt:dre:340256:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma pela PORT.586/2000.2000.08.11.MADRP\
+    \ DR.IS-B [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/586-2000-340256
+  date: '2000-08-11'
+- type: amended_by
+  target: pt:dre:284319:por
+  label: "Anexados vários prédios rústicos á zona de caça associativa criada pelo presente diploma, alterado pelas Ports 157/98,\
+    \ de 13-Mar e 586/2000, de 11-Ago, pela Port.1033-GL/2004.10.08.2004.MAPF, DR.IS-B [187-2ºSupl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-gl-2004-284319
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:353958:por
+  label: "Renovada por um período de dez anos a concessão da zona de caça efectuada pela Port 254-DP/96, de 15-Jul, DR.IS-B\
+    \ [162] 3 Supl, alterada pela Port 157/98, de 13-Mar, pela Port 586/2000, de 11-Ago, Port 1033-GL/2004, de 10-Ago, e pela\
+    \ PORT.514/2006.05.06.2006.MADRP, DR.IS-B [108] de 05.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-2006-353958
+  date: '2006-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:22:59Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +171,8 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinada em 11 de Julho de 1996.**
+Assinada em 11 de Julho de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/162b03/00640065.pdf))](https://files.diariodarepublica.pt/1s/1996/07/162b03/00640065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/162b03/00640065.pdf)

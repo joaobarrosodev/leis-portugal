@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0007400092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/208/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/208-2024-901536082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef29a8072e14c84db428ac28d984605ce3f17c56f837db8ffa5c73fd862c100b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e6bbb3752667729b7908c0647151fd4766f0963718a09fa00d6af547ca9022e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Ação Social
+- Câmara Municipal
 - Comissão Interministerial
 - Conselho Local de Acção Social
 - Coordenador Nacional
-- Ação Social
-- Política Social
-- Inserção Social
-- REDE Social
-- Câmara Municipal
-- Sem-abrigo
 - Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo
+- Inserção Social
+- Instituto da Segurança Social
 - Plano de Recuperação e Resiliência
+- Política Social
+- REDE Social
+- Sem-abrigo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
@@ -115,16 +115,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93/2023/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93/2023/08/16/p/dre
+- type: cites
+  target: pt:dre:115360036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116090203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219991577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222877162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858576211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885027571:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:61/2024
+  label: Revoga, a partir de 1 de janeiro de 2025, nos termos do n.º 25, a Resolução do Conselho de Ministros n.º 61/2024,
+    de 2 de abril, Diário da República n.º 65/2024, Série I
+  source: null
+  date: '2024-04-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:12Z'
   warnings: []
   errors: []
 ---
@@ -327,7 +373,7 @@ Presidência do Conselho de Ministros, 18 de dezembro de 2024. - O Primeiro-Mini
 
 Nova Estratégia Nacional para a Inclusão das Pessoas em Situação de Sem-Abrigo 2025-2030
 
-# Parte A - Enquadramento e contexto nacional do fenómeno
+Parte A - Enquadramento e contexto nacional do fenómeno
 
 No plano nacional, as preocupações de combate a este fenómeno levaram à implementação de duas estratégias nacionais para a integração das pessoas em situação de sem-abrigo, sendo que a mais recente termina no final de 2024.
 
@@ -365,7 +411,7 @@ A NOVA ENIPSSA 2025-2030 pretende ser um instrumento fundamental para enfrentar 
 
 A NOVA ENIPSSA 2025-2030 está alinhada com os objetivos e as orientações e desígnios internacionais, nomeadamente os Objetivos para o Desenvolvimento Sustentável e os princípios do Pilar Europeu de Direitos Sociais, partilhando as ambições da Plataforma Europeia de Combate à Situação de Sem-Abrigo, e complementarmente com alguns dos principais instrumentos estratégicos e programas nacionais, nomeadamente a Estratégia Nacional de Luta Contra a Pobreza (2021-2030), aprovada pela [Resolução do Conselho de Ministros n.º 184/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/184-2021-176714553), de 29 de dezembro, e o Plano de Ação para o período 2022-2025, definido através da [Resolução do Conselho de Ministros n.º 126/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-2023-222877162), de 17 de outubro, a Estratégia Nacional para a Igualdade e a Não Discriminação, publicada pela [Resolução do Conselho de Ministros n.º 61/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2018-115360036), de 21 de maio, o Plano Nacional de Saúde 2030, aprovado pela [Resolução do Conselho de Ministros n.º 93/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2023-219991577), de 16 de agosto, a Coordenação Nacional das Políticas de Saúde Mental, o Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências 2030 e o Plano de Ação para a Redução dos Comportamentos Aditivos e das Dependências - Horizonte 2024, o Plano Nacional de Implementação do Pacto Global das Migrações, o Plano Nacional de Habitação 2022-2026, aprovado pela [Lei n.º 2/2024](https://diariodarepublica.pt/dr/detalhe/lei/2-2024-836117862), de 5 de janeiro, na sua redação atual, articulando-se com as várias medidas nomeadamente as Estratégias Locais de Habitação e com o Programa 1.º Direito ([Portaria n.º 230/2018](https://diariodarepublica.pt/dr/detalhe/portaria/230-2018-116090203), de 17 de agosto), Bolsa Nacional de Alojamento Urgente e Temporário (BNAUT), e com as orientações relativas à descentralização das matérias da ação social, na sequência da publicação da [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto.
 
-# Parte B - Visão, missão e princípios
+Parte B - Visão, missão e princípios
 
 Visão
 
@@ -419,7 +465,7 @@ A NOVA ENIPSSA 2025-2030 reforça a dimensão preventiva da atuação das suas e
 
 O modelo de intervenção requer uma perspetiva interdisciplinar, uma abordagem articulada, integrada e personalizada, sustentado em estruturas comunitárias de proximidade, alinhado com os objetivos nacionais e locais dos territórios, bem como a adequação operativa entre as diversas políticas públicas, da saúde, habitação, emprego, proteção social, a nível central, regional e local.
 
-# Parte C
+Parte C
 
 Eixos estratégicos, objetivos gerais e objetivos específicos
 
@@ -531,7 +577,7 @@ Eixo Estratégico n.º 1 - Identificação, prevenção e minimização dos fato
 |  | OE 3.3 - Prevenir e diminuir o tempo de permanência na rua das pessoas em situação de sem-teto | Mapear e georreferenciar respostas de apoio de alojamento | MTSSSMACTMDN | ENIPSSAMunicípiosGEPDGRDN | Carta Social atualizada | Carta Social atualizada até final de 2025 |  |
 |  |  | Reforçar a criação de equipas de rua | MTSSSMACT | ENIPSSACCDRMunicípios | Número de equipas de rua criadas | Até 2.º semestre 2025 definir o número de equipas de rua a criar |  |
 | Objetivo Geral 4 - Assegurar a cooperação interinstitucional para que nenhuma pessoa, em processo de desinstitucionalização, sem habitação e rede de suporte familiar ou social, fique na situação de sem-abrigo | OE 4.1 - Rever e implementar protocolos de atuação com a DGRSP, DGS/Coordenação de Saúde Mental, ICAD e ULS | Rever Guias de referenciação da DGRSP, ICAD e DGS Saúde Mental | MTSSSMSMJ | ENIPSSADGRSP, ICAD e DGS/Saúde Mental e Comissão Nacional das Políticas de Saúde Mental (CNPSM)NPISAS | Guias de referenciação | Propostas de Guias para validação até final de 2025 | Disseminação nacionalImplementação pelo menos nos NPISA |
-| Objetivo Geral 4 - Assegurar a cooperação interinstitucional para que nenhuma pessoa, em processo de desinstitucionalização, sem habitação e rede de suporte familiar ou social, fique na situação de sem-abrigo | OE 4.2 - Monitorizar a implementação dos protocolos de atuação definidos | A definir após a revisão dos Protocolos de atuação | MTSSSMSMJ | ENIPSSADGRSP, ICAD e DGS/Saúde Mental e CNPSMNPISAS |  | A definir após a revisão dos Protocolos de atuação |  |
+| OE 4.2 - Monitorizar a implementação dos protocolos de atuação definidos | A definir após a revisão dos Protocolos de atuação | MTSSSMSMJ | ENIPSSADGRSP, ICAD e DGS/Saúde Mental e CNPSMNPISAS |  | A definir após a revisão dos Protocolos de atuação |  |  |
 
 Eixo Estratégico n.º 2 - Promoção da inclusão social e a capacitação para uma cidadania plena
 
@@ -549,11 +595,11 @@ Eixo Estratégico n.º 2 - Promoção da inclusão social e a capacitação para
 |  | OE 2.3 - Promover a avaliação e qualificação das respostas de alojamento temporário e de emergência | Elaborar guia para avaliação das respostas de alojamento temporário e de emergência | MTSSS | ENIPSSAISS | Documento | 1.º semestre de 2025 |  |
 |  | OE 2.4 - Promover a regulamentação das respostas sociais direcionadas ao alojamento temporário e de transição | Elaborar proposta de diplomas legais para regulamentar respostas de alojamento temporário e de transição | MTSSS | ENIPSSADGSSISS | Número de diplomas | Regulamentação dos AP e HF |  |
 | Objetivo Geral 3 - Assegurar acompanhamento técnico multidisciplinar a todas as pessoas em situação de sem-abrigo, durante o percurso de integração e autonomização | OE 3.1 - Garantir um contrato de inserção e/ou plano individual de intervenção, para todas as pessoas | Assegurar que todas as pessoas sinalizadas têm um técnico de referência | MTSSS | ENIPSSANPISA | % de PSSA com técnico de referência | Sem-teto 75 %Sem-casa 90 % | Sem-teto 90 %Sem-casa 100 % |
-| Objetivo Geral 3 - Assegurar acompanhamento técnico multidisciplinar a todas as pessoas em situação de sem-abrigo, durante o percurso de integração e autonomização | OE 3.1 - Garantir um contrato de inserção e/ou plano individual de intervenção, para todas as pessoas | Assegurar que todas as pessoas têm plano individual ou contrato de inserção | MTSSS | ENIPSSANPISA | % de PSSA com plano individual ou contrato de inserção | Sem-teto 75 %Sem-casa 90 % | Sem-teto 90 %Sem-casa 100 % |
+| Assegurar que todas as pessoas têm plano individual ou contrato de inserção | MTSSS | ENIPSSANPISA | % de PSSA com plano individual ou contrato de inserção | Sem-teto 75 %Sem-casa 90 % | Sem-teto 90 %Sem-casa 100 % |  |  |
 |  | OE 3.2 - Garantir acesso a programas específicos de qualificação e formação profissional e promover condições de empregabilidade | 1 - Assegurar que todas as pessoas têm um gestor pessoal e um plano pessoal de emprego2 - Proporcionar colocações e integrações em medidas de emprego e formação | MTSSS | ENIPSSAIEFP | 1 - % de PPE formulados face ao total de inscritos2 - % de candidatos inscritos que são integrados numa resposta de emprego ou formação | 1 - 95 %2 - 50 % | 1 - 97 %2 - 60 % |
 |  | OE 3.3 - Desenvolver iniciativas que promovam a inclusão e a participação das pessoas em situação de sem-abrigo, na vida das comunidades | Garantir que em todos os NPISA há ações de participação das PSSA | MTSSS | ENIPSSANPISA | Número de ações e tipo de açõesTaxa de participação | Pelo menos uma ação por NPISA | Pelo menos duas ações por NPISA |
 |  | OE 3.4 - Promover a formação e a capacitação técnica dos profissionais e das entidades | Rever referencial de formação | MTSSS | ENIPSSAISS | Referencial de Formação atualizado | 1.º semestre de 2025 |  |
-|  | OE 3.4 - Promover a formação e a capacitação técnica dos profissionais e das entidades | Realizar programa de formação sobre a ENIPSSA e modelo de intervenção | MTSSS | ENIPSSAISS | Número de ações de formaçãoTaxa de participação | 1 ação de formação | 2 ações de formação |
+|  | Realizar programa de formação sobre a ENIPSSA e modelo de intervenção | MTSSS | ENIPSSAISS | Número de ações de formaçãoTaxa de participação | 1 ação de formação | 2 ações de formação |  |
 |  |  | Realizar ações de formação para técnicos de referência | MTSSS | ENIPSSAISS | Número de ações de formação | 1 ação de formação | 2 ações de formação |
 
 Eixo Estratégico n.º 3 - Monitorização, avaliação e inovação nas políticas públicas de combate ao fenómeno da situação de sem-abrigo
@@ -562,9 +608,13 @@ Eixo Estratégico n.º 3 - Monitorização, avaliação e inovação nas políti
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Objetivo Geral 1 - Implementar um sistema de governação multilateral orientado para a monitorização e avaliação do impacto das políticas públicas no combate ao fenómeno | OE 1.1 - Implementação de um novo instrumento de recolha de informação, bem como os indicadores de caracterização das pessoas em situação de sem abrigo | Rever e reformular questionário para recolha de dados de caracterização anual | MTSSS | ENIPSSAISSINE | Questionário revisto | Proposta de questionário revisto até final do ano | Implementação do questionário revisto |
 |  | OE 1.2 - Melhorar os instrumentos de monitorização e avaliação e desenvolver metodologias que permitam um reporte contínuo da execução e do impacto das medidas da NOVA ENIPSSA | Criar instrumento de monitorização da ENIPSSA | MTSSS | ENIPSSA | Instrumento | 1.º semestre de 2025 | n.a |
-|  | OE 1.2 - Melhorar os instrumentos de monitorização e avaliação e desenvolver metodologias que permitam um reporte contínuo da execução e do impacto das medidas da NOVA ENIPSSA | Criar instrumento de monitorização da ação dos NPISA | MTSSS | ENIPSSA | Instrumento | 1.º semestre de 2025 | n.a |
+|  | Criar instrumento de monitorização da ação dos NPISA | MTSSS | ENIPSSA | Instrumento | 1.º semestre de 2025 | n.a |  |
 |  | OE 1.3 - Assegurar a monitorização e avaliação e promover a criação, interoperabilidade e articulação entre sistemas de informação das entidades envolvidas | Implementar sistema de informação (SI) da ENIPSSA | MTSSS | ENIPSSAInstituto de Informática | Plataforma informática | Todos os NPISA utilizam o SI | Todos os NPISA utilizam o SIPelo menos metade dos restantes municípios utilizam a Plataforma para reporte de dados de caracterização |
 | Objetivo Geral 2 - Promover a inovação nas políticas públicas e nas medidas de combate ao fenómeno | OE 2.1 - Desenvolver projetos-piloto experimentais, em parceria com os municípios, para o desenvolvimento de novas abordagens e modelos de intervenção, de acordo com as necessidades específicas dos territórios | As áreas governativas do MTSSS e Infraestruturas e habitação definem o modelo de projeto-piloto a desenvolver | MTSSSMIHMunicípios e Centros de Investigação | ENIPSSAIHRUISS |  | 1.º semestre de 2025 |  |
 |  | OE 2.2 - Identificação de projetos inovadores para pessoas em situação de sem-abrigo cujo perfil não se enquadre nas respostas existentes | Encontrar parceiros/entidades disponíveis para desenhar e desenvolver projetos inovadores | MTSSS | ENIPSSA |  | n.a. | 1.º semestre 2026 |
 | Objetivo Geral 3 - Avaliar a implementação da NOVA ENIPSSA 2025-2030, a efetuar pelo seu coordenador. | OE 3.1 - Comunicar de três em três meses, por escrito, à CI, as medidas implementadas, impactos e execução da NOVA ENIPSSA 2025-2030 | Avaliar a implementação das políticas públicas. | MTSSS | ENIPSSA |  | Apresentação trimestral | Apresentação trimestral |
 |  | Objetivo Específico 3.2 -Apresentação do relatório final de avaliação da NOVA ENIPSSA 2025-2030, a apresentar à CI. | 1 - Avaliar a implementação das políticas públicas.2 - Apresentar relatório final de avaliação à CI, para homologação.3 - Publicação do relatório no site da ENIPSSA | MTSSS | ENIPSSA |  | n.a. | Até ao final do 1.º trimestre do ano seguinte ao termo da vigência da ENIPSSA 2025-2030 |
+
+118502233
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:147px; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { min-height:58px; } .Tbl12 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { min-height:65px; } .Tbl14 { min-height:130px; } .Tbl15 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl16 { min-height:54px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl19 { min-height:68px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl21 { min-height:50px; } .Tbl22 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl23 { min-height:60px; } .Tbl24 { min-height:39px; } .Tbl25 { min-height:70px; } .Tbl26 { min-height:66px; } .Tbl27 { min-height:81px; } .Tbl28 { min-height:61px; } .Tbl29 { min-height:45px; } .Tbl30 { min-height:34px; } .Tbl31 { min-height:77px; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { min-height:94px; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl35 { text-align:justify; text-align-last:justify; } .Tbl36 { min-height:96px; } .Tbl37 { margin-top:3px; text-align:center; } .Tbl38 { margin-top:3px; } .Tbl39 { min-height:52px; } .Tbl40 { min-height:43px; } .Tbl41 { min-height:86px; } .Tbl42 { min-height:83px; } .Tbl43 { min-height:44px; } .Tbl44 { min-height:76px; } .Tbl45 { min-height:28px; } .Tbl46 { min-height:49px; } .Tbl47 { min-height:67px; } .Tbl48 { min-height:82px; } .Tbl49 { min-height:87px; }

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 48-(9) a 48-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05801/0000900012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/33-a/2021/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-a-2021-160149402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:21:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 762190ad86afd4261736ddcbc46c373056206403550ea36df646dbf1b82efa45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fb52008dd83ecebb2b04a2f7525556bdb6acf224771fd76f8d4f8260ffc5849
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso ao Desporto
 - Ajuda Comunitária
-- Profissão Artística
-- Financiamento
-- Empresa
-- Espetáculos e Divertimentos Públicos
-- Turismo
+- Artes do Espectáculo
+- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
+- Banco Português de Fomento
+- Criação de Emprego
+- Cultura
+- Deficiente
 - Definição de Competências
+- Desporto
+- Doença Infecciosa
+- Emprego
+- Empresa
 - Empresário
+- Epidemia
+- Espetáculos e Divertimentos Públicos
 - Estado de Emergência
 - Federação Desportiva
+- Financiamento
 - Fundos CE
-- Jovem
 - Indústria da Panificação
 - Instituto Português do Desporto e Juventude
+- Jovem
 - Linha de Crédito
-- Criação de Emprego
+- Microempresa
 - Organização Desportiva
+- Pequenas e Médias Empresas
 - Pessoal Artístico
-- Tesouraria
 - Pessoal Técnico-artístico
 - Pirotecnia
-- Doença Infecciosa
-- Epidemia
-- Cultura
-- Emprego
-- Artes do Espectáculo
-- Microempresa
-- Pequenas e Médias Empresas
+- Plano de Recuperação e Resiliência
 - PME
+- Profissão Artística
+- Programa APOIAR
+- Programa Federações + Desportivas
 - Subsídio não Reembolsável
+- Tesouraria
 - Trabalhador
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Desporto
-- Banco Português de Fomento
+- Turismo
 - Vigilância Epidemiológica
-- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
-- Programa APOIAR
-- Plano de Recuperação e Resiliência
-- Programa Federações + Desportivas
 relationships:
 - type: amended_by
   target: pt:dre:204672332:por
@@ -136,16 +136,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre
+- type: cites
+  target: pt:dre:149104781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149532792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157397604:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:21:22Z'
   warnings: []
   errors: []
 ---
@@ -241,3 +265,5 @@ c) Reforço do montante disponível para a tranche destinada exclusivamente a cl
 16 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 11 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114097868

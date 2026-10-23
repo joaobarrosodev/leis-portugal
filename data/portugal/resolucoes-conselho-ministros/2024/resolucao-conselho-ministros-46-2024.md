@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06000/0000900010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/46/2024/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2024-857110189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fbd9db0fb685bb31bfd88541da0a6bdcfdd442385b488bbdca3cf0bf8fef368
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4e7168fb3a97ec808436bc96576f75cfa80831f3e899b88a207600491eadacb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Aquisição de Bens e Serviços
-- Instituto do Emprego e Formação Profissional
-- Direcção Geral da Segurança Social
+- CASA PIA de Lisboa
 - Despesas Públicas
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Direcção Geral da Segurança Social
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Inspecção Geral
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Informática
-- CASA PIA de Lisboa
-- Direcção Geral do Emprego e das Relações de Trabalho
+- Instituto do Emprego e Formação Profissional
 - Instituto Nacional para a Reabilitação
 - Ministério do Trabalho Solidariedade e Segurança Social
+- Secretaria Geral
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:152/2023
+  label: Altera, com efeitos a partir de 14 de março de 2024, o n.º 1 e o anexo da Resolução do Conselho de Ministros n.º
+    152/2023, de 27 de novembro, Diário da República n.º 229/2023, Série I
+  source: null
+  date: '2023-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -101,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/152/2023/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/152/2023/11/27/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224797139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:58Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +167,9 @@ Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Minist
 
 "ANEXO
 
-(a que se referem os n.<sup>os</sup>1, 2 e 4)
+(a que se referem os n.os1, 2 e 4)
 
-| Organismo | 2024 | 2025 | 2026 | 2027 | Valor Total (sem IVA) |
+| Organismo | 2024 | 2025 | 2026 | 2027 | Valor Total<br>(sem IVA) |
 | --- | --- | --- | --- | --- | --- |
 | Autoridade para as Condições de Trabalho | 375.302,76 € | 643.376,16 € | 643.376,16 € | 268.073,40 € | 1.930.128,48 € |
 | Casa Pia de Lisboa, I. P. | 587.358,08 € | 1.006.899,57 € | 1.006.899,57 € | 419.541,49 € | 3.020.698,71 € |
@@ -159,3 +185,5 @@ Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Minist
 | Pessoas 2030 | 38.348,95 € | 65.741,06 € | 65.741,06 € | 27.392,11 € | 197.223,18 € |
 | Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social | 128.544,97 € | 220.362,80 € | 220.362,80 € | 91.817,83 € | 661.088,40 € |
 | Total Geral | 7.911.812,05 € | 13.563.106,38 € | 13.563.106,38 € | 5.651.294,31 € | 40.689.319,12 € |
+
+117503406

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20600/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/98/2022/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2022-202619621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc1af1fc20f20346e484c4bdd12e55108a71e6d77279d861661a2c971b6e63ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec9acd0a71bc1a3d662709f43b11b879027bde706049f09d98d5bde45b2f0869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Diretor
-- Serviço Nacional de Saúde
-- Nomeação
-- Governo XXIII
 - Direção Executiva do Serviço Nacional de Saúde
+- Diretor
+- Governo XXIII
+- Nomeação
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:22Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +148,5 @@ Exerceu múltiplas responsabilidades ao nível da gestão intermédia e de topo 
 Foi ainda presidente da Comissão Nacional para o Desenvolvimento da Cirurgia de Ambulatório, presidente da Comissão Regional de Saúde da Mulher, da Criança e do Adolescente da Região Norte, presidente da Comissão Técnica Regional do Diagnóstico Pré-natal da Região Norte, coordenador do Grupo de Trabalho responsável pela elaboração do Perfil Assistencial e do Programa Funcional do Hospital de Amarante, coordenador do processo do Centro Materno-Infantil do Norte, coordenador do processo do Centro de Reabilitação do Norte, representante do Ministério da Saúde na definição da estratégia da política de saúde na Região Norte, no âmbito do Programa Operacional ON.2 «O Novo Norte» QREN 2007-2013, membro da Comissão para a Avaliação dos Conselhos de Administração dos Hospitais E. P. E., coordenador da Comissão para o Reordenamento Hospitalar da Área Metropolitana do Porto, membro do Conselho Consultivo do Instituto Português do Sangue, I. P., membro do Conselho Consultivo da Comissão Nacional de Luta Contra a SIDA, presidente da Comissão Regional de Farmácia e Terapêutica da Região Norte, presidente da Comissão Oncológica Regional do Norte e presidente do Grupo de Trabalho responsável pela elaboração da Carta dos Equipamentos de Saúde Primários do Município do Porto.
 
 Foi coautor das normas da Direção-Geral da Saúde «Diagnóstico e Rastreio Laboratorial da Infeção pelo Vírus da Imunodeficiência Humana» e da «Utilização Clínica de Concentrado Eritrocitário no Adulto» e coordenador nacional do Ensaio Clínico RE-VERSE-AD. Foi membro do Conselho Nacional para o Serviço Nacional de Saúde da Ordem dos Médicos, presidente da Direção do Colégio da Especialidade de Imuno-Hemoterapia da Ordem dos Médicos, membro da Direção da Competência de Gestão de Serviços de Saúde da Ordem dos Médicos. Membro do Centro de Investigação em Tecnologias e Sistemas de Informação em Saúde. Foi coautor de mais de 200 originais (incluindo artigos e trabalhos sob a forma de resumos, bem como capítulos de livros), editados em revistas científicas indexadas internacionalmente e revisor de trabalhos científicos (Expert Review of Molecular Diagnostics, Transfusion, Vox Sanguinis, ABO, Acta Médica Portuguesa, Arquivos de Medicina).
+
+115795522

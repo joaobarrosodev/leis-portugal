@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234/1996/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1996-429029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8738c47423ada46180c0e5b815cbccf54a486b4d2854fc5fa0e169e05fa445e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b70f3ab48e51eede9d1030099047a4b3b0cfbc54e66f9a74b731f55c79571a63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,34 @@ relationships:
   target: pt:dre:242184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:242184:por
+  label: "Prorrogado por um ano as medidas preventivas ratificadas pelo presente diploma, pela PORT.745/98.1998.09.12.MEPAT\
+    \ DR.IS-B [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1998-242184
+  date: '1998-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:30Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +131,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamen
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Maio de 1996.**
+Assinada em 10 de Maio de 1996.
 
-**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
 
 ## ANEXO — Medidas preventivas
 
@@ -143,4 +157,4 @@ f) Destruição do solo e do coberto vegetal.
 
 São competentes para promover o cumprimento das medidas estabelecidas neste diploma e proceder em conformidade com o disposto no artigo 12.º do Decreto-Lei n.º 794/96, de 5 de Novembro, e demais legislação complementar a Câmara Municipal de Peso da Régua e a Comissão de Coordenação da Região do Norte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/148b00/16661667.pdf))](https://files.diariodarepublica.pt/1s/1996/06/148b00/16661667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/148b00/16661667.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/283/1996/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1996-417033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a80c00fc9ecf3b59f73ec187366a02b2f5890b90deda8a4ba393ab0d8fb60b97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e356fcabe2897f5771308fd7c3aa070973694a201dfe247bfe20021c5350a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/101-a/1996/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/101-a/1996/04/04/p/dre
+- type: cites
+  target: pt:dre:334626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694235:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:25:50Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +128,6 @@ Praças - 16368$00.
 
 Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 27 de Junho de 1996.**
+Assinada em 27 de Junho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Alberto Bernardes Costa.

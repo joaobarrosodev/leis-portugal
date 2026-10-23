@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06303/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57-n/2024/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-n-2024-858196731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 395cb5e9f93e6621e7326c76fb58a050d1ce41cc718f58a7a1a399e08913fdd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2884deed962d645804f0c9e3990cfa27099fe448e9699ffe9db5c5258527969f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,16 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Saúde
 - Despesas Públicas
 - Equipamento Hospitalar
+- Saúde
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:77/2019
+  label: Altera, com efeitos a partir de 27 de março de 2024, a Resolução do Conselho de Ministros n.º 77/2019, de 2 de maio,
+    Diário da República n.º 84/2019, Série I
+  source: null
+  date: '2019-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -107,23 +113,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2019/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2019/05/02/p/dre
+- type: cites
+  target: pt:dre:122202591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162562465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178945890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204721518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223700462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:29Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 57-N/2024
 
-Pela [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, alterada pelas Resoluções do Conselho de Ministros n.<sup>os</sup>1-A/2020, de 9 de janeiro, [46/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2021-162562465), de 3 de maio, 83/2021, de 30 de junho, [25/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2022-178945890), de 10 de fevereiro, [122/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2022-204721518), de 14 de dezembro, e [135/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2023-223700462), de 3 de novembro, foi aprovado o Programa de Investimentos na Área da Saúde (PIAS), que contempla um conjunto de investimentos estruturantes num montante total de € 101 527 032,03, incluindo o IVA à taxa legal em vigor, financiado por investimento nacional e por verbas provenientes de financiamento comunitário.
+Pela [Resolução do Conselho de Ministros n.º 77/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2019-122202591), de 2 de maio, alterada pelas Resoluções do Conselho de Ministros n.os1-A/2020, de 9 de janeiro, [46/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2021-162562465), de 3 de maio, 83/2021, de 30 de junho, [25/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2022-178945890), de 10 de fevereiro, [122/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-2022-204721518), de 14 de dezembro, e [135/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2023-223700462), de 3 de novembro, foi aprovado o Programa de Investimentos na Área da Saúde (PIAS), que contempla um conjunto de investimentos estruturantes num montante total de € 101 527 032,03, incluindo o IVA à taxa legal em vigor, financiado por investimento nacional e por verbas provenientes de financiamento comunitário.
 
 Nessa mesma resolução do Conselho de Ministros, procedeu-se à respetiva autorização de realização da despesa e da assunção dos encargos plurianuais decorrentes da execução do referido Programa.
 
@@ -362,3 +404,5 @@ ii) Em 2026: € 1 050 102,46.
 2 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 27 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117542935

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06500/0000300028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/59/2024/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2024-858576209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebe4fa711c963536f763ec43e22e8b61d75cabb264e338de3ba824699c9aac42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 209f2ebf0118f9686f5bdfdb7197764ba4abbc30f6dc9028bc89c0cd2f1b20fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
+- Autarquia Local
 - Carreira de Polícia Municipal
 - Criação de Serviços
+- Fardamento
 - Polícia Municipal
 - Regulamento
-- Autarquia Local
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -114,23 +114,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:124044665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 94
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:33:31Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros n.º 59/2024
 
-O Município de Almada, segundo dos dados do Censos 2021, conta com 177 238 habitantes, ­distribuídos por um território com 70,21 km<sup>2</sup>, no qual se encontram integradas as Freguesias da Costa da Caparica, União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas, União das Freguesias de Caparica e Trafaria, União das Freguesias de Charneca da Caparica e Sobreda e a União das ­Freguesias de Laranjeiro e Feijó, pertencendo à Área Metropolitana de Lisboa e integrando a área geográfica da Comunidade Intermunicipal da Península de Setúbal.
+O Município de Almada, segundo dos dados do Censos 2021, conta com 177 238 habitantes, ­distribuídos por um território com 70,21 km2, no qual se encontram integradas as Freguesias da Costa da Caparica, União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas, União das Freguesias de Caparica e Trafaria, União das Freguesias de Charneca da Caparica e Sobreda e a União das ­Freguesias de Laranjeiro e Feijó, pertencendo à Área Metropolitana de Lisboa e integrando a área geográfica da Comunidade Intermunicipal da Península de Setúbal.
 
 A [Lei Constitucional n.º 1/97](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562), de 20 de setembro, que procedeu à quarta revisão constitucional, veio permitir que os municípios possam criar polícias municipais que, além das competências de polícia administrativa já anteriormente reconhecidas, disponham, ainda, de poderes de atuação nos domínios da manutenção da tranquilidade pública e da proteção das comunidades locais, nos termos do n.º 3 do artigo 237.º da Constituição da República Portuguesa, em cooperação com as forças de segurança.
 
@@ -144,7 +188,7 @@ A esta luz, entende o Governo que se encontram reunidas as condições necessár
 
 Assim:
 
-Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, na sua redação atual, dos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, na sua redação atual, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 3 do artigo 11.º da [Lei n.º 19/2004](https://diariodarepublica.pt/dr/detalhe/lei/19-2004-270386), de 20 de maio, na sua redação atual, dos n.os1 e 2 do artigo 5.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro, na sua redação atual, e da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Ratificar a deliberação da Assembleia Municipal de Almada, de 23 de fevereiro de 2024, que aprovou o Regulamento de Organização e Funcionamento da Polícia Municipal de Almada, anexo à presente resolução e da qual faz parte integrante, e a inerente criação e instituição da Polícia Municipal de Almada.
 
@@ -172,7 +216,7 @@ O presente Regulamento tem por objeto a definição da organização e funcionam
 
 ###### Artigo 3.º — Competência territorial
 
-1 - A competência territorial da Polícia Municipal coincide com a área de circunscrição do Município, repartida pelas suas quatro uniões de freguesias e uma freguesia, com uma extensão geográfica de 70,21 km<sup>2</sup>.
+1 - A competência territorial da Polícia Municipal coincide com a área de circunscrição do Município, repartida pelas suas quatro uniões de freguesias e uma freguesia, com uma extensão geográfica de 70,21 km2.
 
 2 - Os agentes de Polícia Municipal não podem atuar fora da área de circunscrição do Município de Almada, exceto em situação de flagrante delito ou em situação de emergência mediante solicitação da autoridade municipal competente.
 
@@ -212,7 +256,7 @@ e) Regulação e fiscalização do trânsito rodoviário e pedonal na área de j
 
 3 - Para os efeitos referidos no n.º 1, os agentes da Polícia Municipal têm competência para o levantamento de auto ou o desenvolvimento de inquérito por ilícito de mera ordenação social, de transgressão ou criminal por factos estritamente conexos com violação de lei ou recusa da prática de ato legalmente devido no âmbito das relações administrativas.
 
-4 - Quando, por efeito do exercício dos poderes de autoridade previstos nos n.<sup>os</sup>1 e 2 do presente artigo, os agentes da Polícia Municipal verifiquem diretamente o cometimento de qualquer crime podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
+4 - Quando, por efeito do exercício dos poderes de autoridade previstos nos n.os1 e 2 do presente artigo, os agentes da Polícia Municipal verifiquem diretamente o cometimento de qualquer crime podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.
 
 5 - Sem prejuízo do disposto nos números anteriores, é vedado às polícias municipais o exercício de competências próprias dos órgãos de polícia criminal.
 
@@ -510,7 +554,7 @@ A coordenação entre a Polícia Municipal e as forças de segurança é assegur
 
 ###### Artigo 32.º — Efetivos
 
-1 - A Polícia Municipal de Almada poderá ter o número máximo de efetivos previsto nos n.<sup>os</sup>3 e 4 do artigo 4.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro.
+1 - A Polícia Municipal de Almada poderá ter o número máximo de efetivos previsto nos n.os3 e 4 do artigo 4.º do [Decreto-Lei n.º 197/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), de 7 de outubro.
 
 2 - De acordo com as necessidades do serviço e da proporcionalidade entre o número de agentes e o número de cidadãos eleitores, é fixado para o período de instalação do serviço que o número de agentes a integrar seja de 40 agentes, de acordo com o mapa de pessoal constante do anexo i ao presente Regulamento.
 
@@ -570,7 +614,7 @@ c) Fiscal municipal de 1.ª classe para agente municipal de 1.ª classe;
 
 d) Fiscal municipal de 2.ª classe para agente municipal de 2.ª classe.
 
-3 - O previsto no número anterior não se aplica aos fiscais municipais principais que transitarão nos termos dos n.<sup>os</sup>4 e 5.
+3 - O previsto no número anterior não se aplica aos fiscais municipais principais que transitarão nos termos dos n.os4 e 5.
 
 4 - Os trabalhadores detentores da categoria de fiscal municipal principal transitam para a categoria de agente graduado.
 
@@ -788,7 +832,9 @@ O agente de Polícia Municipal que tenha recorrido a arma de fogo é obrigado a 
 
 O Município colocará à disposição do serviço da Polícia Municipal veículos de duas ou quatro rodas, assim como outros veículos necessários ao desempenho eficaz e eficiente das suas atribuições.
 
-###### Artigo 73.º — Livro de registos
+###### Artigo 73.º
+
+## Livro de registos
 
 1 - Cada veículo tem um livro de registos, que poderá ser virtual, no qual devem constar os ­seguintes elementos:
 
@@ -972,8 +1018,12 @@ O presente Regulamento entra em vigor no dia imediato à data de publicação no
 
 ## ANEXO I — Organograma da Polícia Municipal de Almada
 
-![](https://files.diariodarepublica.pt/images/858576209/858523425.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/858576209/858523425.png) |
+| --- |
 
 ## ANEXO II — Identificação heráldica da Polícia Municipal de Almada
 
-![](https://files.diariodarepublica.pt/images/858576209/858523426.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/858576209/858523426.png) |
+| --- |
+
+117528947

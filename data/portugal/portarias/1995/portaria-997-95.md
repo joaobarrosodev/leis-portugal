@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/997/1995/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/997-1995-434778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3197fb85c0d04785c1b1cee0a7e95486c071757f4475e593c2f73f127e9195a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 395d887b64e419a42d927fc18c7bbf7cd3da7935d36c69704b26579ecf91d92b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/825/1993/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/825/1993/09/08/p/dre
+- type: cites
+  target: pt:dre:297227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666744:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:09Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +122,10 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, que o quadro de
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 20 de Julho de 1995.**
+Assinada em 20 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 Mapa anexo à Portaria n.º 997/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/191b00/52065207.pdf))](https://files.diariodarepublica.pt/1s/1995/08/191b00/52065207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/191b00/52065207.pdf)

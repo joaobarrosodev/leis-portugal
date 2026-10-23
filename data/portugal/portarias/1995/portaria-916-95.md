@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/916/1995/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/916-1995-490231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ed417ee673dadcd49a47d36fc0d83d0508d69989bd958068631c750b09d0de8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 974d07b896e15fccb092badc7aeb93a3137f1bb3d967c13d67f98bd915341d7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barreiro
-- Médico
 - Carreira Médica Hospitalar
 - Criação de Lugares
 - Extinção de Lugares
 - Hospital Distrital
+- Médico
 - Pessoal Técnico
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pessoal Técnico Superior
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:216317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216317:por
+  label: "Substituido o quadro de pessoal aprovado pela Port 878/94 de 30-Set DR.IS-B [227], com a redacção dada pelo presente\
+    \ diplma e pelas Port 1131/95 de 15-Set, 428/96 de 02-Set e 636/96 de 07-Nov, pela PORT.983/98.1998.11.24.PCM DR.IS-B\
+    \ [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/983-1998-216317
+  date: '1998-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/878/1994/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/878/1994/09/30/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:10Z'
   warnings: []
   errors: []
 ---
@@ -122,10 +141,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Junho de 1995.**
+Assinada em 19 de Junho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Quadro de pessoal do Hospital Distrital do Barreiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/165b00/46294630.pdf))](https://files.diariodarepublica.pt/1s/1995/07/165b00/46294630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/165b00/46294630.pdf)

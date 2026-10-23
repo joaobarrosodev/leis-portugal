@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/986/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/986-1995-429382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319a3ba82e8df3a86cb16c652a754b2fd780ad713954b02db6a6f4a3029508c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 764b93720888c17c09cc052e67340b90453bace1f1ff28aa5b09c465eb0b806b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cadaval
 - CAÇA
-relationships: []
+- Cadaval
+relationships:
+- type: cites
+  target: pt:dre:332005:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:57Z'
   warnings: []
   errors: []
 ---
@@ -101,8 +105,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 277/90](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189b00/51465146.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189b00/51465146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189b00/51465146.pdf)

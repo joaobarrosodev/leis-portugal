@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22500/0955809558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2015/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2015-71032549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:09:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0e89feb4d7fea6a8353f2485d437913cb9933346c3c7149c12ad7252d9e3eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2760cbd050b4161cd2ffa886efe41100125723a22fb91654e6c3f7e348d42fd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:09:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Administração Regional de Saúde do Norte
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Ministro da Saúde
 - Concurso Público
 - Conselho de Ministros
-- Saúde
 - Delegação de Competências
 - Despesas Públicas
 - Esposende
 - Felgueiras
-- Santa Casa da Misericórdia
+- Governo XX
 - Lousada
 - Marco de Canaveses
+- Ministro da Saúde
 - Póvoa de Lanhoso
+- Santa Casa da Misericórdia
+- Saúde
 - VILA Verde
-- Governo XX
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:09:17Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +173,7 @@ h) Acordo de cooperação com a Misericórdia de Vila Verde no valor de 18 958 7
 
 2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder em cada ano económico, os seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/11/22500/0955809558.pdf))](https://files.diariodarepublica.pt/1s/2015/11/22500/0955809558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/11/22500/0955809558.pdf)
 
 3 - Estabelecer que os montantes fixados no número anterior para cada ano económico podem ser acrescidos do saldo apurado no ano que antecede.
 

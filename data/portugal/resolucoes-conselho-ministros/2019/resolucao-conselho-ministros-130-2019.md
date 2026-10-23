@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/130/2019/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2019-123666112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f745c29d7e2ef2eb59aac6e46d350194b4f45d754758faf25b3de60f48bc9650
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1daa0a18e09e6486a45b1fd81f814d414190b22552d708d731a81aea9ad4a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Alteração Climática
 - Definição de Competências
 - Estratégia Nacional de Adaptação as Alterações Climáticas
 - Grupo Coordenador
-- Proteção do Ambiente
 - Política do Ambiente
-- Alteração Climática
 - Programa de Ação para a Adaptação às Alterações Climáticas
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/
@@ -110,16 +110,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2017/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2017/06/07/p/dre
+- type: cites
+  target: pt:dre:107486774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116649879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66432466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:09Z'
   warnings: []
   errors: []
 ---
@@ -222,31 +266,31 @@ Em diversos estudos, o Sul da Europa e a Península Ibérica, são destacados co
 
 De acordo com o IPCC, os cenários climáticos mais gravosos para Portugal (RCP 8.5, IPCC AR5) (3) preveem que o aumento da temperatura pode chegar a +5ºC em 2100 (aplicável a temperaturas mínimas, médias e máximas), particularmente durante o verão e no interior de Portugal (ver Figura 1). As temperaturas elevadas refletem-se no aumento de dias muito quentes (Tmax (igual ou maior que) 35ºC), especialmente no interior sul, no aumento do número de noites tropicais (Tmin (igual ou maior que) 20ºC) e em ondas de calor mais longas e frequentes, especialmente no interior nordeste. Os registos de emissões recentes aproximam-se contudo do cenário menos gravoso RCP 4.5 implicando um forçamento radiativo em 2100 de 4,5 Wm-2 ao qual será associado um aumento médio de temperatura entre 1,1 e 2,6ºC (1,8ºC em média), o que significa que existe a probabilidade de não exceder os 2ºC, mas sem cumprir o objetivo de não ultrapassar o objetivo mais ambicioso assumido em Paris. Contudo, neste cenário os aumentos de temperatura média poderão variar entre 2ºC a 3ºC em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 1 - Anomalias da temperatura média (referência 1971-2000) para o período 2071-2100, RCP8.5 e para os ensembles de modelos regionais e globais. Fonte: http://portaldoclima.pt/http://portaldoclima.pt/http://portaldoclima.pt/.
 
 Apesar de haver uma maior incerteza quanto aos cenários de precipitação, prevê-se que os padrões também deverão enfrentar alterações, com redução importante dos valores anuais em todo o território (Figura 2), registando, para o final do século, perdas entre -10% e -50% na primavera, verão e outono de forma consistente na generalidade dos modelos climáticos para o cenário RCP8.5 (Soares et al. 2017 (4)). Além disso prevê-se um aumento do número de eventos de precipitação extrema em detrimento da redução de dias com baixa a média/alta precipitação (Soares et al. 2017 (4)). Conclusões equivalentes, mas de menor magnitude são obtidas para o cenário RCP4.5 (Soares et al. 2017 (4)). Desta forma, é de esperar um aumento da variabilidade sazonal da precipitação e a extensão da estação seca do verão para a primavera e outono. Apesar da crescente probabilidade de secas prolongadas continuará a haver uma elevada variabilidade interanual, um aspeto que justifica a possibilidade de virem a ocorrer anos com mais precipitação do que a normal climática de 1971-2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 2 - Anomalias da precipitação (referência 1971-2000) para o período 2071-2100, RCP8.5 e para os ensembles de modelos regionais e globais. Fonte: http://portaldoclima.pt/.
 
 É importante destacar que as alterações climáticas não são fenómenos com manifestação potencial futura, sendo de observar que o clima atual já apresenta diferenças face ao passado recente. As temperaturas médias registadas desde o início do século XXI foram sempre próximas ou superiores aos valores médios do período 1971-2000 (Relatório do Estado do Ambiente, 2017). Quanto à precipitação anual em Portugal continental, verifica-se que a partir da década de 80 do século XX a magnitude das anomalias negativas face aos valores médios de precipitação superou fortemente as anomalias registadas nos anos mais chuvosos (Figura 3), o que indicia a tendência de redução da precipitação preconizada nos modelos climáticos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 3 - Anomalias (referência 1971-2000) das temperaturas mínimas e máximas anuais do ar (esquerda) e da quantidade média de precipitação anual (direita) em Portugal continental (Fonte: IPMA, in Relatório de Estado do Ambiente 2017).
 
 A redução da precipitação anual, o aumento da sua variabilidade e a consequente alteração do regime de escoamento reduzirá os caudais dos rios, e afetará igualmente a recarga dos aquíferos, podendo, inclusivamente, secar as nascentes de rios importantes na Península Ibérica por períodos de tempo mais ou menos longos. Estas alterações poderão ser acompanhadas por problemas ao nível da qualidade da água, intensificação de eventos de seca e maior pressão para a desertificação, promovendo a perda de biodiversidade associada à alteração da estrutura e dinâmica dos ecossistemas. Esta redução na precipitação afetará igualmente a recarga dos aquíferos, potenciando a degradação da qualidade dos recursos hídricos superficiais e subterrâneos. É de realçar que estas tendências já se têm verificado nos anos recentes, sendo que neste século ocorreram cinco períodos de seca (2004/05; 2008/09; 2011/12; 2014/15; 2016/17), alguns dos quais comparáveis com o mais grave que ocorreu no século XX, a seca de 1944/45 (Figura 4). Refira-se que em 2018, a 31 de janeiro, o território nacional ainda apresentava seca moderada em 39,9% e seca severa em 55,6% do total (IPMA, 2018), contribuindo para o estado de armazenamento registado nas albufeiras nessa data (Figura 5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 4 - Evolução mensal da percentagem do território em seca severa e extrema, de acordo com a classificação do índice PDSI, para várias situações de seca (histórica: 1944/45; após 2000: 2004/05, 2008/09, 2011/12, 2014/15 e 2016/17) (Fonte: IPMA, in Relatório do Grupo de Trabalho de assessoria técnica à Comissão Permanente de Prevenção, Monitorização e Acompanhamento dos Efeitos da Seca, dezembro 2017).
 
 Ainda assim o território permanecerá vulnerável às inundações, dada a tendência de maior contribuição para a precipitação anual por parte dos dias de chuva intensa. Em Portugal continental as cheias significativas ocorrem, essencialmente, nas bacias hidrográficas dos grandes e médios rios (Tejo, Douro e Sado), uma vez que outras bacias hidrográficas estão mais regularizadas através de albufeiras com capacidade de laminar ou encaixar os volumes das cheias. Adicionalmente, vários episódios de cheias repentinas têm-se sucedido em zonas urbanas decorrentes de períodos de chuva intensa muito concentrados determinando uma maior exposição de edifícios e infraestruturas, quebra de funções sociais, económicas, potenciais perdas humanas e maior número de pessoas deslocadas/evacuadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 5 - Armazenamento nas Albufeiras de Portugal Continental em janeiro 2018 (Fonte: SNIRH).
 
@@ -256,13 +300,13 @@ O aumento da temperatura e os períodos de seca prolongados deverão ser também
 
 A seca poderá também acentuar os períodos de stress hídrico em plantas, particularmente em povoamentos florestais, tendo como consequência o aumento de pragas e doenças secundárias nestes ecossistemas. As condições meteorológicas da época de verão, bem como as condições climáticas do inverno e primavera antecedentes explicam mais de 2/3 da variabilidade interanual de área ardida em Portugal. Neste contexto, é importante salientar que os cenários de alterações climáticas preveem um aumento significativo das condições meteorológicas propícias a grandes áreas ardidas em toda a Península Ibérica, incluindo todo o território de Portugal (Sousa et al., 2015 (5)).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 6 - Incêndios rurais em Portugal Continental: ocorrências e área ardida (Fonte: ICNF, in Relatório de Estado do Ambiente 2017).
 
-# Parte do território nacional encontra-se já ameaçada pela desertificação (Figura 7), com a degradação dos solos em resultado da influência de vários fatores, incluindo as variações climáticas e as atividades humanas. Note-se que nos cenários climáticos do Portal do Clima as áreas suscetíveis à desertificação e à erosão ampliam-se no litoral da região do oeste e interior norte em relação à atualidade.
+Parte do território nacional encontra-se já ameaçada pela desertificação (Figura 7), com a degradação dos solos em resultado da influência de vários fatores, incluindo as variações climáticas e as atividades humanas. Note-se que nos cenários climáticos do Portal do Clima as áreas suscetíveis à desertificação e à erosão ampliam-se no litoral da região do oeste e interior norte em relação à atualidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Figura 7 - Suscetibilidade à Desertificação - Índice de Aridez 1980/2010 (Fonte: ICNF-PANCD 2014-2020).
 
@@ -392,7 +436,7 @@ No quadro seguinte sistematizam-se, de forma não exaustiva, as principais compo
 
 Tabela 1. Despesa pública consignada, no final de setembro de 2018, incluindo financiamento comunitário e componente nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Importa relevar para este efeito que se encontram em curso os trabalhos de preparação do futuro quadro financeiro plurianual da União Europeia, tanto ao nível europeu, como a nível nacional.
 
@@ -452,11 +496,11 @@ O quadro seguinte identifica os instrumentos de financiamento de âmbito naciona
 
 Tabela 2. Despesa pública disponível para afetação a ações de adaptação, para o horizonte 2020 (22), incluindo financiamento comunitário e componente nacional (M(euro)), à data de 30 de setembro de 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 Tabela 3. Linhas de ação que integram o presente Programa e respetivos impactes e vulnerabilidades em foco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 5.4 Concretização, acompanhamento e monitorização do P-3AC
 
@@ -494,11 +538,11 @@ Nota final: No final do documento (Anexo III) encontra-se ainda um glossário co
 
 ## ANEXO I — Linhas de ação e medidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 ## ANEXO II — Indicadores de resultado e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf))](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/14700/0001000045.pdf)
 
 ## ANEXO III — Glossário
 
@@ -703,3 +747,5 @@ Final report of the JRC PESETA III project, EUR 29427 EN, Publications Office of
 (45) As metas de redução são estabelecidas face ao valor de referência indicados nos respetivos instrumentos de planeamento setorial existentes.
 
 (46) Nos casos em que os indicadores decorrem dos programas de financiamento comunitários atuais, a meta refere-se ao ano de encerramento daqueles programas.
+
+112481147

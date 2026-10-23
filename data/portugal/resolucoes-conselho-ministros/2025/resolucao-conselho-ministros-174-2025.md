@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21700/0001100015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/174/2025/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2025-945116918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b28585c00469c9d04b34eac09f367574fa35597d81a70fb0e0a9e9354dc7e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6517f68a9fb681c2aaabf5f44b397b8ba6dd443caa03197a2d074648079e8cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Exoneração
 - Nomeação
 - Presidente
-- Vogal
 - Unidade Local de Saúde do Médio Ave
+- Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -95,16 +95,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838996441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:852762953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:22Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +149,7 @@ Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta 
 
 Neste âmbito, se, por um lado, o diretor clínico para a área dos cuidados de saúde primários do conselho de administração da Unidade Local de Saúde do Médio Ave, E. P. E., designado pelo [Despacho n.º 972/2024](https://diariodarepublica.pt/dr/detalhe/despacho/972-2024-838996441), de 25 de janeiro, apresentou renúncia, por outro, a evolução do modelo organizacional e a necessidade de uma resposta mais ágil e coordenada às exigências assistenciais desta Unidade Local de Saúde impõem uma renovação da sua liderança. Apesar do empenho demonstrado pelo atual conselho de administração, verifica-se que a sua composição não tem conseguido corresponder, de forma plena, à necessidade de imprimir uma nova dinâmica à gestão da Unidade Local de Saúde do Médio Ave, E. P. E.
 
-Com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.<sup>os</sup>1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+Com o objetivo último de se alcançar uma efetiva melhoria no acesso aos cuidados de saúde, a presente resolução procede à dissolução, por mera conveniência, do atual conselho de administração, nos termos dos n.os1 e 2 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
 
 Concomitantemente, procede-se à designação de um novo conselho de administração conforme disposto no artigo 69.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual.
 
@@ -127,9 +159,9 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.<sup>os</sup>1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo i do [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, na sua redação atual, o Conselho de Ministros resolve:
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º, dos n.os1 e 2 do artigo 26.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, e por proposta do diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., nos termos da alínea e) do n.º 4 do artigo 5.º do anexo i do [Decreto-Lei n.º 61/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), de 23 de setembro, na sua redação atual, o Conselho de Ministros resolve:
 
-1 - Dissolver, pela necessidade imperiosa e gestionária de imprimir um novo modelo de liderança à instituição, o conselho de administração da Unidade Local de Saúde do Médio Ave, E. P. E., designado pelos Despachos, do diretor executivo do Serviço Nacional de Saúde, n.<sup>os</sup> [972/2024](https://diariodarepublica.pt/dr/detalhe/despacho/972-2024-838996441), publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro de 2024, e [1759/2024](https://diariodarepublica.pt/dr/detalhe/despacho/1759-2024-852762953), publicado no Diário da República, 2.ª série, n.º 33, de 15 de fevereiro de 2024, sem prejuízo da renúncia apresentada pelo diretor clínico para a área dos cuidados de saúde primários.
+1 - Dissolver, pela necessidade imperiosa e gestionária de imprimir um novo modelo de liderança à instituição, o conselho de administração da Unidade Local de Saúde do Médio Ave, E. P. E., designado pelos Despachos, do diretor executivo do Serviço Nacional de Saúde, n.os [972/2024](https://diariodarepublica.pt/dr/detalhe/despacho/972-2024-838996441), publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro de 2024, e [1759/2024](https://diariodarepublica.pt/dr/detalhe/despacho/1759-2024-852762953), publicado no Diário da República, 2.ª série, n.º 33, de 15 de fevereiro de 2024, sem prejuízo da renúncia apresentada pelo diretor clínico para a área dos cuidados de saúde primários.
 
 2 - Designar, para exercerem funções no conselho de administração da Unidade Local de Saúde do Médio Ave, E. P. E., o presidente e quatro vogais executivos, para um mandato de três anos, até ao limite de três renovações consecutivas, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução, da qual faz parte integrante:
 
@@ -232,3 +264,5 @@ Refere-se a seguinte formação: curso de formador/coordenador Advanced Cardiac 
 No âmbito da pessoa em situação crítica refere-se a frequência enquanto formando e formador em vários cursos no âmbito da abordagem à pessoa em situação crítica; é formador em serviço em várias ações de formação no âmbito da abordagem à pessoa em situação crítica; é formador SBV/DAE pelo Instituto Nacional de Emergência Médica; a competência enfermeiro de viatura médica de emergência e reanimação (VMER) - INEM. É autor de pósteres e comunicações livres em congressos no âmbito da pessoa em situação crítica e participou enquanto autor e perito em publicações nacionais e internacionais de artigos relacionados com a pessoa em situação crítica e gestão do risco.
 
 Em termos de experiência profissional refere-se: enfermeiro adjunto da direção de enfermagem da ULS do Médio Ave e enfermeiro gestor do serviço de urgência médico cirúrgico da ULS do Médio Ave (2023), enfermeiro pertencente à Comissão de Catástrofe da ULS do Médio Ave (2022), enfermeiro coordenador e operacional da VMER da ULS do Médio Ave (2020), docente convidado da Escola Superior de Saúde do Vale do Ave, CESPU, Vila Nova de Famalicão (2018-2019), enfermeiro pertencente à Comissão de Catástrofe do Centro Hospitalar do Médio Ave (2017-2022), enfermeiro responsável pela emergência interna do Centro Hospitalar do Médio Ave (2016), enfermeiro de assistência e prevenção em grandes eventos, First Intervention, Porto (2015-2022), enfermeiro em funções de gestão interinamente no serviço de urgência médico cirúrgico do Centro Hospitalar do Médio Ave (2014), enfermeiro especialista e enfermeiro coordenador de equipa no serviço de urgência médico cirúrgico do Centro Hospitalar do Médio Ave (2011-2022), enfermeiro operacional e adjunto da coordenação da VMER do Centro Hospitalar do Médio Ave (2009-2019), enfermeiro e enfermeiro coordenador de equipa no serviço de urgência médico cirúrgico do Centro Hospitalar do Médio Ave (2005-2011), enfermeiro no Cento de Hemodiálise, Nefrocare, Barcelos (2000-2002), enfermeiro no serviço de medicina homens do Centro Hospitalar do Médio Ave (2000-2005).
+
+119742669

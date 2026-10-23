@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2020-137618093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abc51013927cfc2b60dbebdda84bd41a341db52fafe5c22804f78525968428de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a40276cb45c340490930d97449aae146692931612c5a8144caaa01a2c359aae2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Alteração Climática
 - Comissão de Acompanhamento
+- Comissão Interministerial do Ar das Alterações Climáticas e da Economia Circular
 - Denominação de Instituição
-- Estratégia Nacional de Adaptação as Alterações Climáticas
-- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
-- Política Energética
 - Direção Geral de Energia e Geologia
+- Estratégia Nacional de Adaptação as Alterações Climáticas
 - Grupo de Coordenação Interdepartamental
+- Plano Nacional de Ação para as Energias Renováveis
+- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
+- Plano Nacional Energia e Clima 2030
 - Política do Ambiente
+- Política Energética
 - Programa Nacional para as Alterações Climáticas
 - Regulamento CE
-- Alteração Climática
-- Snierpa
-- Comissão Interministerial do Ar das Alterações Climáticas e da Economia Circular
-- Plano Nacional Energia e Clima 2030
-- Plano Nacional de Ação para as Energias Renováveis
 - Sistema Nacional de Políticas e Medidas
-- Agência Portuguesa do Ambiente
+- Snierpa
 relationships:
 - type: amended_by
   target: pt:dre:938923394:por
@@ -203,6 +203,232 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: cites
+  target: pt:dre:105658706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105820581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107567058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107761909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115191272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115777790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116649879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116747964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122549969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123578709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123610215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123725412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124097549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125692189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66432466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66762671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69982738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70064710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73986213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:938923394:por
+  label: Revogada, a partir de 10 de outubro de 2025, pelo(a) Resolução do Conselho de Ministros n.º 156/2025 - Diário da
+    República n.º 195/2025, Série I de 2025-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/156-2025-938923394
+  date: '2025-10-09'
 - type: transposes
   target: celex:32001L0042
   label: null
@@ -222,13 +448,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:40Z'
   warnings: []
   errors: []
 ---
@@ -387,13 +613,13 @@ Neste contexto, Portugal submeteu à Comissão Europeia em dezembro de 2018 a pr
 
 Figura 1 - Cronograma de elaboração do Plano Nacional Energia e Clima de acordo com o regulamento da governação (datas chave)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 O PNEC deve incluir uma caracterização da situação existente em Portugal em matéria de Energia e Clima, abrangendo as cinco dimensões prevista no Regulamento - DESCARBONIZAÇÃO, EFICIÊNCIA ENERGÉTICA, SEGURANÇA ENERGÉTICA, MERCADO INTERNO DA ENERGIA E INVESTIGAÇÃO, INOVAÇÃO E COMPETITIVIDADE - bem como a definição dos contributos nacionais, políticas e medidas planeadas para o cumprimento dos diferentes compromissos globais da União Europeia, incluindo em termos de redução de emissões de gases com efeito de estufa, promoção das energias renováveis, aumento da eficiência energética e reforço das interligações. A elaboração, conteúdo e apresentação do PNEC obedece a um template cujos tópicos e estrutura estão definidos na parte 1 do anexo I ao Regulamento da Governação.
 
 Figura 2 - Esquema do template do Plano Nacional Energia e Clima de acordo com o regulamento da governação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Enquanto Portugal se prepara para cumprir o seu desafio para 2020, importa definir novas ambições para a década 2021-2030. Nesta matéria, Portugal tem fortes argumentos para continuar a construir uma estratégia rumo à neutralidade carbónica e a uma economia neutra em carbono, baseada em fontes de energia renovável, com foco na eficiência energética e no consumidor de energia.
 
@@ -405,7 +631,7 @@ Nos últimos anos Portugal tem vindo a registar uma recuperação económica, re
 
 Figura 3 - Variação do produto interno bruto em Portugal [Fonte: Instituto Nacional de Estatística, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Segundo projeções mais recentes, é expectável que a trajetória de crescimento se deverá manter nos próximos anos, traduzindo os progressos alcançados ao nível do processo de convergência da economia nacional.
 
@@ -413,7 +639,7 @@ Na ótica da produção, o Valor Acrescentado Bruto (VAB) a preços base registo
 
 Figura 4 - Evolução do valor acrescentado bruto em Portugal (M(euro), dados encadeados em volume; anual) [Fonte: Instituto Nacional de Estatística, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.2. EMISSÕES TOTAIS DE GASES COM EFEITO DE ESTUFA EM PORTUGAL
 
@@ -423,7 +649,7 @@ Considerando o setor LULUCF, o total de emissões em 2017 é estimado em 78,0 Mt
 
 Figura 5 - Evolução das emissões nacionais de gases com efeito de estufa 1990-2017 (Mt CO(índice 2e)) [Fonte: Agência Portuguesa do Ambiente, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No âmbito do primeiro período de compromisso do Protocolo de Quioto e decorrendo da partilha de responsabilidades a nível comunitário ficou estabelecido que entre 2008-2012 Portugal poderia aumentar as suas emissões em 27 % em relação a 1990. Portugal assegurou o cumprimento deste objetivo essencialmente através da limitação de emissões de GEE em todos os setores da economia e do contributo do sequestro de carbono nas atividades do setor LULUCF. A trajetória desde 2005 permitiu dessa forma o cumprimento do Protocolo de Quioto.
 
@@ -435,7 +661,7 @@ A figura seguinte traduz a evolução das emissões nacionais, entre 1990 e 2017
 
 Figura 6 - Evolução das emissões nacionais de gases com efeito de estufa (Mt CO(índice 2eq)) por setor do Comércio Europeu de Licenças de Emissão e não-Comércio Europeu de Licenças de Emissão [Fonte: Agência Portuguesa do Ambiente, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Uma análise das emissões de GEE por unidade de PIB permite verificar que em 2005 se iniciou um processo de dissociação entre o PIB e as emissões, resultante da descarbonização da economia, ou seja, uma economia com menos carbono emitido por cada unidade de riqueza produzida, tendência que é anterior à atual crise económica.
 
@@ -447,13 +673,13 @@ As políticas públicas sobre alterações climáticas são hoje parte integrant
 
 Figura 7 - Evolução das emissões setoriais 1990-2017 (Mt CO(índice 2eq)) [Fonte: APA, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 O setor da energia, que inclui os transportes, representou 72 % das emissões nacionais em 2017, apresentando um crescimento de 8,7 % face a 2016. Neste setor, a produção de energia e os transportes são as fontes mais importantes representando respetivamente cerca de 29 % e 24 % do total das emissões.
 
 Figura 8 - Emissões setoriais em CO(índice 2eq) em 2017 [Fonte: APA, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A combustão na indústria, responsável por cerca de 11 % das emissões nacionais, registou um crescimento de 1,2 % em 2017 face a 2016. As emissões fugitivas, que representam 2 % do total de emissões, apresentam um aumento de 6,9 % face a 2016.
 
@@ -473,7 +699,7 @@ Ao nível do consumo de fontes primárias de energia, o Petróleo assume o princ
 
 Figura 9 - Evolução do consumo total de energia primária por tipo de fonte em Portugal 1990-2018 [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que diz respeito ao consumo de energia final (CEF), Portugal registou em 2018 um consumo de 16 470 ktep, verificando-se um aumento de 1,4 % face a 2017. Na última década, 2009-2018, o CEF registou uma tcma de -0,9 %. De entre os fatores que contribuíram para a redução do CEF nos últimos anos merece especial destaque a promoção da eficiência energética com particular enfoque nos setores da indústria e doméstico por via da adoção de soluções mais eficientes, assim como o abrandamento da economia que afetou de forma generalizada os consumos nos diversos setores da economia.(6)
 
@@ -481,13 +707,13 @@ Quanto ao consumo final de energia por tipo de fonte, e como já referido anteri
 
 Figura 10 - Evolução do consumo total de energia final por tipo de fonte em Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Em termos setoriais, verifica-se que, em 2018, é o setor dos transportes aquele que mais energia consome em Portugal representando 36 % do CEF, seguido do setor da indústria (30 %), do setor doméstico (18 %), do setor dos serviços (14 %) e finalmente do setor da agricultura e pescas (3 %). A estrutura do consumo por setor de atividade manteve-se praticamente inalterada na última década, verificando-se apenas ligeiras oscilações de ano para ano, como mostra a figura seguinte.(7)
 
 Figura 11 - Evolução do consumo total de energia final por setor de atividade em Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.4. ENERGIA DE FONTES RENOVÁVEIS
 
@@ -497,13 +723,13 @@ Portugal tem vindo a registar um bom progresso no cumprimento dos objetivos para
 
 Figura 12 - Evolução da quota de energias de fontes renováveis no consumo final bruto de energia em Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A nível setorial, em 2018 a quota de renováveis no setor da eletricidade (FER-E) foi de 52,2 %, verificando-se uma redução de 2,0 p.p. face a 2017, no setor do aquecimento e arrefecimento (FER-A&A) foi de 41,2 %, verificando-se um aumento de 0,2 p.p. face a 2017, e no setor dos transportes (FER-T) foi de 9,0 %, verificando-se um aumento de 1,1 p.p. face a 2017. A figura seguinte ilustra a evolução da quota de fontes de energia renováveis no consumo final bruto de energia por setor entre 2005 e 2018.
 
 Figura 13 - Evolução da quota de energias de fontes renováveis no consumo final bruto de energia em Portugal por setor [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.5. EFICIÊNCIA ENERGÉTICA
 
@@ -511,7 +737,7 @@ Para o horizonte 2020, e à luz da [Diretiva 2012/27/UE](https://data.europa.eu/
 
 Figura 14 - Evolução da meta de Portugal em matéria de eficiência energética para 2020 (ktep) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.6. INVESTIGAÇÃO, DESENVOLVIMENTO E COMPETITIVIDADE
 
@@ -519,13 +745,13 @@ Em Portugal, o investimento em investigação e desenvolvimento (I&D) ao longo d
 
 Figura 15 - Níveis de investimento em investigação e desenvolvimento em relação ao produto interno bruto por setor de execução [FONTE: DGEEC]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 O registo de patentes em Portugal demonstra que existe competência nacional relativamente a tecnologias hipocarbónicas. Deste tipo de tecnologias foram excluídas as tecnologias ligadas à fusão e fissão nuclear por não serem consideradas no âmbito da política energética nacional atual e futura. Os resultados são apresentados na tabela seguinte:
 
 Tabela 1 - Registo de patentes em Portugal [Fonte: INPI, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.7. OUTROS INDICADORES
 
@@ -535,27 +761,27 @@ Em 2018 a dependência energética situou-se em 77,9 % (75,9 % incluindo o contr
 
 Figura 16 - Evolução da dependência energética externa de Portugal [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A intensidade energética da economia em energia primária em 2018 registou um valor de 122 tep/M(euro)'2011, verificando-se uma redução de 5 % face a 2017 e uma redução de 22 % face a 2005, ano que a intensidade energética atingiu o valor mais elevado dos últimos anos (156 tep/M(euro)'2011). A partir de 2008 é patente um desacoplamento entre o CEP e o PIB.
 
 Figura 17 - Evolução da intensidade energética da economia em energia primária em Portugal (tep/M(euro)'2011) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 18 - Evolução do consumo de energia primária e do produto interno bruto em Portugal (2000 = 100) [Fonte: DGEG, INE, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Relativamente à intensidade energética da economia em energia final, em 2018 registou um valor de 89 tep/M(euro)'2011, uma redução de 1 % face a 2017 e uma redução de 21 % face a 2005, ano que a intensidade energética atingiu o valor mais elevados dos últimos anos (112 tep/M(euro)'2011). De igual forma, verifica-se a partir de 2008 um desacoplamento entre o CEF e o PIB.
 
 Figura 19 - Evolução da intensidade energética da economia em energia final em Portugal (tep/M(euro)'2011) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 20 - Evolução do consumo de energia final e do produto interno bruto em Portugal (2000 = 100) [Fonte: DGEG, INE, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.8. SETOR ELÉTRICO
 
@@ -565,11 +791,11 @@ Na componente renovável da produção de eletricidade, a hídrica contribui com
 
 Figura 21 - Evolução da produção bruta de eletricidade e do saldo importador em Portugal (GWh) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 22 - Evolução da produção bruta de eletricidade em Portugal (GWh) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que diz respeito à capacidade instalada para a produção de eletricidade, Portugal registou em 2018 um total de cerca de 22 GW, dos quais 13 984 MW, que correspondem a cerca de 64 %, dizem respeito a tecnologias renováveis, verificando-se um aumento de 1,6 % face a 2016, equivalente a mais 221 MW, principalmente em resultado da entrada em exploração de nova capacidade eólica, solar e biomassa. Do total da capacidade instalada, cerca de 33 % (7 098 MW) corresponde às centrais hidroelétricas, que inclui uma importante componente de bombagem reversível que permite absorver excesso de produção e armazenar energia renovável e que representa cerca de 40 % da capacidade total hídrica, a eólica representa 25 % (5 368 MW), cerca de 23 % (4 984 MW) de gás natural, 9 % (1 871 MW) de carvão, 4 % (810 MW) de biomassa(9), cerca de 3 % (673 MW) de solar, 5 % (997 MW) de outros não renováveis(10) e 0,2 % (34 MW) de outras renováveis(11).
 
@@ -577,23 +803,23 @@ Na última década, 2009-2018, a capacidade total instalada para a produção de
 
 Figura 23 - Evolução da capacidade instalada para a produção de eletricidade em Portugal por tipo de fonte (MW) [Fonte: DGEG]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que diz respeito às interligações de eletricidade da Rede Nacional de Transporte (RNT), Portugal conta atualmente com 6 linhas a 400 kV e 3 linhas a 220 kV que interligam Portugal e Espanha. A capacidade de interligação elétrica entre os dois países tem evoluído favoravelmente nos últimos anos de forma a dar resposta às solicitações do Mercado Ibérico de Eletricidade, que se traduz numa maior capacidade de interligação disponível para fins comerciais. Em 2018 registou-se um valor médio de capacidade comercial de interligação na ordem dos 3 050 MW no sentido Portugal-Espanha e na ordem dos 2 230 MW no sentido Espanha-Portugal, como mostra o gráfico seguinte.
 
 Figura 24 - Evolução do valor médio anual da capacidade Comercial de Interligação Portugal-Espanha (MW) [Fonte: REN]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 25 - Interligações elétricas na Península Ibérica [Fonte: REN, REE]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que diz respeito ao nível de interligação para dar cumprimento ao objetivo estabelecido ao nível da União Europeia, que passa por atingir 10 %(12) de interligações elétricas em 2020 e 15 % em 2030, Portugal tem registado uma evolução favorável. No entanto, e apesar de Portugal registar uma evolução favorável no que respeita ao nível de interligação com Espanha, o mesmo não sucede em relação ao nível de interligação entre a Península Ibérica e França que se encontra ainda muito longe de atingir 10 % em 2020, como mostra a tabela seguinte. A ambição de Portugal e Espanha em assegurar uma efetiva e robusta ligação ao mercado europeu de energia está comprometida devido ao estrangulamento que se continua a verificar na interligação entre Espanha e França através dos Pirenéus, que conduz a uma operação da Península em modo "ilha elétrica", com as dificuldades técnicas e os desafios inerentes a uma grande penetração de geração renovável e, por consequência, aos objetivos últimos do PNEC, que tal situação confere.
 
 Figura 26 - Rácio entre a capacidade de interligação e a capacidade instalada no sistema eletroprodutor entre Portugal-Espanha e a Península Ibéria - França [Fonte: REN, REE, análise DGEG](13)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.4.9. IMPOSTOS E TAXAS COM RELEVÂNCIA AMBIENTAL
 
@@ -603,11 +829,11 @@ Entre 2017 e 2018, o imposto sobre os produtos petrolíferos e energéticos perd
 
 Figura 27 - Evolução dos impostos com relevância ambiental [Fonte: INE, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 28 - Impostos com relevância ambiental por categoria em 2018 [Fonte: INE, I. P.]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De acordo com a informação disponível para 2017, o peso destes impostos no total da receita fiscal incluindo contribuições sociais foi superior em Portugal (7,6 %), comparativamente com a média da União Europeia (6,1 %). Nesse mesmo ano, o peso dos impostos com relevância ambiental no PIB em Portugal (2,6 %) foi superior ao da média da União Europeia-28 (2,4 %).
 
@@ -651,7 +877,7 @@ Os fatores de adicionamento, a evolução da taxa de carbono (preço de referên
 
 Figura 29 - Fatores de adicionamento, evolução da taxa de carbono e valores de adicionamento por tipo de combustível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Análise da despesa fiscal em sede de isenções de imposto sobre produtos petrolíferos e energéticos (ISP)
 
@@ -665,13 +891,13 @@ Assumem também um peso importante as isenções atribuídas ao gasóleo agríco
 
 Figura 30 - Repartição da despesa fiscal em sede de Imposto sobre os produtos petrolíferos e energéticos por rubrica em 2017 (euros) [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Quanto à evolução da despesa fiscal, verifica-se um aumento em 50 % de 2016 para 2017, de cerca de 293 M(euro) para 441 M(euro). Este aumento é influenciado por um acréscimo significativo de despesa na rubrica produção de eletricidade, em cerca de 140 %, das isenções associadas ao CELE e SGCIE com um acréscimo em cerca de 18 % e das isenções associadas ao gasóleo profissional no transporte de mercadorias. O significativo aumento da produção de eletricidade a partir de carvão, que se deveu essencialmente ao período de seca que conduziu a uma redução da produção hídrica e o consequente aumento do recurso à produção com base no carvão, é uma das principais causas deste aumento de despesa fiscal.
 
 Figura 31 - Evolução da despesa fiscal em sede de Imposto sobre os produtos petrolíferos e energéticos [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Estas isenções aplicam-se a um conjunto de combustíveis fósseis como é o caso do coque de carvão, hulha, linhite, fuelóleo, coque de petróleo, gás natural, gasóleo, entre outros.
 
@@ -697,11 +923,11 @@ A despesa fiscal associada às isenções de ISP de combustíveis utilizados na 
 
 Figura 32 - Despesa fiscal com isenções de imposto sobre os produtos petrolíferos e energéticos e de taxa de carbono por tipo de produto associadas à produção de eletricidade em 2017 [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 33 - Repartição da despesa fiscal com isenções de imposto sobre os produtos petrolíferos e energéticos por tipo de produto associadas à produção de eletricidade em 2017 [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Processos eletrolíticos, metalúrgicos e mineralógicos
 
@@ -709,11 +935,11 @@ A despesa fiscal associada às isenções de ISP de combustíveis utilizados nos
 
 Figura 34 - Despesa fiscal com isenções de imposto sobre os produtos petrolíferos e energéticos e de taxa de carbono por tipo de produto associadas processos metalúrgicos e mineralógicos (CELE + SGCIE) em 2017 (euros) [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 35 - Repartição da despesa fiscal com isenções de imposto sobre os produtos petrolíferos e energéticos por tipo de produto associadas processos metalúrgicos e mineralógicos (CELE + SCGIE) em 2017 (euros) [Fonte: Autoridade Tributária e Aduaneira]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 1.5 POLÍTICAS E MEDIDAS ATUAIS
 
@@ -959,7 +1185,7 @@ No horizonte de 2030, importa desde já traçar uma estratégia e um conjunto de
 
 Figura 36 - Visão estratégica de Portugal para o horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Embora todos os setores de atividade contribuam para a redução de emissões, na próxima década é o setor da energia aquele que dará um maior contributo, assumindo na transição energética um papel especialmente relevante no contexto da transição para uma sociedade descarbonizada. A estratégia de Portugal para o horizonte 2030 assenta assim numa combinação de diversas opções de políticas e medidas bem como de opções tecnológicas, procurando encontrar sinergias entre as várias opções. O caminho para uma economia neutra em carbono exige uma ação conjunta em diversas áreas estratégicas, com prioridade à eficiência energética, reforço da diversificação de fontes e vetores de energia, aumento da eletrificação, reforço e modernização das infraestruturas, desenvolvimento das interligações, estabilidade do mercado e investimento, reconfiguração e digitalização do mercado, incentivo à investigação e inovação, promoção de processos, produtos e serviços de baixo carbono e melhores serviços energéticos e uma escolha informada dos consumidores.
 
@@ -1079,13 +1305,13 @@ Para dar corpo à visão estratégica de Portugal e garantir o cumprimento das m
 
 Figura 37 - Objetivos nacionais para o horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Estes oito objetivos nacionais definidos para o horizonte 2030 concorrerem positivamente para a concretização da estratégia das cinco dimensões do PNEC 2030, sendo que cada objetivo pode contribuir para mais do que uma dimensão, de acordo com a matriz que se apresenta de seguida.
 
 Figura 38 - Relação entre os objetivos nacionais e as dimensões do Plano Nacional Energia e Clima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 O nível de ambição demonstrado neste plano mantém-se o mesmo que o definido na versão draft submetida à Comissão Europeia no final de 2018, mas importa realçar que esta versão que agora se apresenta, constitui um avanço muito significativo face à versão draft, uma vez que identifica e densifica as políticas e medidas associadas a cada um dos objetivos estratégicos definidos para dar cumprimento às metas e objetivos estabelecidos para o horizonte 2030. Para além da identificação das políticas e medidas, a par da eletrificação que se mantém como um dos pilares fundamentais da descarbonização no longo prazo, ganham mais relevância os gases renováveis (hidrogénio e biometano) dado o seu importante papel para potenciar a descarbonização de setores da economia que atualmente dispõem de poucas opções tecnológicas alternativas e onde a eletrificação no curto-médio prazo poderá não ser a melhor opção em termos de custo-benefício.
 
@@ -1101,7 +1327,7 @@ Assim, para o período compreendido entre 2021 e 2030, e não obstante as flexib
 
 Tabela 2 - Limite de emissões nos setores não-CELE (Mt)(20)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No âmbito do [Regulamento (UE) 2018/841](https://data.europa.eu/eli/reg/2018/841/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo à inclusão das emissões e das remoções de gases com efeito de estufa resultantes das atividades relacionadas com o uso do solo, com a alteração do uso do solo e com as florestas no quadro relativo ao clima e à energia para 2030 (conhecido como Regulamento LULUCF), foram estabelecidos os compromissos dos EM para o setor de uso do solo, alteração do uso do solo e florestas (LULUCF) que contribuem também para atingir os objetivos do AP e cumprir a meta da União Europeia de redução das emissões de GEE para o período de 2021 a 2030.
 
@@ -1123,29 +1349,29 @@ Em dezembro de 2018, Portugal submeteu à Comissão Europeia, o draft relativo a
 
 Tabela 3 - Meta de redução de emissões de CO(índice 2eq) do setor não-CELE (s\ LULUCF) face a 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Não obstante os referidos compromissos assumidos a nível comunitário, alcançar a neutralidade carbónica em 2050, implica uma redução de emissões significativa, assente numa trajetória de redução de -45 % a -55 % em 2030, -65 % a -75 % em 2040 e -85 % a -90 % em 2050, face aos níveis de 2005, o que representa um conjunto de desafios verdadeiramente transformacionais do modo como se encaram alguns dos aspetos mais determinantes da vida em sociedade, em particular no que diz respeito aos padrões de produção e consumo, à relação com a produção e utilização de energia, à forma como se pensam as cidades e os espaços de habitação, trabalho e lazer à forma como nos deslocamos e como se encaram as necessidades de mobilidade. Assim, para o horizonte do presente PNEC, importam ainda as seguintes metas nacionais.
 
 Tabela 4 - Meta nacional de redução de emissões de CO(índice 2eq) (sem LULUCF) face a 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A figura seguinte ilustra a trajetória de redução das emissões totais de GEE para o horizonte 2030, em linha com o compromisso de alcançar a neutralidade carbónica em 2050.
 
 Figura 39 - Evolução das emissões de GEE e metas de redução estabelecidas no horizonte 2030 (Mt CO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Como já referido, a evolução das emissões nacionais em diferentes trajetórias de neutralidade carbónica aponta para uma descarbonização muito significativa da economia nacional no horizonte 2030, pelo que será necessário assegurar que os vários setores de atividade contribuam para este objetivo. Neste sentido, todos os setores possuem potencial para reduzir emissões, embora o mesmo não seja igual para todos os setores e GEE, estando em grande medida muito dependente do grau de maturidade das tecnologias e da sua custo-eficácia. Assim, na próxima década prevê-se que a descarbonização seja mais acentuada na produção de eletricidade, nos transportes e nos edifícios. A nível setorial foram em consonância definidas as seguintes metas nacionais para o horizonte 2030 (setores não-CELE).
 
 Tabela 5 - Metas nacionais setoriais de redução de emissões de CO(índice 2) face a 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 40 - Evolução das emissões de gases com efeito de estufa por setor e metas de redução estabelecidas no horizonte 2030 (Mt CO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Energias renováveis
 
@@ -1153,7 +1379,7 @@ Em matéria de energias renováveis, Portugal tem fortes argumentos para continu
 
 Tabela 6 - Trajetória indicativa e contributo de Portugal para a meta vinculativa da União Europeia em 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A meta de Portugal para a quota de energias renováveis no consumo final bruto de energia para 2030 reflete dois aspetos essenciais: i) o caminho já percorrido na promoção das FER que colocam Portugal numa posição de liderança a nível europeu; e ii) o potencial existente.
 
@@ -1161,19 +1387,19 @@ Em particular, foram definidos os principais drivers para alcançar uma quota de
 
 Figura 41 - Evolução da quota de energia de fontes renováveis no consumo final bruto de energia no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A nível setorial, e com vista ao cumprimento da meta global de FER e tendo como base os principais drivers já definidos para alcançar esta meta, foram definidas as seguintes metas e objetivos nacionais para o horizonte 2030.
 
 Tabela 7 - Trajetórias estimadas para a quota setorial de energia renovável no consumo final de energia no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Relativamente ao setor da eletricidade perspetiva-se um forte impulso à eletrificação do consumo associado à descarbonização da produção através do reforço da exploração do potencial de energias renováveis com especial enfoque nas tecnologias solar e eólica onshore/offshore, em paralelo com o fomento à produção distribuída, promoção do armazenamento, reforço e otimização das redes de transporte e distribuição e promoção de projetos-piloto (solar térmico concentrado, geotermia estimulada e ondas). Como já referido, Portugal dispõe ainda de um enorme potencial para explorar os recursos endógenos para a produção de eletricidade, pelo que, para garantir o cumprimento das metas, o objetivo para o setor da eletricidade passa pelo reforço da exploração desse potencial.
 
 Figura 52 - Evolução da quota de energia de fontes renováveis na eletricidade no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Neste contexto, relativamente à produção de eletricidade, importa salientar, em particular:
 
@@ -1207,25 +1433,25 @@ Face ao cenário perspetivado para evolução do setor eletroprodutor em Portuga
 
 Tabela 8 - Perspetivas de evolução da capacidade instalada para a produção de eletricidade por tecnologia em Portugal no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Nota. - Não inclui Cogeração.
 
 Figura 42 - Estimativa de capacidade instalada para a produção de eletricidade por tecnologia em Portugal no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Tendo em conta o cenário perspetivado para evolução do setor eletroprodutor em Portugal, é expectável que as renováveis contribuam com, pelo menos, 80 % da produção de eletricidade no horizonte 2030, com destaque para a hídrica com cerca de 22 %, eólica com cerca de 31 % e o solar com cerca de 27 %, que será a tecnologia que apresentará o maior crescimento na próxima década.
 
 Figura 43 - Estimativa de evolução da produção de eletricidade por tecnologia em Portugal no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que respeita ao setor do aquecimento e arrefecimento perspetiva-se que o peso dos consumos de combustíveis a nível setorial diminua dado o reforço das medidas de EE e de eletrificação dos consumos. Neste contexto, será possível aumentar a percentagem de utilização de energias renováveis através de maior utilização de biomassa e gases renováveis, em particular o hidrogénio e o biometano.
 
 Figura 44 - Evolução da quota de energia de fontes renováveis no aquecimento e arrefecimento no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Aumentar a incorporação de renováveis no setor do aquecimento e arrefecimento, e dessa forma cumprir o objetivo para este setor, passará por:
 
@@ -1245,7 +1471,7 @@ Face ao cenário perspetivado para evolução do setor do aquecimento e arrefeci
 
 Tabela 9 - Perspetivas de evolução do consumo de renováveis no setor do aquecimento e arrefecimento por tecnologia em Portugal no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Nota. - Exclui toda a eletricidade e usos de combustíveis para movimentação nos setores não-transportes.
 
@@ -1253,7 +1479,7 @@ Quanto ao setor dos transportes perspetiva-se um enfoque na mobilidade sustentá
 
 Figura 45 - Evolução da quota de energia de fontes renováveis nos transportes no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Aumentar a incorporação de renováveis no setor dos transportes, e dessa forma garantir o cumprimento da meta para este setor, passará por:
 
@@ -1265,7 +1491,7 @@ Face ao cenário perspetivado para evolução do setor dos transportes em Portug
 
 Tabela 10 - Perspetivas de evolução do consumo de renováveis no setor dos transportes por tecnologia em Portugal no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 2.2.2. EFICIÊNCIA ENERGÉTICA
 
@@ -1275,19 +1501,19 @@ Da mesma forma que Portugal demonstra um elevado grau de ambição e determinaç
 
 Tabela 11 - Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de 32,5 % de eficiência energética da União Europeia em 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A estimativa de CEP no horizonte 2030 permite perspetivar o cumprimento da meta de redução do consumo de energia de 35 %, face às projeções do Cenário de Referência da União Europeia de 2007 (modelo PRIMES), constituindo este o contributo indicativo de Portugal em matéria de eficiência energética para o cumprimento da meta de 32,5 % de eficiência energética da União Europeia em 2030.
 
 Figura 46 - Trajetória indicativa para o contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de 32,5 % de eficiência energética da União em 2030 (em consumo de energia primária sem usos não energéticos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Adicionalmente, decorre do artigo 7.º da EED que todos os Estados-Membros deverão obter economias cumulativas de energia final, equivalentes a novas economias anuais, de 1 janeiro de 2021 a 31 de dezembro de 2030, de 0,8 % do consumo médio anual de energia final dos últimos três anos anteriores a 1 de janeiro de 2019. Para o efeito contabilizou-se a média do CEF relativa aos anos 2014 a 2016, resultando num total de poupanças na ordem de 6 739 682 tep no período 2021-2030. A tabela seguinte ilustra as economias acumulada de energia a atingir no período 2021-2030 por força do referido artigo.
 
 Figura 47 - Quantidade acumulada de economias de energia a atingir no período 2021-2030 que decorre do artigo 7.º da [Diretiva 2012/27/UE](https://data.europa.eu/eli/dir/2012/27/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Garantir o cumprimento das metas e objetivos na área da eficiência energética, passará por:
 
@@ -1313,7 +1539,7 @@ Neste sentido, e prosseguindo com a atual trajetória de redução da dependênc
 
 Tabela 12 - Objetivo de Portugal para a redução da dependência energética no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 2.2.4. MERCADO INTERNO
 
@@ -1323,7 +1549,7 @@ Neste contexto, considera-se igualmente relevante a cooperação regional, a qua
 
 Tabela 13 - Meta de Portugal para as interligações elétricas no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 2.2.5. INVESTIGAÇÃO, INOVAÇÃO E COMPETITIVIDADE
 
@@ -1333,7 +1559,7 @@ O governo português assumiu recentemente o compromisso de investimento global e
 
 Tabela 14 - Objetivos de financiamento nacionais para a investigação e desenvolvimento no setor público e no setor privado (% do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A estratégia Europeia em matéria de I&D&I para a área da energia, incluindo o European Strategic Energy Technology Plan (SET Plan(23)), o Horizon Europe(24) (atual proposta de programa que sucederá ao Horizon 2020) e o Plano de Investimento para a Europa (Plano Junker(25)), integram objetivos em matéria de I&D na área da energia para o horizonte temporal 2020-2030. A participação e cooperação de Portugal no âmbito do SET Plan tem-se demonstrado benéfica no sentido de conjugar esforços para objetivos comuns de penetração de novas tecnologias e de responder a desafios conjuntos a nível de ações disruptivas. Portugal tem participado a nível dos vários grupos de implementação e atividades, considerando importante a colaboração entre grupos especialistas no desenvolvimento de ações de coordenação e outras formas de colaboração para o desenvolvimento de projetos orientados, com o objetivo de se virem a cumprir metas ambiciosas no horizonte 2030.
 
@@ -1349,7 +1575,7 @@ O processo inclusivo e dinâmico de desenvolvimento das agendas, envolvendo peri
 
 Figura 48 - Narrativa global da transição energética 2021-2030 rumo à neutralidade carbónica até 2050
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 3. POLÍTICAS E MEDIDAS PLANEADAS
 
@@ -1357,7 +1583,7 @@ Apresentam-se de seguida, e de forma sistematizada, as linhas de atuação assoc
 
 São, depois, caracterizadas em maior detalhe as linhas de atuação e as medidas de ação. Para o efeito, são desenvolvidas fichas por cada linha de atuação que contemplam a sua descrição, a identificação dos principais setores abrangidos, as medidas de ação que contribuem para cada linha de atuação e o respetivo horizonte temporal de aplicação, as principais relações com outros instrumentos estratégicos de política pública e que enquadram as medidas consideradas, as fontes de financiamento indicativas e uma pré-identificação das entidades responsáveis pelo desenvolvimento e aplicação das medidas. De notar que grande parte das medidas deverá ter continuidade no tempo e por isso o horizonte temporal indicado é igual ao presente do plano. Em cada linha de atuação é ainda identificado o contributo para cada uma das dimensões do PNEC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Para os 8 objetivos definidos que darão resposta às metas estabelecidas para Portugal no horizonte 2030, foram estabelecidas 58 linhas de atuação e um total 206 medidas de ação, repartidas da seguinte forma: objetivo 1 (9 linhas de ação e 33 medidas de ação), objetivo 2 (6 linhas de ação e 15 medidas de ação), objetivo 3 (8 linhas de ação e 30 medidas de ação), objetivo 4 (9 linhas de ação e 30 medidas de ação), objetivo 5 (8 linhas de ação e 41 medidas de ação), objetivo 6 (8 linhas de ação e 27 medidas de ação) objetivo 7 (5 linhas de ação e 13 medidas de ação) e objetivo 8 (5 linhas de ação e 17 medidas de ação). As linhas de atuação e respetivas medidas de ação para dar cumprimento a cada um dos objetivos são as que se apresentam seguidamente.
 
@@ -1911,11 +2137,11 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -2357,11 +2583,11 @@ Para dar cumprimento a este objetivo, contribuem não só as medidas de ação d
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -2633,11 +2859,11 @@ Portugal ambiciona uma transição dos combustíveis fósseis para novas formas 
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -3047,11 +3273,11 @@ A garantia da segurança do abastecimento deve ser assegurada através da adoç�
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -3487,13 +3713,13 @@ Uma trajetória rumo à transição energética e à neutralidade carbónica pas
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 *Contribui em grande medida para o cumprimento desta meta
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -3939,11 +4165,11 @@ A gestão agroflorestal eficiente é essencial para o futuro da floresta portugu
 
 De forma a monitorizar o cumprimento deste objetivo e das metas que lhe estão subjacentes, serão utilizados os seguintes indicadores e respetivos metas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -4321,7 +4547,7 @@ Desenvolver uma indústria inovadora, competitiva e de baixo carbono será essen
 
 De forma a acompanhar a evolução deste objetivo, estão propostos os seguintes indicadores complementares de acompanhamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -4545,7 +4771,7 @@ Deve assegurar-se que o processo de descarbonização e de transição energéti
 
 De forma a acompanhar a evolução deste objetivo, serão utilizados os seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 De seguida apresentam-se em mais detalhe as linhas de atuação e respetivas medidas de ação para dar cumprimento a este objetivo:
 
@@ -4827,7 +5053,7 @@ Também no que se refere à evolução dos custos tecnológicos, ambas as modela
 
 Tabela 15 - Principais pressupostos utilizados na modelação do sistema energético nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 4.2. PRINCIPAIS RESULTADOS
 
@@ -4837,15 +5063,15 @@ Em termos de vetores energéticos, e por via do descomissionamento das centrais 
 
 Figura 49 - Estimativa de evolução do consumo de energia primária no horizonte 2030 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 50 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2030 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 51 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No que respeita às projeções para a evolução do consumo total de energia final para o horizonte 2030, é expectável que, face às políticas e medidas previstas implementar no horizonte 2020-2030, nomeadamente na eficiência energética e na eletrificação, o consumo prossiga numa trajetória decrescente que se poderá traduzir numa tcma entre -0,4 % e -0,8 %.
 
@@ -4857,15 +5083,15 @@ Como já referido anteriormente, face ao adiantar dos trabalhos e os timings par
 
 Figura 52 - Estimativa de evolução do consumo de energia final no horizonte 2030 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 53 - Estimativa de evolução do consumo de energia final por tipo de fonte no horizonte 2030 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Figura 54 - Estimativa de evolução do consumo de energia final por tipo de fonte no horizonte 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No âmbito dos trabalhos do RNC2050, foi desenvolvido um exercício de projeção das trajetórias de atividade e respetivas emissões de GEE para os setores de atividade correspondentes, ao sistema energético (incluindo setores de produção, transporte e consumo de energia), aos gases fluorados, à agricultura, às florestas e outros usos do solo e aos resíduos e águas residuais. Este exercício compreendeu ainda uma avaliação com igual detalhe para os anos de 2030 e 2040, que permitiu delinear novas trajetórias de emissões consentâneas com o objetivo nacional de atingir a neutralidade carbónica e 2050.
 
@@ -4881,7 +5107,7 @@ As metodologias para a estimativa de emissões de GEE seguida é a constante no 
 
 Tabela 16 - Projeção de emissões de gases com efeito de estufa por setor (kt CO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Cenário políticas existentes (WEM):
 
@@ -4917,7 +5143,7 @@ Neste contexto, é ainda preciso reforçar o papel de sumidouro das florestas e 
 
 Tabela 17 - Potencial de reduções de emissões de gases com efeito de estufa face a 2005 (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Este cenário de neutralidade serviu ainda para informar as novas metas de redução de emissões de GEE, definidas para o horizonte 2030, 2040 e 2050, passando as mesmas a ser de -45 % a -55 % em 2030, -65 % a -75 % em 2040, e de -85 % a -90 % em 2050, em relação a 2005, tal como referido anteriormente.
 
@@ -4951,7 +5177,7 @@ Ao Estado caberá ainda um papel fundamental na definição e adaptação do sis
 
 Tabela 18 - Estimativa do volume de investimento global e adicional para a neutralidade no setor energético no período 2016-2040 (1 000 M(euro) de 2017; valores consideram taxas de desconto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 No setor da produção de energia elétrica, a redução gradual do uso de combustíveis fósseis e o aumento de procura causado pela eletrificação crescente da economia levam à necessidade de se proceder a investimentos significativos no aumento da capacidade renovável (tendo ainda em conta que a capacidade existente vai também atingindo o seu tempo de vida útil necessitando de ser substituída). Antecipa-se assim neste setor que mais de metade do investimento necessário ocorra na instalação de capacidade solar, numa primeira fase mais focada em centrais solares centralizadas e numa segunda fase em produção descentralizada (ex. telhados de edifícios residenciais e de serviços) de energia fotovoltaica e as comunidades de energia.
 
@@ -5147,7 +5373,7 @@ Verifica-se assim que a economia circular pode induzir a uma redução significa
 
 Figura 66 - Transições induzidas pela economia circular (Fonte: RNC2050)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 6. FINANCIAMENTO
 
@@ -5427,7 +5653,7 @@ Nesta lógica, o modelo proposto visa, num primeiro nível, garantir o compromis
 
 Figura 55 - Panorama geral da estrutura de governação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 A coordenação política do PNEC caberá à Comissão para a Ação Climática, que irá atuar como estrutura de promoção e tomada de decisão ao nível político. Para o efeito será necessário: (i) proceder à redenominação da CA2; (ii) determinar que é a esta Comissão que cabe a promoção, a supervisão e o acompanhamento do PNEC; (iii) adequar em conformidade o Despacho n.º 2873/2017, publicado no Diário da República, 2.ª série, n.º 69, de 6 de abril. Deve ser assegurada uma articulação próxima com outras comissões interministeriais, dada a relevância do tema em matéria de política europeia de desenvolvimento e financiamento, bem como para o cumprimento dos compromissos nacionais como os ODS. Ficará assim assegurado o acompanhamento político, serão definidas as prioridades e validadas as responsabilidades e prazos de execução.
 
@@ -5453,7 +5679,7 @@ Estas sessões visaram difundir as propostas constantes do RNC e do PNEC e fomen
 
 Figura 56 - Sessões de apresentação descentralizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13300/0000200158.pdf)
 
 Workshops temáticos
 
@@ -5576,3 +5802,5 @@ A Avaliação Ambiental Estratégica culminou com a emissão da declaração amb
 (38) Disponível em: http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7181
 
 (39) Linhas de orientação para acelerar o financiamento sustentável em Portugal, julho de 2019, disponível em https://www.fundoambiental.pt/ficheiros/b1-linhas_orientacao_financiamento_sustentavel_ptvf-pdf.aspx
+
+113380611

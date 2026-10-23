@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15100/0002700028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/87/2023/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2023-216714703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29f64019a4c461f881a7a54d8578e9e961d8693e41348d220092f0f550a5c8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b696c526563d590f7b5486f6053107d199c28f2c009c3d38f6889126f50086d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Conselho de Ministros
 - Conselho Nacional de Ética para as Ciências da VIDA
-- Nomeação
 - Governo XXIII
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24/2009/05/29/p/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2021/07/02/p/dre
+- type: cites
+  target: pt:dre:166296480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:19Z'
   warnings: []
   errors: []
 ---
@@ -133,3 +141,5 @@ Coordena o projeto financiado pelo EEA Grants, GE-HEI - Igualdade de Género nas
 É responsável por um dos Workpackages do projeto ALLINTERACT - Widening and diversifying citizen engagement in science, financiado pelo Horizonte2020, e dirige o Gender Committee.
 
 É autora, coautora e editora de mais de 20 livros e 80 capítulos de livros e artigos em revistas científicas nacionais e internacionais em várias línguas.
+
+116739829

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/04400/0000600012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/10/2020/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2020-129793719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9889be073490e2b57c63acba660cc5c19d7a8ebf8fa5beb0f080331e98213d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6755511b6895fe8f1a688a1f6662b8c759e2f8a1e40782a8aff9f3c0640a14c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
 subjects:
 - Adjudicação
 - Administração Regional de Saúde de Lisboa e VALE do TEJO
-- Vila Franca de Xira
+- Cascais
 - Comissão de Acompanhamento
 - Conselho de Ministros
 - Definição de Competências
 - Entidade Reguladora da Saúde
 - Equipa de Projecto
-- Política de Saúde
-- Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
 - Fiscalização
-- Setor Empresarial do Estado
+- Gestão de Recursos Humanos
 - Gestão Hospitalar
 - Hospital Central
 - Integração de Trabalhadores
 - Loures
+- Ministério da Saúde
 - Nomeação
 - Parceria Público-Privada
 - Parcerias Saúde
+- Política de Saúde
 - Presidente
-- Ministério da Saúde
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
 - Setor Privado
 - Setor Público
-- Gestão de Recursos Humanos
-- Cascais
 - Unidade Técnica de Acompanhamento de Projetos
+- Vila Franca de Xira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -109,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
+- type: cites
+  target: pt:dre:122446605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126870686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:18:19Z'
   warnings: []
   errors: []
 ---
@@ -318,3 +338,5 @@ d) Determinação dos procedimentos contratualmente aplicáveis para a monitoriz
 4 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação, com exceção do previsto nos n.os 3.7 a 3.9, que produz efeitos desde o dia 13 de fevereiro de 2020, e no n.º 3.10, que produz efeitos desde o dia 26 de outubro de 2019.
 
 Presidência do Conselho de Ministros, 20 de fevereiro de 2020. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+
+113072447

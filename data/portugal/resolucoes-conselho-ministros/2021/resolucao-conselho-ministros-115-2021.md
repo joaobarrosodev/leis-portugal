@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/115/2021/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2021-169997568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42f4e99f0940c6555a30353a4cbf6700e56c80f7a2d1995bb36820543dc8fb6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f1d21cb00f1c9728d5c1c36b4dcafab457a61526cc5ee9ea48a06b25a694d73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional
-- Programa Comunitário Leonardo da Vinci
-- Programa Comunitário Sócrates
+- Agência Nacional para a Gestão do Programa de Aprendizagem ao Longo da VIDA
+- Agência Nacional para a Gestão do Programa Eramus Juventude em Acção
 - Agência Nacional para o Programa Juventude
 - Apoio Técnico
 - Auditoria
 - Autoridade Nacional
-- Financiamento
-- Inspeção Geral de Finanças
-- Formação Profissional
-- Juventude
-- Comissão de Acompanhamento
-- Agência Nacional para a Gestão do Programa Eramus Juventude em Acção
-- Educação
-- Equipa de Missão
-- União Europeia
-- Estrutura de Apoio Técnico
-- Fiscalização
-- Fundos CE
 - Comissão CE
+- Comissão de Acompanhamento
+- Desporto
+- Educação
 - Educação dos Adultos
+- Ensino Superior
+- Equipa de Missão
+- Estrutura de Apoio Técnico
+- Financiamento
+- Fiscalização
+- Formação Profissional
+- Fundos CE
+- Inspeção Geral de Finanças
 - Instituto Português do Desporto e Juventude
+- Juventude
 - Mandato
+- Mobilidade de Pessoal
 - Orçamento
 - Orgânica
+- Programa Comunitário Leonardo da Vinci
+- Programa Comunitário Sócrates
 - Programa Erasmus
-- Agência Nacional para a Gestão do Programa de Aprendizagem ao Longo da VIDA
 - Prorrogação de Prazo
-- Ensino Superior
-- Mobilidade de Pessoal
 - Subsídio
 - Trabalhador
-- Desporto
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:936526996:por
@@ -123,16 +123,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
+- type: cites
+  target: pt:dre:572634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:936526996:por
+  label: Revogada a presente resolução pelo(a) Decreto-Lei n.º 109/2025 - Diário da República n.º 185/2025, Série I de 2025-09-25,
+    nos termos do n.º 3 do artigo 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2025-936526996
+  date: '2025-09-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:20:42Z'
   warnings: []
   errors: []
 ---
@@ -264,3 +278,5 @@ c) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 22 - Determinar que a presente resolução reporta os seus efeitos a 1 de janeiro de 2021.
 
 Presidência do Conselho de Ministros, 12 de agosto de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+114506147

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21100/0002300032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/150/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/150-2024-893982648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af3edd7c9016ca76584f9e5e2032b37441d87789eed09c3aaa239fb8b4b77ac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae1ae0fb20b1c8a8b56c4c7f03a5c3d4b712999a10f0a08163b6725401b4219a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- BENS de Consumo
-- Energia Elétrica
-- Definição de Competências
-- Direcção Geral da Administração e do Emprego Público
-- Energia Hidroelétrica
 - Administração Pública
-- Informática
+- Agência Portuguesa do Ambiente
+- BENS de Consumo
+- Definição de Competências
 - Direção Geral de Energia e Geologia
-- Energia
+- Direcção Geral da Administração e do Emprego Público
 - ECO AP
 - Eficiência Energética
+- Energia
+- Energia Elétrica
+- Energia Hidroelétrica
+- Financiamento
+- Informática
 - Plataforma Eletrónica
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:104/2020
+  label: Altera, a partir de 31 de outubro de 2024, os n.ºs 1, 2, 4, 5, 9, 10, 11, 12 e o anexo, e revoga o n.º 3 e as subalíneas
+    vii) e viii) da alínea c) do n.º 2 do ponto iii e a parte B do anexo à Resolução do Conselho de Ministros n.º 104/2020,
+    de 24 de novembro, Diário da República n.º 229/2020, Série I
+  source: null
+  date: '2020-11-24'
 - type: cites
   target: celex:32021R1119
   label: null
@@ -125,16 +132,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8-a/2021/02/03/p/dre
+- type: cites
+  target: pt:dre:117714174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156295372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183641013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200837117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485640:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:30:58Z'
   warnings: []
   errors: []
 ---
@@ -469,7 +516,7 @@ c) Implementação dos procedimentos que permitam a interligação via webservic
 
 17 - [...]
 
-# Parte A
+Parte A
 
 [...]
 
@@ -483,6 +530,10 @@ c) Implementação dos procedimentos que permitam a interligação via webservic
 | A cada três anos, até 31 de julho do ano anterior à entrada em vigor do PED ECO.AP 2030 | Publicação de despacho definindo os objetivos e metas anuais para o triénio seguinte para o respetivo ministério/município que contribuam para alcançar os objetivos globais do ECO.AP 2030. | Ministérios e municípios |
 | A cada três anos, até 31 de dezembro do ano anterior à entrada em vigor do PED ECO.AP 2030 | Submissão do PED ECO.AP 2030 | GER da entidade da Administração Pública |
 
-# Parte B
+Parte B
 
 (Revogada.)"
+
+118284214
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:25px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:34px; } .Tbl12 { min-height:63px; } .Tbl13 { min-height:54px; } .Tbl14 { min-height:40px; }

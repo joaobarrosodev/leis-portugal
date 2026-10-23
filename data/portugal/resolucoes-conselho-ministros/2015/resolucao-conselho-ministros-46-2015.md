@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13200/0473104734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/46/2015/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2015-69773246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4896dfbef9d085aca91767af705aa1fcded448e6d695c57915821956becadc99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77d1aacf0b42ce573c933d0d8d17e7ff6389d8f510f863d227c50c2d542d63c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,29 +72,37 @@ subjects:
 - Asilo Político
 - Auditoria
 - Autoridade Central
-- Financiamento
-- Inspeção Geral de Finanças
-- Combate ao Terrorismo
-- Ministério da Administração Interna
-- Comissão Interministerial
-- Política de Cooperação
-- Segurança Interna
 - Combate ao Crime
-- Definição de Competências
-- Migração
-- União Europeia
-- Cooperação Policial
-- Fronteiras
-- Secretaria Geral
-- Fundos CE
+- Combate ao Terrorismo
 - Comissão CE
+- Comissão Interministerial
+- Cooperação Policial
+- Definição de Competências
+- Financiamento
+- Fronteiras
+- Fundos CE
+- Inspeção Geral de Finanças
+- Migração
+- Ministério da Administração Interna
 - Ministério da Justiça
+- Política de Cooperação
 - Regulamento CE
+- Secretaria Geral
+- Segurança Interna
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:896585442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:206478423:por
+  label: Determinada, a assunção dos direitos e as obrigações da Secretaria-Geral do Ministério da Administração Interna,
+    enquanto autoridade, do Programa FAMI 2014-2020, Fundo para o Asilo, a Migração e a Integração (FAMI), pela autoridade
+    de gestão do Programa FAMI do período de programação 2021-2027, quando aplicável, constante da presente Resolução, pelo(a)
+    Decreto-Lei n.º 5/2023 - Diário da República n.º 18/2023, Série I de 2023-01-25, nos termos dos seus n.ºs 7 e 8 do art.72.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2023-206478423
+  date: '2023-01-25'
 - type: cites
   target: celex:32012R0966
   label: null
@@ -135,16 +143,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/98/2012/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/98/2012/11/26/p/dre
+- type: cites
+  target: pt:dre:191286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66807913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:08:14Z'
   warnings: []
   errors: []
 ---

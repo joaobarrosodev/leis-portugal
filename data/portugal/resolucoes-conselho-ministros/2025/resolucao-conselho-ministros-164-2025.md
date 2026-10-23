@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/164/2025/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/164-2025-941845857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe73f7366e0923f91845aaead8dda29b9dfead52701da4e4195e5eca9e3777ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50cabe42794456b996ce7ce0c8d942506dbb21a74f4dee10c5388a9c1ae684fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito de Residência
+- Arrendamento Urbano para Habitação
 - Definição de Competências
+- Direito de Residência
 - Estamo-participações Imobiliárias
+- Habitação
 - Instituto da Habitação e da Reabilitação Urbana
 - Política de Habitação
 - Programa
-- Habitação
-- Renda de CASA
-- Arrendamento Urbano para Habitação
 - Programa de Arrendamento Acessível
+- Renda de CASA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2023/08/18/p/dre
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:10Z'
   warnings: []
   errors: []
 ---
@@ -221,3 +245,5 @@ Casal do Louro, na Amadora, propriedade do Estado Português;
 Terreno em Faro, CPU 080508-U-3067, propriedade da Rádio e Televisão de Portugal, S. A.;
 
 Complexo da antiga Manutenção Militar Norte, constituído pelos imóveis designados «PM 21/ Lisboa - Manutenção Militar na Rua do Grilo Ala Norte» e «PM 165/Lisboa Manutenção Militar na Quinta de Lafões», propriedade do Estado Português.
+
+119682607

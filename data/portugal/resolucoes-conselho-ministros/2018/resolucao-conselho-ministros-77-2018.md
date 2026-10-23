@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11300/0251702518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2018/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2018-115501071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38aaa6583dc75a08eb02608e02c8e1384155a0201e1aa4633e08c1b272e254b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c8cecd70c749067223ebf15472b13ea5839caa03d8e026b4c40ad4a23de8dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57/2017/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57/2017/05/04/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106970979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +120,7 @@ validation:
 
 Nos termos do disposto nos artigos 10.º e 12.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, conjugados com os n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, resulta que os membros do conselho diretivo do Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), são designados por resolução do Conselho de Ministros, sendo o presidente e um dos vogais propostos pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, e o outro vogal indicado pelos representantes eleitos por sufrágio universal e direto dos beneficiários titulares da ADSE, I. P., pelos representantes das organizações sindicais mais representativas dos trabalhadores das administrações públicas e pelos representantes das associações dos reformados e aposentados da administração pública com assento no conselho geral e de supervisão, para um mandato de três anos, renovável duas vezes por igual período.
 
-**O presidente e um dos vogais foram nomeados pela [Resolução do Conselho de Ministros n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2017-106970979), de 4 de maio.**
+O presidente e um dos vogais foram nomeados pela [Resolução do Conselho de Ministros n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-2017-106970979), de 4 de maio.
 
 Atendendo a que os membros do conselho geral e de supervisão previstos nas alíneas c), d) e e) do n.º 2 do artigo 14.º do [Decreto-Lei n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273), de 9 de janeiro, procederam à indicação do vogal para o conselho diretivo da ADSE, I. P., torna-se necessário proceder à designação deste vogal para completar o mandato em curso do atual conselho diretivo, que termina em 16 de março de 2020.
 
@@ -161,3 +177,5 @@ Membro do conselho geral e de supervisão da Caixa Económica Montepio Geral (20
 Consultor económico da Federação Nacional dos Sindicatos da Administração Pública e do Sindicato dos Trabalhadores da CGD (2015-2018);
 
 Membro do conselho consultivo da CGA (2017-2018).
+
+111404446

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23700/0001000012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/179/2024/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2024-899204481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d230f3ed98580303cf3a850bb7949ef53fc7cd89df642b507aa91570899e5af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37ff0c94f1ef65a98cea1995a0727b8f1463fa73733e10946443317abf071d9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CEJURE
+- Centro Jurídico do Estado
 - Diretor
 - Nomeação
 - Subdiretor
-- Centro Jurídico do Estado
-- CEJURE
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
+- type: cites
+  target: pt:dre:123610180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:35Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +145,7 @@ Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](h
 
 Assim:
 
-Nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, dos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, dos n.os2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
 1 - Designar Joaquim Pedro Formigal Cardoso da Costa, Virgínia Maria Barbosa da Silva e Raul Relvas Moreira respetivamente para os cargos de diretor e subdiretores do CEJURE, cujas idoneidade, experiência e competência profissionais são patentes nas notas curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
 
@@ -182,3 +206,5 @@ Doutoramento em Direito pela Faculdade de Direito da Universidade Católica Port
 3 - Atividade profissional:
 
 Assessor jurídico do Gabinete do Presidente do Tribunal Constitucional desde 2023, especialmente dedicado a matérias de direito administrativo, incluindo direito administrativo geral, direito dos contratos públicos, direito do emprego público e direito financeiro público. Docente convidado da Faculdade de Direito (Escola de Lisboa) da Universidade Católica Portuguesa desde 2018. Integra o corpo docente dos cursos de licenciatura em Direito e de mestrado em Direito Administrativo, sendo responsável por disciplinas nas áreas do Direito Administrativo e do Direito dos Contratos Públicos. Tem lecionado também em cursos de pós-graduação e noutros cursos de formação especializada. As suas áreas de investigação incluem o Direito Administrativo, o Direito Processual Administrativo, o Direito da Arbitragem Administrativa e o Direito dos Contratos Públicos, com publicação de artigos científicos e participação em obras coletivas. Foi orador em diversas conferências e tem colaborado nos concursos de ingresso no Centro de Estudos Judiciários como membro do júri das provas de avaliação da fase oral. Bolseiro do Católica Research Centre for the Future of Law - Centro de Estudos e Investigação em Direito da Faculdade de Direito da Universidade Católica Portuguesa entre 2019 e 2023, com vista à preparação da sua tese de doutoramento. Advogado, entre 2009 e 2019, na sociedade de advogados Linklaters LLP, onde fez o seu estágio e da qual foi associado e, posteriormente, consultor, tendo integrado os Departamentos de Resolução de Litígios e de Direito Público, especialmente dedicado a matérias de direito administrativo, incluindo nos domínios da composição de litígios perante tribunais estaduais e arbitrais e da prestação de assessoria especializada no âmbito da formação e da execução de contratos e de operações jurídicas em setores regulados. Integra a lista de árbitros do CAAD - Centro de Arbitragem Administrativa desde 2015 (atualmente com a menção de indisponível), tendo intervindo como árbitro único em litígios jurídico-administrativos.
+
+118435214

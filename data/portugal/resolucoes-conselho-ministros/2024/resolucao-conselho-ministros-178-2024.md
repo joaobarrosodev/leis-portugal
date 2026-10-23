@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23600/0000800008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/178/2024/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2024-898989648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 341412459b8d65fed98bf3e99f1523378a8e3824c910d6db26a4aab12bca9865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8dde5e5d8e32d7378b3a808c114d9627acce35302557922b0d9d77079d85a78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
 - Cidadão Estrangeiro
 - Prazo de Validade
 - Prorrogação de Prazo
 - Protecção Temporária
+- Residência de Estrangeiros
 - Titulo de Residência
 - Ucrânia
 - Vítima de Guerra
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:29-A/2022
+  label: Prorroga, com efeitos a 31 de dezembro de 2024, até 1 de março de 2025, a validade dos títulos de proteção temporária
+    concedidos ao abrigo da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, Diário da República n.º 42/2022,
+    2º Suplemento, Série I
+  source: null
+  date: '2022-03-01'
 - type: cites
   target: celex:32001L0055
   label: null
@@ -103,6 +110,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29/2024/02/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29/2024/02/29/p/dre
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208581828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222547760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853918462:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0055
   label: null
@@ -110,13 +137,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:34Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +160,7 @@ Através da aprovação da [Resolução do Conselho de Ministros n.º 29-A/2022]
 
 O n.º 1 do artigo 7.º da [Lei n.º 67/2003](https://diariodarepublica.pt/dr/detalhe/lei/67-2003-655969), de 23 de agosto, na sua redação atual, que transpõe para a ordem jurídica interna a [Diretiva n.º 2001/55/CE](https://data.europa.eu/eli/dir/2001/55/oj?locale=pt), do Conselho, de 20 de julho, prevê a possibilidade de prorrogação dos títulos de residência concedidos nesses termos, por períodos de seis meses, até ao limite de um ano. Por sua vez, o n.º 2 do mesmo artigo permite uma nova prorrogação, com o limite máximo de um ano, para além dos limites referidos no n.º 1, com fundamento na subsistência das razões que justificam a manutenção da proteção temporária, reconhecida por decisão do Conselho da União Europeia.
 
-Assim, após duas prorrogações dos títulos de proteção temporária concedidos a pessoas deslocadas da Ucrânia, pelo período de seis meses, operadas pelas Resoluções do Conselho de Ministros n.<sup>os</sup>[22-D/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-d-2023-208581828), de 13 de março, e [120/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2023-222547760), de 9 de outubro, só seria possível proceder a novas prorrogações dentro do limite de um ano.
+Assim, após duas prorrogações dos títulos de proteção temporária concedidos a pessoas deslocadas da Ucrânia, pelo período de seis meses, operadas pelas Resoluções do Conselho de Ministros n.os[22-D/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-d-2023-208581828), de 13 de março, e [120/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2023-222547760), de 9 de outubro, só seria possível proceder a novas prorrogações dentro do limite de um ano.
 
 Em fevereiro de 2024, através da [Resolução do Conselho de Ministros n.º 29/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-2024-853918462), de 29 de fevereiro, o Governo prorrogou a validade dos títulos de proteção temporária concedidos a pessoas deslocadas da Ucrânia, não pelo período de um ano, mas por um período de 10 meses, que termina a 31 de dezembro de 2024.
 
@@ -148,3 +175,5 @@ Nos termos do n.º 2 do artigo 7.º da [Lei n.º 67/2003](https://diariodarepubl
 2 - Estabelecer que a presente resolução produz efeitos a 31 de dezembro de 2024.
 
 Presidência do Conselho de Ministros, 22 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118414957

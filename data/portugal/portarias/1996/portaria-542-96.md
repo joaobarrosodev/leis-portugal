@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/542/1996/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-1996-232349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e6012a361d7b23a74860fcf27cc761ea08d2cd7474c6ed9970380d861e9bc05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55029af8d3f849e5eb1380f1f2746e981e9631e2178788ab827f4d2f6ace03e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
+- Autarquia Local
 - Contrato Programa
 - Cooperação Transfronteira
+- Criação de Emprego
 - Criação de Empresas
 - Definição de Competências
-- Desenvolvimento Regional
-- Apoio ao Investimento
-- Projeto de Investimento
-- Criação de Emprego
 - Desenvolvimento Económico
+- Desenvolvimento Regional
+- Financiamento
 - Programa Interreg
+- Projeto de Investimento
+- Região Fronteiriça
 - Regulamento
 - Regulamento do Regime de Auxílios a Pequenos Investimentos na ZONA de Fronteira
 - Subsídio não Reembolsável
-- Autarquia Local
 - Unidade de Gestão
-- Região Fronteiriça
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:32:13Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +128,7 @@ Manda o Governo, pelos Ministros das Finanças, do Equipamento, do Planeamento e
 
 Ministérios das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia, para a Qualificação e o Emprego e da Solidariedade e Segurança Social.
 
-**Assinada em 30 de Junho de 1996.**
+Assinada em 30 de Junho de 1996.
 
 Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro do Equipamento, do Planeamento e da Administração do Território, Adriano Lopes Gomes Pimpão, Secretário de Estado do Desenvolvimento Regional. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
 
@@ -174,9 +178,9 @@ c) Divisão 5 - Construção e obras públicas;
 
 d):
 
-##### Subdivisão 61 - Comércio por grosso;
+Subdivisão 61 - Comércio por grosso;
 
-##### Subdivisão 62, classe 620 - Comércio a retalho, excepto os grupos:
+Subdivisão 62, classe 620 - Comércio a retalho, excepto os grupos:
 
 6202.2 - Farmácias;
 
@@ -184,7 +188,7 @@ d):
 
 6209.4 - Ourivesarias;
 
-##### Subdivisão 63, classe 631 - Restaurantes, cafés e actividades similares de comidas e bebidas;
+Subdivisão 63, classe 631 - Restaurantes, cafés e actividades similares de comidas e bebidas;
 
 e) Divisão 7 - Transportes, armazenagem e comunicações;
 

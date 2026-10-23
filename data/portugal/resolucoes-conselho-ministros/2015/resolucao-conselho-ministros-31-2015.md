@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/31/2015/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2015-67198363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47e970f894d53ecceec4a146a99003024ec58a2a6a3eea173160bd242828776f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ec90a282e30b6865631357c89018ae525263e3473a7260988137fb08d470e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Autorização de Despesas
 - Barreiro
-- Empresa
-- Titulo de Transporte
 - Comparticipação do Estado
 - Contrato de Concessão
 - Contrato Programa
 - Despesas Públicas
 - Direção Geral do Tesouro e Finanças
-- Lisboa
-- Secretaria Geral
-- Ministério da Economia
+- Empresa
 - Indemnização Compensatória
+- Lisboa
+- Ministério da Economia
 - Passe Social
-- Serviço Público
+- Porto
 - Presidência do Conselho de Ministros
 - Refer
 - Regulamento CE
+- Secretaria Geral
+- Serviço Público
 - Soflusa-sociedade Fluvial de Transportes
+- Titulo de Transporte
 - Transtejo
-- Autarquia Local
-- Porto
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -121,16 +121,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/36/2012/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/36/2012/02/08/p/dre
+- type: cites
+  target: pt:dre:220558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:41Z'
   warnings: []
   errors: []
 ---
@@ -199,8 +227,8 @@ Presidência do Conselho de Ministros, 7 de maio de 2015. - O Primeiro-Ministro,
 
 ## ANEXO I — (a que se refere os n.os 9 e 13)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf)
 
 ## ANEXO II — (a que se refere o n.º 14)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf))](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/09200/0244602448.pdf)

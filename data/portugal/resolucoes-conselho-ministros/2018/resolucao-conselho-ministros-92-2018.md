@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13500/0318903189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2018/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2018-115698902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb6ac44f060fd58fc11bc560790a1372a9bca8a46d22326638c7f25341c4e5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c3e1de0e3e8f8794d3cf3b27ed0ebd11fa55964f79d49b88cd485f3a97e931c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,24 @@ subjects:
 - Água
 - Águas Públicas
 - Aveiro
-- Recursos Hídricos
 - Empresa Pública
-- Setor Empresarial do Estado
 - Gestor Público
+- Recursos Hídricos
 - Remuneração
 - Sector Empresarial Regional
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:122498963:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122498963:por
+  label: Alterado, no referente à tutela sectorial do Ministério da Saúde, onde é incluído o Hospital de Braga, E. P. E.,
+    o anexo da Res 36/2012 de 26-mar da PCM, na redação dada pelo presente diploma, pelo(a) Resolução do Conselho de Ministros
+    n.º 93/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/93-2019-122498963
+  date: '2019-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
@@ -108,16 +115,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2012/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2012/11/21/p/dre
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66674042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:38Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +185,6 @@ Presidência do Conselho de Ministros, 5 de julho de 2018. - Pelo Primeiro-Minis
 
 Tutela setorial: Ministério do Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/07/13500/0318903189.pdf))](https://files.diariodarepublica.pt/1s/2018/07/13500/0318903189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/07/13500/0318903189.pdf)
+
+111498237

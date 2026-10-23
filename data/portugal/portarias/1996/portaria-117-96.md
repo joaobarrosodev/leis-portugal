@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/117/1996/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-1996-565067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d2966d074296a69556a05db56b02c8ad6ff61a43447b7833421f120c0610d88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e86021de10dfa9f1a4402aa3ceb89fcc42de627001d09042d866c695db02c480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - CEE
-- Energia Elétrica
 - Consumo de Energia
+- Energia Elétrica
 - Etiquetagem
+- Indústria Electrotécnica
 - Proteção do Consumidor
 - Venda
 relationships:
@@ -91,16 +91,25 @@ relationships:
   target: celex:31995L0013
   label: null
   source: http://data.europa.eu/eli/dir/1995/13/oj
+- type: repealed_by
+  target: pt:dre:286756:por
+  label: "Revogada, a partir de 20.07.2011, pelo DEC LEI.63/2011.09.05.2011.MEID, DR.IS [89] de 09.05.2011, com produção de\
+    \ efeitos nos termos do disposto no nº 7 do seu art. 24º [na data em que, por acto delegado da Comissão Europeia, ao abrigo\
+    \ da Directiva n.º 2010/30/UE, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva\
+    \ n.º 95/13/CE, da Comissão, de 23 de Maio, relativa à indicação do consumo de energia eléctrica, por meio de etiquetagem,\
+    \ de secadores de roupa para uso doméstico].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2011-286756
+  date: '2011-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:39Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +206,7 @@ Entrada em vigor
 
 Ministério da Economia.
 
-**Assinada em 18 de Março de 1996.**
+Assinada em 18 de Março de 1996.
 
 Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estado da Energia.
 
@@ -205,7 +214,7 @@ Pelo Ministro da Economia, José Rodrigues Pereira Penedos, Secretário de Estad
 
 1 - Concepção da etiqueta - a etiqueta deve ser conforme com o modelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf))](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
 
 2 - Notas relativas à etiqueta - as notas que se seguem especificam os dados que devem ser incluídos na etiqueta:
 
@@ -227,7 +236,7 @@ VIII) Nível de ruído, medido em conformidade com a regulamentação aplicável
 
 3 - Impressão da etiqueta - definição das características da etiqueta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf))](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
 
 Cores utilizadas na etiqueta: CMAP - ciano, magenta, amarelo, preto.
 
@@ -313,10 +322,10 @@ QUADRO N.º 1
 
 Secadores com extracção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf))](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
 
 QUADRO N.º 2
 
 Secadores com condensação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf))](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/089b00/08610865.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0008700087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/202/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/202-2025-992627249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62bd5f10617aa3a8fa3a2970fa09a2dba8261530d768d6b8981e2ade35de573c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fde92cbdba699c0ebe6b881099f63cb4173e9672f6965d0b09003cb58395433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Primeiro-ministro
-- Normas de Segurança
+- Centro de Operações e Resposta do Governo
 - Confidencialidade
 - Governo XXV
-- Centro de Operações e Resposta do Governo
+- Normas de Segurança
+- Primeiro-ministro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2014/08/06/p/dre
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/1994/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/1994/03/22/p/dre
+- type: cites
+  target: pt:dre:283135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235777:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:37:02Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +132,7 @@ Nos termos da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselh
 
 3 - Aprovar o Manual de Procedimentos que apoia o Primeiro-Ministro na gestão da crise através do CORGOV e os ministros que o coadjuvarem ou substituírem.
 
-4 - Atribuir o grau de classificação de «Confidencial» ao Manual referido no número anterior, nos termos da [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, e das Resoluções do Conselho de Ministros n.<sup>os</sup>[50/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1988-357076), de 3 de dezembro, [37/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1989-549396), de 24 de outubro, [16/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-1994-283135), de 22 de março, e [5/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1990-307435), de 28 de fevereiro.
+4 - Atribuir o grau de classificação de «Confidencial» ao Manual referido no número anterior, nos termos da [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, e das Resoluções do Conselho de Ministros n.os[50/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1988-357076), de 3 de dezembro, [37/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1989-549396), de 24 de outubro, [16/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-1994-283135), de 22 de março, e [5/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1990-307435), de 28 de fevereiro.
 
 5 - Determinar que todas as entidades da Administração Direta e Indireta do Estado têm o dever de colaborar, à luz das suas atribuições e missão, na concretização das decisões que resultarem da aplicação do Manual de Procedimentos, referido no n.º 3, e às quais é partilhada a informação e as orientações necessárias ao cumprimento daquele dever.
 
@@ -121,3 +141,5 @@ Nos termos da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselh
 7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 28 de novembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+119919662

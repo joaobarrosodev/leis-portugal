@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 225/1996, 1º Suplemento, Série I-B de 1996-09-27
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3410-(2) a 3410-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/517-a/1996/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-a-1996-542794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8505cb052699a01c8a8b654c5e6967be54034220adefba90aa3fcb134e408698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 978d02e80e821c6ddafe5531b7e054b10b5eea1de15542cd7c461db6bf6c732a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,26 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Direcção Geral de Viação
-- União Europeia
-- Homologação
-- Veículo
 - Equipamento de Veículo
+- Homologação
+- União Europeia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:670028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150891:por
+  label: "Alterados os anexos I, II, V e VI pela Port 489/97.1997.07.15.MAI, DR.IS-B [161] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/489-1997-150891
+  date: '1997-07-15'
+- type: amended_by
+  target: pt:dre:677070:por
+  label: "Alterados os anexos I e II do presente diploma, na redacção dada pela Port 489/97, de 15-Jul, pela PORT.1080/97.1997.10.29.MAI\
+    \ DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1080-1997-677070
+  date: '1997-10-29'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -98,16 +109,269 @@ relationships:
   target: celex:31995L0054
   label: null
   source: http://data.europa.eu/eli/dir/1995/54/oj
+- type: repealed_by
+  target: pt:dre:522391:por
+  label: "Revogado, no que respeita a portas e fechaduras, o anexo I pelo DEC LEI.57/2000.2000.04.18.MAI,DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2000-522391
+  date: '2000-04-18'
+- type: repealed_by
+  target: pt:dre:275674:por
+  label: "Revogado o anexo I, no que se refere aos dispositivos de direcção dos automóveis e seus reboques, pelo DEC LEI.73/2000.2000.05.06.MAI,DR.IS-A\
+    \ [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2000-275674
+  date: '2000-05-06'
+- type: repealed_by
+  target: pt:dre:275775:por
+  label: "Revogado o anexo I, no que se refere à homologação CE de modelos de veículos, sistemas, componentes e unidades técnicas,\
+    \ pelo DEC LEI.72/2000.2000.05.06.MAI,DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2000-275775
+  date: '2000-05-06'
+- type: repealed_by
+  target: pt:dre:320559:por
+  label: "Revogado o anexo III da Port 517-A/96 de 27-Set, no que respeita aos dispositivos de retenção para os passageiros\
+    \ de modelo de veículo a motor de duas rodas, aos dispositivos de protecção contra a utilização não autorizada, às inscrições\
+    \ regulamentares de um modelo de veículo e à localização para efeitos de montagem da chapa de matrícula da retaguarda\
+    \ dos veículos a motor de duas ou três rodas, pelo DEC LEI.145/2000.2000.07.18.MAI,DR.IS-A [164]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2000-320559
+  date: '2000-07-18'
+- type: repealed_by
+  target: pt:dre:324285:por
+  label: "Revogado, no que respeita aos travões, o anexo I, com a redacção da Port 1080/97 de 29-Out, pelo DEC LEI.195/2000.2000.08.22.MAI,\
+    \ DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2000-324285
+  date: '2000-08-22'
+- type: repealed_by
+  target: pt:dre:580874:por
+  label: "Revogado o anexo I do presente diploma, na redacção da Port 1080/97, de 29-Out, pelo DEC LEI.202/2000.2000.09.01.MAI\
+    \ DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2000-580874
+  date: '2000-09-01'
+- type: repealed_by
+  target: pt:dre:541811:por
+  label: "Revogado o anexo I, no que se refere ao consumo de combustível, pelo DEC LEI.253/2000.2000.10.16.MAI,DR.IS-A [239]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-2000-541811
+  date: '2000-10-16'
+- type: repealed_by
+  target: pt:dre:276466:por
+  label: "Revogado o anexo III, pelo DEC LEI.267-B/2000.2000.10.20.MAI DR.IS-A [243]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-b-2000-276466
+  date: '2000-10-20'
+- type: repealed_by
+  target: pt:dre:615043:por
+  label: "Revogado o anexo V do presente diploma, com a redacção dada pela Port 489/97 de 15-Jul, no que se refere à homologação\
+    \ CE, à instalação dos dispositivos de iluminação e de sinalização luminosa, banco do condutor, dispositivo de direcção,\
+    \ espelhos retrovisores, avisadores sonoros, chapas de matrícula, dispositivos de escape, massas de lastragem, níveis\
+    \ sonoros, peso máximo em carga e reservatório de combustível, velocidade máxima por construção, dispositivos de reboque\
+    \ e marcha atrás e dipositivos de protecção em caso de capotagem dos tratores agrícolas e florestais de rodas, pelo DEC\
+    \ LEI.291/2000.2000.11.14.MAI DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2000-615043
+  date: '2000-11-14'
+- type: repealed_by
+  target: pt:dre:583609:por
+  label: "Revogada relativamente aos dispositivos de iluminação dos automóveis e seus reboques, na redacção conferida pela\
+    \ Port 1080/97 de 29-Out, pelo DEC LEI.317/2000.2000.12.13.MAI DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2000-583609
+  date: '2000-12-13'
+- type: repealed_by
+  target: pt:dre:320739:por
+  label: "Revogada relativamente ao nível sonoro admissível e ao dispositivo de escape dos automóveis o anexo I do presente\
+    \ diploma, com a redacção dada pela Port 1080/97 de 29-Out, pelo DEC LEI.49/2001.2001.02.13.MAI DR.IS-A [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2001-320739
+  date: '2001-02-13'
+- type: repealed_by
+  target: pt:dre:319305:por
+  label: "Revogado o anexo I, na redacção dada pela Port 1080/97 de 29-Out, pelo DEC LEI.64/2001.2001.02.20.MAI, DR.IS-A [43]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2001-319305
+  date: '2001-02-20'
+- type: repealed_by
+  target: pt:dre:524038:por
+  label: "Revogado o anexo I do presente diploma, na redacção dada pela Port 1080/97, de 27-Out, no que se refere aos cintos\
+    \ de segurança e aos sistemas de retenção dos automóveis, pelo DEC LEI.225/2001.2001.08.11.MAI DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2001-524038
+  date: '2001-08-11'
+- type: repealed_by
+  target: pt:dre:516518:por
+  label: "Revogado o anexo I do presente diploma,na redacção da Port 1080/97 de 29-Out, no que se refere á resistência a colisão\
+    \ frontal pelo .DEC LEI.226/2001.2001.08.17.MAI, DR.IS-A[190]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2001-516518
+  date: '2001-08-17'
+- type: repealed_by
+  target: pt:dre:570100:por
+  label: "Revogado o anexo I, na redacção da Port 1080/97, de 29-Out, no que se refere ao equipamento no habitáculo, pelo\
+    \ DEC LEI.297/2001.2001.11.21.MAI DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2001-570100
+  date: '2001-11-21'
+- type: repealed_by
+  target: pt:dre:567184:por
+  label: "Revogado o anexo V do presente diploma,com a redacção que lhe foi dada pela Port 489/97 de 15-Jul, no que se refere\
+    \ a dimensões e massas rebocáveis,regulador de velocidade, pára-brisas, ligações entre tractor e reboque,chapas regulamentares\
+    \ e comando de travagem dos reboques dos tractores agricolas e florestais de rodas.pelo DEC LEI.305/2001.2001.12.03.MAI,\
+    \ DR.IS-A[279]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2001-567184
+  date: '2001-12-03'
+- type: repealed_by
+  target: pt:dre:584861:por
+  label: "Revogado, no que se refere ao banco dos passageiros e ao quadro e cabinas de segurança (dispositivos de protecção\
+    \ montados na retaguarda e na frente) dos tractores agrícolas ou florestais de rodas de via estreita, o anexo V deste\
+    \ diploma, com a redacção conferida pela Port 489/97 de 15-Jul, pelo DEC LEI.3/2002.2002.01.04.MAI DR.IS-A [3]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2002-584861
+  date: '2002-01-04'
+- type: repealed_by
+  target: pt:dre:239266:por
+  label: "Revogado no que se refere aos motores a diesel (gases e partículas poluentes) o anexo I deste diploma, com a redacção\
+    \ dada pela Port 1080/97 de 29-Out, pelo DEC LEI.13/2002.2002.01.26.MAI DR.IS-A [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2002-239266
+  date: '2002-01-26'
+- type: repealed_by
+  target: pt:dre:279438:por
+  label: "Revogado o anexo III ao presente diploma, pelo DEC LEI.30/2002.2002.02.16.MAI, DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2002-279438
+  date: '2002-02-16'
+- type: repealed_by
+  target: pt:dre:303235:por
+  label: "Revogado o anexo III, no que se refere ao descanso e à identificação dos comandos, avisadores e indicadores, pelo\
+    \ DEC LEI.105/2002.2002.04.13.MAI DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2002-303235
+  date: '2002-04-13'
+- type: repealed_by
+  target: pt:dre:288442:por
+  label: "Revogado, no que se refere aos depósitos de combustível líquido, o anexo I deste diploma, com a redacção dada pela\
+    \ Port 1080/97 de 29-Out, pelo DEC LEI.115/2002.2002.04.20.MAI DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2002-288442
+  date: '2002-04-20'
+- type: repealed_by
+  target: pt:dre:368663:por
+  label: "Revogada, no que se refere às interferências radioeléctricas, o Anexo V do presente diploma, na última redacção\
+    \ dada pela Port 489/97, de 15-Jul, pelo DEC LEI.124/2002.2002.05.10.MAI, DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2002-368663
+  date: '2002-05-10'
+- type: repealed_by
+  target: pt:dre:160351:por
+  label: "Revogada, no que se refere à iluminação e sinalização luminosa dos veículos de duas e três rodas o Anexo III do\
+    \ presente diploma, pelo DEC LEI.132/2002.2002.05.14.MAI, DR.IS-A [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2002-160351
+  date: '2002-05-14'
+- type: repealed_by
+  target: pt:dre:221329:por
+  label: "Revogado no que se refere aos vidros de segurança o anexo I desta Portaria, com a redacção introduzida pela Port\
+    \ 1080/97 de 29-Out, pelo DEC LEI.40/2003.2003.03.11.MAI DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2003-221329
+  date: '2003-03-11'
+- type: repealed_by
+  target: pt:dre:315886:por
+  label: "Revogado relativamente aos pneus o anexo I deste diploma, com a redacção da Port 1080/97 de 29-Out, pelo DEC LEI.72-C/2003.2003.04.14.MAI\
+    \ DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-c-2003-315886
+  date: '2003-04-14'
+- type: repealed_by
+  target: pt:dre:491933:por
+  label: "Revogado o anexo III, pelo DEC LEI.227/2003.2003.09.26.MAI DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-2003-491933
+  date: '2003-09-26'
+- type: repealed_by
+  target: pt:dre:431014:por
+  label: "Revogado o anexo I do presente diploma, com a redacção que lhe foi dada pela Portaria n.º 1080/97, de 29 de Outubro,\
+    \ pelo DEC LEI.311/2003.12.12.2003.MAI, DR.IS-A [286] de 12.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-2003-431014
+  date: '2003-12-12'
+- type: repealed_by
+  target: pt:dre:625022:por
+  label: "Revogado com efeitos a partir de 26 de Janeiro de 2010 no que se refere aos espelhos retrovisores o anexo I do presente\
+    \ diploma, com a redacção dada pela Port 1080/97 de 29-Out, pelo DEC LEI.215/2004.25.08.2004.MAI, DR.IS-A [200] de 25.08.2004\0\
+    04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2004-625022
+  date: '2004-08-25'
+- type: repealed_by
+  target: pt:dre:608745:por
+  label: "Revogado no que se refere aos dispositivos de limitação de velocidade o anexo I do presente diploma, com a redacção\
+    \ dada pela Port 1080/97 de 29-Out, peo DEC LEI.46/2005.23.02.2005.MAI, DR.IS-A [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2005-608745
+  date: '2005-02-23'
+- type: repealed_by
+  target: pt:dre:595909:por
+  label: "Revogado o anexo IV do presente diploma, no que se refere às massas e dimensões dos veículos previstas pelo DEC\
+    \ LEI.177/2005.27.10.2005.MAI, DR.IS-A [207] de 27.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2005-595909
+  date: '2005-10-27'
+- type: repealed_by
+  target: pt:dre:545618:por
+  label: "Revogado o anexo I do presente diploma, na redacção da Port 1080/97 de 29-Out, no que se refere à antiparasitagem,\
+    \ pelo DEC LEI.237/2006.14.12.2006.MAI, DR.IS [239] de 14.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2006-545618
+  date: '2006-12-14'
+- type: repealed_by
+  target: pt:dre:520469:por
+  label: "Revogado o anexo I do presente diploma, com a redacção dada pela Port 1080/97 de 29-Out, no que se refere aos motores\
+    \ diesel (opacidade dos gases de escape) pelo DEC LEI.67/2007.26.03.2007.MAI, DR.IS [60] de 26.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2007-520469
+  date: '2007-03-26'
+- type: repealed_by
+  target: pt:dre:641466:por
+  label: "Revogado o anexo v, no que se refere ao nível sonoro nos ouvidos do operador, com a redacção dada pela Port 489/97\
+    \ de 15-Jul, pelo DEC LEI.333/2007.10.10.2007.MAI, DR.IS [195] de 10.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-2007-641466
+  date: '2007-10-10'
+- type: repealed_by
+  target: pt:dre:641676:por
+  label: "Revogado o anexo I, com a redacção dada pela Port 1080/97 de 29-Out, no que se refere à resistência dos bancos e\
+    \ da sua fixação, pelo DEC LEI.336/2007.11.10.2007.MAI, DR.IS [196] de 11.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/336-2007-641676
+  date: '2007-10-11'
+- type: repealed_by
+  target: pt:dre:641442:por
+  label: "Revogado, no que se refere à fixação dos cintos de segurança, o anexo I do presente diploma, com a redacção conferida\
+    \ pelas Port 489/97 de 15-Jul e 1080/97 de 29-Out, pelo DEC LEI.342/2007.15.10.2007.MAI, DR.IS [198] de 15.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-2007-641442
+  date: '2007-10-15'
+- type: repealed_by
+  target: pt:dre:641443:por
+  label: "Revogado, a partir de 20.10.2007, no que se refere aos travões, o anexo iii do presente diploma, pelo DEC LEI.343/2007.15.10.2007.MAI,\
+    \ DR.IS [198] de 15.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-2007-641443
+  date: '2007-10-15'
+- type: repealed_by
+  target: pt:dre:454831:por
+  label: "Revogado, no que se refere às saliências exteriores, o anexo I do presente diploma, com a redacção conferida pelas\
+    \ Port 489/97 de 15-Jul e 1080/97 de 29-Out, pelo DEC LEI.151/2008.30.07.2008.MOPTC, DR.IS [146] de 30.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2008-454831
+  date: '2008-07-30'
+- type: repealed_by
+  target: pt:dre:439411:por
+  label: "Revogado no que se refere à instalação de luzes o anexo I do presente diploma, com a redacção conferida nas Port\
+    \ 489/97 de 15-Jul e 1080/97 de 29-Out, pelo DEC LEI.218/2008.11.11.2008.MOPTC, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2008-439411
+  date: '2008-11-11'
+- type: repealed_by
+  target: pt:dre:443765:por
+  label: "Revogado o anexo v, no que se refere ao campo de visão e limpa-pára-brisas, da presente portaria, com a redacção\
+    \ dada pela Port 489/97 de 15-Jul, pelo DEC LEI.240/2008.16.12.2008.MOPTC, DR.IS [242] de 16.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2008-443765
+  date: '2008-12-16'
+- type: repealed_by
+  target: pt:dre:287110:por
+  label: "Revogado o anexo I (na redacção das Port 489/97, de 15-Jul e 1080/97, de 29-Out) do presente diploma, pelo DEC LEI.59/2011.05.05.2011.MOPTC,\
+    \ DR.IS [87] de 05.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2011-287110
+  date: '2011-05-05'
+- type: repealed_by
+  target: pt:dre:670028:por
+  label: "Revogado, a partir de 25.06.2011, e no que se refere ao acesso ao lugar do condutor, espaço de manobra, portas e\
+    \ janelas, e à identificação dos comandos, o anexo V do presente diploma, pelo DEC LEI.81/2011.20.06.2011.MOPTC, DR.IS\
+    \ [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2011-670028
+  date: '2011-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:31:33Z'
   warnings: []
   errors: []
 ---
@@ -182,32 +446,32 @@ c) Tractores agrícolas: Directiva n.º [74/150/CEE](http://data.europa.eu/eli/d
 
 Ministério da Administração Interna.
 
-**Assinada em 27 de Setembro de 1996.**
+Assinada em 27 de Setembro de 1996.
 
-**O Secretário de Estado da Administração Interna, Armando António Martins Vara.**
+O Secretário de Estado da Administração Interna, Armando António Martins Vara.
 
 ## ANEXO I — Veículos automóveis e reboques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
 
 ## ANEXO II — Directivas contendo disposições sobre características técnicas dos veículos automóveis e seus reboques, componentes, sistemas e respectiva aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
 
 ## ANEXO III — Veículos de duas ou três rodas e quadriciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
 
 ## ANEXO IV
 
 Directivas contendo disposições sobre características técnicas dos veículos a motor de duas e três rodas, quadriciclos, componentes, sistemas e respectiva aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
 
 ## ANEXO V — Tractores agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
 
 ## ANEXO VI — Directivas contendo disposições sobre características técnicas dos tractores agrícolas e seus reboques, componentes, sistemas e respectiva aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/225b01/00020011.pdf)

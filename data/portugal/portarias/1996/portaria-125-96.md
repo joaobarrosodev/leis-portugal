@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/125/1996/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-1996-571186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4208d36382d059fab7c2ac45c00aea4cf612668853b4b04fb8adb291e5fef7ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 836c615c6b4ab2819d7ca6623178cb0585bed07e83e34ce2bb36961ccecfb28c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Cobrança de Impostos
 - Contribuições e Impostos
-- Veículo
-- Regulamento do Imposto sobre Veículos
 - Imposto sobre Veículos
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:17:52Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +103,6 @@ b) Tratando-se de veículos de matrícula nacional saídos do País em data em q
 
 Ministério das Finanças.
 
-**Assinada em 26 de Março de 1996.**
+Assinada em 26 de Março de 1996.
 
 Pelo Ministro das Finanças, António Carlos dos Santos, Secretário de Estado dos Assuntos Fiscais.

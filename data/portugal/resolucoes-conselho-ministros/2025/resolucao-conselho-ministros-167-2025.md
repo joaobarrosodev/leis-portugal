@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/167/2025/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/167-2025-942401305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:36:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b20fd2b33d9bc9a7d9776f5dfca8da1643ceb543f0b95d286090065e896d7db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c21aff5e409945c2eaafa8b1fe08131aed77a0b140a8509a5426edc04fae2278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:36:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Camões - Instituto da Cooperação e da Língua
 - Comissão de Acompanhamento
 - Desenvolvimento Social
-- Luta contra a Discriminação
 - Discriminação Racial
 - Discriminação Sexual
-- Camões - Instituto da Cooperação e da Língua
-- Política de Educação
 - Estratégia Nacional de Educação para o Desenvolvimento
 - Instituto de Educação Qualidade e Avaliação
+- Luta contra a Discriminação
+- Política de Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/121/2022/12/09/p/dre
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2018/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2018/07/16/p/dre
+- type: cites
+  target: pt:dre:107752620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115698904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891337590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933648883:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:94/2018
+  label: Revoga, a partir de 28 de outubro de 2025, nos termos do n.º 8 do presente diploma, a Resolução do Conselho de Ministros
+    n.º 94/2018, de 16 de julho, Diário da República n.º 135/2018, Série I
+  source: null
+  date: '2018-07-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:36:11Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +241,8 @@ O conceito e objetivos de ED afirmados na atual ENED são sistematizados na figu
 
 Figura 2.1 - Educação para o Desenvolvimento: conceito e objetivo
 
-![](https://files.diariodarepublica.pt/images/942401305/942404073.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/942401305/942404073.png) |
+| --- |
 
 Apesar de a ED partilhar elementos temáticos, éticos e metodológicos com outras abordagens educativas, é essencial destacar o seu quadro fundacional, no qual reside a sua especificidade: preocupação com as problemáticas relacionadas com o desenvolvimento, colocando em evidência as relações de interdependência no contexto global e abordando as relações de poder desigual e o seu impacto em termos de assimetrias sociais globais, nacionais e locais. Assim, a ED visa aumentar a consciencialização e mobilizar para a alteração das condições estruturais geradoras de pobreza, exclusão e desigualdades sociais, que incidem, com particular severidade, sobre as populações de regiões que permanecem menos favorecidas no quadro do desenvolvimento global.
 
@@ -382,3 +409,7 @@ Objetivo. - Consolidação do processo de recolha sistemática de informação e
 Neste quadro estratégico, pretende-se promover, de forma transversal, uma cultura de avaliação que permita: i) consolidar o processo de recolha sistemática de informação e de dados para a construção de uma memória documental da ED em Portugal, bem como para possibilitar a monitorização e avaliação da implementação da ENED 2025-2030; ii) reforçar a cultura institucional de acompanhamento e avaliação da ENED 2025-2030; iii) promover a qualidade da ação em ED, indissociável da capacidade de avaliar os processos educativos de forma complexa.
 
 Serão promovidos diversos processos de aprendizagem colaborativa e de avaliação intermédia e final, que englobe os três ciclos da ENED 2025-2030.
+
+119684795
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:34px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:173px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { height:26px; } .Tbl11 { min-height:28px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:47px; } .Tbl15 { min-height:37px; } .Tbl16 { min-height:18px; } .Tbl17 { height:34px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl19 { min-height:127px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl24 { min-height:43px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

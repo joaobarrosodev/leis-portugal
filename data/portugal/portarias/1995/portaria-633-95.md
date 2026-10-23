@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/141b00/40384048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/633/1995/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-1995-475499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 350d27dcb4443fb95b65279eb9f8b724becb460e36dd2a2c0897aef8b354f528
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84e7e48306c1e167671200abd0e6ede58d6fd0fa2d6808f1eeac83786f96e334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Fátima
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -95,16 +95,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/1992/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/1992/02/18/p/dre
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694192:por
+  label: Revogado Plano de Urbanização de Fátima pelo(a) Resolução do Conselho de Ministros n.º 148-B/2002 - Diário da República
+    n.º 301/2002, 4º Suplemento, Série I-B de 2002-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/148-b-2002-694192
+  date: '2002-12-30'
 article_structure:
   article_count: 52
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:07:19Z'
   warnings: []
   errors: []
 ---
@@ -157,9 +223,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 12 de Maio de 1995.**
+Assinada em 12 de Maio de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Urbanização de Fátima
 
@@ -529,9 +595,9 @@ Exceptuam-se ainda as construções inseridas nas zonas consolidadas, onde será
 
 1 - Constituindo Fátima um aglomerado urbano de reconhecido interesse religioso e turístico, deverão as obras de construção, conservação, reconstrução ou transformação cumprir o estipulado nos artigos 121.º e 122.º do RGEU, que pela sua importância se transcrevem:
 
-###### Art. 121.º As construções em zonas urbanas ou rurais, seja qual for a sua natureza e o fim a que se destinem, deverão ser delineadas, executadas e mantidas por forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se. Não poderão permitir-se quaisquer construções susceptíveis de comprometer, pela sua localização, aparência ou proporções, o aspecto das povoações ou dos conjuntos arquitectónicos, edifícios e locais de reconhecido interesse histórico ou artístico ou de prejudicar a beleza das paisagens.
+Art. 121.º As construções em zonas urbanas ou rurais, seja qual for a sua natureza e o fim a que se destinem, deverão ser delineadas, executadas e mantidas por forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se. Não poderão permitir-se quaisquer construções susceptíveis de comprometer, pela sua localização, aparência ou proporções, o aspecto das povoações ou dos conjuntos arquitectónicos, edifícios e locais de reconhecido interesse histórico ou artístico ou de prejudicar a beleza das paisagens.
 
-###### Art. 122.º O disposto no artigo anterior aplica-se integralmente nas obras de conservação, reconstrução ou transformação de construções existentes.
+Art. 122.º O disposto no artigo anterior aplica-se integralmente nas obras de conservação, reconstrução ou transformação de construções existentes.
 
 2 - É proibido todo e qualquer tipo de publicidade nas estradas ou sobre as vias públicas quando não autorizado pela Câmara Municipal. A aprovação fica dependente da apresentação de projecto específico, devendo os elementos publicitários ficar devidamente integrados na paisagem, no ambiente urbano e na arquitectura do edificado, possuir qualidade estética e não afectar a vivência das pessoas.
 
@@ -1441,4 +1507,4 @@ a) Área non aedificandi;
 
 b) Exceptuam-se da alínea anterior e eventual edificação de equipamentos ou áreas de serviço de apoio e exploração da rede viária.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/141b00/40384048.pdf))](https://files.diariodarepublica.pt/1s/1995/06/141b00/40384048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/141b00/40384048.pdf)

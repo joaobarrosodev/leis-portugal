@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/945/1995/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/945-1995-484402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a6349641f1eccb0d19067a3b4eb65b3e59bb8ebfae9486244f389ac9ad6c2ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b94b876faeb611daf541e3f173bf357a3324d86e59dc68513eff9becc3b33f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Doença Animal
+- Controlo Sanitário
 - Decisão CE
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Doença Animal
 - Exploração Pecuária
+- Financiamento
 - Instituto de Protecção da Produção Agro-Alimentar
 - Legislação Veterinária
 - Regulamento
@@ -81,15 +81,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/1994/880/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:15:54Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +110,7 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 11 de Julho de 1995.**
+Assinada em 11 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -120,9 +120,9 @@ Regulamento do Programa de Erradicação e Vigilância da Peste Suína Africana
 
 ### CAPÍTULO I — Disposições iniciais
 
-###### Artigo 1.º O presente Regulamento estabelece as medidas técnicas de execução do Programa de Erradicação e Vigilância da Peste Suína Africana.
+Artigo 1.º O presente Regulamento estabelece as medidas técnicas de execução do Programa de Erradicação e Vigilância da Peste Suína Africana.
 
-###### Art. 2.º A aplicação das medidas sanitárias específicas para a peste suína africana (PSA) é efectuada tendo em consideração a divisão do País em duas zonas:
+Art. 2.º A aplicação das medidas sanitárias específicas para a peste suína africana (PSA) é efectuada tendo em consideração a divisão do País em duas zonas:
 
 a) Zona livre - inclui todo o território nacional com excepção dos concelhos incluídos na zona de monitoragem;
 
@@ -130,9 +130,9 @@ b) Zona de monitoragem - inclui os concelhos de Moura, Barrancos, Serpa e Mérto
 
 ### CAPÍTULO II — Disposições gerais
 
-###### Art. 3.º A suspeita ou existência de PSA deve ser declarada directamente ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA) ou à direcção regional de agricultura da área da exploração.
+Art. 3.º A suspeita ou existência de PSA deve ser declarada directamente ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA) ou à direcção regional de agricultura da área da exploração.
 
-###### Art. 4.º - 1 - O rastreio sorológico obrigatório a realizar na zona livre deve ser efectuado a 5% do efectivo reprodutor nacional.
+Art. 4.º - 1 - O rastreio sorológico obrigatório a realizar na zona livre deve ser efectuado a 5% do efectivo reprodutor nacional.
 
 2 - O rastreio referido no número anterior deve ser executado:
 
@@ -148,7 +148,7 @@ ii) Mais de 20 animais do mesmo proprietário - sorologia a 5% do efectivo trans
 
 d) Em javalis, pelo médico veterinário responsável pela montaria, por amostragem em 50% dos animais abatidos por montaria.
 
-###### Art. 5.º O envio das colheitas e a comunicação dos resultados dos exames laboratoriais deve efectuar-se do seguinte modo:
+Art. 5.º O envio das colheitas e a comunicação dos resultados dos exames laboratoriais deve efectuar-se do seguinte modo:
 
 a) 75% das colheitas devem ser efectuadas em tubos hematocritos e as restantes 25% em tubos de hemólise - aproximadamente 2 ml de sangue -, sendo enviadas a um dos laboratórios, do Porto, de Lisboa, de Évora, de Faro ou de Mirandela, no prazo máximo de quarenta e oito horas;
 
@@ -156,15 +156,15 @@ b) O envio ao laboratório das colheitas deve ser acompanhado pelo modelo n.º 1
 
 c) O resultado dos exames laboratoriais deve ser comunicado utilizando igualmente o modelo n.º 1, sendo o original enviado à direcção regional de agricultura respectiva, o duplicado ao médico veterinário responsável pela exploração, ou, nas explorações familiares, à entidade que executou a acção, ficando o triplicado em arquivo no laboratório que efectuou a análise.
 
-###### Art. 6.º No período de realização dos rastreios referidos no artigo 4.º e até à notificação dos resultados sorológicos dos mesmos, só é permitida a movimentação de suínos para abate desde que devidamente autorizada pela autoridade sanitária veterinária.
+Art. 6.º No período de realização dos rastreios referidos no artigo 4.º e até à notificação dos resultados sorológicos dos mesmos, só é permitida a movimentação de suínos para abate desde que devidamente autorizada pela autoridade sanitária veterinária.
 
-###### Art. 7.º Em todas as situações de suspeita ou confirmação da doença, a autoridade sanitária veterinária deve notificar oficialmente o proprietário da exploração a colocar sob rigoroso sequestro hígio-sanitário, determinando:
+Art. 7.º Em todas as situações de suspeita ou confirmação da doença, a autoridade sanitária veterinária deve notificar oficialmente o proprietário da exploração a colocar sob rigoroso sequestro hígio-sanitário, determinando:
 
 a) O recenseamento de todas as categorias de porcos da exploração à data de imposição de sequestro;
 
 b) A proibição, se necessário, do movimento de pessoas, animais e veículos provenientes da exploração ou com destino a ela.
 
-###### Art. 8.º Sempre que se verifique a eclosão de um foco, devem ser adoptadas as seguintes medidas:
+Art. 8.º Sempre que se verifique a eclosão de um foco, devem ser adoptadas as seguintes medidas:
 
 a) Na exploração em que for diagnosticada a doença é obrigatório proceder, sob controlo oficial, ao abate da totalidade do efectivo e à sua destruição por cremação ou enterramento, sendo também efectuado o respectivo inquérito epidemiológico;
 
@@ -180,25 +180,25 @@ f) A autoridade sanitária veterinária pode autorizar o repovoamento das explor
 
 g) Todos os animais usados para repovoamento são testados na exploração de origem e, 30 dias após a sua chegada, na exploração de destino.
 
-###### Art. 9.º Sempre que se verifique a situação referida no artigo anterior é estabelecida, em redor do local de detecção do foco, uma zona de protecção num raio de 3 km e uma zona de vigilância de raio não inferior a 10 km, devendo:
+Art. 9.º Sempre que se verifique a situação referida no artigo anterior é estabelecida, em redor do local de detecção do foco, uma zona de protecção num raio de 3 km e uma zona de vigilância de raio não inferior a 10 km, devendo:
 
 a) Realizar-se nas explorações suinícolas que se encontrem na zona de protecção o controlo sorológico aos seus efectivos de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf))](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)
 
 b) Executar-se, nos 30 dias seguintes após a realização do estabelecido na alínea b) do artigo 8.º, outro controlo sorológico aos efectivos das explorações que se encontram na zona de protecção, bem como aos efectivos das explorações que se encontram na zona de vigilância, de acordo com o quadro previsto na alínea anterior.
 
-###### Art. 10.º É proibido o trânsito de animais dentro das zonas de protecção e vigilância durante pelo menos 30 dias, podendo a circulação dos animais ser posteriormente efectuada mediante autorização da autoridade sanitária veterinária.
+Art. 10.º É proibido o trânsito de animais dentro das zonas de protecção e vigilância durante pelo menos 30 dias, podendo a circulação dos animais ser posteriormente efectuada mediante autorização da autoridade sanitária veterinária.
 
-###### Art. 11.º Nas zonas referidas nos artigos anteriores pode ser autorizada a circulação de suínos para abate imediato, desde que:
+Art. 11.º Nas zonas referidas nos artigos anteriores pode ser autorizada a circulação de suínos para abate imediato, desde que:
 
 a) Todo o efectivo a transportar seja objecto de uma sorologia prévia com resultados negativos;
 
 b) O matadouro de destino se encontre dentro dessas zonas.
 
-###### Art. 12.º O proprietário dos animais sujeitos a abate sanitário deve ser indemnizado, de acordo com a legislação em vigor.
+Art. 12.º O proprietário dos animais sujeitos a abate sanitário deve ser indemnizado, de acordo com a legislação em vigor.
 
-###### Art. 13.º O médico veterinário responsável pelo controlo sanitário nas montarias deve proceder em conformidade com o seguinte:
+Art. 13.º O médico veterinário responsável pelo controlo sanitário nas montarias deve proceder em conformidade com o seguinte:
 
 a) Inspecção sanitária dos animais abatidos;
 
@@ -210,7 +210,7 @@ d) Identificação das carcaças e emissão das respectivas guias de circulaçã
 
 ### CAPÍTULO III — Medidas de sanidade veterinária específicas
 
-###### Art. 14.º As medidas específicas de sanidade veterinária a implementar na zona de monitoragem são, sem prejuízo da aplicação das disposições gerais, as seguintes:
+Art. 14.º As medidas específicas de sanidade veterinária a implementar na zona de monitoragem são, sem prejuízo da aplicação das disposições gerais, as seguintes:
 
 1) O controlo sorológico será efectuado nos seguintes termos:
 
@@ -228,13 +228,13 @@ c) Os animais a movimentar deverão ser provenientes de uma exploração cujo ef
 
 ### CAPÍTULO IV — Reestruturação das explorações situadas na zona de monitoragem
 
-###### Art. 15.º Às unidades produtoras de leitões já legalizadas ou em processo de legalização é concedida uma ajuda financeira para a conversão em unidades de porcos para abate, desde que não se verifique o aumento do efectivo reprodutor, o qual deve ser calculado pela média das duas últimas declarações de existência de suínos entregues nos prazos respectivos.
+Art. 15.º Às unidades produtoras de leitões já legalizadas ou em processo de legalização é concedida uma ajuda financeira para a conversão em unidades de porcos para abate, desde que não se verifique o aumento do efectivo reprodutor, o qual deve ser calculado pela média das duas últimas declarações de existência de suínos entregues nos prazos respectivos.
 
-###### Art. 16.º A ajuda financeira referida no artigo anterior é concedida de acordo com a despesa efectuada e até ao montante máximo de 40000$00 por lugar de engorda a instalar.
+Art. 16.º A ajuda financeira referida no artigo anterior é concedida de acordo com a despesa efectuada e até ao montante máximo de 40000$00 por lugar de engorda a instalar.
 
-###### Art. 17.º Os lugares de engorda referidos no artigo anterior devem ter uma área de 1 m2 por suíno.
+Art. 17.º Os lugares de engorda referidos no artigo anterior devem ter uma área de 1 m2 por suíno.
 
-###### Art. 18.º A candidatura a esta ajuda deverá ser formalizada junto da Direcção Regional de Agricultura do Alentejo, mediante a apresentação dos seguintes documentos:
+Art. 18.º A candidatura a esta ajuda deverá ser formalizada junto da Direcção Regional de Agricultura do Alentejo, mediante a apresentação dos seguintes documentos:
 
 a) Memória descritiva;
 
@@ -246,10 +246,10 @@ d) Planta detalhada das construções à escala de 1:3000;
 
 e) Alvará sanitário ou certidões da câmara municipal, da administração regional de saúde e da direcção regional do ambiente e recursos naturais.
 
-###### Art. 19.º Após a aprovação do projecto pode ser concedido um adiantamento até ao montante máximo de 50% do valor das despesas aprovadas, mediante apresentação pelo beneficiário de garantia bancária ou caução no valor correspondente ao adiantamento.
+Art. 19.º Após a aprovação do projecto pode ser concedido um adiantamento até ao montante máximo de 50% do valor das despesas aprovadas, mediante apresentação pelo beneficiário de garantia bancária ou caução no valor correspondente ao adiantamento.
 
-###### Art. 20.º Após a execução do projecto devem ser apresentados na Direcção Regional de Agricultura do Alentejo os justificativos, facturas e recibos das despesas realizadas.
+Art. 20.º Após a execução do projecto devem ser apresentados na Direcção Regional de Agricultura do Alentejo os justificativos, facturas e recibos das despesas realizadas.
 
-###### Art. 21.º Após a recepção dos documentos referidos no artigo anterior, a Direcção Regional de Agricultura do Alentejo deve efectuar a vistoria final e, se se encontrarem cumpridas todas as formalidades de acordo com a documentação inicialmente apresentada, deve completar o pagamento das ajudas referidas no artigo 20.º
+Art. 21.º Após a recepção dos documentos referidos no artigo anterior, a Direcção Regional de Agricultura do Alentejo deve efectuar a vistoria final e, se se encontrarem cumpridas todas as formalidades de acordo com a documentação inicialmente apresentada, deve completar o pagamento das ajudas referidas no artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf))](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0011200130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/197/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/197-2023-835674302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T13:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4651eb04c4bfde990fb807b0000807669c6d288410cf1b36f44b331c0c5c556b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da26b81d41d80d0e2430393f6f2d043e54ae53d18807d47d8f4ad6cc9fbdc37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Carreira de Polícia Municipal
 - Celorico de Basto
 - Criação de Serviços
+- Fardamento
 - Polícia Municipal
 - Regulamento
-- Autarquia Local
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: cites
@@ -110,16 +110,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304-a/2015/09/22/p/dre
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361627:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:27:27Z'
   warnings: []
   errors: []
 ---
@@ -756,14 +792,15 @@ O presente regulamento entra em vigor no prazo de 30 dias a contar da data de pu
 
 Organigrama
 
-![](https://files.diariodarepublica.pt/images/835674302/835674123.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674302/835674123.png) |
+| --- |
 
 Mapa de pessoal
 
-|  |  |  |  |  |
+| Serviço | Carreia/Categoria | Área de formação<br>académica<br>e/ou profissional | Atribuições/Competências | Postos<br>de trabalho |
 | --- | --- | --- | --- | --- |
-| Serviço | Carreia/Categoria | Área de formação académica e/ou profissional | Atribuições/Competências | Postos de trabalho |
-| Polícia Municipal... | Agente graduado coordenador... Agente graduado principal... | 12.º Ano | Artigos 4.º a 7.º do presente Regulamento. | 6 |
+|  |  |  |  |  |
+| Polícia Municipal... | Agente graduado coordenador...<br>Agente graduado principal... | 12.º Ano | Artigos 4.º a 7.º do presente Regulamento. | 6 |
 |  | Agente graduado... |  |  |  |
 |  | Agente municipal de 1.ª classe... |  |  |  |
 |  | Agente municipal de 2.ª classe... |  |  |  |
@@ -774,10 +811,16 @@ Mapa de pessoal
 
 O crachá e cartão de identificação, as divisas e o modelo de caracterização das viaturas encontram-se definidos na [Portaria n.º 304-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/304-a-2015-70361627), de 22 de setembro, devendo a estes ser acrescentado o brasão do município de Celorico de Basto.
 
-![](https://files.diariodarepublica.pt/images/835674302/835674124.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674302/835674124.png) |
+| --- |
 
 Distinto da polícia municipal | Crachá: Assume um formato oval de 5,5 cm de largura e 7,5 cm de altura, onde a fundo branco com raiado cinzento e amarelo se enquadra o brasão do Município de Celorico de Basto (Armas - Escudo de prata com um castelo negro, entre dois cachos de uvas de púrpura, folhados de verde, contrachefe ondado de azul e prata de três peças. Coroa mural de prata de quatro torres e por baixo listel branco com os dizeres «CELORICO DE BASTO» em caracteres negros). Possuindo no topo a inscrição «Polícia Municipal» a preto sobre um fundo branco.
 
-![](https://files.diariodarepublica.pt/images/835674302/835674125.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835674302/835674125.png) |
+| --- |
 
 Símbolo para vestuário: adaptado ao efeito que se pretende com a inclusão do brasão do Município de Celorico de Basto (Armas - Escudo de prata com um castelo negro, entre dois cachos de uvas de púrpura, folhados de verde, contrachefe ondado de azul e prata de três peças. Coroa mural de prata de quatro torres e por baixo listel branco com os dizeres «CELORICO DE BASTO» em caracteres negros). O layout do símbolo é azul em tons céu, demonstrando leveza e ao mesmo tempo segurança e assertividade.
+
+117177463
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

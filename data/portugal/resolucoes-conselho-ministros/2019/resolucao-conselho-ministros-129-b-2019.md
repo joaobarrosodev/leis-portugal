@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 146/2019, 1º Suplemento, Série I de 2019-08-01
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 33-(6) a 33-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14601/0000600017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/129-b/2019/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-b-2019-123675745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:16:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8c7f83f20dade85e729644cba196b94ea95dfa27bddb9dc29824b21972d1abf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58bc79354e3fb29e9a7c9ac168e352ace9d8e04b284cf694f41c2dfecadf5212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:16:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,32 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de Participações do Estado
+- Brasil
 - Caderno de Encargos
 - Caixa Geral de Depósitos
 - Capital Social
 - Empresa Participada
 - Setor Empresarial do Estado
-- Brasil
 - Venda Directa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/2017/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/153/2017/12/28/p/dre
+- type: cites
+  target: pt:dre:114406168:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:16:07Z'
   warnings: []
   errors: []
 ---
@@ -429,3 +433,5 @@ O proponente ou proponentes excluídos e preteridos no processo de seleção do 
 2 - O Conselho de Ministros reserva-se o direito de não aceitar qualquer das propostas apresentadas no âmbito da venda direta.
 
 3 - No caso de se verificar alguma das situações referidas nos números anteriores, os proponentes não têm direito, por qualquer desses factos, a qualquer indemnização ou compensação, independentemente da sua natureza ou fundamento.
+
+112495711

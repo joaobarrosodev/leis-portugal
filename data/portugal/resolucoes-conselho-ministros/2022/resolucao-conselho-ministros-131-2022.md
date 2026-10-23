@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24400/0001000019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/131/2022/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/131-2022-205050313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4782836bf9b6cec128854010d136ee68bdd8cd260aab2949a2d04916be144ca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86014460cb4fb3b6cb5127bd1f8d59a44ee00a2877997cbbe62edea5ddb1a178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pescador
+- Agência Portuguesa do Ambiente
+- Autoridade Marítima Nacional
 - Centro de Formação Profissional
 - Comissão de Acompanhamento
-- Mar
-- Autoridade Marítima Nacional
-- Mar Territorial
-- Docapesca-sociedade Concessionária da DOCA de Pesca
-- Marinha
-- Pesca
-- Instituto Português do Mar e da Atmosfera
-- Espaço Marítimo
-- Recursos do Mar
-- GNR
 - Direção Geral de Política do Mar
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Docapesca-sociedade Concessionária da DOCA de Pesca
+- Espaço Marítimo
+- Financiamento
+- GNR
 - Instituto da Conservação da Natureza e das Florestas
-- Política do Ambiente
+- Instituto Português do Mar e da Atmosfera
 - Madeira.região Autónoma
-- Agência Portuguesa do Ambiente
+- Mar
+- Mar Territorial
+- Marinha
+- Pesca
+- Pescador
+- Política do Ambiente
+- Recursos do Mar
 relationships:
 - type: cites
   target: celex:32021R1139
@@ -106,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2021/06/04/p/dre
+- type: cites
+  target: pt:dre:143527213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170591677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352173:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:23:31Z'
   warnings: []
   errors: []
 ---
@@ -352,4 +368,6 @@ Neste âmbito destaca-se o FEAMPA, criado pelo [Regulamento (UE) 2021/1139](http
 
 Medidas e metas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24400/0001000019.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24400/0001000019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/24400/0001000019.pdf)
+
+115980315

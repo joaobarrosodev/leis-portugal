@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0013600137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/10/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2024-836161881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9ce925e6a2f2098b67cbb53beb16b0ef748c036371f24d4160e596766bd9be9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 417bc7aa0a4a839211b48b01122c935df36bd75557a320bb75e8eab076e51e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Meteorologia
 - Despesas Públicas
 - Eumetsat
 - Instituto Português do Mar e da Atmosfera
+- Meteorologia
 - Satélite
 relationships:
 - type: cites
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/2020/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/2020/02/06/p/dre
+- type: cites
+  target: pt:dre:128907747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250266:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:38Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +171,7 @@ Presidência do Conselho de Ministros, 21 de dezembro de 2023. - O Primeiro-Mini
 
 ## ANEXO — (a que se refere o n.º 3)
 
-![](https://files.diariodarepublica.pt/images/836161881/836112040.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/836161881/836112040.png) |
+| --- |
+
+117212121

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103-a/2024/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-a-2024-877330546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427e06f433bdad54fd9cccccd5e32c4b0b2ec9161e65ec5ea0bcd1158d9a3eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 639f8892afbfb937431c6c8abf08242d0c2430a49cb1a275abfd2d7e5ab51582
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/172-a/2015/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/172-a/2015/06/05/p/dre
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67429780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:46Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +169,7 @@ O direito de todos os cidadãos ao acesso a uma rede de escolas gratuita e acess
 
 Neste âmbito, o Estado deve ter igualmente em consideração, no ajustamento da rede escolar, as iniciativas e os estabelecimentos particulares e cooperativos, numa perspetiva de racionalização de meios, de aproveitamento de recursos e de garantia de qualidade, conforme previsto no n.º 2 do artigo 58.º da Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual.
 
-Nos termos conjugados da alínea a) do n.º 2 e do n.º 4 do artigo 8.º da Lei de Bases do Ensino Particular e Cooperativo, aprovada pela [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de março, alterada pelas Leis n.<sup>os</sup>[33/2012](https://diariodarepublica.pt/dr/detalhe/lei/33-2012-175332), de 23 de agosto, e [36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho, é admitida a celebração de contratos com estabelecimentos particulares e cooperativos que, se integrando nos objetivos e nos planos do Sistema Nacional de Educação, se localizem em áreas carenciadas da rede pública escolar, sendo garantida a igualdade entre os alunos por aqueles abrangidos e os alunos do ensino oficial no que se refere a despesas com propinas e matrículas.
+Nos termos conjugados da alínea a) do n.º 2 e do n.º 4 do artigo 8.º da Lei de Bases do Ensino Particular e Cooperativo, aprovada pela [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de março, alterada pelas Leis n.os[33/2012](https://diariodarepublica.pt/dr/detalhe/lei/33-2012-175332), de 23 de agosto, e [36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho, é admitida a celebração de contratos com estabelecimentos particulares e cooperativos que, se integrando nos objetivos e nos planos do Sistema Nacional de Educação, se localizem em áreas carenciadas da rede pública escolar, sendo garantida a igualdade entre os alunos por aqueles abrangidos e os alunos do ensino oficial no que se refere a despesas com propinas e matrículas.
 
 Por seu turno, o regime dos contratos de associação, como modalidade de contrato prevista na alínea a) do n.º 2 e no n.º 4 do artigo 8.º da [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de março, na sua redação atual, é concretizado por via do disposto nos artigos 9.º, 10.º e 16.º a 18.º do Estatuto do Ensino Particular e Cooperativo de nível não superior (EEPC), aprovado pelo [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, e alterado pela [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho.
 
@@ -162,3 +202,5 @@ d) 2027 - € 7 411 157,50.
 6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 
 Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118030043

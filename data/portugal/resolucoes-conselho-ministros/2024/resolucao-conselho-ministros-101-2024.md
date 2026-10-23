@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15300/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2024/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2024-875899342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3270a34d9c93c2fd6471e02c0b0589c3ba48bc617b7726f55dd615bdbdefbd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 509b93a59eb38485ef9681e66ce24f3f86f70f4b8cba8444ee86e19f6c519fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Ministros
-- Regulamentação de Atos Legislativos
-- Estatuto
 - Conselho Diretivo
+- Estatuto
 - Instituto Nacional de Medicina Legal e Ciências Forenses
 - Nomeação
+- Regulamentação de Atos Legislativos
 - Vice-presidente
 - Vogal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:108/2018
+  label: Renova, com efeitos a 10 de agosto de 2024, por um período de três anos, o mandato de Eugénia Maria Guedes Pinto
+    Antunes da Cunha, no cargo de vogal do INMLCF, I. P., e por inerência, a função de diretora da Delegação do Sul do INMLCF,
+    I. P., designada pela Resolução do Conselho de Ministros n.º 108/2018, de 30 de agosto, Diário da República n.º 167/2018,
+    Série I
+  source: null
+  date: '2018-08-30'
+- type: amends
+  target: pt:numero:despacho:11665/2020
+  label: Renova,com efeitos a 25 de novembro de 2023, por um período de três anos, o mandato de Laura Sofia Mendes Ramos Cainé,
+    no cargo de vogal do INMLCF, I. P., e exerce, por inerência, a função de diretora da Delegação do Centro do INMLCF, I.
+    P., designada pelo Despacho n.º 11665/2020, de 25 de novembro, Diário da República n.º 230/2020, Série II
+  source: null
+  date: '2020-11-25'
+- type: amends
+  target: pt:numero:despacho:11666/2020
+  label: Renova,com efeitos a 25 de novembro de 2023, por um período de três anos, o mandato de Agostinho José Carvalho dos
+    Santos no cargo de vice-presidente do conselho diretivo do Instituto Nacional de Medicina Legal e Ciências Forenses, I.
+    P. (INMLCF, I. P.) e por inerência, a função de diretor da Delegação do Norte do INMLCF, I. P., designado pelo Despacho
+    n.º 11666/2020, de 25 de novembro, Diário da República n.º 230/2020, Série II
+  source: null
+  date: '2020-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2012/07/31/p/dre
   label: null
@@ -95,16 +118,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/2022/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/2022/06/01/p/dre
+- type: cites
+  target: pt:dre:116237021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127582896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149532818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149532819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184242532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187100803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:29:43Z'
   warnings: []
   errors: []
 ---
@@ -136,3 +191,5 @@ c) O mandato de Laura Sofia Mendes Ramos Cainé, no cargo de vogal do INMLCF, I.
 2 - Determinar que a presente resolução produz efeitos a 25 de novembro de 2023, com exceção do disposto na alínea b) do número anterior que produz efeitos a 10 de agosto de 2024.
 
 Presidência do Conselho de Ministros, 26 de julho de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+117990209

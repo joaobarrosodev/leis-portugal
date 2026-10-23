@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 115/2020, 1º Suplemento, Série I de 2020-06-16
   number: '115'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 23-(2) a 23-(145)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45-a/2020/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-a-2020-135843143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e27a4691bf1e6f762e04ec0b2ac2ca5b68928c98cd803c60c4ba29af73cf3d37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c96d158008acab3e9efb55be40de9dd8c94bad61f50b7dfbd3fab99f348da890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Ordenamento do Território
-- Definição de Competências
-- Arborização
-- Proteção da Floresta
-- Ordenamento Florestal
-- Proteção do Ambiente
-- Política Florestal
-- ZONA Crítica de Incêndio Florestal
-- Plano Nacional de Gestão Integrada de Fogos Rurais
 - Agência para a Gestão Integrada de Fogos Rurais
+- Arborização
+- Definição de Competências
+- Incêndio
+- Ordenamento do Território
+- Ordenamento Florestal
+- Plano Nacional de Gestão Integrada de Fogos Rurais
+- Política Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Proteção do Ambiente
 - Situação de Alerta
+- ZONA Crítica de Incêndio Florestal
 relationships:
 - type: cites
   target: celex:32018R0841
@@ -119,16 +119,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114706489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114782541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66432466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:19:30Z'
   warnings: []
   errors: []
 ---
@@ -377,7 +441,7 @@ Como tal, o SGIFR, assenta nos dois eixos que as Comissões Técnicas Independen
 
 Estes dois eixos exigem uma especialização e as consequentes qualificações, de forma a poder dar uma resposta mais eficaz à gestão do território e a eventos que se anteveem cada vez mais complexos. Por outro lado, permitirão alavancar o caminho da profissionalização e assim garantir uma disponibilidade de recursos mais estável e menos sujeita a definições de períodos críticos cada vez mais imprevisíveis. Este Sistema dá resposta às debilidades, a que se aludiu em capítulo anterior, e ao conceito de duplo envolvimento - aproximação da prevenção e combate, associados, expresso na Resolução do Conselho de Ministros n.º 157-A, de 27 de outubro, materializado na Diretiva Única de Prevenção e Combate, [Resolução do Conselho de Ministros n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2018-114782541), de 1 de março, e prosseguido na [Resolução do Conselho de Ministros n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2019-118051701), de 21 de janeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Figura 1 - Desenho macro do novo modelo de competências e especialização
 
@@ -419,7 +483,7 @@ As responsabilidades de alto nível, que sintetizam as responsabilidades de cada
 
 Tabela 1 - Síntese de responsabilidades das entidades do SGIFR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 4.2. A cadeia de processos
 
@@ -429,7 +493,7 @@ Abreviadamente descritos abaixo, podem ser analisados com mais detalhe no anexo 
 
 A cadeia de processos é constituída por seis fases, conforme figura 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Figura 2 - Fases da Cadeia de processos do SGIFR
 
@@ -581,7 +645,7 @@ Portugal possui um risco de incêndio sistémico que não pode ser resolvido com
 
 Suportados nos princípios do SGIFR e sua cadeia de processos, e para dar solução às debilidades e conquistar as oportunidades identificadas, estabelecem-se quatro orientações estratégicas: Valorizar, Cuidar, Modificar e Gerir, que pela sua interdependência podem gerar ciclos de reforço positivo entre elas e que se resumem na figura 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Figura 3 - Teoria da Mudança: esquema em cascata dos ciclos de reforço positivo que contribuem para a gestão eficiente do risco, conduzindo a uma redução dos danos e área ardida.
 
@@ -595,7 +659,7 @@ Os objetivos estratégicos estão identificados, na sua relação com as orienta
 
 Os objetivos estratégicos são objeto de desenvolvimento no Programa de Ação e as respetivas metas e indicadores, aí quantificadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Para mobilizar a sociedade e reduzir o perigo dos fogos é necessário que se reconheça o valor presente e futuro dos bens e serviços gerados nos espaços rurais e naturais e que se tenha consciência das perdas diretas e indiretas provocadas pelos incêndios, nomeadamente ao nível da produção de madeira e outros produtos florestais, da produção agrícola e pecuária extensiva, da caça, pesca, pastoreio, sequestro de carbono, biodiversidade, recreio e lazer, proteção do solo, regularização do ciclo da água e sua qualidade, memória, paisagem e identidade da comunidade.
 
@@ -635,25 +699,25 @@ OB2.1. Planear e promover uma paisagem diversificada
 
 No âmbito deste objetivo estratégico prevê-se implementar programas e projetos de reconversão de povoamentos; pela instalação de pastagens melhoradas e manutenção da área agrícola em locais estratégicos, mas também pela concretização da criação de faixas agrícolas de gestão e de interrupção e manchas agrícolas de descontinuidade da floresta, dificultando a propagação dos fogos rurais, como oportunidade para outras ocupações do solo. Este objetivo engloba ainda programas que assegurem a gestão da regeneração natural de espécies autóctones e a execução dos planos de prevenção e gestão dos parques naturais e áreas de elevado valor onde se promove o restauro da paisagem. É também neste âmbito que se dá resposta à necessidade imperiosa de intervir na recuperação de áreas ardidas com criação de fundo de emergência e recuperação pós-evento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Incrementar a área anual sujeita a gestão de combustível.
 
 Desenhar e implementar um programa nacional estratégico de redução de combustível em grande escala e com orçamento plurianual, utilizando os recursos existentes nas diferentes entidades do SGIFR e desenvolvendo programas de grande escala de silvopastorícia e fogo controlado; garantir o planeamento e a execução de ações de controlo de espécies invasoras e promover o reaproveitamento dos sobrantes da exploração florestal através de compostagem ou geração de energia à escala local em biomassa; executar faixas de interrupção de combustível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Diminuir o valor perdido associado ao edificado rural garantindo a proteção da comunidade e do edificado em situações concretas e à escala local.
 
 A implementação deste objetivo passará pela revisão da legislação relativa às responsabilidades e à execução das redes de defesa, através da gestão ativa das faixas de gestão de combustíveis de rede secundária em redor dos aglomerados rurais; pela criação de programas para aumentar a segurança do edificado; e por robustecer os incentivos e penalizações financeiros aos proprietários ou gestores de prédios urbanos e misto não edificados no interface entre o urbano consolidado e os espaços rurais. Os programas com medidas que promovam a autoproteção das pessoas e segurança das comunidades e a instalação de refúgios, concorrem também para cumprir este objetivo estratégico. Um relevante potenciador dos resultados será o robustecimento dos incentivos e penalizações financeiros aos proprietários ou gestores de prédios em função do risco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Os espaços rurais são vulneráveis ao fogo e as pessoas também o são, pelo que, os comportamentos dos cidadãos precisam de se adequar a essas vulnerabilidades, que diferem no tempo e no espaço. O perfil de risco altera-se pela situação meteorológica e a composição, carga e estrutura da vegetação, enquanto para o das pessoas e comunidades é determinado em função da sua experiência, condições físicas, idade e cultura.
 
 A modificação de comportamentos visa assim promover junto da população a adoção das melhores práticas de defesa e também evitar o uso irrestrito do fogo, reduzir as fontes de ignição em períodos de maior risco, como as queimas e queimadas, as fogueiras, as máquinas e todas as fontes de calor que possam dar origem a um incêndio, e fazer ver que as técnicas usadas hoje para gerir os sobrantes nas propriedades agrícolas e silvícolas não podem ser as mesmas de outrora. Uma população mais reduzida e envelhecida, que usa o fogo como ferramenta pode já não ter as condições físicas necessárias para controlar uma propagação inesperada. Modificar comportamentos é, também, dar a conhecer as boas práticas de prevenção de incêndios e gestão do território e divulgar os conhecimentos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Reduzir o número de ignições(21) em dias com severidade meteorológica elevada ou superior, que pela sua tipologia, local e altura em que ocorrem apresentam maior risco.
 
@@ -661,13 +725,13 @@ Para tal, deverá reduzir-se o número e o risco das principais causas das igni�
 
 Importará ainda rever-se o enquadramento jurídico para os comportamentos de risco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Implementar mecanismos de comunicação e informação com os vários públicos-alvo e às diferentes escalas regionais e locais, integrando os vários processos do SGIFR.
 
 Este objetivo concretizar-se-á através de uma estratégia de comunicação especializada integrada para habitantes metropolitanos, rurais e turistas, de todas as faixas etárias, que divulgue o valor dos bens e serviços gerados nos espaços florestais e as boas práticas que evitam incêndios; dispor de mecanismos de alerta e aviso(22) adequados aos públicos-alvo em contexto de crise. A integração de práticas pedagógicas no ensino básico e secundário para o risco, é igualmente fundamental numa perspetiva estruturante e de longo prazo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Não é possível evitar os riscos por completo e não será possível evitar totalmente a ocorrência de incêndios no território nacional. É, porém, possível e necessário conhecer a sua probabilidade de ocorrência nas diferentes piroregiões ao longo do tempo e prever o seu eventual impacto em termos ambientais, económicos e sociais. Só desta forma é possível programar de forma equilibrada ações que permitam reduzir o grau de probabilidade da ameaça se concretizar, reduzir os seus impactos negativos em caso de ocorrência (ou capturar os efeitos positivos do fogo), programar e priorizar as operações de prevenção e supressão, de forma a minimizar e mitigar o impacto e garantir uma recuperação mais rápida dos territórios e comunidades afetados pelos incêndios.
 
@@ -679,19 +743,19 @@ No enquadramento institucional há que melhorar as práticas de governança, os 
 
 De relevância é também a criação provisão orçamental que agilize a mitigação das consequências dos incêndios para a pequena e media agricultura, bem como, o tema dos seguros agrícolas preverem a temática dos incêndios e perda de culturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Realizar o planeamento anual com perspetivas plurianuais integrando os vários processos de trabalho, as várias entidades e as diferentes escalas territoriais. Este planeamento incorpora uma avaliação do risco estrutural e conjuntural.
 
 A concretização deste objetivo resulta da existência do levantamento da biomassa e carga combustível, do mapeamento das estruturas edificadas e equipamentos com valor relevante e consequentemente da elaboração dos diversos mapas de risco, da existência de dados meteorológicos adequados e de qualidade, e do desenvolvimento de mecanismos de articulação para o desenho e aprovação do plano e seu orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Implementar as relações institucionais para a recolha, análise, tomada de decisão e comunicação sobre risco de incêndios rurais garantindo a sua correta capacitação.
 
 Este objetivo traduz-se em programas que promoverão o aumento da eficácia da legislação; o reforço das competências de governança do risco das instituições; a definição de políticas de acordo com o enquadramento supranacional; a implementação do sistema de melhoria continua; e o desenvolvimento de sistemas de informação integrados e sistemas de comunicação eficazes e eficientes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Dimensionar processos e recursos no sentido de uma maior eficácia e eficiência, incorporando standards internacionais relevantes e promovendo a profissionalização dos recursos.
 
@@ -699,7 +763,7 @@ Estudar, analisar cenários e decidir sobre definição, dimensionamento, posici
 
 Este objetivo engloba em particular, a capacitação das instituições tanto em termos de recursos humanos como de equipamentos, pelo que se revela de extrema importância para suportar o plano como um todo no longo prazo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Desenvolver as competências de todos agentes do SGIFR garantindo o princípio da especialização e para determinadas atividades suportar a necessária profissionalização e aumento do conhecimento.
 
@@ -769,7 +833,7 @@ No que concerne aos recursos afetos à monitorização e avaliação do Plano im
 
 . Qualificação de recursos humanos;
 
-. Aperfeiçoamento do sistema de M&A;
+. Aperfeiçoamento do sistema de M&A
 
 . Contratualização de avaliações externas;
 
@@ -847,7 +911,7 @@ No anexo I, que trata a Estratégia 2020-2030, já se apresentaram as fases da c
 
 A cadeia de processos é constituída por seis fases, conforme figura 1, com o detalhe da figura 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Figura 1 - Fases da Cadeia de processos do SGIFR
 
@@ -989,7 +1053,7 @@ Para suportar o regular funcionamento da cadeia de processos há que garantir um
 
 - Os elementos relativos à investigação das causas dos incêndios são registados e consultados pelas entidades do SGIFR em observância pela reserva de cada tipo de informação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Figura 2 - Grandes processos da cadeia de processos do SGIFR
 
@@ -999,7 +1063,7 @@ Atribuição de responsabilidades
 
 Aos processos descritos neste anexo cabe a atribuição de responsabilidades, de modo a informar os parceiros do Sistema acerca do que deles se espera neste modelo. A atribuição de responsabilidades é efetuada com a instituição de um modelo RASCIFAa de acordo com a codificação abaixo. Por princípio, existe apenas uma entidade responsável (R), mas sempre que se indique mais que uma, deve entender-se de acordo com a sua especialização (GFR ou PCIR).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Entidades e Convenções
 
@@ -1007,87 +1071,87 @@ Nas fichas dos processos deste anexo, os processos são identificados por um nú
 
 Associadas ao modelo RASCIFAa de definição de responsabilidades, encontrará as seguintes entidades, identificadas sempre que possível pelos seus acrónimos ou por outra codificação. O inventário de entidades não é exaustivo, podendo as entidades nucleares ao SGIFR socorrer-se da ação de outras, com valências relevantes para o processo. Toda a associação de responsabilidades no modelo RASCIFAa, para os processos, está centrado nas entidades com intervenção direta, não sendo referidas outras entidades cuja intervenção seja mais pontual, ainda que muito relevante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Acrónimos por ordem alfabética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PL1 - Orientações estratégicas e planeamento integrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PL2 - Diretrizes operacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PL3 - Orçamentação e Financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PR1 - Comunicação integrada e educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PR2 - Comunicação do risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PV1 - Gestão do território rural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PV2 - Proteção do território edificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PV3 - Verificação das condições de segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PV4 - Fiscalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PS1 - Análise de risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PS2 - Vigilância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PS3 - Pré-posicionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma SC1 - Ataque Inicial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma SC2 - Ataque Ampliado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma SC3 - Rescaldo e extinção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma SC4 - Restabelecimento de segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma SC5 - Execução de planos de emergência de proteção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PE1 - Investigação de causas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PE2 - Recuperação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11501/0000200145.pdf)
 
 Fluxograma PE3 - Melhoria contínua
 
@@ -1142,3 +1206,5 @@ Alerta: comunicação ao sistema de proteção civil da iminência ou ocorrênci
 (24) Autoridade Nacional de Emergência e Proteção Civil (ANEPC), Instituto da Conservação da Natureza e das Florestas (ICNF), Guarda Nacional Republicana (GNR), Forças Armadas (FFAA), Força Aérea (FA), Instituto Português do Mar e da Atmosfera (IPMA), Agência para a Gestão Integrada de Fogos Rurais (AGIF)
 
 (25) Representação única e idêntica de toda a informação relevante que é partilhada num posto de comando.
+
+113316832

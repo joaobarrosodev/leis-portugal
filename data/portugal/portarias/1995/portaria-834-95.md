@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/1995/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-1995-461262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a50dc7053521b275e016e1fefe0317b35f995c6d27cd60141a18dd754fdd4e1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9002c0ee3540e2cee2535719038205df4178b8cd749416518775a860d1f9d84b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,24 @@ relationships:
   target: pt:dre:492736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401742:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.182/2001.2001.03.09.MADRP, DR.IS-B [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2001-401742
+  date: '2001-03-09'
+- type: amended_by
+  target: pt:dre:641138:por
+  label: "Anexados vários prédios rústicos e renovada por um período de 6 anos, com efeitos a partir de 14.05.2007, a concessão\
+    \ da zona de caça criada pelo presente diploma, alterada pela Portaria 182/2001, de 09 de Março, pela PORT.1042/2007.31.08.2007.MADRP,\
+    \ DR.IS [168] de 31.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1042-2007-641138
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:492736:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, renovada pela Port 182/2001, de 09-Mar,\
+    \ e alterada pela Port 1042/2007, de 31-Ago, pela PORT.818/2009.29.07.2009.MADRP, DR.IS [145] de 29.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/818-2009-492736
+  date: '2009-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -92,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-r3/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-r3/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:07Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +188,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Julho de 1995.**
+Assinada em 3 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/160b00/44524453.pdf))](https://files.diariodarepublica.pt/1s/1995/07/160b00/44524453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/160b00/44524453.pdf)

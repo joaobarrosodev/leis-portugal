@@ -47,42 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1050-2009-1683676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae628893c12d9925cca915f83027d877ae3616487245a2f5c9a9b8764f01fe09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ca0fe170d26f1676d7f5245cfa89f3edfda4cc6210d12ca87f93df05c4088e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:40:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Equipa de Projecto
+- Instituto de Informática
+- Ministério das Finanças e da Administração Pública
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:3380395:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:40:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1050/2009
+# Declaração de rectificação n.º 1050/2009
 
 Por ter sido publicado com inexactidão no Diário da República n.º 42, II Série, de 02.03.2009, página n.º 8030, o [Aviso n.º 4662/2009](https://diariodarepublica.pt/dr/detalhe/aviso/4662-2009-3380395), referente à criação da Equipa Multidisciplinar de Desenvolvimento de Projectos de Inovação Tecnológica e designação do seu Chefe de Equipa, rectifica-se: Onde se lê "João Pedro Dionísio da Engrácia", deve ler-se "Pedro João Dionísio da Engrácia.
 
 5 de Março de 2009. - A Subdirectora-Geral, Maria Júlia Fonseca Cardoso Neves Murta Ladeira.
+
+201658827

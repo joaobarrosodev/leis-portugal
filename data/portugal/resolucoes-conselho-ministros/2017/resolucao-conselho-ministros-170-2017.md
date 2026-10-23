@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21600/0597205973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/170/2017/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/170-2017-114161343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0438f3d29a09fbe75b5a64bc5685c1cda482043c3d95c83ac1e22990855181b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82fe69fd474ef0855ecfcffe2eddac5d20cd58553359edbc658dd2a7dfbbf196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para a Energia
-- Instituto da Segurança Social
 - Associação Nacional de Municípios Portugueses
-- Direcção Geral da Segurança Social
-- Governo Regional
+- Autoridade Nacional de Comunicações
+- Autoridade Nacional de Protecção Civil
 - Conselho Nacional do Consumo
 - Coordenador
-- Renovação Urbana
 - Direção Geral das Atividades Económicas
 - Direção Geral das Autarquias Locais
-- Direção Geral do Património Cultural
 - Direção Geral de Energia e Geologia
-- Instituto de Turismo de Portugal
-- Laboratório Nacional de Engenharia Civil
+- Direção Geral do Património Cultural
 - Direção Geral do Território
+- Direcção Geral da Segurança Social
+- Fundo Ambiental
+- Governo Regional
 - Instituto da Habitação e da Reabilitação Urbana
+- Instituto da Segurança Social
+- Instituto de Turismo de Portugal
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Instituto Nacional para a Reabilitação
+- Laboratório Nacional de Engenharia Civil
+- Madeira.região Autónoma
 - Ordem dos Arquitectos
 - Ordem dos Engenheiros
 - Ordem dos Engenheiros Técnicos
-- Urbanismo
-- Madeira.região Autónoma
 - Projeto
-- Instituto Nacional para a Reabilitação
-- Autoridade Nacional de Protecção Civil
-- Açores
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
-- Autoridade Nacional de Comunicações
-- Fundo Ambiental
 - Projeto Reabilitar como Regra
+- Renovação Urbana
+- Urbanismo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:12:02Z'
   warnings: []
   errors: []
 ---
