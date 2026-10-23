@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/166000003/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,25 +46,34 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-c-2025-933766724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fc01575ede0205c0c5ac74bedb0319d4c749506a89d3233d1441727cd38e30b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6a39ea23ebde78e8824b715e295633731be46d7213ee4cd06d872fc3b4d7c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Auxílio de Minimis
+- Catástrofe
+- Cooperativa
+- Empresa
+- Incêndio
+- Regulamentação de Atos Legislativos
+- Situação de Calamidade
+- Turismo
 relationships:
 - type: cites
   target: celex:32014R0651
@@ -74,16 +83,36 @@ relationships:
   target: celex:32023R2831
   label: null
   source: null
+- type: cites
+  target: pt:dre:205994956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933044064:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:59:41Z'
   warnings: []
   errors: []
 ---
@@ -356,7 +385,7 @@ Atividades enquadráveis nos seguintes CAE:
 
 103 - Preparação e conservação de frutos e de produtos hortícolas.
 
-10411 - Produção de óleos e gorduras animais brutos (<sup>1</sup>).
+10411 - Produção de óleos e gorduras animais brutos (1).
 
 10412 - Produção de azeite.
 
@@ -380,13 +409,13 @@ Atividades enquadráveis nos seguintes CAE:
 
 1084 - Fabricação de condimentos e temperos.
 
-10850 - Fabricação de refeições e pratos pré-cozinhados (<sup>2</sup>).
+10850 - Fabricação de refeições e pratos pré-cozinhados (2).
 
 1086 - Fabricação de alimentos homogeneizados e dietéticos.
 
 1089 - Fabricação de outros produtos alimentares, n.e.
 
-10911 - Fabricação de pré-misturas (<sup>3</sup>).
+10911 - Fabricação de pré-misturas (3).
 
 10912 - Fabricação de alimentos para animais de criação (exceto para aquicultura).
 
@@ -592,7 +621,7 @@ Lista de CAE elegíveis
 
 Atividades enquadráveis nos seguintes CAE:
 
-49392 - Outros transportes terrestres de passageiros diversos, n. e. (<sup>4</sup>).
+49392 - Outros transportes terrestres de passageiros diversos, n. e. (4).
 
 551 - Estabelecimentos hoteleiros.
 
@@ -616,45 +645,45 @@ Atividades enquadráveis nos seguintes CAE:
 
 82300 - Organização de feiras, congressos e outros eventos similares.
 
-90040 - Exploração de salas de espetáculos e atividades conexas (<sup>5</sup>).
+90040 - Exploração de salas de espetáculos e atividades conexas (5).
 
 91020 - Atividades dos museus.
 
 91030 - Atividades dos sítios e monumentos históricos.
 
-91041 - Atividades dos jardins zoológicos, botânicos e aquários (<sup>5</sup>).
+91041 - Atividades dos jardins zoológicos, botânicos e aquários (5).
 
-91042 - Atividades dos parques e reservas naturais (<sup>5</sup>).
+91042 - Atividades dos parques e reservas naturais (5).
 
-93110 - Gestão de instalações desportivas (<sup>5</sup>).
+93110 - Gestão de instalações desportivas (5).
 
-93192 - Outras atividades desportivas, n. e. (<sup>5</sup>).
+93192 - Outras atividades desportivas, n. e. (5).
 
-93210 - Atividades de parques de diversão e temáticos (<sup>5</sup>).
+93210 - Atividades de parques de diversão e temáticos (5).
 
-93211 - Atividades de parques de diversão itinerantes (<sup>5</sup>).
+93211 - Atividades de parques de diversão itinerantes (5).
 
-93292 - Atividades dos portos de recreio (marinas) (<sup>5</sup>).
+93292 - Atividades dos portos de recreio (marinas) (5).
 
-93293 - Organização de atividades de animação (<sup>5</sup>).
+93293 - Organização de atividades de animação (5).
 
-93294 - Outras atividades de diversão e recreativas, n. e. (<sup>5</sup>).
+93294 - Outras atividades de diversão e recreativas, n. e. (5).
 
-93295 - Outras atividades de diversão itinerantes (<sup>5</sup>).
+93295 - Outras atividades de diversão itinerantes (5).
 
-96040 - Atividades de bem-estar físico (<sup>5</sup>).
+96040 - Atividades de bem-estar físico (5).
 
 Notas
 
-(<sup>1</sup>) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à produção de óleos de peixe.
+(1) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à produção de óleos de peixe.
 
-(<sup>2</sup>) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à fabricação de refeições e pratos pré-cozinhados à base de produtos da pesca.
+(2) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à fabricação de refeições e pratos pré-cozinhados à base de produtos da pesca.
 
-(<sup>3</sup>) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à fabricação de farinhas de peixe.
+(3) A empresa deverá emitir declaração atestando se o financiamento se destina ou não à fabricação de farinhas de peixe.
 
-(<sup>4</sup>) Enquadrável desde que pelo menos 50 % da atividade diga respeito a transporte de turistas.
+(4) Enquadrável desde que pelo menos 50 % da atividade diga respeito a transporte de turistas.
 
-(<sup>5</sup>) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
+(5) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística e registadas no Registo Nacional dos Agentes de Animação Turística (RNAAT).
 
 ## ANEXO II — Regulamento da Linha de Apoio à Regeneração, Valorização Turística e Promoção dos Territórios Atingidos Pelos Incêndios Rurais
 
@@ -853,3 +882,5 @@ c) Prestação de informações falsas sobre a sua situação ou sobre a situaç
 ###### Artigo 16.º — Controlo e auditoria
 
 Compete à Entidade Gestora controlar e auditar a execução dos projetos apoiados e a utilização dos apoios financeiros, em colaboração com a Entidade Coordenadora.
+
+319484376

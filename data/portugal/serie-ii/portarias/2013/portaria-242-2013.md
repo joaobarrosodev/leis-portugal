@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/078000000/1309013091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-2013-868357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a479d20fce1a6fddd4c2260aeb97b8a67b718038e4c46682908803e2f3268e3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c76d6cdfb8c51954611ca33c3fa4fab16af1474f8a8d3fb5ca8418b73251dee7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:38:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:38:47Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ Conforme estipulado no n.º 4 do artigo 167.º do EMFAR, os segundos-tenentes RC
 Estes militares, uma vez ingressados, e tal como vão ordenados, deverão ser colocados na lista de antiguidade do seu posto e classe à esquerda do 512098 subtenente da classe do Serviço Técnico Luciano Carlos Rosa da Silveira Dutra.
 
 12-04-2013. - O Almirante Chefe do Estado-Maior da Armada, José Carlos Torrado Saldanha Lopes, almirante.
+
+206894643

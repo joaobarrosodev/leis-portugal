@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/244000000/0005800059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2023-807891440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2dcd804d04fc1234b0cffdee103ae7c347280132ea42a64c81aa940f9b6eee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f050f72299c6bf848ee088110e8296014970274d2592cfd14becaef5ecab4cc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:1110001581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70510001:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:51:51Z'
   warnings: []
   errors: []
 ---
@@ -127,10 +135,10 @@ Ao abrigo do disposto nos artigos 5.º e 6.º do [Decreto-Lei n.º 56/81](https:
 
 ## ANEXO — Dispositivo de adidos/as de defesa residentes e não residentes
 
-|  |  |  |  |  |  |
+| Representações diplomáticas | Adidos/as | Gabinetes | Efetivos<br>totais | Acumulações dos/as adidos/as enquanto não residentes |  |
 | --- | --- | --- | --- | --- | --- |
-| Representações diplomáticas | Adidos/as | Gabinetes | Gabinetes | Efetivos totais | Acumulações dos/as adidos/as enquanto não residentes |
-| Representações diplomáticas | Adidos/as | Tradutor/a | Arquivista/amanuense | Efetivos totais | Acumulações dos/as adidos/as enquanto não residentes |
+| Tradutor/a | Arquivista/amanuense |  |  |  |  |
+|  |  |  |  |  |  |
 | Ancara ... | 1 | 1 | - | 2 | Cairo. |
 | Argel ... | 1 | - | 1 | 2 | Bamako, Niamei, Trípoli. |
 | Berlim ... | 1 | 1 | 1 | 3 | Talin, Varsóvia, Vílnius. |
@@ -149,3 +157,5 @@ Ao abrigo do disposto nos artigos 5.º e 6.º do [Decreto-Lei n.º 56/81](https:
 | São Tomé ... | 1 | - | - | 1 | Bangui, Libreville, Malabo. |
 | Washington ... | 1 | - | 1 | 2 | Otava. |
 | Totais | 17 | 3 | 10 | 30 | - |
+
+317147485

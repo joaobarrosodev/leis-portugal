@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 219/2023, 2º Suplemento, Série II de 2023-11-13
   number: '219'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 379-(2) a 379-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/219000002/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-a-2023-224203174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaa57d8a06302711869e8fdbdfe059a63df44fa0ba31f4aac65cc893c58cf5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 029acc3a7856e6fa18038df280832ed42fde9a75c6de6f2eb1fdc0566215ddc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade de Segurança Alimentar e Económica
+- Despesas Públicas
+- Gabinete Governamental
+- IAPMEI
+- Instituto Português da Qualidade
+- Ministro da Economia e do Mar
+- Secretaria Geral
+- Segurança das Instalações
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:50:45Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +126,9 @@ Manda o Governo, pelo Ministro da Economia e do Mar e pela Secretária de Estado
 
 1.º Ficam autorizadas as entidades abaixo mencionadas a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderá exceder as seguintes importâncias, valores que incluem IVA à taxa legal em vigor:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Entidades | 2023 | 2024 | Total |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Secretaria-Geral do Ministério da Economia e Mar... | (euro) 177 626,21 | (euro) 176 969,51 | (euro) 354 595,72 |
 | Gabinete de Ministro da Economia e do Mar... | (euro) 131 831.53 | (euro) 131 479.79 | (euro) 263 311,32 |
 | Autoridade de Segurança Alimentar e Económica... | (euro) 354 847,94 | (euro) 353 423,65 | (euro) 708 271,59 |
@@ -109,3 +142,7 @@ Manda o Governo, pelo Ministro da Economia e do Mar e pela Secretária de Estado
 4.º A presente portaria produz efeitos a partir da data da sua publicação.
 
 13 de novembro de 2023. - O Ministro da Economia e do Mar, António José da Costa Silva. - 8 de novembro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.
+
+317055971
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

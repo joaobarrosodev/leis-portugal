@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/240000000/0003500035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/915-2022-204734664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8ffbfe8bfdf9c48bea706d656b5895b78c450d5c0b0c804bd6785daac16beb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9037d3321b51cd511a1f63ec0ae22e732c55e13fa890fc04584c6c4b904223d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Militar
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:212770108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:106677496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183672437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203628889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:212770108:por
+  label: Revogada, com efeitos a 1 de janeiro de 2023, pelo(a) Portaria n.º 207/2023 - Diário da República n.º 89/2023, Série
+    II de 2023-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2023-212770108
+  date: '2023-05-09'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:47:03Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +146,5 @@ c) Diária - (euro) 11,53 (onze euros e cinquenta e três cêntimos).
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de outubro de 2022.
 
 6 de dezembro de 2022. - O Secretário de Estado da Defesa Nacional, Marco Alexandre da Silva Capitão Costa Ferreira.
+
+315947981

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/104000001/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-b-2024-867563622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ead94ef3d66d750bbdf8856420d38f6129bda3784dbc0664b964e4f6868c9dc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d97b37b68fda5c3c228f295ba0e40641e3fdcec298d8ed8670b4d69c87c91b6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Assistência Técnica
+- Contrato
+- Despesas Públicas
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+- Segurança Interna
+- Software
+- TIC
+relationships:
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184435242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223473628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:54:56Z'
   warnings: []
   errors: []
 ---
@@ -171,13 +204,13 @@ Considerando que o Sistema de Segurança Interna não possui estruturas de prest
 
 Considerando que o contrato suprarreferido tem execução financeira em anos económicos distintos do ano em que o compromisso é assumido, a celebração do mesmo dependerá de autorização prévia conjunta dos membros do Governo responsáveis pela área das finanças e da tutela, nos termos do disposto nas alíneas b) do artigo 3.º e a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua atual redação;
 
-Considerando que, no caso em apreço, a autorização é concedida mediante a aprovação e assinatura da portaria de extensão de encargos pelo Ministro das Finanças e da respetiva tutela, nos termos dos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259) e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua atual redação;
+Considerando que, no caso em apreço, a autorização é concedida mediante a aprovação e assinatura da portaria de extensão de encargos pelo Ministro das Finanças e da respetiva tutela, nos termos dos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259) e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua atual redação;
 
 Considerando que o procedimento em apreço, para a Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM), terá um encargo máximo de 2 674 500 EUR (dois milhões, seiscentos e setenta e quatro mil e quinhentos euros), acrescido de IVA à taxa legal em vigor;
 
 Considerando que os encargos orçamentais decorrentes da execução do contrato terão lugar nos anos económicos de 2024, 2025 e 2026:
 
-Nestes termos, e em conformidade com o disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua atual redação, conjugado com o disposto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua atual redação, e nos n.<sup>os</sup>1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Presidência, o seguinte:
+Nestes termos, e em conformidade com o disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua atual redação, conjugado com o disposto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua atual redação, e nos n.os1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Presidência, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -206,3 +239,5 @@ c) 2026 - 850 000 EUR (oitocentos e cinquenta mil euros), a inscrever em futura 
 A presente portaria produz efeitos a partir da data da sua assinatura.
 
 27 de maio de 2024. - O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento. - O Ministro da Presidência, António Egrejas Leitão Amaro.
+
+317749729

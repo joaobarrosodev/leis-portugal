@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2013-1246550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T17:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6bc4b9104dc2d5eded1d685aa4c844f0c685c3095ce865f020883edee3e4ed0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ef46aaa3a2dde92d78453cf73001a1d3367fb2c45cbf14a14b4cd17003bb567
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Interesse Público
+- Penalva do Castelo
+- Protecção do Património
+- Viseu
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:207001874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:207001874:por
+  label: Mantida em vigor a zona especial de proteção fixada pela presente portaria, pelo(a) Decreto n.º 2/2023 - Diário da
+    República n.º 27/2023, Série I de 2023-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2023-207001874
+  date: '2023-02-07'
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:39:28Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +138,6 @@ Nos termos do disposto no artigo 15.º, no n.º 1 do artigo 18.º e no n.º 2 do
 
 5 de junho de 2013. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/115000000/1936919369.pdf))](https://files.diariodarepublica.pt/2s/2013/06/115000000/1936919369.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/115000000/1936919369.pdf)
+
+13772013

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 60/2023, 1º Suplemento, Série II de 2023-03-24
   number: '60'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 397-(4) a 397-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/060000001/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-a-2023-210997302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T17:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2127e0ed57f767d6e6efb5002c692ab2918f0c75f1e779e809dafdd5927dcc18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07ccad311d5c0e8246eabdd6e503589a1a7ef09332a7c1a67ee3c870e42defa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Financiamento
+- Incentivos à Comunicação Social
+- Madeira.região Autónoma
+- Região Autónoma
+- Sistema de Incentivos do Estado a Comunicação Social
+relationships:
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443111:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:47:35Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +119,7 @@ A presente portaria regula os termos e as condições do financiamento dos incen
 
 1 - O montante total de apoios do Estado à comunicação social a atribuir às Regiões Autónomas dos Açores e da Madeira, nos termos do [Decreto-Lei n.º 23/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2015-66443111), de 6 de fevereiro, é de 23 006,37 (euro), com a seguinte repartição:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/060000001/0000400005.pdf))](https://files.diariodarepublica.pt/2s/2023/03/060000001/0000400005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/060000001/0000400005.pdf)
 
 2 - Dentro da respetiva dotação orçamental, a Região Autónoma dos Açores pode aprovar o financiamento das candidaturas apresentadas até ao limite máximo definido para cada tipologia de incentivo.
 
@@ -120,3 +138,5 @@ b) Serão aprovadas as candidaturas em função da pontuação atribuída na lis
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 13 de fevereiro de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira. - 9 de fevereiro de 2023. - A Secretária de Estado do Desenvolvimento Regional, Isabel Cristina Fernandes Rodrigues Ferreira.
+
+316307822

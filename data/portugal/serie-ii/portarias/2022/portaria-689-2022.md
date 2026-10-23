@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/187000000/0003700037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-2022-201512015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e6a4d0593a2db2f6de48c05b42804ae7ba19e8bfdfa8c79d1f5f2f66ffaa12b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e203c419e5e7ab483fb22fff7c6bb03f66195ef9cb44d0be58c9cc3fa9b6f6e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:50Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ Face ao anteriormente mencionado, é de inteira justiça reconhecer publicamente
 Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º, atento o disposto no artigo 25.º, na alínea a) do n.º 1 do artigo 26.º, na alínea d) do n.º 1 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dre/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a Medalha da Defesa Nacional, de 4.ª classe, ao Sargento-Ajudante C, NII 9313495, Nelson Filipe Vicente Candeias.
 
 16 de setembro de 2022. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.
+
+315707978

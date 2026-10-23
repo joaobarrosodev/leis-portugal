@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/234000000/3505235052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,36 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/845-2013-2585694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ac100fd4cc69a9aad1db4f20bb6df0efaa0078dc51ee70d4b3df8234639aaf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14fb9b8ee94527ca96ffe43db9bcf48ce8d4b7bc09b17445db5e111e924393db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adido Militar
+- Argélia
+- Embaixada
+- Exoneração
+- Nomeação
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:73852356:por
+  label: Alterada, com efeitos a 01.02.2016, a nomeação do Coronel ADMAER António Manuel Marques da Silva, efetuada através
+    da presente Portaria, pelo(a) Portaria n.º 70/2016 - Diário da República n.º 52/2016, Série II de 2016-03-15, que manteve
+    a acumulação em Trípoli, República da Líbia, passando a acumular as funções de Adido de Defesa no Cairo, República Árabe
+    do Egito, e manteve o termo da missão de serviço do nomeado a 28.06.2016.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-2016-73852356
+  date: '2016-03-15'
+- type: amended_by
+  target: pt:dre:75371315:por
+  label: Exonerado, com efeitos a partir de 29.07.2016, o nomeado pela presente portaria, na redação da Port. 70/2016 de 15-mar,
+    pelo(a) Portaria n.º 271/2016 - Diário da República n.º 182/2016, Série II de 2016-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2016-75371315
+  date: '2016-09-21'
+- type: amended_by
+  target: pt:dre:75389613:por
+  label: Prorrogada por um período de 30 dias, com início a 29.06.2016, a comissão de serviço do nomeado pela presente portaria,
+    na redação da Port. 70/2016 de 15-mar, pelo(a) Portaria n.º 290/2016 - Diário da República n.º 184/2016, Série II de 2016-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2016-75389613
+  date: '2016-09-23'
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:12Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +141,5 @@ Nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 56/81](https://diariod
 A presente portaria produz efeitos a partir de 29 de junho de 2013 e revoga a portaria n.º 495/2013, de 07 de junho, publicada no Diário da República n.º 140, de 23 de julho de 2013. (Isenta de visto do Tribunal de Contas.)
 
 1 de novembro de 2013. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207423378

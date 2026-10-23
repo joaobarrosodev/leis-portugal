@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 11/2014, 1º Suplemento, Série II de 2014-01-16
   number: '11'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1398-(2) a 1398-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/01/011000001/0000200003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-a-2014-882028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adc6bb8eb773a6413b1274cb53c66ff9f1e645ded942d34503158ad1b6f4e116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6376bbd04b90c8dd773d343a145166487465213ba37dddabc92bfe5a6cc5639e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Fundo de Pensões dos Militares das Forças Armadas
+- Reembolso de Contribuições
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:239840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603219:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:40Z'
   warnings: []
   errors: []
 ---
@@ -175,3 +203,5 @@ O reembolso dos montantes apurados nos termos dos artigos 2.º, 3.º e 4.º pode
 A presente Portaria entra em vigor no dia seguinte à sua publicação.
 
 15 de janeiro de 2014. - A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207544676

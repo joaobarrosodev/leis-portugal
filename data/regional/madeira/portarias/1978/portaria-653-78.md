@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-1978-327294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59b48ae5cac168c421655303efdbaf0c03186a435dd60ef8a1b83287b2105eee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f122da8d5b1af7a32e040e40bcf03f6cf08f195965bb6ebb3050362e28ea5389
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EDP
+- Empresa de Electricidade da Madeira
+- Energia Elétrica
+- Madeira.região Autónoma
+- Preço
+- Regulamento Tarifário
+relationships:
+- type: cites
+  target: pt:dre:219559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:48Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +124,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnolog
 
 Ministérios da Indústria e Tecnologia e do Comércio e Turismo e Região Autónoma da Madeira, 18 de Outubro de 1978. - O Ministro da Indústria e Tecnologia, Fernando Augusto dos Santos Martins. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Ministro da República para a Madeira, Lino Dias Miguel.
 
-## ANEXO — ARTIGO 1.º
+## ANEXO
+
+###### ARTIGO 1.º
 
 (Âmbito e estrutura do sistema tarifário)
 
@@ -118,7 +134,7 @@ Ministérios da Indústria e Tecnologia e do Comércio e Turismo e Região Autó
 
 2 - Este sistema tarifário apresenta uma estrutura que considera como elementos intervenientes na facturação do fornecimento de energia eléctrica a potência e as energias activa e reactiva. Os preços a praticar dependem do nível de tensão e dos períodos de entrega da energia eléctrica e são apresentados nos quadros 1 e 2, que fazem parte integrante deste sistema tarifário.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Níveis de tensão)
 
@@ -130,7 +146,7 @@ Média tensão - entre 500 V e 60000 V.
 
 2 - Os valores de tensão indicados referem-se a valores nominais de tensão entre fases.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Períodos tarifários)
 
@@ -152,7 +168,7 @@ Horas cheias - principal período de fornecimento, com excepção das horas de v
 
 4 - Sempre que a energia consumida não seja objecto de medições diferenciadas por postos horários, será, em regra, facturada ao preço de horas cheias.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Consumidores domésticos e equiparados)
 
@@ -170,7 +186,7 @@ c) Os relativos a pequenos consumidores não domésticos, de carácter muito mod
 
 3 - Para que um novo consumidor possa ser incluído na categoria de doméstico, esta deve figurar expressamente na requisição de fornecimento e no respectivo contrato, quando este exista.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Potência a facturar em média tensão)
 
@@ -192,7 +208,7 @@ onde P(índice 1) é a maior potência tomada nos últimos doze meses; P(índice
 
 7 - A potência a facturar dá origem à cobrança mensal de uma taxa por kilowatt, definida no quadro 1, exigível enquanto durar o contrato de fornecimento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Potência a facturar em baixa tensão)
 
@@ -206,7 +222,7 @@ O calibre de utilização de um contador corresponde ao valor decorrente da requ
 
 4 - A potência tomada em baixa tensão dá origem à facturação de uma taxa mensal, variável por escalões, definida nos quadros 1 e 2.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Potência interruptível nas horas de ponta)
 
@@ -218,7 +234,7 @@ O calibre de utilização de um contador corresponde ao valor decorrente da requ
 
 Este regime é aplicável aos consumidores de baixa tensão que tenham solicitado fornecimentos de energia com potência interruptível, no caso de o distribuidor não colocar a aparelhagem necessária à interrupção da potência passados seis meses sobre a apresentação do respectivo pedido.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Alteração de potência em baixa tensão)
 
@@ -230,7 +246,7 @@ Este regime é aplicável aos consumidores de baixa tensão que tenham solicitad
 
 4 - Qualquer pedido de aumento de potência antes de passados doze meses sobre a redução de potência concede ao distribuidor o direito de cobrar a diferença para a taxa fixa mensal correspondente à nova potência no período entretanto decorrido.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Energia activa a facturar)
 
@@ -242,7 +258,7 @@ Este regime é aplicável aos consumidores de baixa tensão que tenham solicitad
 
 Para efeitos de aplicação desta regra, os consumidores de baixa tensão de potência superior a 20 kVA serão equiparados a consumidores de média tensão.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Energia reactiva a facturar)
 
@@ -252,7 +268,7 @@ Para efeitos de aplicação desta regra, os consumidores de baixa tensão de pot
 
 3 - Sempre que a taxa de potência for estabelecida em escudos por kilovolt-ampere, não haverá lugar à facturação de energia reactiva.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Tarifas diferentes das da tensão de entrega)
 
@@ -260,17 +276,17 @@ Para efeitos de aplicação desta regra, os consumidores de baixa tensão de pot
 
 2 - Mediante o pagamento da sobretaxa indicada no quadro 1, os consumidores alimentados em baixa tensão, com potência contratada igual ou superior a 20 kVA, poderão optar pelas regras de facturação em média tensão, podendo, nesse caso, ser obrigados a pôr à disposição do distribuidor um local apropriado para a instalação de um posto de transformação e a pagar a diferença das taxas de ramal e chegada correspondentes.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Correcção da tarifa)
 
 1 - Para fazer face às alterações do preço dos combustíveis utilizados na produção termoeléctrica, e enquanto o presente sistema tarifário não for revisto, a EEM, depois de obtida a autorização necessária, aplicará às taxas de energia um adicional - A - calculado pela seguinte expressão:
 
-A = Y [[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf) (F - F(índice 1)) + (1 - [([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)) (G - G(índice 1))] x 0,28 escudos por kilowatt-hora, onde [([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf) corresponde à relação entre o consumo de fuelóleo e o consumo total de combustível; Y ao índice de produção térmica na produção total relativa aos últimos doze meses; F e G são o preço em escudos por litro de fuelóleo e gasóleo, respectivamente, no mês anterior àquele a que se refere a factura, e F(índice 1) e G(índice 1) são o preço dos mesmos combustíveis na data da entrada em vigor deste sistema tarifário.
+A = Y [[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf) (F - F(índice 1)) + (1 - [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)) (G - G(índice 1))] x 0,28 escudos por kilowatt-hora, onde [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf) corresponde à relação entre o consumo de fuelóleo e o consumo total de combustível; Y ao índice de produção térmica na produção total relativa aos últimos doze meses; F e G são o preço em escudos por litro de fuelóleo e gasóleo, respectivamente, no mês anterior àquele a que se refere a factura, e F(índice 1) e G(índice 1) são o preço dos mesmos combustíveis na data da entrada em vigor deste sistema tarifário.
 
 2 - Este adicional, arredondado para o centavo imediatamente superior, será aplicado independentemente da tensão de entrega e do período tarifário considerado.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Disposições complementares)
 
@@ -292,7 +308,7 @@ Os consumidores sujeitos ao pagamento de energia de ponta estão dispensados des
 
 7 - Aos consumidores colocados em igualdade de circunstâncias corresponderá o mesmo tratamento nas várias modalidades admitidas neste sistema tarifário, salvo no que diferentemente resultar de contratos especiais de fornecimentos anteriores à entrada em vigor deste diploma onde expressamente se garanta, por um dado período, a manutenção de condições particulares de fornecimento.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dúvidas)
 
@@ -304,12 +320,12 @@ Tarifas de energia eléctrica
 
 (Para potências superiores a 13,2 kVA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)
 
 QUADRO 2
 
 Tarifas de energia eléctrica em baixa tensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25900/23532357.pdf)
 
-**O Ministro da Indústria e Tecnologia, Fernando Augusto dos Santos Martins. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Ministro da República para a Madeira, Lino Dias Miguel.**
+O Ministro da Indústria e Tecnologia, Fernando Augusto dos Santos Martins. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Ministro da República para a Madeira, Lino Dias Miguel.

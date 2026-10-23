@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/042000000/0713007130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-2012-3384172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:36:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76037eff4fafa00e96213f547021c211961528e04f4c8a7a0c960ddcfcbdbfd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb80de11cb8d09b134cf0450abd5ec37578ac73609ef03135642eda3bca7202d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:36:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:36:12Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +88,8 @@ Situação de reserva
 
 Nos termos da alínea b) do n.º 1 do Artigo 152.º do EMFAR, devendo ser considerados nesta situação na data que cada um se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/02/042000000/0713007130.pdf))](https://files.diariodarepublica.pt/2s/2012/02/042000000/0713007130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/02/042000000/0713007130.pdf)
 
 5 de dezembro de 2011. - Por delegação do Chefe do Estado-Maior do Exército Português, o Comandante do Pessoal do Exército, Luís Miguel de Negreiros Morais de Medeiros, tenente-general.
+
+205772322

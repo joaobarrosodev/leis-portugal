@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/928-2013-3436425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b4b5c8ef990f557e61838269c5f7c5cc797b9b9b03fb38a7f9e875214f909d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4848d87123a916a7cd5f6e6dba7603aafdc041cf81c927088453546065da102a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Reabilitação
+- Rede Ferroviária
+- Refer
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:40Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +134,5 @@ b) Em 2015 - (euro) 1.438.400,00, ao qual acresce IVA à taxa legal em vigor.
 Por delegação de competências, nos termos, respetivamente, dos despachos n.º 9459/2013 e 12100/2013.
 
 17 de dezembro de 2013. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
+
+207476247

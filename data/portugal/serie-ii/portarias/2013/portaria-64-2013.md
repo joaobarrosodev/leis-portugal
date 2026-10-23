@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/02/025000000/0553705537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-2013-919673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T17:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b293d7b9396cfda4dc21da2169623670719c705f2e71b91f7030803fd3edb445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79aaa16482245eac0133b699b9dcde7999b4ae46e237a6060dd3c6b58b2498c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:40:59Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Situação de reserva
 nos termos da alínea a) do n.º 1 do Artigo 152.º do EMFAR, devendo ser considerado nesta situação desde 18 de novembro de 2012.
 
 11 de janeiro de 2013. - Por delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Diretor de Administração de Recursos Humanos, Tiago Maria Chaves de Almeida e Vasconcelos, major-general.
+
+206722071

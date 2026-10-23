@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-2012-864405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T17:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca5c48d200602bebdb26f3bfc782ebc91c6fa8a6919249a7d053a3ef576a926e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1be11cd16bdcd5799bf9b8427bab4e069e2fb158b17afc87db42b240b2ef848
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Domínio Público Marítimo
+- Figueira da Foz
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:3533302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:34:20Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +122,5 @@ c) Um representante do requerente.
 O auto de delimitação que vier a ser produzido pela comissão ora nomeada observará as normas procedimentais constantes do [Despacho Normativo n.º 32/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-2008-3533302), de 20 de junho, e as orientações do Parecer n.º 6244, de 20 de janeiro de 2010, da Comissão do Domínio Público Marítimo, sendo remetido à Agência Portuguesa do Ambiente, I. P., para seguimento nos termos do n.º 6 e seguintes do Regulamento de procedimento dos processos de delimitação do domínio público marítimo pendentes em 27 de outubro de 2007, aprovado pelo citado Despacho Normativo.
 
 3 de julho de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça.
+
+206241571

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0011200113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-993807554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T18:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0255e850ec996bda3c1563cac6b9a3b5b679d2f372274d85b6e22af729955f84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d2ad3aeaa2dcfb8246ef83629f7b596283f28cf56947744dc957314033bc6da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Corpo de Intervenção
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- PSP
+- Reabilitação
+- Realojamento
+relationships:
+- type: amends
+  target: pt:numero:portaria:906-A/2024
+  label: Altera a Portaria n.º 906-A/2024/2 de 9 de dezembro, DR.IIS[238]Supl
+  source: null
+  date: '2024-12-09'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213628052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839655077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899582848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927115792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927882356:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:02:24Z'
   warnings: []
   errors: []
 ---
@@ -132,3 +180,5 @@ A importância fixada para o ano económico de 2026 poderá ser acrescida do sal
 A presente Portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
 22 de dezembro de 2025. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 12 de dezembro de 2025. - O Secretário de Estado da Administração Interna, Telmo Augusto Gomes de Noronha Correia.
+
+319925591

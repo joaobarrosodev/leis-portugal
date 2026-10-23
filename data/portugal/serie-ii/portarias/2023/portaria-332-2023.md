@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/07/134000000/0007600077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-2023-215529376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5565a9f869b6739b5c5bab5fdbbc2d90ffec1bbe2d7ca8b8940938cfec7ffb3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d61e725b93a17dbccb2b536e2015caebc3027bb3db9adcb234c321a44db146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Despesas Públicas
+- Direção Geral da Administração Escolar
+- Estabelecimento de Ensino
+- Estatuto do Ensino Particular e Cooperativo
+- Programa de Apoio à Família e a Criança
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1809373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3611854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:48:46Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +135,6 @@ Nestes termos e em conformidade com o disposto no n.º 1 do artigo 22.º do [Dec
 
 5 de julho de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 7 de dezembro de 2022. - O Secretário de Estado da Educação, António de Oliveira Leite.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2023/07/134000000/0007600077.pdf))](https://files.diariodarepublica.pt/2s/2023/07/134000000/0007600077.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2023/07/134000000/0007600077.pdf)
+
+316643657

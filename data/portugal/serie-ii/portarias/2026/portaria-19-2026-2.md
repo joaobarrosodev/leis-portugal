@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0010800109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2026-993807552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T18:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad21deefd82286a32fdb3a8614af178ab1452aea02c107a683b8f49e36a8e17b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd7731e77fd91a160476202f7f848dfd75fb7117b66b6a2b7bae699cef8a9931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Tributária e Aduaneira
+- Bombarral
+- Despesas Públicas
+- Instituto dos Registos e do Notariado
+- Loja do Cidadão
+- Protocolo Nacional
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927115792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927115793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:932716527:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:02:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +135,7 @@ Para a realização da despesa em causa importa assegurar a autorização de ass
 
 Nos termos do n.º 3 do artigo 82.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, a instrução dos processos para a aprovação da portaria prevista no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, é centralizada pela Agência para a Reforma Tecnológica do Estado, I. P., sendo a autorização conferida através de uma única portaria, com a identificação de cada um dos serviços e entidades envolvidos e do escalonamento plurianual das respetivas despesas.
 
-Assim, nos termos conjugados da alínea c) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º, ambos do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 4 do artigo 82.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no uso das competências delegadas ao abrigo do [Despacho n.º 8869-A/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-a-2025-927115792), publicado no Diário da República, 2.ª série, n.º 144, de 29 de julho de 2025, do [Despacho n.º 8869-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-b-2025-927115793), publicado no Diário da República, 2.ª série, n.º 144, de 29 de julho de 2025, e do [Despacho n.º 9883/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9883-2025-932716527), publicado no Diário da República, 2.ª série, n.º 159, de 20 de agosto de 2025, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado dos Assuntos Fiscais e pela Secretária de Estado da Justiça, o seguinte:
+Assim, nos termos conjugados da alínea c) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º, ambos do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 4 do artigo 82.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no uso das competências delegadas ao abrigo do [Despacho n.º 8869-A/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-a-2025-927115792), publicado no Diário da República, 2.ª série, n.º 144, de 29 de julho de 2025, do [Despacho n.º 8869-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-b-2025-927115793), publicado no Diário da República, 2.ª série, n.º 144, de 29 de julho de 2025, e do [Despacho n.º 9883/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9883-2025-932716527), publicado no Diário da República, 2.ª série, n.º 159, de 20 de agosto de 2025, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado dos Assuntos Fiscais e pela Secretária de Estado da Justiça, o seguinte:
 
 ###### Artigo 1.º — Assunção de encargos
 
@@ -134,3 +173,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 | 2036 | 12 | 38 174,64 € | 41 641,20 € |
 | 2037 | 12 | 38 725,20 € | 42 241,80 € |
 | Total |  | 466 164,81 € | 508 489,72 € |
+
+319944423
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:47px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:right; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:17px; }

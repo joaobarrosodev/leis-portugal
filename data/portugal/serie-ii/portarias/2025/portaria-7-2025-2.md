@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/002000000/0007300074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-901971932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T18:00:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 437d57868144036dcc7902f5a03edf400f86d4aafbe46d5b32fa21f47d689d93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 926355708806022caba224d5320a87792ab561854ee1773b3c6cb53889f1acd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:00:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:808130007:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:00:58Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Considerando que o encargo orçamental, decorrente da aquisição dos bens para 
 
 Assim:
 
-Em conformidade com o disposto nos termos conjugados da alínea c) do n.º 1 do artigo 17.º e dos n.<sup>os</sup>1 e 2 do artigo 22.º, ambos do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, repristinados pela [Resolução da Assembleia da República n.º 86/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2011-276851), de 11 de abril, da alínea a) do n.º 1 e do n.º 2 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado dos Assuntos Fiscais, o seguinte:
+Em conformidade com o disposto nos termos conjugados da alínea c) do n.º 1 do artigo 17.º e dos n.os1 e 2 do artigo 22.º, ambos do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, repristinados pela [Resolução da Assembleia da República n.º 86/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2011-276851), de 11 de abril, da alínea a) do n.º 1 e do n.º 2 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado dos Assuntos Fiscais, o seguinte:
 
 1 - Fica a Autoridade Tributária e Aduaneira autorizada a proceder à reprogramação dos encargos plurianuais, autorizados pela [Portaria n.º 852/2023](https://diariodarepublica.pt/dr/detalhe/portaria/852-2023-808130007), até ao montante de 1 497 500,00 €, a que acresce IVA à taxa legal em vigor.
 
@@ -116,3 +136,5 @@ Em 2029: 31 197,92 €, a que acresce IVA à taxa legal em vigor.
 5 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 18 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 19 de dezembro de 2024. - A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho.
+
+318496305

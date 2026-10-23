@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 125/1988, 1º Suplemento, Série I de 1988-05-30
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2330-(2) a 2330-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12501/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/343-a-1988-293284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f9c782d1bd0b9d8c726cd0d0d107faba5da149d4dcc41557e940fd2ad75b31f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 201bf5d8008a7990952c1fde3b3948cec9ec0f033ba2d0f84b150da2cb86da4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Lacticínios
+- Leite
+- Madeira.região Autónoma
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:159734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159734:por
+  label: "Revogada pela PORT.236-B/89.29.03.1989.MF, DR.IS [73]Supl de 29.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-b-1989-159734
+  date: '1989-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:44Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +144,7 @@ b) Manteiga de produção açoriana a granel, em barras de 25 kg - 464$00/kg.
 
 4.º Nos termos do disposto no n.º 1 do artigo 8.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), de 4 de Julho, os preços limiar dos produtos piloto de cada um dos grupos de produtos constantes do anexo I à [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12501/00020002.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12501/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12501/00020002.pdf)
 
 5.º É revogada a [Portaria n.º 429/87](https://diariodarepublica.pt/dr/detalhe/portaria/429-1987-421392), de 23 de Maio.
 
@@ -126,6 +152,6 @@ b) Manteiga de produção açoriana a granel, em barras de 25 kg - 464$00/kg.
 
 Gabinete do Ministro da República para a Região Autónoma dos Açores e Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 30 de Maio de 1988.**
+Assinada em 30 de Maio de 1988.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Presidente do Governo Regional dos Açores, em exercício, Raul Gomes dos Santos.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Presidente do Governo Regional dos Açores, em exercício, Raul Gomes dos Santos.

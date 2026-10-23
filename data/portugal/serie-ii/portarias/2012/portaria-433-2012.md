@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/09/177000000/3114831148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/433-2012-980569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc71b20493ed23e4069b8ad632e3bb36632799b8e51de3c0dc83063fe532ced0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b95a872b02f1c7784866d7d80c96a22c523dfc0d616fb0402d4f44dc539c8a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:35:07Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, em harmonia com a proposta do Diretor do Instituto de Socorros a Náufragos, que seja concedida a medalha de coragem, abnegação e humanidade, grau prata, ao marinheiro do cacilheiro Sintrense, José Manuel Januário, pelo relevante serviço prestado na salvação de náufragos, aquando do salvamento da Maria Julieta Lúcia Roda que, a 9 de dezembro de 2010, caiu ao rio Tejo quanto desembarcava do Cacilheiro.
 
 06-09-2012. - O Almirante Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, José Carlos Torrado Saldanha Lopes, almirante.
+
+206370101

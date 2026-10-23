@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/229000000/0004700047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-2022-203943471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 880e1f9bf41de2755177ec7ec02c98864b31d283ce1baed7e440f63f6e1ca78a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f4beac8c29341e8c4cf7ebe3b562ac0504c2d64af46722aac358a5bf5ed8fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar Universitário Lisboa Central
+- Contrato
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Medicina
 relationships:
 - type: amended_by
   target: pt:dre:855433574:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:855433574:por
+  label: Alterados os n.os 1 e 2 pelo(a) Portaria n.º 386/2024/2 - Diário da República n.º 53/2024, Série II de 2024-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-2024-855433574
+  date: '2024-03-14'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:46:44Z'
   warnings: []
   errors: []
 ---
@@ -108,3 +142,5 @@ Manda o Governo, pela Secretária de Estado do Orçamento e pelo Secretário de 
 4 - A presente portaria produz efeitos a 7 de janeiro de 2021.
 
 18 de novembro de 2022. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 21 de novembro de 2022. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+
+315904831

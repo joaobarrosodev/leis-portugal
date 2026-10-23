@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 14/2024, 1º Suplemento, Série II de 2024-01-19
   number: '14'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 779-(2) a 779-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/014000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-a-2024-838307451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1095424221d8cc22fc94e457020caed420cc267d52b656b1e304c0232fa4043e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f5a08c4fd37b898b7e7351091aa2807c8f034902e59708067e54367178419c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Central Termoeléctrica
+- Compensação Financeira
+- Contribuições da Segurança Social
+- Fundo Ambiental
+- Fundo para Uma Transição Justa
+- Instituto da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Mecanismo de Compensação dos Trabalhadores no Quadro de uma Transição Justa
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:175780045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185330735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207539630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:17Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +160,5 @@ A presente portaria define os procedimentos necessários ao apuramento do valor 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2024.
 
 18 de janeiro de 2024. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia.
+
+317268734

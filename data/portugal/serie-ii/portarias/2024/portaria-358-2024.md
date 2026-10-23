@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/042000000/0003100031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-2024-853818566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8ff6721e1dc2c84d5753fec4042026d41de06bbb7dbdd533d84ffb23f6d3a2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22552ee6f29be491c97e8af1d918d511a8fae83d19de8c9c9e9121378f655aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,40 @@ relationships:
   target: celex:32023D1600
   label: null
   source: null
+- type: cites
+  target: pt:dre:1165762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216305802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:53:41Z'
   warnings: []
   errors: []
 ---
@@ -119,3 +143,5 @@ Ao abrigo do disposto no n.º 1 do artigo 12.º e nas alíneas f) e n) do n.º 3
 6 - Determinar que a presente portaria produz os efeitos desde 1 de janeiro de 2024.
 
 19 de fevereiro de 2024. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.
+
+317382077

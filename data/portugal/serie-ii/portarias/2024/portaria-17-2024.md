@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/008000000/0005200052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-836524298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92368bf1795f66f26ae4bc2719470d761f2b9406c35508f7b134134603e194d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d89addc3f4867e5aaffc6073d0b4fb13fb469b7a2905f1d476bbf667f618700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201512020:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:31Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +104,9 @@ Nos termos do disposto nos n.os 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2
 
 1 - Proceder à reprogramação dos encargos plurianuais autorizados pela [Portaria n.º 694/2022](https://diariodarepublica.pt/dr/detalhe/portaria/694-2022-201512020), de 27 de setembro, respeitantes aos subprojetos «Construção de edifício para edificação do projeto» e «Laboratório de veículos autónomos», referentes ao Investimento TC-C-10-i03.01, «Centro de Operações de Defesa do Atlântico e Plataforma Naval: Pilar II, Centro de Operações», alterando-se, para o efeito, a tabela constante do n.º 3 da referida portaria, em conformidade com o seguinte:
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Subprojeto | 2022 | 2023 | 2024 | 2025 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 | Aquisição de embarcações... | 471 139 (euro) | 178 861 (euro) | 0 (euro) | 0 (euro) | 650 000 (euro) |
 | Veículos de projeção operacional com grua... | 0 (euro) | 700 000 (euro) | 0 (euro) | 0 (euro) | 700 000 (euro) |
 | Construção de edifício para edificação do projeto... | 0 (euro) | 0 (euro) | 1 040 000 (euro) | 460 000 (euro) | 1 500 000 (euro) |
@@ -110,3 +118,5 @@ Nos termos do disposto nos n.os 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2
 2 - A presente portaria produz efeitos a partir da data da sua publicação.
 
 4 de dezembro de 2023. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.
+
+317146918

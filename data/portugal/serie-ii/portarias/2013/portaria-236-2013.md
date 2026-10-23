@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/073000000/1233512335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2013-1692020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T17:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97b21bbd7e7df07a2cd528ac6b0cd780102722e8c90784d7eaf36e10554c5098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f10413c715234328bf197c5c7adb45195efb854afaa69e68e04a2caba9d8c679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:38:43Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ Com a fusão da DGIE e da DGAED, o Coronel Manuel Raimundo assumiu a chefia da u
 Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º e atento o disposto nos artigos 25.º e 26.º e na alínea a) do n.º 1 do artigo 27.º do Regulamento da Medalha Militar e da Medalha Comemorativa das Forças Armadas, aprovado pelo Decreto-lei n.º 316/2002 de 27 de dezembro, concedo a Medalha de Defesa Nacional de 1.ª classe ao Coronel de Administração Aeronáutica, NIP 071777 - A, Manuel da Silva Raimundo.
 
 5 de abril de 2013. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+206879326

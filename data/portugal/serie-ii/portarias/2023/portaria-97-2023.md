@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/042000000/0009200094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-207925554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e000e6d9ec40ec24c84c80a21fab790277e25b86c849788e7039e0136166f8b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb359fc8908ae4d3cd5a29d52217d535bfa7e8c4a43d54579bfc8fe0181b6bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,42 @@ relationships:
   target: pt:dre:907410714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:175595589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200268064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:907410714:por
+  label: Revogada, a partir de 14 de fevereiro de 2025, pelo(a) Portaria n.º 36-B/2025/1 - Diário da República n.º 31/2025,
+    Suplemento, Série I de 2025-02-13, nos termos dos artigos 3.º e 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-b-2025-907410714
+  date: '2025-02-13'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:05Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +149,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/02/042000000/0009200094.pdf))](https://files.diariodarepublica.pt/2s/2023/02/042000000/0009200094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/02/042000000/0009200094.pdf)
+
+316193386

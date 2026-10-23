@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/103000000/0003100033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-2023-213628055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:48:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b89bac1db813433c8f950aa1ec1c8f9132d8618be02fef720680f59f085c0c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63f75f88e602479f3d83636c9ae29d10b11a67ea03c2825fb05315afe6fe801
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:48:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Infraestruturas de Portugal
+- Rede Ferroviária
+- Régua
+relationships:
+- type: cites
+  target: pt:dre:159612895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183403835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187368939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:48:10Z'
   warnings: []
   errors: []
 ---
@@ -160,8 +206,10 @@ Em 2028 - (euro) 729 166,81.
 
 10 de maio de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. -
 
-**O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco.**
+O Secretário de Estado das Infraestruturas, Frederico André Branco dos Reis Francisco.
 
 ## ANEXO — (a que se referem os n.os 1 e 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/05/103000000/0003100033.pdf))](https://files.diariodarepublica.pt/2s/2023/05/103000000/0003100033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/05/103000000/0003100033.pdf)
+
+316458986

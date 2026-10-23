@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/066000000/0013500136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-2022-181568407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27dc49a638f589904e24e2f53bfe5bb7985bf9f258ab2e8b3f02da92c5c27303
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c19cd16bf3a68e59f9bd522b52a01b1f782ae73b950e6f5d77d075f12936a31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Portuguesa do Ambiente
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Orla Costeira
+- VILA do Conde
+relationships:
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143618770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173690297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:44:29Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +123,7 @@ Nos termos do n.º 10 do referido artigo, a reprogramação destes encargos deve
 
 Assim, manda o Governo, pela Secretaria de Estado do Ambiente, no âmbito das competências delegadas e de acordo com o disposto nos n.os 9 e 10 do artigo 46.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, o seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 Fica a Agência Portuguesa do Ambiente, I. P. (APA, I. P.) autorizada a reprogramar temporalmente os encargos plurianuais decorrentes do contrato da empreitada de «Proteção e reabilitação da defesa aderente da marginal da praia de Árvore - Vila do Conde», até ao montante global de (euro) 1 298 991,19 (um milhão, duzentos e noventa e oito mil, novecentos e noventa e um euros e dezanove cêntimos), valor ao qual acresce IVA à taxa legal em vigor.
 
@@ -107,16 +133,18 @@ a) Ano de 2022: (euro) 752 498,42 (setecentos e cinquenta e dois mil, quatrocent
 
 b) Ano de 2023: (euro) 546 492,77 (quinhentos e quarenta e seis mil, quatrocentos e noventa e dois euros e setenta e sete cêntimos) valor ao qual acresce IVA à taxa legal em vigor.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Estabelece-se que o montante fixado para o ano económico de 2023 poderá ser acrescido do saldo apurado no ano que antecede.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os encargos emergentes da presente portaria são satisfeitos por verbas inscritas ou a inscrever no orçamento de investimento da APA, I. P., cofinanciadas por fundos comunitários no âmbito do POSEUR 2020, com uma taxa de financiamento de 75 %.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A presente portaria entra em vigor no dia seguinte da sua publicação.
 
 27 de março de 2022. - A Secretária de Estado do Ambiente, Inês dos Santos Costa.
+
+315163624

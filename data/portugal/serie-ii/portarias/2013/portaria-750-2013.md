@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/216000000/3293632937.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-2013-1476372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T17:41:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a6534a23bc5800a56375ac4552f5d30d33d45ff3182e5766df728bc6a4377c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84c07209de52b85cf149e1ac2b6fc4827469a2854a8930741d83700029c567aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:41:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:41:38Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ O engenheiro Pires Carocho iniciou a sua ligação ao projeto dos novos submarin
 
 Até assumir as funções de chefia da delegação na Alemanha, o engenheiro Pires Carocho foi o responsável pelas áreas técnicas que conferem ao submarino o seu elevado valor como arma dissuasora, nomeadamente: a assinatura acústica, magnética, infravermelho e radar; o sistema de combate e a totalidade dos sensores acústicos; o sistema de guerra eletrónica; o sistema de carregamento e de lançamento de torpedos e mísseis e o sistema de contramedidas antitorpédicas. Teve ainda a seu cargo a integração dos torpedos, mísseis e minas e o acompanhamento do contrato de fornecimento de torpedos. A sua atuação nestas áreas tecnológicas foi norteada pela constante melhoria e performance do fornecimento contratual, através de uma negociação constante, dura e de partilha tecnológica, áreas em que a Marinha portuguesa detém excelentes pergaminhos.
 
-Ao leme da delegação da MCSUB em Kiel, o engenheiro Pires Carocho pautou a sua atuação pela gestão parcimoniosa das verbas alocadas ao projeto em sede de Lei da Programação Militar, da qual resultou, entre outras, uma redução substancial nos custos de alojamento das guarnições e do pessoal envolvido nas ações de formação; na melhoria qualitativa e quantitativa dos diversos fornecimentos contratuais; na procura de um melhor controlo de qualidade exercido pelo Bundesamt [([ver documento original](https://files.diariodarepublica.pt/2s/2013/11/216000000/3293632937.pdf))](https://files.diariodarepublica.pt/2s/2013/11/216000000/3293632937.pdf) Wehrtechnik und Beschaffung (BWB), entidade alemã responsável pela execução do mesmo nos submarinos Classe Tridente; no fortalecimento do relacionamento com os diversos interlocutores do estaleiro, através de uma partilha de informação que satisfizesse as duas partes; numa rigorosa gestão do pessoal sob a sua responsabilidade, procurando agregar à delegação o pessoal necessário para cumprir os diversos programas de provas em fábrica, a cais e de mar; na manutenção de um relacionamento com o presidente da MCSUB assente numa base de confiança mútua, que muito contribuiu para um funcionamento desta Missão sem sobressaltos ao longo destes quase quatro anos.
+Ao leme da delegação da MCSUB em Kiel, o engenheiro Pires Carocho pautou a sua atuação pela gestão parcimoniosa das verbas alocadas ao projeto em sede de Lei da Programação Militar, da qual resultou, entre outras, uma redução substancial nos custos de alojamento das guarnições e do pessoal envolvido nas ações de formação; na melhoria qualitativa e quantitativa dos diversos fornecimentos contratuais; na procura de um melhor controlo de qualidade exercido pelo Bundesamt [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/11/216000000/3293632937.pdf) Wehrtechnik und Beschaffung (BWB), entidade alemã responsável pela execução do mesmo nos submarinos Classe Tridente; no fortalecimento do relacionamento com os diversos interlocutores do estaleiro, através de uma partilha de informação que satisfizesse as duas partes; numa rigorosa gestão do pessoal sob a sua responsabilidade, procurando agregar à delegação o pessoal necessário para cumprir os diversos programas de provas em fábrica, a cais e de mar; na manutenção de um relacionamento com o presidente da MCSUB assente numa base de confiança mútua, que muito contribuiu para um funcionamento desta Missão sem sobressaltos ao longo destes quase quatro anos.
 
 Não posso deixar de realçar as extraordinárias qualidades negociais do engenheiro Pires Carocho, que, complementadas com um profundo conhecimento do estaleiro, da sua forma de trabalhar e das peculiaridades dos seus dirigentes e técnicos, foram fundamentais nas diversas negociações que conduziram às Alterações Contratuais n.os 3, 4 e 5 e aos Protocolos de Aceitação Provisória dos submarinos Tridente e Arpão, documentos que refletem um elevado pendor na defesa intrínseca dos interesses do Estado Português e da Marinha.
 
@@ -99,3 +103,5 @@ Pelo excelente desempenho como chefe da delegação da MCSUB e pelas excecionais
 Assim, nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º, atento o disposto nos artigos 13.º e 14.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha de serviços distintos, grau ouro, ao capitão de mar e guerra António José Afonso Pires Carocho.
 
 21 de outubro de 2013. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207357152

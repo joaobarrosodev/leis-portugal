@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/921-2013-1275446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3afd7a64966f010ed10e90d1700402483ecd4d9d9c79a19cf1fca372ea4de5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 062e742c24e426bdb5eab749142ba7f7d4741f053659ec4ce716fd09387e0d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Instituto da Segurança Social
+- Ministério da Solidariedade Emprego e Segurança Social
+- Pessoal de Limpeza
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +107,7 @@ Manda o Governo, pelo Ministro da Solidariedade, Emprego e Segurança Social e p
 
 ## ANEXO — Repartição de encargos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/12/247000000/3629036290.pdf))](https://files.diariodarepublica.pt/2s/2013/12/247000000/3629036290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/12/247000000/3629036290.pdf)
 
 2.º As importâncias fixadas para o ano económico de 2014 podem ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.
 
@@ -107,3 +116,5 @@ Manda o Governo, pelo Ministro da Solidariedade, Emprego e Segurança Social e p
 4.º A presente Portaria produz efeitos a partir da data da sua publicação.
 
 11 de dezembro de 2013. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis.
+
+207467297

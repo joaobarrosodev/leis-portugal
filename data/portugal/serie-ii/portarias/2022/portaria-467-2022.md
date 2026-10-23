@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/075000000/0009400094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-2022-182135299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 551a315ee6a9244245c1931fa596bdf2cc605d49d7daaf0c50c9b56226ba0ede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dd0533253cc67a66221f9bd6f4873899a4b9ec975a4badd0b34f620cb587871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:44:39Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ Pela qualidade superior dos seus contributos, expresso o meu público reconhecim
 Assim, nos termos da competência que me é conferida pelo artigo 34.º e atento o disposto nos artigos 25.º e 26.º e o n.º 2 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dre/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a Medalha da Defesa Nacional, de 1.ª classe, à mestre Noémia Pizarro.
 
 15 de fevereiro de 2022. - O Ministro da Defesa Nacional, João Titterington Gomes Cravinho.
+
+315166921

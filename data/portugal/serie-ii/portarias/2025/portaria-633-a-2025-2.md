@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/216000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-a-2025-945116896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T18:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4657c959739fe2ddecc5bb05d4424a23e81b45c99638361581d034db506ec82c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82f0157f0b1056537091661c4f65d3e223cd8df07252fd2ba086e84871443e69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913223436:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:00:33Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +111,9 @@ Ano de 2026 - 800 000 EUR.
 
 Na sequência da referida portaria foi autorizado e aberto um procedimento de concurso limitado por prévia qualificação, com publicação de anúncio no Jornal Oficial da União Europeia, ficando o procedimento pré-contratual deserto em função da exclusão das propostas apresentadas, pelo que se torna necessário abrir um novo procedimento pré-contratual, no valor de 5 000 000,00 EUR (cinco milhões de euros), acrescido de IVA à taxa legal em vigor com impacto financeiro a concretizar integralmente no ano de 2026, sendo necessário para o efeito a reprogramação financeira dos encargos plurianuais.
 
-Nos termos do disposto no nos n.<sup>os</sup> 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, carece apenas da autorização do membro do Governo responsável pela respetiva área setorial a reprogramação de encargos plurianuais previamente autorizados, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259) de 8 de junho, na sua redação atual, traduzida no alargamento do período temporal da despesa referente ao procedimento pré-contratual n.º 014-B/PRR/2024, desde que não seja ultrapassado o valor total da despesa autorizada e o prazo de execução do contrato abrangido pela autorização anterior e que o alargamento temporal da despesa não ultrapasse um ano económico.
+Nos termos do disposto no nos n.os 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, carece apenas da autorização do membro do Governo responsável pela respetiva área setorial a reprogramação de encargos plurianuais previamente autorizados, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259) de 8 de junho, na sua redação atual, traduzida no alargamento do período temporal da despesa referente ao procedimento pré-contratual n.º 014-B/PRR/2024, desde que não seja ultrapassado o valor total da despesa autorizada e o prazo de execução do contrato abrangido pela autorização anterior e que o alargamento temporal da despesa não ultrapasse um ano económico.
 
-Assim, nos termos do disposto nos n.<sup>os</sup>n. 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, o seguinte:
+Assim, nos termos do disposto nos n.osn. 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, o seguinte:
 
 1 - Autorizar a Secretaria-Geral do Ministério dos Negócios Estrangeiros a proceder à reprogramação de encargos relativos ao procedimento pré-contratual n.º 014B/PRR/2024 de aquisição de infraestrutura de Datacenter (DC), no valor total de 5 000 000,00 EUR, acrescido de IVA à taxa legal em vigor, com impacto integral no ano económico de 2026.
 
@@ -110,3 +122,5 @@ Assim, nos termos do disposto nos n.<sup>os</sup>n. 1 e 3 do artigo 6.º do [Dec
 3 - A presente portaria produz efeitos a partir da data da sua assinatura.
 
 7 de novembro de 2025. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.
+
+319743202

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/241000000/3553535535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/903-2013-902413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7533ab69bd1efa714a6f2b43280c2687287e4b66cdf0c3c78445d41f0aed420b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e444f09028ae3b8564a370af08038e968a158b6fdc1afefcf97e3bdacaa653aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1785225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229355:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:33Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +98,5 @@ O Almirante Autoridade Marítima Nacional, nos termos definidos na [Portaria n.�
 É concedida a medalha de coragem, abnegação e humanidade, grau ouro, ao 31005407 Agente 2.ª Classe PM Hélder Miguel da Silva Nogueira, pelo importante serviço prestado na salvação de náufragos no dia 10 de abril de 2013.
 
 29 de novembro de 2013. - O Almirante Autoridade Marítima Nacional, José Carlos Torrado Saldanha Lopes, almirante.
+
+207443255

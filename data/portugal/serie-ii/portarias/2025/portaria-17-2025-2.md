@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/003000000/0008600087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2025-902131078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f50beca0e57663fb3dc39dabf1d8bc68f6315e60f4846d155b35a9dfccae6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aea58fdcc4398355daf0c1dc9100e00b800452c7f1dad2f82d5eee1bd3caa115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:877330531:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:57:45Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +117,7 @@ No âmbito do referido protocolo a APA, I. P., instruiu procedimento de contrata
 
 Considerando que o contrato em referência teve início de vigência em data posterior à inicialmente prevista, torna-se necessário reprogramar os encargos inerentes ao mesmo até ao ano de 2025, de forma a adequar a repartição da despesa à sua vigência, pelo montante do preço contratual de 2 368 000,00€ (dois milhões, trezentos e sessenta e oito mil euros), ao qual acresce IVA à taxa legal em vigor (23 %).
 
-Assim, manda o Governo, pelo Secretário de Estado do Ambiente, Emídio Ferreira dos Santos Sousa, nos termos conjugados do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, repristinado pela [Resolução n.º 86/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2011-276851), de 11 de abril, dos n.<sup>os</sup> 9 e 10, ambos do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, no uso das competências delegadas ao abrigo da subalínea i) da alínea a) do n.º 1 e pelas alíneas d) do n.º 2 do [Despacho n.º 9406-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/9406-a-2024-877330531), de 13 de agosto, da Ministra do Ambiente e Energia, Maria da Graça Carvalho, publicado no Diário da República, 2.ª série, n.º 158, de 16 de agosto de 2024, e com a alínea a) do n.º 3 do artigo 25.º do [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, que aprova o regime de organização e funcionamento do XXIV Governo Constitucional, o seguinte:
+Assim, manda o Governo, pelo Secretário de Estado do Ambiente, Emídio Ferreira dos Santos Sousa, nos termos conjugados do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, repristinado pela [Resolução n.º 86/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2011-276851), de 11 de abril, dos n.os 9 e 10, ambos do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, no uso das competências delegadas ao abrigo da subalínea i) da alínea a) do n.º 1 e pelas alíneas d) do n.º 2 do [Despacho n.º 9406-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/9406-a-2024-877330531), de 13 de agosto, da Ministra do Ambiente e Energia, Maria da Graça Carvalho, publicado no Diário da República, 2.ª série, n.º 158, de 16 de agosto de 2024, e com a alínea a) do n.º 3 do artigo 25.º do [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, que aprova o regime de organização e funcionamento do XXIV Governo Constitucional, o seguinte:
 
 ###### Artigo 1.º
 
@@ -116,3 +144,5 @@ O montante fixado para cada ano económico pode ser acrescido do saldo apurado n
 A presente portaria entra em vigor no dia seguinte da sua publicação.
 
 23 de dezembro de 2024. - O Secretário de Estado do Ambiente, Emídio Ferreira dos Santos Sousa.
+
+318514465

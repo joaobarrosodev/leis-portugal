@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-2013-2087758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b002e8c053222c18afad64656030198bccdd5ed64771edcc56388f7c9d010ea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 346297fba4504a7cb6b840a9798d81878789e3603d00d15addad6d3199b47388
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:39:02Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +96,13 @@ Onde se lê:
 
 Artilheiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf))](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
 
 Deve ler-se:
 
 Artilheiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf))](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
 
 (b) Deve ser apontador ou ter instrução de alça de anel.
 
@@ -110,6 +110,8 @@ Deve ser aditado:
 
 Administrativos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf))](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/05/099000000/1644216442.pdf)
 
 13 de maio de 2013. - O Almirante Chefe do Estado-Maior da Armada, José Carlos Torrado Saldanha Lopes, almirante.
+
+206969114

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/021000000/0011600117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-2025-905459879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T18:00:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71731adac152c0af089bfa1b44e78cba832bffcc39c9f3340ac6e9e737b6f62c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18e0dbd9aab37be3cd1ee8526ef816c09c6bfeb24b281545642578d938333ac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:00:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:175581300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202294062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:00:58Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +129,9 @@ Nos termos do n.º 10 do referido artigo, a reprogramação destes encargos deve
 
 Assim:
 
-Manda o Governo, pela Secretária de Estado da Gestão da Saúde, ao abrigo dos poderes delegados pelo [Despacho n.º 12167/2022](https://diariodarepublica.pt/dr/detalhe/despacho/12167-2022-202294062), publicado no Diário da República, 2.ª série, n.º 201, de 18 de outubro de 2022, bem como do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, e nos n.<sup>os</sup>9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, o seguinte:
+Manda o Governo, pela Secretária de Estado da Gestão da Saúde, ao abrigo dos poderes delegados pelo [Despacho n.º 12167/2022](https://diariodarepublica.pt/dr/detalhe/despacho/12167-2022-202294062), publicado no Diário da República, 2.ª série, n.º 201, de 18 de outubro de 2022, bem como do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, e nos n.os9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, o seguinte:
 
-São alterados os n.<sup>os</sup> 1 e 2 da [Portaria n.º 744/2021](https://diariodarepublica.pt/dr/detalhe/portaria/744-2021-175581300), publicada no Diário da República, 2.ª série, n.º 237, de 9 de dezembro de 2021, que passam a ter a seguinte redação:
+São alterados os n.os 1 e 2 da [Portaria n.º 744/2021](https://diariodarepublica.pt/dr/detalhe/portaria/744-2021-175581300), publicada no Diário da República, 2.ª série, n.º 237, de 9 de dezembro de 2021, que passam a ter a seguinte redação:
 
 «1 - Fica o ICAD, I. P. - Instituto para os Comportamentos Aditivos e as Dependências, I. P., autorizado a assumir um encargo até ao montante de 293 750 EUR (duzentos e noventa e três mil, setecentos e cinquenta euros), isento de IVA, referente à atribuição de financiamento público a Programas de Respostas Integradas (PRI) - Território de Vila Real/Valpaços - RRMD.
 
@@ -112,3 +148,5 @@ São alterados os n.<sup>os</sup> 1 e 2 da [Portaria n.º 744/2021](https://diar
 2026: 6250 EUR, isento de IVA.»
 
 23 de janeiro de 2025. - A Secretária de Estado da Gestão da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé.
+
+318608474

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/022000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-a-2026-1033291354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c76131da092844cd5572f1f7507175705186a4d531971947ecdc5e7d08222eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f42b68838cd55aa453998d5e924163d9cffdb0ed142c0635c290bc8d68f3307e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201450533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213069298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:29Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +149,7 @@ Para além disso, a despesa em causa encontra-se adequadamente inscrita nos sist
 
 Assim:
 
-Nos termos do disposto na alínea c) do n.º 1 do artigo 5.º e nos n.<sup>os</sup>1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, no n.º 5 da [Resolução do Conselho de Ministros n.º 81/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2022-201450533), de 26 de setembro, e nos artigos 44.º a 50.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, manda o Governo, pelo Ministro da Educação, Ciência e Inovação e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+Nos termos do disposto na alínea c) do n.º 1 do artigo 5.º e nos n.os1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, no n.º 5 da [Resolução do Conselho de Ministros n.º 81/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2022-201450533), de 26 de setembro, e nos artigos 44.º a 50.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, manda o Governo, pelo Ministro da Educação, Ciência e Inovação e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
 
 1 - Fica a Agência Nacional para a Qualificação e Ensino Profissional, I. P., autorizada a proceder à reprogramação dos encargos plurianuais, na qualidade de beneficiário intermediário, no âmbito da execução do subinvestimento RE-06-i03.01 - «Projetos Locais Promotores de Qualificações de Nível B1/B2/B3», do investimento RE-06-i03, da componente 6 - Qualificações e Competências, do Plano de Recuperação e Resiliência (PRR), contratualizado com a Estrutura de Missão «Recuperar Portugal», até ao montante de € 40 050 000,00, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
 
@@ -142,3 +170,5 @@ e) Em 2026: € 4 661 250,00.
 4 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 29 de janeiro de 2026. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre. -28 de janeiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.
+
+319959358

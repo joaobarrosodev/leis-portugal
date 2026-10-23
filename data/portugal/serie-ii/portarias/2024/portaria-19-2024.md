@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/008000000/0005400056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2024-836524300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caadc12410379875e7a41bdd9a385a9eda5a85fa37a98455fe2269e715155486
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3338a523184b5c1e7ec0bcae2ded0084e935bb992c223dee661ca7493c4642c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Concurso
+- Concurso de Acesso
+- Curso de Formação
+- Exército
+- Militar
+- Prova de Ingresso
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:37Z'
   warnings: []
   errors: []
 ---
@@ -159,30 +179,34 @@ QUADRO 1
 
 Áreas de interesse para integração no quadro especial de JUR
 
-|  |  |
-| --- | --- |
 | Área de estudo | Área de educação e formação |
+| --- | --- |
+|  |  |
 | 38 Direito... | 380 Direito. |
 
 QUADRO 2
 
 Áreas de interesse para integração no quadro especial de SAP
 
-|  |  |
-| --- | --- |
 | Área de estudo | Área de educação e formação |
+| --- | --- |
+|  |  |
 | 14 Formação de professores/formadores e ciências da educação. | 142 Ciências da educação. |
-| 21 Artes... | 211 Belas-artes. 213 Audiovisuais e produção dos media. 215 Artesanato. |
-| 22 Humanidades... | 222 Línguas e literaturas estrangeiras. 223 Língua e literatura materna. 225 História e arqueologia. |
-| 31 Ciências sociais e do comportamento... | 311 Psicologia. 312 Sociologia e outros estudos. 314 Economia. 319 Ciências sociais e do comportamento. 321 Programas não classificados noutra área de Jornalismo e reportagem. 322 Biblioteconomia, arquivo e documentação. |
-| 34 Ciências empresariais... | 342 Marketing e publicidade. 343 Finanças, banca e seguros. 344 Contabilidade e fiscalidade. 345 Gestão e administração. 347 Enquadramento na organização/empresa. |
+| 21 Artes... | 211 Belas-artes.<br>213 Audiovisuais e produção dos media.<br>215 Artesanato. |
+| 22 Humanidades... | 222 Línguas e literaturas estrangeiras.<br>223 Língua e literatura materna.<br>225 História e arqueologia. |
+| 31 Ciências sociais e do comportamento... | 311 Psicologia.<br>312 Sociologia e outros estudos.<br>314 Economia.<br>319 Ciências sociais e do comportamento.<br>321 Programas não classificados noutra área de Jornalismo e reportagem.<br>322 Biblioteconomia, arquivo e documentação. |
+| 34 Ciências empresariais... | 342 Marketing e publicidade.<br>343 Finanças, banca e seguros.<br>344 Contabilidade e fiscalidade.<br>345 Gestão e administração.<br>347 Enquadramento na organização/empresa. |
 | 42 Ciências da vida... | 421 Biologia e bioquímica. |
 | 44 Ciências físicas... | 443 Ciências da terra. |
-| 48 Informática... | 481 Ciências Informáticas. 482 Informática na ótica do utilizador. 489 Informática - programas não classificados noutra área de formação. |
-| 52 Engenharia e técnicas afins... | 521 Metalurgia e metalomecânica. 523 Eletrónica e automação. 524 Tecnologia dos processos químicos. |
+| 48 Informática... | 481 Ciências Informáticas.<br>482 Informática na ótica do utilizador.<br>489 Informática - programas não classificados noutra área de formação. |
+| 52 Engenharia e técnicas afins... | 521 Metalurgia e metalomecânica.<br>523 Eletrónica e automação.<br>524 Tecnologia dos processos químicos. |
 | 54 Indústrias transformadoras... | 542 Indústrias do têxtil, vestuário, calçado e couro. |
 | 58 Arquitetura e construção... | 581 Arquitetura e urbanismo. |
 | 62 Agricultura, silvicultura e pescas... | 621 Produção agrícola e animal. |
-| 81 Serviços pessoais... | 811 Hotelaria e restauração. 813 Desporto. |
+| 81 Serviços pessoais... | 811 Hotelaria e restauração.<br>813 Desporto. |
 | 85 Proteção do ambiente... | 851 Tecnologia de proteção do ambiente. |
-| 86 Serviços de segurança... | 861 Proteção de pessoas e bens. 862 Segurança e higiene no trabalho. |
+| 86 Serviços de segurança... | 861 Proteção de pessoas e bens.<br>862 Segurança e higiene no trabalho. |
+
+317156249
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl4 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2023-214607962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T17:48:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d627b9789d32cfdb7b84e645eadb41aa5f9b30b601312d4a0e1ade47a73d9bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef4307419e658201361b6c05035fdb07af6f31edf6cb00768ffced751184ff9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:48:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Portuária Regional
+- Diuturnidades
+- Remuneração
+- Setor Empresarial do Estado
+- Tabela Salarial
+- Trabalhador Portuário
+relationships:
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208087600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:48:30Z'
   warnings: []
   errors: []
 ---
@@ -105,16 +167,18 @@ Assim, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/
 
 23 de maio de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba. -
 
-**O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues.**
+O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues.
 
 ## ANEXO I — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf))](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf))](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf))](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/119000000/0010500113.pdf)
+
+316510176

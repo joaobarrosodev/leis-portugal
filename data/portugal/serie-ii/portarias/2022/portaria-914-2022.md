@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/239000000/0008700088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/914-2022-204708860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e665e449755bdaa2c51344f46cd173279d462d187688c6eff8e358e6127fd7a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10b9d1b3581c40465643f06b5e1b4a202dce346a0e9a31342e6d5d0d309f2808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Portuguesa do Ambiente
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Direção Geral de Energia e Geologia
+- Gestão Orçamental
+- Instituto da Conservação da Natureza e das Florestas
+- Laboratório Nacional de Energia e Geologia
+- Pessoal de Vigilância
+- Secretaria Geral
+- Serviços de Segurança
+relationships:
+- type: cites
+  target: pt:dre:165568813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:47:02Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +158,6 @@ Manda o Governo, pelo Ministro do Ambiente e da Ação Climática, ao abrigo dos
 
 2 de dezembro de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/239000000/0008700088.pdf))](https://files.diariodarepublica.pt/2s/2022/12/239000000/0008700088.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/239000000/0008700088.pdf)
+
+315940203

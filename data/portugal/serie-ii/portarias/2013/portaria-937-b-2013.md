@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 252/2013, 2º Suplemento, Série II de 2013-12-30
   number: '252'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 37118-(22) a 37118-(22)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/252000002/0002200022.pdf
 entry_into_force_dates: []
@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-b-2013-1321786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb6799637f4d2c9f17685d9d8ef74ca62f824bf5e571b3f627981e1c613a07f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced1665155e2c7725251d3bd5436d39e8a6cef4c006a7ae829d104419b277c9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- Direção Geral dos Estabelecimentos Escolares
+- Financiamento
+relationships:
+- type: amended_by
+  target: pt:dre:59077897:por
+  label: Alterado o anexo pela Portaria n.º 993-A/2014 - Diário da República n.º 230/2014, 1º Suplemento, Série II de 2014-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-a-2014-59077897
+  date: '2014-11-27'
+- type: cites
+  target: pt:dre:1114138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3095530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:44Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +135,6 @@ Em face da relevância destes contratos de patrocínio para o normal funcionamen
 
 Ano Letivo 2013-2014
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/12/252000002/0002200022.pdf))](https://files.diariodarepublica.pt/2s/2013/12/252000002/0002200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/12/252000002/0002200022.pdf)
+
+207503868

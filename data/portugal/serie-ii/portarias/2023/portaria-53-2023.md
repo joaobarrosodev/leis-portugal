@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/030000000/0013900140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207293361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a031c30f77937c6b1cfb29f35ab1a47bdda0650800584e2f9e9fe10fddfb0290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70a0c1bb4644c81dbf7692dd299729536de4bda9824197d6c1001e06f7b3f55f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,32 @@ relationships:
   target: pt:dre:906943819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:145102353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:56Z'
   warnings: []
   errors: []
 ---
@@ -121,3 +137,5 @@ c) Em 2025, (euro) 701 986,90 (setecentos e um mil, novecentos e oitenta e seis 
 6 - Delegar a competência para a prática de todos os atos a realizar no âmbito dos procedimentos pré-contratuais da contratação identificada no n.º 1 da presente portaria no conselho diretivo do INIAV, I. P., incluindo a decisão de contratar e de realizar a despesa e demais atos subsequentes.
 
 3 de fevereiro de 2023. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.
+
+316139075

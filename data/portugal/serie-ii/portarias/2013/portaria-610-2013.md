@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/09/181000000/2909329093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-2013-1315037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T17:40:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a87fa3c4ca8487dceec61b6ee56f4ad77ca02f4ab28b568991137012ad0f222
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a768473e28cab0a395189cc8152770d7329776a4ae02c75e9ab2ec0f93c2b5f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:40:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:40:49Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Almirante Autoridade Marítima Nacional, nomear o 26387 Capitão-de-fragata da classe de Marinha Artur Manuel Simas Silva para o cargo de capitão do Porto da Póvoa de Varzim e de Vila do Conde, em substituição do 25087 Capitão-de-fragata da classe de Marinha Humberto Renato da Silva Rocha, que fica exonerado dos referidos cargos pela presente portaria na data em que o oficial agora nomeado assuma funções.
 
 9 de setembro de 2013. - O Almirante Autoridade Marítima Nacional, José Carlos Torrado Saldanha Lopes, almirante.
+
+207243639

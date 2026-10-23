@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/124000000/0002500025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-2022-185371597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 571691d9c7fc7726288e8d2e860ccf5c53f2b64525eb588bc6218d0e6a5128af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e562bfeeae05eb4ba69a156556c82b7a9285bded38e3814a8f3b262bb49a98b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:10Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Governo, pelo Ministro dos Negócios Estrangeiros e pela Ministra da Defesa Nacional, por proposta do Chefe do Estado-Maior da Força Aérea, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dre/detalhe/decreto-lei/55-1981-389381), de 31 de março, e do [Despacho n.º 27676/2007](https://diariodarepublica.pt/dre/detalhe/despacho/27676-2007-1882831), de 10 de dezembro, dos Ministros da Defesa Nacional e das Finanças, nomear, com efeitos a partir de 8 de fevereiro de 2023, o Capitão Piloto-Aviador 132903-A, Rodolfo Pires da Silva, para o cargo de Piloto Instrutor no programa Euro-NATO Joint Jet Pilot Training (ENJJPT) a desempenhar em Sheppard Air Force Base, no Texas, nos Estados Unidos da América.
 
 14 de junho de 2022. - O Ministro dos Negócios Estrangeiros, João Titterington Gomes Cravinho. - 9 de junho de 2022. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.
+
+315429394

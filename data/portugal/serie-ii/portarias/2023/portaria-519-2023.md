@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/193000000/0010700108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-2023-222421499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26fc995f79e433fd05838e6319dfe5caafda8f279b5de3130b16cabdcaec90b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4269669551c051012b0f8beb252187beb3a65178d01b1f8e8453faa5fe89079
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atribuição de Frequências
+- Autoridade Nacional de Comunicações
+- Infraestruturas de Portugal
+- Rede Fixa de Comunicações Eletrónicas
+- Rede Móvel de Comunicações Eletrónicas
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:147782899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162666782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166025467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171594986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:55Z'
   warnings: []
   errors: []
 ---
@@ -118,3 +144,5 @@ Entrega nos cofres do Estado de receita proveniente do leilão para a atribuiç�
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 15 de setembro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - 18 de setembro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba.
+
+316884398

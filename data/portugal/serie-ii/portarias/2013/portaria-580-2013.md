@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-2013-1499919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:40:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46dfec040c8bdd4c7781d0a3b3e9d13f4c84abbb52741c9c68fa0e16653fd20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a653a1220ca14bbdefd4b1aba48fdb57ccfaa361a11a36f1838de8f3cc3c6b00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:40:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Direção Geral da Administração Escolar
+- Ministério da Educação e Ciência
+relationships:
+- type: cites
+  target: pt:dre:1148201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3095530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543014:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:40:39Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +138,6 @@ Nestes termos, e em conformidade com o disposto no n.º 1 do artigo 22.º do [De
 
 16 de agosto de 2013. - O Secretário de Estado Adjunto e do Orçamento (por delegação de S. Ex.ª a MEF, [Despacho n.º 9459/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9459-2013-3095530), DR, 2.ª série, n.º 138, de 19/07/2013), Hélder Manuel Gomes dos Reis. -
 
-**O Secretário de Estado do Ensino e da Administração Escolar (por delegação de S. Ex.ª o MEC, [Despacho n.º 4654/2013](https://diariodarepublica.pt/dr/detalhe/despacho/4654-2013-1148201), DR, 2.ª série, n.º 65, de 03/04/2013), João Casanova de Almeida.**
+O Secretário de Estado do Ensino e da Administração Escolar (por delegação de S. Ex.ª o MEC, [Despacho n.º 4654/2013](https://diariodarepublica.pt/dr/detalhe/despacho/4654-2013-1148201), DR, 2.ª série, n.º 65, de 03/04/2013), João Casanova de Almeida.
+
+207206127

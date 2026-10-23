@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/889-2013-2967248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0d03fdae688633cc7d0845a3c4d674784812637dc6ed9579d6914d22c3142bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7df72082063e480c2757b2beb6c4663d11602a2dde2fa70b97b2e9c5259483
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Assistência Técnica
+- Autoridade Tributária e Aduaneira
+- Despesas Públicas
+- Equipamento Informático
 relationships:
 - type: amended_by
   target: pt:dre:1677159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1677159:por
+  label: "Alterada pela PORT.133/2014.20.02.2014.SEAO-MF, DR.IIS [36] de 20.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-2014-1677159
+  date: '2014-02-20'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:27Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +124,7 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo d
 
 Fica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/12/240000000/3548035480.pdf))](https://files.diariodarepublica.pt/2s/2013/12/240000000/3548035480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/12/240000000/3548035480.pdf)
 
 ###### Artigo 2.º
 
@@ -113,3 +135,5 @@ As importâncias fixadas para o ano económico de 2015 poderão ser acrescidas d
 Os encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever nos orçamentos do respetivo organismo, referentes aos anos indicados.
 
 29 de novembro de 2013. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis.
+
+207440039

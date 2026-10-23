@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/068000000/0011400114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-2022-181700324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c733b876d93086313d8ff7eba7d56c5745de9afabd7b306d843c191235e07c36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96f14019b7921936a98a5fe5c5dffb4bbd25092c71d252adfc05218b5985f87c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- CP
+- Despesas Públicas
+- Pessoal de Limpeza
 relationships:
 - type: amended_by
   target: pt:dre:184382298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:184382298:por
+  label: Revogada, a partir de 04.06.2022, pelo(a) Portaria n.º 532/2022 - Diário da República n.º 108/2022, Série II de 2022-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-2022-184382298
+  date: '2022-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:44:30Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +132,5 @@ Em 2024: (euro) 6 319 501,81, a que acresce IVA à taxa legal em vigor.
 5 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 25 de março de 2022. - A Secretária de Estado do Orçamento, Cláudia Joaquim. - 27 de março de 2022. - O Secretário de Estado das Infraestruturas, Jorge Moreno Delgado.
+
+315165422

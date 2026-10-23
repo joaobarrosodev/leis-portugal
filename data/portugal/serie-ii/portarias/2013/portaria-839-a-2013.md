@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 232/2013, 2º Suplemento, Série II de 2013-11-29
   number: '232'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 34960-(5) a 34960-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/232000002/0000500005.pdf
 entry_into_force_dates: []
@@ -49,36 +49,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-a-2013-3160892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1edd6007d7823a07ba202c7f79034715d85452890e06f4e8a86cf47b4ce1e128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 917a8e6734a69b3290c760c332c325bd3f0679cee2e885a1cfd7ce785c8ae2f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Centro Hospitalar Psiquiátrico de Lisboa
+- Despesas Públicas
+- Fundo de Reabilitação e Conservação Patrimonial
+- Ministério da Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:67267074:por
+  label: Alterados os nºs 1. e 2. e 4. a 6. pela Portaria n.º 296/2015 - Diário da República n.º 98/2015, Série II de 2015-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-2015-67267074
+  date: '2015-05-21'
+- type: cites
+  target: pt:dre:1514784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3095530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:09Z'
   warnings: []
   errors: []
 ---
@@ -124,3 +170,5 @@ Em 2014 - (euro) 57 247,82, IVA incluído à taxa legal em vigor.
 7.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 27 de novembro de 2013. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis. - A Secretária de Estado do Tesouro, Maria Isabel Cabral de Abreu Castelo Branco. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.
+
+207434134

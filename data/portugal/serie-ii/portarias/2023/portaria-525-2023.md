@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/197000000/0007600077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-2023-222644730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 862581232f2907352edc8272cc642f1652fb2d1df7fb78eb65532a3a4cb93a12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 977965f4e60e8164b86afd648e0d90bb8d96830eaf55854e7aa8a3aea04c1047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Despesas Públicas
+- Gestão Orçamental
+- Governo XXIII
+- Ministério da Justiça
+- Ministro da Justiça
+- Pessoal de Limpeza
+relationships:
+- type: cites
+  target: pt:dre:176907496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:56Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +135,9 @@ A presente portaria produz efeitos a partir da data da sua assinatura.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
-| (em euros) | (em euros) | (em euros) | (em euros) | (em euros) |
+| (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Entidades adquirentes | 2022 | 2023 | 2024 | Valor total sem IVA |
+| Entidades adquirentes | 2022 | 2023 | 2024 | Valor total<br>sem IVA |
 |  |  |  |  |  |
 | Secretaria-Geral do Ministério da Justiça ... | 82 988,01 | 99 585,61 | 16 597,60 | 199 171,22 |
 | Direção-Geral da Administração da Justiça ... | 4 692 996,00 | 5 631 595,20 | 938 599,20 | 11 263 190,40 |
@@ -131,3 +156,5 @@ A presente portaria produz efeitos a partir da data da sua assinatura.
 | Tribunal da Relação de Évora ... | 19 738,42 | 23 686,10 | 3 947,68 | 47 372,20 |
 | Tribunal Central Administrativo Norte ... | 14 282,92 | 17 139,50 | 2 856,58 | 34 279,00 |
 | Totais... | 8 517 337,27 | 10 220 804,72 | 1 703 467,45 | 20 441 609,44 |
+
+316903983

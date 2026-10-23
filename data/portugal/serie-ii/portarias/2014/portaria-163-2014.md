@@ -48,36 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-2014-1938598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 241476d46d91fbd02679cb64e2222cd5189ed53393a0e506616a35df7401c3b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39c827d2fc49d4b9a9ad9cf38dbf7372f2d5e325645af4f159dfe2470026c3ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Portuguesa do Ambiente
+- Comissão
+- Comissão do Domínio Público Marítimo
+- Domínio Público Marítimo
+- Funchal
+- Madeira.região Autónoma
+- Ministério da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:1864687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2473325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3329191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3533302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:10Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +140,5 @@ c) Um representante dos requerentes.
 2 - O auto de delimitação a que se refere o número anterior e a planta de delimitação a ele anexa são remetidos à Agência Portuguesa do Ambiente, I. P., para prosseguimento do processo, nos termos dos n.os 6 e 7 do Regulamento de Procedimento dos Processos de Delimitação do Domínio Público Marítimo Pendentes em 27 de outubro de 2007.
 
 12 de fevereiro de 2014. - A Secretária de Estado Adjunta e da Defesa Nacional, Berta Maria Correia de Almeida de Melo Cabral. - O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos.
+
+207626664

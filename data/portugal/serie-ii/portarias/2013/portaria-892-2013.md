@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/240000000/3548135482.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/892-2013-2967256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b424208fe50c0f9fa860097180e67c98b870c2be300c8ebbd94ffe69a4276ce3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45f855b693645bb62f4e165c6203739768256499694b2c1cbe74b8608e889e8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1785225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229355:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:28Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +98,5 @@ O Almirante Autoridade Marítima Nacional, nos termos definidos na [Portaria n.�
 É concedida a medalha de filantropia e dedicação, grau prata, ao 11506983 Patrão de embarcação salva-vidas José Lúcio Correia Pacheco, pelas notáveis qualidades profissionais, morais e humanas bem como a disponibilidade para ocorrer a situações de socorro, muitas vezes com elevado espírito de coragem e abnegação, que lhe permitiram granjear o respeito, a estima e a amizade de toda a sua tripulação e o reconhecimento dos seus chefes, pelo importantes serviços prestados ao ISN durante 29 anos e oito meses, o qual contribuiu de forma significativa para a eficiência, dignidade, prestigio e cumprimento do ilustre Instituto de Socorros a Náufragos, da Direção-Geral da Autoridade Marítima, da Autoridade Marítima Nacional e consequentemente da Marinha.
 
 29-11-2013. - O Almirante Autoridade Marítima Nacional, José Carlos Torrado Saldanha Lopes, almirante.
+
+207442461

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/021000000/0006400064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1028145864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18a32ce6957564749eecee844f74048cec9ce677ff7311480145480d04fe7979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c0e81693c4c77a4a6e998a0cb3f002643982b9b3d7425e231107cb7cc4c9485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:928659530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933648925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:27Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado da Gestão da Saúde, no uso da competência delegada na alínea g) do n.º 2 do [Despacho n.º 9578/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9578-2025-928659530), de 12 de agosto, e nos termos do disposto no artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, o seguinte:
 
-1 - São alterados os n.<sup>os</sup>1 e 2 da [Portaria n.º 495/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/495-2025-933648925), de 1 de setembro, que passam a ter a seguinte redação:
+1 - São alterados os n.os1 e 2 da [Portaria n.º 495/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/495-2025-933648925), de 1 de setembro, que passam a ter a seguinte redação:
 
 «1 - Fica a Unidade Local de Saúde de Santa Maria, E. P. E., autorizada a assumir um encargo para o ano de 2026, até ao montante máximo global de 5 895 000,00 € (cinco milhões e oitocentos e noventa e cinco mil euros), a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, referente à substituição de dois aceleradores lineares.
 
@@ -102,3 +122,5 @@ Manda o Governo, pelo Secretário de Estado da Gestão da Saúde, no uso da comp
 2 - A presente portaria produz efeitos a partir da data da sua assinatura.
 
 23 de janeiro de 2026. - O Secretário de Estado da Gestão da Saúde, Francisco Nuno Rocha Gonçalves.
+
+319956194

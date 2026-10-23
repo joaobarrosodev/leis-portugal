@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2014-3162551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e47fb2b5d41f3f94d9c3f1ba9c78cf8ef757940f504f7aadd16f1fc51ed267c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe42bdef53bf988d89e789585202a230b002e357e054f2d8c4b148c10dc6b222
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Medicamentosa
+- Comparticipação do Estado
+- Hepatite
+- Infarmed
+- Medicamento
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:854130981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66536455:por
+  label: Dada nova redação ao anexo pelo(a) Port 114-A/2015 - Diário da República n.º 34/2015, 2º Suplemento, Série II de
+    2015-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-a-2015-66536455
+  date: '2015-02-18'
+- type: amended_by
+  target: pt:dre:66990200:por
+  label: Dada nova redação ao anexo, alterado pela Port 114-A/2015 de 18-fev, pelo(a) Portaria n.º 216-A/2015 - Diário da
+    República n.º 72/2015, 2º Suplemento, Série II de 2015-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-a-2015-66990200
+  date: '2015-04-14'
+- type: amended_by
+  target: pt:dre:74443086:por
+  label: Alterado o anexo da presente Portaria, alterado pela Port 114-A/2015, de 18-fev e pela Port 216-A/2015, de 14-abr
+    pelo(a) Portaria n.º 146-B/2016 - Diário da República n.º 92/2016, 1º Suplemento, Série II de 2016-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-b-2016-74443086
+  date: '2016-05-12'
+- type: amended_by
+  target: pt:dre:74769610:por
+  label: Alterado o anexo do presente diploma, alterado pela Port 114-A/2015, de 18-fev, pela Port 216-A/2015, de 14-abr e
+    pela Port 146-B/2016, de 12-maio, pelo(a) Portaria n.º 181-A/2016 - Diário da República n.º 118/2016, 1º Suplemento, Série
+    II de 2016-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-a-2016-74769610
+  date: '2016-06-22'
+- type: amended_by
+  target: pt:dre:105801823:por
+  label: Aditados novos os medicamentos ao anexo do presente diploma, alterado pelas Port 114-A/2015 de 18-fev, 216-A/2015,
+    de 14-abr, e 146-B/2016 12-mai, pelo(a) Portaria n.º 28/2017 - Diário da República n.º 19/2017, Série II de 2017-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-2017-105801823
+  date: '2017-01-26'
+- type: amended_by
+  target: pt:dre:107011088:por
+  label: Aditado novo medicamento ao anexo do presente diploma, alterado pelas Port 114-A/2015 de 18-fev, 216-A/2015, de 14-abr,
+    146-B/2016 12-mai, 181-A/2016, de 22-jun e 28/2017, de 26-jan pelo(a) Portaria n.º 111/2017 - Diário da República n.º
+    93/2017, Série II de 2017-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/111-2017-107011088
+  date: '2017-05-15'
+- type: amended_by
+  target: pt:dre:114510461:por
+  label: Alterado o Anexo pelo(a) Portaria n.º 35/2018 - Diário da República n.º 9/2018, Série II de 2018-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2018-114510461
+  date: '2018-01-12'
+- type: amended_by
+  target: pt:dre:186995505:por
+  label: Alterado o art. 3.º e revogadas as b) e c) do mesmo art. 3.º pelo(a) Portaria n.º 615/2022 - Diário da República
+    n.º 149/2022, Série II de 2022-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-2022-186995505
+  date: '2022-08-03'
+- type: amended_by
+  target: pt:dre:854130981:por
+  label: Alterado, a partir de 6 de março de 2024, o anexo pelo(a) Portaria n.º 82/2024/1 - Diário da República n.º 46/2024,
+    Série I de 2024-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2024-854130981
+  date: '2024-03-05'
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336305:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:09Z'
   warnings: []
   errors: []
 ---
@@ -134,3 +203,5 @@ São abrangidos regime especial de comparticipação os medicamentos contendo as
 - Peginterferão alfa-2b;
 
 - Ribavirina;
+
+207621317

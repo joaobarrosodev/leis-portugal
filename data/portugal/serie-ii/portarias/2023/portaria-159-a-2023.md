@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03
   number: '66'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 415-(2) a 415-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/066000001/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df34b6c96f2d60a1ed0baa90be5db3caa903f72ca9a2b33c80d59fa0097569db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fca9d9515265b7edea0778ac2961244e397343becdff79639887e740dce4100b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Cinema
+- Conselho Consultivo
+- Definição de Competências
+- Financiamento
+- Fundo de Apoio ao Turismo e ao Cinema
+- Indústria Cinematográfica
+- Instituto do Cinema e do Audiovisual
+- Instituto do Turismo de Portugal
+- Programa Audiovisual
+- Regulamentação de Atos Legislativos
+- Subsídio não Reembolsável
+relationships:
+- type: amends
+  target: pt:numero:portaria:490/2018
+  label: Altera, a partir de 4 de abril de 2023, o artigo 4.º-A, os artigos 2.º, 5.º, 7.º, 8.º, 11.º, 12.º e 16.º do anexo
+    i, e os pontos A1.1, C1.1, C1.2 e C1.3 do anexo ii da Portaria n.º 490/2018, de 28 de setembro, Diário da República n.º
+    188/2018, Série II
+  source: null
+  date: '2018-09-28'
+- type: cites
+  target: pt:dre:115536002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116536698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116550762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122728689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164712111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205312555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208087603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:47:40Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +189,9 @@ e) 'Territórios de baixa densidade', aqueles que se encontram identificados no 
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -148,7 +205,9 @@ e) 'Territórios de baixa densidade', aqueles que se encontram identificados no 
 
 6 - A rodagem ou animação principal só pode ter lugar após a entrega do requerimento de admissão ao benefício do Incentivo ou após o registo prévio do pedido de auxílio, de acordo com formulário disponibilizado para esse efeito pelo Instituto do Cinema e Audiovisual, I. P.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -164,7 +223,9 @@ c) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +247,9 @@ c) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais
 
 10 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Ao Incentivo e à sua acumulação com outros auxílios estatais concedidos para a mesma produção aplicam-se as normas estabelecidas no artigo 5.º do [Decreto-Lei n.º 74/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411), de 25 de agosto.
 
@@ -194,7 +257,9 @@ c) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais
 
 3 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os requerimentos de admissão ao benefício do Incentivo são apresentados, por via eletrónica, no sítio da Internet do ICA, I. P., por fases de candidaturas, mediante submissão de formulário próprio, e acompanhados dos documentos referidos no n.º 7 do presente artigo.
 
@@ -216,7 +281,9 @@ c) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais
 
 10 - (Anterior n.º 7.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -274,10 +341,14 @@ Os pontos A1.1, C1.1, C1.2 e C1.3 do anexo ii a que se refere o artigo 7.º da [
 
 Grelha de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000200006.pdf))](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/066000001/0000200006.pdf)
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 2 de abril de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira. - 2 de abril de 2023. - O Secretário de Estado das Finanças, João Nuno Marques de Carvalho Mendes. - 3 de abril de 2023. - O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida.
+
+316337266

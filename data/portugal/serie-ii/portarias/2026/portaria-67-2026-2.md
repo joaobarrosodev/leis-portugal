@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/023000000/0008400085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,36 +50,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-2026-1033397661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3895988e3e0a929a75afa19d8c6ffa7a366fa96760ae50b145266f714969262
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22ec5a1ba589c0de4cc32d8f700522f0aa663cb1813aa85054d2248ec164ef73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Aquisição de Bens e Serviços
+- Assistência Total em Manutenção
+- Despesas Públicas
+- EDIA
+- Empreendimento de Fins Múltiplos do Alqueva
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:29Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +124,7 @@ A manutenção preventiva implica a realização de tarefas de manutenção com 
 
 A despesa contemplada nesta portaria assume, assim, uma importância estratégica decisiva, pois garantirá o funcionamento do sistema de distribuição de água em quantidade e qualidade adequadas às várias atividades económicas que dela dependem.
 
-Nos termos do artigo 2.º, n.<sup>os</sup> 4 e 5, da [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual, a EDIA assumiu a natureza de Entidade Pública Reclassificada e foi integrada no setor público administrativo, equiparada a serviço e fundo autónomo.
+Nos termos do artigo 2.º, n.os 4 e 5, da [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual, a EDIA assumiu a natureza de Entidade Pública Reclassificada e foi integrada no setor público administrativo, equiparada a serviço e fundo autónomo.
 
 Assim, por força do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, torna-se necessária a publicação no Diário da República de portaria de extensão de encargos (PEE), quando as despesas deem lugar a encargo orçamental em mais de um ano económico e não se encontrem excecionadas nos casos previstos nas alíneas a) e b) do n.º 1 do referido artigo 22.º
 
@@ -125,3 +151,5 @@ d) 2029: 1 044 057,26 euros (um milhão, quarenta e quatro mil, cinquenta e sete
 5 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 28 de janeiro de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes. - 26 de janeiro de 2026. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito.
+
+319958054

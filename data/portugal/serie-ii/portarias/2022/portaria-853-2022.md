@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/229000000/0002000021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-2022-203943455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7cfcf9acd9a946280346d9a0723045393df0bfc5671c0959613f69c9a48012a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c5c5272b2c0adb0fb156124a8c21ca70ef6d9c1759bb2890055843f5f8f4d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- BENS Imóveis
+- Despesas Públicas
+- Direcção Geral da Autoridade Marítima
+- Empreitada de Obras Públicas
+- Quarteira
+- Reabilitação
+relationships:
+- type: cites
+  target: pt:dre:164797285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183672437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:46:44Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +143,7 @@ Os artigos 1.º, 2.º e 4.º, respetivamente, da [Portaria n.º 220/2021](https:
 
 É autorizada a Direção-Geral da Autoridade Marítima a assumir os encargos orçamentais decorrentes do contrato de empreitada para a execução das obras de remodelação de um edifício habitacional localizado em Quarteira para disponibilização de habitações, para os anos de 2021, 2022 e 2023, até ao montante máximo de (euro) 475 609,75 euros (quatrocentos e setenta e cinco mil seiscentos e nove euros e setenta e cinco cêntimos), valor ao qual acresce IVA à taxa legal em vigor.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O encargo orçamental resultante da aquisição referida no artigo anterior não poderá, em cada ano económico, exceder os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
 
@@ -121,7 +153,7 @@ Ano de 2022 - 306 926,01 (euro);
 
 Ano de 2023 - 168 683,74 (euro).
 
-###### Artigo 4.º
+Artigo 4.º
 
 A importância fixada para o ano económico de 2023 poderá ser acrescida do saldo apurado na execução orçamental do ano anterior.»
 
@@ -130,3 +162,5 @@ A importância fixada para o ano económico de 2023 poderá ser acrescida do sal
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 21 de novembro de 2022. - O Secretário de Estado da Defesa Nacional, Marco Alexandre da Silva Capitão Costa Ferreira.
+
+315904101

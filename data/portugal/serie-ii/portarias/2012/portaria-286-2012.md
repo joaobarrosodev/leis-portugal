@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/134000000/2462924629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-1571424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:34:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea2a9e0ea8e5b303a0c48f030fbfccc89f2d1ca7f50552be04ae17221da51e98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8827229d1b670f92518c1bd1baf2ffc7acb218a83d08c6f02937eeda25f8350d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:34:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:34:16Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada, nomear o 20382 Capitão-de-mar-e-guerra da classe de Marinha Pedro Manuel Filipe do Amaral Frazão, para o cargo de comandante da Zona Marítima da Madeira e, em acumulação, chefe do Departamento Marítimo da Madeira, capitão do Porto do Funchal e capitão do Porto de Porto Santo, em substituição do 21178 Capitão-de-mar-e-guerra da classe de Marinha António Manuel de Carvalho Coelho Cândido, que fica exonerado dos referidos cargos pela presente portaria na data em que o oficial agora nomeado assuma funções.
 
 16-09-2009. - O Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, Almirante.
+
+206179689

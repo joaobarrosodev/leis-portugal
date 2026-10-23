@@ -48,36 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-2012-1272181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T17:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13bd1fbbef8610c78b0e7bcd50b24c1de977179885cd3223a186b119f3a0c0ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23bfef080d1ad0264700001a93af7c93d1b104091afc7863e084e8a9ef9a0b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adido Militar
+- Angola
+- Congo-brazzaville
+- Congo-kinshasa
+- Embaixada
+- Exoneração
+- Luanda
+- Namíbia
+- Nomeação
+- Representação Diplomática
+relationships:
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:34:53Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +123,5 @@ A presente portaria produz efeitos a partir de 20 de Junho de 2011.
 É revogada a Portaria n.º 194/2008, publicada no Diário da República, 2.ª série, n.º 34, de 18 de Fevereiro de 2008. (Isenta de visto do Tribunal de Contas.)
 
 20 de Novembro de 2011. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+205573987

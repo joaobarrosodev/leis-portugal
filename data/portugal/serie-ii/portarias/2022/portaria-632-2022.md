@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/156000000/0006000061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/632-2022-187368937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74d7e16be6d24846effde089f2b6e9b84635cd393cc65657c5955e43e7a2de10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb4bb2cbb7dda756f21290563dd03e1ccad9f97c8848133d1129c75d9714db98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Espinho
+- Infraestruturas de Portugal
+- Rede Ferroviária
+- Segurança Ferroviária
 relationships:
 - type: amended_by
   target: pt:dre:895613555:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:895613555:por
+  label: Revogada pelo(a) Portaria n.º 779/2024/2 - Diário da República n.º 215/2024, Série II de 2024-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-2024-895613555
+  date: '2024-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:33Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +139,5 @@ Em 2023: (euro) 2 805 000,00, ao qual acresce IVA à taxa legal em vigor.
 6 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 25 de julho de 2022. - O Ministro das Infraestruturas e da Habitação, Pedro Nuno de Oliveira Santos. - 22 de julho de 2022. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.
+
+315589994

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/005000000/0008300084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2025-902718204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b2beec404b8d0421dd030f31a67d0fc527a6f602fc650fb53f63799d335f6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63ce4b84987175a980bb8d3740dcb336676fe1f1e60d491d27836cc6f6e4b4ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo Nacional da Torre do Tombo
+- Despesas Públicas
+- Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Empreitada de Obras Públicas
+- Fundo de Reabilitação e Conservação Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:58:29Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +122,7 @@ As condições de atribuição do financiamento são definidas no contrato de fi
 
 O respetivo procedimento de contratação da empreitada de obras públicas para renovação da cobertura do edifício da Torre do Tombo dará lugar a encargo orçamental em mais de um ano, prefigurando a assunção de compromisso plurianual, o qual, atento o respetivo valor, carece de prévia autorização conferida por portaria dos membros do Governo responsáveis pela área das finanças e da tutela:
 
-Assim, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e os n.<sup>os</sup>1 e 3 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, nas suas redações atuais, manda o Governo, pela Ministra da Cultura, pelo Secretário de Estado Adjunto e do Orçamento e pelo Secretário de Estado do Tesouro e das Finanças, no uso das competências que lhes foram delegadas, o seguinte:
+Assim, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e os n.os1 e 3 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, nas suas redações atuais, manda o Governo, pela Ministra da Cultura, pelo Secretário de Estado Adjunto e do Orçamento e pelo Secretário de Estado do Tesouro e das Finanças, no uso das competências que lhes foram delegadas, o seguinte:
 
 1 - Fica a Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB) autorizada a proceder à assunção de encargos plurianuais relativos à empreitada de obras públicas para renovação da cobertura do edifício da Torre do Tombo, até ao montante máximo de 2 047 300 EUR (dois milhões e quarenta e sete mil e trezentos euros), a que acresce IVA à taxa legal em vigor, sujeito a comparticipação do Fundo de Reabilitação e Conservação Patrimonial no montante de 1 199 380 EUR (um milhão cento e noventa e nove mil e trezentos e oitenta euros), a que acresce IVA à taxa legal em vigor.
 
@@ -117,10 +142,12 @@ Assim, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https:/
 
 2025: 599 690 €.
 
-6 - Os encargos decorrentes da execução dos n.<sup>os</sup>4 e 5 são suportados por verbas inscritas e a inscrever no orçamento do FRCP.
+6 - Os encargos decorrentes da execução dos n.os4 e 5 são suportados por verbas inscritas e a inscrever no orçamento do FRCP.
 
-7 - Os montantes fixados para o ano económico de 2025 nos n.<sup>os</sup>2 e 5 podem ser acrescidos do saldo que se apurar na execução orçamental do ano anterior.
+7 - Os montantes fixados para o ano económico de 2025 nos n.os2 e 5 podem ser acrescidos do saldo que se apurar na execução orçamental do ano anterior.
 
 8 - A presente portaria produz efeitos na data da sua assinatura.
 
 28 de outubro de 2024. - A Ministra da Cultura, Dalila Rodrigues. - 23 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 27 de dezembro de 2024. - O Secretário de Estado do Tesouro e das Finanças, João Alexandre da Silva Lopes.
+
+318516563

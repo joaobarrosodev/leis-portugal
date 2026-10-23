@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/166000001/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-a-2025-933628163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98aaf0614a9b280780f6ff30fe5a1cdb431f94e51a95d3001830504798f9e8fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf2aa148ff0f9fc355f122d765fe2e2e04f85057ac405518bb68b4e7266e6445
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Catástrofe
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comparticipação do Estado
+- Financiamento
+- Formulário Eletrónico
+- Habitação
+- Incêndio
+- Prejuízo Financeiro
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Valor de Referência
+relationships:
+- type: cites
+  target: pt:dre:933044064:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:59:39Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Quanto ao arrendamento, prevê-se a comparticipação a 100 % considerando a dif
 
 Define também o [Decreto-Lei n.º 98-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-2025-933044064), de 24 de agosto, no n.º 2 do artigo 17.º, que os apoios abrangem as habitações danificadas legalizadas urbanisticamente ou suscetíveis de legalização.
 
-Relativamente às habitações danificadas situadas em locais que violem as regras urbanísticas aplicáveis e que não sejam suscetíveis de legalização, estas são demolidas pelos municípios territorialmente competentes, correndo os respetivos custos por conta do orçamento afeto à execução dos apoios referidos. Nestes casos e sempre que for inviável a reconstrução ou manutenção da habitação própria e permanente dos beneficiários no mesmo local, é ainda concedido um apoio de montante equivalente ao descrito acima para a aquisição de nova habitação ou, caso tal se revele inviável, para a construção de nova habitação no mesmo concelho, nos termos dos n.<sup>os</sup>14 e 15 do artigo 17.º [Decreto-Lei n.º 98-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-2025-933044064), de 24 de agosto.
+Relativamente às habitações danificadas situadas em locais que violem as regras urbanísticas aplicáveis e que não sejam suscetíveis de legalização, estas são demolidas pelos municípios territorialmente competentes, correndo os respetivos custos por conta do orçamento afeto à execução dos apoios referidos. Nestes casos e sempre que for inviável a reconstrução ou manutenção da habitação própria e permanente dos beneficiários no mesmo local, é ainda concedido um apoio de montante equivalente ao descrito acima para a aquisição de nova habitação ou, caso tal se revele inviável, para a construção de nova habitação no mesmo concelho, nos termos dos n.os14 e 15 do artigo 17.º [Decreto-Lei n.º 98-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-2025-933044064), de 24 de agosto.
 
 O apoio financeiro para alojamento urgente e temporário é concedido em situações de necessidade de alojamento imediato e provisório definido e atribuído pelo município, assumindo-se como uma solução intercalar face à solução habitacional definitiva a concretizar por via dos apoios e no prazo estabelecido no decreto-lei referido, sendo para o efeito disponibilizada uma comparticipação às autarquias locais, destinada a suportar os encargos relativos a alojamento em empreendimentos turísticos ou pousadas da juventude e estabelecimentos de alojamento local, ou a arrendamento ou subarrendamento de uma habitação.
 
@@ -244,3 +259,5 @@ c) 10 % do montante é entregue no final da obra, com a apresentação de relat�
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 29 de agosto de 2025. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz.
+
+319483939

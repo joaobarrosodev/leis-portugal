@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/004000000/0010400105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-2025-902209937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T17:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0c1a5901b9d745ae99578648c611e01b20f8eeacf0bdba395c1c0db276b82e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ae7a0c41210d91bed3195c851e5624df033b3a80cedb329820388cadec07630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência para a Modernização Administrativa
+- Aquisição de Bens e Serviços
+- Contrato
+- Despesas Públicas
+- Energia Elétrica
+- Instalação de Serviços
+- Telecomunicações Complementares
+relationships:
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887093102:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:58:08Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +124,7 @@ A Agência para a Modernização Administrativa, I. P., adiante designada por AM
 
 Considerando a gestão da rede de Lojas de Cidadão importa proceder à contratação de serviços de manutenção preventiva e corretiva de instalações elétricas (IE) e infraestruturas de telecomunicações dos edifícios (ITED), bem como dar cumprimento ao [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, no âmbito da eficiência energética.
 
-Assim, nos termos e em conformidade com o disposto nos n.<sup>os</sup> 1 e 2 do artigo 22.º e na alínea c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, conjugado com o disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e no artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo das competências delegadas pelo Ministro de Estado e das Finanças, nos termos da alínea c) do n.º 3 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 19 de junho, e pelo Secretário de Estado da Modernização e Digitalização, ao abrigo das competências delegadas pela Ministra da Juventude e Modernização Administrativa, nos termos da subalínea v) da alínea b) do [Despacho n.º 10585/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10585-2024-887093102), de 9 de setembro, o seguinte:
+Assim, nos termos e em conformidade com o disposto nos n.os 1 e 2 do artigo 22.º e na alínea c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, conjugado com o disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e no artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo das competências delegadas pelo Ministro de Estado e das Finanças, nos termos da alínea c) do n.º 3 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 19 de junho, e pelo Secretário de Estado da Modernização e Digitalização, ao abrigo das competências delegadas pela Ministra da Juventude e Modernização Administrativa, nos termos da subalínea v) da alínea b) do [Despacho n.º 10585/2024](https://diariodarepublica.pt/dr/detalhe/despacho/10585-2024-887093102), de 9 de setembro, o seguinte:
 
 ###### Artigo 1.º
 
@@ -112,3 +147,5 @@ Os encargos financeiros decorrentes da presente portaria são satisfeitos por co
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 30 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 18 de dezembro de 2024. - O Secretário de Estado da Modernização e da Digitalização, Alberto Manuel Rodrigues da Silva.
+
+318518734

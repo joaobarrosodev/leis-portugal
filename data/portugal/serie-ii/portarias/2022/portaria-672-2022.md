@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/177000000/0002500025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-2022-200991666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 206619b8216978fa6d915a7f20b1c55ae2a2255f6d74024a12e2f86b389e95a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657b94866ef0aa43e51071c22ec5d2412b7778c255a6b67e56678ede5630cdeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:45Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ validation:
 Ao abrigo do disposto no n.º 4 do artigo 18.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dre/detalhe/decreto-lei/44-2002-251979), de 2 de março, na sua redação atual, manda o Almirante Autoridade Marítima Nacional nomear o 20698 Capitão-de-Fragata Alexandre Rogério da Silva Algarvio para o cargo de Capitão do Porto de Olhão, em substituição do 23795 Capitão-de-Fragata Luís André Bruno Cardoso de Morais, que fica exonerado do referido cargo pela presente portaria na data em que o oficial agora nomeado assuma funções.
 
 6-9-2022. - O Almirante Autoridade Marítima Nacional, Henrique Eduardo Passaláqua de Gouveia e Melo, Almirante.
+
+315672515

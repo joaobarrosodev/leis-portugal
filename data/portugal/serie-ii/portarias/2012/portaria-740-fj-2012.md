@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2012, 2º Suplemento, Série II de 2012-12-31
   number: '252'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 41180-(64) a 41180-(65)
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/252000002/0006400065.pdf
 entry_into_force_dates: []
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-fj-2012-1810350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e844e8bdf02407505ee0b0514f1a6778609f85c7b2e36381ff75406464007168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2310d0ad93ab5a96d49ee4ecb2af28432af5924a01c97f0a4f695e16c65d74a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS Classificados
+- Interesse Público
+- Património Arquitectónico
+- Património Cultural
+- Protecção do Património
+- Sintra
+relationships:
+- type: cites
+  target: pt:dre:145271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:37:38Z'
   warnings: []
   errors: []
 ---
@@ -105,4 +123,6 @@ Sob proposta dos serviços competentes, nos termos do disposto no artigo 15.º, 
 
 13 de dezembro de 2012. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/2s/2012/12/252000002/0006400065.pdf))](https://files.diariodarepublica.pt/2s/2012/12/252000002/0006400065.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/2s/2012/12/252000002/0006400065.pdf)
+
+27052012

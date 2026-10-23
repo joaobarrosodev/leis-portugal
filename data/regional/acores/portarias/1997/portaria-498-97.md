@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/498/1997/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/498-1997-147424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b744a357f6d6add905e912942989aab94599cb1cb144a14020560163ee2e2bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa001d1fec767b924197111fdd276908878e95141b825661eb0d5a8759dfb9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Açores
 - Curso de Estudos Superiores Especializados em Enfermagem na Comunidade
 - Escola Superior de Enfermagem
+- Plano de Estudos
 - Ponta Delgada
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:667312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667312:por
+  label: "Substituído o anexo do presente diploma pela Port 1047/97.1997.10.10.GMR-RAA, DR.IS-B [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1047-1997-667312
+  date: '1997-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/239/1994/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/239/1994/04/16/p/dre
+- type: cites
+  target: pt:dre:266642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:45Z'
   warnings: []
   errors: []
 ---
@@ -140,12 +157,12 @@ e) Outros enfermeiros - 10%.
 
 Gabinete do Ministro da República para a Região Autónoma dos Açores e Ministérios da Educação e da Saúde.
 
-**Assinada em 17 de Abril de 1997.**
+Assinada em 17 de Abril de 1997.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 ## ANEXO — Escola Superior de Enfermagem de Ponta Delgada
 
 Diploma de estudos superiores especializados em Enfermagem de Saúde na Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/166b00/36513652.pdf))](https://files.diariodarepublica.pt/1s/1997/07/166b00/36513652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/166b00/36513652.pdf)

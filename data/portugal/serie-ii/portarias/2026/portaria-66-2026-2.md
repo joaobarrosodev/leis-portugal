@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/023000000/0004600048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-2026-1033397641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c3fdc3424072fe3d33f4bc3bac67a11be486663544f68c9a1e6390b550652a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd160d2f524e6ec53914b7d9cef09e8833ce93a4ad34f989fc099f465e903f5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Infraestruturas de Portugal
+- Reabilitação
+- Rede de Estradas
+- Segurança Rodoviária
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:29Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +144,7 @@ b) Os encargos sejam repartidos entre as atividades identificadas no anexo da pr
 
 23 de janeiro de 2026. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 14 de janeiro de 2026. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo.
 
-## ANEXO — (a que se referem os n.<sup>os</sup> 1 e 2)
+## ANEXO — (a que se referem os n.os 1 e 2)
 
 | Programa | Designação da atividade | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -138,4 +152,8 @@ b) Os encargos sejam repartidos entre as atividades identificadas no anexo da pr
 | Conservação corrente e operação | Rede de Alta Prestação Marão - conservação corrente e operação | 2 025 000,00 € | 2 700 000,00 € | 2 700 000,00 € | 2 700 000,00 € | 2 700 000,00 € | 675 000,00 € | 13 500 000,00 € |
 | Segurança rodoviária | Equipamentos de sinalização e segurança | 9 629 500,00 € | 23 108 400,00 € | 23 096 400,00 € | 23 096 400,00 € | 23 096 400,00 € | 13 472 900,00 € | 115 500 000,00 € |
 | Gestão da vegetação | Execução de trabalhos de gestão de vegetação | 14 640 000,00 € | 26 570 000,00 € | 26 000 000,00 € | 26 000 000,00 € | 26 000 000,00 € | 10 790 000,00 € | 130 000 000,00 € |
-| Total | Total | 79 394 500,00 € | 116 098 400,00 € | 115 516 400,00 € | 115 516 400,00 € | 115 516 400,00 € | 35 557 900,00 € | 577 600 000,00 € |
+| Total | 79 394 500,00 € | 116 098 400,00 € | 115 516 400,00 € | 115 516 400,00 € | 115 516 400,00 € | 35 557 900,00 € | 577 600 000,00 € |  |
+
+319956744
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(255,255,255); } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { text-align:right; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl13 { min-height:18px; }

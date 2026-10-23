@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/228000000/3447734477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-2013-1509952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T17:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e5cf9bd8a19fc9e171124fabf90a1f86832ea41a27a9aee72416613786085f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92c85d8cf95cf0de9fb5f14a073aa08dae6b5c44d892c1019b9f37791da4d8ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:41:59Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +87,8 @@ validation:
 
 Manda o Chefe do Estado-Maior do Exército que os oficiais abaixo mencionados, transitem para a situação de reforma, nos termos da alínea b) do n.º 1 do Artigo 159.º do EMFAR, conjugado com o Decreto-Lei n.º 166/05 de 23 de setembro, devendo ser considerados nesta situação desde as datas aí consignadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/11/228000000/3447734477.pdf))](https://files.diariodarepublica.pt/2s/2013/11/228000000/3447734477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/11/228000000/3447734477.pdf)
 
 12 de novembro de 2013. - Por subdelegação do Diretor de Administração de Recursos Humanos, após subdelegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva, Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+207406887

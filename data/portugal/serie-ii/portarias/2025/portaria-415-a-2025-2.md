@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/123000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/415-a-2025-922901836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ed8f7b8b8e42c076dc9fdd30208501b01c68ff7b4354a7b0f6bf4a60effc37b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51bb4b1710590c316b8ffe82e331b4aa9073663f5fc0bec47dff7b138261014f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Assistência Total em Manutenção
+- Contrato de Concessão
+- Despesas Públicas
+- Metro do Porto
+relationships:
+- type: amends
+  target: pt:numero:portaria:176/2025
+  label: Altera os artigos 1.º, 2.º e 4.º da Portaria n.º 176/2025/2, de 5 de março, DR.IIS[45]
+  source: null
+  date: '2025-03-05'
+- type: cites
+  target: pt:dre:107677385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114766070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909476523:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:59:13Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +124,7 @@ validation:
 
 Através da [Portaria n.º 182/2017](https://diariodarepublica.pt/dr/detalhe/portaria/182-2017-107677385), de 12 de julho, alterada pela [Portaria n.º 137/2018](https://diariodarepublica.pt/dr/detalhe/portaria/137-2018-114766070), de 28 de fevereiro, a Metro do Porto, SA, foi autorizada a proceder ao pagamento das verbas referentes ao contrato Subconcessão da Operação e da Manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, por um prazo de oitenta e quatro meses, com um montante total de 311 141 351,00 euros (trezentos e onze milhões, cento e quarenta e um mil, trezentos e cinquenta e um euros), a que acresce o IVA à taxa legal em vigor e que inclui a estimativa para a componente de revisão de preços.
 
-Após o lançamento de um procedimento concursal, em 11 de janeiro de 2018, foi celebrado o contrato de subconcessão entre a Metro do Porto, SA, e a ViaPorto, Operação e Manutenção de Transportes, Unipessoal, L.<sup>da</sup>, tendo este contrato terminado a sua vigência em 31 de março de 2025, existindo a possibilidade de renovação por um período máximo de dois anos, nos termos dos n.<sup>os</sup>2, 5 e 6 da cláusula 16.ª do Contrato.
+Após o lançamento de um procedimento concursal, em 11 de janeiro de 2018, foi celebrado o contrato de subconcessão entre a Metro do Porto, SA, e a ViaPorto, Operação e Manutenção de Transportes, Unipessoal, L.da, tendo este contrato terminado a sua vigência em 31 de março de 2025, existindo a possibilidade de renovação por um período máximo de dois anos, nos termos dos n.os2, 5 e 6 da cláusula 16.ª do Contrato.
 
 Devido à necessidade de prorrogar o referido contrato de subconcessão por um período de três meses, de 1 de abril de 2025 até 30 de junho de 2025, foi concedida autorização à Metro do Porto, SA, pela [Portaria n.º 176/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/176-2025-909476523), de 5 de março, para a reprogramação dos encargos relativos ao «Contrato de subconcessão da operação e da manutenção do sistema de metro ligeiro da Área Metropolitana do Porto», por um prazo de oitenta e sete meses, com um montante global de 288 276 200,67 euros, ao qual acresce o IVA à taxa legal em vigor, e que inclui a estimativa para a componente de revisão de preços.
 
@@ -104,7 +142,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](ht
 
 Fica a Metro do Porto, SA, Entidade Pública Reclassificada, autorizada a realizar despesa adicional ao contrato de ‘Subconcessão da operação e da manutenção do sistema de metro ligeiro da Área Metropolitana do Porto’, no montante máximo global de 435 136 036,34 euros, ao qual acresce o IVA à taxa legal em vigor, e que incluem a estimativa para a componente de revisão de preços, pelo prazo de 108 meses.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os encargos orçamentais decorrentes da execução do contrato acima referido são repartidos da seguinte forma:
 
@@ -128,7 +166,7 @@ Em 2026: 80 000 000,00 euros, ao qual acresce o IVA à taxa legal em vigor;
 
 Em 2027: 23 000 000,00 euros, ao qual acresce o IVA à taxa legal em vigor.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os encargos financeiros previstos para o ano de 2025 são financiados por receita própria do ano no montante de 62 000 000,00 €.
 
@@ -137,3 +175,5 @@ Em 2027: 23 000 000,00 euros, ao qual acresce o IVA à taxa legal em vigor.
 2 - Determinar que a presente portaria entra em vigor na data da sua assinatura.
 
 27 de junho de 2025. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - A Secretária de Estado da Mobilidade, Cristina Maria dos Santos Pinto Dias.
+
+319235924

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/044000000/0629706297.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-2014-2446767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6820b92202a7d9a8080c939ac718acf46e7eaf7c6e7b94e6d7183fc1873c2eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe1ddf13d72e6131dca9fb6110e3367ac7bb1e04520aeb8d6442e6b7326c08f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:14Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ validation:
 Manda o Chefe do Estado-Maior do Exército que o MGen NIM 07251372 Alfredo Nunes da Cunha Piriquito transite para a situação de reforma, nos termos da alínea c) do n.º 1 do artigo 159.º do EMFAR, conjugado com o Decreto-Lei n.º 166/05 de 23 de setembro, devendo ser considerado nesta situação, desde 30 de dezembro de 2013.
 
 31 de janeiro de 2014. - Por subdelegação do Diretor de Administração dos Recursos Humanos, após subdelegação do Vice-Chefe do Estado-Maior do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+207645375

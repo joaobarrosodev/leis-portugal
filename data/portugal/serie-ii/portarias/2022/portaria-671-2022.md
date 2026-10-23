@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/671-2022-200837117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e8f99662f746b781c37b6a938fe0f5054bf17a8ecf7fa0ed324d6abf2b17122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49638c354c5cb5fcfa2fd41c92e90b3c102b582c46e50ef2cfc6e8f1608b139d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código dos Contratos Públicos
+- Concurso Limitado por Prévia Qualificação
+- Contrato
+- Eficiência Energética
+- Sistema de Qualificação de Empresas de Serviços Energéticos
+relationships:
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183641013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025051:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:45Z'
   warnings: []
   errors: []
 ---
@@ -133,13 +166,17 @@ Programa do procedimento
 
 Disposições gerais
 
-###### Artigo 1.º — Objeto do procedimento
+Artigo 1.º
+
+Objeto do procedimento
 
 1 - O presente procedimento tem por objeto a adjudicação de uma proposta com vista à celebração de um contrato de gestão de eficiência energética (Contrato), ao abrigo do [Decreto-Lei n.º 50/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2021-165129789), de 15 de junho.
 
 2 - No objeto do Contrato inclui-se a implementação de medidas de melhoria de eficiência energética e a instalação de unidades de produção para autoconsumo (UPAC), nos termos das disposições previstas no caderno de encargos.
 
-###### Artigo 2.º — Peças do procedimento
+Artigo 2.º
+
+Peças do procedimento
 
 1 - O presente procedimento é constituído pelo programa de procedimento, caderno de encargos e respetivos anexos.
 
@@ -151,13 +188,17 @@ Disposições gerais
 
 5 - Todas as notificações e comunicações no âmbito do presente procedimento são efetuadas através da Plataforma nos termos do artigo 61.º da [Lei n.º 96/2015](https://diariodarepublica.pt/dr/detalhe/lei/96-2015-70025051), de 17 de agosto.
 
-###### Artigo 3.º — Decisão de contratar e entidade adjudicante
+Artigo 3.º
+
+Decisão de contratar e entidade adjudicante
 
 1 - A decisão de iniciar o presente procedimento, incluindo a aprovação das respetivas peças, foi tomada pelo [designação do órgão competente para a decisão de contratar].
 
 2 - A entidade adjudicante é a [designação], com [dados de contacto, incluindo a localização geográfica da sede e endereço de correio eletrónico], competindo a direção do presente procedimento a [preencher].
 
-###### Artigo 4.º — Júri
+Artigo 4.º
+
+Júri
 
 1 - A entidade que conduz o procedimento é um Júri composto por [número] membros efetivos, um dos quais preside, e [número] suplentes, designados pelo [órgão competente da entidade adjudicante].
 
@@ -175,7 +216,9 @@ e) Realizar a audiência prévia dos interessados.
 
 3 - O Júri pode ser assessorado por pessoas ou entidades tecnicamente qualificadas, em relação a qualquer aspeto que possa relevar no âmbito do presente procedimento, a designar pela entidade adjudicante, sem que, no entanto, essas pessoas ou entidades possam ter direito de voto.
 
-###### Artigo 5.º — Concorrentes
+Artigo 5.º
+
+Concorrentes
 
 1 - Podem ser concorrentes todas as entidades qualificadas como Empresas de Serviços Energéticos (ESE) nos termos do Regulamento do Sistema de Qualificação de Empresas de Serviços Energéticos (SQESE), aprovado pelo [Despacho n.º 6227/2022](https://diariodarepublica.pt/dr/detalhe/despacho/6227-2022-183641013), publicado no Diário da República, 2.ª série, n.º 96, de 18 de maio de 2022. (1)
 
@@ -193,7 +236,9 @@ e) Realizar a audiência prévia dos interessados.
 
 8 - Sem prejuízo do disposto no número anterior, admite-se que as sociedades comerciais constituídas não integrem todos os membros do agrupamento adjudicatário mediante o preenchimento, e subsequente entrega à entidade adjudicante, de documento subscrito pelos representantes legais do membro que nela não pretenda participar, sem que possa haver lugar à substituição do renunciante.
 
-###### Artigo 6.º — Esclarecimentos, retificação e alteração das peças do procedimento
+Artigo 6.º
+
+Esclarecimentos, retificação e alteração das peças do procedimento
 
 1 - Nos termos do disposto no artigo 50.º do CCP, os interessados podem solicitar, por escrito, esclarecimentos relativos à boa compreensão e interpretação das peças do procedimento até ao termo do primeiro terço do prazo fixado para a apresentação das propostas.
 
@@ -211,21 +256,29 @@ e) Realizar a audiência prévia dos interessados.
 
 8 - Havendo lugar à prorrogação do prazo de apresentação de propostas, a mesma aproveita a todos os concorrentes.
 
-### CAPÍTULO II — Propostas
+CAPÍTULO II
 
-###### Artigo 7.º — Convite
+Propostas
+
+Artigo 7.º
+
+Convite
 
 1 - As entidades qualificadas como ESE recebem o convite para a apresentação de propostas no âmbito do presente procedimento.
 
 2 - O convite inclui o programa do procedimento e o caderno de encargos, nos termos dos n.os 2 e 3 do artigo 2.º
 
-###### Artigo 8.º — Auditoria energética
+Artigo 8.º
+
+Auditoria energética
 
 Para elaboração da respetiva proposta, os interessados procedem à realização da auditoria energética das instalações integradas no objeto do Contrato nos termos dos n.os 2 e 3 do artigo 5.º
 
 do [Decreto-Lei n.º 50/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2021-165129789), de 15 de junho, para cujo efeito a entidade adjudicante deve indicar a data, o horário e as demais condições aplicáveis para cada interessado.
 
-###### Artigo 9.º — Apresentação das propostas
+Artigo 9.º
+
+Apresentação das propostas
 
 1 - As propostas, e respetivos documentos instrutórios, devem ser apresentadas no prazo de [preencher em conformidade com o disposto nos artigos 190.º a 192.º do CCP, consoante o caso aplicável].
 
@@ -243,7 +296,9 @@ do [Decreto-Lei n.º 50/2021](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 8 - O preço da proposta será expresso em euros, por extenso e algarismos, sem IVA, prevalecendo, em caso de divergência, o preço indicado por extenso, mediante o preenchimento e entrega da declaração constante do anexo iii ao presente programa do procedimento, que dele faz parte integrante.
 
-###### Artigo 10.º — Conteúdo das propostas
+Artigo 10.º
+
+Conteúdo das propostas
 
 1 - As propostas são instruídas pela seguinte documentação:
 
@@ -267,15 +322,21 @@ iii) O projeto de execução referido no artigo 9.º do [Decreto-Lei n.º 50/202
 
 4 - Os documentos instrutórios da proposta apresentada por um agrupamento concorrente encontram-se sujeitos ao cumprimento do disposto no n.º 5 do artigo 57.º do CCP.
 
-###### Artigo 11.º — Propostas variantes
+Artigo 11.º
+
+Propostas variantes
 
 [...] (3)
 
-###### Artigo 12.º — Prazo de manutenção das propostas
+Artigo 12.º
+
+Prazo de manutenção das propostas
 
 Os concorrentes devem manter as propostas apresentadas pelo prazo de [preencher em conformidade com o disposto no artigo 65.º do CCP], a contar da data do termo do prazo referido no n.º 1 do artigo 9.º
 
-###### Artigo 13.º — Esclarecimentos
+Artigo 13.º
+
+Esclarecimentos
 
 1 - O Júri pode solicitar aos concorrentes a prestação de quaisquer esclarecimentos sobre as propostas apresentadas que considere necessários para a sua análise e avaliação.
 
@@ -287,11 +348,15 @@ Os concorrentes devem manter as propostas apresentadas pelo prazo de [preencher 
 
 5 - Os concorrentes dispõem do prazo de [preencher em conformidade com o n.º 3 do artigo 72.º do CCP] para prestar os esclarecimentos ou para proceder à regularização das respetivas propostas nos termos dos n.os 1 e 3 respetivamente, sendo todos os concorrentes imediatamente notificados desse facto.
 
-###### Artigo 14.º — Critério de adjudicação
+Artigo 14.º
+
+Critério de adjudicação
 
 A avaliação das propostas é realizada segundo o critério da proposta economicamente mais vantajosa para a entidade adjudicante, de acordo com a metodologia de avaliação constante do anexo vi ao presente programa do procedimento, que dele faz parte integrante.
 
-###### Artigo 15.º — Relatório preliminar
+Artigo 15.º
+
+Relatório preliminar
 
 1 - Após a análise das propostas apresentadas pelos concorrentes e a aplicação do critério de adjudicação previsto no artigo anterior, o Júri procede à elaboração do relatório preliminar fundamentado, no qual propõe:
 
@@ -307,7 +372,9 @@ iii) Apresentadas por concorrentes que não apresentam o nível de qualificaçã
 
 2 - O relatório preliminar é objeto de notificação a todos os concorrentes para a sua eventual pronúncia, por escrito, em sede de audiência prévia sobre as respetivas conclusões no prazo de [preencher, sem prejuízo do limite mínimo constante do artigo 76.º do CCP].
 
-###### Artigo 16.º — Relatório final
+Artigo 16.º
+
+Relatório final
 
 1 - O Júri procede à elaboração do relatório final fundamentado nos termos do qual analisa e pondera as eventuais pronúncias realizadas em sede de audiência prévia, mantendo ou alterando as conclusões do relatório preliminar.
 
@@ -315,7 +382,9 @@ iii) Apresentadas por concorrentes que não apresentam o nível de qualificaçã
 
 3 - O relatório final, e respetiva documentação instrutória, é objeto de notificação ao órgão competente para a decisão de contratar com vista à sua decisão sobre a aprovação das propostas ordenadas nos termos dos artigos anteriores.
 
-### CAPÍTULO [...] (4) — Negociação
+CAPÍTULO [...] (4)
+
+Negociação
 
 Artigo [...].º
 
@@ -409,7 +478,9 @@ Segundo relatório final
 
 3 - Para o efeito do presente artigo, aplica-se o disposto no n.º 3 do artigo 16.º, com as necessárias adaptações.
 
-### CAPÍTULO [...] — Adjudicação
+CAPÍTULO [...]
+
+Adjudicação
 
 Artigo [...].º
 
@@ -425,7 +496,9 @@ Caução
 
 2 - O valor da caução fixa-se em [indicar a percentagem, em conformidade com o disposto no artigo 89.º do CCP] do preço contratual calculado nos termos do artigo 7.º do [Decreto-Lei n.º 50/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2021-165129789), de 15 de junho, sendo restituído ao adjudicatário de acordo com o disposto no caderno de encargos.
 
-### CAPÍTULO [...] — Disposições diversas
+CAPÍTULO [...]
+
+Disposições diversas
 
 Artigo [...].º
 
@@ -465,7 +538,9 @@ A todas as matérias que não estiverem especialmente reguladas no presente prog
 
 (5) O órgão competente para a decisão de contratar pode optar pela não inclusão do presente artigo, e respetivos anexos, ao abrigo do disposto no artigo 88.º do CCP devendo, nesse caso, proceder à renumeração dos artigos do presente programa do procedimento e à inclusão de anexos em conformidade com o n.º 4 do referido artigo 88.º
 
-## ANEXO I — (a que se refere o n.º 6 do artigo 5.º)
+ANEXO I
+
+(a que se refere o n.º 6 do artigo 5.º)
 
 Instrumento de mandato
 
@@ -473,7 +548,9 @@ Instrumento de mandato
 
 [Data e assinatura dos subscritores]
 
-## ANEXO II — (a que se refere o n.º 7 do artigo 5.º)
+ANEXO II
+
+(a que se refere o n.º 7 do artigo 5.º)
 
 Declaração de compromisso de constituição de sociedade comercial
 
@@ -481,7 +558,9 @@ Declaração de compromisso de constituição de sociedade comercial
 
 [Data e assinatura dos subscritores]
 
-## ANEXO III — (a que se refere o n.º 8 do artigo 9.º)
+ANEXO III
+
+(a que se refere o n.º 8 do artigo 9.º)
 
 Declaração de indicação do preço contratual
 
@@ -497,13 +576,17 @@ Mais declara que no preço contratual acima indicado estão incorporados todos o
 
 [Data e assinatura dos subscritores]
 
-## ANEXO IV — [a que se refere a alínea c) do n.º 1 do artigo 10.º]
+ANEXO IV
+
+[a que se refere a alínea c) do n.º 1 do artigo 10.º]
 
 Quadro resumo das variáveis de poupança
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
-## ANEXO V — [a que se refere a alínea d) do n.º 1 do artigo 10.º]
+ANEXO V
+
+[a que se refere a alínea d) do n.º 1 do artigo 10.º]
 
 Execução do contrato
 
@@ -515,11 +598,11 @@ Os concorrentes devem apresentar a memória descritiva das propostas que pretend
 
 a) Os concorrentes devem preencher o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 b) As medidas propostas são inscritas no quadro tipo seguinte, mediante o preenchimento de uma linha por cada medida de forma desagregada, tendo em consideração o tipo de sistema ou equipamento intervencionado, nos termos do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 1.2 - Planeamento:
 
@@ -533,17 +616,17 @@ c) O planeamento deve conter um cronograma de barras ou de Gantt, indicando no m
 
 a) Os respetivos técnicos, mediante o preenchimento do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 b) As outras entidades com responsabilidade na execução do Contrato, mediante o preenchimento do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 1.2.2 - Recursos materiais, em cujo âmbito se incluem:
 
 a) Os equipamentos a fornecer pelo adjudicatário, mediante o preenchimento do quadro seguinte com a indicação de todos os bens a afetar ao Contrato:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 b) O projeto para a instalação e exploração das UPAC;
 
@@ -557,23 +640,25 @@ O planeamento inclui o plano e os relatórios de medição e verificação de ca
 
 a) Os concorrentes devem indicar os preços unitários considerados no plano económico e financeiro para o Contrato, mediante o preenchimento do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 b) Os concorrentes devem proceder à quantificação das poupanças garantidas para a entidade adjudicante por cada ano da execução do Contrato, nos termos do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 c) Os concorrentes devem indicar os preços unitários dos equipamentos e restantes bens a afetar à execução do Contrato, mediante o preenchimento do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
-## ANEXO VI — (a que se refere o artigo 14.º)
+ANEXO VI
+
+(a que se refere o artigo 14.º)
 
 Avaliação das propostas
 
 1 - A avaliação das propostas tem por base o desempenho energético mínimo requerido no âmbito da execução do Contrato, densificado pelos fatores da percentagem mínima de poupança garantida para o Contraente Público, do prazo contratual, da duração da Fase de Implementação e do valor de kWh, m3 e/ou ton nos termos da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 2 - A ordenação das propostas é efetuada da pontuação mais elevada para a pontuação mais baixa.
 
@@ -585,7 +670,7 @@ Avaliação das propostas
 
 6 - Para o cálculo da pontuação da proposta de cada concorrente é considerada a seguinte fórmula geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -605,7 +690,7 @@ g) Pm, é o prazo máximo admitido a concurso.
 
 7 - Para o cálculo do VAL referido na alínea b) do número anterior é considerada a seguinte fórmula geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -615,7 +700,7 @@ d) Een(índice t), é a poupança total base garantida proposta pelo concorrente
 
 8 - Para o cálculo do VAL(índice min) referido na alínea c) do n.º 6 é considerada a seguinte fórmula geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -639,7 +724,9 @@ b) Een min(índice t), é a poupança total base garantida, em euros, em relaç�
 
 (8) O fator de ponderação referido na alínea e) do n.º 6 do presente anexo corresponde ao mínimo.
 
-## ANEXO VII — [a que se refere o n.º 1 do artigo («Caução»(1))]
+ANEXO VII
+
+[a que se refere o n.º 1 do artigo («Caução»(1))]
 
 Modelo de garantia bancária
 
@@ -673,7 +760,9 @@ A pedido e por conta do [adjudicatário (2)], nos termos do programa do procedim
 
 (4) Assinatura reconhecida na qualidade.
 
-## ANEXO VIII — [a que se refere o n.º 1 do artigo («Caução» (1))]
+ANEXO VIII
+
+[a que se refere o n.º 1 do artigo («Caução» (1))]
 
 Modelo de seguro-caução
 
@@ -783,9 +872,13 @@ f) Os esclarecimentos prestados pelo adjudicatário sobre a proposta adjudicada.
 
 3 - Em caso de divergência entre os documentos referidos no número anterior, a respetiva prevalência é determinada nos termos dos n.os 5 e 6 do artigo 96.º do CCP.
 
-### CAPÍTULO II — Contrato
+CAPÍTULO II
 
-#### SECÇÃO I — Disposições gerais
+Contrato
+
+SECÇÃO I
+
+Disposições gerais
 
 Cláusula 4.ª
 
@@ -863,7 +956,9 @@ Revisão da remuneração
 
 4 - O disposto nos números anteriores não obsta à aplicação da legislação aplicável à revisão de preços no presente âmbito.
 
-#### SECÇÃO II — Consumo base de referência
+SECÇÃO II
+
+Consumo base de referência
 
 Cláusula 8.ª
 
@@ -917,7 +1012,9 @@ b) Incumprimento das economias de energia contratualizadas;
 
 c) Aplicação de sanções por outros incumprimentos contratuais.
 
-#### SECÇÃO III — Eficiência energética e autoconsumo
+SECÇÃO III
+
+Eficiência energética e autoconsumo
 
 Cláusula 11.ª
 
@@ -949,7 +1046,9 @@ Autoconsumo
 
 A eletricidade a produzir para autoconsumo inclui-se na quantificação das economias a alcançar nos termos da proposta adjudicada.
 
-#### SECÇÃO IV — Bens
+SECÇÃO IV
+
+Bens
 
 Cláusula 15.ª
 
@@ -1025,7 +1124,9 @@ Acesso e confidencialidade
 
 6 - A disponibilidade de meios de acesso, de elevação e outros que lhe sejam necessários, assim como o cumprimento de todas as regras de segurança constitui responsabilidade do Cocontratante, independentemente da natureza das instalações integradas no objeto de Contrato.
 
-#### SECÇÃO V — Fase de Implementação
+SECÇÃO V
+
+Fase de Implementação
 
 Cláusula 19.ª
 
@@ -1089,7 +1190,9 @@ Formação
 
 2 - As ações de formação referidas no número anterior devem ser acompanhadas pelo GER, ou por outro técnico designado para o efeito quando a designação do GER não seja obrigatória.
 
-#### SECÇÃO VI — Fase de Serviço
+SECÇÃO VI
+
+Fase de Serviço
 
 Cláusula 23.ª
 
@@ -1135,7 +1238,9 @@ b) Do cumprimento dos requisitos de serviço, constantes do anexo ii ao presente
 
 4 - As alterações das medidas de melhoria de eficiência energética integradas no objeto do Contrato podem de igual modo ser solicitadas pelo Contraente Público ao Cocontratante, aplicando-se o disposto nos números anteriores, com as necessárias adaptações.
 
-### CAPÍTULO III — Direitos e obrigações
+CAPÍTULO III
+
+Direitos e obrigações
 
 Cláusula 25.ª
 
@@ -1227,7 +1332,9 @@ Subcontratação
 
 3 - No âmbito da presente cláusula e quando o Contrato implique a execução de trabalhos de empreitada, aplica-se o disposto nos artigos 383.º e seguintes do CCP.
 
-### CAPÍTULO IV — Vicissitudes contratuais
+CAPÍTULO IV
+
+Vicissitudes contratuais
 
 Cláusula 30.ª
 
@@ -1321,7 +1428,9 @@ Cessão da posição contratual pelo Contraente Público
 
 O Contraente Público pode proceder à cessão da respetiva posição contratual, sem prejuízo do disposto no artigo 324.º do CCP.
 
-### CAPÍTULO V — Extinção e suspensão do Contrato
+CAPÍTULO V
+
+Extinção e suspensão do Contrato
 
 Cláusula 34.ª
 
@@ -1387,7 +1496,9 @@ Resolução alternativa de litígios
 
 [...] (5)
 
-### CAPÍTULO VI — Disposições finais
+CAPÍTULO VI
+
+Disposições finais
 
 Cláusula 38.ª
 
@@ -1431,7 +1542,9 @@ O Contrato produz efeitos a partir da data da sua assinatura.
 
 (5) Preencher em conformidade com o disposto no artigo 476.º do CCP mediante opção da entidade adjudicante nesse sentido, seguida da inclusão de anexo ao presente caderno de encargos em conformidade com o modelo do anexo xii do CCP.
 
-## ANEXO I — [a que se refere o n.º 2 da cláusula 1.ª e as alíneas d) e e) da cláusula 2.ª]
+ANEXO I
+
+[a que se refere o n.º 2 da cláusula 1.ª e as alíneas d) e e) da cláusula 2.ª]
 
 Identificação e caracterização das instalações integradas objeto do contrato
 
@@ -1503,17 +1616,19 @@ i) [indicar o elenco das intervenções previstas nas instalações, designadame
 
 [Mediante o preenchimento da alínea a) do n.º 1, com as necessárias adaptações]
 
-## ANEXO II — [a que se refere a alínea l) da cláusula 2.ª, o n.º 4 da cláusula 17.ª e a alínea b) do n.º 1 da cláusula 24.ª]
+ANEXO II
+
+[a que se refere a alínea l) da cláusula 2.ª, o n.º 4 da cláusula 17.ª e a alínea b) do n.º 1 da cláusula 24.ª]
 
 Requisitos de serviço
 
 Edifícios
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 Sistemas e equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 1 - O preenchimento do quadro constante do presente anexo cabe ao Contraente Público, por referência às condições atuais de utilização do edifício.
 
@@ -1521,19 +1636,23 @@ Sistemas e equipamentos
 
 3 - Devem, ainda, ser indicados espaços, serviços e equipamentos que, pela sua importância, assumam características especiais de manutenção de serviço e, como tal, envolvam tempos de resposta diferenciados para manutenção e registo de avarias.
 
-## ANEXO III — (a que se refere o n.º 2 da cláusula 4.ª)
+ANEXO III
+
+(a que se refere o n.º 2 da cláusula 4.ª)
 
 Declaração de inexistência de conflitos de interesses do gestor do contrato
 
 [Deve ser aditado um anexo em conformidade com o modelo do anexo xiii do CCP]
 
-## ANEXO IV — [a que se refere o n.º 2 e as alíneas a) e c) do n.º 4 da cláusula 6.ª e o n.º 1 da cláusula 7.ª]
+ANEXO IV
+
+[a que se refere o n.º 2 e as alíneas a) e c) do n.º 4 da cláusula 6.ª e o n.º 1 da cláusula 7.ª]
 
 Remuneração do Cocontratante
 
 1 - O Cocontratante recebe uma remuneração anual pela execução do Contrato, a calcular nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1551,7 +1670,7 @@ f) RPE(índice t), é a receita anual devida pela produção de energia elétric
 
 2 - Para o cálculo da poupança imputável à intervenção do Cocontratante referida na alínea b) do número anterior aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1561,7 +1680,7 @@ b) Tbl i(índice t), é a tarifa energética de base da fonte de energia i utili
 
 3 - Para a atualização da tarifa energética referida na alínea b) do número anterior aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1571,7 +1690,7 @@ b) Tbl i(índice t-1), é a tarifa média da fonte de energia i, utilizada no ed
 
 4 - Para o cálculo da poupança mínima garantida para o Contraente Público referida na alínea c) do n.º 1 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1585,7 +1704,7 @@ d) PG(índice t), é a poupança mínima garantida para o Contraente Público em
 
 5 - Para o cálculo da poupança partilhada para o Contraente Público referida na alínea d) do n.º 1 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1599,7 +1718,7 @@ d) PP1, é a partilha da poupança para o Contraente Público em percentagem dos
 
 6 - Para o cálculo das reduções dos custos energéticos imputáveis à remuneração do Cocontratante nos termos da alínea e) do n.º 1 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1611,7 +1730,7 @@ c) K(índice 2), é a percentagem da receita a entregar ao Contraente Público, 
 
 7 - Para o cálculo da componente de remuneração do Cocontratante relativa à produção de energia elétrica referida na alínea f) do n.º 1 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1625,7 +1744,7 @@ c) K(índice 1), é a percentagem da receita a entregar ao Contraente Público, 
 
 9 - Para o cálculo da receita anual referida na alínea b) do n.º 7 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1651,11 +1770,11 @@ f) Transferência de consumos entre fontes de energia.
 
 11 - Para o cálculo das reduções resultantes da correção do fator de potência, da redução da potência contratada e tomada e do consumo em hora de ponta nos termos, respetivamente, das alíneas a), c), d) e e) do número anterior aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 12 - Para o cálculo das reduções resultantes da transferência de consumos entre fontes de energia nos termos da alínea f) do n.º 10 aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1671,13 +1790,15 @@ e) n, é o número total de fontes de energia utilizadas nas instalações.
 
 (1) Valor compreendido entre os 50 % e os 75 %, nos termos da alínea c) do n.º 4 da cláusula 6.ª do caderno de encargos.
 
-## ANEXO V — [a que se refere a alínea d) do n.º 3 da cláusula 30.ª]
+ANEXO V
+
+[a que se refere a alínea d) do n.º 3 da cláusula 30.ª]
 
 Sanções contratuais
 
 Para a aplicação das sanções contratuais por força do incumprimento das economias de energia contratualizadas, aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf))](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/09/175000000/0005900098.pdf)
 
 em que:
 
@@ -1692,3 +1813,5 @@ d) Tbl(índice t), é a tarifa energética de base, por (euro)/kWh, (euro)/m3 e/
 e) i, é o índice da fonte de energia utilizada nas instalações;
 
 f) n, é o número total de fontes de energia utilizadas nas instalações.»
+
+315658162

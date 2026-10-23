@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2012, 2º Suplemento, Série II de 2012-12-31
   number: '252'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 41180-(55) a 41180-(55)
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/252000002/0005500055.pdf
 entry_into_force_dates: []
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-es-2012-1810335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adeb64b9231ab7d29e93a90332120857eadb8fb36a4fbf131d5f9a7176c34358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fdb0828f100e4d91a1b1e888e1f767fc8eaac2d48417d018c5b309f3e0022dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS Classificados
+- Chaves
+- Interesse Público
+- Património Arquitectónico
+- Património Cultural
+- Protecção do Património
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:37:33Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +122,6 @@ Sob proposta dos serviços competentes, ao abrigo do disposto nos artigos 15.º,
 
 11 de dezembro de 2012. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/2s/2012/12/252000002/0005500055.pdf))](https://files.diariodarepublica.pt/2s/2012/12/252000002/0005500055.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/2s/2012/12/252000002/0005500055.pdf)
+
+26952012

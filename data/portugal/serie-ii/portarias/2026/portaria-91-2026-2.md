@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/036000000/0002600028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-2026-1054811944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c6988e4daf4f6ff6bd07444c092e0b0ce0b597a542df85387048d77e10e12dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d924df2967320e735c49fef960b18b975a5c60e853541814cda665879478d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Estrada
+- Infraestruturas de Portugal
+- Reabilitação
+- Segurança Rodoviária
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911693279:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:38Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +116,11 @@ Considerando que a [Resolução do Conselho de Ministros (RCM) n.º 69/2025](htt
 
 Considerando que a Infraestruturas de Portugal, S. A., é uma empresa pública sob forma de sociedade anónima reclassificada para efeitos orçamentais, integrando o perímetro do Orçamento do Estado, sendo-lhe aplicáveis as disposições em matéria de assunção de encargos plurianuais;
 
-Considerando que, a referida Resolução do Conselho de Ministros, nos seus n.<sup>os</sup>3 a 5, determina e identifica, respetivamente, as vias rodoviárias para as quais a Infraestruturas de Portugal, S. A., deverá promover os estudos tendo em vista a sua materialização e identifica as vias rodoviárias para as quais a Infraestruturas de Portugal, S. A., deverá, conjuntamente com as entidades competentes para o efeito, conforme aplicável, prosseguir os estudos ou ações tendo em vista as adaptações, requalificações e alargamentos necessários;
+Considerando que, a referida Resolução do Conselho de Ministros, nos seus n.os3 a 5, determina e identifica, respetivamente, as vias rodoviárias para as quais a Infraestruturas de Portugal, S. A., deverá promover os estudos tendo em vista a sua materialização e identifica as vias rodoviárias para as quais a Infraestruturas de Portugal, S. A., deverá, conjuntamente com as entidades competentes para o efeito, conforme aplicável, prosseguir os estudos ou ações tendo em vista as adaptações, requalificações e alargamentos necessários;
 
 Nestes termos, e em conformidade com o disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, conjugado com o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pelo Secretário de Estado das Infraestruturas, ao abrigo da competência delegada, o seguinte:
 
-1 - Fica a Infraestruturas de Portugal, S. A., autorizada a proceder à repartição de encargos plurianuais no âmbito das atividades identificadas no quadro anexo à presente portaria, referentes aos estudos incluídos nos n.<sup>os</sup>3 a 5 da referida RCM, até ao montante global de 27 530 000,00 € (vinte e sete milhões, quinhentos e trinta mil euros), ao qual acresce o imposto sobre o valor acrescentado, à taxa legal em vigor.
+1 - Fica a Infraestruturas de Portugal, S. A., autorizada a proceder à repartição de encargos plurianuais no âmbito das atividades identificadas no quadro anexo à presente portaria, referentes aos estudos incluídos nos n.os3 a 5 da referida RCM, até ao montante global de 27 530 000,00 € (vinte e sete milhões, quinhentos e trinta mil euros), ao qual acresce o imposto sobre o valor acrescentado, à taxa legal em vigor.
 
 2 - Os encargos orçamentais decorrentes da execução dos contratos referidos no número anterior são repartidos, nos termos discriminados no quadro anexo à presente portaria e de acordo com os seguintes limites anuais:
 
@@ -128,7 +150,7 @@ b) Os encargos sejam repartidos entre as atividades identificadas no anexo à pr
 
 ## ANEXO — [que se referem o n.º 2 e a alínea b) do n.º 3]
 
-| Atividades identificadas nos n.<sup>os</sup> 3 e 5 da RCM n.º 69/2025 | 2026 | 2027 | 2028 | 2029 | Total |
+| Atividades identificadas nos n.os 3 e 5 da RCM n.º 69/2025 | 2026 | 2027 | 2028 | 2029 | Total |
 | --- | --- | --- | --- | --- | --- |
 | IC 31 - Monfortinho/Fronteira, incluindo ligação à EN 240 - Construção | 315 000,00 € | 8 750,00 € | 26 250,00 € | 0,00 € | 350 000,00 € |
 | A 13/IC 3 Vila Nova da Barquinha (A 23)/Almeirim (A 13) | 345 000,00 € | 911 000,00 € | 144 000,00 € | 0,00 € | 1 400 000,00 € |
@@ -152,3 +174,7 @@ b) Os encargos sejam repartidos entre as atividades identificadas no anexo à pr
 | Total | 5 821 875,00 € | 15 044 500,00 € | 5 713 625,00 € | 950 000,00 € | 27 530 000,00 € |
 
 (*) O valor da atividade «IP 3/A 13 - Ceira/Penacova/Rojão Grande, incluindo ligação a Souselas (IP3) - estudo prévio» poderá ser repartido nas seguintes atividades: «A 13/IC 3 - Coimbra/IP 3» (atividade identificada no n.º 3 da RCM n.º 69/2025) e «IP 3 - variante a Penacova» (atividade associada ao n.º 5 da RCM n.º 69/2025).
+
+319964488
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:28px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl12 { min-height:37px; } .Tbl13 { min-height:47px; } .Tbl14 { min-height:18px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; }

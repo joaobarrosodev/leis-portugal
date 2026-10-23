@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 119303f1700f73bd8ac19e54824a6cb747e64de69d80e3a94e2fc40245f206e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ce8d690db9840fb3a6466f3c723668d6d81752cf870704d47974b77b13113fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Mundial Antidopagem
+- Atleta de ALTA Competição
+- Atleta Profissional
+- Autoridade Antidopagem de Portugal
+- Autoridade Nacional
+- Código Mundial Antidopagem
+- Confidencialidade
+- Controlo Anti-doping
+- Crime
+- Dados Pessoais
+- Definição de Competências
+- Desporto
+- Desporto de ALTA Competição
+- Direito da Informação
+- Dopagem
+- Droga
+- Federação Desportiva
+- Laboratório de Análises de Dopagem
+- Notificação
 relationships:
 - type: amended_by
   target: pt:dre:1084805746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1084805746:por
+  label: Alterado, a partir de 15 de abril de 2026, o artigo 12.º pelo(a) Portaria n.º 210/2026/2 - Diário da República n.º
+    72/2026, Série II de 2026-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-2026-1084805746
+  date: '2026-04-14'
+- type: cites
+  target: pt:dre:128154293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175129342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588812:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:44:29Z'
   warnings: []
   errors: []
 ---
@@ -471,8 +512,10 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf)
 
 ## ANEXO II — (a que se refere o n.º 9 do artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/065000000/0019700209.pdf)
+
+315161794

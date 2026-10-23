@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/203000000/3471634716.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/604-2012-1422242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T17:36:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 706fe046acc2542d72742cf1e718d14c2b281132bf894aaf501e4b4746b008c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28779de4d93f1e9d766a480ea98fc899d00adfc9214f725326caeeb6529789ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:36:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:36:11Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +100,5 @@ Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros e da Def
 Nos termos do artigo 6.º, n.º 1, do [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1981-389381), de 31 de março, a duração normal da comissão de serviço correspondente ao exercício deste cargo é de três anos, sem prejuízo da antecipação do seu termo pela ocorrência de facto superveniente que obste ao seu decurso normal.
 
 2 de outubro de 2012. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+206454107

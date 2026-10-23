@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/07/128000000/2342223423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2012-1829545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f014f7e4f594e61120972571315ef1bdf526cb5fbd0e948185ab3f277df787d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ad7cc33c6d82efa061123d2789fe0b644d1d41e6c20a7c989bfe5cbc1aea2e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:34:11Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, nomear o 21178 Capitão-de-mar-e-guerra da classe de Marinha António Manuel de Carvalho Coelho Cândido, para o cargo de chefe do Departamento Marítimo do Centro e, em acumulação, capitão do Porto de Lisboa em substituição do 24580 Capitão-de-mar-e-guerra da classe de Marinha José António Peixoto de Queiroz, que fica exonerado dos referidos cargos pela presente portaria na data em que o oficial agora nomeado assuma funções.
 
 22-09-2011. - O Almirante Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, José Carlos Torrado Saldanha Lopes, almirante.
+
+206214347

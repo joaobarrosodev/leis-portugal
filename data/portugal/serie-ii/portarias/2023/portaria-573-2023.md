@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/211000000/0003300034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-2023-223575052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:50:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 657ae38d135b28156ae8f9c98ec67f66d3cbea5d37e68882bf53007c6374cde0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d73b1845759a3eff69fc9ceb90a0f05da928a1b08e66f377f86a99324a12faff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:50:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Antidopagem de Portugal
+- Controlo Anti-doping
+- Despesas Públicas
+- Responsavel Técnico
+relationships:
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175129342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181527360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184956014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:50:13Z'
   warnings: []
   errors: []
 ---
@@ -132,8 +169,10 @@ A presente portaria produz efeitos na data da sua publicação.
 
 ## ANEXO I — Repartição de encargos máximos da Autoridade Antidopagem de Portugal, relativos à contratação em regime de avença de responsáveis de controlo de dopagem
 
-|  |  |  |  |  |  |
+| Objeto | Valores sem IVA |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Objeto | Valores sem IVA | Valores sem IVA | Valores sem IVA | Valores sem IVA | Valores sem IVA |
-| Objeto | 2023 | 2024 | 2025 | 2026 | Total |
+| 2023 | 2024 | 2025 | 2026 | Total |  |
+|  |  |  |  |  |  |
 | Contratação em regime de avença de responsáveis de controlo de dopagem ... | (euro) 150 000 | (euro) 195 000 | (euro) 195 000 | (euro) 45 000 | (euro) 585 000 |
+
+316984579

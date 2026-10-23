@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/12/248000000/3661036611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-2013-1202979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0c6e7429b75083bb36cce427a2a6bed85ae58b213ed3d2d32d455a2e5b7d01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b98d0267708c4c4899b777b1d39e6adf532a91ddbf782ad74ddf56926089edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:39Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +107,5 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 145.º do [Decreto-Lei n.º 275
 É prorrogada, a partir de 19 de setembro de 2013 e por um período de três anos, a comissão de serviço de Jerónimo Anselmo da Silva Fernandes, inspetor de escalão 8, nomeado oficial de ligação para a República Bolivariana da Venezuela, através da Portaria n.º 844/2007, de 12 de setembro.
 
 12 de dezembro de 2013. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz. - O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, Luís Álvaro Barbosa de Campos Ferreira.
+
+207465482

@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 163/2022, 1º Suplemento, Série II de 2022-08-24
   number: '163'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 408-(2) a 408-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/163000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/646-a-2022-200223231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f42a18c11c71ab0d5441b8f8f84c9003a7085f5bc75d1b1fae5eb6cf8873ab91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e52812053b65bcc24f5c6a8fb3ce2f1da4bdda01523da8635c50222e4b67343f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Centro de Controlo de Tráfego Marítimo do Continente
+- Delegação de Competências
+- Despesas Públicas
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Diretor Geral
+- Empreitada de Obras Públicas
+- Governo XXIII
+- Secretário de Estado das Pescas
+- Secretário de Estado do Mar
+- Secretário de Estado do Orçamento
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:37Z'
   warnings: []
   errors: []
 ---
@@ -124,3 +159,5 @@ São delegados no diretor-geral de Recursos Naturais, Segurança e Serviços Mar
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 23 de agosto de 2022. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - O Secretário de Estado do Mar, José Maria da Cunha Costa. - A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro.
+
+315636551

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/043000000/0004100043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-853914960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0eaaebccb367f2f19dfd7001a61cf2758587bd9051c7ed6814bf7aac8847ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018538129e2048a6c208103b1ee5630b49d7757471239d86106fd9a33ff5c0ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Ensino Secundário
+- Estudante
+- Fundo de Financiamento da Descentralização
+- Transferência de Verbas
+- Transporte
+relationships:
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185897222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836205473:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:53:42Z'
   warnings: []
   errors: []
 ---
@@ -121,10 +147,10 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Transferências para financiamento dos apoios ao transporte e ao alojamento para frequência do ensino secundário
 
-|  |  |
-| --- | --- |
 | Município | Valor total 2023 |
-| Município | Educação - Transportes |
+| --- | --- |
+| Educação - Transportes |  |
+|  |  |
 | Alandroal... | 63 044,00 (euro) |
 | Alcoutim... | 54 277,00 (euro) |
 | Aljezur... | 157 712,00 (euro) |
@@ -154,3 +180,5 @@ Transferências para financiamento dos apoios ao transporte e ao alojamento para
 | Vila Velha de Ródão... | 16 056,00 (euro) |
 | Vimioso... | 18 722,00 (euro) |
 | Total... | 1 537 494,00 (euro) |
+
+317384264

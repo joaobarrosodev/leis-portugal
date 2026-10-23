@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 249/2023, 3º Suplemento, Série II de 2023-12-28
   number: '249'
   series: II
-  supplement: 3º Suplemento
+  supplement: null
   pages: 213-(13) a 213-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/249000003/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/864-f-2023-835896497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d203c69a89f94a0f3e7e4d9321ceb68585d0f604fafacb61f618673f955152
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287f0074c6b1d14317a31e66abef68ec63905c632d44744c259e349a1b21da89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Campanha de Sensibilização
+- Cidadão Nacional
+- Despesas Públicas
+- Eleição Europeia
+- Eleição Legislativa
+- Ministério da Administração Interna
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:01Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +138,5 @@ Os encargos financeiros decorrentes da presente portaria são satisfeitos por co
 A presente portaria produz efeitos a partir da data da sua publicação.
 
 7 de dezembro de 2023. - A Secretária de Estado da Administração Interna, Maria Isabel Solnado Porto Oneto. - 28 de dezembro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.
+
+317208072

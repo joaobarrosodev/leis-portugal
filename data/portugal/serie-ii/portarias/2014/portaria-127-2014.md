@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/02/034000000/0492804928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-2014-2138449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d96c7caf0b01f27e4acb02d51443c2d77f86bf56e8e1a9f2c94eadc7ff3f336f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 796df7402f889d694039cdbc147fbf11eeba0b8a7dab988d6b644111975038bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:59Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +97,5 @@ Pelo valor do trabalho realizado, pela prática constante e sistemática de dist
 Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º e atento o disposto nos artigos 25.º e 26.º e na alínea b) do n.º 1 do artigo 27.º do Regulamento da Medalha Militar e da Medalha Comemorativa das Forças Armadas, aprovado pelo Decreto-lei n.º 316/2002 de 27 de dezembro, concedo a Medalha de Defesa Nacional de 2.ª classe ao Tenente-Coronel Piloto-Aviador 085116-H, Paulo Américo Oliveira da Costa.
 
 5 de fevereiro de 2014. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207605847

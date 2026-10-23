@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-2013-3392505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:39:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b3ee2732b45085faec460ea1dd06d2833c3e39fc84e86cfd00310a83bd6e69c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0372856fd111cd7e8d452ddb686edef4c7777a0b3ebc3ba14a1d92df810629fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:39:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Interesse Público
+relationships:
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2571614:por
+  label: "Retificado o anexo à presente Portaria, pela DECL-RECT.990/2013.16.09.2013.SG-PCM, DR.IIS [178] de 16.09.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/990-2013-2571614
+  date: '2013-09-16'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:39:38Z'
   warnings: []
   errors: []
 ---
@@ -151,4 +170,6 @@ b) Condicionantes à salvaguarda da paisagem na apreciação de licenciamento de
 
 24 de junho de 2013. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2013/06/122000000/2036120362.pdf))](https://files.diariodarepublica.pt/2s/2013/06/122000000/2036120362.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/122000000/2036120362.pdf)
+
+15142013

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/127000002/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2026-1144441617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T18:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4daf69079da500998a4d35bf0c50b237c2e548f2cbdfbcf13a633adfc912a86b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9f8f9bc4a789cd238f65bbb481f0d7a5d82550d8b24063c48dcc944b8db7e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Concurso de Acesso
+- Contratação de Docentes
+- Ensino no Estrangeiro
+- Pessoal Docente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:917593145:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:02:50Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +109,7 @@ validation:
 
 As escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação constituem um instrumento privilegiado de cooperação e de aprofundamento das relações com os Estados com os quais Portugal partilha a mesma língua e revestem um papel inquestionável na promoção do ensino e da difusão da língua e da cultura portuguesas no mundo, devendo a importância que assumem traduzir-se na sua dotação dos meios humanos adequados para garantir a qualidade do ensino nelas ministrado.
 
-Resulta do disposto nos n.<sup>os</sup>1 e 2 do artigo 3.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, alterado pelo [Decreto-Lei n.º 78/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), de 12 de maio, que regula os concursos destinados à seleção e ao recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação e dos respetivos polos, que a seleção e o recrutamento do pessoal docente podem revestir a natureza de concurso interno, de concurso externo e de concursos para a satisfação de necessidades temporárias, através de contratação de escola, visando os concursos interno e externo a satisfação das necessidades permanentes de pessoal docente das referidas escolas.
+Resulta do disposto nos n.os1 e 2 do artigo 3.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, alterado pelo [Decreto-Lei n.º 78/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), de 12 de maio, que regula os concursos destinados à seleção e ao recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação e dos respetivos polos, que a seleção e o recrutamento do pessoal docente podem revestir a natureza de concurso interno, de concurso externo e de concursos para a satisfação de necessidades temporárias, através de contratação de escola, visando os concursos interno e externo a satisfação das necessidades permanentes de pessoal docente das referidas escolas.
 
 De acordo com o disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, na sua redação atual, as vagas para os concursos interno e externo são fixadas, por grupo de recrutamento, através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
@@ -121,10 +143,14 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Vagas a preencher pelo concurso interno
 
-![](https://files.diariodarepublica.pt/images/1144441617/1144441542.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1144441617/1144441542.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
 Vagas a preencher pelo concurso externo
 
-![](https://files.diariodarepublica.pt/images/1144441617/1144441543.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1144441617/1144441543.png) |
+| --- |
+
+320019710

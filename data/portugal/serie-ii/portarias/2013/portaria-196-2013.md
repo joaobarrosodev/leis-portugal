@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2013-1223993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e75e09880716bc5c99791512f3d93cebfba598541b90ea8d5e3528b442e1d83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e49910909cfa54cb9faa7a677bfe567676cb7b13e73b3f26ad7c923fbbb5704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Comissão para a Cidadania e a Igualdade de Género
+- Despesas Públicas
+- Tráfico de Pessoas
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3593494:por
+  label: "Retificada a presente Portaria, pela DECL-RECT.511/2013.23.04.2013.SG-PCM, DR.IIS [79] de 23.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/511-2013-3593494
+  date: '2013-04-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:38:28Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +138,5 @@ b) Ano de 2014 - (euro) 88.583,93.
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 3 de abril de 2013. - A Secretária de Estado dos Assuntos Parlamentares e da Igualdade, Maria Teresa da Silva Morais. - O Secretário de Estado do Orçamento, Luís Filipe Bruno da Costa de Morais Sarmento.
+
+7902013

@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2014-2225325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 450221090565e6d566f73b18686e54d600184fadfd534a275df3f1c6acb62e05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1597abad6d9f75448d17c103765a25eca6d8d3daf282d84a75697f342238a7d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Aveiro
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Rede Ferroviária
+- Refer
+relationships:
+- type: cites
+  target: pt:dre:1899219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3095530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:25Z'
   warnings: []
   errors: []
 ---
@@ -127,3 +153,5 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 Por delegação de competências, nos termos, respetivamente, dos despachos n.os [9459/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9459-2013-3095530) e [12100/2013](https://diariodarepublica.pt/dr/detalhe/despacho/12100-2013-1899219).
 
 10 de março de 2014. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
+
+207676374

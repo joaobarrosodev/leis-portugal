@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/187000000/0004600047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/502-2023-222049448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13c686125cf79dc0eec4302775da7d69468c5406c44b65feed6415d1fb857f9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e98b5d8e832ac2ec09f9537d143c5b71934b0771070a8d655fc166af5f818d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Financiamento
+- Gestão Orçamental
+- Plano de Recuperação e Resiliência
+- Prazo
+- Regulamentação de Atos Legislativos
+- Serviço de Estrangeiros e Fronteiras
+- Sistema de Informação Schengen
+- Software
+relationships:
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184435242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185092233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185430169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:46Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +132,7 @@ Ao abrigo do disposto nos n.os 1 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/20
 
 O Serviço de Estrangeiros e Fronteiras fica autorizado a assumir os encargos orçamentais relativos à execução do contrato de aquisição de serviços para o desenvolvimento e implementação de alterações Recast e NextGen no sistema nacional SIS II (NSIS), até ao montante máximo de 1 873 000 (euro) (um milhão, oitocentos e setenta e três mil euros), ao qual acresce a taxa legal do IVA em vigor.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os encargos financeiros decorrentes da aquisição referida no artigo anterior são financiados por fundos europeus não podendo, em cada ano económico, exceder os seguintes montantes, aos quais acresce o valor do IVA nos termos legais:
 
@@ -115,3 +149,5 @@ PRR (conforme previsto na [Portaria n.º 533/2022](https://diariodarepublica.pt/
 3 - É revogada a [Portaria n.º 570/2022](https://diariodarepublica.pt/dr/detalhe/portaria/570-2022-185430169), publicada no Diário da República, 2.ª série, n.º 126, de 1 de julho.
 
 15 de setembro de 2023. - A Secretária de Estado da Proteção Civil, Patrícia Alexandra Costa Gaspar.
+
+316865913

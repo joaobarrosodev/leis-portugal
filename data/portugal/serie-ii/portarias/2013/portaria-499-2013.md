@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-2013-1438563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T17:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7294afe92a1ebce6667df2e856b8502876816ac0f9fc5e9e19de176fca8cd8e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600642ad3647565e934053e513ce75aa23ea917be5598548c4ba5970f8141214
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Energia Elétrica
+- Liberalização do Mercado
+- Ministério das Finanças
+- Unidade Ministerial de Compras
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:40:09Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +113,12 @@ Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto 
 
 1 - Ficam autorizadas as entidades abaixo mencionadas a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/07/142000000/2347623477.pdf))](https://files.diariodarepublica.pt/2s/2013/07/142000000/2347623477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/07/142000000/2347623477.pdf)
 
 2 - As importâncias fixadas para os anos económicos de 2014 e 2015 poderão ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.
 
 3 - Os encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever nos orçamentos dos respetivos organismos referentes aos anos indicados.
 
 15 de julho de 2013. - A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque.
+
+207125313

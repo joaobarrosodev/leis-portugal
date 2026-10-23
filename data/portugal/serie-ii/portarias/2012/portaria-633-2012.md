@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-2012-3282007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:36:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b17c8c831348d3127c54fe9895d759fcc3739976f6811299ef834651ea366343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b350c41759467e714182def7f794b1159df7b712d77412510d0c25d8bcd5130
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:36:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Aquisição de Bens e Serviços
+- Ministério da Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Sistema Comum de Compras
+- Sistema de Informação
+relationships:
+- type: cites
+  target: pt:dre:146212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:36:21Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +131,5 @@ Nos termos do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](ht
 2 - Os encargos resultantes da presente portaria serão satisfeitos pelas adequadas verbas a inscrever no orçamento da ACSS, I. P., para 2013.
 
 18 de outubro de 2012. - O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.
+
+206489416

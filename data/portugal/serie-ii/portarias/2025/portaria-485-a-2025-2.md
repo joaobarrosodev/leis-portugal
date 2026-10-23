@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/165000001/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-a-2025-933653647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T17:59:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c469c8dedbf05ea3819e0557a0f9af945ec90cbfd3de732170bd77d1f09504a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25eb7a89deb18e7af475e7f74fd2d2c7e831fb3987512dd00bb0cb64fe432a82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:59:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,32 @@ relationships:
   target: pt:dre:1160677007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916177977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:59:38Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +154,7 @@ c) A área ou as áreas científicas da instituição ou da entidade em que fora
 
 6 - Realizada a apreciação a que se refere o número anterior, o conselho científico ou o conselho científico constituído ad hoc, consoante o caso, no prazo máximo de 72 horas, elabora informação devidamente fundamentada e, sendo caso disso, certifica os elementos aí previstos, remetendo-a à comissão independente.
 
-7 - No caso de ser constituído um conselho científico ad hoc, este apenas exerce a atividade e as funções estritamente necessárias para o cumprimento do disposto nos n.<sup>os</sup>5 e 6, extinguindo-se automaticamente após a emissão e o envio dos documentos previstos nesses números, não sendo admissível a prática de quaisquer outros atos.
+7 - No caso de ser constituído um conselho científico ad hoc, este apenas exerce a atividade e as funções estritamente necessárias para o cumprimento do disposto nos n.os5 e 6, extinguindo-se automaticamente após a emissão e o envio dos documentos previstos nesses números, não sendo admissível a prática de quaisquer outros atos.
 
 8 - Da decisão do conselho científico ou do conselho científico constituído ad hoc, consoante o caso, há lugar à apresentação da reclamação junto do conselho científico ou do conselho científico constituído ad hoc, autores do ato, cuja reapreciação deve ser dada conhecimento ao requerente e remetida para conhecimento da comissão independente.
 
@@ -180,7 +196,7 @@ d) O curriculum vitae de cada um dos técnicos superiores doutorados que tiver a
 
 4 - Caso a comissão independente delibere que as funções exercidas por um requerente correspondem a uma necessidade permanente que não tenha sido identificada na informação prevista no artigo 3.º, aquela deve informar previamente a instituição ou entidade e determinar a abertura de concurso na instituição ou na entidade no seio da qual tiver sido constituída, com vista a satisfazer a necessidade identificada.
 
-5 - Nos casos previstos nos n.<sup>os</sup>3 e 4, a abertura de concurso faz-se, em regra, para a categoria de investigador auxiliar.
+5 - Nos casos previstos nos n.os3 e 4, a abertura de concurso faz-se, em regra, para a categoria de investigador auxiliar.
 
 6 - Caso a comissão independente considere que um técnico superior doutorado desempenha funções enquadráveis no conteúdo funcional da categoria de investigador principal ou de investigador-coordenador, aquela pode, por decisão fundamentada, tomada por maioria simples, determinar a abertura de concurso para essas categorias, informando previamente a instituição ou entidade respetiva.
 
@@ -190,7 +206,7 @@ d) O curriculum vitae de cada um dos técnicos superiores doutorados que tiver a
 
 2 - A abertura destes procedimentos concursais depende da existência prévia do respetivo cabimento orçamental nas entidades identificadas no n.º 1 do artigo 2.º
 
-3 - O aviso de abertura do procedimento concursal e a respetiva área ou áreas científicas devem ser aprovados pelo órgão legal e estatutariamente competente das instituições ou das entidades previstas no n.º 1 do artigo 2.º, no prazo máximo de 15 dias, a contar da data da comunicação das deliberações da comissão independente previstas nos n.<sup>os</sup>3, 4 e 6 do artigo anterior.
+3 - O aviso de abertura do procedimento concursal e a respetiva área ou áreas científicas devem ser aprovados pelo órgão legal e estatutariamente competente das instituições ou das entidades previstas no n.º 1 do artigo 2.º, no prazo máximo de 15 dias, a contar da data da comunicação das deliberações da comissão independente previstas nos n.os3, 4 e 6 do artigo anterior.
 
 4 - No aviso de abertura do procedimento concursal devem ser estabelecidos os critérios a que está sujeita a avaliação da capacidade e do mérito científico dos candidatos.
 
@@ -218,7 +234,7 @@ d) O curriculum vitae de cada um dos técnicos superiores doutorados que tiver a
 
 1 - Em matéria de período experimental e de contagem do tempo de serviço, é aplicável o regime previsto no Estatuto da Carreira de Investigação Científica, aprovado pela [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril, e, subsidiariamente, na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
-2 - Nos termos do artigo 17.º do Estatuto da Carreira de Investigação Científica, aprovado pela [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril, a contratação destes técnicos superiores doutorados para a carreira especial de investigação científica enquadra-se nas situações excecionadas de período experimental, designadamente nos n.<sup>os</sup>8, 9 e 10 do respetivo artigo.
+2 - Nos termos do artigo 17.º do Estatuto da Carreira de Investigação Científica, aprovado pela [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril, a contratação destes técnicos superiores doutorados para a carreira especial de investigação científica enquadra-se nas situações excecionadas de período experimental, designadamente nos n.os8, 9 e 10 do respetivo artigo.
 
 3 - Nos termos do n.º 4 do artigo 1.º do Regime transitório da carreira de investigação científica, constante do anexo iii à [Lei n.º 55/2025](https://diariodarepublica.pt/dr/detalhe/lei/55-2025-916177977), de 28 de abril, o tempo de serviço dos técnicos superiores doutorados abrangidos pela presente portaria é contado, para os efeitos previstos na carreira especial de investigação científica, desde o momento em que aqueles passaram a prestar funções cujo descritivo funcional corresponda ao da carreira de investigação científica, em área científica da instituição ou da entidade a que pertencem.
 
@@ -256,7 +272,7 @@ Sem prejuízo do previsto no n.º 3 do artigo 10.º, em tudo o que não estiver 
 
 ###### Artigo 14.º — Mapa de pessoal
 
-1 - Para o efeito da abertura de qualquer procedimento concursal ao abrigo da presente portaria, o órgão legal e estatutariamente competente da instituição ou da entidade respetiva, após receber a comunicação prevista nos n.<sup>os</sup>3, 4 e 6 do artigo 6.º, procede, automaticamente, à alteração do mapa de pessoal, com a criação do número dos postos de trabalho necessários para corresponder às necessidades permanentes reconhecidas na carreira especial de investigação cientifica e extinção do número de postos de trabalho correspondentes na carreira técnica superior.
+1 - Para o efeito da abertura de qualquer procedimento concursal ao abrigo da presente portaria, o órgão legal e estatutariamente competente da instituição ou da entidade respetiva, após receber a comunicação prevista nos n.os3, 4 e 6 do artigo 6.º, procede, automaticamente, à alteração do mapa de pessoal, com a criação do número dos postos de trabalho necessários para corresponder às necessidades permanentes reconhecidas na carreira especial de investigação cientifica e extinção do número de postos de trabalho correspondentes na carreira técnica superior.
 
 2 - A alteração ao mapa de pessoal a que se refere o número anterior é comunicada aos membros do Governo que exercem os poderes de superintendência e de tutela sobre a instituição ou a entidade, bem como ao membro do Governo responsável pela área das finanças e da Administração Pública.
 
@@ -265,3 +281,5 @@ Sem prejuízo do previsto no n.º 3 do artigo 10.º, em tudo o que não estiver 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 28 de agosto de 2025. - Pelo Ministro de Estado e das Finanças, José Maria Gonçalves Pereira Brandão de Brito, Secretário de Estado Adjunto e do Orçamento. - O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - O Ministro da Defesa Nacional, Nuno Melo. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre. - Pela Ministra da Saúde, Ana Margarida Pinheiro Povo, Secretária de Estado da Saúde. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+319479784

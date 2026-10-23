@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/1997/09/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1997-640365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be9093d494e6b48b8019c1ae79734b89725f47d925c86f75859b3aea7a875afb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 331494809b74f05309ac84cb950cce6fdfb19ba75b4e0508955b5aa628e33baf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Exposição Internacional de Lisboa de 1998
 - Internet
-- Açores
+- Região Autónoma
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:45Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +104,8 @@ Manda o Governo da Região Autónoma dos Açores, pelo Secretário Regional da H
 
 Secretaria Regional da Habitação e Equipamentos.
 
-**Assinada em 14 de Julho de 1997.**
+Assinada em 14 de Julho de 1997.
 
-**O Secretário Regional da Habitação e Equipamentos, José António Vieira da Silva Contente.**
+O Secretário Regional da Habitação e Equipamentos, José António Vieira da Silva Contente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/202b00/45754575.pdf))](https://files.diariodarepublica.pt/1s/1997/09/202b00/45754575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/202b00/45754575.pdf)

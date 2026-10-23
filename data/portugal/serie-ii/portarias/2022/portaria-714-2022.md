@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/199000000/0002000020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-2022-202229504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:45:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e7afa25bedf2a9dd21e56f07ce71acab8fe086abea1f41f89d2cf3a0ab898b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19b70d9a9249968674a90b0ec8a23dc187d3352197a84ac4a0d654a22bb11284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:202985448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:45:59Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +96,5 @@ validation:
 Ao abrigo do disposto nos n.os 3 e 4 do artigo 18.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de março, na sua redação atual, manda o Almirante Autoridade Marítima Nacional nomear o 26586, Capitão-de-Mar-e-Guerra Rui Gabriel Martins Santos Pereira, para os cargos de Chefe do Departamento Marítimo do Sul e de Capitão do Porto de Faro, em substituição do 21486, Capitão-de-Mar-e-Guerra Fernando Carlos da Rocha Pacheco, que fica exonerado do referido cargo pela presente portaria na data em que o oficial agora nomeado assuma funções.
 
 07-10-2022. - O Almirante Autoridade Marítima Nacional, Henrique Eduardo Passaláqua de Gouveia e Melo, Almirante.
+
+315764572

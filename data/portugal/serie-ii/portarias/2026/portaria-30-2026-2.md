@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0025100252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-2026-994000349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T18:02:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc078af9419d18c454ad0c5af6a72187eb8ab69f5c4b7023d5e7935ab790c3bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b496a5bc2a72b6aa63fc682cda32c8dd96e965c9b5495d29fa0a1d834344d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:02:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:934454754:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:02:55Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +112,13 @@ Assim, pela alínea d) do n.º 2 da referida resolução, foi a APA, I. P. autor
 
 Considerando o seguimento dado pela APA, I. P., onde foram privilegiadas as ações imediatas, e programadas as demais, mostra-se necessário reprogramar as ações conducentes à aquisição de serviços prevista para a Ação 4 da acima mencionada resolução do Conselho de Ministros, com consequente reprogramação temporal dos encargos plurianuais autorizados pela alínea d) do n.º 2 da já referida resolução, permitindo que a sua execução ocorra nos anos económicos de 2026 e 2027.
 
-Pelo exposto, nos termos dos n.<sup>os</sup>8 e 9 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, que estabelece as normas de execução do Orçamento do Estado para 2025, a assunção de encargos plurianuais fica sujeita a um único processo de autorização, sendo apenas necessária nova autorização no caso de reprogramação não abrangida pela autorização anterior. Mais, estabelece a mesma norma que a reprogramação dos encargos plurianuais previamente autorizados nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, quando traduzida no alargamento do período temporal da despesa referente a contrato a executar, carece apenas de autorização do membro do Governo responsável pela área setorial, desde que não seja ultrapassado o valor total da despesa autorizada, nem o prazo de execução do contrato abrangido pela autorização inicialmente conferida e o alargamento temporal da despesa não ultrapasse um ano económico.
+Pelo exposto, nos termos dos n.os8 e 9 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, que estabelece as normas de execução do Orçamento do Estado para 2025, a assunção de encargos plurianuais fica sujeita a um único processo de autorização, sendo apenas necessária nova autorização no caso de reprogramação não abrangida pela autorização anterior. Mais, estabelece a mesma norma que a reprogramação dos encargos plurianuais previamente autorizados nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, quando traduzida no alargamento do período temporal da despesa referente a contrato a executar, carece apenas de autorização do membro do Governo responsável pela área setorial, desde que não seja ultrapassado o valor total da despesa autorizada, nem o prazo de execução do contrato abrangido pela autorização inicialmente conferida e o alargamento temporal da despesa não ultrapasse um ano económico.
 
 No mesmo sentido, dispõe o n.º 10 do referido artigo 46.º do mesmo [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, que a reprogramação dos encargos plurianuais é objeto de registo no Sistema Central de Encargos Plurianuais, a que se refere o artigo 13.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, devendo a autorização ser conferida através de portaria.
 
 A presente portaria procede, assim, a tal reprogramação temporal dos encargos plurianuais autorizados pela alínea d) do n.º 2 da [Resolução do Conselho de Ministros n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-2025-934454754), de 08 de setembro.
 
-Assim, manda o Governo, pela Ministra do Ambiente e Energia, ao abrigo do disposto na alínea a) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, dos n.<sup>os</sup>8 a 10 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, em conjugação com a alínea n) do artigo 2.º e com o artigo 25.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, o seguinte:
+Assim, manda o Governo, pela Ministra do Ambiente e Energia, ao abrigo do disposto na alínea a) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, dos n.os8 a 10 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, em conjugação com a alínea n) do artigo 2.º e com o artigo 25.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, o seguinte:
 
 1 - Autorizar a Agência Portuguesa do Ambiente, I. P. a proceder à reprogramação temporal dos encargos autorizados pela alínea d) do n.º 2, da [Resolução do Conselho de Ministros n.º 132/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-2025-934454754), de 08 de setembro, relativos à concretização da Ação 4, Atualização do Sistema de Aviso e Alerta de Recursos Hídricos, até ao montante máximo de € 1 000 000,00, acrescidos do imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, nos seguintes termos:
 
@@ -111,3 +131,5 @@ b) 2027: € 300 000,00.
 3 - A presente portaria produz efeitos a partir da data da sua assinatura.
 
 29 de dezembro de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.
+
+319940365

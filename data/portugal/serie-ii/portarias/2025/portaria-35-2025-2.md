@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/006000000/0030000304.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-2025-902786170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 638fba33f811cf0279dfc19cbbcbd98c8973f535714844bd60785908cbb5ab46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 931c57c0e1957121ce9be96657474528f5771d1ade70ff803150b427c1d44674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Cascais
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Infraestruturas de Portugal
+relationships:
+- type: cites
+  target: pt:dre:174167640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174167641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174167642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222367407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855428500:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:578/2021
+  label: Revoga a Portaria n.º 578/2021, de 11 de novembro, DR.IIS[219]
+  source: null
+  date: '2021-11-11'
+- type: repeals
+  target: pt:numero:portaria:579/2021
+  label: Revoga a Portaria n.º 579/2021, de 11 de novembro, DR.IIS[219]
+  source: null
+  date: '2021-11-11'
+- type: repeals
+  target: pt:numero:portaria:580/2021
+  label: Revoga a Portaria n.º 580/2021, de 11 de novembro, DR.IIS[219]
+  source: null
+  date: '2021-11-11'
+- type: repeals
+  target: pt:numero:despacho:10187/2023
+  label: Revoga o Despacho n.º 10187/2023, de 3 de outubro, DR.IIS[192]
+  source: null
+  date: '2023-10-03'
+- type: repeals
+  target: pt:numero:despacho:2782/2024
+  label: Revoga o Despacho n.º 2782/2024, de 14 de março, DR.IIS[53]
+  source: null
+  date: '2024-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:58:49Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +213,7 @@ b) Os encargos sejam repartidos no âmbito das atividades identificadas no anexo
 
 26 de dezembro de 2024. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz. - 23 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito.
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1 e 2)
+## ANEXO — (a que se referem os n.os1 e 2)
 
 | Programa | Designação atividade | Componente | 2024 | 2025 | 2026 | 2027 | 2028 | Total | Observações |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -171,3 +229,5 @@ b) Os encargos sejam repartidos no âmbito das atividades identificadas no anexo
 | FC»PORTUGAL 2030»SUSTENTÁVEL 2030; | Instalação - GSM-R BSS - Ferrovia 20201 | Telecomunicações | - € | 2 191 669,98 € | 1 180 130,00 € | - € | 1 139 590,50 € | 4 511 390,48 € | Reprogramação do Despacho n.º 10187/2023, de 3 de outubro |
 | FC»PORTUGAL 2030»SUSTENTÁVEL 2030; | Linha de Cascais e Norte - troço Cais do Sodré-Cascais e Santa Apolónia - conceção/construção telemática ferroviária | Telecomunicações | 498 601,88 € | 3 700 000,00 € | 186 067,70 € | - € | - € | 4 384 669,58 € | Reprogramação do Despacho n.º 2782/2024, de 14 de março |
 | Total |  |  | 498 601,88 € | 7 090 183,48 € | 10 986 128,36 € | 11 803 214,84 € | 2 676 265,50 € | 33 054 394,06 € |  |
+
+318512601

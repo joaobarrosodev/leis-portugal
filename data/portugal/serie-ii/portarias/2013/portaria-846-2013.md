@@ -48,36 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2013-2585695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18beb6c5447bce6fcb8a3eae9f788cc59d72dc3bb59db0a0bde5a78b9c0a3d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc1f2125125413f6aa0c19e9cfed285c0ef660f37ac30383c1caa6c9c3cbac26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Funções
+- Adido Militar
+- Embaixada
+- Exoneração
+- Forças Armadas
+- Marrocos
+- Ministro da Defesa Nacional
+- Ministro de Estado e dos Negócios Estrangeiros
+- Nomeação
+- Portugal
+- Rabat
+- Tunes
+relationships:
+- type: amended_by
+  target: pt:dre:73852357:por
+  label: Alterada, com efeitos a 01.02.2016, a nomeação do Coronel ART (07026083) José António Guerreiro Martins, efetuada
+    através da presente Portaria, pelo(a) Portaria n.º 71/2016 - Diário da República n.º 52/2016, Série II de 2016-03-15,
+    que manteve a acumulação em Tunes, República da Tunísia, passando a acumular as funções de Adido de Defesa em Nouakchott,
+    República Islâmica da Mauritânia, e manteve o termo da missão de serviço do nomeado a 08.10.2016.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-2016-73852357
+  date: '2016-03-15'
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:13Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +135,5 @@ Nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 56/81](https://diariod
 A presente portaria produz efeitos a partir de 09 de outubro de 2013 e revoga a portaria n.º 690/2013, de 17 de setembro, publicada no Diário da República n.º 200, de 16 de outubro de 2013. (Isenta de visto do Tribunal de Contas.)
 
 1 de novembro de 2013. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207423418

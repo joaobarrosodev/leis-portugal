@@ -48,36 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-2013-2965100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T17:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e6c65cbf0740faeaaa2914516178c649590f95c0af4e4f0e10f20c460de1e39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7db2db7e0f82e60fad5c6cdb442ac151bb93f14eb516ac9a2ff11e4e8e8d5fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Entroncamento
+- Rede Ferroviária
+- Refer
+- Secretário de Estado das Infraestruturas Transportes e Comunicações
+relationships:
+- type: cites
+  target: pt:dre:1899219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3095530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1047897:por
+  label: "Retificados os §s 6.º e 7.º e o art. 2.º, pela DECL-RECT.199/2014.25.02.2014.SG-MECO, DR.IIS [39] de 25.02.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/199-2014-1047897
+  date: '2014-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:42:03Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +149,5 @@ b) Em 2014 - (euro) 1.304.088,97, ao qual acresce IVA à taxa legal em vigor.
 Por delegação de competências, nos termos, respetivamente, dos despachos n.os [9459/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9459-2013-3095530) e [12100/2013](https://diariodarepublica.pt/dr/detalhe/despacho/12100-2013-1899219).
 
 15 de novembro de 2013. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
+
+207408677

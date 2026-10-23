@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/103/1991/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-1991-479041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b251e64ba1104907c1e0798c9baec78d84981d39ec9c25f768c0a99a0b0e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ff63c639548e49b2821d80a82ff301eb4d11cc59d85735b5d661735d3b0e797
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,33 @@ subjects:
 - Diploma
 - Madeira.região Autónoma
 - Universidade da Madeira
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:50Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +118,9 @@ Mandam o Ministro da República para a Região Autónoma da Madeira e o Governo,
 
 Gabinete do Ministro da República para a Região Autónoma da Madeira e Ministério da Educação.
 
-**Assinada em 21 de Janeiro de 1991.**
+Assinada em 21 de Janeiro de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO — REPÚBLICA (ver nota a) PORTUGUESA
 

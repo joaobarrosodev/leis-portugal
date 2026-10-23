@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/042000003/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-b-2025-909477670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa9483ba1d66a70ac837f45b0109bac87b6a2e37fb6ecb754624efbafc2b0171
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74231ad79a77c7856f2d6b4b51af81e290bbe3b636845343483c81e6d70a3f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:57:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +102,7 @@ Adicionalmente, nos termos do n.º 10 do artigo 44.º do Decreto-Lei n.º 17/202
 
 Neste contexto, importa, pois, assegurar as condições necessárias à execução integral da contratualização efetuada, de forma a ajustá-la ao período real de execução do contrato celebrado, mediante a reprogramação dos encargos.
 
-Nestes termos, em conformidade com o disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, conjugado com o disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, bem como no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, ambos na sua redação atual, e, ainda, nos n.<sup>os</sup>8 a 11 do artigo 44.º do Decreto-Lei n.º 17/2024, de 29 de janeiro, na sua redação atual, manda o Governo, pela Secretária de Estado da Segurança Social, no uso das competências que lhe foram delegadas, o seguinte:
+Nestes termos, em conformidade com o disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, conjugado com o disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, bem como no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, ambos na sua redação atual, e, ainda, nos n.os8 a 11 do artigo 44.º do Decreto-Lei n.º 17/2024, de 29 de janeiro, na sua redação atual, manda o Governo, pela Secretária de Estado da Segurança Social, no uso das competências que lhe foram delegadas, o seguinte:
 
 1 - Fica o conselho diretivo do ISS, I. P., autorizado a proceder à reprogramação dos encargos plurianuais autorizados pela Portaria n.º 887/2024/2, de 4 de dezembro, decorrentes da despesa relativa à aquisição de serviços de aluguer na modalidade de rent-a-car para 183 viaturas, por um período de 12 meses, até ao montante máximo global de 1 171 821,55 € (um milhão, cento e setenta e um mil, oitocentos e vinte e um euros e cinquenta e cinco cêntimos), acrescido de IVA à taxa legal em vigor, repartidos da seguinte forma:
 
@@ -115,3 +115,5 @@ Nestes termos, em conformidade com o disposto no n.º 1 do artigo 22.º do Decre
 3 - A presente portaria entra em vigor no dia da respetiva assinatura.
 
 25 de fevereiro de 2025. - A Secretária de Estado da Segurança Social, Susana Filipa de Moura Lima.
+
+318741598

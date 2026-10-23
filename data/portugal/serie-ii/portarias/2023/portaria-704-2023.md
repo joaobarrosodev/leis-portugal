@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-2023-224728459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1323b3b2718f946b40b3986fddc39b37896451325ca513269bbf414eba9798ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27fb7205e491f6f187d5394fb7b14478c1ba26ca397ad229b7444422d9a5a9a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência para a Gestão Integrada de Fogos Rurais
+- Ajuda Comunitária
+- Autorização de Despesas
+- Helicóptero
+- Plano de Recuperação e Resiliência
+- Política Orçamental
+- União Europeia
+relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:27/2021
+  label: Altera, com efeitos a 03 de novembro de 2023, nos termos do n.º 4 da presente portaria, a primeira tabela do anexo
+    ii da Resolução do Conselho de Ministros n.º 27/2021, de 22 de março, Diário da República n.º 56/2021, Série I
+  source: null
+  date: '2021-03-22'
+- type: cites
+  target: pt:dre:159841269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:51:01Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +132,10 @@ Assim, manda o Governo, pela Ministra da Defesa Nacional, ao abrigo do disposto 
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 1 da [Resolução do Conselho de Ministros n.º 27/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2021-159841269) e o n.º 1 da presente portaria]
 
-|  |  |  |  |  |  |  |  |  |
+|  | Total | Previsão de entrega |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Total | Previsão de entrega | Previsão de entrega | Previsão de entrega | Previsão de entrega | Previsão de entrega | Previsão de entrega | Previsão de entrega |
-|  | Total | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 |
+| 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 |  |  |
+|  |  |  |  |  |  |  |  |  |
 | Helicóptero ligeiro (monomotor)... | 2 |  | 2 |  |  |  |  |  |
 | Helicóptero médio (bimotor) ... | 9 |  | 2 | 4 | 3 |  |  |  |
 
@@ -122,17 +143,21 @@ Assim, manda o Governo, pela Ministra da Defesa Nacional, ao abrigo do disposto 
 
 HEBL e HEBM
 
-| PRR + OE | PRR + OE | Escalonamento s/ IVA (em euros) | Escalonamento s/ IVA (em euros) | Escalonamento s/ IVA (em euros) | Escalonamento s/ IVA (em euros) | Escalonamento s/ IVA (em euros) | Escalonamento s/ IVA (em euros) | Total |
+| PRR + OE | Escalonamento s/ IVA (em euros) | Total |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PRR + OE | PRR + OE | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | Total |
+| 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 | Dados financeiros (Financiamento PRR). | Aquisição dos meios... | 2 845 528,46 | 5 252 032,52 | 18 642 891,54 | 24 876 187,14 | 10 171 978,23 | 1 626 016,26 | 63 414 634,15 |
-| Dados financeiros (Financiamento PRR). | HEBL ... AW119 (2)... | 2 845 528,46 | 2 000 000,00 | 2 785 529,48 | 0,00 | 0,00 | 0,00 | 7 631 057,94 |
+| HEBL ...<br>AW119 (2)... | 2 845 528,46 | 2 000 000,00 | 2 785 529,48 | 0,00 | 0,00 | 0,00 | 7 631 057,94 |  |
 |  | HEBM (9)... | 0,00 | 3 252 032,52 | 15 857 362,06 | 24 876 187,14 | 10 171 978,23 | 1 626 016,26 | 55 783 576,21 |
 |  | Infraestruturas HEBM e outras despesas associadas. | 0,00 | 0,00 | 429 638,46 | 5 904 905,86 | 250 821,53 | 0,00 | 6 585 365,85 |
 |  | Total PRR... | 2 845 528,46 | 5 252 032,52 | 19 072 530,00 | 30 781 093,00 | 10 422 799,76 | 1 626 016,26 | 70 000 000,00 |
 | Dados financeiros (Financiamento OE). | Formação Pilotos ... | 1 463 414,63 | 1 463 414,63 | 975 609,76 | 0,00 | 0,00 | 0,00 | 3 902 439,02 |
-| Dados financeiros (Financiamento OE). | Formação Mecânicos ... | 243 902,44 | 325 203,25 | 243 902,44 | 243 902,44 | 243 902,44 | 0,00 | 1 300 813,01 |
+| Formação Mecânicos ... | 243 902,44 | 325 203,25 | 243 902,44 | 243 902,44 | 243 902,44 | 0,00 | 1 300 813,01 |  |
 |  | Manutenção HEBL e HEBM e outras despesas associadas. | 0,00 | 0,00 | 1 707 317,08 | 2 601 626,02 | 2 195 121,95 | 3 658 536,59 | 10 162 601,63 |
 |  | Total - OE... | 1 707 317,07 | 1 788 617,89 | 2 962 829,27 | 2 845 528,46 | 2 439 024,39 | 3 658 536,59 | 15 365 853,66 |
 |  | Total geral ... | 4 552 845,53 | 7 040 650,41 | 22 530 679,11 | 29 075 637,57 | 16 510 984,13 | 5 691 056,92 | 85 365 853,66 |
+
+317032756
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl14 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl20 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl21 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl22 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl23 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; }

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/005000000/0007400075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-902718199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f333522c83bee4035a5c7ece7f6bdbc64a4df4b5bb4ec8effef02293cac00c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e02a6e6d302e09fd9b5163a3abd718eaba1e7c06263a201196cb5fcd244330d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- Despesas Públicas
+- Ministério da Administração Interna
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:116029385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870819244:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:58:18Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +124,7 @@ validation:
 
 A Secretaria-Geral do Ministério da Administração Interna (SGMAI) tem como principais atribuições em matéria de tecnologias de informação a gestão e suporte aplicacional de aplicações críticas para diversas entidades do Ministério da Administração Interna (MAI). O Sistema de Informação e Gestão do Recenseamento Eleitoral - SIGRE, é um sistema crítico responsável pela gestão de todo o processo de recenseamento eleitoral, automático e voluntário, sendo também uma das peças base necessárias para o eficiente suporte aos vários atos eleitorais.
 
-Com as alterações introduzidas pela [Lei n.º 47/2018](https://diariodarepublica.pt/dr/detalhe/lei/47-2018-116029385), de 13 de agosto, e pelas Leis Orgânicas n.<sup>os</sup>[4/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), de 11 de novembro, e [1/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), de 4 de junho, foi necessário implementar um conjunto de funcionalidades e plataformas, interligadas com o sistema SIGRE, a saber: Portal do Recenseamento, Portal da Candidatura, Portal do Voto Antecipado e utilização de Cadernos Eleitorais Desmaterializados. Neste último caso, passou a estar prevista a utilização nas mesas a constituir no estrangeiro, em todos os atos eleitorais. Existe, portanto, a necessidade de manter estas plataformas e funcionalidades sempre operacionais e atualizadas.
+Com as alterações introduzidas pela [Lei n.º 47/2018](https://diariodarepublica.pt/dr/detalhe/lei/47-2018-116029385), de 13 de agosto, e pelas Leis Orgânicas n.os[4/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), de 11 de novembro, e [1/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), de 4 de junho, foi necessário implementar um conjunto de funcionalidades e plataformas, interligadas com o sistema SIGRE, a saber: Portal do Recenseamento, Portal da Candidatura, Portal do Voto Antecipado e utilização de Cadernos Eleitorais Desmaterializados. Neste último caso, passou a estar prevista a utilização nas mesas a constituir no estrangeiro, em todos os atos eleitorais. Existe, portanto, a necessidade de manter estas plataformas e funcionalidades sempre operacionais e atualizadas.
 
 Por outro lado, existe ainda Plataforma de Escrutínio Provisório (PEP), sendo um sistema desenvolvido pela SGMAI e que vem sendo utilizado há vários anos, para a recolha e divulgação dos resultados eleitorais apurados no escrutínio provisório.
 
@@ -126,3 +163,5 @@ Os encargos financeiros decorrentes da presente portaria são satisfeitos por co
 A presente portaria produz efeitos a partir do dia seguinte ao da sua publicação.
 
 26 de dezembro de 2024. ― O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. ― 20 de dezembro de 2024. - O Secretário de Estado da Administração Interna, Telmo Augusto Gomes de Noronha Correia.
+
+318513299

@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2012-2833642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57f8420780e51693513abdbc1731ec5a5454db500ea54b69bed2d81edc5c4b50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b979651bbd519009f5857958c5f04fb0ef20b9f9065624eb940a3846eebeced
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Nacional de Compras Públicas
+- Aquisição de Bens e Serviços
+- Instituto de Informática
+- Ministério da Solidariedade e da Segurança Social
+- Ministério das Finanças
+- Serviço de Telecomunicações Fixas
+relationships:
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:35:03Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +127,5 @@ A importância fixada para cada ano económico pode ser acrescida do saldo apura
 Os encargos decorrentes da execução da presente portaria serão suportados por verbas a inscrever no orçamento do Instituto de Informática, I. P., consignado no Orçamento da Segurança Social na rubrica D.02.02.09 - Comunicações.
 
 25 de julho de 2012. - Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
+
+206361743

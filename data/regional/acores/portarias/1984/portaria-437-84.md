@@ -4,8 +4,8 @@ id: pt:dre:385427:por
 title: Portaria n.º 437/84
 short_title: null
 summary: Cria o quadro de professores catedráticos e associado da Universidade dos Açores
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: portaria
 document_type_label: Portaria
 issuing_authority:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-1984-385427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3a413436755e814718a0349c8690009194917164edac9ef6e3187e201019d05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7076e5426a9e6b2885c959fcf6281ea983d6c14a28b164cec1c30cced79096f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Pessoal Docente
+- Quadro de Pessoal
+- Universidade dos Açores
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 1096/89, PUBLCADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 294,\
+    \ DE 4/7/89.\0/7/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:551244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:43Z'
   warnings: []
   errors: []
 ---
@@ -97,8 +126,8 @@ O presente diploma anula e substitui a [Portaria n.º 177/83](https://diariodare
 
 Ministérios das Finanças e do Plano e da Educação e Gabinete do Ministro da República para a Região Autónoma dos Açores e Secretaria Regional de Educação e Cultura.
 
-**Assinada em 7 de Março de 1984.**
+Assinada em 7 de Março de 1984.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Educação, José Augusto Seabra. - O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Secretário Regional de Educação e Cultura, José Guilherme Reis Leite.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Educação, José Augusto Seabra. - O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Secretário Regional de Educação e Cultura, José Guilherme Reis Leite.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15300/20222022.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15300/20222022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15300/20222022.pdf)

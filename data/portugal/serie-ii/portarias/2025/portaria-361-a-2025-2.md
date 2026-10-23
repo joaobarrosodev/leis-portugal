@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/099000002/0000500008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,36 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-a-2025-919311920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 741ac607be4760caa20cbeeb00ee1646b78a49251b76c8718b677f95da93182b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243b02182110ad2a8ef3adcbe4f66d165948d10042cc27a1ecb8eabdc819e93c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Ensino no Estrangeiro
+- Estabelecimento de Ensino
+- Estatuto da Carreira Docente
+- Pessoal Docente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:917593145:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:58:54Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +109,7 @@ validation:
 
 As escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação constituem um instrumento privilegiado de cooperação e de aprofundamento das relações com os Estados com os quais Portugal partilha a mesma língua e revestem um papel inquestionável na promoção do ensino e da difusão da língua e da cultura portuguesas no mundo, devendo a importância que assumem traduzir-se na sua dotação dos meios humanos adequados para garantir a qualidade do ensino nelas ministrado.
 
-Resulta do disposto nos n.<sup>os</sup>1 e 2 do artigo 3.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, alterado pelo [Decreto-Lei n.º 78/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), de 12 de maio, que regula os concursos destinados à seleção e ao recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação e dos respetivos polos, que a seleção e o recrutamento do pessoal docente podem revestir a natureza de concurso interno, de concurso externo e de concursos para a satisfação de necessidades temporárias, através de contratação de escola, visando os concursos interno e externo a satisfação das necessidades permanentes de pessoal docente das referidas escolas.
+Resulta do disposto nos n.os1 e 2 do artigo 3.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, alterado pelo [Decreto-Lei n.º 78/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), de 12 de maio, que regula os concursos destinados à seleção e ao recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação e dos respetivos polos, que a seleção e o recrutamento do pessoal docente podem revestir a natureza de concurso interno, de concurso externo e de concursos para a satisfação de necessidades temporárias, através de contratação de escola, visando os concursos interno e externo a satisfação das necessidades permanentes de pessoal docente das referidas escolas.
 
 De acordo com o disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, na sua redação atual, as vagas para os concursos interno e externo são fixadas, por grupo de recrutamento, através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
@@ -121,7 +143,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Vagas a preencher pelo concurso interno
 
-| Concurso interno | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento |
+| Concurso interno | Grupos de recrutamento |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estabelecimento de ensino | 100 | 110 | 120 | 200 | 210 | 220 | 230 | 240 | 250 | 260 | 290 | 300 | 310 | 320 | 330 | 340 | 350 | 360 | 400 | 410 | 420 | 430 | 500 | 510 | 520 | 530 | 540 | 550 | 560 | 600 | 610 | 620 | 910 | 920 | 930 | Total |
 | Escola Portuguesa de Cabo Verde - Centro de Ensino e da Língua Portuguesa | 5 | 12 | 0 | 2 | 2 | 2 | 3 | 2 | 3 | 1 | 0 | 5 | 0 | 1 | 2 | 0 | 0 | 0 | 4 | 0 | 2 | 1 | 5 | 4 | 3 | 0 | 0 | 2 | 0 | 2 | 1 | 3 | 4 | 0 | 0 | 71 |
@@ -135,10 +157,14 @@ Vagas a preencher pelo concurso interno
 
 Vagas a preencher pelo concurso externo
 
-| Estabelecimento de ensino | 100 | 110 | 200 | 220 | 230 | 240 | 300 | 400 | 410 | 420 | 510 | 520 | 600 | 620 | Total |
+| Concurso externo | Grupos de recrutamento |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Concurso externo | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento | Grupos de recrutamento |
+| Estabelecimento de ensino | 100 | 110 | 200 | 220 | 230 | 240 | 300 | 400 | 410 | 420 | 510 | 520 | 600 | 620 | Total |
 | Escola Portuguesa de Cabo Verde - Centro de Ensino e da Língua Portuguesa |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 1 |
 | Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa | 5 | 6 | 2 | 1 | 1 |  | 3 |  | 1 | 1 | 1 | 1 | 2 | 1 | 25 |
 | Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa | 2 |  |  |  |  | 1 |  | 2 |  |  |  |  |  | 1 | 6 |
 | Total | 7 | 7 | 2 | 1 | 1 | 1 | 3 | 2 | 1 | 1 | 1 | 1 | 2 | 2 | 32 |
+
+319092692
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { height:26px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl9 { min-height:35px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { text-align:right; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:26px; } .Tbl16 { min-height:17px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:18px; }

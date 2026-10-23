@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/01/006000000/0069800698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2014-2098336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be22e8cb538c38ff6fe07d94782769c7bda42ed6d26bfb9e8101e85d7132e5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2f61129879d3096bbf87bf0b3a138b627ec419d0dbeba80a592ac86bafa4e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:491440:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:19Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +94,5 @@ Considerando ainda as excecionais qualidades profissionais, sentido do dever, el
 Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, ao abrigo do n.º 6 do artigo 121.º e da alínea b) do n.º 1 do artigo 143.º do Estatuto dos Militares da Guarda Nacional Republicana (EMGNR), aprovado pelo [Decreto-Lei n.º 297/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2009-491440), de 14 de outubro, com as alterações introduzidas pela Declaração de Retificação n.º 92/2009, de 27 de novembro, promover ao posto de cabo, por distinção, em conformidade com o previsto no n.º 1 e na alínea a) do n.º 2 do artigo 121.º do mesmo Estatuto, o Guarda de Infantaria (1920439) Luís Eduardo de Jesus Conceição, desde 19 de julho de 2007, de acordo com a alínea c) do n.º 1 do artigo 132.º do EMGNR, data a partir da qual conta a respetiva antiguidade e lhe são devidos os vencimentos do novo posto.
 
 30 de dezembro de 2013. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva.
+
+207508217

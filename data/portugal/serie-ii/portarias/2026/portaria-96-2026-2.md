@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/037000000/0003900039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-2026-1055937721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a3a83ecf3905a827201a2982279b7d4fca9a61dc256756a69af0d0cc9cab1d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2106196361f8f29ac66ae3b342799ba902302eec852da7e7f8b6913fa5a26452
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Tributária e Aduaneira
+- Despesas Públicas
+- Licença de Utilização
+- Software
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927115793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927635274:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:39Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +114,7 @@ Considerando que, nos termos do n.º 10 do referido artigo, a reprogramação de
 
 Considerando que a reprogramação dos encargos plurianuais em apreço não ultrapassa o prazo de execução do contrato abrangido pela autorização inicialmente conferida nem o valor total da despesa autorizada:
 
-Manda o Governo, pela Secretária de Estado dos Assuntos Fiscais, em conformidade com o disposto nos n.<sup>os</sup> 9 e 10 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no exercício das competências delegadas ao abrigo da alínea a) do n.º 1 e da alínea c) do n.º 2 do [Despacho n.º 8869-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-b-2025-927115793), publicado no Diário da República, 2.ª série, de 29 de julho de 2025, o seguinte:
+Manda o Governo, pela Secretária de Estado dos Assuntos Fiscais, em conformidade com o disposto nos n.os 9 e 10 do artigo 46.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no exercício das competências delegadas ao abrigo da alínea a) do n.º 1 e da alínea c) do n.º 2 do [Despacho n.º 8869-B/2025](https://diariodarepublica.pt/dr/detalhe/despacho/8869-b-2025-927115793), publicado no Diário da República, 2.ª série, de 29 de julho de 2025, o seguinte:
 
 1 - Fica a Autoridade Tributária e Aduaneira (AT) autorizada a proceder à reprogramação dos encargos plurianuais relativos à aquisição de software Oracle, autorizada através da [Resolução do Conselho de Ministros n.º 115/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2025-927635274), de 4 de agosto, passando o encargo, até ao montante máximo global de 17 350 783,11 €, ao qual acresce o IVA à taxa legal em vigor, a onerar apenas o ano de 2026.
 
@@ -102,3 +123,5 @@ Manda o Governo, pela Secretária de Estado dos Assuntos Fiscais, em conformidad
 3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 18 de fevereiro de 2026. - A Secretária de Estado dos Assuntos Fiscais, Cláudia Maria dos Reis Duarte Melo de Carvalho.
+
+319966077

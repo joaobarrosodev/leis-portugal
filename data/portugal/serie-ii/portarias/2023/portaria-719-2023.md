@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/231000000/0013900139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/719-2023-224966860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:51:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd2d3c21dd2d0bd28f2e8a9b5f073788052b83d285b642241bac1203abd9f9b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bfc847fb357c533b4914926e81b899ee0d333b46c834c044aef135a0b7fb4dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Centro Hospitalar Universitário Lisboa Central
+- Contrato
+- Despesas Públicas
+- Equipamento Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:902111946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:902111946:por
+  label: Alterados os n.os 1 e 2 pela Portaria n.º 16/2025/2 - Diário da República n.º 3/2025, Série II de 2025-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-2025-902111946
+  date: '2025-01-06'
+- type: cites
+  target: pt:dre:129093529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:51:06Z'
   warnings: []
   errors: []
 ---
@@ -114,3 +148,5 @@ Manda o Governo, pela Secretária de Estado do Orçamento e pelo Secretário de 
 2 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 21 de novembro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 22 de novembro de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+
+317091765

@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-2012-896371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc9e27d07ceab24947ba7c7231453bd1dc1b163ce6ceaa4e894ae78b9b2c5d99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baacd445205eede0d7ef3f4d34b8a80f8ad94376d3a3e62696b8887f6e22e4bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato de Prestação de Serviços
+- Gestão de Resíduos
+- Refer
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:1583407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2930986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:36:42Z'
   warnings: []
   errors: []
 ---
@@ -119,3 +144,5 @@ c) Em 2014: (euro) 15 120, ao qual acresce IVA à taxa legal em vigor.
 Por delegação de competências, nos termos respetivamente dos despachos n.os [12905/2011](https://diariodarepublica.pt/dr/detalhe/despacho/12905-2011-1583407) e [10353/2011](https://diariodarepublica.pt/dr/detalhe/despacho/10353-2011-2930986).
 
 26 de setembro de 2012. - O Secretário de Estado do Orçamento, Luís Filipe Bruno da Costa de Morais Sarmento. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
+
+206508159

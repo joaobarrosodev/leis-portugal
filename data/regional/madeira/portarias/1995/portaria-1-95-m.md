@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 266/1995, 3º Suplemento, Série I-B de 1995-11-17
   number: '266'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7084-(14) a 7084-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266b03/00140025.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1/1995/11/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1995-194821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T18:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5b3926a18aa672d5dfbbdc196ba2c2db2b664a339a6634ceb9bde5ca9b01dd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c7234ac3deb183c313963e11ffba38872d91b86e5698448b6c9def2dab591a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Jogos de Fortuna e Azar
 - Estabelecimento de Jogos
-- Turismo
 - Estabelecimento Hoteleiro
 - Fiscalização
-- Indústria Hoteleira
-- Licenciamento
-- Madeira.região Autónoma
 - Fogueira
 - Grupo Cultural
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Jogos de Fortuna e Azar
+- Licenciamento
+- Madeira.região Autónoma
+- Poluição Sonora
+- PSP
 - Regulamento
 - Regulamento Policial
-- Poluição Sonora
 - Taxa
-- Infraestrutura Turística
+- Turismo
 - Venda Ambulante
 - Vistoria
 relationships:
@@ -88,20 +88,65 @@ relationships:
   target: pt:dre:584616:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584616:por
+  label: "Alterada a tabela anexa ao Regulamento Policial pela PORT.1/2001/M.2001.10.19.PG-RAM, DR.IS-B [243] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-2001-584616
+  date: '2001-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/1995/07/01/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/13/1995/07/01/m/dre
+- type: cites
+  target: pt:dre:191843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679178:por
+  label: null
+  source: null
 article_structure:
   article_count: 82
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:03:50Z'
   warnings: []
   errors: []
 ---
@@ -162,9 +207,9 @@ Esta portaria entra imediatamente em vigor.
 
 Secretaria Regional das Finanças.
 
-**Assinada em 16 de Novembro de 1995.**
+Assinada em 16 de Novembro de 1995.
 
-**O Secretário Regional das Finanças, José Paulo Baptista Fontes.**
+O Secretário Regional das Finanças, José Paulo Baptista Fontes.
 
 Regulamento Policial da Região Autónoma da Madeira
 
@@ -652,7 +697,9 @@ Os proprietários, gerentes ou responsáveis pelo funcionamento dos estabelecime
 
 2 - Todos os dias será entregue no Comando Regional da Polícia de Segurança Pública, ou nas subunidades de polícia de cada concelho da Região, uma cópia dos lançamentos efectuados no dia anterior, nos termos do número precedente.
 
-###### Artigo 35.º — Livro de reclamações
+###### Artigo 35.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos hoteleiros, nos similares de hotelaria e nos apartamentos turísticos existirá um livro de reclamações, a fornecer pela Direcção Regional do Turismo, que será obrigatoriamente facultado aos clientes que o solicitem, desde que exibam documento comprovativo da sua identificação e indiquem a sua morada.
 
@@ -932,7 +979,9 @@ c) Se a quantidade e espécies de foguetes e fogos-de-artifício o justificar, s
 
 2 - As licenças poderão ser apreendidas pela Polícia de Segurança Pública por incumprimento culposo das normas legais constantes do presente capítulo.
 
-###### Artigo 66.º — Livro de registo
+###### Artigo 66.º
+
+## Livro de registo
 
 A entidade competente registará as licenças em livro especial, com termos de abertura e encerramento, por ordem cronológica e sob números de ordem, em que serão transcritos os elementos de identificação constantes do requerimento, além de conter uma fotografia do requerente.
 

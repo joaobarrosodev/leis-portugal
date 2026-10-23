@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/197000000/3081730817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/675-2013-2485259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dbb042bef85708ed6d5533f954e698248a6833a5837c0910e7f7805a1f9dcbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca08b26f9fca645c0d30effb61ee455fd246b42cabbb4b8bd459227802c2b8cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:41:13Z'
   warnings: []
   errors: []
 ---
@@ -84,6 +92,8 @@ validation:
 
 Manda o Chefe do Estado-Maior do Exército que os oficiais abaixo discriminados transitem para a situação de reserva, nos termos da alínea c) do n.º 1 do artigo 152.º do EMFAR, conjugado com o n.º 5 do artigo 3.º do [Decreto-Lei n.º 166/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2005-147857), de 23 de setembro, conjugado com a alínea e) do n.º 2 do artigo 84.º da [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), devendo ser considerados nesta situação na data que a cada um se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/10/197000000/3081730817.pdf))](https://files.diariodarepublica.pt/2s/2013/10/197000000/3081730817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/10/197000000/3081730817.pdf)
 
 13 de setembro de 2013. - Por delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Diretor de Administração de Recursos Humanos, Tiago Maria Ramos Chaves de Almeida e Vasconcelos, major-general.
+
+207294475

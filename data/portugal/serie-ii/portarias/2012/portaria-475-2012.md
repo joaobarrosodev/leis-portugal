@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/09/188000000/3251432514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/475-2012-1596792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a41e065f9383958db75cf5e4e493f3faaa4fa0049a6679894950a7709e6ea2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430541cc7a510622be8fc0ad0a058e4f509cfbd83e6c41ecf0e018b8c1987b96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1125043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:35:21Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por portaria de 14 de setembro de 2012 do Ajudante General do Exército, no uso da delegação de competências conferida pelo [Despacho n.º 2202/2011](https://diariodarepublica.pt/dr/detalhe/despacho/2202-2011-1125043) de 19 de janeiro de 2011 de S. Ex.ª o GEN CEME, inserto no Diário da República, n.º 21, 2.ª série, de 31 de janeiro de 2011, é abatido aos Quadros Permanentes o 1SAR SS/MED, NIM 20789893, David Amadeu Geraldes, do RI 10, nos termos da alínea d) do n.º 1 do artigo 170.º, do EMFAR, a partir de 1 de setembro de 2012, por o mesmo o ter requerido.
 
 19 de setembro de 2012. - O Chefe da Repartição, José Domingos Sardinha Dias, coronel de artilharia.
+
+206402542

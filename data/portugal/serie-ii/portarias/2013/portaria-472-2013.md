@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-2013-2927644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c61a84f97c82911b2c7ea045f3fa834921633834e136db806fdb56109211900e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df6125d02bce4dd9ff718dbb49e0a337d4e89dcc52ea46f12974f2d00c8b7576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Instituto da Segurança Social
+- Locação Financeira
+- Ministério da Solidariedade e da Segurança Social
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:107047374:por
+  label: Alterada pela Portaria n.º 125/2017 - Diário da República n.º 100/2017, Série II de 2017-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2017-107047374
+  date: '2017-05-24'
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:40:00Z'
   warnings: []
   errors: []
 ---
@@ -127,3 +145,5 @@ Manda o Governo, pelos Secretários de Estado do Orçamento e da Solidariedade e
 3 - A despesa emergente do contrato a celebrar, relativa ao corrente ano económico, tem cabimento no orçamento de administração do ISS, IP.
 
 24 de junho de 2013. - O Secretário de Estado do Orçamento, Luís Filipe Bruno da Costa de Morais Sarmento. - O Secretário de Estado da Solidariedade e da Segurança Social, Marco António Ribeiro dos Santos Costa.
+
+207078675

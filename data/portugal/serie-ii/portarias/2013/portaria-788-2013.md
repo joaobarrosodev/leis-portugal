@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-2013-2845832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T17:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee61d29674a84f898d135203ac1d6dbf0e07a68e8c920f4af551312c1b063091
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cc6e7b48ecaf31fe5f66226feecb4d731471df05762eecf7f6e01d160c36b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Direcção Geral de Armamento e Infra-estruturas de Defesa
+- Ministério da Defesa Nacional
+- Prédio Urbano
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:41:51Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +124,5 @@ a) No ano de 2013, por verbas inscritas no Capítulo 01, Divisão 05, Subdivisã
 b) Nos anos de 2014 e 2015, por dotação a inscrever, no Capítulo 01, Divisão 05, Subdivisão 1, rubricas de classificação económica "07.01.03.A0.C0 - Edifícios -Construção" do Orçamento do Ministério da Defesa Nacional - Direção-Geral de Armamento e Infraestruturas de Defesa.
 
 7 de novembro de 2013. - Pela Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, Secretário de Estado Adjunto e do Orçamento, por delegação de competências, conforme despacho n.º 9459/2013, publicado no Diário da República, 2.ª série, n.º 138, de 19 de julho de 2013. - Pelo Ministro da Defesa Nacional, Berta Maria Correia de Almeida Melo Cabral, Secretária de Estado Adjunta e da Defesa Nacional, por delegação de competências, conforme despacho n.º 5957/2013, publicado no Diário da República, 2.ª série, n.º 88, de 8 de maio de 2013.
+
+207397045

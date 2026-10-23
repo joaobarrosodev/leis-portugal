@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/001000000/0012600127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-2025-901693481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d387200ba14d5233124a51502189f1c361526b0c04146c8b851c69ea26b64e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc9ca3f473cadf1aa5d7b0ad35e93bcb9e8dc16cd7183c4b9fb48369ae63d69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179188077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:57:18Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +106,11 @@ Com tal transferência de atribuições, o IGeFE, I. P., sucedeu nas posições 
 
 Considerando que o referido contrato foi celebrado para vigorar por um período de 36 meses, tendo a sua execução tido início em junho de 2022, torna-se necessário proceder à reprogramação dos respetivos encargos, que se traduzirá no alargamento do período temporal da despesa em cinco meses.
 
-Do exposto não advém qualquer acréscimo da despesa autorizada ou alteração do valor contratual, mas a referida reprogramação carece de autorização do membro do Governo responsável pela área da educação, ciência e inovação, conferida através de portaria, ao abrigo do disposto nos n.<sup>os</sup>9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, que estabelece as normas de execução do Orçamento do Estado para 2024.
+Do exposto não advém qualquer acréscimo da despesa autorizada ou alteração do valor contratual, mas a referida reprogramação carece de autorização do membro do Governo responsável pela área da educação, ciência e inovação, conferida através de portaria, ao abrigo do disposto nos n.os9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, que estabelece as normas de execução do Orçamento do Estado para 2024.
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, manda o Governo, pelo Ministro da Educação, Ciência e Inovação, o seguinte:
+Nos termos dos n.os9 e 10 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, manda o Governo, pelo Ministro da Educação, Ciência e Inovação, o seguinte:
 
 1 - Fica o Instituto de Gestão Financeira da Educação, I. P., autorizado, na qualidade de cessionário do contrato, a proceder à reprogramação dos encargos plurianuais relativos aos serviços de ligação do sistema eletrónico de segurança física das escolas públicas com 2.º e 3.º ciclos do ensino básico e do ensino secundário, a central de receção e monitorização de alarmes, através da Rede Alargada da Educação, até ao montante global máximo autorizado nos termos da [Portaria n.º 330/2022](https://diariodarepublica.pt/dr/detalhe/portaria/330-2022-179188077), de 16 de fevereiro.
 
@@ -119,3 +131,5 @@ d) Em 2025 - € 367 331,25 (trezentos e sessenta e sete mil, trezentos e trinta
 5 - A presente portaria produz efeitos a partir da data da respetiva assinatura.
 
 26 de dezembro de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Alexandre.
+
+318513103

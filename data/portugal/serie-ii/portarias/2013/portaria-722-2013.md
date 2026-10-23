@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-2013-2593919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-01T00:00:00Z'
+  retrieved_at: '2026-10-23T17:41:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fce82844d1a295c2c93c0d5e864432236ec65242f21575308325c4b53cbf139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27152ff9fc7705b6aa4f4c21ab1f16f702890f88c58b8479e0a6a1f6922f48ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:41:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adido Militar
+- Governo XIX
+- Madrid
+- Ministro da Defesa Nacional
+- Ministro de Estado e dos Negócios Estrangeiros
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:41:28Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +98,5 @@ Manda o Governo da República Portuguesa, pelos Ministros de Estado e dos Negóc
 A presente portaria produz efeitos a partir de 01 de novembro de 2013. (Isenta de visto do Tribunal de Contas.)
 
 10 de outubro de 2013. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207336002

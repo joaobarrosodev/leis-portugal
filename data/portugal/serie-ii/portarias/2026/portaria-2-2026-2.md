@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/001000000/0005500056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-2026-993315636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T18:02:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c7b31a6a0221690223a6e1119844956e1f83e4bf1b0233ec06919bbc1f31642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e72dd63bb1f22a835437005145aa0c3972f28a7a0e108771334ccd9e51f271f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:02:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:203083712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:02:19Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +105,5 @@ Pelas excecionais qualidades profissionais e pessoais, e pelo trabalho desenvolv
 Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º e atento o disposto nos artigos 25.º e 26.º e na alínea c) do n.º 1 do artigo 27.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, alterado pelo [Decreto-Lei n.º 77/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), de 07 de novembro, concedo a Medalha da Defesa Nacional, 3.ª Classe, ao 14029987, Sargento-Mor TM, Carlos Óscar Duarte Ramos.
 
 18 de dezembro de 2025. - O Ministro da Defesa Nacional, Nuno Melo.
+
+319913335

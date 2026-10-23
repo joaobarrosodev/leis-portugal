@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/244000000/0016900169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/852-2023-808130007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T17:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55a6f4386bf45586559292a1fec5294fd11be9f5cd8f2109905add54caae6fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1dc33b3ec9308b071e79848fc120e373c3b68ca3266fbe9cafc8a7ecb9bb516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Tributária e Aduaneira
+- Contrato
+- Despesas Públicas
+- Impresso
+relationships:
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1180946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:51:52Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +119,10 @@ Manda o Governo, pela Secretária de Estado do Orçamento e pelo Secretário de 
 
 1 - Fica autorizada a entidade abaixo mencionada a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acresce o IVA à taxa legal em vigor:
 
-|  |  |  |  |  |  |
+| Organismo | Valores totais sem IVA |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Organismo | Valores totais sem IVA | Valores totais sem IVA | Valores totais sem IVA | Valores totais sem IVA | Valores totais sem IVA |
-| Organismo | 2023 | 2024 | 2025 | 2026 | 48 meses |
+| 2023 | 2024 | 2025 | 2026 | 48 meses |  |
+|  |  |  |  |  |  |
 | AT... | (euro) 410 700,00 | (euro) 410 700,00 | (euro) 410 700,00 | (euro) 410 700,00 | (euro) 1 642 800,00 |
 
 2 - As importâncias fixadas para os anos económicos de 2024, 2025 e 2026 poderão ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.
@@ -105,3 +130,5 @@ Manda o Governo, pela Secretária de Estado do Orçamento e pelo Secretário de 
 3 - Os encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever no orçamento da entidade referentes aos anos indicados.
 
 24 de novembro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 20 de novembro de 2023. - O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix.
+
+317103014

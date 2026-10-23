@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-a-2025-983592822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T18:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66a00027554bace133c9bca060a69f72946c5f1af5863478f3d12ba819ca3665
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eccd7b7683e0fe7a0f677fb441d2d779d7e65e6880d7e7d49a235e4f29f5d8bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Coordenação e Desenvolvimento Regional
+- Direção Geral das Autarquias Locais
+- Eleição
+- Presidente
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Vice-presidente
+relationships:
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933551318:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T18:01:18Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +108,7 @@ Nos termos do disposto no n.º 4 do artigo 16.º do referido decreto-lei, o regu
 
 Compete, assim, à DGAL, acompanhar o ato eleitoral em causa.
 
-Assim, manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, ao abrigo do disposto nos n.<sup>os</sup> 3 e 4 do artigo 16.º do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, na sua redação atual, e no uso dos poderes delegados pela alínea a) do n.º 1 do [Despacho n.º 10270/2025](https://diariodarepublica.pt/dr/detalhe/despacho/10270-2025-933551318), publicado no Diário da República, 2.ª série, n.º 166, de 29 de agosto de 2025, o seguinte:
+Assim, manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, ao abrigo do disposto nos n.os 3 e 4 do artigo 16.º do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, na sua redação atual, e no uso dos poderes delegados pela alínea a) do n.º 1 do [Despacho n.º 10270/2025](https://diariodarepublica.pt/dr/detalhe/despacho/10270-2025-933551318), publicado no Diário da República, 2.ª série, n.º 166, de 29 de agosto de 2025, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -239,7 +258,7 @@ Os atos praticados relativos ao processo eleitoral, incluindo os respeitantes à
 
 ###### Artigo 15.º — Organização das mesas eleitorais
 
-1 - A mesa eleitoral para a eleição do presidente é constituída em cada assembleia municipal e a mesa eleitoral para a eleição de um vice-presidente é constituída nas instalações de cada CIM e das AM, de acordo com o disposto nos n.<sup>os</sup> 5 e 6 do artigo 16.º da Lei Orgânica das CCDR, I. P.
+1 - A mesa eleitoral para a eleição do presidente é constituída em cada assembleia municipal e a mesa eleitoral para a eleição de um vice-presidente é constituída nas instalações de cada CIM e das AM, de acordo com o disposto nos n.os 5 e 6 do artigo 16.º da Lei Orgânica das CCDR, I. P.
 
 2 - Pode ser constituída uma segunda mesa eleitoral em local a definir por acordo entre todas as candidaturas, de acordo com o disposto no n.º 7 do artigo 16.º da Lei Orgânica das CCDR, I. P.
 
@@ -388,3 +407,5 @@ As dúvidas suscitadas pela aplicação do presente regulamento são resolvidas 
 ###### Artigo 26.º — Omissões
 
 Em tudo quanto o presente regulamento for omisso aplica-se, subsidiariamente e com as devidas adaptações, o disposto na [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2001-524039), de 14 de agosto, na sua redação atual.
+
+319879032

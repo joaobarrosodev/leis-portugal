@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 181/2023, 2º Suplemento, Série II de 2023-09-18
   number: '181'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 317-(2) a 317-(3)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/181000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/495-a-2023-221741544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49348958ecf350b955086b0f742409c161d6161e6d415aa2cc6909a5d0b1c2b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f04cfbbfa7ebdba5aa2de69575351f9db04f22c4773fc88a0e8854f39d50b5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Catástrofe
+- Contrato de Colaboração
+- Cooperação Técnica
+- Despesas Públicas
+- Direção Geral das Autarquias Locais
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207114479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210467581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219826011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:45Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +157,10 @@ Nos termos da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://d
 
 ## ANEXO — (a que se refere o n.º 1)
 
-|  |  |  |  |  |  |
+| Município | Investimento elegível | Comparticipação |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Município | Investimento elegível | Comparticipação | Comparticipação | Comparticipação | Comparticipação |
-| Município | Investimento elegível | Taxa | 2023 | 2024 | Total |
+| Taxa | 2023 | 2024 | Total |  |  |
+|  |  |  |  |  |  |
 | Águeda... | 556 500,00 (euro) | 40 % | 55 650,00 (euro) | 166 950,00 (euro) | 222 600,00 (euro) |
 | Alijó... | 885 114,21 (euro) | 60 % | 128 266,25 (euro) | 402 802,28 (euro) | 531 068,53 (euro) |
 | Almada... | 2 562 171,05 (euro) | 40 % | 409 947,37 (euro) | 614 921,05 (euro) | 1 024 868,42 (euro) |
@@ -155,3 +202,5 @@ Nos termos da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://d
 | Valongo... | 793 989,84 (euro) | 40 % | 67 683,38 (euro) | 249 912,56 (euro) | 317 595,94 (euro) |
 | Vila Franca de Xira... | 4 017 465,93 (euro) | 40 % | 338 879,20 (euro) | 1 268 107,17 (euro) | 1 606 986,37 (euro) |
 | Total... | 77 905 204,93 (euro) |  | 15 260 780,04 (euro) | 23 361 768,28 (euro) | 38 622 548,32 (euro) |
+
+316857676

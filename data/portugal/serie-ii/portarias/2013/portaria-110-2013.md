@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/02/039000000/0735507355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-2013-1047143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T17:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6672e798f6ed12bdb672d5a90ce48d56b7dc58e50f507af7cc77173f2f55e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d95a1debf22f7c94626a24dd69fea218899c4bf70751e1856be9a93201a6b0fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:38:00Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +89,8 @@ Situação de reforma
 
 Nos termos da alínea b) do n.º 1 do artigo 159.º do EMFAR, conjugado com o Decreto-Lei n.º 166/05, de 23 de setembro, devendo ser considerados nesta situação desde as datas aí consignadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2013/02/039000000/0735507355.pdf))](https://files.diariodarepublica.pt/2s/2013/02/039000000/0735507355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/02/039000000/0735507355.pdf)
 
 12 de fevereiro de 2013. - Por delegação do Diretor de Administração dos Recursos Humanos, após delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+206767635

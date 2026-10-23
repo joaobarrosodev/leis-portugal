@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/031000000/0001400017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2024-848565499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad0c619d39de2549937ddf7014ac3b7665da721d294f0f8cacce4684a0545668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb073fedfd4b7cb6973138119bbc5ea758f4e431cb80bd438a798171d181106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio Administrativo
+- Entidade das Contas e Financiamentos Políticos
+- Entidade para a Transparência
+- Orgânica
+- Quadro de Pessoal
+- Tribunal Constitucional
+relationships:
+- type: cites
+  target: pt:dre:114242865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1351997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716418:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:52:46Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +141,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 ## ANEXO I — Entidade para a Transparência
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal dirigente... | Presidente... | 1 |
 |  | Vogal... | 2 |
 | Técnico superior... | Técnico superior... | 7 |
@@ -127,9 +153,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 ## ANEXO II — Entidade das Contas e Financiamentos Políticos
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal dirigente... | Presidente... | 1 |
 |  | Vogal... | 2 |
 | Pessoal de gabinete... | Adjunto... | 2 |
@@ -143,9 +169,9 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 Gabinete do Presidente do Tribunal
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal de gabinete... | Chefe de gabinete... | 1 |
 |  | Assessor... | 4 |
 |  | Secretário pessoal... | 2 |
@@ -153,43 +179,43 @@ Gabinete do Presidente do Tribunal
 
 Gabinete do Vice-Presidente do Tribunal
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal de gabinete... | Assessor... | 2 |
 |  | Secretário pessoal... | 1 |
 | Artigo 21.º do [Decreto-Lei n.º 545/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1999-633292), de 14 de dezembro | Assessor... | 2 |
 
 Gabinete dos Juízes
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal de gabinete... | Assessor... | 15 |
 |  | Secretário pessoal... | 6 |
 
 Gabinete do Ministério Público
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal de gabinete... | Assessor... | 3 |
 |  | Secretário pessoal... | 2 |
 
 Gabinete do Secretário-Geral
 
-|  |  |  |
+| Grupo de pessoal | Categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Categoria | Número de lugares |
+|  |  |  |
 | Pessoal de gabinete... | Secretário pessoal... | 1 |
 
 ## ANEXO IV — Serviços
 
 Departamento Administrativo e Financeiro
 
-|  |  |  |
+| Grupo de pessoal | Cargo/categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Cargo/categoria | Número de lugares |
+|  |  |  |
 | Dirigente... | Diretor de serviços... | 1 |
 | Técnico superior... | Técnico superior... | 8 |
 | Assistente técnico... | Coordenador técnico... | 2 |
@@ -197,9 +223,9 @@ Departamento Administrativo e Financeiro
 
 Núcleo de Apoio Documental e Informação Jurídica
 
-|  |  |  |
+| Grupo de pessoal | Cargo/categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Cargo/categoria | Número de lugares |
+|  |  |  |
 | Dirigente... | Diretor de serviços... | 1 |
 | Artigo 15.º-A do [Decreto-Lei n.º 545/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1999-633292), de 14 de dezembro | Assessor... | 3 |
 | Técnico superior... | Técnico superior... | 6 |
@@ -207,9 +233,9 @@ Núcleo de Apoio Documental e Informação Jurídica
 
 Centro de Informática
 
-|  |  |  |
+| Grupo de pessoal | Cargo/categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Cargo/categoria | Número de lugares |
+|  |  |  |
 | Dirigente... | Diretor de serviços... | 1 |
 | Técnico superior... | Técnico superior... | 1 |
 | Especialista de sistemas e tecnologia de informação | Especialista de sistemas e tecnologia de informação | 1 |
@@ -217,14 +243,16 @@ Centro de Informática
 
 Gabinete de Relações Externas
 
-|  |  |  |
+| Grupo de pessoal | Cargo/categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Cargo/categoria | Número de lugares |
+|  |  |  |
 | Técnico superior... | Técnico superior... | 2 |
 
 Assistentes operacionais
 
-|  |  |  |
+| Grupo de pessoal | Cargo/categoria | Número<br>de lugares |
 | --- | --- | --- |
-| Grupo de pessoal | Cargo/categoria | Número de lugares |
+|  |  |  |
 | Assistente operacional... | Assistente operacional... | 11 |
+
+317342687

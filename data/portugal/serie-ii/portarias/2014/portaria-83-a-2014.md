@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/2014, 2º Suplemento, Série II de 2014-02-04
   number: '24'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3530-(4) a 3530-(4)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf
 entry_into_force_dates: []
@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2014-1672840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fbbdef763b72a62d6557b38bc3b59c9101c8dfdce7a0ecf45299e5450cc871f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5450f7823a72e61074f3b7a4840c4db677bd70fd7bd5251799ebf2afd4bb4b20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Assistência Técnica
+- Autoridade Tributária e Aduaneira
+- Despesas Públicas
+- Equipamento
+- Reprodução de Documentos
+relationships:
+- type: amended_by
+  target: pt:dre:25681477:por
+  label: "Alterada pela PORT.486-A/2014.23.06.2014.SEAO-MF, DR.IIS [118-Supl] de 23.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-a-2014-25681477
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:67377735:por
+  label: Alterado o artigo 1.º pela portaria n.º 331/2015 - Diário da República n.º 107/2015, Série II de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-2015-67377735
+  date: '2015-06-03'
+- type: cites
+  target: pt:dre:1180946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:43:55Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +131,7 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo d
 
 Fica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf))](https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf)
 
 ###### Artigo 2.º
 
@@ -110,3 +142,5 @@ As importâncias fixadas para o ano económico de 2015 poderão ser acrescidas d
 Os encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever nos orçamentos do respetivo organismo, referentes aos anos indicados.
 
 30 de janeiro de 2014. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis.
+
+207591761

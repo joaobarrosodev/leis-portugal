@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/030000000/0006000061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-2023-207293296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a9740f5d2037a7f9afef812d6a29518e111d28350e0b4ab88421ade9215d2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2197d07987453a7b1f1608c090755e9a36053676061084092efe2dc65c5531e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,50 @@ relationships:
   target: pt:dre:223472160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223472160:por
+  label: Reescalonados, com efeitos a partir de 16.10.2023, os encargos plurianuais autorizados pelo presente diploma pelo(a)
+    Portaria n.º 571/2023 - Diário da República n.º 210/2023, Série II de 2023-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-2023-223472160
+  date: '2023-10-30'
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135844796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178882419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184357031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:49:55Z'
   warnings: []
   errors: []
 ---
@@ -133,3 +167,5 @@ Nos termos do disposto no artigo 109.º do Código dos Contratos Públicos, apro
 A presente portaria produz os seus efeitos na data da sua assinatura.
 
 30 de janeiro de 2023. - O Secretário de Estado da Justiça, Pedro Luís Ferrão Tavares.
+
+316118347
