@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/668/1993/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1993-389645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4376ea5800872de3d3a787d0c7c6102e775741fa7dd75f73b5bbd2a9df27b736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52615878c4a1a565eff2b4ae5da9d64f3fc55cfd70ecdc0e2d3cdf29f684710b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
-- Registo Automóvel
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
+- Registo Automóvel
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:210474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:28Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +100,6 @@ Manda o Governo, pelo Ministro da Justiça, que, ao abrigo do disposto no artigo
 
 Ministério da Justiça.
 
-**Assinada em 30 de Junho de 1993.**
+Assinada em 30 de Junho de 1993.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

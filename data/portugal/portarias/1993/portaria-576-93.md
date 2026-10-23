@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/130b00/30213024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/576/1993/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1993-260150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 002e468005ec026f6eaf0bac247da777292541bbe84f5ed91d7752c188288e0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d6d6354807a4f59ddc9a862f4678159cb5adbc94d1880ef8c26f910f22c3f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,9 +74,38 @@ subjects:
 - Troca Intracomunitária
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19960401 - ALTERADAS AS AL A) E C) DO NUM 6 DO ART 5 DO REGULAMENTO APROVADO PELO PRESENTE DIPLOMA, PELA PORT 100/96\
+    \ DE 01-ABR DR.IS-B [78]\0IS-B [78]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:601368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546861:por
+  label: "Alteradas as alíneas a) e c) n.º 6 do artigo 5.º do Regulamento dos Controlos Veterinários Aplicáveis ao Comércio\
+    \ Intracomunitário de Produtos de Origem Animal, pela PORT.100/96.01.04.1996.MECO, DR.IS-B [78] de 01.04.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1996-546861
+  date: '1996-04-01'
+- type: amended_by
+  target: pt:dre:332761:por
+  label: "Alterado o art.5º do presente diploma,pela PORT.526/2001.2001.05.25.MECO,DR.IS-B (121)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-2001-332761
+  date: '2001-05-25'
+- type: amended_by
+  target: pt:dre:183839:por
+  label: "Alterada a redacção do art. 5.º do presente diploma, na redacção do Dec Lei 526/2001, de 25-Mai, pela PORT.1011/2002.2002.08.09.MECO\
+    \ DR.IS-B [183]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1011-2002-183839
+  date: '2002-08-09'
+- type: amended_by
+  target: pt:dre:346359:por
+  label: "Dada nova redacção ao anexo I do Regulamento dos Contratos Veterinários Aplicáveis ao Comércio Intracomunitário\
+    \ de Produtos de Origem Animal, aprovado pelo presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112]\
+    \ de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 - type: cites
   target: celex:31989L0437
   label: null
@@ -121,16 +150,21 @@ relationships:
   target: celex:31992L0067
   label: null
   source: http://data.europa.eu/eli/dir/1992/67/oj
+- type: repealed_by
+  target: pt:dre:601368:por
+  label: "Revogada pelo DEC LEI.37/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2009-601368
+  date: '2009-02-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:20Z'
   warnings: []
   errors: []
 ---
@@ -149,19 +183,19 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, que se
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 10 de Maio de 1993.**
+Assinada em 10 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
 
-## Anexo a que se refere a Portaria n.º 576/93
+Anexo a que se refere a Portaria n.º 576/93
 
 Regulamento dos Controlos Veterinários Aplicáveis ao Comércio Intracomunitário de Produtos de Origem Animal
 
 #### SECÇÃO I — Disposições iniciais
 
-###### Artigo 1.º Os controlos veterinários dos produtos de origem animal abrangidos pela legislação enumerada no anexo I, ou pelo anexo II, destinados ao comércio deixam de ser efectuados, sem prejuízo do disposto no artigo 6.º, nas fronteiras e passam a sê-lo nos termos do disposto no presente Regulamento.
+Artigo 1.º Os controlos veterinários dos produtos de origem animal abrangidos pela legislação enumerada no anexo I, ou pelo anexo II, destinados ao comércio deixam de ser efectuados, sem prejuízo do disposto no artigo 6.º, nas fronteiras e passam a sê-lo nos termos do disposto no presente Regulamento.
 
-###### Art. 2.º Para efeitos do presente Regulamento, entende-se por:
+Art. 2.º Para efeitos do presente Regulamento, entende-se por:
 
 a) Controlo veterinário: qualquer controlo físico ou formalidade administrativa relativos aos produtos referidos no artigo 1.º e que vise, directa ou indirectamente, assegurar a protecção da saúde pública ou animal;
 
@@ -175,7 +209,7 @@ e) Veterinário oficial: o veterinário designado pela autoridade competente.
 
 #### SECÇÃO II — Controlos na origem
 
-###### Art. 3.º - 1 - Só podem ser comercializados os produtos referidos no artigo 1.º que tenham sido obtidos, controlados, marcados e rotulados em conformidade com a regulamentação comunitária e que sejam acompanhados, até ao destinatário neles mencionado, do certificado sanitário, do certificado de salubridade ou de quaisquer outros documentos previstos na referida regulamentação.
+Art. 3.º - 1 - Só podem ser comercializados os produtos referidos no artigo 1.º que tenham sido obtidos, controlados, marcados e rotulados em conformidade com a regulamentação comunitária e que sejam acompanhados, até ao destinatário neles mencionado, do certificado sanitário, do certificado de salubridade ou de quaisquer outros documentos previstos na referida regulamentação.
 
 2 - Os estabelecimentos de origem assegurarão, através de um autocontrolo permanente, que os referidos produtos satisfaçam os requisitos do número anterior.
 
@@ -193,7 +227,7 @@ e) Veterinário oficial: o veterinário designado pela autoridade competente.
 
 9 - É proibida a reexpedição a partir do território nacional dos produtos a que se refere o n.º 7, excepto quando essa reexpedição se destine a um Estado membro que utilize a mesma faculdade.
 
-###### Art. 4.º Os requisitos veterinários deverão ser respeitados pelos operadores em todas as fases de produção, armazenamento, comercialização e transporte dos produtos referidos no artigo 1.º, devendo aqueles assegurar, em especial, que:
+Art. 4.º Os requisitos veterinários deverão ser respeitados pelos operadores em todas as fases de produção, armazenamento, comercialização e transporte dos produtos referidos no artigo 1.º, devendo aqueles assegurar, em especial, que:
 
 a) Os produtos obtidos nos termos da legislação referida no anexo I foram controlados do mesmo modo, do ponto de vista veterinário, quer se destinem ao comércio intracomunitário, quer ao mercado nacional;
 
@@ -201,7 +235,7 @@ b) Os produtos abrangidos pelo anexo II não são expedidos para o território d
 
 #### SECÇÃO III — Controlos no destino
 
-###### Art. 5.º - 1 - A autoridade competente pode proceder à verificação da mercadoria nos locais de destino, através de controlos veterinários por sondagem e de carácter não discriminatório, do cumprimento dos requisitos previstos no artigo 3.º, podendo, nessa altura, proceder à recolha de amostras.
+Art. 5.º - 1 - A autoridade competente pode proceder à verificação da mercadoria nos locais de destino, através de controlos veterinários por sondagem e de carácter não discriminatório, do cumprimento dos requisitos previstos no artigo 3.º, podendo, nessa altura, proceder à recolha de amostras.
 
 2 - Podem também ser efectuados controlos durante o transporte de mercadorias no território nacional, incluindo o controlo de conformidade dos meios de transporte, caso a autoridade competente disponha de elementos de informação que lhe permitam suspeitar a existência de uma infracção.
 
@@ -229,7 +263,7 @@ d) Devem conservar, durante pelo menos seis meses, os certificados sanitários o
 
 7 - As regras de execução do presente artigo serão adoptadas em conformidade com a regulamentação comunitária.
 
-###### Art. 6.º - 1 - Por ocasião dos controlos efectuados nos locais de entrada no território da Comunidade dos produtos provenientes de países terceiros, tais como portos, aeroportos e postos de fronteira com países terceiros, serão tomadas as seguintes medidas:
+Art. 6.º - 1 - Por ocasião dos controlos efectuados nos locais de entrada no território da Comunidade dos produtos provenientes de países terceiros, tais como portos, aeroportos e postos de fronteira com países terceiros, serão tomadas as seguintes medidas:
 
 a) Verificação documental da origem dos produtos;
 
@@ -247,7 +281,7 @@ e) Sujeição às regras de controlo previstas no artigo 5.º dos produtos de or
 
 2 - Em derrogação do disposto no número anterior, todos os produtos transportados por meios que assegurem ligações regulares directas entre dois pontos geográficos da Comunidade ficarão sujeitos às regras de controlo previstas no artigo 5.º
 
-###### Art. 7.º - 1 - Se, num controlo efectuado no local de recepção da remessa ou durante o transporte, a autoridade competente verificar a presença de agentes responsáveis por uma doença referida na Portaria n.º 768/91, de 6 de Agosto, por uma zoonose ou outra doença, ou outros factores que possam constituir um perigo grave para o homem ou para os animais, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, a autoridade competente ordenará, excepto nos aspectos de polícia sanitária e tratando-se de produtos à base de carne preparados, no todo ou em parte, com carne fresca na acepção do n.º 3.º da Portaria n.º 817/90, de 11 de Setembro, a destruição do lote ou qualquer outra utilização prevista pela regulamentação comunitária.
+Art. 7.º - 1 - Se, num controlo efectuado no local de recepção da remessa ou durante o transporte, a autoridade competente verificar a presença de agentes responsáveis por uma doença referida na Portaria n.º 768/91, de 6 de Agosto, por uma zoonose ou outra doença, ou outros factores que possam constituir um perigo grave para o homem ou para os animais, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, a autoridade competente ordenará, excepto nos aspectos de polícia sanitária e tratando-se de produtos à base de carne preparados, no todo ou em parte, com carne fresca na acepção do n.º 3.º da Portaria n.º 817/90, de 11 de Setembro, a destruição do lote ou qualquer outra utilização prevista pela regulamentação comunitária.
 
 2 - As despesas decorrentes da destruição do lote ficarão a cargo do expedidor ou do seu mandatário.
 
@@ -265,7 +299,7 @@ b) A sua utilização para outros fins, incluindo a sua reexpedição, com autor
 
 7 - As regras de execução do presente artigo, bem como a lista das doenças referidas no n.º 1, serão adaptadas em conformidade com o processo comunitariamente previsto.
 
-###### Art. 8.º - 1 - Nos casos previstos no artigo anterior, a autoridade competente entrará imediatamente em contacto com as autoridades competentes do Estado membro de expedição, a fim de estas tomarem todas as medidas necessárias e comunicarem à autoridade competente a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
+Art. 8.º - 1 - Nos casos previstos no artigo anterior, a autoridade competente entrará imediatamente em contacto com as autoridades competentes do Estado membro de expedição, a fim de estas tomarem todas as medidas necessárias e comunicarem à autoridade competente a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
 
 2 - Caso preveja que as medidas tomadas pelo Estado membro expedidor não sejam suficientes, a autoridade competente procurará, com a autoridade competente daquele Estado, as formas e os meios de solucionar a situação, se necessário por meio de uma visita ao local.
 
@@ -297,7 +331,7 @@ c) Solicitar à autoridade competente do Estado membro de expedição que intens
 
 #### SECÇÃO IV — Disposições comuns
 
-###### Art. 9.º - 1 - A autoridade competente comunicará imediatamente aos Estados membros e à Comissão, para além do aparecimento no território nacional das doenças previstas na Portaria n.º 768/91, de 6 de Agosto, o aparecimento de zoonoses, doenças ou outro factor que possa constituir um perigo grave para a saúde humana ou para os animais.
+Art. 9.º - 1 - A autoridade competente comunicará imediatamente aos Estados membros e à Comissão, para além do aparecimento no território nacional das doenças previstas na Portaria n.º 768/91, de 6 de Agosto, o aparecimento de zoonoses, doenças ou outro factor que possa constituir um perigo grave para a saúde humana ou para os animais.
 
 2 - Tratando-se de produtos destinados ao território nacional, a autoridade competente aplicará imediatamente as medidas de luta ou de prevenção previstas pela regulamentação comunitária ou pela legislação nacional e, nomeadamente, determinará as zonas de protecção nelas previstas ou decidirá qualquer outra medida que considere apropriada.
 
@@ -307,9 +341,9 @@ c) Solicitar à autoridade competente do Estado membro de expedição que intens
 
 5 - As regras de execução do disposto no presente artigo e, nomeadamente, a lista das zoonoses ou outros factores susceptíveis de constituir um perigo grave para a saúde humana serão adoptadas nos termos dos procedimentos comunitariamente previstos.
 
-###### Art. 10.º A autoridade competente designará o ou os serviços competentes que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados membros.
+Art. 10.º A autoridade competente designará o ou os serviços competentes que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados membros.
 
-###### Art. 11.º - 1 - Compete à autoridade competente, sem prejuízo das competências atribuídas por lei a outras entidades através dos agentes dos serviços veterinários, se necessário em colaboração com os agentes dos outros serviços, designadamente:
+Art. 11.º - 1 - Compete à autoridade competente, sem prejuízo das competências atribuídas por lei a outras entidades através dos agentes dos serviços veterinários, se necessário em colaboração com os agentes dos outros serviços, designadamente:
 
 a) Inspeccionar os locais, escritórios, laboratórios, instalações, meios de transporte, equipamentos e materiais, os produtos de limpeza e manutenção e os processos utilizados para a produção ou o tratamento dos produtos, assim como a marcação, a rotulagem e a apresentação desses produtos;
 
@@ -321,7 +355,7 @@ d) Analisar o material documental ou informático útil aos controlos resultante
 
 2 - Os estabelecimentos controlados deverão prestar toda a colaboração necessária à execução das tarefas referidas no número anterior.
 
-###### Art. 12.º O disposto neste Regulamento aplica-se aos produtos referidos no anexo II até à entrada em vigor de regulamentação comunitária especial.
+Art. 12.º O disposto neste Regulamento aplica-se aos produtos referidos no anexo II até à entrada em vigor de regulamentação comunitária especial.
 
 ## ANEXO I
 

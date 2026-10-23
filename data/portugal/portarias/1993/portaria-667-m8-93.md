@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(164) a 3838-(164)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/01640164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-m8/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-m8-1993-402142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:04:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 608ec97c5dc2cbe75119ec20224e7c2ca27acd1632e83acd4ebbd875ef8019e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd1a83719b49e6557ecd184972fcaf8def753fb022332ee67794e11c6a3e9e2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:04:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-f3/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-f3/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 120/94, DE 24 DE FEVEREIRO, PUBLICADA NO DR.IS-B, 46.\0 46."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:04:17Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/01640164.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/01640164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01640164.pdf)

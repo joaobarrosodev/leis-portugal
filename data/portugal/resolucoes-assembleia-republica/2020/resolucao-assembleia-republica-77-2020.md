@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/77/2020/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/77-2020-144454619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52c2e77611ff5ba9374b4f52cde89f1edd57be0732e0cecf70cc35f859264cce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b168f94ec4911726981c726dd9d8114f3c2f38cb70e72fcbe32199dd613e7d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Estado de Emergência
 - Política de Defesa
-- Assembleia da República
 - Relatório
 relationships:
 - type: cites
@@ -122,13 +122,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:34Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +219,7 @@ v) Prorrogação da reposição, a título excecional e temporário, do controlo
 
 Aprovada em 23 de julho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 Estrutura de Monitorização do Estado de Emergência
 
@@ -237,7 +237,7 @@ Ao abrigo do disposto na alínea b) do artigo 30.º do Decreto n.º [2-B/2020](h
 
 27 de abril de 2020.
 
-**O Ministro da Administração Interna,**
+O Ministro da Administração Interna,
 
 Eduardo Arménio do Nascimento Cabrita
 
@@ -371,7 +371,7 @@ O Governo adotou as medidas que se mostraram imprescindíveis para a defesa da s
 
 Os primeiros casos confirmados de infeção por SARS-CoV-2 foram identificados a 2 de março. A evolução do surto de SARS-CoV-2 em Portugal caracterizou-se por um aumento muito rápido do número casos nos primeiros dias de março (FIG.1). De facto, o número acumulado de casos confirmados ascendia a 642 no dia 17 de março, tendo atingido os 19.685 casos no dia 17 de abril. Entre 17 de março e 17 de abril, foram notificados, em média, 600 novos casos por dia. Os atrasos de notificação provocaram alguns picos no número de casos reportados (30 de março e 9 de abril, por exemplo). Porém, a curva epidémica apresentava, a 17 de abril, um elevado número de novos casos com data de início de sintomas entre os últimos dias de março e o início de abril, o que, considerando o período de incubação da doença, pode indiciar contágios ocorridos em meados de março, antes da declaração do Estado de Emergência (FIG. 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 O número básico de reprodução (R0) é um indicador da transmissibilidade da infeção e corresponde ao número médio de casos secundários a que cada caso dá origem. Deve ser calculado na fase inicial da epidemia, ainda sem todas as medidas de contenção implementadas. Neste caso, o R0 foi calculado com base na curva epidémica até ao dia 16 de março e a estimativa obtida foi de 2,08 (IC95%: 1,97-2,19).
 
@@ -379,7 +379,7 @@ O número médio de casos secundários resultantes de um caso infetado, medido e
 
 A média do R(t) para o período entre 12 e 16 de abril foi de 0,98, significando que, neste período, um caso infetado originou em média menos de 1 caso secundário, o que indica uma redução expressiva da transmissão da infeção desde a implementação das medidas de contenção em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 De 1 de janeiro a 17 de abril foram notificados 162.711 casos suspeitos de infeção por SARS-CoV-2, dos quais 19.685 foram confirmados laboratorialmente, enquanto 5.166 casos aguardavam resultado laboratorial. Um total de 25.466 pessoas (que tinham contactado com casos confirmados) encontravam-se em vigilância ativa pelas autoridades de saúde. Assim, os resultados laboratoriais permitiram excluir infeção por SARS-CoV-2 em 137.860 do total de casos suspeitos notificados.
 
@@ -391,7 +391,7 @@ Até 17 de abril, 8.030 casos (40,8%) eram homens e 11.650 casos (59,2%) eram mu
 
 Do total de 19.685 casos, havia 610 casos (3,1%) recuperados e 687 óbitos (taxa de letalidade de 3,5%). A maioria dos óbitos (86,8%) tinha idade igual ou superior a 70 anos (taxa de letalidade em pessoas com 70 ou mais anos de 12,5%). A maioria dos óbitos ocorreram em indivíduos do sexo masculino (50,7%). Estavam internados 1.253 casos (6,4%), dos quais 228 estavam em Unidades de Cuidados Intensivos. Isso significa que 17.135 casos (87,0%) correspondiam a doença ligeira e recuperavam em casa. Existiam, a 17 de abril, 17.135 casos ativos de doença em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Relativamente à região de residência/notificação dos casos* (FIG. 5):
 
@@ -425,7 +425,7 @@ Quanto à região de ocorrência dos óbitos (FIG. 5):
 
 .As regiões do Alentejo e da Madeira não registavam, à data de 17 de abril, qualquer óbito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 2.2. Capacidade de resposta do Serviço Nacional de Saúde (SNS)
 
@@ -451,7 +451,7 @@ Do total de testes, 79.681 (35,6%) foram realizados entre os dias 1 e 31 de mar�
 
 No que tange aos EPI, entre o dia 3 de abril (tabela I) e 17 de abril (tabela II), foram realizadas diversas aquisições e efetuadas diversas entregas, de acordo com as tabelas que ora se apresentam e que patenteiam o reforço do material de proteção individual, determinante não só no tratamento da doença, mas também na sua contenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 2.2.2. Profissionais de Saúde
 
@@ -1105,11 +1105,11 @@ A EMEE efetuou a análise da execução da declaração do estado de emergência
 
 ANEXOS
 
-## ANEXO I - Relatórios setoriais
+ANEXO I - Relatórios setoriais
 
 a. Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Relatório do Estado de Emergência de 3 de abril a 17 de abril
 
@@ -1155,9 +1155,9 @@ Para além das anteriormente mencionadas, foram ainda realizadas muitas outras a
 
 a. Ações de transporte, escoltas e desembaraçamento de trânsito para garantir a segurança e o fluxo de cidadãos e de material sanitário e crítico até ao local de destino, designadamente:
 
-1) Escoltas a viaturas de transporte de material crítico entre o aeroporto Humberto Delgado e a plataforma logística da empresa "Rangel", da empresa "Raclac S.A." e de várias cidades do continente; e de mercadorias de material hospitalar, entre Trofa e Santa Maria da Feira;
+1) Escoltas a viaturas de transporte de material crítico entre o aeroporto Humberto Delgado e a plataforma logística da empresa "Rangel", da empresa "Raclac S.A." e de várias cidades do continente; e de mercadorias de material hospitalar, entre Trofa e Santa Maria da Feira;
 
-2) O transporte de amostras biológicas (ex. Zaragatoas de testes COVID-19) do Hospital Dr. José Maria Grande para o Instituto Ricardo Jorge e da Unidade de Cuidados Paliativos de média duração do Hospital de Peso da Régua para a clínica Avelab;
+2) O transporte de amostras biológicas (ex. Zaragatoas de testes COVID-19) do Hospital Dr. José Maria Grande para o Instituto Ricardo Jorge e da Unidade de Cuidados Paliativos de média duração do Hospital de Peso da Régua para a clínica Avelab;
 
 3) Não menos relevante, será de evidenciar a continuidade das operações de âmbito nacional associadas ao "Transporte de Órgãos" por parte da Unidade Nacional de Trânsito, que no corrente ano já totalizam 67 transportes, de e para diversas unidades hospitalares, empenhando para o efeito 134 militares e percorridos 17.131 Km.
 
@@ -1165,7 +1165,7 @@ b) Apoio na componente de solidariedade social, atividades que traduzem a elevad
 
 1) O acompanhamento diário das realidades vivenciadas em lares e em casas de repouso, apoiando nos processos de transferência de utentes e na sua acomodação. São exemplo disso a movimentação de utentes do Lar da Santa Casa da Misericórdia, de Torre de Moncorvo para o Hospital de Mirandela; do Centro Social e Paroquial de S. Vicente para uma unidade indicada pela Câmara Municipal de Cascais; do Centro de Assistência Paroquial de Pedrógão para os Hospitais de Abrantes e de Torres Novas e para o Palácio dos Desportos, e posterior realojamento no Centro; a separação de infetados dos não infetados no Lar de São José de Santiago de Cassurrães; a disponibilidade de espaço no Centro de Formação de Portalegre para apoio a idosos; a cedência e apoio na montagem de 30 camas e 30 colchões para promover comodidades ao alojamento de 27 idosos evacuados de lar em Montes Altos;
 
-2) O apoio a autoridades locais de saúde em operações de isolamento de edifícios com trabalhadores agrícolas, sendo de realçar o acompanhamentos efetuados ao Delegado de Saúde a uma residência em Albufeira com 16 indianos e 1 bengalês; a uma residência em Armação de Pera onde residiam 7 indianos; e em colaboração com o Instituto Nacional de Emergência Médica (INEM), na colheita de amostras biológicas a 46 indivíduos, na área do CTer Santarém, alguns referenciados por consumo de estupefacientes;
+2) O apoio a autoridades locais de saúde em operações de isolamento de edifícios com trabalhadores agrícolas, sendo de realçar o acompanhamentos efetuados ao Delegado de Saúde a uma residência em Albufeira com 16 indianos e 1 bengalês; a uma residência em Armação de Pera onde residiam 7 indianos; e em colaboração com o Instituto Nacional de Emergência Médica (INEM), na colheita de amostras biológicas a 46 indivíduos, na área do CTer Santarém, alguns referenciados por consumo de estupefacientes;
 
 3) O apoio e colaboração com a autarquia da Figueira da Foz, onde foi edificado um espaço de apoio ao cidadão no Centro de Formação da GNR naquela cidade, tendo sido promovido, até à data, o atendimento a 217 cidadãos.
 
@@ -1185,7 +1185,7 @@ c. Análise criminal¸ com especial acuidade:
 
 1) Os fenómenos capacitadores de linhas de vulnerabilidades decorrentes dos desequilíbrios sociais e económicos que conjugadas com movimentos oportunistas foram indutores de um aumento de burlas, furtos e roubos, tendo motivado a campanha "SMS Teste Covid-19" (ver figura 1);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 2) As situações de violência doméstica que, decorrente de um contexto contínuo de maior proximidade entre vítima e agressor, exigiu medidas especiais para os casos já sinalizados e para os restantes que apresentassem padrões erráticos de comportamento;
 
@@ -1205,7 +1205,7 @@ Neste período continuaram as ações reiteradas de sensibilização pedagógica
 
 Saliente-se a preocupação social e a interação regular com os mais vulneráveis e fragilizados, materializado no distintivo "Projeto 65 - Longe + Perto" (3), promovendo o estabelecimento de uma rede de contacto e de apoio aos mais idosos e aos militares da GNR já reformados, reforçando a ligação intergeracional, a coesão institucional e o suporte mútuo entre todos, numa iniciativa proactiva e inovadora (ver figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 O apoio e proximidade aos portugueses foi também potenciado pela criação da linha covid19@gnr.pt (4) (ver figura 3), promovendo o esclarecimento e a resposta às suas ansiedades e questões mais prementes, tendo sido registadas 1.175 interações com os cidadãos.
 
@@ -1213,19 +1213,19 @@ O apoio e proximidade aos portugueses foi também potenciado pela criação da l
 
 (4) Cfr. https://www.gnr.pt/atendimentoaocidadao.aspx.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Todas estas ações foram devidamente ampliadas pelo desenvolvimento da dimensão de comunicação estratégica, com uma intensa campanha de sensibilização e de aconselhamento com recurso às plataformas digitais e redes sociais, concretizando-se em 121 publicações, com 4.239.723 interações.
 
 De sublinhar o excelente feedback aos passatempos de "treino em casa" e de "colorir" (figura 4) cuja adesão ficou bem patente no envio à GNR de desenhos pintados por crianças e sua posterior publicação de agradecimento; e, a transmissão em direto da Eucaristia do Domingo de Páscoa e da partilha da marcha Pela Lei e pela Grei interpretada pela Banda Sinfónica da Guarda, ambos na página institucional do Facebook.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 De destacar também a muito profícua relação com os órgãos de comunicação social (OCS), de âmbito nacional, regional e local, tendo sido realizadas inúmeras reportagens: 413 em televisão; 91 em rádio; 10 em estúdio; 7 via Skype; e 388 em imprensa escrita (ver gráfico 1). Em todas elas, foi feito um apelo à consciência cívica e ao espírito de cidadania dos portugueses, mensagem que acreditamos ter contribuído para o elevado nível de acatamento (5) verificado.
 
 (5) Cfr. Tabela 4 do Anexo A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 4. Cooperação com outras FSS e Organismos Públicos
 
@@ -1233,7 +1233,7 @@ A cooperação com terceiros continuou a pautar-se pela eficácia das sinergias 
 
 São exemplos a reter, o profícuo relacionamento e articulação com a PSP com a realização de operações de fiscalização e de três conferências de imprensa conjuntas, a 03, 08 e 14 de abril de 2020 (figura 5); a homenagem conjunta das duas Forças de Segurança aos profissionais de saúde em 17 de abril de 2020; a partilha com o SEF da relação de detidos por violação do art.º 6.º do Decreto n.º 2-B; e a entrega pela ANEPC de 118.000 máscaras e 160.000 luvas ao efetivo da GNR, em 05 de abril de 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Como oportunidade de melhoria no âmbito do relacionamento operacional, importa continuar a reforçar a eficácia do mecanismo de ligação e de comunicação com a Autoridade de Saúde Nacional e com os Agrupamentos dos Centros de Saúde (e.g. listas de confinamento obrigatório), bem como com a PGR e com os Tribunais de Execução das Penas (e.g. relação de reclusos sob o enquadramento da Lei de perdão de penas, indultos e liberdade condicional) por forma a assegurar uma resposta operacional mais eficaz por parte da GNR, com prioridade para o interesse dos cidadãos e a salvaguarda do bem-comum.
 
@@ -1243,7 +1243,7 @@ Na Região Autónoma dos Açores sublinha-se as ações de patrulhamento de prox
 
 No âmbito da cooperação internacional, foi dada continuidade à estreita ligação com a Guardia Civil (GC), nomeadamente através da troca de informação necessária à articulação de procedimentos e à manutenção de um elevado grau de prontidão e de resposta operacional, com especial relevo na fronteira comum (figura 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 5. Outros elementos relevantes
 
@@ -1293,29 +1293,29 @@ B - Operação COVID 19 Recolhimento Geral
 
 C - Operação COVID 19 Páscoa em Casa | Resultados Operacionais
 
-## Anexo A - Resultados Operacionais Globais
+Anexo A - Resultados Operacionais Globais
 
 1. Numa situação de exceção, a GNR enquanto Força de Segurança Humana, Próxima e de Confiança, reforçou a sua relação com a Nação portuguesa e os portugueses através da interação consciente entre Guarda e Cidadão: 41.574 militares realizaram um total de 26.817 ações de sensibilização, percorreram 1.481.218 Km, e fiscalizaram 168.880 pessoas e 131.666 viaturas.
 
-2. O patrulhamento de proximidade foi um elemento crucial que permitiu manter o vigor na prevenção, na consciencialização e na repressão de comportamentos de risco pela população, com particular cuidado com a comunidade sénior e mais fragilizada no interior do País. Ao todo realizaram-se 17.895 patrulhas auto, 759 patrulhas apeadas, 58 com trinómios, 226 patrulhas a cavalo, 26 patrulhas em meio fluvial e 69 patrulhas em meio marítimo, como ilustra a tabela 1.
+2. O patrulhamento de proximidade foi um elemento crucial que permitiu manter o vigor na prevenção, na consciencialização e na repressão de comportamentos de risco pela população, com particular cuidado com a comunidade sénior e mais fragilizada no interior do País. Ao todo realizaram-se 17.895 patrulhas auto, 759 patrulhas apeadas, 58 com trinómios, 226 patrulhas a cavalo, 26 patrulhas em meio fluvial e 69 patrulhas em meio marítimo, como ilustra a tabela 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 3. De realçar que no cumprimento do patrulhamento de proximidade foram empenhadas 18.294 viaturas que percorreram 1.469.131 km, e 95 embarcações que percorreram 2.065 milhas náuticas, de acordo com os dados da tabela 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 4. Nas ações de vigilância e controlo foram fiscalizados 168.880 cidadãos, 131.666 viaturas, 172 comboios e 51 embarcações como ilustra a tabela 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 5. A generalidade da população acatou as restrições legais e as orientações da GNR e procurou compreender as medidas, podendo considerar-se que o Grau de Acatamento foi bastante satisfatório, como pode verificar-se pelos dados constantes da tabela 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 6. Decorrente de situações de incumprimento ao disposto no art.º 43.º, do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, foram detidos 62 cidadãos, bem como mais 4 cidadãos pelo crime de resistência e coação sobre militares da GNR durante a sua atuação durante o EE, conforme se apresenta na tabela 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 7. Para além das detenções referidas na tabela 5, decorrente da fiscalização do disposto no art.º 43.º, foram realizadas 26.817 ações de sensibilização e fiscalização e encerrados 264 estabelecimentos/instalações na zona de ação da GNR.
 
@@ -1331,29 +1331,29 @@ C - Operação COVID 19 Páscoa em Casa | Resultados Operacionais
 
 9. Conforme referido no ponto dedicado à sensibilização, a GNR implementou o Projeto 65 - Longe + Perto, no qual estabeleceu contacto presencial e telefónico com idosos e com militares da GNR na situação de reforma, tendo sensibilizado e sinalizado 22.354 idosos, cujos resultados se apresentam na tabela 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 10. No período de 03 de abril a 17 de abril, foram empenhados 35 militares da UEPS nas linhas de descontaminação instaladas em Queluz e Vila nova de Gaia, tendo prestado apoio na descontaminação de 933 viaturas (ver tabela 7 e figura 7), nomeadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 11. No mesmo período, a UEPS prestou apoio na descontaminação de instalações de várias entidades, nomeadamente em lares, creches, centros de dia, instituições de apoio social, estabelecimentos hospitalares (ver figura 8), hotéis e em instalações da GNR, através de equipas móveis que se deslocaram a nível nacional em resposta às solicitações, conforme se apresenta na tabela 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 12. Nas ações de vigilância remota em apoio às Unidades Territoriais de Aveiro, Bragança, Castelo Branco, Faro, Guarda, Portalegre e Vila Real, a UEPS operou drones por 29 vezes, tendo realizado um total de 113 voos, que se traduziram em 2.383 minutos de voo, conforme consta na tabela 9. Destaca-se a importância deste recurso no acompanhamento e direcionamento das operações em que se encontra a ser utilizado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 13. Por fim, no que respeita à situação do efetivo empenhado ao longo do período em apreço e à situação epidemiológica na GNR ao dia 17 de abril de 2020, apresentam-se os dados referentes à tabela 10, gráfico 2 associado e tabela 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
-## Anexo B - Operação COVID 19 - Recolhimento Geral
+Anexo B - Operação COVID 19 - Recolhimento Geral
 
 No âmbito desta operação destacam-se as seguintes medidas:
 
-1. Na sequência do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, a GNR planeou e implementou a Operação COVID-19 Recolhimento Geral, de 03 a 08 de abril 2020, com os seguintes objetivos:
+1. Na sequência do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, a GNR planeou e implementou a Operação COVID-19 Recolhimento Geral, de 03 a 08 de abril 2020, com os seguintes objetivos:
 
 a. A elevação do grau de prontidão e de resposta operacional para dissuadir comportamentos de risco, intensificando o patrulhamento de proximidade rodoviário, executando operações estáticas de segurança e de fiscalização sistemáticas orientadas para as vias e locais mais críticos que garantissem a interdição e ou a limitação de circulação de pessoas e bens, bem como o acesso a locais, áreas ou instalações, e que permitissem controlar o movimento populacional, especialmente, do Litoral para o Interior e em direção ao Algarve;
 
@@ -1365,21 +1365,21 @@ c. A dissuasão e repressão de comportamentos de risco com a observância perma
 
 a. Ações de vigilância, de fiscalização e de sensibilização nos principais eixos rodoviários como as Autoestradas (AE) n.os 1, 2, 4, 6, 7, 11, 14, 17, 24, 25, 28 e 29; os Itinerários Principais (IP) n.os 3; os Itinerários Complementares (IC) n.os 1, 5, 10, 27 e 28 e as Estradas Nacionais (EN) n.os 2, 4, 10, 16, 18,109 e 125; (figura 9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 b. Ações de fiscalização nos principais eixos rodoviários de acesso a locais nacionais de culto religioso cristão durante o Domingo de Ramos, a 05 de abril de 2020, como as AE n.os 1, 2, 4, 23, 28 e 29; IC n.os 1 e 2 e EN n. os 2, 8 e 125;
 
-c. Complementarmente, foram intensificadas ações de sensibilização pedagógica junto da comunidade cristã nas zonas circundantes e próximas do Santuário de Nossa Senhora do Sameiro, em Braga; do Santuário de S. Bento da Porta Aberta, em Terras de Bouro; e do Santuário de Nossa Senhora do Rosário de Fátima, em Fátima, onde foram usados drones (figura 10) recurso que se revelou uma significativa mais-valia na transmissão de mensagens à população e de apoio às operações no terreno;
+c. Complementarmente, foram intensificadas ações de sensibilização pedagógica junto da comunidade cristã nas zonas circundantes e próximas do Santuário de Nossa Senhora do Sameiro, em Braga; do Santuário de S. Bento da Porta Aberta, em Terras de Bouro; e do Santuário de Nossa Senhora do Rosário de Fátima, em Fátima, onde foram usados drones (figura 10) recurso que se revelou uma significativa mais-valia na transmissão de mensagens à população e de apoio às operações no terreno;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 d. Intensificação do patrulhamento de proximidade, através do acompanhamento contínuo das realidades vivenciadas em lares e casas de repouso, nomeadamente no que diz respeito ao auxílio nos processos de transferência de utentes e sua acomodação posterior, em virtude do aumento do número de contágios, bem como o apoio no âmbito da proteção civil, através de ações de descontaminação, ao longo de todo o território nacional, essenciais para o restabelecimento da normalidade passível de ser salvaguardada.
 
-## Anexo C - Operação COVID 19 - Páscoa em Casa
+Anexo C - Operação COVID 19 - Páscoa em Casa
 
 |Resultados Operacionais|
 
-1. Face às celebrações pascais e em alinhamento com o Decreto [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, que previa o reforço das medidas restritivas à circulação, em que, salvo casos específicos, estaria vedada a circulação de cidadãos para fora do concelho da sua residência, a GNR realizou a Operação COVID-19 Páscoa em Casa, de 09 a 13 de abril de 2020, cujos objetivos foram os seguintes:
+1. Face às celebrações pascais e em alinhamento com o Decreto [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, que previa o reforço das medidas restritivas à circulação, em que, salvo casos específicos, estaria vedada a circulação de cidadãos para fora do concelho da sua residência, a GNR realizou a Operação COVID-19 Páscoa em Casa, de 09 a 13 de abril de 2020, cujos objetivos foram os seguintes:
 
 a. Atuar de forma preventiva e aumentar a visibilidade nos locais considerados críticos, tendo especial atenção aos movimentos do litoral para o interior e do Norte para o Sul, nomeadamente, a região do Algarve;
 
@@ -1401,7 +1401,7 @@ d. Operações de vigilância na orla costeira, através do Sistema Integrado de
 
 e. Ações de sensibilização sobre as metodologias de proteção contra a Pandemia junto da população idosa e mais vulnerável, sinalizada através da Operação "Censos Sénior", e junto dos militares reformados da GNR (figura 11). Em simultâneo, esteve permanentemente disponível uma psicóloga do Centro Clínico (CC) para melhor orientar a ação no terreno dos militares dos programas de prevenção criminal e policiamento comunitário;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 f. Ações conjuntas e de coordenação com a PSP, sobretudo perante situações de confinamento obrigatório e de propagação do vírus, designadamente num acampamento de etnia cigana, em Moura, bem como, a partilha da relação de detidos por violação do art.º 6.º do [Decreto n.º 2-B,](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1) de 02 de abril;
 
@@ -1411,27 +1411,27 @@ h. Estabelecimento de uma lista de incumpridores do preconizado no art.º 6º do
 
 3. Atento o Art.º 6.º do Decreto [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 abril, foram impostas restrições específicas de circulação na via pública (ver figura 12), nomeadamente a proibição de circulação fora do Concelho da área de residência, ressalvadas as devidas exceções, no período de 09 a 13 de abril de 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 4. A Operação COVID-19 Páscoa em Casa consistiu numa ação coordenada de patrulhamento, fiscalização e sensibilização, com o empenhamento de 14.041 militares, que realizaram 9.565 ações de sensibilização, tendo sido realizadas 5.792 patrulhas auto, 262 patrulhas apeadas, 29 com trinómios, 33 patrulhas a cavalo, 6 patrulhas em meio fluvial e 31 patrulhas em meio marítimo, como ilustra a tabela 12.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 5. Foram empenhadas 6.311 viaturas que percorreram 460.747 km e 39 embarcações que percorreram 990 milhas náuticas, bem como meios apeados e a cavalo, de acordo com os dados da tabela 13.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 6. Nas ações de vigilância e controlo foram fiscalizados 74.314 cidadãos, 60.450 viaturas, 45 comboios e 22 embarcações como ilustra a tabela 14.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 7. A generalidade da população acatou as restrições legais e as orientações da GNR e procurou compreender as medidas, podendo considerar-se que o Grau de Acatamento foi bastante satisfatório, conforme os registos da tabela 15. Considerando o constante no art.º 6 do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, que impôs a limitação à circulação fora do Concelho da área de residência no período de 09 a 13 de abril de 2020, observaram-se incumprimentos cuja incisiva ação espelhou-se em 4.515 notificações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 8. Decorrente de situações de incumprimento ao disposto no art.º 43.º, do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), de 02 de abril, no total, por crime de desobediência, foram detidos: 21 cidadãos, conforme é apresentado na tabela 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 9. No âmbito das ações de fiscalização das restrições impostas ao funcionamento de estabelecimentos comerciais e instalações conforme o disposto no art.º 43.º, do Decreto n.º [2-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068124/details/normal?l=1), no período de 09 a 13 de abril de 2020 foram encerrados 118 estabelecimentos/instalações na zona de ação da GNR.
 
@@ -1459,7 +1459,7 @@ A poente é limitado pelo Oceano Atlântico, a nascente pelos concelhos de Santa
 
 Localiza-se a norte da sede do distrito (Aveiro), a uma distância de cerca de 40 km e dista a 40 km do Porto, a 88 km de Coimbra e a 282 km de Lisboa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 A zona de intervenção da Guarda naquele território abrange uma população de 37. 267 habitantes, na ordem dos 67%, e uma área de 106,6 km², cerca de 72% da área total do concelho.
 
@@ -1513,11 +1513,11 @@ a. Pontos de Passagem Autorizada (PPA)
 
 Foram guarnecidos em permanência, 24 horas por dia, inicialmente 13 PPA e no final da operação 8 PPA, controlados e guarnecidos com a presença física de militares da Guarda, ao longo do perímetro de Ovar, de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Tendo em vista uma melhor perceção da localização dos 8 pontos de passagem finais, apresenta-se um mapa com a indicação da sua localização no Município de Ovar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 b. Outros pontos de passagem (OPP) não autorizados
 
@@ -1525,15 +1525,15 @@ Foram igualmente planeados e controlados outros pontos de passagem não autoriza
 
 (1) Através de jerseys
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 (2) Através de barreiras metálicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Na imagem seguinte poderão observar-se os pontos onde os acessos foram cortados através de barreiras metálicas (a verde) e jerseys (a azul):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 c. Efetivos e meios empregues
 
@@ -1541,7 +1541,7 @@ No cômputo geral da operação foram empregues os efetivos e recursos de vária
 
 (1) Comando Territorial de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 (2) Apoios de outras Unidades (7)
 
@@ -1559,7 +1559,7 @@ Para o cumprimento da sua missão, o CTer Aveiro foi apoiado por diversas força
 
 Empregou os meios abaixo, conforme se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 (7) Os elementos aqui referidos já estão incluídos nos dados globais da alínea anterior.
 
@@ -1569,29 +1569,29 @@ No período em análise, regista-se os seguintes resultados gerais da atividade 
 
 a. Resultados Globais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 b. Detenções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Para além das 31 detenções por desobediência, foram detidos 2 cidadãos por resistência e coação sobre militares da GNR durante a sua atuação no Estado de Emergência, 1 por condução sob influência de álcool e 1 por falta de habilitação legal para conduzir.
 
 c. Grau de Acatamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 d. Emprego de Drones
 
 Na cerca de Ovar foram empregues drones para sensibilização e comunicação de alertas e mensagens sonoras à população, com um importante papel na prevenção de comportamentos desadequados e na comunicação de alertas à população. Revelou-se um meio relevante para apoio às operações no terreno.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 e. Projeto 65 Longe mais perto
 
 Tendo em vista o apoio à população mais idosa, sozinha e/ou isolada, e aos militares reformados da Guarda, foi implementado o projeto "65 longe mais perto", promovendo o estabelecimento de uma rede de contacto e reforçando a ligação intergeracional e o suporte mútuo entre todos, com os resultados que se indicam (na zona de ação do CTer Aveiro e DTer Ovar).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 6. Outros elementos relevantes
 
@@ -1599,13 +1599,13 @@ a. Equipamentos de proteção individual (EPI) e outros
 
 A cooperação com as diversas entidades e forças vivas do distrito foi bastante profícua, registando-se a oferta de material diverso à Guarda bem patente no quadro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 b. Situação epidemiológica dos militares do CTer Aveiro
 
 No que respeita à situação epidemiológica do efetivo do CTer Aveiro e do DTer Ovar, registaram-se até ao presente os seguintes casos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 c. Outras ações operacionais
 
@@ -1721,7 +1721,7 @@ Na comunidade em geral e na PSP em particular, importa considerar, por um lado, 
 
 Em 24H0017ABR2020 havia 132 CASOS CONFIRMADOS de contaminação por COVID-19 em polícias e 8 CASOS CONFIRMADOS em Pessoal com Funções Não Policiais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 3. RECURSOS HUMANOS
 
@@ -1747,7 +1747,7 @@ Por fim, note-se que às 24H00 do dia 17 de abril, registava-se uma taxa de abse
 
 4. PONTO DE SITUAÇÃO OPERACIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Conforme decorre do Despacho n.º 4287/2020 de 8 de abril, foram submetidos à superior apreciação e decisão de Sua Excelência o Secretário de Estado Adjunto e da Administração Interna os pedidos para utilização de câmaras portáteis acopladas a veículos aéreos não tripulados, tendo sido aprovado e, por conseguinte, utilizado este meio nos seguintes locais, datas e períodos:
 
@@ -1791,7 +1791,7 @@ Objetivo: Auxílio à fiscalização do cumprimento das medidas inerentes à Cer
 
 Cerco sanitário do Município de Ovar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 a. Contextualização
 
@@ -1857,7 +1857,7 @@ c. Atividade operacional
 
 Cerco sanitário da Ilha de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 a. Contextualização
 
@@ -1879,65 +1879,65 @@ c. Atividade operacional
 
 Comparação da evolução da criminalidade denunciada, cotejando-a com o período homólogo, desde que foi declarada a situação de alerta (130000MAR2020), através do Despacho n.º 3298-B/2020, nos termos da Lei de Bases da Proteção Civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Comparação da evolução da criminalidade denunciada e das detenções, relativizando-a com o período homólogo, desde o início até ao final da Operação #PASCOAEMCASA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Comparação da evolução da criminalidade denunciada e das detenções, relativizando-a com o período homólogo, no período em apreço neste relatório.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Note-se que os presentes dados são provisórios, correspondendo a lapsos temporais muito curtos e próximos da data atual, pelo que, no que se refere aos dados de 2020, ainda poderão sofrer alterações. Nestes termos, não devem ser considerados enquanto valores absolutos, mas somente tendências.
 
 Desde que foi declarada a situação de alerta (130000MAR2020) até 17ABR2020, apresenta-se graficamente a evolução dos cinco crimes com maiores variações face ao período homólogo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Considerando que há um interesse redobrado no acompanhamento de alguns crimes em concreto, designadamente da violência doméstica e da tipologia criminal que tem registado maiores incrementos, antagonicamente à criminalidade geral, concretamente, o crime de burla, apresenta-se dois quadros onde é possível verificar a evolução destes crimes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Salienta-se que a PSP está em articulação ativa com a Secretaria de Estado para a Cidadania e Igualdade, no sentido de melhor adaptar a resposta policial em casos de diminuição da autonomia das vítimas para efetuarem as respetivas denúncias, sugerindo-se o recurso ao número 112, ao email violenciadomestica@psp.pt, ao email ou telefone da Esquadra da residência ou, o contacto com um familiar ou amigo, solicitando-lhe que efetue a denúncia por si, por forma a evitar rastreamentos por parte da pessoa agressora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Considerando que é um dos focos de atividade primacial nesta Operação, efetuámos uma apreciação aos crimes de violência doméstica durante o período em apreço, salientando-se:
 
-a. A PSP registou um total de 476 participações, sendo uma média de 32/dia. No período homólogo de 2019 foram registadas 673 participações (média de 45/dia). Diminuição de 29%.
+a. A PSP registou um total de 476 participações, sendo uma média de 32/dia. No período homólogo de 2019 foram registadas 673 participações (média de 45/dia). Diminuição de 29%.
 
-b. No que respeita ao sexo da vítima, mantêm-se a tendência de 81.5% (79,5% em período homólogo de 2019) das vítimas serem de sexo feminino (401 do sexo feminino e 91 de sexo masculino).
+b. No que respeita ao sexo da vítima, mantêm-se a tendência de 81.5% (79,5% em período homólogo de 2019) das vítimas serem de sexo feminino (401 do sexo feminino e 91 de sexo masculino).
 
-c. No que respeita ao sexo da pessoa agressora, mantêm-se a tendência de 85% (82% em período homólogo em 2019) das pessoas agressoras serem de sexo masculino (71 do sexo feminino e 419 do sexo masculino).
+c. No que respeita ao sexo da pessoa agressora, mantêm-se a tendência de 85% (82% em período homólogo em 2019) das pessoas agressoras serem de sexo masculino (71 do sexo feminino e 419 do sexo masculino).
 
-d. A maioria das solicitações foi a pedido da vítima: 360 (73% dos casos). Porém, registaram-se 129 das denúncias efetuadas por terceiros (26%), um aumento relativo de 5%, quando comparado com período homólogo de 2019 (21%).
+d. A maioria das solicitações foi a pedido da vítima: 360 (73% dos casos). Porém, registaram-se 129 das denúncias efetuadas por terceiros (26%), um aumento relativo de 5%, quando comparado com período homólogo de 2019 (21%).
 
 e. Mantêm-se a tendência para, na maioria das ocorrências, não se registarem ferimentos para a vítima (64%) ou serem leves (35%). Em período homólogo de 2019 na maioria das ocorrências não se registaram ferimentos para a vítima (63%) ou foram leves (35%).
 
-f. O risco avaliado é maioritariamente de nível médio (52%), seguindo-se o de nível baixo (30,5%). As avaliações de nível elevado foram somente de 17,5%. Em período homólogo de 2019, o risco avaliado foi maioritariamente de nível médio (54%), seguindo-se o de nível baixo (27%). As avaliações de nível elevado foram 19%.
+f. O risco avaliado é maioritariamente de nível médio (52%), seguindo-se o de nível baixo (30,5%). As avaliações de nível elevado foram somente de 17,5%. Em período homólogo de 2019, o risco avaliado foi maioritariamente de nível médio (54%), seguindo-se o de nível baixo (27%). As avaliações de nível elevado foram 19%.
 
-g. A PSP registou 15 situações denunciadas via violenciadomestica@psp.pt.
+g. A PSP registou 15 situações denunciadas via violenciadomestica@psp.pt.
 
-h. A maioria das ocorrências decorre de violência conjugal (cônjuges, ex-cônjuges ou situação análoga) 342 (70%). A mesma tendência verificou-se em período homólogo de 2019 com 479 participações (73%).
+h. A maioria das ocorrências decorre de violência conjugal (cônjuges, ex-cônjuges ou situação análoga) 342 (70%). A mesma tendência verificou-se em período homólogo de 2019 com 479 participações (73%).
 
-i. A violência reportada continua a manter um padrão maioritário nas tipologias de violência psicológica/emocional (432, 88%) e física (350, 71%). Em período homólogo de 2019, violência psicológica/emocional (587, 88%) e física (445, 67%).
+i. A violência reportada continua a manter um padrão maioritário nas tipologias de violência psicológica/emocional (432, 88%) e física (350, 71%). Em período homólogo de 2019, violência psicológica/emocional (587, 88%) e física (445, 67%).
 
-j. A PSP efetuou 32 detenções por violência doméstica (9%), 30 homens e 2 mulheres. 26 detenções em flagrante delito e 6 fora de flagrante delito. (A média anual de 2019 é de 4%).
+j. A PSP efetuou 32 detenções por violência doméstica (9%), 30 homens e 2 mulheres. 26 detenções em flagrante delito e 6 fora de flagrante delito. (A média anual de 2019 é de 4%).
 
-k. A maioria das participações foram feitas consequência de ações de policiamento de proximidade (247, 50%) e presencialmente (171, 35%). Em período homólogo de 2019, a maioria das participações foram feitas presencialmente 325 (49%), registando-se 292 (44%), em consequência de ações de policiamento de proximidade.
+k. A maioria das participações foram feitas consequência de ações de policiamento de proximidade (247, 50%) e presencialmente (171, 35%). Em período homólogo de 2019, a maioria das participações foram feitas presencialmente 325 (49%), registando-se 292 (44%), em consequência de ações de policiamento de proximidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 No caso dos crimes contra o património em geral, que integra as burlas, constata-se uma diminuição de 16%, contudo salienta-se o incremento substancial das burlas com fraude bancária e uma perspetiva de continuidade, apenas com um ligeiro acréscimo, do número de denúncias de burla informática e nas comunicações.
 
 7. LISTAGENS DE CIDADÃOS EM CONFINAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Constata-se que 44,5% das identificações constantes nas listagens estão incompletas, inibindo-se assim a prossecução das medidas de vigilância ativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 8. PROCEDIMENTOS E ATIVIDADES
 
@@ -2007,7 +2007,7 @@ viii. Distribuição distrital e por área de responsabilidade das licenças
 
 ix. atribuídas e comunicadas até 17 de abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 (6) Continuámos a colaborar com as entidades competentes quer na verificação do encerramento/funcionamento/condições de funcionamento de parques de campismo e de lares para pessoas da terceira idade, estejam estes legais ou não.
 
@@ -2077,13 +2077,13 @@ Identificou-se uma campanha de phishing de disseminação de malware utilizando 
 
 Os cibercriminosos utilizam a imagem institucional da PSP com o objetivo de credibilizar a mensagem e levar os destinatários a seguirem as instruções, nomeadamente verificando a documentação enviada em anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Mensagem de Phishing
 
 Naturalmente, esta situação após ter sido identificada, foi divulgada, publicamente, nos respetivos canais de comunicação institucional (Ex. https://www.facebook.com/policiasegurancapublica/)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 O ficheiro anexo à mensagem, com a designação "PSP documento,PDF.iso", inclui malware que visa comprometer o equipamento do destinatário, transformando-o num componente de uma botnet com capacidade de minerar cripto-moedas e de manipular o equipamento infetado para produzir cripto moedas a favor do atacante.
 
@@ -2091,7 +2091,7 @@ Ainda que a técnica utilizada pelos atacantes para aparentarem enviar mensagens
 
 c. Serviço de Estrangeiros e Fronteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 MINISTÉRIO DA ADMINISTRAÇÃO INTERNA
 
@@ -2101,9 +2101,9 @@ Relatório sobre a aplicação da 2.ª declaração do estado de emergência
 
 Sumário executivo
 
-O presente relatório reflete e documenta as providências e medidas adotadas pelo Serviço de Estrangeiros e Fronteiras na vigência do Estado de Emergência que se iniciou às 0:00 horas do dia 03 de abril de 2020 e cessou às 23:59 horas do dia 17 de abril de 2020.
+O presente relatório reflete e documenta as providências e medidas adotadas pelo Serviço de Estrangeiros e Fronteiras na vigência do Estado de Emergência que se iniciou às 0:00 horas do dia 03 de abril de 2020 e cessou às 23:59 horas do dia 17 de abril de 2020.
 
-Atentas as atribuições e competências deste Serviço, tipificadas na sua lei orgânica, destaca-se a sua atividade na fronteira externa (aérea e marítima) e interna (terrestre), onde se tem vindo a verificar uma redução acentuada no fluxo de passageiros, mantendo-se, porém, a garantia de circulação de profissionais de atividades essenciais, assim como a facilitação das situações de regresso ao país de origem e apoio na evacuação ou desembarque para efeitos de assistência médica urgente. Destaca-se a introdução, ainda em fase de teste, de um equipamento móvel para apoio ao controlo de fronteira - o SEF-Mobile.
+Atentas as atribuições e competências deste Serviço, tipificadas na sua lei orgânica, destaca-se a sua atividade na fronteira externa (aérea e marítima) e interna (terrestre), onde se tem vindo a verificar uma redução acentuada no fluxo de passageiros, mantendo-se, porém, a garantia de circulação de profissionais de atividades essenciais, assim como a facilitação das situações de regresso ao país de origem e apoio na evacuação ou desembarque para efeitos de assistência médica urgente. Destaca-se a introdução, ainda em fase de teste, de um equipamento móvel para apoio ao controlo de fronteira - o SEF-Mobile.
 
 Também no atendimento ao público, o SEF mantem o atendimento presencial numa rede definida de balcões que funciona mediante marcação prévia e em situações de reconhecida urgência. Porém, em linha com as orientações governamentais, a prioridade foi o recurso aos meios digitais de interação com o cidadão, incluindo o próprio Centro de Contacto do SEF. Igualmente de salientar o trabalho de proximidade aos cidadãos na prestação de informação, através das redes e comunicação sociais.
 
@@ -2131,15 +2131,15 @@ No âmbito das principais atribuições do Serviço de Estrangeiros e Fronteiras
 
 (9) Resolução do Conselho de Ministros n.º[10-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130326108/details/normal?l=1)[10-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130326108/details/normal?l=1), de 16 de março, que repõe, a título excecional e temporário, o controlo documental de pessoas nas fronteiras e que é prorrogado a 14 de abril, pela [Resolução do Conselho de Ministros n.º 22/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131393116/details/normal?l=1) até às 00:00 horas do dia 14 de maio de 2020.
 
-Assim, nas fronteiras internas/ PPA registou-se um total de 64 862 passageiros controlados (uma descida de 36,9% face ao período anterior que registou 102 717), dos quais 504 não foram autorizados a entrar em território nacional (verifica-se assim uma descida de 29,9% face ao primeiro período de estado de emergência). O PPA de Valença - Viana do Castelo foi o ponto de passagem autorizado que registou maior movimento, com um total de 27 389 passageiros controlados (contrapondo-se aos 51 005 do período anterior), dos quais 158 não foram autorizados a entrar, representando 31% do total de passageiros não autorizados (constatando-se, assim, uma descida de 6 pontos percentuais). (vide ponto 2.1.1)
+Assim, nas fronteiras internas/ PPA registou-se um total de 64 862 passageiros controlados (uma descida de 36,9% face ao período anterior que registou 102 717), dos quais 504 não foram autorizados a entrar em território nacional (verifica-se assim uma descida de 29,9% face ao primeiro período de estado de emergência). O PPA de Valença - Viana do Castelo foi o ponto de passagem autorizado que registou maior movimento, com um total de 27 389 passageiros controlados (contrapondo-se aos 51 005 do período anterior), dos quais 158 não foram autorizados a entrar, representando 31% do total de passageiros não autorizados (constatando-se, assim, uma descida de 6 pontos percentuais). (vide ponto 2.1.1)
 
-Nas fronteiras aéreas controlaram-se 6 534 passageiros de 71 nacionalidades (descida de 88,6% face aos 57 378 anteriormente registados). Verificou-se a ausência de recusas de entrada, bem como a diminuição de outras situações relacionadas com a atividade operacional nas fronteiras, como a emissão de vistos, deteção de indicações ou outras. (vide ponto 2.1.2)
+Nas fronteiras aéreas controlaram-se 6 534 passageiros de 71 nacionalidades (descida de 88,6% face aos 57 378 anteriormente registados). Verificou-se a ausência de recusas de entrada, bem como a diminuição de outras situações relacionadas com a atividade operacional nas fronteiras, como a emissão de vistos, deteção de indicações ou outras. (vide ponto 2.1.2)
 
-Nas fronteiras marítimas registaram-se 108 passageiros controlados (verificando-se uma subida de 116 % face aos 50 passageiros anteriormente registados), na sua esmagadora maioria tripulantes, com vista à facilitação do regresso ao país de origem. As autorizações de desembarque de passageiros de embarcações de recreio e de navios de cruzeiro, foram realizadas em estreita articulação com a Autoridade de Saúde e aplicáveis aos nacionais, aos residentes em Portugal ou a situações de desembarque controlado para regresso ao país de origem (vide ponto 2.1.3).
+Nas fronteiras marítimas registaram-se 108 passageiros controlados (verificando-se uma subida de 116 % face aos 50 passageiros anteriormente registados), na sua esmagadora maioria tripulantes, com vista à facilitação do regresso ao país de origem. As autorizações de desembarque de passageiros de embarcações de recreio e de navios de cruzeiro, foram realizadas em estreita articulação com a Autoridade de Saúde e aplicáveis aos nacionais, aos residentes em Portugal ou a situações de desembarque controlado para regresso ao país de origem (vide ponto 2.1.3).
 
 Os atendimentos de estrangeiros realizados a nível nacional, em situações de urgência, foram em número de 23, registando-se, ainda, 77 pedidos de Passaporte Eletrónico Português | PEP, por cidadãos nacionais.
 
-Apesar do reduzido atendimento presencial, foram resolvidas pendências e aprovados 2 381 processos para emissão de documentos na Imprensa Nacional Casa da Moeda; concluíram-se 18 processos ARI (portal ARI); analisaram-se 8 970 processos em SAPA/ Sistema Automático de Pré Agendamento (10) e iniciaram-se em SIGAP/ Sistema Eletrónico de Gestão Documental e Workflow (11), 517 Processos.
+Apesar do reduzido atendimento presencial, foram resolvidas pendências e aprovados 2 381 processos para emissão de documentos na Imprensa Nacional Casa da Moeda; concluíram-se 18 processos ARI (portal ARI); analisaram-se 8 970 processos em SAPA/ Sistema Automático de Pré Agendamento (10) e iniciaram-se em SIGAP/ Sistema Eletrónico de Gestão Documental e Workflow (11), 517 Processos.
 
 (10) Plataforma eletrónica de registo de manifestações de interesse ao abrigo dos artigos 88º e 89º, nº 2 RJEPSAE.
 
@@ -2153,7 +2153,7 @@ No Gabinete de Asilo e Refugiados registaram-se 6 pedidos de proteção Internac
 
 Continua a salientar-se o acompanhamento regular de diversos fora ao nível nacional, tal como no contexto da União Europeia, onde o SEF participa nas reuniões do 'Covid-19/Corona Information Group - Home Affairs', promovidas pela Comissão Europeia, com vista à uniformização da implementação de medidas ao nível da União.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Internamente, destaque para a utilização, desde 4 de abril, e em todos os pontos de passagem autorizada terrestres, do sistema móvel de controlo de fronteira designado de SEF-Mobile. Conceito desenvolvido pelo SEF, utiliza um equipamento móvel que permite efetuar consultas de antecedentes às bases de dados, assim como a captura de impressões digitais de forma a efetuar pesquisas biométricas, quase sem manuseamento do documento físico e em locais com pouca cobertura de rede. Foi comunicada à Direção Geral de Saúde a entrada em funcionamento deste sistema o qual permite o registo da morada dos cidadãos, para efeitos de eventual controlo sanitário.
 
@@ -2163,7 +2163,7 @@ Na sequência da reposição de controlo de fronteira internas, em vigor desde 1
 
 Por Valença, Vilar Formoso e Caia transita igualmente a maior parte do transporte de mercadorias internacional, assim como o maior tráfego de trabalhadores transfronteiriços (área da saúde, agricultura e serviços). Este último tipo de tráfego é, contudo, uma característica comum ao longo de toda a fronteira interna, e relativamente aos quais não foram impostas quaisquer restrições de movimento, em conformidade com o estipulado na RCM[10-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130326108/details/normal?l=1)[10-B/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130326108/details/normal?l=1), de 16/03 (1).
 
-Em termos globais, e à semelhança do período anterior, o maior número de entradas foi de cidadãos nacionais de regresso a Portugal (37 131), na sua maioria provenientes de Espanha, França, Bélgica e Suíça, assim como de cidadãos residentes em Portugal, de nacionalidade Espanhola (25 226), Romena (659), Brasileira (364) e Ucraniana (235). De registar o regresso em autocarro de estudantes portugueses que, para efeitos de trânsito em Espanha, exigiram a articulação com a Polícia Nacional Espanhola, o MNE e com o Oficial de Ligação MAI em Madrid.
+Em termos globais, e à semelhança do período anterior, o maior número de entradas foi de cidadãos nacionais de regresso a Portugal (37 131), na sua maioria provenientes de Espanha, França, Bélgica e Suíça, assim como de cidadãos residentes em Portugal, de nacionalidade Espanhola (25 226), Romena (659), Brasileira (364) e Ucraniana (235). De registar o regresso em autocarro de estudantes portugueses que, para efeitos de trânsito em Espanha, exigiram a articulação com a Polícia Nacional Espanhola, o MNE e com o Oficial de Ligação MAI em Madrid.
 
 Verificou-se um decréscimo do tráfego aos fins de semana, na sua maior parte pelo facto de que, nalguns pontos de passagem, a maior parte do movimento caracteriza-se pelo transporte de mercadorias e de trabalhadores transfronteiriços. Não ocorreu congestionamento de tráfego, sendo que os tempos de espera máximos não ultrapassarem, em regra, os 15/ 20 minutos.
 
@@ -2185,7 +2185,7 @@ No âmbito dos navios comerciais mantém-se um fluxo regular de navios nos porto
 
 O Despacho n.º 4394-D/2020, de 09 de abril, manteve a interdição do desembarque e da emissão de licenças para vir a terra de passageiros e tripulações dos navios de cruzeiro, excecionando os cidadãos nacionais, os titulares de autorização de residência em Portugal e o desembarque em casos excecionais, mediante autorização da autoridade de saúde, enquadrando as medidas aplicadas aos navios de cruzeiro "MSC FANTASIA" ou o SEADREAM I.
 
-Quanto ao MSC Fantasia, decorreram, no período em análise, 367 desembarques de tripulantes - nacionais das Filipinas, Indonésia, Cuba, India, El Salvador, Peru e Itália. Do total de 1 247 tripulantes comunicados pela MSC, desembarcaram 732 e permanecem a bordo 515 de 43 nacionalidades.
+Quanto ao MSC Fantasia, decorreram, no período em análise, 367 desembarques de tripulantes - nacionais das Filipinas, Indonésia, Cuba, India, El Salvador, Peru e Itália. Do total de 1 247 tripulantes comunicados pela MSC, desembarcaram 732 e permanecem a bordo 515 de 43 nacionalidades.
 
 O SEADREAM, que tem estada prevista no porto de Lisboa até ao próximo dia 26 (renovação de certificados e respetivas inspeções), atracou no porto de Lisboa a 15 de abril, com 89 tripulantes de 15 diferentes nacionalidades. Mantem-se a possibilidade de autorização de desembarque controlado, tendo em vista o regresso ao país de origem.
 
@@ -2195,7 +2195,7 @@ Por razões humanitárias, verificaram-se situações de transporte e/ou de evac
 
 O SEF está presente em 40 locais de atendimento ao público. Em 20 de março (12), os postos de Atendimento SEF nas Lojas de Cidadão foram encerrados. Em 27 de março (13), procedeu-se ao encerramento dos demais postos de atendimento, mantendo-se o atendimento presencial, que funciona mediante marcação prévia e em situações de reconhecida urgência.
 
-Com base no Despacho n.º 3863-B/2020 de 27 de março, que determinou que, à data da declaração do Estado de Emergência Nacional (18 de março), todos os cidadãos estrangeiros com processos pendentes se encontram em situação de permanência regular em território nacional, o SEF pôs em prática desde o dia 30 de março um plano de gestão dos atendimentos e dos agendamentos. Esse plano de atendimentos criou uma nova funcionalidade nos portais SAPA/ Sistema Automático de Pré Agendamento (14), que permite aos cidadãos estrangeiros a emissão, consulta e download de um certificado de registo que serve de prova da sua situação documental. Assim, merece particular destaque o fato de terem sido analisados 8 970 processos em SAPA prevendo-se o reagendamento dos atendimentos previstos, a partir do próximo dia 1 de julho, por ordem cronológica, garantindo a igualdade de tratamento entre cidadãos estrangeiros.
+Com base no Despacho n.º 3863-B/2020 de 27 de março, que determinou que, à data da declaração do Estado de Emergência Nacional (18 de março), todos os cidadãos estrangeiros com processos pendentes se encontram em situação de permanência regular em território nacional, o SEF pôs em prática desde o dia 30 de março um plano de gestão dos atendimentos e dos agendamentos. Esse plano de atendimentos criou uma nova funcionalidade nos portais SAPA/ Sistema Automático de Pré Agendamento (14), que permite aos cidadãos estrangeiros a emissão, consulta e download de um certificado de registo que serve de prova da sua situação documental. Assim, merece particular destaque o fato de terem sido analisados 8 970 processos em SAPA prevendo-se o reagendamento dos atendimentos previstos, a partir do próximo dia 1 de julho, por ordem cronológica, garantindo a igualdade de tratamento entre cidadãos estrangeiros.
 
 (12) Com a entrada em vigor do [Decreto n.º 2-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130473161/details/normal?l=1).
 
@@ -2203,9 +2203,9 @@ Com base no Despacho n.º 3863-B/2020 de 27 de março, que determinou que, à da
 
 (14) Plataforma eletrónica de registo de manifestações de interesse ao abrigo dos artigos 88º e 89º, nº 2 RJEPSAE.
 
-Ciente de que a regra remete para o uso dos meios digitais de interação com o cidadão e o recurso ao Centro de Contacto (CC) do SEF, de notar que o CC mantem o seu funcionamento entre as 08h00 e 20h00 (dias úteis) e que as chamadas atendidas foram de 12 639 e o tempo médio de espera foi de 7'17'.
+Ciente de que a regra remete para o uso dos meios digitais de interação com o cidadão e o recurso ao Centro de Contacto (CC) do SEF, de notar que o CC mantem o seu funcionamento entre as 08h00 e 20h00 (dias úteis) e que as chamadas atendidas foram de 12 639 e o tempo médio de espera foi de 7'17'.
 
-O SEF respondeu por correio eletrónico a 7 992 comunicações. Foram efetuados 23 agendamentos urgentes e foram informados para não comparecer presencialmente 8 820 cidadãos estrangeiros, alertando para as disposições previstas no Despacho quanto à permanência regular em território nacional, mediante apresentação do certificado de registo referido antes.
+O SEF respondeu por correio eletrónico a 7 992 comunicações. Foram efetuados 23 agendamentos urgentes e foram informados para não comparecer presencialmente 8 820 cidadãos estrangeiros, alertando para as disposições previstas no Despacho quanto à permanência regular em território nacional, mediante apresentação do certificado de registo referido antes.
 
 No caso da atividade do Gabinete de Asilo e Refugiados verificou-se um decréscimo dos pedidos de proteção Internacional, que totalizaram 6 pedidos.
 
@@ -2223,7 +2223,7 @@ No Twitter foi inserido Tweet de homenagem aos profissionais de saúde.
 
 No Facebook foi publicada informação, em inglês, relativa a agendamentos urgentes; a processos pendente de Manifestação de Interesse no SEF; a processos pendente de concessão ou renovação de Título de Residência no SEF; a processos de proteção internacional pendente no SEF; a pedidos de Passaporte; a agendamentos cancelados no SEF; à emissão, consulta e download de um certificado de registo e ao reforço do serviço de atendimento via e-mail.
 
-Registou-se um aumento de 2 100 seguidores na página do Facebook do SEF.
+Registou-se um aumento de 2 100 seguidores na página do Facebook do SEF.
 
 O Núcleo de Imprensa do SEF (NI) continua a promover a resposta em tempo útil (no próprio dia) a mensagens do Messenger do Facebook (cerca de 500 mensagens respondidas neste canal) e monitoriza os comentários naquela página, de forma a fazer um levantamento das principais questões colocadas pelos cidadãos. Disponibiliza também no Portal do SEF e no Portal de Informação ao Imigrante, link para o Portal do Governo "Estamos.on" onde constam informações úteis aos cidadãos. Garante também a articulação permanente entre o Gabinete de Imprensa do MAI e os representantes da área da assessoria de imprensa das outras FSS, numa perspetiva de presença concertada nos meios de Comunicação Social. Foi ainda assegurada a disponibilização do Folheto MAI no Portal do SEF (em PT e EN) sobre as regras de circulação durante o Estado de Emergência decretado.
 
@@ -2253,7 +2253,7 @@ Assim, regista-se, ainda, um colaborador CIF com teste positivo ao Covid 19. Reg
 
 Evolução diária do n.º funcionários em quarentena durante o período de referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Relativamente aos diversos EPI, mantem-se a distribuição e reposição de material para stock.
 
@@ -2289,7 +2289,7 @@ Como referido no relatório antecedente, o teletrabalho foi privilegiado quer pa
 
 Neste período, como se verificará, no quadro infra, o número de colaboradores, neste regime, mantem-se idêntico ao período anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 O uso de plataformas digitais, como as videoconferências (Skype empresas, Webex cisco, entre outras), tem permitido dar continuidade às funções a desempenhar, ressaltando-se ainda a possibilidade de recuperação de pendências de determinados processos. Para garantir esta continuidade foram disponibilizados, de acordo com as necessidades, equipamentos informáticos para os postos de fronteira terrestres, como portáteis, impressoras móveis e smartphones com a aplicação SEF Mobile; prepararam-se estações de trabalho fixas e portáteis para teletrabalho, incluindo-se aqui, também, o apoio ao Gabinete Nacional SIRENE, neste âmbito; configuraram-se as ligações remotas (quer a nível das comunicações quer a nível de acessos) e foi prestado apoio remoto aos utilizadores, nas variadas vertentes, incluindo apoio às videoconferências, garantindo a necessária segurança inerente à abertura com recurso às Virtual Private Network | VPN.
 
@@ -2315,17 +2315,17 @@ F. A participação, em diversos pontos do país, de homenagem aos profissionais
 
 Manteve-se ativa a estrutura de acompanhamento COVID do SEF, com centenas de respostas (por via telefónica e por correio eletrónico) quer a cidadãos nacionais e estrangeiros, quer a entidades públicas e privadas, quer aos colaboradores do SEF. O organigrama e regulamento do Grupo de Acompanhamento foram atualizados (rev03) e ajustados à dinâmica do atual contexto de combate à pandemia por COVID19.
 
-## Anexo 1 | Gráficos — [([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+## Anexo 1 | Gráficos — [(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
-## Anexo 2 | Gráficos — [([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+## Anexo 2 | Gráficos — [(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
-## Anexo 3 | Organograma (act.) Estrutura COVID-19
+Anexo 3 | Organograma (act.) Estrutura COVID-19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 d. Autoridade Nacional de Emergência e Proteção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Relatório da Autoridade Nacional de Emergência e Proteção Civil, que visa contribuir para Relatório Setorial na sequência do decurso da renovação do estado de emergência, declarado por Sua Excelência o Presidente da República, a coberto do Decreto n.º [17-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068115/details/normal?l=1), de 2 de abril, vigente entre o dia 3 de abril e o dia 17 de abril de 2020.
 
@@ -2343,13 +2343,13 @@ Acresce que, a 17.04.2020, encontravam-se ativados 18 Planos Distritais de Emerg
 
 A evolução do número de ativações destes Planos encontra-se espelhada na figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Igualmente, a 17.04.2020, estavam ativados 123 Planos Municipais de Emergência de Proteção Civil (mais 10 que no final do Estado de Emergência anterior), em particular nos distritos de Aveiro, Bragança, Castelo Branco, Lisboa, Porto e Viseu. (cfr. Anexo 3.)
 
 A evolução do número de ativações encontra-se espelhada na figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 No âmbito do Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População, importa salientar o envido de Aviso, via SMS, em língua portuguesa e inglesa, para os utilizadores de telemóvel presentes no território de Portugal continental, a 9 de abril que alcançou cerca de 10,1 milhões de cidadãos nacionais e cerca de 365 mil cidadãos com cartão em roaming, com o seguinte teor:
 
@@ -2371,7 +2371,7 @@ Esta manutenção dos níveis do Estado de Alerta Especial, permitiu garantir, a
 
 Importa ainda referir que, a coberto do Despacho n.º 4097-B/2020, de 2 de abril, foram atribuídas competências de intervenção, ao Comandante Operacional Distrital da ANEPC, ao Centro Distrital de Segurança Social e à Autoridade de Saúde de âmbito local territorialmente competente, em colaboração com os municípios para intervir no estabelecimentos de apoio residencial, social ou unidades de internamento da Rede Nacional de Cuidados Continuados Integrados (RNCCI), com funcionamento comprometido em virtude da existência de utentes e/ou profissionais de saúde suspeitos e/ou doentes por COVID-19 e, por isso, em isolamento profilático, isolamento ou internamento hospitalar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Ainda na sequência da coordenação institucional, importa realçar que, na vigência deste estado de emergência, mantiveram-se, com periodicidade diária a realização de briefings Técnicos Operacionais do Centro de Coordenação Operacional Nacional.
 
@@ -2381,15 +2381,15 @@ Até 17 de abril de 2020, foram registados 114 bombeiros infetados por COVID-19 
 
 A ANEPC disponibilizou uma linha telefónica para que os Comandantes dos CB possam receber algum apoio na gestão de stress dos seus operacionais, sem prejuízo de as equipas de Apoio Psicossocial da ANEPC assegurarem o acompanhamento direto aos bombeiros nas situações que careçam de intervenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 Note-se que, em articulação com a Cruz Vermelha Portuguesa, foi operacionalizado um centro de testes COVID, prioritário para operacionais, garantindo-se desta forma uma maior celeridade do despiste de operacionais, nomeadamente bombeiros, com o objetivo de minimizar o período de isolamento dos operacionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 O número de infetados e em isolamento profilático é um fator preponderante para o estado de prontidão dos Corpos de Bombeiros, sendo que a 17 de abril apenas um Corpo de Bombeiros se encontrava inoperacional, 2 CB entre os 50% e 75%, 119 entre os 75% e os 99% e os restantes sem qualquer constrangimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 3. Recursos ANEPC
 
@@ -2407,25 +2407,25 @@ O email institucional, covid19@prociv.pt, criado no âmbito da plataforma covid1
 
 Carnaxide, 24 de abril de 2020
 
-**O Presidente,**
+O Presidente,
 
 Carlos Mourato Nunes
 
 Tenente-General
 
-## Anexo 1 MAPA RESUMO ATIVAÇÃO DE PLANOS DE EMERGÊNCIA DE PROTEÇÃO CIVIL
+Anexo 1 MAPA RESUMO ATIVAÇÃO DE PLANOS DE EMERGÊNCIA DE PROTEÇÃO CIVIL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 ## Anexo 2 — LISTA DE PLANOS DISTRITAIS DE EMERGÊNCIA DE PROTEÇÃO CIVIL ATIVADOS PARA ACOMPANHAMENTO DA SITUAÇÃO EPIDEMIOLÓGICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
 ## Anexo 3 — LISTA DE PLANOS MUNICIPAIS DE EMERGÊNCIA DE PROTEÇÃO CIVIL ATIVADOS PARA ACOMPANHAMENTO DA SITUAÇÃO EPIDEMIOLÓGICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19400/0000200224.pdf)
 
-## ANEXO II - Atas simplificadas da Estrutura de Monitorização do Estado de Emergência
+ANEXO II - Atas simplificadas da Estrutura de Monitorização do Estado de Emergência
 
 ESTRUTURA DE MONITORIZAÇÃO DO ESTADO DE EMERGÊNCIA
 
@@ -3999,7 +3999,7 @@ d. Melhoria ao nível da distribuição de EPI (incluindo para os corpos de bomb
 
 .1600 testes - Algarve -20 - instituições - 22 casos positivos
 
-- 7 Protocolos assinados com instituições do Ensino Superior - capacidade de realização de 35 000 testes (3 Protocolos em fase de assinatura; 4 Protocolos em negociação)
+- 7 Protocolos assinados com instituições do Ensino Superior - capacidade de realização de 35 000 testes (3 Protocolos em fase de assinatura; 4 Protocolos em negociação)
 
 - Estabelecido Fluxograma Procedimento de Acionamento dos Centros de Acolhimento das Forças Armadas para Utentes de Lares - Positivos COVID-19
 
@@ -4895,7 +4895,7 @@ Próxima reunião: (a confirmar); por videoconferência
 
 Reunião terminou às 16:15
 
-## ANEXO III - Lista de atos normativos aprovados
+ANEXO III - Lista de atos normativos aprovados
 
 1. Decreto do Presidente da República n.º [17-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/131068115/details/normal?l=1), de 2 de abril - Renova a declaração de estado de emergência, com fundamento na verificação de uma situação de calamidade pública;
 
@@ -5028,3 +5028,5 @@ Reunião terminou às 16:15
 65. Despacho n.º 4698-F/2020, de 17 de abril - Determina a prorrogação da suspensão das atividades formativas presenciais, no âmbito da pandemia da doença COVID-19;
 
 66. Deliberação n.º 441-A/2020, de 7 de abril - Adoção de procedimento simplificado que permita a instalação de separadores entre o espaço do condutor e o dos passageiros para proteção dos riscos inerentes à transmissão do COVID-19.
+
+113462835

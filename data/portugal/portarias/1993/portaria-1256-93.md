@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1256/1993/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1256-1993-552824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 613a70bcbdc93e9ba55e9e073cd2d9e1811002445672b84148f33573f5a187ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec4ea324e8076c347529a3548a4701e6c3106c899c780f37aa83f29fd30743e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Gabinete de Consulta Jurídica
 - Ministério da Justiça
 - Regulamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:01Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +100,17 @@ Manda o Governo, pelo Ministro da Justiça, que seja aprovado o Regulamento do G
 
 Ministério da Justiça.
 
-**Assinada em 16 de Novembro de 1993.**
+Assinada em 16 de Novembro de 1993.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
 Regulamento do Gabinete de Consulta Jurídica de Faro
 
 ### CAPÍTULO I — Constituição
 
-###### Artigo 1.º O Gabinete de Consulta Jurídica de Faro rege-se pelas normas constantes deste Regulamento e do convénio entre o Ministério da Justiça e a Ordem dos Advogados de 26 de Novembro de 1989, com as especialidades constantes dos artigos seguintes.
+Artigo 1.º O Gabinete de Consulta Jurídica de Faro rege-se pelas normas constantes deste Regulamento e do convénio entre o Ministério da Justiça e a Ordem dos Advogados de 26 de Novembro de 1989, com as especialidades constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - De acordo com o disposto na cláusula 8.ª do convénio supra-referido, o Ministério da Justiça compromete-se a pagar à Delegação da Ordem dos Advogados de Faro, atentas as particularidades de funcionamento do Gabinete, a quantia de 50000$00 desde o início do respectivo funcionamento e até ao dia 10 de cada mês.
+Art. 2.º - 1 - De acordo com o disposto na cláusula 8.ª do convénio supra-referido, o Ministério da Justiça compromete-se a pagar à Delegação da Ordem dos Advogados de Faro, atentas as particularidades de funcionamento do Gabinete, a quantia de 50000$00 desde o início do respectivo funcionamento e até ao dia 10 de cada mês.
 
 2 - Este valor poderá ser revisto por acordo entre as partes, com fundamento nas alterações do índice do custo de vida.
 
@@ -114,19 +118,19 @@ Regulamento do Gabinete de Consulta Jurídica de Faro
 
 ### CAPÍTULO II — Objectivos
 
-###### Art. 3.º Ao Gabinete de Consulta Jurídica de Faro, adiante designado por Gabinete de Faro, compete assegurar a orientação e conselho jurídico a todos aqueles que, por insuficiência de meios económicos, não tenham possibilidade de custear os serviços de advogado, de acordo com os princípios estabelecidos no convénio celebrado entre o Ministério da Justiça e a Ordem dos Advogados e sem prejuízo do que se encontra estabelecido na Lei Orgânica do Ministério Público.
+Art. 3.º Ao Gabinete de Consulta Jurídica de Faro, adiante designado por Gabinete de Faro, compete assegurar a orientação e conselho jurídico a todos aqueles que, por insuficiência de meios económicos, não tenham possibilidade de custear os serviços de advogado, de acordo com os princípios estabelecidos no convénio celebrado entre o Ministério da Justiça e a Ordem dos Advogados e sem prejuízo do que se encontra estabelecido na Lei Orgânica do Ministério Público.
 
 ### CAPÍTULO III — Estrutura e organização
 
-###### Art. 4.º A organização e funcionamento do Gabinete de Faro são assegurados por uma direcção, coadjuvada por um secretariado.
+Art. 4.º A organização e funcionamento do Gabinete de Faro são assegurados por uma direcção, coadjuvada por um secretariado.
 
-###### Art. 5.º - 1 - A direcção é composta por três advogados nomeados, ouvido o respectivo conselho distrital, pelo bastonário, que designa o presidente.
+Art. 5.º - 1 - A direcção é composta por três advogados nomeados, ouvido o respectivo conselho distrital, pelo bastonário, que designa o presidente.
 
 2 - Compete à direcção assegurar o normal e eficaz funcionamento do Gabinete de Faro, promovendo e diligenciando pela atempada resolução de todas as questões decorrentes da sua actividade.
 
 3 - Os membros da direcção não são remunerados.
 
-###### Art. 6.º - 1 - O secretariado é assegurado pela Ordem dos Advogados.
+Art. 6.º - 1 - O secretariado é assegurado pela Ordem dos Advogados.
 
 2 - Para efeitos do disposto no número anterior, a Câmara Municipal de Faro contribuirá para a contratação dos funcionários necessários ao mesmo com a quantia anual de 1800000$00, paga em duodécimos, o que será anualmente actualizável de acordo com a taxa de inflação verificada, acrescida de 1,5%.
 
@@ -134,33 +138,33 @@ Regulamento do Gabinete de Consulta Jurídica de Faro
 
 ### CAPÍTULO IV — Funcionamento
 
-###### Art. 7.º - 1 - Sem prejuízo do estatuído na cláusula 8.ª do convénio celebrado entre o Ministério da Justiça e a Ordem dos Advogados, a prestação e orientação da consulta jurídica é assegurada por advogados estagiários que, expressamente para a prestação da consulta no Gabinete de Faro, aí se inscreverem voluntariamente.
+Art. 7.º - 1 - Sem prejuízo do estatuído na cláusula 8.ª do convénio celebrado entre o Ministério da Justiça e a Ordem dos Advogados, a prestação e orientação da consulta jurídica é assegurada por advogados estagiários que, expressamente para a prestação da consulta no Gabinete de Faro, aí se inscreverem voluntariamente.
 
 2 - No acto de inscrição, os advogados e advogados estagiários podem indicar a área ou áreas jurídicas em que preferencialmente pretendam prestar a sua actuação, nos termos do disposto na cláusula 6.ª do convénio referido no número anterior.
 
 3 - Compete aos advogados e advogados estagiários prestar todos os esclarecimentos no âmbito das consultas para que forem escalonados, com respeito pelas regras deontológicas.
 
-###### Art. 8.º - 1 - O Gabinete de Faro destina-se a prestar consultas jurídicas a todos aqueles que, nos termos do artigo 1.º, residam na área do distrito de Faro ou que aí exerçam uma actividade profissional regular.
+Art. 8.º - 1 - O Gabinete de Faro destina-se a prestar consultas jurídicas a todos aqueles que, nos termos do artigo 1.º, residam na área do distrito de Faro ou que aí exerçam uma actividade profissional regular.
 
 2 - O Gabinete de Faro funciona na Rua de Pedro Nunes, 21, 1.º, esquerdo, em Faro, e, inicialmente, em, pelo menos, duas sessões semanais, de duas horas cada uma, conforme horário a fixar pela direcção do Gabinete.
 
 3 - A Câmara Municipal de Faro atribuirá um subsídio, a fixar anualmente, destinado à aquisição de livros jurídicos de consulta mais frequente.
 
-###### Art. 9.º - 1 - A inscrição dos interessados na obtenção da consulta faz-se no próprio Gabinete, mediante o preenchimento de uma ficha, indicando os seus elementos de identificação pessoais, fazendo constar a declaração, sob compromisso de honra, do rendimento do agregado familiar, bem como de não disporem de meios económicos suficientes para recorrerem aos serviços dos profissionais do foro e de não terem a qualquer destes confiado o assunto objecto da consulta. Se possível, a declaração contém a indicação sucinta do tema da consulta.
+Art. 9.º - 1 - A inscrição dos interessados na obtenção da consulta faz-se no próprio Gabinete, mediante o preenchimento de uma ficha, indicando os seus elementos de identificação pessoais, fazendo constar a declaração, sob compromisso de honra, do rendimento do agregado familiar, bem como de não disporem de meios económicos suficientes para recorrerem aos serviços dos profissionais do foro e de não terem a qualquer destes confiado o assunto objecto da consulta. Se possível, a declaração contém a indicação sucinta do tema da consulta.
 
 2 - A direcção, para ajuizar da existência da situação de insuficiência económica, pode exigir prova sumária dos elementos constantes da declaração.
 
 3 - O Gabinete de Faro reserva-se o direito de não atender, por um período que pode ir até cinco anos a contar da data em que a declaração foi produzida, todo aquele que se provar tenha prestado falsas declarações.
 
-###### Art. 10.º A inscrição e a consulta são inteiramente gratuitas para os consulentes.
+Art. 10.º A inscrição e a consulta são inteiramente gratuitas para os consulentes.
 
-###### Art. 11.º - 1 - Após a inscrição, a consulta é prestada de acordo com as possibilidades do Gabinete e no mais curto espaço de tempo possível, podendo ser distribuídas senhas indicativas do número de ordem e do dia em que o consulente é atendido.
+Art. 11.º - 1 - Após a inscrição, a consulta é prestada de acordo com as possibilidades do Gabinete e no mais curto espaço de tempo possível, podendo ser distribuídas senhas indicativas do número de ordem e do dia em que o consulente é atendido.
 
 2 - Em caso de manifesta urgência podem ser atendidos interessados não inscritos, dentro das possibilidades de funcionamento do Gabinete e sempre sem prejuízo dos consulentes inscritos.
 
-###### Art. 12.º Existe no Gabinete de Faro, com carácter rigorosamente confidencial, um arquivo dos elementos pessoais dos consulentes, com indicação sumária das matérias tratadas e dos documentos relevantes que lhes respeitam.
+Art. 12.º Existe no Gabinete de Faro, com carácter rigorosamente confidencial, um arquivo dos elementos pessoais dos consulentes, com indicação sumária das matérias tratadas e dos documentos relevantes que lhes respeitam.
 
-###### Art. 13.º - 1 - As consultas são asseguradas, no Gabinete de Faro, por uma mesa de consulta, constituída por um advogado e, facultativamente, também, por um advogado estagiário.
+Art. 13.º - 1 - As consultas são asseguradas, no Gabinete de Faro, por uma mesa de consulta, constituída por um advogado e, facultativamente, também, por um advogado estagiário.
 
 2 - Há uma ou duas mesas de consulta por turno, consoante o número presumível de utentes, competindo à direcção do Gabinete definir as necessidades a este respeito.
 
@@ -168,13 +172,13 @@ Regulamento do Gabinete de Consulta Jurídica de Faro
 
 4 - O consulente é atendido pelos advogados e advogados estagiários que estiveram a prestar serviço no Gabinete, no dia e hora em que a consulta estiver agendada, podendo a direcção, em casos excepcionais devidamente justificados, designadamente por razões de especialização, indicar um dos advogados e advogados estagiários inscritos para a prestação da consulta ou aceitar que o utente o escolha.
 
-###### Art. 14.º - 1 - Os advogados e advogados estagiários comprometem-se, uma vez inscritos, a respeitar a escala.
+Art. 14.º - 1 - Os advogados e advogados estagiários comprometem-se, uma vez inscritos, a respeitar a escala.
 
 2 - No caso de algum deles ficar impossibilitado de comparecer no local da consulta, deve avisar o secretariado com a maior antecedência possível.
 
 3 - A falta não considerada justificada impede o faltoso de voltar a ser escalonado.
 
-###### Art. 15.º Aos consultores do Gabinete é vedado, relativamente aos casos em que tiverem prestado consulta:
+Art. 15.º Aos consultores do Gabinete é vedado, relativamente aos casos em que tiverem prestado consulta:
 
 a) Receber, directa ou indirectamente, quaisquer quantias dos consulentes ou das pessoas envolvidas nos casos;
 
@@ -182,16 +186,16 @@ b) Acompanhar os casos fora da consulta;
 
 c) Indicar aos consulentes ou pessoas envolvidas nos casos o nome de qualquer profissional do foro em sua substituição.
 
-###### Art. 16.º - 1 - Cada utente tem direito a recorrer aos serviços do Gabinete até ao máximo de cinco casos concretos por ano.
+Art. 16.º - 1 - Cada utente tem direito a recorrer aos serviços do Gabinete até ao máximo de cinco casos concretos por ano.
 
 2 - Sobre cada caso concreto só poderão ser prestadas, no máximo, três consultas.
 
-###### Art. 17.º Sempre que se verifique que o mesmo caso concreto foi objecto de consulta pelas partes contrapostas, ou que elas nisso demostraram interesse, deve o Gabinete de Faro promover a conciliação por intermédio de advogado.
+Art. 17.º Sempre que se verifique que o mesmo caso concreto foi objecto de consulta pelas partes contrapostas, ou que elas nisso demostraram interesse, deve o Gabinete de Faro promover a conciliação por intermédio de advogado.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 18.º A direcção do Gabinete de Faro pode celebrar protocolos com qualquer entidade com vista à divulgação das suas actividades, mediante concordância prévia do Ministro da Justiça, ouvida a Ordem dos Advogados.
+Art. 18.º A direcção do Gabinete de Faro pode celebrar protocolos com qualquer entidade com vista à divulgação das suas actividades, mediante concordância prévia do Ministro da Justiça, ouvida a Ordem dos Advogados.
 
-###### Art. 19.º A todo o tempo pode a Ordem dos Advogados, sob proposta da direcção do Gabinete, propor ao Ministro da Justiça a alteração deste Regulamento, nomeadamente no sentido de atribuir ao Gabinete a prossecução de outras acções de consulta e informação jurídica.
+Art. 19.º A todo o tempo pode a Ordem dos Advogados, sob proposta da direcção do Gabinete, propor ao Ministro da Justiça a alteração deste Regulamento, nomeadamente no sentido de atribuir ao Gabinete a prossecução de outras acções de consulta e informação jurídica.
 
-###### Art. 20.º As referências feitas no presente Regulamento ao conselho distrital consideram-se feitas ao conselho distrital da Ordem dos Advogados de Faro a partir da sua instituição.
+Art. 20.º As referências feitas no presente Regulamento ao conselho distrital consideram-se feitas ao conselho distrital da Ordem dos Advogados de Faro a partir da sua instituição.

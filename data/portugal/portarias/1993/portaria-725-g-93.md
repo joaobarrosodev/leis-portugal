@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 186/1993, 2º Suplemento, Série I-B de 1993-08-10
   number: '186'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4266-(41) a 4266-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/186b02/00410046.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/725-g/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-g-1993-370265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b5025ce151af905df95efe2048d62f3d300527a8aeb5da8bf56505b804ad059
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 987826a86dd1b8a58baa9d28a7bf2923716ec275e80156c381abed4841af74e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,63 @@ reuse:
 subjects:
 - Alcácer do SAL
 - Alter do CHÃO
-- Reserva de CAÇA
+- Beja
 - Borba
 - CAÇA
-- Santiago do Cacém
 - Monforte
 - Moura
-- Beja
-- Zona de Proteção
 - Reguengos de Monsaraz
+- Reserva de CAÇA
+- Santiago do Cacém
 - Sines
 - Vila Viçosa
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:493723:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTA, POR REVOGAÇÃO, A RESERVA DE CAÇA POR TEMPO INDETERMINADO MTL-1, SITA NO CONCELHO DE MÉRTOLA, PELA PORT 989-B/93
+    DE 07-OUT DR.IS-B [235]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PARCIALMENTE, NA PARTE RESPEITANTE A RESERVA DE CAÇA DO MUNICÍPIO DE SANTIAGO DO CACÉM IDENTIFICADA POR\
+    \ STC-1, PELA PORT 778/95 DE 12-JUL DR.IS-B [159]\0 12-JUL DR.IS-B [159]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-12'
+- type: repealed_by
+  target: pt:dre:493723:por
+  label: "Revogado, a partir de 19.08.2009, no que respeita à reserva de caça MRA-1, designada por Perímetro Florestal das\
+    \ Ferrarias, sita na freguesia de Amareleja, município de Moura, o nº1 do presente diploma, pela PORT.884/2009.14.08.2009.MAOTDR,\
+    \ DR.IS [157] de 14.08.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-2009-493723
+  date: '2009-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:27Z'
   warnings: []
   errors: []
 ---
@@ -175,8 +202,8 @@ A zona VVC-1 e BRB-1, designada por Tapada Pequena, propriedade murada, área de
 
 Ministério da Agricultura.
 
-**Assinada em 29 de Julho de 1993.**
+Assinada em 29 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/186b02/00410046.pdf))](https://files.diariodarepublica.pt/1s/1993/08/186b02/00410046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/186b02/00410046.pdf)

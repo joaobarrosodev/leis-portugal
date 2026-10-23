@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21700/0597905990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/249/2017/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/249-2017-114177784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 885579f4b6d3db8cad0cd572e2816f95763e25fa18c9c6e0e4bcdb2ee4074efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f925d63f15d82493520ced07bdabde7ce82df0ad856f4413277890cd8b4e251d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,48 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Asilo Político
+- Branqueamento de Capitais
+- Bruxelas
+- Canadá
 - CE Países
+- Cibercrime
 - Combate ao Terrorismo
-- Segurança Nuclear
-- Direitos do Homem
 - Consulado
 - Controlo dos Armamentos
 - Convenção
-- Política de Cooperação
-- Cooperação Financeira
-- Cooperação Transfronteira
-- Portugal
-- Direitos e Liberdades
-- Migração
-- União Europeia
-- Branqueamento de Capitais
-- Cibercrime
-- Segurança da Informação
-- Liberdades Fundamentais
-- Segurança Internacional
-- Terrorismo
-- Desenvolvimento Económico
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Internacional
 - Cooperação Judiciária
-- Canadá
-- Dados Pessoais
 - Cooperação Militar
-- Bruxelas
+- Cooperação Transfronteira
+- Dados Pessoais
+- Desenvolvimento Económico
+- Direitos do Homem
+- Direitos e Liberdades
+- Liberdades Fundamentais
+- Migração
+- Política de Cooperação
+- Portugal
+- Segurança da Informação
+- Segurança Internacional
+- Segurança Nuclear
+- Terrorismo
 - Tribunal Penal Internacional
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:114177782:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 114/2017 - Diário da República n.º 217/2017, Série I de
+    2017-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/114-2017-114177782
+  date: '2017-11-10'
 article_structure:
   article_count: 34
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:00Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +127,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de setembro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA ESTRATÉGICA ENTRE A UNIÃO EUROPEIA E OS ESTADOS-MEMBROS, POR UM LADO, E O CANADÁ, POR OUTRO
 
@@ -539,4 +545,4 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21700/0597905990.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21700/0597905990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21700/0597905990.pdf)

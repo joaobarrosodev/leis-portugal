@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03600/0098301002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/2017/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-2017-106476971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a9c8fc41e08fb846bcf29e69260410c7733370a0183de714ec3d47d44e4527d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fec37437ffcdede259122accd178c61ec100a1c39431b21e63dcc9abf495aa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
 subjects:
 - Biologia
 - Biotecnologia
-- Medicina
-- Investigação Científica e Tecnológica
 - Ciências da Saúde
-- Direitos do Homem
 - Convenção
-- Portugal
+- Direitos do Homem
 - Estrasburgo
 - Investigação
+- Investigação Científica e Tecnológica
+- Medicina
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:106476967:por
+  label: Ratificado o Protocolo pelo(a) Decreto do Presidente da República n.º 19/2017 - Diário da República n.º 36/2017,
+    Série I de 2017-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/19-2017-106476967
+  date: '2017-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
   label: null
@@ -84,13 +90,13 @@ relationships:
 article_structure:
   article_count: 40
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:38Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de dezembro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ADDITIONAL PROTOCOL TO THE CONVENTION ON HUMAN RIGHTS AND BIOMEDICINE, CONCERNING BIOMEDICAL RESEARCH
 
@@ -1481,7 +1487,7 @@ Este Protocolo está aberto à assinatura dos Signatários da Convenção e est�
 
 ###### Artigo 40.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados-membros do Conselho da Europa, a Comunidade Europeia, qualquer Signatário, qualquer Parte e qualquer outro Estado que tenha sido convidado a aderir ao Protocolo:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados-membros do Conselho da Europa, a Comunidade Europeia, qualquer Signatário, qualquer Parte e qualquer outro Estado que tenha sido convidado a aderir ao Protocolo:
 
 a) De qualquer assinatura;
 
@@ -1497,7 +1503,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feito em Estrasburgo, a 25 de janeiro de 2005, nas línguas francesa e inglesa, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa deverá remeter uma cópia autenticada a cada um dos Estados-membros do Conselho da Europa, aos Estados não-membros que tenham participado na elaboração do presente Protocolo, a qualquer Estado convidado a aderir à Convenção e à Comunidade Europeia.
 
-## Anexo ao Protocolo Adicional relativo à Investigação Biomédica
+Anexo ao Protocolo Adicional relativo à Investigação Biomédica
 
 Informação a dar à Comissão de Ética
 

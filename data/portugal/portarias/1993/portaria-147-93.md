@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/1993/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-1993-647282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf782658777e157506df40ef555034eb80d713600d7446f7c1aa2c7fb0908be7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fafc8b42c9fff8286866ccb6ff7ed89b3fafb652a0f25424d15a2b4bec92944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Administração Interna
 - Gabinete dos Assuntos Europeus
+- Ministério da Administração Interna
 - Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/92/1992/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/1992/05/23/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:07Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +125,10 @@ Nestes termos, ao abrigo dos n.os 2 e 3 do artigo 1.º do [Decreto-Lei n.º 59/7
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 30 de Dezembro de 1992.**
+Assinada em 30 de Dezembro de 1992.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/034b00/05280528.pdf))](https://files.diariodarepublica.pt/1s/1993/02/034b00/05280528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/034b00/05280528.pdf)

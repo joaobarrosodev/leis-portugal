@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1242/1993/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1242-1993-554078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67396647c5ae5ff6fa8b42516096819397229907d1c74a0afcaf75ebbf88f97b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14112c8ea4f6a8acaa9b433d5c4ee569bd688e0a50505b43ede7f613685ad0c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Descrição de Funções
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Pessoal Técnico Auxiliar
 - Quadro de Pessoal
 relationships:
@@ -75,6 +75,93 @@ relationships:
   target: pt:dre:2825482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:535666:por
+  label: "Alterado, no referente às carreiras de consultor jurídico, economista, técnico superior de informática e técnico\
+    \ de contabilidade, o quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola pela PORT.978/94.04.11.1994.MF,\
+    \ DR.IS-B [255] de 04.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-1994-535666
+  date: '1994-11-04'
+- type: amended_by
+  target: pt:dre:157776:por
+  label: "Mantido em vigor o quadro de pessoal aprovado pelo presente diploma, pelo DR.34-A/95.1995.12.22.MF DR.IS-B [294]3ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-a-1995-157776
+  date: '1995-12-22'
+- type: amended_by
+  target: pt:dre:3273801:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo pela PORT.307/97(2ªSÉRIE).1996.05.22.PCM, MF E MADRP DR.IIS\
+    \ [134] DE 12/JUN/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1997-3273801
+  date: '1996-05-22'
+- type: amended_by
+  target: pt:dre:1542686:por
+  label: "Alterado o mapa anexo pela PORT.206/96IIS.1996.09.17.PCM, DR.IIS [240] de 16/Out/1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1996-1542686
+  date: '1996-09-17'
+- type: amended_by
+  target: pt:dre:3116120:por
+  label: "Alterado o quadro de pessoal pela Port.298/96IIS.1996.12.09.PCM, DR.IIS [302] de 1996.12.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-1996-3116120
+  date: '1996-12-09'
+- type: amended_by
+  target: pt:dre:1205832:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela Port.104/97IIS.1997.03.03.PCM, DR.IS-B [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/104-1997-1205832
+  date: '1997-03-03'
+- type: amended_by
+  target: pt:dre:3133043:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela Port 294/97(2ªSérie).1997.05.20.PCM,\
+    \ DR.IIS [131] de 07/Jun/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-1997-3133043
+  date: '1997-05-20'
+- type: amended_by
+  target: pt:dre:1365270:por
+  label: "Alterado o quadro de pessoal pela Port 631/97(2ªSÉRIE).1997.08.07.PCM, DR.IIS [198] de 28/Ago/1997\097\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1997-1365270
+  date: '1997-08-07'
+- type: amended_by
+  target: pt:dre:2468869:por
+  label: "Alterado o quadro de pessoal constante o mapa anexo ao presente diploma, pela PORT.746/97(2ªsérie).1997.09.17.PCM,\
+    \ MF e MADRP DR.IIS [226] de 1997.09.309\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1997-2468869
+  date: '1997-09-17'
+- type: amended_by
+  target: pt:dre:2009418:por
+  label: "Alterado o quadro de pessoal aprovado por este diploma, pela PORT.308/99(2ªSÉRIE).1998.10.12.PCM, DR.IIS [65] de\
+    \ 18/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-1999-2009418
+  date: '1998-10-12'
+- type: amended_by
+  target: pt:dre:1165982:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.216/99(2ªSÉRIE).1999.02.22.PCM DR.IIS [64] DE 17/MAR/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-1999-1165982
+  date: '1999-02-22'
+- type: amended_by
+  target: pt:dre:1000916:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.327/99(2ªSÉRIE).1999.03.02.PCM DR.IIS [68] DE 22/MAR/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1999-1000916
+  date: '1999-03-02'
+- type: amended_by
+  target: pt:dre:3493598:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.784/99(2ªSÉRIE).1999.07.14.PCM DR.IIS [181] DE 05/AGO/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/784-1999-3493598
+  date: '1999-07-14'
+- type: amended_by
+  target: pt:dre:3493605:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.785/99(2ªSÉRIE).1999.07.19.PCM DR.IIS [181] DE 05/AGO/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/785-1999-3493605
+  date: '1999-07-19'
+- type: amended_by
+  target: pt:dre:2825482:por
+  label: "Alterado o quadro de pessoal pela PORT.994/2003(2ªSÉRIE).2003.07.07.MF e MADRP, DR.IIS [175] de 31/Jul/2003. \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/994-2003-2825482
+  date: '2003-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -91,16 +178,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/840/1992/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/840/1992/08/29/p/dre
+- type: cites
+  target: pt:dre:188889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:249185:por
+  label: "Rectificada pela DECL-RECT.70/94.31.05.1994.PCM, DR.IS-B [126-3º Supl] de 31.05.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/70-1994-249185
+  date: '1994-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:41Z'
   warnings: []
   errors: []
 ---
@@ -123,13 +239,13 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, ao abrigo do n.
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 26 de Outubro de 1993.**
+Assinada em 26 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
 
 ## ANEXO I — Quadro de pessoal do Instituto Nacional de Intervenção e Garantia Agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/284b00/67806782.pdf))](https://files.diariodarepublica.pt/1s/1993/12/284b00/67806782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/284b00/67806782.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira técnica auxiliar do grupo de pessoal técnico-profissional
 

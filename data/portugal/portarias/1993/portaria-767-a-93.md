@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 204/1993, 1º Suplemento, Série I-B de 1993-08-31
   number: '204'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4600-(2) a 4600-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/204b01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/767-a/1993/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-a-1993-285730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48ca726701a02c9f7de4efd0b19aac848b5149207d879d1fc39e43621d224fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb93fa1e961708f55ff674ddb394214ef2aa9f03674bd8c2603f626967e35167
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,11 @@ relationships:
   target: pt:dre:642503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686206:por
+  label: "Aditado o nº 11º-A pela PORT.1160/97.1997.11.14.MEPAT DR.IS-B [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-1997-686206
+  date: '1997-11-14'
 - type: cites
   target: celex:31989L0336
   label: null
@@ -85,16 +90,22 @@ relationships:
   target: celex:31992L0031
   label: null
   source: http://data.europa.eu/eli/dir/1992/31/oj
+- type: repealed_by
+  target: pt:dre:642503:por
+  label: "Revogado, a partir de 29.09.2007, o presente diploma, alterado pelas Port 935/95 de 24-Jul e 1160/97 de 14-Nov,\
+    \ pelo DEC LEI.325/2007.28.09.2007.MEI, DR.IS [188] de 28.09.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-2007-642503
+  date: '2007-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:32Z'
   warnings: []
   errors: []
 ---
@@ -237,9 +248,9 @@ b) EN-55 015 - limites e métodos de medição de interferências radioeléctric
 
 Ministérios da Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 6 de Agosto de 1993.**
+Assinada em 6 de Agosto de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
 ## ANEXO — Critérios de avaliação para designação de organismos competentes para efeitos do disposto nos n.os 16.º, alínea b), e 17.º
 

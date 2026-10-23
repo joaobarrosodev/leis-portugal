@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/614/1993/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1993-374848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89b96bb8918bb99c11ed0ee1722e69b1ce2fd4df101daf3dad27ecddb262c1b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0390829d8ec42fa1e32fa3d228dd3abb7f480f050489e1c4659f2096deff5d1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
-- Construção Civil
 - Comissão Nacional de Aprendizagem
-- Plano de Estudos
+- Construção Civil
 - Curso
 - Equivalência de Habilitações Literárias
+- Formação Profissional
 - Jovem Trabalhador
+- Plano de Estudos
 - Qualificação Profissional
 - VIDA Activa
 relationships:
@@ -85,16 +85,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565400:por
+  label: "Revogada pela PORT.326/2005.29.03.2005.MAET, DR.IS-B [61] de 29.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-2005-565400
+  date: '2005-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:21Z'
   warnings: []
   errors: []
 ---
@@ -137,9 +158,9 @@ m) Auxiliar de pedreiro/cofrador/armador de ferro.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 9 de Março de 1993.**
+Assinada em 9 de Março de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.**
+O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
 Normas regulamentares da formação de jovens em regime de alternância (aprendizagem e pré-aprendizagem) nas saídas profissionais da área da construção civil anexas à Portaria n.º 614/93.
 
@@ -369,7 +390,7 @@ XIII - Disposições finais e transitórias
 
 Área profissional: construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO II — Operário multivalente
 
@@ -405,7 +426,7 @@ Saber observar e respeitar as regras de higiene, prevenção e segurança no âm
 
 Curso de nível II - operário multivalente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO III — Condutor-manobrador
 
@@ -435,7 +456,7 @@ Zelar pela limpeza e segurança do equipamento e realizar outras tarefas de natu
 
 Curso de nível II - condutor-manobrador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO IV — Canalizador
 
@@ -481,7 +502,7 @@ Montar tubagem e acessórios para ar comprimido.
 
 Curso de nível II - canalizador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO V — Estucador/pintor
 
@@ -511,7 +532,7 @@ Cortar e aplicar vidros.
 
 Curso de nível II - estucador/pintor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO VI — Técnico de construção civil
 
@@ -533,7 +554,7 @@ Fornecer indicações aos executantes sobre a optimização dos meios disponíve
 
 Curso de nível III - técnico de construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO VII — Preparador de obra (ver nota *)
 
@@ -555,7 +576,7 @@ Utilizar critérios de quantificação dos trabalhos a fim de preencher correcta
 
 Curso de nível III - Preparador de obra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 (nota *) Os dois primeiros anos correspondem à saída profissional de desenhador/medidor.
 
@@ -589,7 +610,7 @@ Utilizar critérios de quantificação dos trabalhos a fim de preencher correcta
 
 Curso de nível III - Medidor orçamentista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 (nota *) Os dois primeiros anos correspondem à saída profissional de desenhador/medidor.
 
@@ -633,7 +654,7 @@ Escolher madeiras.
 
 Curso de nível III - Preparador de carpintaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 (nota *) Os dois primeiros anos correspondem à saída profissional de carpinteiro de limpos.
 
@@ -667,7 +688,7 @@ Materialização, em campo, dos principais elementos de um projecto.
 
 Curso de nível III - topógrafo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO XI — Canteiro
 
@@ -695,7 +716,7 @@ Executar trabalhos de manutenção, reparação e restauração.
 
 Curso de nível II - canteiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
 
 ## ANEXO XII — Auxiliar de construção civil
 
@@ -723,4 +744,4 @@ Saber observar e respeitar as regras de higiene, prevenção e segurança no âm
 
 Curso de nível I - auxiliar de construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35393588.pdf)

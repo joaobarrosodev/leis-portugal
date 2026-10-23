@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15400/0401904022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/263/2018/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/263-2018-115991691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c251388dd6e4fa500f3f2697e152e99a1d5361695354e7785623266d93ec108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc3a4d95a4f1ccd7429b5cdf973a37e1e13db3d2512dbf94f30beaefcc896295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro Internacional para o Desenvolvimento da Política Migratória
 - Convenção
-- Portugal
 - Criação de Serviços
 - Migração
+- Portugal
 - Viena
-- Centro Internacional para o Desenvolvimento da Política Migratória
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:115991687:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 51/2018 - Diário da República n.º 154/2018, Série
+    I de 2018-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-2018-115991687
+  date: '2018-08-10'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:08Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +102,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de junho de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 AGREEMENT BETWEEN THE SWISS CONFEDERATION AND THE REPUBLIC OF AUSTRIA REGARDING THE ESTABLISHMENT AND FUNCTIONING OF THE INTERNATIONAL CENTRE FOR MIGRATION POLICY DEVELOPMENT (ICMPD) IN VIENNA OF 1 JUNE 1993.
 
 As amended by the Agreement between the Swiss Confederation, the Republic of Austria and the Republic of Hungary regarding the Modification and Prolongation of the Agreement signed regarding the Establishment and Functioning of ICMPD of 27 March 1996, and by the Agreement between the Swiss Confederation, the Republic of Austria and the Republic of Hungary regarding the Modification of the Agreement regarding the Establishment and Functioning of ICMPD of 26 April 1996, as well as by the Agreement regarding the Third Modification of the Agreement regarding the Establishment and Functioning of ICMPD of 25 June 2003 between the Swiss Confederation, the Republic of Austria, the Republic of Hungary, the Republic of Slovenia, the Czech Republic, the Kingdom of Sweden, the Republic of Bulgaria, the Republic of Croatia and the Republic of Poland.
 
-###### Art. 1
+Art. 1
 
 Objectives of the agreement*
 
@@ -110,7 +116,7 @@ During the last years, irregular and even more asylumoriented South-North flows 
 
 The agreement aims at promoting international co-operation in the area of migration policies as well as relevant research in these areas.
 
-###### Art. 2
+Art. 2
 
 International Centre for Migration Policy Development
 
@@ -120,7 +126,7 @@ International Centre for Migration Policy Development
 
 (3) The legal personality, privileges and immunities of ICMPD in the Republic of Austria will be regulated by the Republic of Austria.
 
-###### Art. 3
+Art. 3
 
 Policy Steering Group
 
@@ -130,7 +136,7 @@ The chair of the Steering Group is taken in rotation by each of the Contracting 
 
 The Steering Group meets as often as required, however at least three times a year.
 
-###### Art. 4
+Art. 4
 
 Duties of the Policy Steering Group
 
@@ -164,7 +170,7 @@ The Steering Group:
 
 - advises and decides on the admission of further parties.
 
-###### Art. 5
+Art. 5
 
 The ICMPD Director
 
@@ -174,7 +180,7 @@ The Strategy Platform adopted within the framework of the "Informal Consultation
 
 The ICMPD Director is directly responsible to the Policy Steering Group. He recruits and supervises the staff to which funds have been allocated. The duties of the ICMPD Director are regulated in detail in a separate duty document.
 
-###### Art. 6
+Art. 6
 
 The utilization of the services of ICMPD
 
@@ -184,7 +190,7 @@ They may place these results at the disposal of interested institutions should t
 
 Within the limits of available capacity, the services of ICMPD are at the full disposal of Contracting Parties.
 
-###### Art. 7
+Art. 7
 
 The funding of ICMPD
 
@@ -196,7 +202,7 @@ ICMPD may accept project grants, voluntary contributions, donations and other gi
 
 Alterations to the budget plans, including any necessary increase in the contributions of the Contracting Parties, require the approval of the Steering Group.
 
-###### Art. 8
+Art. 8
 
 Participation of further parties and international organizations
 
@@ -204,25 +210,25 @@ The Steering Group may invite States or international organizations to become pa
 
 A condition for the admission of other parties to this Agreement is mutual trust and common interests.
 
-###### Art. 9
+Art. 9
 
 Advisory Body
 
 The ICMPD Director is supported by an Advisory Body, which may be constituted of personalities from the fields of politics and science and from various countries and international organizations. The Advisory Body may not give instructions to the ICMPD Director. It may, however, propose projects and help to procure their funding.
 
-###### Art. 10
+Art. 10
 
 Accommodation and administration of ICMPD
 
 The Republic of Austria undertakes to facilitate to the extent possible the functioning and activities of ICMPD and of its staff in executing the present Agreement.
 
-###### Art. 11
+Art. 11
 
 Termination of the agreement
 
 Each Contracting Party may terminate its membership subject to a three month notice.
 
-###### Art. 12
+Art. 12
 
 Entry into force
 
@@ -385,3 +391,5 @@ Promover e desenvolver estratégias para combater e reduzir a migração ilegal,
 Facilitar a criação de sistemas sustentáveis e abrangentes para uma migração ordeira;
 
 Facilitar o intercâmbio de informação de dados relevantes sobre migrações, incluindo informação sobre os países de origem;»
+
+142018

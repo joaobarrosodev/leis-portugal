@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 117/1993, 1º Suplemento, Série I-B de 1993-05-20
   number: '117'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2774-(2) a 2774-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/531-a/1993/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 931f3527f6f6794c5aec0815641692d7d1f35d1d90e778f403e08d82d1c829e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2608af20c9a512a798b76fe252d5bcd40754471a60511856f4f65900252f2151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,150 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral das Alfândegas
 - Descrição de Funções
+- Direcção Geral das Alfândegas
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:124324704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653126:por
+  label: "Alterado o quadro de pessoal pela DEC LEI.324/93.25.09.1993.MF, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1993-653126
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:550670:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Alfândegas, constante do presente diploma, pelo DN.421/93.13.12.1993.MF,\
+    \ DR.IS-B [289] de 13.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/421-1993-550670
+  date: '1993-12-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DAS ALFÂNDEGAS, CONSTANTE DO ANEXO I, PELA PORTARIA 94/94, DE 9 DE
+    SETEMBRO, PUBLICADA NO DR.IS-B, 33.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:522250:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.94/94.09.02.1994.MF, DR.IS-B [33] de 09.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1994-522250
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 106/94, DE 10 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 45, DE 940223.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-23'
+- type: amended_by
+  target: pt:dre:515607:por
+  label: "Alterado o quadro pelo DN.106/94.23.02.1994.MF, DR.IS-B [45] de 23.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/106-1994-515607
+  date: '1994-02-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 190/94, DE 3 DE MARCO, PUBLICADO NO DR.IS-B, 71, DE 940325.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I PELA PORTARIA 224/94, DE 14 DE ABRIL, PUBLICADA NO DR.IS-B, 87.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-14'
+- type: amended_by
+  target: pt:dre:265761:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.224/94.14.04.1994.MF, DR.IS-B [87] de 14.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-1994-265761
+  date: '1994-04-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECCAO-GERAL DAS ALFÂNDEGAS PELO DESPACHO NORMATIVO 262/94, DE 22 DE MARCO, PUBLICADO
+    NO DR.IS-B, 94, DE 940422.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 338/94, DE 18 DE ABRIL, PUBLICADO NO DR.IS-B, 111, DE 940513.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 388/94, DE 3 DE MAIO, PUBLICADO NO DR.IS-B, 118, DE 940521.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 393/94 DE 29-ABR DR.IS-B [120] DE 24/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO PESSOAL DIRIGENTE DA DIRECÇÃO GERAL DAS ALFÂNDEGAS, NA REDACÇÃO DADA PELO ANEXO III DO DEC LEI
+    324/93 DE 25-SET PELA PORT 395/95 DE 03-MAI DR.IS-B [102]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-03'
+- type: amended_by
+  target: pt:dre:513056:por
+  label: "Alterado o quadro de pessoal dirigente constante do presente diploma, na redacção do anexo III ao Decreto-Lei n.º\
+    \ 324/93, de 25 de Setembro, pela PORT.395/95.03.05.1995.MF, DR.IS-B [102] de 03.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1995-513056
+  date: '1995-05-03'
+- type: amended_by
+  target: pt:dre:545977:por
+  label: "Alterado o quadro de pessoal pela PORT.92/96.26.03.1996.MF, DR.IS-B [73] de 26.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-1996-545977
+  date: '1996-03-26'
+- type: amended_by
+  target: pt:dre:650095:por
+  label: "Alterado o quadro de pessoal, pela PORT.892/97.1997.09.11.PCM DR.IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-1997-650095
+  date: '1997-09-11'
+- type: amended_by
+  target: pt:dre:485442:por
+  label: "Mantidos em vigor os conteúdos funcionais das carreiras definidas no anexo I ao presente diploma, pela PORT.390/98.1998.07.09.PCM,\
+    \ DR.IS-B [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1998-485442
+  date: '1998-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124324704:por
+  label: Revogados, a partir de 01.01.2020, os n.ºs 1, 2, 3 e 4 do anexo II do presente diploma, pelo(a) Decreto-Lei n.º 132/2019
+    - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:14Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +231,11 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º
 
 Ministério das Finanças.
 
-**Assinada em 7 de Abril de 1993.**
+Assinada em 7 de Abril de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf))](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

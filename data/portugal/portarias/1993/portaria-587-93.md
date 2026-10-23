@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/587/1993/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/587-1993-258140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63c65a0967ed104c2a46d0295693fec1f921477a7e7603f213cf3f1f61b42cad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f066cf0222fcf38aac05492cb45dc7b549dae828fa817e65fdfcdbb76a5a00f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
+- Ensino Básico
 - Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:237586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICCAO 197/93, DA PCM, DE 30 DE SETEMBRO, PUBLICADA NO DR.IS-B, 230, 3SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICCAO 260/93, DA PCM, DE 28 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 304, 7SUPL, DE
+    931231.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-31'
+- type: amended_by
+  target: pt:dre:230952:por
+  label: "Substituídos os quadros de pessoal docente das escolas constantes do mapa anexo ao presente diploma, pela PORT.706/94.03.08.1994.MF,\
+    \ DR.IS-B [178] de 03.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1994-230952
+  date: '1994-08-03'
+- type: amended_by
+  target: pt:dre:142338:por
+  label: "Alterado o mapa I anexo pela PORT.585/97.1997.08.04.ME DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-1997-142338
+  date: '1997-08-04'
+- type: amended_by
+  target: pt:dre:237586:por
+  label: "Aprovada a revisão dos quadros distritais de vinculação de pessoal não docente, relativa às carreiras e categorias\
+    \ de assistente de administração escolar, de auxiliar de acção educativa e de cozinheiro, para os funcionários com nomeação\
+    \ definitiva dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, criados pelo Dec\
+    \ Lei 223/87 de 30-Mai e cujos anexos foram alterados pelo presente diploma, pela PORT.601/2005.19.07.2005.ME, DR.IS-B\
+    \ [137] de 19.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2005-237586
+  date: '2005-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/224/1993/02/25/p/dre
   label: null
@@ -95,16 +126,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/846/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/846/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657633:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285566:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 173/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-B, 204, 4SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/173-1993-285566
+  date: '1993-08-31'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:36Z'
   warnings: []
   errors: []
 ---
@@ -589,7 +669,7 @@ São Julião, Oeiras;
 
 Distrito de Lisboa:
 
-#### Secção da Escola Secundária de Sebastião e Silva, Oeiras;
+Secção da Escola Secundária de Sebastião e Silva, Oeiras;
 
 4 - Os quadros do pessoal docente das escolas do 2.º e 3.º ciclos e secundárias agora criadas estão incluídos no mapa I anexo à presente portaria.
 
@@ -605,7 +685,7 @@ Distrito de Lisboa:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 12 de Maio de 1993.**
+Assinada em 12 de Maio de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
@@ -613,82 +693,82 @@ MAPA I
 
 Quadros de pessoal docente das escolas dos ensinos básico (2.º e 3.º ciclos) e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
 MAPA III
 
 ## Anexo XXII - Distrito de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXIII - Distrito de Beja
+Anexo XXIII - Distrito de Beja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXIV - Distrito de Braga
+Anexo XXIV - Distrito de Braga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXV - Distrito de Bragança
+Anexo XXV - Distrito de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXVI - Distrito de Castelo Branco
+Anexo XXVI - Distrito de Castelo Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXVII - Distrito de Coimbra
+Anexo XXVII - Distrito de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXVIII - Distrito de Évora
+Anexo XXVIII - Distrito de Évora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXIX - Distrito de Faro
+Anexo XXIX - Distrito de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXX - Distrito da Guarda
+Anexo XXX - Distrito da Guarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXI - Distrito de Leiria
+Anexo XXXI - Distrito de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXII - Distrito de Lisboa
+Anexo XXXII - Distrito de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXIII - Distrito de Portalegre
+Anexo XXXIII - Distrito de Portalegre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXIV - Distrito do Porto
+Anexo XXXIV - Distrito do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXV - Distrito de Santarém
+Anexo XXXV - Distrito de Santarém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXVI - Distrito de Setúbal
+Anexo XXXVI - Distrito de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXVII - Distrito de Viana do Castelo
+Anexo XXXVII - Distrito de Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXVIII - Distrito de Vila Real
+Anexo XXXVIII - Distrito de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
 
-## Anexo XXXIX - Distrito de Viseu
+Anexo XXXIX - Distrito de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf))](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/135b00/31003151.pdf)

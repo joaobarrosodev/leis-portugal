@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/575/1993/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-1993-260149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4390cf8527aa68b92ee7ffd27f9e50eaee9b1e023faabc3a8b9218d52529a874
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0938c7822e523c628ab2f2abbb2f6b7301d8e41f745f980507d670dc084c07d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Doença Animal
 - Controlo Sanitário
+- Doença Animal
+- GADO
 - Instituto de Protecção da Produção Agro-Alimentar
 - Legislação Veterinária
 - Política Agrícola Comum
+- Produto Animal
 - Regulamento
 - Regulamento dos Controlos Veterinários e Zootécnicos Aplicaveis ao Comércio Intracomunitário de Animais Vivos e Produtos
   Animais
-- Produto Animal
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:580776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUMERO 6 DO ANEXO A DO REGULAMENTO, PELA PORTARIA 404/94, DE 24 DE JUNHO, PUBLICADA NO DR.IS-B, 144.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM NUMERO 5 AO ARTIGO 4 DO REGULAMENTO, PELA PORTARIA 702/94, DE 28 DE JULHO, PUBLICADA NO DR.IS-B, 173.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O TERCEIRO PARAG DO ART 1 DO REGULAMENTO PELA PORT 160/95 DE 27-FEV DR.IS-B [49].\027-FEV DR.IS-B [49]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-27'
+- type: amended_by
+  target: pt:dre:580776:por
+  label: "Alterado o n.º 7 do anexo A do Regulamento dos Controlos Veterinários e Zootécnicos Aplicáveis ao Comércio Intracomunitário\
+    \ de Animais Vivos e Produtos Animais aprovado pelo presente diploma, pelo DEC LEI.32/2004.07.02.2004.MADRP, DR.IS-A [32]\
+    \ de 07.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2004-580776
+  date: '2004-02-07'
 - type: cites
   target: celex:31988L0661
   label: null
@@ -127,15 +149,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1992/60/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:19Z'
   warnings: []
   errors: []
 ---
@@ -156,17 +178,17 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, que se
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 10 de Maio de 1993.**
+Assinada em 10 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
 
-## Anexo a que se refere a Portaria n.º 575/93
+Anexo a que se refere a Portaria n.º 575/93
 
 Regulamento dos Controlos Veterinários e Zootécnicos Aplicáveis ao Comércio Intracomunitário de Animais Vivos e Produtos Animais
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Os controlos veterinários dos animais vivos e produtos abrangidos pelos diplomas referidos no anexo A e destinados ao comércio deixam, sem prejuízo do disposto no artigo 7.º, de ser efectuados nas fronteiras e passam a sê-lo nos termos do disposto no presente Regulamento.
+Artigo 1.º - 1 - Os controlos veterinários dos animais vivos e produtos abrangidos pelos diplomas referidos no anexo A e destinados ao comércio deixam, sem prejuízo do disposto no artigo 7.º, de ser efectuados nas fronteiras e passam a sê-lo nos termos do disposto no presente Regulamento.
 
 2 - O controlo dos documentos zootécnicos obedece às regras de controlo previstas no presente Regulamento.
 
@@ -176,7 +198,7 @@ a) Aos controlos efectuados no âmbito de missões executadas de forma não disc
 
 b) Aos controlos veterinários relativos à deslocação entre Estados membros, sem objectivo comercial, de animais de companhia que acompanhem pessoas por eles responsáveis durante essa deslocação.
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) Controlo veterinário: qualquer controlo físico ou formalidade administrativa relativos aos animais ou produtos referidos no artigo 1.º e que vise, directa ou indirectamente, assegurar a protecção da saúde pública ou animal;
 
@@ -194,7 +216,7 @@ g) Veterinário oficial: o veterinário designado pela autoridade central compet
 
 #### SECÇÃO II — Controlos na origem
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto nos diplomas enumerados no anexo A e, no caso do anexo B, das normas de polícia sanitária do Estado membro de destino, apenas podem ser comercializados os animais e produtos animais que obedeçam às seguintes condições:
+Art. 3.º - 1 - Sem prejuízo do disposto nos diplomas enumerados no anexo A e, no caso do anexo B, das normas de polícia sanitária do Estado membro de destino, apenas podem ser comercializados os animais e produtos animais que obedeçam às seguintes condições:
 
 a) Provenham de uma exploração, de um centro ou de um organismo que se encontre sujeito a controlos veterinários oficiais regulares, nos termos do n.º 6;
 
@@ -226,7 +248,7 @@ e) Sempre que um transporte tiver vários locais de destino, sejam agrupados em 
 
 7 - Sempre que existir uma suspeita fundamentada de que os requisitos referidos no número anterior não são cumpridos, a autoridade competente procederá às verificações necessárias e, se tal suspeita for confirmada, tomará as medidas adequadas, nomeadamente a colocação em sequestro da exploração, do centro ou do organismo em questão.
 
-###### Art. 4.º - 1 - Os detentores de animais e produtos referidos no artigo 1.º devem respeitar as exigências sanitárias e zootécnicas referidas no presente diploma em todas as fases da produção e da comercialização.
+Art. 4.º - 1 - Os detentores de animais e produtos referidos no artigo 1.º devem respeitar as exigências sanitárias e zootécnicas referidas no presente diploma em todas as fases da produção e da comercialização.
 
 2 - Os animais e os produtos referidos no anexo A devem ser controlados, do ponto de vista veterinário, de forma pelo menos tão cuidadosa como se fossem destinados ao mercado nacional, salvo derrogação específica prevista na regulamentação comunitária.
 
@@ -236,7 +258,7 @@ e) Sempre que um transporte tiver vários locais de destino, sejam agrupados em 
 
 #### SECÇÃO III — Controlos no destino
 
-###### Art. 5.º - 1 - A autoridade competente pode verificar nos locais de destino dos animais ou produtos, através de controlos veterinários por sondagem e de carácter não discriminatório, se os requisitos previstos no artigo 3.º foram respeitados e proceder, nessa altura, à recolha de amostras.
+Art. 5.º - 1 - A autoridade competente pode verificar nos locais de destino dos animais ou produtos, através de controlos veterinários por sondagem e de carácter não discriminatório, se os requisitos previstos no artigo 3.º foram respeitados e proceder, nessa altura, à recolha de amostras.
 
 2 - Podem também ser efectuados controlos durante o transporte dos animais e dos produtos no território nacional, caso a autoridade competente disponha de elementos de informação que lhe permitam presumir uma infracção.
 
@@ -268,13 +290,13 @@ b) Conservar, por um período mínimo de seis meses, ou pelo período superior q
 
 10 - As regras de execução do presente artigo serão adoptadas de acordo com o processo comunitariamente previsto.
 
-###### Art. 6.º - 1 - Caso a regulamentação comunitária ou, nas matérias ainda não harmonizadas, a legislação nacional prevejam a quarentena de animais vivos, esta terá lugar na exploração de destino.
+Art. 6.º - 1 - Caso a regulamentação comunitária ou, nas matérias ainda não harmonizadas, a legislação nacional prevejam a quarentena de animais vivos, esta terá lugar na exploração de destino.
 
 2 - Sempre que justificável do ponto de vista veterinário, a colocação em quarentena pode ter lugar numa estação de quarentena, considerada como local de destino da remessa, devendo a autoridade competente notificar a Comissão das Comunidades Europeias (Comissão) dos motivos da colocação em quarentena.
 
 3 - As obrigações relativas à colocação em quarentena e o respectivo local serão especificadas de acordo com as condições veterinárias referidas na regulamentação comunitária.
 
-###### Art. 7.º - 1 - Aquando dos controlos dos animais ou produtos referidos no artigo 1.º provenientes de países terceiros, efectuados nos locais por onde podem ser introduzidos nos territórios a que se refere o anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt), do Conselho, de 10 de Dezembro, tais como portos, aeroportos e postos de inspecção fronteiriços com países terceiros, serão tomadas as seguintes medidas:
+Art. 7.º - 1 - Aquando dos controlos dos animais ou produtos referidos no artigo 1.º provenientes de países terceiros, efectuados nos locais por onde podem ser introduzidos nos territórios a que se refere o anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt), do Conselho, de 10 de Dezembro, tais como portos, aeroportos e postos de inspecção fronteiriços com países terceiros, serão tomadas as seguintes medidas:
 
 a) Verificação dos certificados ou documentos que acompanham os animais ou produtos;
 
@@ -286,7 +308,7 @@ d) Os animais de países terceiros serão sujeitos às regras previstas na Direc
 
 2 - Em derrogação do disposto no número anterior, os animais ou produtos transportados por meios que assegurem ligações regulares e directas entre dois pontos geográficos da Comunidade ficam sujeitos às regras de controlo previstas no artigo 5.º
 
-###### Art. 8.º - 1 - Se a autoridade competente, num controlo efectuado no local de destino ou durante o transporte, verificar a presença de agentes responsáveis por uma doença referida no anexo C, de uma zona zoonose ou de uma doença de qualquer outra causa que possa constituir um perigo grave para o homem e para os animais, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, ordenará a colocação em quarentena do animal ou do lote de animais no centro de quarentena mais próximo, o seu abate ou a sua destruição, podendo ainda ser aplicadas as medidas de salvaguarda previstas no artigo 10.º
+Art. 8.º - 1 - Se a autoridade competente, num controlo efectuado no local de destino ou durante o transporte, verificar a presença de agentes responsáveis por uma doença referida no anexo C, de uma zona zoonose ou de uma doença de qualquer outra causa que possa constituir um perigo grave para o homem e para os animais, ou que os produtos provêm de uma região contaminada por uma doença epizoótica, ordenará a colocação em quarentena do animal ou do lote de animais no centro de quarentena mais próximo, o seu abate ou a sua destruição, podendo ainda ser aplicadas as medidas de salvaguarda previstas no artigo 10.º
 
 2 - As despesas decorrentes da aplicação do disposto no número anterior ficarão a cargo do expedidor, do seu mandatário ou da pessoa responsável pelos produtos ou animais.
 
@@ -304,7 +326,7 @@ c) A sua reexpedição, com a autorização da autoridade competente do Estado m
 
 6 - As regras de execução do presente artigo, bem como a lista das doenças referidas no n.º 1, serão adoptadas em conformidade com o processo comunitariamente previsto.
 
-###### Art. 9.º - 1 - Nos casos previstos no artigo 8.º, a autoridade competente entrará imediatamente em contacto com as autoridades competentes do Estado membro de expedição, a fim de estas tomarem todas as medidas necessárias e comunicarem à autoridade competente a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
+Art. 9.º - 1 - Nos casos previstos no artigo 8.º, a autoridade competente entrará imediatamente em contacto com as autoridades competentes do Estado membro de expedição, a fim de estas tomarem todas as medidas necessárias e comunicarem à autoridade competente a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
 
 2 - Se recear que as medidas tomadas em conformidade com o n.º 1 não sejam suficientes, a autoridade competente procurará, com a autoridade competente do Estado membro de expedição, as formas e os meios de solucionar a situação, se necessário mediante uma visita ao local.
 
@@ -338,7 +360,7 @@ c) Que seja solicitado à autoridade competente do Estado membro de expedição 
 
 #### SECÇÃO IV — Disposições comuns
 
-###### Art. 10.º - 1 - A autoridade competente comunicará imediatamente aos outros Estados membros e à Comissão, para além do surgimento no território nacional das doenças previstas no anexo C, o aparecimento de zoonoses, doenças ou outro facto que possa constituir um perigo grave para a saúde humana ou para os animais.
+Art. 10.º - 1 - A autoridade competente comunicará imediatamente aos outros Estados membros e à Comissão, para além do surgimento no território nacional das doenças previstas no anexo C, o aparecimento de zoonoses, doenças ou outro facto que possa constituir um perigo grave para a saúde humana ou para os animais.
 
 2 - Tratando-se de animais e produtos destinados ao território nacional, a autoridade competente aplicará imediatamente as medidas de luta ou de prevenção previstas na regulamentação comunitária ou pela legislação nacional que a tenha transposto para o direito interno e, nomeadamente, determinará as zonas de protecção nela previstas ou decidirá qualquer outra medida que considere apropriada.
 
@@ -348,9 +370,9 @@ c) Que seja solicitado à autoridade competente do Estado membro de expedição 
 
 5 - As regras de execução pela autoridade competente do estabelecido no presente artigo e, nomeadamente, a lista das zoonoses ou outras causas susceptíveis de constituir um perigo grave para a saúde humana serão adoptadas de acordo com o procedimento comunitariamente previsto.
 
-###### Art. 11.º A autoridade competente designará as pessoas ou os serviços competentes em matéria de controlos veterinários que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados membros.
+Art. 11.º A autoridade competente designará as pessoas ou os serviços competentes em matéria de controlos veterinários que assegurarão os controlos veterinários e a colaboração com os serviços de controlo dos outros Estados membros.
 
-###### Art. 12.º - 1 - Todos os operadores que procedem ao comércio intracomunitário de animais ou produtos referidos no artigo 1.º devem:
+Art. 12.º - 1 - Todos os operadores que procedem ao comércio intracomunitário de animais ou produtos referidos no artigo 1.º devem:
 
 a) Inscrever-se, no prazo de 15 dias a contar da entrada em vigor deste Regulamento ou do início da actividade, num registo oficial a cargo da autoridade competente e do qual constarão obrigatoriamente a identificação, denominação social, domicílios ou sede e respectivos responsáveis;
 
@@ -358,7 +380,7 @@ b) Manter um livro de registos no qual serão mencionadas as entregas e, para os
 
 2 - O livro de registos referido na alínea b) do número anterior deverá ser conservado por um prazo mínimo de dois anos e apresentado, sempre que solicitado, à autoridade competente ou às autoridades que exerçam funções de fiscalização.
 
-###### Art. 13.º - 1 - Compete à autoridade competente, através dos agentes dos serviços veterinários, se necessário em colaboração com os agentes de outros serviços habilitados para esse fim, designadamente:
+Art. 13.º - 1 - Compete à autoridade competente, através dos agentes dos serviços veterinários, se necessário em colaboração com os agentes de outros serviços habilitados para esse fim, designadamente:
 
 a) Inspeccionar as explorações, instalações, meios de transporte e processos utilizados na marcação e identificação dos animais;
 
@@ -376,11 +398,11 @@ d) Analisar o material documental ou informático necessário aos controlos resu
 
 #### SECÇÃO V — Disposições finais e transitórias
 
-###### Art. 14.º - 1 - Será criado um sistema informatizado de ligação entre autoridades veterinárias dos Estados membros da Comunidade, integrado no sistema informatizado ANIMO, a fim de, nomeadamente, facilitar o intercâmbio de informação entre as autoridades competentes das regiões em que foi emitido um certificado ou documento sanitário de acompanhamento de animais e produtos de origem animal e as autoridades competentes do Estado membro de destino.
+Art. 14.º - 1 - Será criado um sistema informatizado de ligação entre autoridades veterinárias dos Estados membros da Comunidade, integrado no sistema informatizado ANIMO, a fim de, nomeadamente, facilitar o intercâmbio de informação entre as autoridades competentes das regiões em que foi emitido um certificado ou documento sanitário de acompanhamento de animais e produtos de origem animal e as autoridades competentes do Estado membro de destino.
 
 2 - As regras de execução do presente artigo, designadamente as normas adequadas em matéria de intercâmbio de dados e de regras de segurança dos dados permutados, serão adoptadas em conformidade com o procedimento comunitariamente previsto.
 
-###### Art. 15.º O comércio dos animais e dos produtos referidos no anexo B ficará sujeito, até à adopção de regulamentação comunitária e sem prejuízo da manutenção das regras previstas a nível nacional para a identificação dos lotes, às regras de controlo constantes do presente Regulamento.
+Art. 15.º O comércio dos animais e dos produtos referidos no anexo B ficará sujeito, até à adopção de regulamentação comunitária e sem prejuízo da manutenção das regras previstas a nível nacional para a identificação dos lotes, às regras de controlo constantes do presente Regulamento.
 
 ## ANEXO A — I - Legislação veterinária
 

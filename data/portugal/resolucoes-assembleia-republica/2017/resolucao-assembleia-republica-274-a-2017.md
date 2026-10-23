@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 244/2017, 1º Suplemento, Série I de 2017-12-21
   number: '244'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6680-(2) a 6680-(516)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/274-a/2017/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/274-a-2017-114394826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2afd1a778c41f4a92e90f2a114b9cfc566433fb1711a47cbbe2daf2f0e552c49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e6b1b277228b518d696e3456aacf48edbfe8c8e16edbf23a68cb5b749d161f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
+- Canadá
 - CE Países
 - Convenção
 - Cooperação Comercial
+- Cooperação Económica
 - Política de Cooperação
 - Portugal
 - União Europeia
-- Cooperação Económica
-- Canadá
-- Bruxelas
 relationships:
+- type: amended_by
+  target: pt:dre:114394825:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 155-A/2017 - Diário da República n.º 244/2017,
+    1º Suplemento, Série I de 2017-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/155-a-2017-114394825
+  date: '2017-12-21'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -310,14 +316,14 @@ relationships:
   source: null
 article_structure:
   article_count: 452
-  section_count: 102
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 95
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:37Z'
   warnings: []
   errors: []
 ---
@@ -330,7 +336,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de setembro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ECONÓMICO E COMERCIAL GLOBAL (CETA) ENTRE O CANADÁ, POR UM LADO, E A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR OUTRO
 
@@ -1302,7 +1308,7 @@ c) Detido ou controlado direta ou indiretamente por um investidor da outra Parte
 
 d) Existente à data de entrada em vigor do presente Acordo, ou realizado ou adquirido após essa data;
 
-# Parte em litígio, o investidor que intenta uma ação em conformidade com a secção F ou a parte demandada. Para efeitos da secção F e sem prejuízo do artigo 8.14, uma Parte não é abrangida pela definição de investidor;
+Parte em litígio, o investidor que intenta uma ação em conformidade com a secção F ou a parte demandada. Para efeitos da secção F e sem prejuízo do artigo 8.14, uma Parte não é abrangida pela definição de investidor;
 
 Partes em litígio, tanto o investidor como a parte demandada;
 
@@ -1378,9 +1384,9 @@ Considera-se que uma pessoa singular que tenha a nacionalidade de um dos Estados
 
 Convenção de Nova Iorque, a Convenção das Nações Unidas sobre o reconhecimento e execução das sentenças arbitrais estrangeiras, celebrada em Nova Iorque em 10 de junho de 1958;
 
-# Parte não litigante, o Canadá, se a União Europeia ou um Estado-Membro da União Europeia for a parte demandada, ou a União Europeia se o Canadá for a parte demandada;
+Parte não litigante, o Canadá, se a União Europeia ou um Estado-Membro da União Europeia for a parte demandada, ou a União Europeia se o Canadá for a parte demandada;
 
-# Parte demandada, o Canadá ou, no caso da União Europeia, quer o Estado-Membro da União Europeia quer a União Europeia, em conformidade com o artigo 8.21;
+Parte demandada, o Canadá ou, no caso da União Europeia, quer o Estado-Membro da União Europeia quer a União Europeia, em conformidade com o artigo 8.21;
 
 Rendimentos, todos os montantes gerados por um investimento ou reinvestimento, incluindo lucros, royalties e juros ou outras remunerações e pagamentos em espécie;
 
@@ -2044,7 +2050,9 @@ Se, na sequência da apresentação de um pedido ao abrigo da presente secção,
 
 2 - O presente Acordo não impede uma parte demandada de divulgar a funcionários da União Europeia, dos Estados-Membros da União Europeia ou de administrações subnacionais, consoante o caso, as versões integrais dos documentos que considere necessárias no quadro de um processo ao abrigo da presente secção. Não obstante, a parte demandada deve garantir que esses funcionários protegem as informações confidenciais ou protegidas constantes desses documentos.
 
-###### Artigo 8.38 — Parte não litigante
+###### Artigo 8.38
+
+## Parte não litigante
 
 1 - No prazo de 30 dias após a receção ou imediatamente após a resolução de um litígio relativo a informações confidenciais ou protegidas, a parte demandada deve transmitir à Parte não litigante:
 
@@ -5330,7 +5338,7 @@ O painel de peritos transmite às Partes o relatório final no prazo de 60 dias 
 
 5 - O Comité de Comércio e Desenvolvimento Sustentável pode recomendar ao Comité Misto CETA alterações às disposições pertinentes do presente capítulo, em conformidade com os procedimentos de alteração previstos no artigo 30.2 (Alterações).
 
-### CAPÍTULO VINTE E QUATRO
+CAPÍTULO VINTE E QUATRO
 
 Comércio e ambiente
 
@@ -6378,7 +6386,7 @@ d) Os direitos sobre mercadorias originárias visadas nas rubricas da categoria 
 
 Para maior certeza, sempre que a União Europeia aplicar um direito aduaneiro sobre os artigos das posições 1001 11 00, 1001 19 00, trigo-mole de alta qualidade das posições ex 1001 99 00, 1002 10 00 e 1002 90 00, a um nível e de modo a que o preço de importação, após pagamento de direitos, de um determinado cereal não seja superior ao preço de intervenção efetivo ou, se houver uma modificação do atual sistema, ao preço de apoio efetivo, aumentado de 55 %, como estabelecido no Regulamento (CE) n.º 642/2010 da Comissão, de 20 de julho de 2010, que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos direitos de importação no setor dos cereais (1), a União Europeia aplica a categoria de escalonamento de eliminação pautal a qualquer direito calculado que seria aplicado em conformidade com o regulamento acima referido, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 e) Os direitos sobre as mercadorias originárias visadas nas rubricas da categoria de escalonamento S da lista de uma Parte são eliminados em três etapas iguais com início no quinto aniversário da data de entrada em vigor do presente Acordo e essas mercadorias são isentas de direitos a partir de 1 de janeiro do ano 8;
 
@@ -6398,7 +6406,7 @@ Contingente pautal transitório para camarões transformados
 
 7 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPCamarões» na lista da União Europeia do presente anexo e enumeradas na alínea d) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) A União Europeia:
 
@@ -6416,7 +6424,7 @@ Contingente pautal transitório para bacalhau congelado
 
 8 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPBacalhau» na lista da União Europeia do presente anexo e enumeradas na alínea c) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) A União Europeia:
 
@@ -6432,7 +6440,7 @@ Contingente pautal transitório para trigo-mole de baixa e média qualidade
 
 9 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPTM» na lista da União Europeia do presente anexo e enumeradas na alínea d) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) A União Europeia deve gerir este contingente pautal em conformidade com o disposto no Regulamento (CE) n.º 1067/2008 da Comissão, de 30 de outubro de 2008.
 
@@ -6444,7 +6452,7 @@ Contingente pautal para milho doce
 
 10 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPMD» na lista da União Europeia do presente anexo e enumeradas na alínea c) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) A União Europeia deve:
 
@@ -6458,7 +6466,7 @@ Contingente pautal para bisontes
 
 11 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPB3» na lista da União Europeia do presente anexo e enumeradas na alínea d) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) Ao calcular as quantidades importadas, os fatores de conversão especificados no ponto 21 devem ser utilizados para converter o peso do produto em equivalente peso-carcaça.
 
@@ -6476,7 +6484,7 @@ Contingente pautal para carne de bovino, fresca ou refrigerada
 
 12 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPB1» na lista da União Europeia do presente anexo e enumeradas na alínea f) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) As quantidades agregadas anuais isentas de direitos no quadro acima são aumentadas, a partir do ano 1, em 3 200 toneladas métricas de peso do produto (4 160 toneladas métricas em equivalente peso-carcaça) em resultado da aplicação do Regulamento (CE) n.º 617/2009 do Conselho, de 13 de julho de 2009, que abre um contingente pautal autónomo para as importações de carne de bovino de alta qualidade.
 
@@ -6494,7 +6502,7 @@ Contingente pautal para carne de bovino, congelada ou outra
 
 13 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPB2» na lista da União Europeia do presente anexo e enumeradas na alínea e) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) Ao calcular as quantidades importadas, os fatores de conversão especificados no ponto 21 devem ser utilizados para converter o peso do produto em equivalente peso-carcaça.
 
@@ -6514,7 +6522,7 @@ Contingente pautal para carne de suíno
 
 15 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas registadas com a menção «CPS» na lista da União Europeia do presente anexo e enumeradas na alínea f) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) As quantidades agregadas anuais isentas de direitos no quadro acima são aumentadas, a partir do ano 1, em 4 624 toneladas métricas de peso do produto (5 549 toneladas métricas em equivalente peso-carcaça), de acordo com o volume estabelecido no contingente pautal OMC da União Europeia específico para o Canadá, para as importações de carne de suíno.
 
@@ -6532,7 +6540,7 @@ Contingente pautal para queijo
 
 16 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPQueijo» na lista do Canadá do presente anexo e enumeradas na alínea d) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) O Canadá deve gerir o presente contingente pautal, quer através de um sistema de concessão de licenças de importação, como delineado na Declaração sobre a gestão dos contingentes pautais, quer conforme acordado entre as Partes.
 
@@ -6546,7 +6554,7 @@ Contingente pautal para queijo industrial
 
 17 - a) As mercadorias originárias nas seguintes quantidades agregadas e visadas nas rubricas com a menção «CPQueijo industrial» na lista do Canadá do presente anexo e enumeradas na alínea d) estão isentas de direitos nos anos a seguir especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) O Canadá deve gerir o presente contingente pautal, quer através de um sistema de concessão de licenças de importação, como delineado na Declaração sobre a gestão dos contingentes pautais, quer conforme acordado entre as Partes.
 
@@ -6584,19 +6592,19 @@ Fatores de conversão
 
 a) Contingentes pautais fixados nos pontos 11, 12 e 13:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 b) Contingente pautal estabelecido no ponto 15:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Pauta aduaneira do Canadá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Lista Pautal da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 2-B — Declaração das Partes sobre a gestão dos contingentes pautais
 
@@ -6782,11 +6790,11 @@ As Partes reconhecem o seu interesse mútuo em cooperar com os Estados Unidos da
 
 ## ANEXO 4-A-1 — Lista referida no artigo 4.1 do anexo 4-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 4-A-2 — Lista referida no artigo 4.3 do anexo 4-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 5-A — Autoridades competentes
 
@@ -6892,9 +6900,9 @@ Notas gerais
 
 #### SECÇÃO A — Medidas sanitárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
-## APÊNDICE A
+APÊNDICE A
 
 Condições especiais no que respeita a determinadas exportações do Canadá para a União Europeia
 
@@ -7022,7 +7030,7 @@ QUADRO 1
 
 Frequência dos controlos fronteiriços das remessas de animais vivos, produtos de origem animal e subprodutos animais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Para efeitos do presente anexo, entende-se por «remessa» uma quantidade de produtos do mesmo tipo, abrangidos pelo mesmo certificado ou documento sanitário, transportados no mesmo meio de transporte, expedidos por um único expedidor e originários da mesma Parte de exportação ou parte dessa Parte.
 
@@ -7238,7 +7246,7 @@ Ministério do Desenvolvimento Económico.
 
 LT
 
-##### Divisão de Organizações Económicas Internacionais;
+Divisão de Organizações Económicas Internacionais;
 
 Departamento de Relações Económicas Externas;
 
@@ -7294,7 +7302,7 @@ Ministério da Justiça, Divisão de Política de Migração e Asilo.
 
 SI
 
-##### Divisão de Política e Legislação de Migração;
+Divisão de Política e Legislação de Migração;
 
 Serviço de Migração;
 
@@ -7678,7 +7686,7 @@ q) Serviços de assessoria e consultoria em matéria de fabrico.
 
 11 - Lista de reservas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 10-F — Memorando de entendimento relativo aos cônjuges de pessoal transferido dentro da empresa
 
@@ -8934,7 +8942,7 @@ c) Para efeitos de revenda ou aluguer a terceiros, desde que a entidade adjudica
 
 2 - Sem prejuízo da aplicação do artigo 19.3, n.º 1, no que diz respeito aos contratos públicos celebrados pelo Department of National Defence, a Royal Canadian Mounted Police, o Department of Fisheries and Oceans for the Canadian Coast Guard, a Canadian Air Transport Security Authority e as forças policiais provinciais e municipais, o presente capítulo abrange unicamente as mercadorias descritas em qualquer das Federal Supply Classifications (FSC) que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Notas ao anexo 19-4 do Canadá
 
@@ -9028,7 +9036,7 @@ l) Geradores.
 
 3 - O presente anexo abrange os contratos públicos referentes aos seguintes serviços por parte de entidades constantes dos anexos 19-1 e 19-2 e da secção A do anexo 19-3:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Notas ao anexo 19-5 do Canadá
 
@@ -9204,7 +9212,7 @@ http://www.gazette.gc.ca
 
 c) Contracting Policy:
 
-http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494§ion=text
+http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494&section=text
 
 2 - Províncias e Territórios:
 
@@ -9630,7 +9638,7 @@ b) The Royal Gazette of Prince Edward Island
 
 2) Decisões judiciais:
 
-a) http://www.gov.pe.ca/courts/supreme/index.php3?number=1000150&lang=E
+a) http://www.gov.pe.ca/courts/supreme/index.php3?number=1000150⟨=E
 
 3) Decisões e procedimentos administrativos:
 
@@ -10134,7 +10142,7 @@ Serviços de construção e concessões de obras (Especificados no anexo 19-6):
 
 Limiares - 5 000 000 DSE.
 
-#### Secção A: Entidades da União Europeia
+Secção A: Entidades da União Europeia
 
 1 - Conselho da União Europeia.
 
@@ -10142,37 +10150,37 @@ Limiares - 5 000 000 DSE.
 
 3 - Serviço Europeu para a Ação Externa (SEAE).
 
-#### Secção B: Autoridades adjudicantes da administração central dos Estados-Membros da União Europeia
+Secção B: Autoridades adjudicantes da administração central dos Estados-Membros da União Europeia
 
 (Nota. - A presente lista é exaustiva.)
 
 Bélgica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Dinamarca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Alemanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Estónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Espanha
 
@@ -10656,7 +10664,7 @@ Caisse nationale d'assurance-vieillesse des travailleurs salariés (CNAVTS).
 
 Croácia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Irlanda
 
@@ -10728,43 +10736,43 @@ Irlanda
 
 Itália
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Luxemburgo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Malta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Países Baixos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Áustria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Portugal
 
@@ -10810,23 +10818,23 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Eslovénia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Finlândia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Suécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Reino Unido
 
@@ -11204,7 +11212,7 @@ Notas ao anexo 19-1 da União Europeia
 
 ## ANEXO 19-2 — Entidades da administração subcentral que adjudicam contratos públicos em conformidade com o disposto no presente capítulo
 
-#### Secção A: Todas as autoridades adjudicantes regionais ou locais
+Secção A: Todas as autoridades adjudicantes regionais ou locais
 
 1 - Todas as autoridades adjudicantes das unidades administrativas, tal como definidas no Regulamento (CE) n.º 1059/2003 - Regulamento NUTS.
 
@@ -11224,7 +11232,7 @@ Serviços de construção e concessões de obras especificados no anexo 19-6:
 
 Limiares - 5 000 0000 DSE.
 
-#### Secção B: Todas as autoridades adjudicantes que são organismos de direito público como definidos na diretivas da União Europeia relativa aos contratos públicos
+Secção B: Todas as autoridades adjudicantes que são organismos de direito público como definidos na diretivas da União Europeia relativa aos contratos públicos
 
 Mercadorias especificadas no anexo 19-4:
 
@@ -11326,13 +11334,13 @@ b) Por uma entidade adjudicante com uma empresa comum de que essa entidade adjud
 
 2 - O presente capítulo compreende apenas os fornecimentos e equipamento descritos nos capítulos da Nomenclatura Combinada (NC) a seguir indicados e que são adquiridos pelos Ministérios da Defesa da Bélgica, Bulgária, República Checa, Dinamarca, Alemanha, Estónia, Grécia, Croácia, Espanha, França, Irlanda, Itália, Chipre, Letónia, Lituânia, Luxemburgo, Hungria, Malta, Países Baixos, Áustria, Polónia, Portugal, Roménia, Eslovénia, Eslováquia, Finlândia, Suécia e Reino Unido abrangidos pelo Acordo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 19-5 — Serviços
 
 Estão incluídos os seguintes serviços da Lista Universal de Serviços, que consta do documento MTN.GNS/W/120:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Notas ao anexo 19-5 da União Europeia
 
@@ -11344,7 +11352,7 @@ Notas ao anexo 19-5 da União Europeia
 
 ## ANEXO 19-6 — Serviços de construção e concessões de obras
 
-#### Secção A: Serviços de construção
+Secção A: Serviços de construção
 
 Definição:
 
@@ -11354,7 +11362,7 @@ Lista da divisão 51, CPC:
 
 Todos os serviços listados na divisão 51.
 
-#### Secção B: Concessão de obras
+Secção B: Concessão de obras
 
 Os contratos de concessões de obras, quando adjudicados por entidades incluídas nas listas dos anexos 19-1 e 19-2, estão sujeitos apenas aos artigos 19.1, 19.2, 19.4, 19.5, 19.6 [exceto o n.º 3, alíneas e) e l)], 19.15 (exceto os n.os 3 e 4) e 19.17 do presente capítulo.
 
@@ -11404,7 +11412,7 @@ Meios eletrónicos ou de suporte papel utilizados para a publicação de disposi
 
 2.1 - Legislação e regulamentação:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial do Estado);
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial do Estado);
 
 2.2 - Decisões judiciais:
 
@@ -11516,29 +11524,29 @@ Meios eletrónicos ou de suporte papel utilizados para a publicação de disposi
 
 13.1 - Legislação:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial da República);
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial da República);
 
 13.2 - Decisões judiciais:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) 1999 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Decisões do Supremo Tribunal - Serviço das Publicações).
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) 1999 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Decisões do Supremo Tribunal - Serviço das Publicações).
 
 14 - Letónia:
 
 14.1 - Legislação:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial).
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial).
 
 15 - Lituânia:
 
 15.1 - Disposições legislativas, regulamentares e administrativas:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Registo de atos jurídicos);
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Registo de atos jurídicos);
 
 15.2 - Decisões judiciais, jurisprudência:
 
-1) Boletim do Supremo Tribunal da Lituânia «[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)»;
+1) Boletim do Supremo Tribunal da Lituânia «[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)»;
 
-2) Boletim do Supremo Tribunal Administrativo da Lituânia «[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)».
+2) Boletim do Supremo Tribunal Administrativo da Lituânia «[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)».
 
 16 - Luxemburgo:
 
@@ -11558,7 +11566,7 @@ Meios eletrónicos ou de suporte papel utilizados para a publicação de disposi
 
 17.2 - Jurisprudência:
 
-1) [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos - Jornal Oficial do Conselho de Contratos Públicos).
+1) [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos - Jornal Oficial do Conselho de Contratos Públicos).
 
 18 - Malta:
 
@@ -11596,7 +11604,7 @@ Meios eletrónicos ou de suporte papel utilizados para a publicação de disposi
 
 21.2 - Decisões judiciais, jurisprudência:
 
-1) «[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)» (Seleção de acórdãos dos painéis de arbitragem e Tribunal Regional de Varsóvia).
+1) «[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)» (Seleção de acórdãos dos painéis de arbitragem e Tribunal Regional de Varsóvia).
 
 22 - Portugal:
 
@@ -11680,7 +11688,7 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 2.1 - Jornal Oficial da União Europeia;
 
-2.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial) http://dv.parliament.bg;
+2.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial) http://dv.parliament.bg;
 
 2.3 - Registo dos Contratos Públicos - http://www.aop.bg.
 
@@ -11726,7 +11734,7 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 11.1 - Jornal Oficial da União Europeia;
 
-11.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Anúncios eletrónicos de contratos públicos da República da Croácia).
+11.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Anúncios eletrónicos de contratos públicos da República da Croácia).
 
 12 - Itália:
 
@@ -11744,15 +11752,15 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 14.1 - Jornal Oficial da União Europeia;
 
-14.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial).
+14.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Jornal Oficial).
 
 15 - Lituânia:
 
 15.1 - Jornal Oficial da União Europeia;
 
-15.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Portal central de contratos públicos);
+15.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Portal central de contratos públicos);
 
-15.3 - Suplemento «[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)» do Jornal Oficial («[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)») da República da Lituânia.
+15.3 - Suplemento «[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)» do Jornal Oficial («[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)») da República da Lituânia.
 
 16 - Luxemburgo:
 
@@ -11764,7 +11772,7 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 17.1 - Jornal Oficial da União Europeia;
 
-17.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos - Jornal Oficial do Conselho de Contratos Públicos).
+17.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos - Jornal Oficial do Conselho de Contratos Públicos).
 
 18 - Malta:
 
@@ -11786,7 +11794,7 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 21.1 - Jornal Oficial da União Europeia;
 
-21.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos).
+21.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Boletim de Contratos Públicos).
 
 22 - Portugal:
 
@@ -11804,7 +11812,7 @@ Meios eletrónicos ou em papel utilizados para publicação dos anúncios previs
 
 24.1 - Jornal Oficial da União Europeia;
 
-24.2 - [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) - http://www.enarocanje.si/?podrocje=portal.
+24.2 - [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) - http://www.enarocanje.si/?podrocje=portal.
 
 25 - Eslováquia:
 
@@ -11832,19 +11840,21 @@ O endereço ou endereços do sítio Web em que as Partes publicam estatísticas 
 
 1 - Os anúncios dos contratos adjudicados pelas entidades constantes dos anexos 19-1 a 19-3 da lista em matéria de acesso ao mercado da União Europeia são publicados no Jornal Oficial da União Europeia, versão em linha, Tenders Electronic Daily - http://ted.europa.eu
 
-## ANEXO 20-A — Parte A
+## ANEXO 20-A
+
+## Parte A
 
 Indicações geográficas que identificam um produto originário da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
-# Parte B — Indicações geográficas que identificam um produto originário do Canadá
+## Parte B — Indicações geográficas que identificam um produto originário do Canadá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 20-B — Termos referidos nos artigos 20.21.11 e 20.21.12
 
-# Parte A
+## Parte A
 
 Valencia Orange.
 
@@ -11866,7 +11876,7 @@ St. George Cheese.
 
 Fromage St-George[s].
 
-# Parte B
+## Parte B
 
 O termo «comté» em associação com géneros alimentícios quando utilizados para referir um condado (por exemplo, «Comté du Prince-Edouard»; «Prince Edward County»; «Comté de Prescott-Russell»; «Prescott-Russell County»).
 
@@ -11938,9 +11948,9 @@ Feriado oficial, todos os sábados e domingos, bem como quaisquer outros dias de
 
 Representante de uma das Partes, um funcionário ou qualquer pessoa singular nomeada por um ministério ou organismo do Estado ou por qualquer outra entidade pública de uma das Partes, que representa a Parte para efeitos de um litígio ao abrigo do presente Acordo;
 
-# Parte requerida, a Parte que se alegue estar a violar as disposições referidas no artigo 29.2; e
+Parte requerida, a Parte que se alegue estar a violar as disposições referidas no artigo 29.2; e
 
-# Parte requerente, qualquer Parte que requeira a constituição de um painel de arbitragem nos termos do artigo 29.6.
+Parte requerente, qualquer Parte que requeira a constituição de um painel de arbitragem nos termos do artigo 29.6.
 
 2 - A Parte requerida é responsável pela gestão logística do processo de arbitragem, designadamente pela organização das audições, salvo acordo em contrário. No entanto, as Partes devem assumir equitativamente as despesas administrativas do processo de arbitragem, bem como a remuneração e as despesas de viagem, alojamento e despesas gerais dos árbitros e respetivos assistentes.
 
@@ -13276,7 +13286,7 @@ Para os exportadores canadianos: o número de empresa do exportador atribuído p
 
 Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão espanhola
 
@@ -13286,23 +13296,23 @@ El exportador de los productos incluidos en el presente documento (autorización
 
 Versão checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão dinamarquesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão alemã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão estónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão inglesa
 
@@ -13320,35 +13330,35 @@ L'exportateur des produits couverts par le présent document (autorisation douan
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão italiana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão letã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão lituana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão húngara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão maltesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão neerlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão portuguesa
 
@@ -13358,23 +13368,23 @@ O abaixo assinado, exportador dos produtos cobertos pelo presente documento (aut
 
 Versão romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão eslovena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão eslovaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão finlandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Versão sueca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 3 — Declaração do fornecedor relativa às matérias não originárias utilizadas na produção de produtos não originários
 
@@ -13386,7 +13396,7 @@ a) As matérias seguintes, que não são originárias da União Europeia/do Cana
 
 b) Todas as outras matérias utilizadas na União Europeia/no Canadá para produzir estes produtos são originárias da União Europeia/do Canadá.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Comprometo-me a apresentar quaisquer outros documentos comprovativos necessários.
 
@@ -13424,11 +13434,11 @@ Notas introdutórias do anexo 5
 
 2 - Aplicam-se as seguintes definições:
 
-### Capítulo, um capítulo do Sistema Harmonizado;
+Capítulo, um capítulo do Sistema Harmonizado;
 
 Posição, um número de quatro algarismos ou os primeiros quatro algarismos de um número utilizado no Sistema Harmonizado;
 
-#### Secção, uma secção do Sistema Harmonizado;
+Secção, uma secção do Sistema Harmonizado;
 
 Subposição, um número de seis algarismos ou os primeiros seis algarismos de um número utilizado no Sistema Harmonizado; e
 
@@ -13474,7 +13484,7 @@ j) Que o peso líquido das matérias não originárias da disposição pautal x 
 
 12 - As regras de origem específicas por produto estabelecidas no presente anexo aplicam-se também a produtos usados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 5-A — Contingentes de origem e alternativas às regras de origem específicas por produto do anexo 5
 
@@ -13518,7 +13528,7 @@ QUADRO A.1
 
 Atribuição do contingente pautal anual para produtos de elevado teor de açúcar (8) exportados do Canadá para a União Europeia (9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas a reexame e crescimento relacionadas com o quadro A.1
 
@@ -13540,7 +13550,7 @@ QUADRO A.2
 
 Atribuição do contingente pautal anual para produtos de confeitaria e preparações à base de chocolate exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas a reexame e crescimento relacionadas com o quadro A.2
 
@@ -13556,7 +13566,7 @@ QUADRO A.3
 
 Atribuição do contingente pautal anual para alimentos transformados exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas a reexame e crescimento relacionadas com o quadro A.3
 
@@ -13572,7 +13582,7 @@ QUADRO A.4
 
 Atribuição do contingente pautal anual para alimentos para cães e gatos exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas a reexame e crescimento relacionadas com o quadro A.4
 
@@ -13590,7 +13600,7 @@ QUADRO B.1
 
 Atribuição do contingente pautal anual para peixe e marisco exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas a crescimento relacionadas com o quadro B.1
 
@@ -13608,25 +13618,25 @@ QUADRO C.1
 
 Atribuição do contingente pautal anual para têxteis exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 QUADRO C.2
 
 Atribuição do contingente pautal anual para vestuário exportado do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 QUADRO C.3
 
 Atribuição do contingente pautal anual para matérias têxteis exportadas da União Europeia para o Canadá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 QUADRO C.4
 
 Atribuição do contingente pautal anual para vestuário exportado da União Europeia para o Canadá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Disposições relativas ao crescimento relacionadas com os quadros C.1, C.2, C.3 e C.4
 
@@ -13644,7 +13654,7 @@ QUADRO D.1
 
 Atribuição do contingente pautal anual para veículos exportados do Canadá para a União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Nota 1
 
@@ -13724,7 +13734,7 @@ A produção na qual o valor de todas as matérias não originárias utilizadas 
 
 Não obstante o que precede e sob reserva de quaisquer condições aplicáveis acordadas pelas Partes, a seguinte regra de origem é aplicável quando a acumulação prevista no anexo 5-A:
 
-#### Secção D - Veículos, nota 1, entra em aplicação:
+Secção D - Veículos, nota 1, entra em aplicação:
 
 Produção na qual o valor de todas as matérias não originárias utilizadas não excede 40 % do valor da transação ou do preço à saída da fábrica do produto.
 
@@ -14418,11 +14428,11 @@ As Partes reconhecem as seguintes entidades, ou seus sucessores notificados por 
 
 Para a União Europeia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Para o Canadá:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 ## ANEXO 3 — Legislação aplicável
 
@@ -15330,11 +15340,11 @@ Aeronautics Act, R.S.C. 1985, c. A-2;
 
 Canadian Aviation Regulations, S.O.R./96-433:
 
-# Parte II, subparte 2 - «Marcação e registo de aeronaves»;
+Parte II, subparte 2 - «Marcação e registo de aeronaves»;
 
-# Parte IV - «Emissão de licenças e formação do pessoal»; e
+Parte IV - «Emissão de licenças e formação do pessoal»; e
 
-# Parte VII - «Serviços aéreos comerciais».
+Parte VII - «Serviços aéreos comerciais».
 
 Descrição: Investimento:
 
@@ -15386,13 +15396,13 @@ Aeronautics Act, R.S.C. 1985, c. A-2;
 
 Canadian Aviation Regulations, S.O.R./96-433:
 
-# Parte IV - «Emissão de licenças e formação do pessoal»;
+Parte IV - «Emissão de licenças e formação do pessoal»;
 
-# Parte V - «Aeronavegabilidade»;
+Parte V - «Aeronavegabilidade»;
 
-# Parte V - «Regras gerais de operação e de voo»; e
+Parte V - «Regras gerais de operação e de voo»; e
 
-# Parte VII - «Serviços aéreos comerciais».
+Parte VII - «Serviços aéreos comerciais».
 
 Descrição: Comércio transfronteiras de serviços:
 
@@ -16808,7 +16818,7 @@ Política sobre a atribuição, venda e locação de loteamentos para chalés e 
 
 Descrição: Investimento:
 
-**O Ministro pode acordar um tratamento preferencial a residentes de Manitoba no que respeita à atribuição, venda e locação de loteamentos para chalés e ao desenvolvimento de estabelecimentos comerciais em parques provinciais e noutras terras públicas.**
+O Ministro pode acordar um tratamento preferencial a residentes de Manitoba no que respeita à atribuição, venda e locação de loteamentos para chalés e ao desenvolvimento de estabelecimentos comerciais em parques provinciais e noutras terras públicas.
 
 Reserva I-PT-43
 
@@ -19778,7 +19788,7 @@ Medidas: Marine Products Processing Act, C.Q.L.R., c. T-11.01.
 
 Descrição: Investimento:
 
-**O Ministro pode, por regulamento, prescrever as normas mínimas de transformação que um operador tem de cumprir na preparação ou fabrico de conservas de produtos marinhos. As normas podem variar em função do produto marinho.**
+O Ministro pode, por regulamento, prescrever as normas mínimas de transformação que um operador tem de cumprir na preparação ou fabrico de conservas de produtos marinhos. As normas podem variar em função do produto marinho.
 
 Reserva I-PT-141
 
@@ -23128,7 +23138,7 @@ Os promotores e acionistas de companhias de seguros de pensões podem ser pessoa
 
 Os rendimentos dos fundos de pensões voluntários complementares, bem como rendimentos semelhantes diretamente relacionados com seguros de pensões voluntários geridos por pessoas que estão registadas nos termos da legislação de outro Estado-Membro da UE e que podem, em conformidade com a legislação em causa, efetuar operações de seguros de pensões voluntários, não são tributáveis em conformidade com o procedimento estabelecido na lei do imposto sobre o rendimento das sociedades.
 
-**O presidente do conselho de direção, o presidente do conselho de administração, o diretor executivo e o agente com funções de gestão têm de ter um endereço permanente ou ser titulares de uma autorização de residência de longa duração na Bulgária.**
+O presidente do conselho de direção, o presidente do conselho de administração, o diretor executivo e o agente com funções de gestão têm de ter um endereço permanente ou ser titulares de uma autorização de residência de longa duração na Bulgária.
 
 Setor: Serviços relacionados com o turismo e viagens.
 
@@ -23952,7 +23962,7 @@ Medidas:
 
 Lei dinamarquesa sobre a aquisição de bens imóveis;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 566 af 28. august 1986 om erhvervelse af fast ejendom (Lei n.º 566 do Ministério da Justiça, de 28 de agosto de 1985, alterada pela Lei n.º 1102, de 21 de dezembro de 1994, e a Portaria n.º 764, de 18 de setembro de 1995;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 566 af 28. august 1986 om erhvervelse af fast ejendom (Lei n.º 566 do Ministério da Justiça, de 28 de agosto de 1985, alterada pela Lei n.º 1102, de 21 de dezembro de 1994, e a Portaria n.º 764, de 18 de setembro de 1995;
 
 Lei dinamarquesa sobre a propriedade agrícola (lov om landbrugsejendomme).
 
@@ -23988,7 +23998,7 @@ Acesso ao mercado.
 
 Nível de governo: Nacional.
 
-Medidas: [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 1053 af 29. Oktober 2009 (Lei n.º 1053, de 29 de outubro de 2009, sobre a administração da justiça).
+Medidas: [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 1053 af 29. Oktober 2009 (Lei n.º 1053, de 29 de outubro de 2009, sobre a administração da justiça).
 
 Descrição: Investimento e comércio transfronteiras de serviços:
 
@@ -24076,7 +24086,7 @@ Tratamento de nação mais favorecida.
 
 Nível de governo: Nacional.
 
-Medidas: Lov om [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) og tolke (Lei sobre tradutores e intérpretes autorizados), Lei n.º 181, de 25 de março de 1988, artigos 1 e 1a.
+Medidas: Lov om [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) og tolke (Lei sobre tradutores e intérpretes autorizados), Lei n.º 181, de 25 de março de 1988, artigos 1 e 1a.
 
 Descrição: Comércio transfronteiras de serviços:
 
@@ -24152,7 +24162,7 @@ Medidas:
 
 Lov om Dansk Internationalt Skibsregister (Lei sobre o registo internacional de navios dinamarquês), n.º 1 (2);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei dinamarquesa sobre a marinha mercante), n.º 1 (2);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei dinamarquesa sobre a marinha mercante), n.º 1 (2);
 
 Lov om havne (Lei dos portos), artigos 9 (6-7) e 10 (4-5).
 
@@ -24188,7 +24198,7 @@ Medidas:
 
 Lov om Dansk Internationalt Skibsregister (Lei sobre o registo internacional de navios dinamarquês), n.º 1 (2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei dinamarquesa sobre a marinha mercante), n.º 1 (2).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei dinamarquesa sobre a marinha mercante), n.º 1 (2).
 
 Lov om havne (Lei dos portos), artigos 9 (6-7) e 10 (4-5).
 
@@ -24210,7 +24220,7 @@ Tipo de reserva: Acesso ao mercado.
 
 Nível de governo: Nacional.
 
-Medidas: [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 724 af 1. juli 2008 om indretning, etablering og drift af olietanke, [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) og pipelines (Portaria sobre a conceção, instalação e operação de tanques de petróleo, sistemas de tubagens e condutas), n.º 724, de 1 de julho de 2008.
+Medidas: [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) nr. 724 af 1. juli 2008 om indretning, etablering og drift af olietanke, [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) og pipelines (Portaria sobre a conceção, instalação e operação de tanques de petróleo, sistemas de tubagens e condutas), n.º 724, de 1 de julho de 2008.
 
 Descrição: Investimento:
 
@@ -25006,7 +25016,7 @@ Medidas:
 
 § 9 Abs. 1 Nr. 1 Saarländisches Mediengesetz (SMG) vom 27. Februar 2002 (Amtsbl. S. 498), zuletzt geändert durch Art. 1 ÄndG vom 22. 4. 2013 (Amtsbl. I S. 111);
 
-###### Art. 5 Abs. 2 Bayerisches Pressegesetz in der Fassung der Bekanntmachung v. 19. April 2000 (GVBl, S. 340), zuletzt geändert durch Gesetz v. 22.12.2009 (GVBl. S. 630).
+Art. 5 Abs. 2 Bayerisches Pressegesetz in der Fassung der Bekanntmachung v. 19. April 2000 (GVBl, S. 340), zuletzt geändert durch Gesetz v. 22.12.2009 (GVBl. S. 630).
 
 Descrição: Investimento:
 
@@ -27324,7 +27334,7 @@ Descrição: Investimento, comércio transfronteiras de serviços e serviços de
 
 É exigida uma licença de Transport Malta para o aluguer de navios com tripulação no caso de navios cujas atividades se limitam às vias navegáveis locais. Obrigações de serviço público específicas regem exclusivamente o transporte marítimo comercial nas águas de Malta.
 
-No que respeita às restrições em matéria de cabotagem entre Malta e Gozo, os direitos exclusivos são concedidos em função das concessões atribuídas pelo governo. Esta exclusividade aplica-se apenas ao transporte de passageiros, de veículos e de mercadorias entre Malta e Gozo, entre o porto de Cirkewwa e o porto de Marsamxetto (Malta) e o porto de [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Gozo). As tarifas desses serviços são reguladas por lei através da regulamentação dos serviços de passageiros e mercadorias de Gozo (tarifas) (SL 499.31) (SL 499.31).
+No que respeita às restrições em matéria de cabotagem entre Malta e Gozo, os direitos exclusivos são concedidos em função das concessões atribuídas pelo governo. Esta exclusividade aplica-se apenas ao transporte de passageiros, de veículos e de mercadorias entre Malta e Gozo, entre o porto de Cirkewwa e o porto de Marsamxetto (Malta) e o porto de [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Gozo). As tarifas desses serviços são reguladas por lei através da regulamentação dos serviços de passageiros e mercadorias de Gozo (tarifas) (SL 499.31) (SL 499.31).
 
 Condição de nacionalidade para serviços de apoio.
 
@@ -28500,7 +28510,7 @@ Tipo de reserva: Acesso ao mercado.
 
 Nível de governo: Nacional.
 
-Medidas: [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei sobre os advogados), texto não oficial consolidado preparado pelo Parlamento esloveno a partir de 21.5.2009).
+Medidas: [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Lei sobre os advogados), texto não oficial consolidado preparado pelo Parlamento esloveno a partir de 21.5.2009).
 
 Descrição: Investimento:
 
@@ -28524,7 +28534,7 @@ Acesso ao mercado.
 
 Nível de governo: Nacional.
 
-Medidas: [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf), (Lei da auditoria - Gazeta Oficial RS n.º 65/2008).
+Medidas: [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf), (Lei da auditoria - Gazeta Oficial RS n.º 65/2008).
 
 Descrição: Comércio transfronteiras de serviços:
 
@@ -29112,7 +29122,7 @@ Nível de governo: Nacional.
 
 Medidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Código sueco do procedimento judicial) (1942:740);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf) (Código sueco do procedimento judicial) (1942:740);
 
 Código de deontologia da Ordem dos Advogados, adotado em 29 de agosto de 2008.
 
@@ -35354,7 +35364,7 @@ Descrição: Serviços financeiros:
 
 As apólices de seguros obrigatórios de transporte aéreo só podem ser subscritas por uma filial estabelecida na UE ou por uma sucursal estabelecida na Alemanha.
 
-Medidas em vigor: [([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+Medidas em vigor: [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
 
 Setor: Serviços financeiros.
 
@@ -35946,7 +35956,7 @@ c) Rejeitar a aquisição de ações, sempre que o comprador procure manter um n
 
 Qualquer decisão, lei ou operação (transferências, fusões, cisões, mudanças de atividade, rescisões) relativas aos ativos estratégicos nos domínios da energia, dos transportes e das comunicações devem ser notificadas pela empresa em causa ao gabinete do Primeiro-Ministro. Em especial, devem ser notificadas as aquisições por qualquer pessoa singular ou coletiva de fora da UE que confiram a essa pessoa o controlo sobre a empresa.
 
-**O Primeiro-Ministro pode exercer os seguintes poderes especiais para:**
+O Primeiro-Ministro pode exercer os seguintes poderes especiais para:
 
 a) Vetar qualquer decisão, lei e operação que constitua uma ameaça excecional de prejuízo grave para o interesse público no domínio da segurança e exploração das redes e fornecimentos;
 
@@ -41582,4 +41592,6 @@ Os fundos de investimento que oferecem valores mobiliários no Canadá devem rec
 
 2) Após 17 de julho de 2014, mas antes da data de entrada em vigor do presente Acordo, se determinar que a instituição financeira deve passar a ser de participação múltipla mas esta não envidar esforços razoáveis nesse sentido até à data de entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24401/0000200516.pdf)
+
+0392017

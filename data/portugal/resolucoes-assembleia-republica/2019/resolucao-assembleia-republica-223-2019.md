@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0009500122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/223/2019/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/223-2019-125933887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0abf48b88c0d3b74a801ceda7eabf1476d85ac228dbe32466a78b9157c62dee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c57986153401b02903cc9c8bccb614ec06296b123fa43bca04ceec440e7c15f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
+- Branqueamento de Capitais
+- Bruxelas
 - CE Países
-- Investigação Científica e Tecnológica
+- Cibercrime
+- Combate à Droga
 - Combate ao Terrorismo
 - Comité Misto
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Bilateral
-- Política de Cooperação
-- Cooperação Diplomática
-- Cooperação Técnica
-- Combate à Droga
-- Política Energética
-- União Europeia
-- Cooperação Policial
-- Pesca
-- Branqueamento de Capitais
-- Cibercrime
-- Política de Transportes
-- Nova Zelândia
 - Cooperação Agrícola
+- Cooperação Bilateral
 - Cooperação Cultural
+- Cooperação Diplomática
 - Cooperação Económica
 - Cooperação Europeia
 - Cooperação Internacional
 - Cooperação Judiciária
-- Política de Emprego
+- Cooperação Policial
+- Cooperação Técnica
+- Investigação Científica e Tecnológica
+- Nova Zelândia
+- Pesca
 - Política Agrícola
+- Política de Cooperação
+- Política de Emprego
+- Política de Transportes
+- Política Energética
+- Proteção Civil
 - Relações Consulares
-- Bruxelas
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:125933883:por
+  label: Ratificado o presente Acordo de Parceria pelo(a) Decreto do Presidente da República n.º 68/2019 - Diário da República
+    n.º 214/2019, Série I de 2019-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/68-2019-125933883
+  date: '2019-11-07'
 article_structure:
   article_count: 60
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:57Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +125,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 10 de maio de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA SOBRE AS RELAÇÕES E A COOPERAÇÃO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A NOVA ZELÂNDIA, POR OUTRO
 
@@ -159,7 +165,7 @@ Salientando que, caso as Partes decidam, no âmbito do presente acordo, celebrar
 
 acordaram no seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -203,7 +209,7 @@ f) Intercâmbios de delegações entre o Parlamento Europeu e o Parlamento da No
 
 As Partes comprometem-se a cooperar através do intercâmbio de opiniões sobre as questões políticas de interesse mútuo e, se for caso disso, partilhando informações sobre as posições respetivas nas instâncias e organizações regionais e internacionais.
 
-## TÍTULO II
+TÍTULO II
 
 Diálogo político e cooperação sobre as questões de política externa e de segurança
 
@@ -281,7 +287,7 @@ e) Promovendo a cooperação entre os membros da ONU para aplicar a Estratégia 
 
 4 - As Partes reiteram o seu compromisso de trabalhar em conjunto para prestar assistência ao desenvolvimento de capacidades na luta contra o terrorismo a outros Estados que carecem de recursos e conhecimentos especializados para prevenir e dar resposta às atividades terroristas, nomeadamente no âmbito do Fórum Mundial contra o Terrorismo.
 
-## TÍTULO III
+TÍTULO III
 
 Cooperação em matéria de desenvolvimento mundial e de ajuda humanitária
 
@@ -301,7 +307,7 @@ b) Trocar informações sobre os programas de desenvolvimento respetivos e, se f
 
 As Partes reafirmam o seu empenho comum na ajuda humanitária e procurarão proporcionar respostas coordenadas sempre que adequado.
 
-## TÍTULO IV
+TÍTULO IV
 
 Cooperação sobre as questões económicas e comerciais
 
@@ -435,7 +441,7 @@ Esta cooperação visa concretamente melhorar a competitividade das pequenas e m
 
 Reconhecendo o valor do turismo no aprofundamento da compreensão e apreciação mútuas entre as populações da União Europeia e da Nova Zelândia, bem como as vantagens económicas decorrentes do crescimento do turismo, as Partes acordam em cooperar com vista a aumentar esta atividade nos dois sentidos entre a União e a Nova Zelândia.
 
-## TÍTULO V
+TÍTULO V
 
 Cooperação em matéria de justiça, liberdade e segurança
 
@@ -507,7 +513,7 @@ De acordo com as suas obrigações internacionais, nomeadamente no quadro da Con
 
 2 - Tal cooperação pode incluir, nomeadamente, o intercâmbio de informações e de conhecimentos especializados. Pode ainda contemplar a cooperação entre organismos de regulação homólogos, tais como o grupo de trabalho da OCDE sobre segurança e privacidade na economia digital (Working Party on Security and Privacy in the Digital Economy) e a rede global para a proteção da vida privada (Global Privacy Enforcement Network).
 
-## TÍTULO VI
+TÍTULO VI
 
 Cooperação nos domínios da investigação, da inovação e da sociedade da informação
 
@@ -533,7 +539,7 @@ d) Aspetos das tecnologias e serviços de informação e comunicação ligados �
 
 e) Intercâmbio de opiniões sobre as medidas destinadas a abordar a questão dos custos de roaming nas comunicações internacionais.
 
-## TÍTULO VII
+TÍTULO VII
 
 Cooperação nos domínios da educação, da cultura e dos laços entre as pessoas
 
@@ -571,7 +577,7 @@ d) Apoio às reformas das políticas através de estudos, conferências, seminá
 
 Reconhecendo o valor dos laços entre as pessoas e o seu contributo para melhorar a compreensão entre a União Europeia e a Nova Zelândia, as Partes acordam em fomentar, promover e aprofundar esses laços, conforme adequado. Tais laços podem incluir intercâmbios de funcionários e estágios de curta duração para estudantes de cursos de pós-graduação.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Cooperação nos domínios do desenvolvimento sustentável, da energia e dos transportes
 
@@ -697,7 +703,7 @@ d) Facilitar a adesão às ORGP quando uma Parte é membro e a outra Parte é ca
 
 4 - A cooperação pode assumir, entre outras, as seguintes formas: programas e projetos específicos, definidos em conjunto, diálogo, cooperação e iniciativas sobre temas de interesse comum a nível bilateral ou multilateral.
 
-## TÍTULO IX
+TÍTULO IX
 
 Quadro institucional
 
@@ -757,7 +763,7 @@ i) Formular recomendações e adotar decisões necessárias à execução de cer
 
 8 - As Partes devem acompanhar de forma permanente a evolução da situação que deu origem às medidas previstas no presente artigo. A Parte que toma as medidas adequadas deve retirá-las logo que estas deixem de se justificar e, em qualquer caso, logo que as circunstâncias que tiverem dado origem à sua aplicação deixem de existir.
 
-## TÍTULO X
+TÍTULO X
 
 Disposições finais
 
@@ -793,4 +799,6 @@ O presente Acordo é aplicável, por um lado, aos territórios abrangidos pelo T
 
 O presente Acordo é redigido em dois exemplares, nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todas as versões. Em caso de discrepâncias entre os textos do presente Acordo, as Partes devem submeter a questão à apreciação do Comité Misto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0009500122.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0009500122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0009500122.pdf)
+
+272019

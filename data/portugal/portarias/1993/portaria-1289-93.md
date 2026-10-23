@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1289/1993/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1289-1993-540983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b76f223310f93b7b4e57ea0152914ec4cc6e1eceed5590e19efc67a5e320a779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61b72b782b921f989799342e5b19e84b9572a0bf1b1896c85e3ca605ae91faae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475550:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:47Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +118,6 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o segu
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 24 de Novembro de 1993.**
+Assinada em 24 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

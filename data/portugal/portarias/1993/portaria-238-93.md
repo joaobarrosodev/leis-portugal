@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 49/1993, 1º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 862-(4) a 862-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b01/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/238/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-1993-485585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af937a01f2826cb119b052eb3ffe253eb207810657ba3cab47de8720a62f994a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26468eed3e3bc0642722ed64b8d36ee43913cd962e994fb56cd0246489cc2171
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/795/1992/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/795/1992/08/17/p/dre
+- type: cites
+  target: pt:dre:282152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546418:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:17Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +114,6 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abr
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 23 de Fevereiro de 1993.**
+Assinada em 23 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

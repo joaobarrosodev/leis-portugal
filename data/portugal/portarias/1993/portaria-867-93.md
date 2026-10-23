@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/867/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-1993-660300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4fcc59e91f7713b3c21197db41e374ac01b63457557ef7ddeb87959ddda6a73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a75128100d317903841cb8fd10b47bb45878992203c94fed3099e48eba9c011c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,23 +71,69 @@ subjects:
 - Curso de Estudos Superiores Especializados em Engenharia e Gestão de Projectos e Obras
 - Curso de Estudos Superiores Especializados em Gestão e Informática
 - Ensino Particular
-- Instituto Politécnico Autónomo
 - Ensino Superior
+- Instituto Politécnico Autónomo
 relationships:
 - type: amended_by
   target: pt:dre:623024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291886:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, a autorização de funcionamento do curso de estudos superiores especializados em Engenharia Civil pela PORT.1116/99.1999.12.28.ME,DR.IS-B\
+    \ [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1999-291886
+  date: '1999-12-28'
+- type: amended_by
+  target: pt:dre:510267:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, a autorização de funcionamento do curso de estudos superiores especializados em Engenharia de Máquinas (ramos\
+    \ de Energia e Produção Automóvel) pela PORT.1/2000.2000.01.04.ME,DR.IS-B [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-2000-510267
+  date: '2000-01-04'
+- type: amended_by
+  target: pt:dre:532472:por
+  label: "Caducada a autorização de funcionamento do Curso de Estudos Superiores Especializados em Engenharia e Gestão de\
+    \ Projectos e Obras, pela PORT.996/2000.2000.10.17.ME DR.IS-B [240], nos termos do disposto no respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/996-2000-532472
+  date: '2000-10-17'
+- type: amended_by
+  target: pt:dre:532863:por
+  label: "Determinada a caducidade, nos termos do art. 3.º, da autorização de funcionamento do curso de estudos superiores\
+    \ especializados em Auditoria e Revisão de Contas, concedida pelo presente diploma, pela PORT.1000/2000.2000.10.18.ME\
+    \ DR.IS-B [241\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1000-2000-532863
+  date: '2000-10-18'
+- type: amended_by
+  target: pt:dre:623024:por
+  label: "Caducada a autorização de funcionamento do Curso de Estudos Superiores Especializados em Informática de Gestão e\
+    \ Informática concedida pelo presente diploma, pela PORT.1041/2000.2000.10.27.ME DR.IS-B [249], nos termos do respectivo\
+    \ art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1041-2000-623024
+  date: '2000-10-27'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:58Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +170,8 @@ Engenharia de Máquinas (ramos de Produção Automóvel e Energia).
 
 Ministério da Educação.
 
-**Assinada em 17 de Agosto de 1993.**
+Assinada em 17 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49394941.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49394941.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49394941.pdf)

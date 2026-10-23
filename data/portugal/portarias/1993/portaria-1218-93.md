@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1218/1993/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1218-1993-676026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a459061523821e8aef469563bd4ba5f79bccf3d38ce58749dd774f10983908d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615d4f8bc6b8471c6985b41842412edd23b41bb3115f7ad4829269fe7ed88c6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação de Professores
-- Universidade NOVA de Lisboa
-- Faculdade de Ciências Sociais e Humanas
-- Faculdade de Letras
-- Universidade de Lisboa
-- Universidade do Porto
-- Licenciatura
-- Numerus Clausus
+- Ensino Superior
 - Estabelecimento de Ensino
 - Estágio de Formação
-- Ensino Superior
+- Faculdade de Ciências Sociais e Humanas
+- Faculdade de Letras
+- Formação de Professores
+- Licenciatura
+- Numerus Clausus
 - Universidade de Coimbra
-relationships: []
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:355539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:01Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +127,7 @@ Faculdade de Letras da Universidade de Coimbra
 
 O máximo de vagas para os estágios do ramo de formação educacional dos cursos de licenciatura da Faculdade de Letras da Universidade de Coimbra no ano lectivo de 1993-1994 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf))](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
 
 2.º
 
@@ -119,7 +135,7 @@ Faculdade de Letras da Universidade de Lisboa
 
 O número máximo de vagas para os estágios do ramo de formação educacional dos cursos de licenciatura da Faculdade de Letras da Universidade de Lisboa no ano lectivo de 1993-1994 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf))](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
 
 3.º
 
@@ -127,7 +143,7 @@ Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa
 
 O número máximo de vagas para os estágios do ramo de formação educacional dos cursos de licenciatura da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa no ano lectivo de 1993-1994 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf))](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
 
 4.º
 
@@ -135,7 +151,7 @@ Faculdade de Letras da Universidade do Porto
 
 O número máximo de vagas para os estágios do ramo de formação educacional dos cursos de licenciatura da Faculdade de Letras da Universidade do Porto no ano lectivo de 1993-1994 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf))](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/271b00/64546455.pdf)
 
 5.º
 
@@ -159,6 +175,6 @@ Impossibilidade de constituir turmas
 
 Ministério da Educação.
 
-**Assinada em 27 de Outubro de 1993.**
+Assinada em 27 de Outubro de 1993.
 
 Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.

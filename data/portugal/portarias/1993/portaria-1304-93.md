@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1304/1993/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1304-1993-167819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8e123aebced1054671c0f0a8ea50aa54ae56d599aff08ca54fe504050157437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eafa1a0a9c37275d0e17d96acb2745ad2d60e60e2543fa845fccfd5d6fc3fe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,22 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186300:por
+  label: "Alterado o quadro de pessoal, pela PORT.701/96.1996.12.06.PCM DR.IIS [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1996-186300
+  date: '1996-12-06'
+- type: amended_by
+  target: pt:dre:303181:por
+  label: "Alterado o Quadro de Pessoal aprovado pelo presente diploma, pela PORT.383/2000.2000.06.28.MF, DR.IS-B [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-2000-303181
+  date: '2000-06-28'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de Nossa Senhora da Graça - Tomar aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
@@ -89,16 +105,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287835:por
+  label: "RECTIFICADA PELA DECL-RECT 12/94 DE 31-JAN DR.IS-B [25]2SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/12-1994-287835
+  date: '1994-01-31'
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:11Z'
   warnings: []
   errors: []
 ---
@@ -127,26 +192,26 @@ Repartição de Pessoal e Admissão de Doentes:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes, Arquivo e Estatística;
+Secção de Admissão de Doentes, Arquivo e Estatística;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica e Previsional;
+Secção de Contabilidade Analítica e Previsional;
 
 Repartição de Aprovisionamento:
 
 #### Secção de Compras;
 
-#### Secção de Armazéns.
+Secção de Armazéns.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Novembro de 1993.**
+Assinada em 24 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/300b00/71717175.pdf))](https://files.diariodarepublica.pt/1s/1993/12/300b00/71717175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/300b00/71717175.pdf)

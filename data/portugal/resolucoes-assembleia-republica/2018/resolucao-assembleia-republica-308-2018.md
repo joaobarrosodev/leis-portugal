@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23100/0546805479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/308/2018/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/308-2018-117184158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90594806ee49a0b5776eca9657f75f850b467f45d25b865fb0a4a3bba2260b54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60f96f9dc487dd2107ea01f2f728713643321cfc100482c92315f485256d91dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,29 @@ subjects:
 - Aeronave com Motor
 - Avião
 - Combate ao Terrorismo
-- Transporte Aéreo
 - Convenção
-- Terrorismo
 - Pequim
 - Segurança Aérea
 - Segurança da Navegação
-relationships: []
+- Terrorismo
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:117184156:por
+  label: Ratificado o Protocolo pelo(a) Decreto do Presidente da República n.º 84/2018 - Diário da República n.º 231/2018,
+    Série I de 2018-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/84-2018-117184156
+  date: '2018-11-30'
 article_structure:
-  article_count: 0
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:15Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de outubro de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOL SUPPLEMENTARY TO THE CONVENTION FOR THE SUPPRESSION OF UNLAWFUL SEIZURE OF AIRCRAFT
 
@@ -640,11 +646,11 @@ Convencidos de que, para melhor enfrentar tais ameaças, é necessário adotar d
 
 acordaram nas seguintes disposições:
 
-Artigo I
+###### Artigo I
 
 O presente Protocolo complementa a Convenção para a Repressão da Captura Ilícita de Aeronaves, assinada em Haia, em 16 de dezembro de 1970 (daqui em diante designada por «a Convenção»).
 
-Artigo II
+###### Artigo II
 
 O artigo 1.º da Convenção será substituído pelo seguinte:
 
@@ -680,7 +686,7 @@ i) O propósito de facilitar a atividade ou a finalidade criminosa generalizada 
 
 ii) O conhecimento da intenção do grupo em cometer os crimes previstos nos parágrafos 1 ou 2 do presente artigo.»
 
-Artigo III
+###### Artigo III
 
 O artigo 2.º da Convenção será substituído pelo seguinte:
 
@@ -688,7 +694,7 @@ O artigo 2.º da Convenção será substituído pelo seguinte:
 
 Cada Estado Parte compromete-se a estabelecer penas severas para os crimes previstos no artigo 1.º»
 
-Artigo IV
+###### Artigo IV
 
 O seguinte texto deve ser aditado como artigo 2.º bis da Convenção:
 
@@ -700,7 +706,7 @@ O seguinte texto deve ser aditado como artigo 2.º bis da Convenção:
 
 3 - Se um Estado Parte adotar as medidas necessárias para que a entidade jurídica seja responsabilizada em conformidade com o disposto no parágrafo 1 do presente artigo, deverá assegurar que as sanções penais, civis ou administrativas a aplicar são eficazes, proporcionais e dissuasivas. Essas sanções podem incluir sanções pecuniárias.»
 
-Artigo V
+###### Artigo V
 
 1 - O artigo 3.º, parágrafo 1, da Convenção, será substituído pelo seguinte:
 
@@ -716,7 +722,7 @@ Artigo V
 
 «5 - Não obstante o disposto nos parágrafos 3 e 4 do presente artigo, os artigos 6.º, 7.º, 7.º bis, 8.º, 8.º bis, 8.º ter e 10.º serão aplicados independentemente do lugar de descolagem ou de aterragem da aeronave, se o autor ou o presumível autor se encontrar no território de um Estado distinto do Estado de registo daquela aeronave.»
 
-Artigo VI
+###### Artigo VI
 
 O seguinte texto deve ser aditado como artigo 3.º bis da Convenção:
 
@@ -728,7 +734,7 @@ O seguinte texto deve ser aditado como artigo 3.º bis da Convenção:
 
 3 - O disposto no parágrafo 2 do presente artigo não deve ser interpretado como aceitável ou considerando lícitos os atos de outra forma ilícitos, ou impeditivo de julgamento ao abrigo de outras leis.»
 
-Artigo VII
+###### Artigo VII
 
 O artigo 4.º da Convenção será substituído pelo seguinte:
 
@@ -756,7 +762,7 @@ b) Quando o crime for cometido por apátridas cuja residência habitual se situa
 
 4 - Esta Convenção não exclui nenhuma jurisdição penal exercida de acordo com as leis nacionais.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo 5.º da Convenção será substituído pelo seguinte:
 
@@ -764,7 +770,7 @@ O artigo 5.º da Convenção será substituído pelo seguinte:
 
 Os Estados Partes que constituam organizações de exploração conjunta do transporte aéreo ou organismos internacionais de exploração que utilizem aeronaves que sejam objeto de uma matrícula internacional ou comum, devem, pelos meios adequados, designar para cada aeronave qual dos Estados entre si deve exercer a jurisdição e assumir as atribuições do Estado de matrícula para efeitos da presente Convenção, e deve comunicar tal facto ao Secretário-Geral da Organização da Aviação Civil Internacional, que dará conhecimento a todos os Estados Partes da presente Convenção.»
 
-Artigo IX
+###### Artigo IX
 
 O artigo 6.º, parágrafo 4, da Convenção, será substituído pelo seguinte:
 
@@ -772,7 +778,7 @@ O artigo 6.º, parágrafo 4, da Convenção, será substituído pelo seguinte:
 
 4 - Quando um Estado Parte efetuar a detenção de uma pessoa ao abrigo do presente artigo, deverá comunicar imediatamente tal detenção aos Estados Partes que tenham estabelecido a sua jurisdição nos termos do parágrafo 1 do artigo 4.º, e estabelecido a sua jurisdição e notificado o Depositário ao abrigo do parágrafo 2 do artigo 4.º e, se considerar conveniente, deve avisar qualquer outro Estado interessado sobre a detenção efetuada e sobre as circunstâncias que justificam a detenção dessa pessoa. O Estado Parte que proceder ao inquérito preliminar previsto no parágrafo 2 do presente artigo deverá comunicar imediatamente as suas conclusões aos referidos Estados Partes e indicar a sua pretensão de exercer a sua jurisdição.»
 
-Artigo X
+###### Artigo X
 
 O seguinte texto deve ser aditado como artigo 7.º bis da Convenção:
 
@@ -780,7 +786,7 @@ O seguinte texto deve ser aditado como artigo 7.º bis da Convenção:
 
 Qualquer pessoa que seja detida, ou contra a qual quaisquer outras medidas ou procedimentos sejam adotados em conformidade com esta Convenção, beneficiará da garantia de um tratamento justo, incluindo o exercício de todos os direitos e garantias em conformidade com a lei do Estado em cujo território essa pessoa se encontre e com as disposições aplicáveis do direito internacional, incluindo o direito internacional em matéria dos direitos humanos.»
 
-Artigo XI
+###### Artigo XI
 
 O artigo 8.º da Convenção será substituído pelo seguinte:
 
@@ -796,7 +802,7 @@ O artigo 8.º da Convenção será substituído pelo seguinte:
 
 5 - Os crimes previstos nas alíneas a) e b) do parágrafo 4 do artigo 1.º devem, para efeitos de extradição entre os Estados Partes, ser tratados como equivalentes.»
 
-Artigo XII
+###### Artigo XII
 
 O seguinte texto deve ser aditado como artigo 8.º bis da Convenção:
 
@@ -804,7 +810,7 @@ O seguinte texto deve ser aditado como artigo 8.º bis da Convenção:
 
 Nenhum dos crimes previstos no artigo 1.º será considerado, para efeitos de extradição ou de assistência jurídica mútua, como um crime político, como um crime relacionado com um crime político nem como um crime inspirado por motivos políticos. Por conseguinte, um pedido de extradição ou de assistência jurídica mútua com base em tal crime não pode ser recusado com o único fundamento de se tratar de um crime político, ou um crime relacionado com um crime político ou um crime inspirado por motivos políticos.»
 
-Artigo XIII
+###### Artigo XIII
 
 O seguinte texto deve ser aditado como artigo 8.º ter da Convenção:
 
@@ -812,7 +818,7 @@ O seguinte texto deve ser aditado como artigo 8.º ter da Convenção:
 
 Nada na presente Convenção será interpretado como impondo uma obrigação de extraditar ou de prestar assistência jurídica mútua se o Estado Parte requerido tiver motivos substanciais para crer que o pedido de extradição por crimes previstos no artigo 1.º ou de assistência jurídica mútua em relação a tais crimes tenha sido formulado com o propósito de processar ou de punir uma pessoa por motivos de raça, religião, nacionalidade, origem étnica, opinião política ou género, ou que o cumprimento do pedido poderia prejudicar a situação dessa pessoa por qualquer um destes motivos.»
 
-Artigo XIV
+###### Artigo XIV
 
 O artigo 9.º, parágrafo 1, da Convenção, será substituído pelo seguinte:
 
@@ -820,7 +826,7 @@ O artigo 9.º, parágrafo 1, da Convenção, será substituído pelo seguinte:
 
 1 - Quando se realiza qualquer um dos atos previstos no parágrafo 1 do artigo 1.º ou esteja iminente a sua realização, os Estados Partes tomarão as medidas adequadas para que o legítimo comandante da aeronave recupere ou mantenha o controlo da mesma.»
 
-Artigo XV
+###### Artigo XV
 
 O artigo 10.º, parágrafo 1, da Convenção, será substituído pelo seguinte:
 
@@ -828,7 +834,7 @@ O artigo 10.º, parágrafo 1, da Convenção, será substituído pelo seguinte:
 
 1 - Os Estados Partes devem prestar mutuamente a maior assistência possível no que respeita a qualquer processo penal relativo aos crimes previstos no artigo 1.º e com os demais atos previstos no artigo 4.º. A legislação do Estado requerido será aplicada em todos os casos.»
 
-Artigo XVI
+###### Artigo XVI
 
 O seguinte texto deve ser aditado como artigo 10.º bis da Convenção:
 
@@ -836,25 +842,25 @@ O seguinte texto deve ser aditado como artigo 10.º bis da Convenção:
 
 Qualquer Estado Parte que tenha motivos para acreditar que será cometido um dos crimes previstos no artigo 1.º deve, de acordo com a sua legislação nacional, prestar quaisquer informações relevantes de que disponha aos Estados Partes que, em sua opinião, são os Estados previstos nos parágrafos 1 e 2 do artigo 4.º.»
 
-Artigo XVII
+###### Artigo XVII
 
 1 - Na Convenção, todas as referências a «Estado Contratante» e «Estados Contratantes» serão substituídas por «Estado Parte» e «Estados Partes», respetivamente.
 
 2 - No texto em inglês da Convenção, todas as referências a «him» e «his» serão substituídas por «that person» e «that person's», respetivamente.
 
-Artigo XVIII
+###### Artigo XVIII
 
 Os textos da Convenção nos idiomas árabe e chinês, anexos ao presente Protocolo, juntamente com os textos da Convenção em inglês, francês, russo e espanhol, constituirão textos igualmente autênticos nos seis idiomas.
 
-Artigo XIX
+###### Artigo XIX
 
 Entre os Estados Partes do presente Protocolo, a Convenção e o presente Protocolo devem ser lidos e interpretados conjuntamente, como um instrumento único, e devem ser conhecidos como a Convenção de Haia, alterada pelo Protocolo de Pequim de 2010.
 
-Artigo XX
+###### Artigo XX
 
 O presente Protocolo estará aberto para assinatura em Pequim, em 10 de setembro de 2010, pelos Estados que participaram na Conferência Diplomática sobre a Segurança da Aviação realizada em Pequim de 30 de agosto a 10 de setembro de 2010. Após o dia 27 de setembro de 2010, o presente Protocolo estará aberto a todos os Estados para assinatura na Sede da Organização da Aviação Civil Internacional, em Montreal, até à sua entrada em vigor, de acordo com o artigo XXIII.
 
-Artigo XXI
+###### Artigo XXI
 
 1 - O presente Protocolo estará sujeito a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação devem ser depositados junto do Secretário-geral da Organização da Aviação Civil Internacional, que é pelo presente designado por Depositário.
 
@@ -862,7 +868,7 @@ Artigo XXI
 
 3 - Qualquer Estado que não ratificar, aceitar ou aprovar este Protocolo, de acordo com o parágrafo 1 do presente artigo poderá aderir ao mesmo em qualquer momento. Os instrumentos de adesão deverão ser depositados junto do Depositário.
 
-Artigo XXII
+###### Artigo XXII
 
 Após a ratificação, aceitação e aprovação do presente Protocolo ou adesão ao mesmo, cada Estado Parte:
 
@@ -870,7 +876,7 @@ a) Notificará o Depositário sobre a jurisdição que tiver estabelecido ao abr
 
 b) Poderá declarar que aplicará as disposições da alínea d) do parágrafo 3 do artigo 1.º da Convenção de Haia, alterada pelo Protocolo de Pequim em 2010, de acordo com os princípios da sua legislação penal em matéria de isenção da responsabilidade parental.
 
-Artigo XXIII
+###### Artigo XXIII
 
 1 - O presente Protocolo entrará em vigor no primeiro dia do segundo mês após a data de depósito do vigésimo segundo instrumento de ratificação, aceitação, aprovação ou adesão junto do Depositário.
 
@@ -878,16 +884,18 @@ Artigo XXIII
 
 3 - Imediatamente após a entrada em vigor do presente Protocolo, o Depositário registá-lo-á perante as Nações Unidas.
 
-Artigo XXIV
+###### Artigo XXIV
 
 1 - Qualquer Estado Parte poderá denunciar o presente Protocolo mediante notificação por escrito ao Depositário.
 
 2 - A denúncia produzirá efeito um ano após a data em que a notificação tiver sido recebida pelo Depositário.
 
-Artigo XXV
+###### Artigo XXV
 
 O Depositário deverá informar imediatamente todos os Estados Partes do presente Protocolo e todos os Estados signatários ou que adiram ao presente Protocolo, sobre a data de cada assinatura, a data de depósito de cada instrumento de ratificação, aceitação, aprovação ou adesão, a data da entrada em vigor do presente Protocolo e outras informações relevantes.
 
 Em testemunho do qual os Plenipotenciários abaixo assinados, devidamente autorizados, assinaram o presente Protocolo.
 
 Feito em Pequim, no 10.º dia de setembro do ano 2010, nos idiomas inglês, árabe, chinês, francês, russo e espanhol, em textos igualmente autênticos, e cuja autenticidade ficará confirmada após a verificação efetuada pelo Secretariado da Conferência, sob a autoridade do Presidente da Conferência, dentro de 90 dias após a data da confirmação dos textos entre si. O presente Protocolo ficará depositado nos arquivos da Organização da Aviação Civil Internacional, e o Depositário remeterá cópias certificadas do mesmo a todos os Estados Partes do presente Protocolo.
+
+182018

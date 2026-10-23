@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04600/0151601525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/2019/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2019-120630397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3df6fb6c7aab88398dc92a0fc3fc5767c3f4538fb2020ebc94cfec324360a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdefd54bb816298ad98efb075bc9b54b18775f742d2717c110a3cb2c5346ab87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Extradição
-- Uruguai
+- Portugal
 - Tratado de Extradição entre a República Portuguesa e a República Oriental do Uruguai
-relationships: []
+- Uruguai
+relationships:
+- type: amended_by
+  target: pt:dre:120630396:por
+  label: Ratificado o Tratado aprovado pela presente Resolução, pelo(a) Decreto do Presidente da República n.º 22/2019 - Diário
+    da República n.º 46/2019, Série I de 2019-03-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/22-2019-120630396
+  date: '2019-03-06'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:04:29Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de fevereiro de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 TRATADO DE EXTRADIÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -805,3 +811,5 @@ Francisca Van Dunem, Ministra de Justicia.
 Por la República Oriental del Uruguay:
 
 María Julia Muñoz, Ministra de Educación y Cultura.
+
+082019

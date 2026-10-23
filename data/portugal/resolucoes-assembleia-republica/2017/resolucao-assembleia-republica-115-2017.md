@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11000/0281902820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/115/2017/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/115-2017-107486773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4160447a4dcc833ddc92ed0d54cd51ce2b687e3e117daf7b6812750b535acc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b44e3dd7769a0c2954b22c566ba297aff2c1a00bc1db9afc85d13a8071e219d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Protecção à Vítima
-- Crime
 - Campanha de Sensibilização
 - Combate à Violência
-- Violência
-- Direitos do Homem
-- Plano Nacional para a Igualdade de Género Cidadania e não Discriminação
-- Terceira Idade
 - Combate ao Crime
-- Plano Nacional contra o Tráfico de Seres Humanos
+- Crime
+- Direitos do Homem
+- Discriminação Sexual
+- Governo
 - Luta contra a Discriminação
 - Pessoa em Situação de Dependência
-- Discriminação Sexual
-- Proteção na Velhice
 - Plano Nacional contra a Violência Doméstica
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Plano Nacional para a Igualdade de Género Cidadania e não Discriminação
 - Plano Nacional para a Igualdade-cidadania e Género
+- Proteção na Velhice
+- Protecção à Vítima
 - Recomendação
-- Governo
+- Terceira Idade
 - Tráfico de Pessoas
-- Vítima
+- Violência
 - Violência Doméstica
+- Vítima
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:44Z'
   warnings: []
   errors: []
 ---
@@ -136,4 +136,4 @@ c) IV Plano Nacional de Prevenção e Combate ao Tráfico de Seres Humanos.
 
 Aprovada em 21 de abril de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21900/0001300097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/225/2019/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/225-2019-126132118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b8470f228126fae44e2bfc74d73c18bfaa636f1eb2210f011794502da2596d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 040b14cac5d7dac551f236bb90ce09fb1ca208d2d931d316f14ad75e48ad31d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Política Fiscal
-- Convenção
-- Portugal
-- Domicílio Fiscal
-- Fraude Fiscal
 - Contribuições e Impostos
-- Imposto sobre o Rendimento
-- Infracção Fiscal
-- Lucro
-- OCDE
-- Zona Tributária Privilegiada
-- Paris
+- Convenção
+- Domicílio Fiscal
 - Dupla Tributação
 - Evasão Fiscal
+- Fraude Fiscal
+- Imposto sobre o Rendimento
+- Infracção Fiscal
 - IRC
+- Jurisdição
+- Lucro
+- OCDE
+- Paris
+- Política Fiscal
+- Portugal
 - Receita Fiscal
 - Regime Fiscal
 - Responsabilidade Tributária
 - Tributação
 - Zona Franca
+- Zona Tributária Privilegiada
 relationships:
+- type: amended_by
+  target: pt:dre:126132116:por
+  label: Ratificada a Convenção Multilateral para a Aplicação das Medidas Relativas às Convenções Fiscais Destinadas a Prevenir
+    a Erosão da Base Tributária e a Transferência de Lucros pelo(a) Decreto do Presidente da República n.º 70/2019 - Diário
+    da República n.º 219/2019, Série I de 2019-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/70-2019-126132116
+  date: '2019-11-14'
 - type: cites
   target: celex:32017L1852
   label: null
@@ -100,16 +107,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:128013723:por
+  label: Retificadas as subals. xx) e lvii) da al. a) do art. 2.º pelo(a) Declaração de Retificação n.º 1-B/2020 - Diário
+    da República n.º 8/2020, 1º Suplemento, Série I de 2020-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1-b-2020-128013723
+  date: '2020-01-13'
 article_structure:
   article_count: 41
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:58Z'
   warnings: []
   errors: []
 ---
@@ -390,7 +411,7 @@ w) Quanto à produção de efeitos da parte vi da Convenção (artigo 36.º da C
 
 Aprovada em 21 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 MULTILATERAL CONVENTION TO IMPLEMENT TAX TREATY RELATED MEASURES TO PREVENT BASE EROSION AND PROFIT SHIFTING
 
@@ -1566,7 +1587,7 @@ Reconhecendo a necessidade de um mecanismo eficaz para aplicar as modificações
 
 acordam no seguinte:
 
-# PARTE I — Âmbito e interpretação de termos
+## PARTE I — Âmbito e interpretação de termos
 
 ###### Artigo 1.º — Âmbito de aplicação da Convenção
 
@@ -1598,7 +1619,7 @@ d) O termo «Signatário» designa um Estado ou jurisdição que tenha assinado 
 
 2 - Para a aplicação da presente Convenção, num dado momento, por uma Parte, qualquer termo ou expressão nela não definido terá, a não ser que o contexto exija uma interpretação diferente, o significado que lhe seja atribuído nesse momento pela convenção fiscal abrangida relevante.
 
-# PARTE II — Híbridos assimétricos
+## PARTE II — Híbridos assimétricos
 
 ###### Artigo 3.º — Entidades transparentes
 
@@ -1694,7 +1715,7 @@ c) No caso em que a Parte opte por aplicar a opção C, a lista das suas conven�
 
 Uma opção aplica-se relativamente a uma disposição de uma convenção fiscal abrangida unicamente quando a Parte que tenha optado por aplicar essa opção tenha efetuado essa notificação relativamente a essa disposição.
 
-# PARTE III — Uso abusivo das convenções
+## PARTE III — Uso abusivo das convenções
 
 ###### Artigo 6.º — Finalidade de uma convenção fiscal abrangida
 
@@ -1938,7 +1959,7 @@ b) Não aplicar o presente artigo às suas convenções fiscais abrangidas que j
 
 4 - A Parte que não tenha formulado a reserva prevista nas alíneas a) ou b) do n.º 3 notifica o Depositário se cada uma das suas convenções fiscais abrangidas contém uma disposição mencionada no n.º 2 e, caso assim seja, indica o artigo e o número de cada uma dessas disposições. Quando todas as Jurisdições Contratantes tenham efetuado tal notificação relativamente a uma disposição de uma convenção fiscal abrangida, essa disposição é substituída pelas disposições do n.º 1. Nos outros casos, o n.º 1 prevalece sobre as disposições da Convenção fiscal abrangida unicamente na medida em que tais disposições sejam incompatíveis com o n.º 1.
 
-# PARTE IV — Elisão da qualificação como estabelecimento estável
+## PARTE IV — Elisão da qualificação como estabelecimento estável
 
 ###### Artigo 12.º — Elisão artificiosa da qualificação como estabelecimento estável através de contratos de comissão e estratégias similares
 
@@ -2040,7 +2061,7 @@ b) Não aplicar o presente artigo relativamente às disposições das suas conve
 
 2 - Uma Parte que tenha formulado as reservas previstas no n.º 4 do artigo 12.º («Elisão artificiosa da qualificação como estabelecimento estável através de contratos de comissão e estratégias similares»), na alínea a) ou c) do n.º 6 do artigo 13.º («Elisão artificiosa da qualificação como estabelecimento estável através das exceções aplicáveis a atividades específicas») e na alínea a) do n.º 3 do artigo 14.º («Fracionamento de contratos») pode reservar-se no direito de não aplicar o presente artigo às convenções fiscais abrangidas às quais aquelas reservas se aplicam.
 
-# PARTE V — Melhoria da resolução de diferendos
+## PARTE V — Melhoria da resolução de diferendos
 
 ###### Artigo 16.º — Procedimento amigável
 
@@ -2118,7 +2139,7 @@ c) No caso de uma Parte que tenha formulado uma reserva ao abrigo da subalínea 
 
 4 - A Parte que não tenha formulado uma reserva prevista no n.º 3 notifica o Depositário se cada uma das suas convenções fiscais abrangidas contém uma disposição mencionada no n.º 2 e, caso assim seja, indica o artigo e o número de cada uma dessas disposições. Quando todas as Jurisdições Contratantes tenham efetuado tal notificação relativamente a uma disposição de uma convenção fiscal abrangida, essa disposição é substituída pelas disposições do n.º 1. Nos outros casos, o n.º 1 prevalece sobre as disposições da convenção fiscal abrangida unicamente na medida em que tais disposições sejam incompatíveis com o n.º 1.
 
-# PARTE VI — Arbitragem
+## PARTE VI — Arbitragem
 
 ###### Artigo 18.º — Opção pela aplicação da parte vi
 
@@ -2270,7 +2291,7 @@ Num procedimento arbitral ao abrigo da presente parte, as remunerações e as de
 
 4 - Uma Parte pode reservar-se no direito de não aplicar a presente parte relativamente a uma ou mais convenções fiscais abrangidas identificadas (ou a todas as suas convenções fiscais abrangidas) que já prevejam a arbitragem obrigatória e vinculativa para as questões não resolvidas decorrentes de um procedimento amigável.
 
-# PARTE VII — Disposições finais
+## PARTE VII — Disposições finais
 
 ###### Artigo 27.º — Assinatura e ratificação, aceitação ou aprovação
 
@@ -2603,3 +2624,5 @@ c) Das notificações efetuadas pelas Partes.
 Em testemunho do qual os signatários, devidamente autorizados para o efeito, assinaram a presente Convenção.
 
 Feito em Paris, aos 24 dias do mês de novembro de 2016, nas línguas inglesa e francesa, sendo ambos os textos igualmente válidos, num único exemplar, que será depositado nos arquivos da Organização para a Cooperação e Desenvolvimento Económico.
+
+292019

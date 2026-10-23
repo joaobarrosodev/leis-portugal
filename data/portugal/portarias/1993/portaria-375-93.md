@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/375/1993/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-1993-675208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2fb56662cfc730e59fb7dc2fad8634b1cb9ddf36dc6077c071e13023af8ce2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89333cddc4f5f548b362decc8de4b7643721f7c27b20277770d74f0b8e6d8837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Protecção de Menores
-- Tutela de Menores
+- Évora
 - Proteção à Infância
 - Protecção à Juventude
-- Évora
+- Tutela de Menores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:30Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +145,6 @@ j) Um representante das associações de pais.
 
 Ministério da Justiça.
 
-**Assinada em 3 de Março de 1993.**
+Assinada em 3 de Março de 1993.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

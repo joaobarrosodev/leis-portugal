@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/222/2019/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/222-2019-125933886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d37ab086902865e2eff0bcf98ec207bff50a12a6e11d798e46fe6bcff0cc219
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1972b99f3364e5d240a3ce3d5e80c1c77bad3d3e03693a947eaf4dbc294f1b47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
 - Coreia do SUL
 - Portugal
 - SEUL
-relationships: []
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:125933882:por
+  label: Ratificado o Acordo aprovado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 67/2019 - Diário
+    da República n.º 214/2019, Série I de 2019-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/67-2019-125933882
+  date: '2019-11-07'
 article_structure:
   article_count: 24
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:54Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO SOBRE SERVIÇOS AÉREOS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA COREIA
 
@@ -448,11 +454,11 @@ Cho Hyun, Vice-Ministro dos Negócios Estrangeiros.
 
 #### SECÇÃO 1 — Rotas a serem operadas em ambas as direções pelas empresas de transporte aéreo designadas da República Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
 
 #### SECÇÃO 2 — Rotas a serem operadas em ambas as direções pelas empresas de transporte aéreo designadas da República da Coreia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
 
 Notas
 
@@ -460,7 +466,7 @@ Notas
 
 2 - O exercício de direitos de tráfego de quinta liberdade em pontos intermédios e/ou além especificados fica sujeito a acordo mútuo das autoridades aeronáuticas de ambas as Partes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
 
 AGREEMENT ON AIR SERVICES BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF KOREA
 
@@ -866,16 +872,18 @@ SECTION 1
 
 Routes to be operated in both directions by the designated airlines of the Portuguese Republic
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
 
 SECTION 2
 
 Routes to be operated in both directions by the designated airlines of the Republic of Korea
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21400/0003900094.pdf)
 
 Notes
 
 1 - The designated airlines of both Parties may on any or all flights omit calling at any of the intermediate and/or beyond points mentioned above, provided that the agreed services on the routes begin or end in the territory of the Party which has designated the airlines.
 
 2 - The exercise of fifth freedom traffic rights on specified intermediate and/or beyond points shall be subject to mutual understanding between the aeronautical authorities of both Parties.
+
+262019

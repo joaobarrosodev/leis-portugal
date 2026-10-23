@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1172/1993/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1172-1993-686405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 418053d44ea84e4ce134d69a27b4fcd3f57ff1aef356bd2d69a1cbaa900fddc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe3e7e4bfadc396cfeb245889df3201ab395bd8d1d8e039cc9916c5a93c8df1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,59 @@ subjects:
 - Curso Superior de Contabilidade e Administração
 - Curso Superior de Informática de Gestão
 - Curso Superior de Sociologia Aplicada
+- Ensino Superior
 - Instituto Superior de Matemática e Gestão
 - Portimão
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:357357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345083:por
+  label: "Alterado o plano de estudos do curso de Sociologia Aplicada pela PORT.275/2001.2001.03.28.ME,DR.IS-B [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-2001-345083
+  date: '2001-03-28'
+- type: amended_by
+  target: pt:dre:345084:por
+  label: "Alterdoa o plano de estudos do curso de Contabilidade e Administração pela PORT.276/2001.2001.03.28.ME,DR.IS-B [74]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-2001-345084
+  date: '2001-03-28'
+- type: cites
+  target: pt:dre:332886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:56Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +149,6 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

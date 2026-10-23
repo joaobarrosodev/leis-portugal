@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/655/1993/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/655-1993-389396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa28345f9bba6308ecad85c4903ba928982ec68757daf757b21206827ed30bbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3039681f1bd1686345ecb73fed5e3ef5150bf920c2cf09553a6b8d6b4ff4701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:25Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +182,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Junho de 1993.**
+Assinada em 1 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial de Mira
 
@@ -138,9 +202,9 @@ Regulamento do Plano de Pormenor da Zona Industrial de Mira
 
 O presente Regulamento tem como anexos:
 
-## Anexo A - Quadro síntese da ocupação do solo;
+Anexo A - Quadro síntese da ocupação do solo;
 
-## Anexo B - Aquisição de lote(s) industrial(is) e processo de candidatura.
+Anexo B - Aquisição de lote(s) industrial(is) e processo de candidatura.
 
 ###### Artigo 3.º — Definições
 
@@ -284,7 +348,7 @@ Quaisquer omissões ou dúvidas de interpretação e aplicação do presente Reg
 
 ## ANEXO A — Quadro síntese de ocupação do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf))](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf)
 
 Resumo
 
@@ -440,4 +504,4 @@ Atendendo às condições especiais de venda dos lotes da zona industrial, só s
 
 2 - Considera-se como forte incentivo o preço de venda do metro quadrado do terreno indicado no artigo 6.º, bem como a não existência de mais nenhuma taxa de infra-estrutura, só sendo devidas taxas para o licenciamento de obras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf))](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/160b00/37933797.pdf)

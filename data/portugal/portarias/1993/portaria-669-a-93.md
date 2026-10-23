@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 165/1993, 1º Suplemento, Série I-B de 1993-07-16
   number: '165'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3870-(2) a 3870-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/165b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/669-a/1993/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-a-1993-634712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d50a9df9961b09461d115c0f683495a8eb964a33087e77161d7edba39b2c36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1383351074dfd2a15a82f9a62e21df6d1782ba9d0880de0e9cfd0d19857d6ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Código do Registo Predial
-- Serviços de Registo e Notariado
 - Contrato de Mútuo
 - Crédito à Habitação
 - Emolumento do Notariado
+- Habitação
+- Modernização Administrativa
+- Prédio Urbano
 - Registo de Hipotecas
 - Registo Predial
-- Habitação
-- Prédio Urbano
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:600130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO D RECTIFICAÇÃO 159/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-B, 204, 4SUPL, DE 930831.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUMEROS 4, 5 E 7 E SUBSTITUÍDOS INTEGRALMENTE OS CAMPOS D E E DOS MODELOS A E B, PELA PORTARIA 882/94,\
+    \ DE 1 DE OUTUBRO, PUBLICADA NO DR.IS-B, 228.\0 NO DR.IS-B, 228."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1993/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/255/1993/07/15/p/dre
+- type: cites
+  target: pt:dre:389636:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:53Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +149,8 @@ b) Número de contribuinte, caso seja pessoa singular, ou número de identifica�
 
 Ministérios das Finanças, da Justiça e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 16 de Julho de 1993.**
+Assinada em 16 de Julho de 1993.
 
 Pelo Ministro das Finanças, José Monteiro Fernandes Braz, Secretário de Estado do Tesouro. - Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/165b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/07/165b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/165b01/00020005.pdf)

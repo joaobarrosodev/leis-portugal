@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06500/0168001683.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56/2017/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-2017-106804080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f0721b41a1f60e5a027241550310d56d613c6a6649ca95eec0c0138e3a43dba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1945bdcc63cb3a8fc6eb94d152dff27a38de4826810cf2429b0c448dbe9ba482
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
 subjects:
 - Convenção
 - Cooperação
-- Política de Cooperação
-- Portugal
+- Cooperação Militar
 - Mauritânia
 - Nouakchott
-- Cooperação Militar
-relationships: []
+- Política de Cooperação
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:106804078:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 29/2017 - Diário da República n.º 65/2017, Série I de 2017-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-2017-106804078
+  date: '2017-03-31'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de janeiro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DA DEFESA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ISLÂMICA DA MAURITÂNIA
 
@@ -174,7 +179,7 @@ Os diferendos de qualquer natureza resultantes da aplicação ou da interpretaç
 
 Após a entrada em vigor do presente Acordo, a Parte no território da qual tiver havido lugar à assinatura deverá endereçar uma cópia ao Secretariado da Nações Unidas para registo, conforme o artigo 102 da Carta das Nações Unidas, e deverá notificar a outra Parte do cumprimento deste procedimento, indicando o respectivo número de registo.
 
-**Assinado em Nouakchott, aos 21 de Outubro de 2010 em dois exemplares originais em língua portuguesa, árabe e francesa, todos os textos fazendo fé.**
+Assinado em Nouakchott, aos 21 de Outubro de 2010 em dois exemplares originais em língua portuguesa, árabe e francesa, todos os textos fazendo fé.
 
 Em caso de divergência de interpretação, a versão francesa prevalecerá.
 
@@ -186,7 +191,7 @@ Pela República Islâmica da Mauritânia:
 
 Hamadi Ould Baba Ould Hamadi, Ministro da Defesa Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06500/0168001683.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06500/0168001683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06500/0168001683.pdf)
 
 ACCORD DE COOPERATION DANS LE DOMAINE DE LA DÉFENSE ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1307/1993/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1307-1993-167822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a54acd11d82acf1c0c55a674a004b479b6119cae7e411b9494cd38760a7da75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d37be309741942b74ce6d06764afceccacdb0bd03754d87cfe627d11bc4269ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
 subjects:
 - Consulado
 - Criação de Lugares
-- Profissão Diplomática
 - Extinção de Lugares
 - Pessoal Assalariado
-relationships: []
+- Profissão Diplomática
+relationships:
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:13Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 19 de Novembro de 1993.**
+Assinada em 19 de Novembro de 1993.
 
 Pelo Ministro dos Negócios Estrangeiros, Domingos Manuel Martins Jerónimo, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.

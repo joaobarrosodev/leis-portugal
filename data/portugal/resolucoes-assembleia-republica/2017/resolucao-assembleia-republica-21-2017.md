@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/21/2017/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-2017-106448762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 179ee1f3465820bb6e9d0ddfd53fd20150cd2daf1fca0d02e2c3d74e77a65ff8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1645cd4704c4af98c4f5a33d6402568e6bc0651119c667731bfa10447ebe75b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Emirados Árabes Unidos
-- Transporte Aéreo
-- Convenção
-- Portugal
-- Lisboa
 - Aviação Civil
-relationships: []
+- Convenção
+- Emirados Árabes Unidos
+- Lisboa
+- Portugal
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:106448758:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 11/2017 - Diário da República n.º 32/2017, Série
+    I de 2017-02-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2017-106448758
+  date: '2017-02-14'
 article_structure:
   article_count: 23
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:01Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de dezembro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO SOBRE SERVIÇOS AÉREOS ENTRE A REPÚBLICA PORTUGUESA E OS EMIRADOS ÁRABES UNIDOS
 
@@ -465,21 +471,21 @@ Feito em Lisboa no dia 27 de julho de 2015.
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 Pelos Emirados Árabes Unidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 ## ANEXO N.º 1 — Quadro de rotas
 
 #### Secção 1 — Rotas a serem operadas pela(s) empresa(s) designada(s) dos Emirados Árabes Unidos (EAU)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 #### Secção 2 — Rotas a serem operadas pela(s) empresa(s) designada(s) da República Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 Operação dos serviços acordados
 
@@ -503,7 +509,7 @@ c) O Reino da Noruega (ao abrigo do Acordo sobre o Espaço Económico Europeu).
 
 d) A Confederação Suíça (ao abrigo do Acordo entre a Comunidade Europeia e a Confederação Suíça sobre Transportes Aéreos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 AIR SERVICES AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE UNITED ARAB EMIRATES
 
@@ -919,11 +925,11 @@ Done at Lisbon on this 27th day of July of the year 2015.
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 For the United Arab Emirates:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 ANNEX 1
 
@@ -933,13 +939,13 @@ Section 1
 
 Routes to be operated by the Designated Airline(s) of the United Arab Emirates (UAE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 Section 2
 
 Routes to be operated by the Designated Airline(s) of Portuguese Republic
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03200/0073700760.pdf)
 
 Operation of the Agreed Services
 

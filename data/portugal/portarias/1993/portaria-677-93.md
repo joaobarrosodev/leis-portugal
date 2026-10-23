@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/168b00/39033906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/677/1993/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/677-1993-392232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d032dc4bcf830ff8baf050332dd51108915d0903a55cfb7a1406c3e73a71602b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 475914ecafcb49094443375d4c96edb78cc99ecd8ec682a2bde2192f0c387641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Mealhada
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67027893:por
+  label: Revogado o Plano de Pormenor da Quinta da Nora ratificado pelo presente diploma, pelo(a) Aviso n.º 4234/2015 - Diário
+    da República n.º 76/2015, Série II de 2015-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4234-2015-67027893
+  date: '2015-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:06Z'
   warnings: []
   errors: []
 ---
@@ -112,17 +130,17 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Junho de 1993.**
+Assinada em 10 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Plano de Pormenor da Quinta da Nora
 
 Regulamento da Zona R1
 
-###### Artigo 1.º A zona R1 é composta pelos lotes n.os 20 a 35, inclusive.
+Artigo 1.º A zona R1 é composta pelos lotes n.os 20 a 35, inclusive.
 
-###### Art. 2.º A área da implantação em cada lote é coincidente com a área do próprio lote, assim discriminada:
+Art. 2.º A área da implantação em cada lote é coincidente com a área do próprio lote, assim discriminada:
 
 Lote n.º 20 - 468 m2;
 
@@ -156,25 +174,25 @@ Lote n.º 34 - 260 m2;
 
 Lote n.º 35 - 260 m2.
 
-###### Art. 3.º A zona R1 destina-se à construção de blocos polifamiliares de cave, rés-do-chão comercial e mais três pisos.
+Art. 3.º A zona R1 destina-se à construção de blocos polifamiliares de cave, rés-do-chão comercial e mais três pisos.
 
-###### Art. 4.º Todos os lotes da zona R1 possuem galerias ao nível do piso público conforme planta n.º 6 apresentada.
+Art. 4.º Todos os lotes da zona R1 possuem galerias ao nível do piso público conforme planta n.º 6 apresentada.
 
-###### Art. 5.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo e por 50 m2 de área comercial, podendo, retiradas as áreas de estacionamento e circulação, ser as restantes áreas aproveitadas para arrumações.
+Art. 5.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo e por 50 m2 de área comercial, podendo, retiradas as áreas de estacionamento e circulação, ser as restantes áreas aproveitadas para arrumações.
 
-###### Art. 6.º A implantação conjunta dos lotes da zona R1 forma em projecção horizontal um rectângulo cujo interior é uma praça pública vedada ao tráfego rodoviário. A sua penetração automóvel é, no entanto, possível, excepcionalmente para fins de emergência.
+Art. 6.º A implantação conjunta dos lotes da zona R1 forma em projecção horizontal um rectângulo cujo interior é uma praça pública vedada ao tráfego rodoviário. A sua penetração automóvel é, no entanto, possível, excepcionalmente para fins de emergência.
 
-###### Art. 7.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto cujo objectivo é o de encarar a percepção global do edificado, formal e plasticamente, como um único edifício.
+Art. 7.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto cujo objectivo é o de encarar a percepção global do edificado, formal e plasticamente, como um único edifício.
 
-###### Art. 8.º O sótão poderá ser aproveitado para arrumações.
+Art. 8.º O sótão poderá ser aproveitado para arrumações.
 
-###### Art. 9.º Não é permitida a instalação de qualquer tipo de indústria.
+Art. 9.º Não é permitida a instalação de qualquer tipo de indústria.
 
 Regulamento da Zona R2
 
-###### Art. 1.º A zona R2 é composta pelos lotes n.os 36 a 41, inclusive.
+Art. 1.º A zona R2 é composta pelos lotes n.os 36 a 41, inclusive.
 
-###### Art. 2.º As áreas dos lotes são as seguintes:
+Art. 2.º As áreas dos lotes são as seguintes:
 
 Lote n.º 36 - 450 m2;
 
@@ -188,7 +206,7 @@ Lote n.º 40 - 450 m2;
 
 Lote n.º 41 - 337,50 m2.
 
-###### Art. 3.º As áreas de implantação são as seguintes:
+Art. 3.º As áreas de implantação são as seguintes:
 
 Lote n.º 36 - 383,50 m2;
 
@@ -202,25 +220,25 @@ Lote n.º 40 - 383,50 m2;
 
 Lote n.º 41 - 195 m2.
 
-###### Art. 4.º A zona R2 destina-se à construção de blocos polifamiliares de cave, rés-do-chão e onamentomais dois pisos de habitação.
+Art. 4.º A zona R2 destina-se à construção de blocos polifamiliares de cave, rés-do-chão e onamentomais dois pisos de habitação.
 
-###### Art. 5.º Todos os lotes da zona R2 possuem logradouros privativos interiores, separados por muros com uma altura máxima de 1,40 m.
+Art. 5.º Todos os lotes da zona R2 possuem logradouros privativos interiores, separados por muros com uma altura máxima de 1,40 m.
 
-###### Art. 6.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo, podendo, retiradas as áreas de estacionamento e circulação necessárias, ser as restantes áreas aproveitadas para arrumações.
+Art. 6.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo, podendo, retiradas as áreas de estacionamento e circulação necessárias, ser as restantes áreas aproveitadas para arrumações.
 
-###### Art. 7.º A implantação conjunta dos lotes da zona R2 forma em projecção horizontal um rectângulo cujo interior é o conjunto dos logradouros pertencentes a cada um dos lotes. O acesso automóvel ao interior dos logradouros é possível para estacionamento na cave e para situações de emergência.
+Art. 7.º A implantação conjunta dos lotes da zona R2 forma em projecção horizontal um rectângulo cujo interior é o conjunto dos logradouros pertencentes a cada um dos lotes. O acesso automóvel ao interior dos logradouros é possível para estacionamento na cave e para situações de emergência.
 
-###### Art. 8.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto cujo objectivo é o de encarar a percepção global do edificado, formal e plasticamente, como um único edifício.
+Art. 8.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto cujo objectivo é o de encarar a percepção global do edificado, formal e plasticamente, como um único edifício.
 
-###### Art. 9.º O sótão poderá ser aproveitado para arrumações.
+Art. 9.º O sótão poderá ser aproveitado para arrumações.
 
-###### Art. 10.º Não é permitida a instalação de qualquer tipo de indústria.
+Art. 10.º Não é permitida a instalação de qualquer tipo de indústria.
 
 Regulamento da Zona R3
 
-###### Art. 1.º A zona R3 é composta pelos lotes n.os 2 a 19, inclusive.
+Art. 1.º A zona R3 é composta pelos lotes n.os 2 a 19, inclusive.
 
-###### Art. 2.º As áreas dos lotes são as seguintes:
+Art. 2.º As áreas dos lotes são as seguintes:
 
 Lote n.º 2 - 109 m2;
 
@@ -258,7 +276,7 @@ Lote n.º 18 - 96 m2;
 
 Lote n.º 19 - 140 m2.
 
-###### Art. 3.º As áreas de implantação são as seguintes:
+Art. 3.º As áreas de implantação são as seguintes:
 
 Lote n.º 2 - 81 m2;
 
@@ -296,31 +314,31 @@ Lote n.º 18 - 79 m2;
 
 Lote n.º 19 - 77,50 m2.
 
-###### Art. 4.º A zona R3 destina-se a construção de casas unifamiliares em banda de rés-do-chão, mais um piso.
+Art. 4.º A zona R3 destina-se a construção de casas unifamiliares em banda de rés-do-chão, mais um piso.
 
-###### Art. 5.º A garagem está incluída no corpo da construção.
+Art. 5.º A garagem está incluída no corpo da construção.
 
-###### Art. 6.º Não é permitida a construção de anexos, excepto nos lotes n.os 14 e 15.
+Art. 6.º Não é permitida a construção de anexos, excepto nos lotes n.os 14 e 15.
 
-###### Art. 7.º As arrecadações devem ser previstas apenas no corpo da construção, excepto nos lotes n.os 14 e 15, onde é permitida a construção de anexos.
+Art. 7.º As arrecadações devem ser previstas apenas no corpo da construção, excepto nos lotes n.os 14 e 15, onde é permitida a construção de anexos.
 
-###### Art. 8.º O sótão poderá ser aproveitado para arrecadação.
+Art. 8.º O sótão poderá ser aproveitado para arrecadação.
 
-###### Art. 9.º A cércea do conjunto de todos os edifícios unifamiliares serão rectas de nível com a mesma cota.
+Art. 9.º A cércea do conjunto de todos os edifícios unifamiliares serão rectas de nível com a mesma cota.
 
-###### Art. 10.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto.
+Art. 10.º A composição formal e plástica das fachadas obedecerá a um estudo conjunto.
 
-###### Art. 11.º As coberturas serão sempre de duas águas, havendo entre elas coincidência de cumes e inclinações.
+Art. 11.º As coberturas serão sempre de duas águas, havendo entre elas coincidência de cumes e inclinações.
 
-###### Art. 12.º Não é permitida a instalação de qualquer tipo de indústria.
+Art. 12.º Não é permitida a instalação de qualquer tipo de indústria.
 
 Regulamento da Zona R4
 
-###### Art. 1.º A zona R4 é composta pelos lotes n.os 42 a 50, inclusive.
+Art. 1.º A zona R4 é composta pelos lotes n.os 42 a 50, inclusive.
 
-###### Art. 2.º O espaço interior do quarteirão destina-se a zona pública de parqueamento automóvel com zonas ajardinadas.
+Art. 2.º O espaço interior do quarteirão destina-se a zona pública de parqueamento automóvel com zonas ajardinadas.
 
-###### Art. 3.º A área de implantação de cada lote é coincidente com a área do próprio lote, assim discriminada:
+Art. 3.º A área de implantação de cada lote é coincidente com a área do próprio lote, assim discriminada:
 
 Lote n.º 42 - 183 m2;
 
@@ -340,32 +358,32 @@ Lote n.º 49 - 115 m2;
 
 Lote n.º 50 - 187 m2.
 
-###### Art. 4.º A zona R4 destina-se a construção de blocos polifamiliares de cave, rés-do-chão comercial ou industrial compatível com a habitação, mais dois pisos de habitação.
+Art. 4.º A zona R4 destina-se a construção de blocos polifamiliares de cave, rés-do-chão comercial ou industrial compatível com a habitação, mais dois pisos de habitação.
 
-###### Art. 5.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo e por 50 m2 de área comercial, podendo, retiradas as áreas de estacionamento e de circulação, ser as restantes áreas aproveitadas para armações.
+Art. 5.º A cave destina-se essencialmente ao parqueamento privativo dos fogos dos lotes, no mínimo de um lugar de estacionamento por fogo e por 50 m2 de área comercial, podendo, retiradas as áreas de estacionamento e de circulação, ser as restantes áreas aproveitadas para armações.
 
-###### Art. 6.º Exceptua-se a necessidade da cave para parqueamento automóvel nos lotes n.os 50, 49, 48 e 47 pelo facto de estes possuírem já construção existente que poderá, segundo o plano, ser remodelada e ampliada.
+Art. 6.º Exceptua-se a necessidade da cave para parqueamento automóvel nos lotes n.os 50, 49, 48 e 47 pelo facto de estes possuírem já construção existente que poderá, segundo o plano, ser remodelada e ampliada.
 
-###### Art. 7.º Caso os proprietários nos lotes referidos no número anterior optem pela demolição da construção existente e, posteriormente, pela construção nova segundo os índices permitidos pelo Plano, ficarão então estes obrigados a construção de cave para fins de parqueamento automóvel.
+Art. 7.º Caso os proprietários nos lotes referidos no número anterior optem pela demolição da construção existente e, posteriormente, pela construção nova segundo os índices permitidos pelo Plano, ficarão então estes obrigados a construção de cave para fins de parqueamento automóvel.
 
-###### Art. 8.º A composição formal e plástica das fachadas da zona R4 obedecerá a um estudo conjunto de maneira a integrar plástica e volumetricamente o remate da parte proposta no todo, que é o quarteirão e a zona envolvente.
+Art. 8.º A composição formal e plástica das fachadas da zona R4 obedecerá a um estudo conjunto de maneira a integrar plástica e volumetricamente o remate da parte proposta no todo, que é o quarteirão e a zona envolvente.
 
-###### Art. 9.º Não é permitida a instalação de qualquer tipo de indústria, excepto da classe D e nos lotes n.os 47 a 50.
+Art. 9.º Não é permitida a instalação de qualquer tipo de indústria, excepto da classe D e nos lotes n.os 47 a 50.
 
 Regulamento da Zona R5
 
-###### Art. 1.º A zona R5 é composta pelo lote n.º 1.
+Art. 1.º A zona R5 é composta pelo lote n.º 1.
 
-###### Art. 2.º A área do lote é de 1632 m2.
+Art. 2.º A área do lote é de 1632 m2.
 
-###### Art. 3.º A zona R5 destina-se à implantação única e exclusivamente de equipamentos, conforme planta de síntese.
+Art. 3.º A zona R5 destina-se à implantação única e exclusivamente de equipamentos, conforme planta de síntese.
 
-###### Art. 4.º A Casa da Cultura, pelo seu valor arquitectónico, deve permanecer inalterada na sua arquitectura.
+Art. 4.º A Casa da Cultura, pelo seu valor arquitectónico, deve permanecer inalterada na sua arquitectura.
 
-###### Art. 5.º Os equipamentos novos a implantar serão, pelo menos, um auditório e uma biblioteca pública.
+Art. 5.º Os equipamentos novos a implantar serão, pelo menos, um auditório e uma biblioteca pública.
 
-###### Art. 6.º Toda a restante área será destinada a zona verde ou outra ocupação, desde que isenta de tráfego rodoviário e de mais construções.
+Art. 6.º Toda a restante área será destinada a zona verde ou outra ocupação, desde que isenta de tráfego rodoviário e de mais construções.
 
-###### Art. 7.º Não é permitida a instalação de qualquer tipo de indústria.
+Art. 7.º Não é permitida a instalação de qualquer tipo de indústria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/168b00/39033906.pdf))](https://files.diariodarepublica.pt/1s/1993/07/168b00/39033906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/168b00/39033906.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/1993/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1993-393820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4319cd30473d25e7e1561ca4b1686bb035d7fe357f81b4547a134432f1ec6161
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eed26d430a6a6960dde38c93cf72a53889ff74f831628c3ea92078d95f7cc60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Plano de Estudos
 - Curso de ARTE e Técnicas de Ourivesaria e Metais
 - Curso de ARTE e Tecnologias de Comunicação Gráfica
 - Curso de ARTE e Tecnologias de Comunicação Social
@@ -74,22 +72,52 @@ subjects:
 - Curso Tecnológico de ARTE e Design Cerâmico
 - Curso Tecnológico de ARTE e Design Têxtil
 - Curso Tecnológico de Design de Equipamento
+- Ensino Artístico
+- Plano de Estudos
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:210801:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218316:por
+  label: "Alterados os planos de estudos constantes dos mapas I a VI e substituidos os mapas VII e VIII anexos ao presente\
+    \ diploma, pela PORT.140/98.1998.03.05.ME, DR.IS-B [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1998-218316
+  date: '1998-03-05'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogada, de acordo com o calendário de produção de efeitos fixado no art. 18.º, pelo DEC LEI.74/2004.26.03.2004.ME,\
+    \ DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:13Z'
   warnings: []
   errors: []
 ---
@@ -158,54 +186,54 @@ b) Um diploma de qualificação profissional de nível III.
 
 Ministério da Educação.
 
-**Assinada em 5 de Julho de 1993.**
+Assinada em 5 de Julho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 MAPA I
 
 Plano curricular do curso de Arte e Tecnologias de Comunicação Audiovisual
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA II
 
 Plano curricular do curso de Arte e Tecnologias de Comunicação Gráfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA III
 
 Plano curricular do curso de Arte e Técnicas de Ourivesaria e Metais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA IV
 
 Plano curricular do curso Tecnológico de Arte e Design Cerâmico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA V
 
 Plano curricular do curso Tecnológico de Arte e Design Têxtil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA VI
 
 Plano curricular do curso Tecnológico de Design de Equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA VII
 
 Plano curricular do curso Geral de Artes 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
 
 MAPA VIII
 
 Plano curricular do curso Geral de Artes 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39353939.pdf)

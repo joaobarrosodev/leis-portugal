@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1309/1993/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1309-1993-168871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8865f7a5aa3d6eeac882ef1d8023da1174fa4daec686ce54527e74051c1a2067
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e7c7030c5060254404cbc716868f6056c7bc3a90c1449afa7445bfc452a646a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carne
+- Ave de Capoeira
 - CAÇA
+- Carne
 - Controlo Sanitário
 - Fiscalização
-- Ave de Capoeira
 - Regulamento
 relationships:
 - type: amended_by
@@ -108,16 +108,21 @@ relationships:
   target: celex:31992L0045
   label: null
   source: http://data.europa.eu/eli/dir/1992/45/oj
+- type: repealed_by
+  target: pt:dre:308520:por
+  label: "Revogada pelo DEC LEI.208/99.1999.06.11.MADRP, DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-1999-308520
+  date: '1999-06-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:18Z'
   warnings: []
   errors: []
 ---
@@ -138,19 +143,19 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, ao abrigo dos a
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 19 de Novembro de 1993.**
+Assinada em 19 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 1309/93, de 29 de Dezembro
+Anexo a que se refere o n.º 1.º da Portaria n.º 1309/93, de 29 de Dezembro
 
 Regulamento das Modalidades de Aplicação e do Financiamento das Acções de Inspecção das Carnes Frescas
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º O presente Regulamento estabelece as modalidades de aplicação e financiamento das acções de inspecção e controlos sanitários de carnes frescas definidos nos Decretos-Leis n.os 178/93, de 12 de Maio, 222/90, de 7 de Julho, e 62/91, de 1 de Fevereiro, e respectivas normas de regulamentação técnica.
+Artigo 1.º O presente Regulamento estabelece as modalidades de aplicação e financiamento das acções de inspecção e controlos sanitários de carnes frescas definidos nos Decretos-Leis n.os 178/93, de 12 de Maio, 222/90, de 7 de Julho, e 62/91, de 1 de Fevereiro, e respectivas normas de regulamentação técnica.
 
-###### Art. 2.º - 1 - Para efeitos do presente Regulamento entende-se por:
+Art. 2.º - 1 - Para efeitos do presente Regulamento entende-se por:
 
 a) Animais de talho: os animais domésticos das espécies bovina (incluindo Bubalus bubalis e Bison bison), suína, ovina, caprina e ainda os solípedes;
 
@@ -172,17 +177,17 @@ d) Do artigo 2.º da Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/19
 
 ### CAPÍTULO II — Taxa de inspecção sanitária
 
-###### Art. 3.º - 1 - Os montantes da taxa de inspecção sanitária devida pelas inspecções e controlos efectuados de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 365/93, de 22 de Outubro, são os fixados no anexo I deste Regulamento.
+Art. 3.º - 1 - Os montantes da taxa de inspecção sanitária devida pelas inspecções e controlos efectuados de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 365/93, de 22 de Outubro, são os fixados no anexo I deste Regulamento.
 
 2 - Os montantes da taxa de inspecção sanitária serão actualizados anualmente por indexação à taxa de câmbio do ecu, publicada no primeiro dia útil do mês de Setembro no Jornal Oficial das Comunidades Europeias, série C, e serão divulgados pelo Instituto de Protecção da Produção Agro-Alimentar (IPPAA).
 
-###### Art. 4.º - 1 - Constituem fracções fixas e de aplicação específica os valores estabelecidos relativamente ao controlo de pesquisa de resíduos e aos encargos administrativos, imputados nos montantes referidos no artigo anterior e que estão discriminados no anexo II deste Regulamento.
+Art. 4.º - 1 - Constituem fracções fixas e de aplicação específica os valores estabelecidos relativamente ao controlo de pesquisa de resíduos e aos encargos administrativos, imputados nos montantes referidos no artigo anterior e que estão discriminados no anexo II deste Regulamento.
 
 2 - O valor inerente aos encargos administrativos, fixado de acordo com os níveis constantes do anexo II do presente Regulamento, poderá, mediante decisão do IPPAA, e após parecer da respectiva direcção regional de agricultura, ser deduzido do montante da taxa de inspecção sanitária, desde que tal seja requerido pela entidade que explora o estabelecimento em causa e na condição de assumir a totalidade das despesas relativas aos encargos referidos no anexo III também deste Regulamento.
 
 3 - O IPPAA revogará a decisão a que se refere o número anterior sempre que, após controlo, constate não se manterem os seus pressupostos.
 
-###### Art. 5.º - 1 - Com base nos princípios enunciados no anexo IV deste Regulamento, e de acordo com as estruturas e condições de funcionamento dos estabelecimentos existentes, o valor da fracção relativa aos encargos da prestação do serviço de inspecção pode ser sujeito a modulações, de modo a identificar-se com os custos reais de inspecção.
+Art. 5.º - 1 - Com base nos princípios enunciados no anexo IV deste Regulamento, e de acordo com as estruturas e condições de funcionamento dos estabelecimentos existentes, o valor da fracção relativa aos encargos da prestação do serviço de inspecção pode ser sujeito a modulações, de modo a identificar-se com os custos reais de inspecção.
 
 2 - Sempre que se justifique, face aos custos do serviço prestado, percepção de um valor superior ao fixado como taxa de inspecção sanitária num determinado estabelecimento, o IPPAA estabelecerá o montante a cobrar, precedendo proposta devidamente fundamentada da respectiva direcção regional de agricultura e tendo em conta o previsto na parte II do anexo IV deste Regulamento.
 
@@ -192,19 +197,19 @@ d) Do artigo 2.º da Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/19
 
 5 - Em nenhum caso a aplicação do disposto no n.º 3 poderá conduzir a reduções superiores a 50% do valor da fracção relativa aos encargos da prestação do serviço de inspecção, definida no anexo II deste Regulamento.
 
-###### Art. 6.º A taxa de inspecção sanitária a cobrar por abates efectuados fora do horário normal de laboração do estabelecimento, em feriados ou em dias de descanso semanal será acrescida de montante igual a 50% do valor referido no anexo I deste Regulamento.
+Art. 6.º A taxa de inspecção sanitária a cobrar por abates efectuados fora do horário normal de laboração do estabelecimento, em feriados ou em dias de descanso semanal será acrescida de montante igual a 50% do valor referido no anexo I deste Regulamento.
 
-###### Art. 7.º - 1 - Para efeitos de liquidação e cobrança da taxa de inspecção sanitária, os documentos de registo, em modelos a aprovar pelo IPPAA, comprovativos dos quantitativos de animais abatidos e dos produtos movimentados a que se refere o n.º 1 do artigo 6.º do Decreto-Lei n.º 365/93, de 22 de Outubro, deverão ser remetidos às direcções regionais de agricultura pelas entidades que explorem os matadouros e os estabelecimentos de corte e desossa e de armazenagem, impreterivelmente, até ao dia 20 do mês seguinte àquele a que se referem.
+Art. 7.º - 1 - Para efeitos de liquidação e cobrança da taxa de inspecção sanitária, os documentos de registo, em modelos a aprovar pelo IPPAA, comprovativos dos quantitativos de animais abatidos e dos produtos movimentados a que se refere o n.º 1 do artigo 6.º do Decreto-Lei n.º 365/93, de 22 de Outubro, deverão ser remetidos às direcções regionais de agricultura pelas entidades que explorem os matadouros e os estabelecimentos de corte e desossa e de armazenagem, impreterivelmente, até ao dia 20 do mês seguinte àquele a que se referem.
 
 2 - A autoliquidação referida no n.º 4 do artigo 6.º do Decreto-Lei n.º 365/93, de 22 de Outubro, deve verificar-se até ao dia 20 do mês seguinte ao da inspecção.
 
-###### Art. 8.º - 1 - No caso de importação de carnes frescas de países terceiros, os agentes económicos importadores devem liquidar junto do IPPAA os valores relativos às taxas de inspecção sanitária, referidos no artigo 3.º deste Regulamento.
+Art. 8.º - 1 - No caso de importação de carnes frescas de países terceiros, os agentes económicos importadores devem liquidar junto do IPPAA os valores relativos às taxas de inspecção sanitária, referidos no artigo 3.º deste Regulamento.
 
 2 - Os agentes económicos referidos no número anterior devem depositar os montantes devidos pelas importações efectuadas durante o mês anterior, em operações de tesouraria à ordem do IPPAA, até ao dia 20 de cada mês, enviando no mesmo prazo àquele Instituto os documentos de registo comprovativos dos quantitativos de animais e de produtos movimentados, bem como os que atestem os depósitos em causa.
 
 3 - Sempre que se verifique o não cumprimento atempado do pagamento das taxas de inspecção sanitária pelos agentes económicos importadores, deve o IPPAA promover a imediata execução fiscal da dívida em causa.
 
-###### Art. 9.º - 1 - Para efeitos do n.º 1 do artigo 9.º do Decreto-Lei n.º 365/93, de 22 Outubro, 20% do produto da taxa cobrada constitui receita própria do IPPAA, sendo o remanescente receita das direcções regionais de agricultura.
+Art. 9.º - 1 - Para efeitos do n.º 1 do artigo 9.º do Decreto-Lei n.º 365/93, de 22 Outubro, 20% do produto da taxa cobrada constitui receita própria do IPPAA, sendo o remanescente receita das direcções regionais de agricultura.
 
 2 - No caso previsto na alínea a) do n.º 3 do artigo 3.º do referido decreto-lei e de acordo com o n.º 3 do artigo 9.º do mesmo diploma, 50% do remanescente a distribuir serão depositados à ordem do IPPAA, constituindo o restante receita da direcções regionais de agricultura.
 
@@ -212,11 +217,11 @@ d) Do artigo 2.º da Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/19
 
 ## ANEXO I — Taxa de inspecção sanitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf))](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf)
 
 ## ANEXO II — Valor dos encargos fraccionados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf))](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/302b00/72107213.pdf)
 
 ## ANEXO III — Encargos administrativos
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/699/1993/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-1993-345492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ff023c60ec1a91a74fc56d1df2ec88639d772abf4da14e56ed730b918995b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36805b23455a253c67eba1695115acefef7fd8f4ad75a36b1008d22f5e0224ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,44 @@ relationships:
   target: pt:dre:210801:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218317:por
+  label: "Alterado os planos de estudos constantes dos mapas I a VII e revogado o nº 2, pela PORT.141/98.1998.03.05.ME, DR.IS-B\
+    \ [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/141-1998-218317
+  date: '1998-03-05'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogada, de acordo com o calendário de produção de efeitos fixado no art. 18.º, pelo DEC LEI.74/2004.26.03.2004.ME,\
+    \ DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:37Z'
   warnings: []
   errors: []
 ---
@@ -151,15 +179,15 @@ b) Um diploma de qualificação profissional de nível III.
 
 Ministério da Educação.
 
-**Assinada em 5 de Julho de 1993.**
+Assinada em 5 de Julho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 MAPA I
 
 Plano curricular do curso de Imagem e Comunicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -169,7 +197,7 @@ MAPA II
 
 Plano curricular do curso de Artes Gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -179,7 +207,7 @@ MAPA III
 
 Plano curricular do curso de Ourivesaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -189,7 +217,7 @@ MAPA IV
 
 Plano curricular do curso de Cerâmica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -199,7 +227,7 @@ MAPA V
 
 Plano curricular do curso de Equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -209,7 +237,7 @@ MAPA VI
 
 Plano curricular do curso de Artes Têxteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -219,7 +247,7 @@ MAPA VII
 
 Plano curricular do curso geral de Artes Visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 Área-escola - a organizar e gerir pela escola, nos termos do artigo 6.º do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto.
 
@@ -229,40 +257,40 @@ MAPA VIII
 
 Plano curricular do curso de Imagem e Comunicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA IX
 
 Plano curricular do curso de Artes Gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA X
 
 Plano curricular do curso de Ourivesaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA XI
 
 Plano curricular do curso de Cerâmica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA XII
 
 Plano curricular do curso de Equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA XIII
 
 Plano curricular do curso de Artes Têxteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
 
 MAPA XIV
 
 Plano curricular do curso geral de Artes Visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf))](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/175b00/40614068.pdf)

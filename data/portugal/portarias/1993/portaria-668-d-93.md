@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 164/1993, 1º Suplemento, Série I-B de 1993-07-15
   number: '164'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2854-(4) a 2854-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/164b01/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/668-d/1993/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-d-1993-687046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7bb5571e7264edc4c015ad5b76dcb5afd7d1347c818fa56a203f9fad5b200ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efbc6d37a54d66a9648025629f666a24791e995eca59d85f0a9a261398871ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,50 @@ relationships:
   target: pt:dre:494205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660099:por
+  label: "Renovada por um período de nove anos a concessão da zona de caça associativa atribuída pelo presente diploma,alterada\
+    \ pelas Portarias n.os 462/94, de 30 de Junho, 989/95, de 17 de Agosto, 96/98, de 23 de Fevereiro e 632/2000, de 22 de\
+    \ Agosto, pela PORT.797/2003.13.08.2003.MADRP, DR.IS-B [186] de 13.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/797-2003-660099
+  date: '1993-07-15'
+- type: amended_by
+  target: pt:dre:289809:por
+  label: "Alterado o nº 1º pela PORT.462/94.30.06.1994.MA, DR.IS-B [149] de 30.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/462-1994-289809
+  date: '1994-06-30'
+- type: amended_by
+  target: pt:dre:429386:por
+  label: "Alterado o nº 1º e substituída a planta anexa à Port 462/94, de 30-Jun, que altera o nº 1º do presente diploma,\
+    \ pela PORT.989/95.17.08.1995.MA, DR.IS-B [189] de 17.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1995-429386
+  date: '1995-08-17'
+- type: amended_by
+  target: pt:dre:480514:por
+  label: "Mantido em vigor o presente diploma, embora suspensa a actividade cinegética pelo prazo máximo de 180 dias na zona\
+    \ de caça nele concessionada pela PORT.973-A/97.1997.09.18.MADRP, DR.IS-B [216]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-a-1997-480514
+  date: '1997-09-18'
+- type: amended_by
+  target: pt:dre:210474:por
+  label: "Alterado o nº 1, na redacção dada pelas Port 462/94 de 30-Jun e 989/95 de 17-Ago; Mantidos integralmente os direitos\
+    \ e obrigações decorrentes da lei, e constantes daquele diploma, e aditado o nº 1-A pela PORT.96/98.1998.02.23.MADRP,\
+    \ DR.IS-B [45] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1998-210474
+  date: '1998-02-23'
+- type: amended_by
+  target: pt:dre:324172:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela PORT.632/2000.2000.08.22.MADRP\
+    \ DR.IS-B [193] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-2000-324172
+  date: '2000-08-22'
+- type: amended_by
+  target: pt:dre:494205:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 462/94,\
+    \ de 30-Jun, Port 989/95, de 17-Ago, Port 96/98, de 23-Fev, Port 632/2000, de 22-Ago, renovada pela Port 797/2003, de\
+    \ 13-Ago, pela PORT.563/2009.27.05.2009.MADRP, DR.IS [102] de 27.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-2009-494205
+  date: '2009-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +126,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642911:por
+  label: "Revogada a concessão de caça associativa atribuída pelo presente diploma, alterada pela Port 462/94 de 30-Jun, e\
+    \ 989/95 de 17-Ago, pela Port.826/97.1997.09.06.MADRP DR.IS-B [206] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1997-642911
+  date: '1997-09-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:33Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +196,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/164b01/00040004.pdf))](https://files.diariodarepublica.pt/1s/1993/07/164b01/00040004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/164b01/00040004.pdf)

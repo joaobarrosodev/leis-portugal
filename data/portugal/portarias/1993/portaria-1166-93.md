@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1166/1993/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1166-1993-686406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a9c935db6e1a94f0bc51bfb99ef748c533132d04986c58172c6f044e11b7e6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d85e0e1151227d5d07c7837b7c351a18b4ebb02e0bb5cf5bb8732d0310b5e81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Marketing Internacional
 - Ensino Superior Politécnico
 - Escola Superior de Comunicação Social
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:623028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168792:por
+  label: "Alterado o plano de estudos constante do anexo I e Nº 15, pela PORT.679/96.1996.11.19.ME, DR.IS-B [268] de 19-Nov\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/679-1996-168792
+  date: '1996-11-19'
+- type: cites
+  target: pt:dre:193446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:623028:por
+  label: "Revogada, com a redacção da Port 679/96 de 19-Nov, pela PORT.1045/2000.2000.10.27.ME DR.IS-B [249], nos termos do\
+    \ respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-2000-623028
+  date: '2000-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:46Z'
   warnings: []
   errors: []
 ---
@@ -308,8 +332,8 @@ Ao curso regulado pela presente portaria não são aplicáveis os regimes de mud
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/262b00/62716274.pdf))](https://files.diariodarepublica.pt/1s/1993/11/262b00/62716274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/262b00/62716274.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 149/1993, 1º Suplemento, Série I-B de 1993-06-28
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3526-(2) a 3526-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/149b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/606-a/1993/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-a-1993-646721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43f1e6840b66cbabe1016c6fbe9ddb9a686aa1f1aae4f7baed1f51e1c9fef9d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 421a01970ca439f12425c683ae6f7049360cda0588e57a59303b88d550eaeed0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Fundação da Juventude
 - Apoio ao Investimento
+- Fundação da Juventude
+- IAPMEI
 - Instituto da Juventude
+- Instituto do Emprego e Formação Profissional
 - Jovem Empresário
 - Sistema de Incentivos a Jovens Empresários
-- IAPMEI
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19931206 - ADITADO O NUMERO 8-A, PELA PORTARIA 1241/93, DE 6 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 284. G\04. G"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:581226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496132:por
+  label: "Alterado o nº 5 pelo DEC LEI.19/94.1994.01.25.MOPTC DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1994-496132
+  date: '1994-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:10Z'
   warnings: []
   errors: []
 ---
@@ -359,10 +368,10 @@ Quaisquer dúvidas surgidas na aplicação do presente diploma serão esclarecid
 
 Presidência do Conselho de Ministros e Ministérios da Indústria e Energia e do Emprego e da Segurança Social.
 
-**Assinada em 24 de Junho de 1993.**
+Assinada em 24 de Junho de 1993.
 
 Luís Fernando Mira Amaral - José Albino da Silva Peneda - Luís Manuel Gonçalves Marques Mendes.
 
 ## ANEXO I — Lista dos municípios a que se refere a alínea b) do n.º 2 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/149b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/06/149b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/149b01/00020005.pdf)

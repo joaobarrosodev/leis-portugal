@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07000/0178901794.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/62/2017/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/62-2017-106844786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92b1dc78d3b18f5de05d7e9f2eb08f0049e339ff3de2a9bfc32ed2e5f29701aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b1d2a96b10fc40b10e991b32cabb5c452e5f2306906aff0566c723cca75f359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
 - Caracas
 - Convenção
+- Países Ibero-Americanos
 - Produção Cinematográfica
 relationships:
 - type: amended_by
   target: pt:dre:107976095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106844785:por
+  label: Ratificado o Acordo Latino-Americano de Coprodução Cinematográfica, aprovado pela presente resolução, pelo(a) Decreto
+    do Presidente da República n.º 35/2017 - Diário da República n.º 70/2017, Série I de 2017-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-2017-106844785
+  date: '2017-04-07'
+- type: amended_by
+  target: pt:dre:107976095:por
+  label: Aprovado o Protocolo de Emenda ao Acordo Latino-Americano de Co-Produção Cinematográfica, aprovada para ratificação
+    pela presente resolução, pelo(a) Resolução da Assembleia da República n.º 193/2017 - Diário da República n.º 152/2017,
+    Série I de 2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/193-2017-107976095
+  date: '2017-08-08'
 article_structure:
-  article_count: 0
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:23Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de janeiro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO LATINO-AMERICANO DE COPRODUÇÃO CINEMATOGRÁFICA
 
@@ -110,23 +123,23 @@ Com o propósito de contribuir para um efetivo desenvolvimento da comunidade cin
 
 acordaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes entendem por «obras cinematográficas coproduzidas» as obras cinematográficas realizadas por qualquer meio e em qualquer formato, qualquer que seja a sua duração, por dois ou mais produtores de dois ou mais países-membros do presente Acordo, com base em contrato de coprodução assinado pelas empresas coprodutoras em conformidade com o que dispõe o presente Acordo e devidamente registado junto das autoridades competentes de cada país.
 
-Artigo II
+###### Artigo II
 
 Para os fins do presente Acordo são consideradas obras cinematográficas as obras de caráter audiovisual produzidas, registadas e divulgadas por qualquer sistema, processo ou tecnologia.
 
-Artigo III
+###### Artigo III
 
 As obras cinematográficas coproduzidas nos termos deste Acordo serão consideradas nacionais pelas autoridades competentes de cada país coprodutor. Essas obras beneficiarão das vantagens previstas para as obras cinematográficas nacionais na legislação vigente em cada país coprodutor.
 
-Artigo IV
+###### Artigo IV
 
 Para usufruir dos benefícios do presente Acordo, os coprodutores deverão cumprir os requisitos estabelecidos nas Normas de Procedimento contidas no anexo A do presente Acordo, as quais são consideradas parte integrante do mesmo.
 
-Artigo V
+###### Artigo V
 
 1 - Nas obras cinematográficas realizadas nos termos do presente Acordo, a participação de cada um dos coprodutores não poderá ser inferior a 20 %.
 
@@ -134,7 +147,7 @@ Artigo V
 
 3 - A contribuição dos países-membros coprodutores minoritários deve incluir obrigatoriamente uma participação técnica e artística efetiva. A participação de cada país coprodutor incluirá dois atores nacionais em papéis principais ou secundários. Incluirá, adicionalmente, o realizador ou, pelo menos, dois profissionais das seguintes categorias: autor da obra pré-existente, autor do guião, realizador, compositor musical, montador-chefe ou editor, diretor de fotografia, diretor de arte ou cenógrafo ou decorador-chefe, e diretor de sonoplastia ou operador de som, ou responsável por mistura de som.
 
-Artigo VI
+###### Artigo VI
 
 As Partes comprometem-se a que:
 
@@ -146,7 +159,7 @@ c) O realizador seja a autoridade artística máxima na coprodução;
 
 d) As coproduções realizadas nos termos do presente Acordo respeitem a identidade cultural de cada país coprodutor e sejam faladas em uma das línguas da região.
 
-Artigo VII
+###### Artigo VII
 
 1 - A revelação do negativo nos processos de pós-produção será realizada em qualquer dos países-membros ou coprodutores. Excepcionalmente, e mediante prévio acordo entre os coprodutores, poderá ser realizada em outros países.
 
@@ -160,19 +173,19 @@ Artigo VII
 
 6 - Quando a coprodução for realizada por países de idiomas distintos, serão feitas as versões que os coprodutores acordarem, em conformidade com a legislação vigente em cada país coprodutor.
 
-Artigo VIII
+###### Artigo VIII
 
 Em princípio, cada país coprodutor reservar-se-á os benefícios da exploração da obra cinematográfica no seu próprio território. Qualquer outra modalidade contratual requererá a aprovação prévia das autoridades competentes de cada país coprodutor.
 
-Artigo IX
+###### Artigo IX
 
 No contrato a que se refere o artigo i serão estabelecidos os termos da repartição, entre os coprodutores, de mercados, atividades de comercialização, áreas, responsabilidades, despesas, comissões e rendas, e quaisquer outras condições que se considerem necessárias.
 
-Artigo X
+###### Artigo X
 
 Será promovida com particular interesse a realização de obras cinematográficas de especial valor artístico e cultural por empresas produtoras dos países-membros deste Acordo.
 
-Artigo XI
+###### Artigo XI
 
 1 - Os créditos ou títulos de obras cinematográficas realizadas nos termos do presente Acordo deverão indicar, em quadro separado, o caráter de coprodução das mesmas e o nome dos países coprodutores.
 
@@ -182,7 +195,7 @@ Artigo XI
 
 4 - Todo o prémio que não seja em espécie, vale dizer, distinções honoríficas e troféus, concedidos por terceiros países a obras cinematográficas realizadas nos termos deste Acordo, ficará sob a custódia do coprodutor maioritário, ou como tiver sido estabelecido no contrato de coprodução.
 
-Artigo XII
+###### Artigo XII
 
 Nas exportações com destino a países em que importações de obras cinematográficas estejam sujeitas a limites ou quotas:
 
@@ -194,37 +207,37 @@ c) Em caso de dificuldade, a exportação caberá ao país coprodutor de que o r
 
 d) Se um dos países coprodutores dispuser de livre entrada para as suas obras cinematográficas no país importador, caberá ao país em questão a exportação da obra cinematográfica coproduzida.
 
-Artigo XIII
+###### Artigo XIII
 
 As Partes concederão facilidades para a circulação e permanência de pessoal artístico e técnico para participar em obras cinematográficas a serem coproduzidas nos termos do presente Acordo. Adicionalmente, as Partes concederão facilidades para a importação e exportação temporária do material necessário para a realização de coproduções, em conformidade com a legislação vigente em cada país.
 
-Artigo XIV
+###### Artigo XIV
 
 1 - As transferências de divisas geradas pelo cumprimento de contrato de coprodução serão efetuadas nos termos da legislação vigente em cada país.
 
 2 - Além de modos de pagamento e de partilha de entendimentos, poderá ser acordado qualquer sistema de uso ou intercâmbio de serviços, materiais e produtos que seja da conveniência dos coprodutores.
 
-Artigo XV
+###### Artigo XV
 
 As autoridades competentes dos países coprodutores procederão ao intercâmbio de informações de caráter técnico e financeiro relativas às coproduções realizadas nos termos deste Acordo.
 
-Artigo XVI
+###### Artigo XVI
 
 O presente Acordo estará sujeito a ratificação. Entrará em vigor quando pelo menos três dos países signatários hajam depositado junto à Secretaria Executiva da Cinematografia Ibero-Americana (SECI) os seus respectivos Instrumentos de Ratificação.
 
-Artigo XVII
+###### Artigo XVII
 
 O presente Acordo permanecerá aberto à adesão de Estados ibero-americanos que sejam Parte do Convénio de Integração Cinematográfica lbero-Americana. A adesão efetuar-se-á mediante depósito do respectivo instrumento junto da SECI.
 
-Artigo XVIII
+###### Artigo XVIII
 
 Cada uma das Partes poderá denunciar o presente Acordo a qualquer momento, mediante notificação escrita à SECI. A denúncia produzirá efeito para a Parte interessada um ano após a data em que a notificação haja sido recebida pela SECI e após o cumprimento das obrigações anteriormente contraídas através deste Acordo pelo país denunciante.
 
-Artigo XIX
+###### Artigo XIX
 
 A Secretaria Executiva da Cinematografia Ibero-Americana (SECI) terá como atribuição zelar pela execução do presente Acordo, examinar dúvidas que surjam na aplicação deste e mediar em caso de controvérsia.
 
-Artigo XX
+###### Artigo XX
 
 A critério de um ou vários Estados-Membros poderão ser propostas modificações ao presente Acordo através da SECI, para serem consideradas pela Conferência de Autoridades Cinematográficas lbero-Americanas (CACI) e aprovadas por via diplomática.
 

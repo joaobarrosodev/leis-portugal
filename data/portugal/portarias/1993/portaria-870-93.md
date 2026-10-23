@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/870/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/870-1993-660310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70eaf34db075baf054376c1400aee9ba21adb5d0770a5a3dab20b8bdb63ed345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c97cd4510e17be6bd507feb62cab76ac2df5a50a6d897c4d5b0d916d1a6377bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Comunicação e Jornalismo
 - Curso Superior de Electrónica e Telecomunicações
 - Curso Superior de Estudos Comunitários
 - Curso Superior de Informática Industrial
 - Ensino Particular
+- Ensino Superior
 - Gabinete Português de Estudos Humanísticos
 - Instituto Português de Estudos Superiores
-- Ensino Superior
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:03Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +128,8 @@ Curso superior de Informática Industrial;
 
 Ministério da Educação.
 
-**Assinada em 18 de Agosto de 1993.**
+Assinada em 18 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49424944.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49424944.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49424944.pdf)

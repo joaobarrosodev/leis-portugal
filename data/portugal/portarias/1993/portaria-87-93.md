@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/87/1993/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-1993-602505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21fcd7f4b7761c6d70c37f64e601b44db759007678fefd63084c5793827da0c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7832073ed273298405c16e9469cfd25f24022cb4310859a20bef6f5bcac5a749
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Serviços de Segurança
 - Empresa de Segurança
 - Regime Jurídico
+- Serviços de Segurança
 - TAXA de Prestação de Serviços
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:219968:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:03Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +114,6 @@ d) Substituição de alvará - 60000$00.
 
 Ministério da Administração Interna.
 
-**Assinada em 22 de Dezembro de 1992.**
+Assinada em 22 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.

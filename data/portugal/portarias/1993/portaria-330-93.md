@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330/1993/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1993-637910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02d8286e1d631bb27cca8f1f530198a5103cbedc29529be64eb143943beeebd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c48215202a8a6f9f07574d282e3a78900f2e2630dd9843eea24af1ac2d45b7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,16 +99,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/480/1991/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/480/1991/06/04/p/dre
+- type: cites
+  target: pt:dre:144455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663500:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:28Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +189,7 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, ao abrigo do di
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 19 de Janeiro de 1993.**
+Assinada em 19 de Janeiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, José Manuel Álvares da Costa e Oliveira, Subsecretário de Estado Adjunto do Ministro da Agricultura.
 
@@ -133,10 +197,10 @@ Mapa I anexo à Portaria n.º 330/93
 
 Direcção Regional de Agricultura do Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf))](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf)
 
 Mapa II anexo à Portaria n.º 330/93
 
 Direcção-Geral de Hidráulica e Engenharia Agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf))](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/067b00/14051406.pdf)

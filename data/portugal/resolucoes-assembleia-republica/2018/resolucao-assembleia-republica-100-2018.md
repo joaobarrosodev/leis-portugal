@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07000/0156001561.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/100/2018/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/100-2018-115017483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a892db418e167fa9f980bc4d1e541476c50e3f8d1ecdcc9566a6dfbda74bfa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09664c45b0dcd836a0350a5fa9d54313bc7b1f44eaa19e5a50a7b7facd5ebec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização de Espaços Marítimos sob Soberania
-  ou Jurisdição da República de Cabo Verde
+- ÁREA de Jurisdição
+- Cabo Verde
 - Convenção
-- Portugal
+- Espaço Marítimo
 - Fiscalização
 - Lisboa
-- ÁREA de Jurisdição
-- Espaço Marítimo
-- Cabo Verde
-relationships: []
+- Portugal
+- Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização de Espaços Marítimos sob Soberania
+  ou Jurisdição da República de Cabo Verde
+relationships:
+- type: amended_by
+  target: pt:dre:115017482:por
+  label: Ratificado o Protocolo Adicional ao Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da
+    Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República de Cabo Verde pelo(a) Decreto do Presidente
+    da República n.º 26/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/26-2018-115017482
+  date: '2018-04-10'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:17Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de janeiro de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOLO ADICIONAL AO TRATADO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE NO DOMÍNIO DA FISCALIZAÇÃO CONJUNTA DE ESPAÇOS MARÍTIMOS SOB SOBERANIA OU JURISDIÇÃO DA REPÚBLICA DE CABO VERDE.
 
@@ -180,3 +187,5 @@ Rui Chancerelle de Machete, Ministro de Estado e dos Negócios Estrangeiros.
 Pela República de Cabo Verde:
 
 Jorge Homero Tolentino Araújo, Ministro das Relações Exteriores.
+
+0052018

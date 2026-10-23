@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/745/1993/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-1993-324345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d14b869e8611f57b060e3a3a9094e276e99eb73b97ac53d1510bf11f2ff0565a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 493039e78e7989c757ff4464146f7720ffe8a5af4d7cf0ec8f806493e09e2f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Estabelecimento Industrial
 - Oliveira de Frades
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
@@ -78,6 +78,35 @@ relationships:
   target: pt:dre:168426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168426:por
+  label: "Ratificada uma alteração ao plano de pormenor e publicado o quadro geral de lotes e planta de síntese do plano,\
+    \ reformulados, pela PORT.670/96.1996.11.16.MEPAT, DR.IS-B [266] de 16/Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-1996-168426
+  date: '1996-11-16'
+- type: amended_by
+  target: pt:dre:386831:por
+  label: "Ratificada a suspensão, pelo prazo de dois anos e na área delimitada na planta anexa, do Plano de Pormenor da Zona\
+    \ Industrial de Oliveira de Frades, ratificado pelo presente diploma, com as alterações ratificadas pela Port 670/96,\
+    \ de 16-Nov, pela RES.4/2008.10.01.2008.PCM, DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/4-2008-386831
+  date: '2008-01-10'
+- type: amended_by
+  target: pt:dre:2227460:por
+  label: "Tornado público ter sido aprovada, por deliberação da Assembleia Municipal de Oliveira de Frades, de 3 de fevereiro\
+    \ de 2012, a suspensão parcial, pelo período de seis meses do Plano de Pormenor da Zona Industrial de Oliveira de Frades,\
+    \ ratificado pelo presente diploma, com as alterações posteriormente ratificadas pela Port 670/96 de 16-Nov, pelo ANUNCIO.5708/2012.13.03.2012.MOLIV\
+    \ DE FRADES, DR.IIS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/anuncio/5708-2012-2227460
+  date: '2012-03-13'
+- type: amended_by
+  target: pt:dre:65953847:por
+  label: Tornado público ter sido aprovada a revisão e ampliação do Plano de Pormenor da Zona Industrial de Oliveira de Frades
+    (PPZIOF); e revogado, a partir 20.12.2014, o Plano de Pormenor da Zona Industrial de Oliveira de Frades, ratificado pelo
+    presente diploma, com a alteração ratificada pela Port 670/96 de 16-nov, pelo(a) Aviso n.º 14283/2014 - Diário da República
+    n.º 245/2014, Série II de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14283-2014-65953847
+  date: '2014-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -90,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:02Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +183,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial de Oliveira de Frades
 
@@ -280,7 +341,7 @@ Farão igualmente parte do processo dois cortes à escala não inferior a 1:500,
 
 2.6.3 - As vedações interiores das parcelas edificáveis e as vedações confinantes com a via pública deverão cumprir o estabelecido no desenho anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
 
 2.6.4 - A cota livre interior terá um máximo de 9 m.
 
@@ -288,11 +349,11 @@ São admissíveis outras soluções desde que justificadas em projecto.
 
 A altura máxima de edifícios de apoio é de 10 m ao beiral das coberturas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
 
 2.6.5 - A cota exterior tomada no ponto mais desfavorável das fachadas pode atingir 11 m, incluindo a altura e platibandas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
 
 2.6.6 - No projecto a licenciar será apresentado um tramo de fachada de comprimento não inferior a 10 m, incluindo o correspondente tratamento de pormenor à escala não inferior a 1:50.
 
@@ -368,8 +429,8 @@ Zona Industrial de Oliveira de Frades
 
 Quadro geral de lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
 
 2.ª fase - Quadro geral de lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44194423.pdf)

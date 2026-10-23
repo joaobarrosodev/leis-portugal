@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03500/0052400524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/2016/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2016-73650497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc72366de213b758287c2bb79f780c78a4f5d84c575acf9a6df83ba3735b9b3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cc6f4446e4223b87f937fcda997ad27478794653ecba441a1948d37a58195fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Autoridade Tributária e Aduaneira
-- Cessão de Imóveis
+- Agricultura
 - Arrendamento Rural
+- Autoridade Tributária e Aduaneira
+- Baldio
+- Cessão de Imóveis
 - Definição de Competências
-- Direcção Regional de Agricultura e Pescas
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direção Geral do Território
+- Direcção Regional de Agricultura e Pescas
 - Instituto da Conservação da Natureza e das Florestas
 - Prédio Rústico
-- Baldio
-- Agricultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165/2015/08/17/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/1997/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/1997/07/30/p/dre
+- type: cites
+  target: pt:dre:144794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56388820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025057:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:53Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +132,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º e dos 
 
 Aprovada em 5 de fevereiro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(147) a 3838-(148)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/01470148.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-n7/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-n7-1993-402148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd88cc7bf620e91c9d5c8be9d20946d1b2f37407740f769858ec76ad0230db06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb87ee4ad786013fc5418a3888bcab9c795b590e3fb6201189339036bc42acbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:204213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204213:por
+  label: "Alterado o num 1 e aditado um num 1-A ao presente diploma, pela PORT.621/97.1997.08.08.MADRP DR.IS-B [182]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1997-204213
+  date: '1997-08-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:04:31Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/01470148.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/01470148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01470148.pdf)

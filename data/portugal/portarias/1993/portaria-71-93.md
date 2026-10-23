@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71/1993/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-1993-585027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2070bb78ceaee40ba5cb67ce1498492ce4233c8e52ad43aceddc63dd21b2448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4da5ec25d42c22246e43be0ab9dd86d42cb0d89872d1b9428a51c2b0b3e2644d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Código das Custas Judiciais
 - Emolumento
 - Exame Médico-forense
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:670073:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:57Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +104,12 @@ Manda o Governo, pelo Ministro da Justiça, que os valores dos emolumentos previ
 
 Ministério da Justiça.
 
-**Assinada em 21 de Dezembro de 1992.**
+Assinada em 21 de Dezembro de 1992.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
 Tabela anexa
 
 Exames forenses efectuados no âmbito das perícias médico-legais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/015b00/01840184.pdf))](https://files.diariodarepublica.pt/1s/1993/01/015b00/01840184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/015b00/01840184.pdf)

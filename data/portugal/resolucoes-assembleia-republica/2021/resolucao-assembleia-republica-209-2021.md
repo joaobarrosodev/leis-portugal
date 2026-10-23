@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13900/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/209/2021/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/209-2021-167839724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a067771cadde9aa3c1d593577e07dde19249d6d2012be15cc24f89e981011175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67f65fcc0fdee0d7250a2098d4da0694a4ec6fcbc510c86258e4822d51e9d877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Política Fiscal
 - Convenção
-- Portugal
-- Direito Internacional Público
 - CPLP
+- Direito Internacional Público
 - Países de Língua Portuguesa
+- Política Fiscal
+- Portugal
 - Sede
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:228835:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:51Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA QUE REVÊ EM MATÉRIA FISCAL O ACORDO ENTRE O GOVERNO PORTUGUÊS E A COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA REFERENTE AO ESTABELECIMENTO DA SEDE DA COMUNIDADE EM PORTUGAL, ASSINADO EM LISBOA, EM 3 DE JULHO DE 1998.
 
@@ -132,7 +136,7 @@ d) Isentos de direitos alfandegários e de todas as proibições e restrições 
 
 2 - Relativamente a equipamentos, fornecimentos, mantimentos, combustível, materiais e outros bens adquiridos em, ou de outra forma importados para a República Portuguesa, para uso oficial e exclusivo da CPLP, a República Portuguesa tomará as medidas administrativas adequadas para a isenção ou reembolso de qualquer imposto, taxa ou contribuição monetária paga como parte do preço, incluindo o imposto sobre o valor acrescentado.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Os funcionários do Secretariado Executivo gozarão, dentro do território português, das seguintes imunidades e privilégios:
 
@@ -158,7 +162,7 @@ i) Das mesmas facilidades em matéria de restrições cambiais que as concedidas
 
 3 - Os privilégios e imunidades previstos neste artigo não poderão ir além dos previstos para os membros das missões diplomáticas.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - As importações de haveres e outros bens do Secretariado Executivo efetuadas nos termos do artigo 6.º e, bem assim, as efetuadas pelos funcionários do Secretariado Executivo que no território português gozem dos privilégios e imunidades referidos no n.º 1 do artigo 9.º, nos limites e nas condições aí referidos, beneficiam da isenção de IVA, nos termos da alínea c) do n.º 2 do artigo 13.º do Código do IVA.
 
@@ -183,3 +187,5 @@ Augusto dos Santos Silva, Ministro de Estado e dos Negócios Estrangeiros.
 Pela Comunidade dos Países de Língua Portuguesa:
 
 Embaixador Francisco Ribeiro Telles, Secretário Executivo.
+
+114393371

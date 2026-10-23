@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/816/1993/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-1993-626619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 372d00ab175272571adcaf2898290e957f442569b74ff11f8f78a4a4e10e3aa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d1ee3037e54c12d99b7b0de9dfebe31555610df6bae10aa2c6cba738d1683d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:42Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +138,6 @@ Colocação de resistências.
 
 Ministérios do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 9 de Agosto de 1993.**
+Assinada em 9 de Agosto de 1993.
 
 Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

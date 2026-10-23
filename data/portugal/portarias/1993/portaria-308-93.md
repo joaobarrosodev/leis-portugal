@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/308/1993/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-1993-634138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0d05a23d879f9ca22f8fecf2400725fe3a0b3e17d06f8649bcb0dfdfddd0f37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 924977b6a6e4bc35ef897431772715bd965428382291b8f137b112a4ace68464
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,23 @@ reuse:
 subjects:
 - Borba
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RATIFICADA A REVISÃO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DE BORBA, PELA PORTARIA 804/94, DE 10 DE SETEMBRO,\
+    \ PUBLICADA NO DR.IS-B, 210.\0-B, 210."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-10'
+- type: amended_by
+  target: pt:dre:108048396:por
+  label: Tornada pública a aprovação da alteração do Plano de Pormenor da Zona Industrial da Cruz de Cristo, em Borba, ratificado
+    pela presente portaria, pelo(a) Aviso n.º 9801/2017 - Diário da República n.º 163/2017, Série II de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9801-2017-108048396
+  date: '2017-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -81,16 +93,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:58Z'
   warnings: []
   errors: []
 ---
@@ -119,52 +167,52 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 3 de Fevereiro de 1993.**
+Assinada em 3 de Fevereiro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
-###### Artigo 1.º O presente regulamento tem por objectivo caracterizar, ordenar e estabelecer regras de utilização da área abrangida pelo Plano de Pormenor da Zona Industrial de Borba, cujos limites são definidos nas respectivas peças desenhadas.
+Artigo 1.º O presente regulamento tem por objectivo caracterizar, ordenar e estabelecer regras de utilização da área abrangida pelo Plano de Pormenor da Zona Industrial de Borba, cujos limites são definidos nas respectivas peças desenhadas.
 
-###### Art. 2.º A área abrangida pelo Plano de Pormenor da Zona Industrial de Borba está dividida em três zonas: zona de edificações preexistentes, zona a edificar e zona verde de protecção.
+Art. 2.º A área abrangida pelo Plano de Pormenor da Zona Industrial de Borba está dividida em três zonas: zona de edificações preexistentes, zona a edificar e zona verde de protecção.
 
-###### Art. 3.º A cada zona definida no artigo anterior correspondem características urbanísticas diferenciadas, que são definidas no presente regulamento.
+Art. 3.º A cada zona definida no artigo anterior correspondem características urbanísticas diferenciadas, que são definidas no presente regulamento.
 
-###### Art. 4.º Na zona de edificações preexistentes não será permitida qualque ampliação nem em superfície nem em altura, apenas sendo permitidas obras que tenham por objectivo a conservação dos imóveis, a beneficiação das condições de trabalho ou a melhoria do aspecto arquitectónico.
+Art. 4.º Na zona de edificações preexistentes não será permitida qualque ampliação nem em superfície nem em altura, apenas sendo permitidas obras que tenham por objectivo a conservação dos imóveis, a beneficiação das condições de trabalho ou a melhoria do aspecto arquitectónico.
 
-###### Art. 5.º Na zona verde de protecção apenas se permite a instalação de uma cortina vegetal devidamente dimensionada para exercer a sua função de protecção, não sendo permitida qualquer outra utilização nesta zona, e será objecto de um estudo paisagístico adequado.
+Art. 5.º Na zona verde de protecção apenas se permite a instalação de uma cortina vegetal devidamente dimensionada para exercer a sua função de protecção, não sendo permitida qualquer outra utilização nesta zona, e será objecto de um estudo paisagístico adequado.
 
-###### Art. 6.º Nos lotes previstos na zona a edificar instalar-se-ão edifícios de características industriais, que, preferencialmente, serão pequenas oficinas de mecânica ligeira, metalomecânica, armazéns ou pequenas unidades transformadoras ou de manufactura.
+Art. 6.º Nos lotes previstos na zona a edificar instalar-se-ão edifícios de características industriais, que, preferencialmente, serão pequenas oficinas de mecânica ligeira, metalomecânica, armazéns ou pequenas unidades transformadoras ou de manufactura.
 
-###### Art. 7.º Os edifícios a construir implantar-se-ão nos lotes, respeitando os alinhamentos, distâncias e cotas definidos nas peças desenhadas do Plano de Pormenor, não podendo ocupar uma área superior a 60% da área do lote nem possuir uma volumetria superior a dois pisos ou uma cota de beirado superior a 7 m.
+Art. 7.º Os edifícios a construir implantar-se-ão nos lotes, respeitando os alinhamentos, distâncias e cotas definidos nas peças desenhadas do Plano de Pormenor, não podendo ocupar uma área superior a 60% da área do lote nem possuir uma volumetria superior a dois pisos ou uma cota de beirado superior a 7 m.
 
-###### Art. 8.º Os edifícios a construir deverão ter um acabamento exterior das paredes em que predomine a cor branca, podendo admitir-se a existência de faixas ou molduras em cores tradicionais da região. Nas caixilharias dos vãos exteriores não poderá ser utilizado alumínio anodizado na cor natural. Nas coberturas não será permitido a utilização de chapas metálicas brilhantes.
+Art. 8.º Os edifícios a construir deverão ter um acabamento exterior das paredes em que predomine a cor branca, podendo admitir-se a existência de faixas ou molduras em cores tradicionais da região. Nas caixilharias dos vãos exteriores não poderá ser utilizado alumínio anodizado na cor natural. Nas coberturas não será permitido a utilização de chapas metálicas brilhantes.
 
-###### Art. 9.º Nos lotes que prevejam a existência de muro de vedação confinante com arruamento, o muro terá uma altura máxima de 1 m e será pintado a branco, podendo a sua altura total ir a 1,5 m, sendo o último troço em grelhagem metálica ou sebe viva.
+Art. 9.º Nos lotes que prevejam a existência de muro de vedação confinante com arruamento, o muro terá uma altura máxima de 1 m e será pintado a branco, podendo a sua altura total ir a 1,5 m, sendo o último troço em grelhagem metálica ou sebe viva.
 
-###### Art. 10.º As vedações entre lotes confinantes poderão constituir-se em alvenaria ou malha de arame, sendo, em qualquer dos casos, a sua altura mínima de 1,5 m.
+Art. 10.º As vedações entre lotes confinantes poderão constituir-se em alvenaria ou malha de arame, sendo, em qualquer dos casos, a sua altura mínima de 1,5 m.
 
-###### Art. 11.º Os edifícios a construir são exclusivamente para uso industrial, embora, a título excepcional e em casos devidamente justificados, se possa admitir a construção de habitação para o guarda das instalações, habitação esta que terá que ficar integrada no perímetro do edifício, não sendo permitida a construção de anexos.
+Art. 11.º Os edifícios a construir são exclusivamente para uso industrial, embora, a título excepcional e em casos devidamente justificados, se possa admitir a construção de habitação para o guarda das instalações, habitação esta que terá que ficar integrada no perímetro do edifício, não sendo permitida a construção de anexos.
 
-###### Art. 12.º Os projectos de instalação de unidades industriais serão instruídos nos termos da legislação em vigor e, consoante a sua classificação e tipo de indústria a instalar, terão, quando exigível, de obter previamente o licenciamento junto da direcção-geral competente.
+Art. 12.º Os projectos de instalação de unidades industriais serão instruídos nos termos da legislação em vigor e, consoante a sua classificação e tipo de indústria a instalar, terão, quando exigível, de obter previamente o licenciamento junto da direcção-geral competente.
 
-###### Art. 13.º - 1 - As instalações, alterações e ampliações dos estabelecimentos industriais que possam provocar poluição ambiente por emissão de poeiras, fumos, vapores e cheiros, rejeição de efluentes líquidos ou produção de resíduos sólidos só serão autorizadas desde que estes poluentes não excedam os limites que vierem a ser fixados pela entidade coordenadora a quem compete o licenciamento.
+Art. 13.º - 1 - As instalações, alterações e ampliações dos estabelecimentos industriais que possam provocar poluição ambiente por emissão de poeiras, fumos, vapores e cheiros, rejeição de efluentes líquidos ou produção de resíduos sólidos só serão autorizadas desde que estes poluentes não excedam os limites que vierem a ser fixados pela entidade coordenadora a quem compete o licenciamento.
 
 2 - Para os estabelecimentos industriais das classes A, B e C, a Câmara Municipal, nos termos do artigo 10.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, não concederá licença para obras sem que tenha sido efectuado pela entidade coordenadora competente o respectivo licenciamento.
 
-###### Art. 14.º As indústrias a instalar que provoquem a emissão de poluentes atmosféricos deverão tomar medidas para minimizar aquela emissão, não ultrapassando os limites fixados no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, ou os fixados pela direcção-geral a quem compete o respectivo licenciamento.
+Art. 14.º As indústrias a instalar que provoquem a emissão de poluentes atmosféricos deverão tomar medidas para minimizar aquela emissão, não ultrapassando os limites fixados no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, ou os fixados pela direcção-geral a quem compete o respectivo licenciamento.
 
-###### Art. 15.º - 1 - As indústrias a instalar são responsáveis pelas lamas resultantes dos pré-tratamentos das águas residuais, devendo indicar, nos respectivos projectos, qual o destino que lhes darão.
+Art. 15.º - 1 - As indústrias a instalar são responsáveis pelas lamas resultantes dos pré-tratamentos das águas residuais, devendo indicar, nos respectivos projectos, qual o destino que lhes darão.
 
 2 - Não é permitida a evacuação de óleos e gorduras nas redes de esgotos, devendo as indústrias a instalar armazenar aqueles produtos para posterior tratamento nos termos da legislação em vigor.
 
 3 - As águas residuais industriais a descarregar no colector municipal deverão cumprir os valores indicados no anexo XXVIII ao [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março.
 
-###### Art. 16.º As indústrias a instalar serão responsáveis por dar destino adequado aos resíduos que produzam, devendo, no seu processo de licenciamento, dar cumprimento ao disposto na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio.
+Art. 16.º As indústrias a instalar serão responsáveis por dar destino adequado aos resíduos que produzam, devendo, no seu processo de licenciamento, dar cumprimento ao disposto na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio.
 
-###### Art. 17.º As indústrias a instalar deverão considerar nos seus processos de licenciamento as disposições constantes no Regulamento Geral do Ruído.
+Art. 17.º As indústrias a instalar deverão considerar nos seus processos de licenciamento as disposições constantes no Regulamento Geral do Ruído.
 
-###### Art. 18.º No caso de nas indústrias a instalar serem utilizadas substâncias perigosas, terão de cumprir o disposto no [Decreto-Lei n.º 224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho.
+Art. 18.º No caso de nas indústrias a instalar serem utilizadas substâncias perigosas, terão de cumprir o disposto no [Decreto-Lei n.º 224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/064b00/12841285.pdf))](https://files.diariodarepublica.pt/1s/1993/03/064b00/12841285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/064b00/12841285.pdf)

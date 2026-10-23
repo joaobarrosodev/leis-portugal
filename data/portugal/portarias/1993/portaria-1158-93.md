@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1158/1993/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1158-1993-686848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef1076c1f9d83186c6f1ed8a0d01c28c148aaed529ef9e28ed1f0b500bc5b89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1400da7401126603032ee0dd77276de0aacafc5b1c6484ae25ae24eb37d124b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Coruche
+- Equipamento Urbano
+- Habitação
 - Normas de Construção
 - Plano de Pormenor
-- Equipamento Urbano
 - Regulamento
-- Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1991/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1991/06/14/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:35Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +120,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 2 de Outubro de 1993.**
+Assinada em 2 de Outubro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor de Santo Antonino Norte
 
@@ -402,7 +414,7 @@ Regulamento do Plano de Pormenor de Santo Antonino Norte
 
 2.1 - Definição. - Toda e qualquer construção deverá corresponder às características técnicas referidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf))](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf)
 
 2.2 - Alinhamentos. - Os alinhamentos definidos no Plano serão obrigatoriamente marcados pelos serviços técnicos municipais.
 
@@ -478,4 +490,4 @@ Número máximo de pisos - dois.
 
 Lugares de estacionamento mínimos - três lugares/100 m2 de área bruta de construção no interior do lote.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf))](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/261b00/62436245.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/468/1993/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-1993-274014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:56:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be4c5747e8e736a75d4b7b759b7f119cf9a6b98ad00d01dbe9095d17747c2b4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cf8a3fdbbf56d3e145e8ed75f228d12b1264d20802726fd6fb6fe2ac981d506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:56:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Viseu
 relationships:
+- type: amended_by
+  target: pt:dre:72953646:por
+  label: Tornado público ter sido aprovada a alteração por adaptação e Correção Material Incidente sobre o Plano de Pormenor
+    da Zona Envolvente da Circunvalação e 1.ª Circular Sul (Jugueiros) e da Zona do Novo Hospital Distrital de Viseu - UOPG
+    1.12. (Lotes n.os 215, 216, 217, 218, 219, E 325), ratificado pelo presente diploma, com as alterações ratificadas pela
+    Port 336/97 de 16-mai e as correções publicitadas pelo AV 14918/2015 de 21-dez, pelo(a) Aviso n.º 14982/2015 - Diário
+    da República n.º 249/2015, Série II de 2015-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14982-2015-72953646
+  date: '2015-12-22'
+- type: amended_by
+  target: pt:dre:117343892:por
+  label: Tornado público ter sido aprovada a suspensão parcial do Plano de Pormenor da zona envolvente da Circunvalação e
+    1.ª Circular Sul (Jugueiros) e da zona do Novo Hospital Distrital de Viseu e estabelecimento de medidas preventivas (UOPG
+    1.12), ratificado pela presente portaria, pelo(a) Aviso n.º 18412-B/2018 - Diário da República n.º 237/2018, 2º Suplemento,
+    Série II de 2018-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/18412-b-2018-117343892
+  date: '2018-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:56:44Z'
   warnings: []
   errors: []
 ---
@@ -111,12 +148,12 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 25 de Março de 1993.**
+Assinada em 25 de Março de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 QUADRO DE SÍNTESE
 
 Mapa de índices urbanísticos e especificações do projecto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/103b00/22862297.pdf))](https://files.diariodarepublica.pt/1s/1993/05/103b00/22862297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/103b00/22862297.pdf)

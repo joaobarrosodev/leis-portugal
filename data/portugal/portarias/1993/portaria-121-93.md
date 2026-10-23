@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/1993/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-1993-599143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e7eb8b6b457e6ebd595be9a9d98618f51f39f55a03a421dd057b51d19a0ba8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 676335a9f61cb9d77a189fb4e8048507add6699f97c3868b3a0861558b74e280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,42 @@ reuse:
 subjects:
 - Delegação Regional da Cultura de Lisboa
 - Direcção Geral dos Espectáculos e das Artes
-- Secretaria de Estado da Cultura
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:233105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 163/93, DE 31-AGO DE 31-AGO DR.IS-B [204] 4SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I ANEXO, PELO DN 332/94, DE 14-ABR DR.IS-B [111].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA DIRECCAO-GERAL DOS ESPECTÁCULOS E DAS ARTES CONSTANTE DO MAPA I ANEXO, PELO DN 695/94\
+    \ DR.IS-B [228] DE 01/OUT/1994\04"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-01'
+- type: amended_by
+  target: pt:dre:139751:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Espectáculos, constante do mapa I anexo, pela PORT.55/95.1995.01.25.PCM,\
+    \ DR.IS-B [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-1995-139751
+  date: '1995-01-25'
+- type: amended_by
+  target: pt:dre:233105:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Espectáculos, constante do mapa I anexo ao presente diploma,\
+    \ no que respeita ao pessoal da carreira de subinspector de espectáculos e direitos de autor, pela PORT.567/96.09.10.1996.PCM,\
+    \ DR.IS-B [234] de 09.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/567-1996-233105
+  date: '1996-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -87,16 +116,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/12/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/12/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:181986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:48Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +156,9 @@ Manda o Governo, pelos Secretários de Estado da Cultura e Adjunta e do Orçamen
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 21 de Dezembro de 1992.**
+Assinada em 21 de Dezembro de 1992.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 MAPA I
 
@@ -125,7 +166,7 @@ MAPA I
 
 Direcção-Geral dos Espectáculos e das Artes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf))](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar
 
@@ -135,7 +176,7 @@ MAPA II
 
 Quadro de pessoal da Delegação Regional da Cultura de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf))](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/028b00/04430446.pdf)
 
 Conteúdo funcional da carreira técnico auxiliar
 

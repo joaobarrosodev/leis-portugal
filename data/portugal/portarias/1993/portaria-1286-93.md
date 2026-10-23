@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1286/1993/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1286-1993-540976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8effb0ec01c140943c438a6876dbacd8240c60a8322576bd22877f1aae6359d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54279bfe5b238b0860f0ac2c8f55b5cd5c4f31b092876e22c8003cc6ae6c7169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada do Norte
-- Veículo
-- Segurança Rodoviária
 - Natal
+- Segurança Rodoviária
 - Trânsito
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:42Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +114,6 @@ Auto-Estrada do Norte e estrada nacional n.º 10, de Vila Franca de Xira até ao
 
 Ministério da Administração Interna.
 
-**Assinada em 14 de Dezembro de 1993.**
+Assinada em 14 de Dezembro de 1993.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.

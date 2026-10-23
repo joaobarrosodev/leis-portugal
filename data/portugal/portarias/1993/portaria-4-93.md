@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/4/1993/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-1993-286929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27df7ad61ae56062896afac6255017065afe6938f9ced38566af52ecdbefd8a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 380af14a051983860f4c5501fc58ad4bfa6d883b1275bac6617adc61da28b6f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração do Porto de Sines
 - Administração de Portos
-- Regulamento
+- Administração do Porto de Sines
 - Portos
+- Regulamento
 - Sines
 - Tarifa Portuária
 relationships:
@@ -77,16 +77,30 @@ relationships:
   target: pt:dre:348336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º, 19.º, 19.º-A e 20.º do Regulamento, aprovado pela Portaria 40-A/86,\
+    \ de 29 de Janeiro, na redacção do presente diploma, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26-Supl] de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664307:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:08Z'
   warnings: []
   errors: []
 ---
@@ -181,6 +195,6 @@ c) Entende-se por dia um período indivisível de vinte e quatro horas.
 
 Ministério do Mar.
 
-**Assinada em 26 de Novembro de 1992.**
+Assinada em 26 de Novembro de 1992.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

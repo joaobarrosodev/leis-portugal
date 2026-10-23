@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/440/1993/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-1993-665968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e73f3d7eb25cb98d29c21e8ac90219cf480427dce93dd4cf19659fad34e58873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf35c74a5a5840e0fcd64a8f56234a473ad1958690f5d663ae99ca2faee4e37c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,32 @@ relationships:
   target: pt:dre:198298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, NA PARTE REFEREMTE AO PESSOAL OPERÁRIO PELA PORT 1293/93 DE 24-DEZ DR.IS-B [299]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 596/95 DE 19-JUN DR.IS-B [139]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-19'
+- type: amended_by
+  target: pt:dre:241214:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, pela PORT.430/96.02.09.1996.PCM, DR.IS-B [203] de\
+    \ 02.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-1996-241214
+  date: '1996-09-02'
+- type: amended_by
+  target: pt:dre:224647:por
+  label: "Alterado o quadro de pessoal pela PORT.15/98.1998.01.09.PCM, MF e MS DR.IS-B [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-1998-224647
+  date: '1998-01-09'
+- type: amended_by
+  target: pt:dre:198298:por
+  label: "Substituido o quadro de pessoal pela PORT.206/98.1998.03.28.PCM, DR.IS-B [74]T\0]T\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1998-198298
+  date: '1998-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1091/1992/11/27/p/dre
   label: null
@@ -84,16 +110,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:182052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599707:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:56:09Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +192,13 @@ Manda o governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Março de 1993.**
+Assinada em 30 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/098b00/20792083.pdf))](https://files.diariodarepublica.pt/1s/1993/04/098b00/20792083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/098b00/20792083.pdf)
 
 ## ANEXO I
 
@@ -138,25 +212,25 @@ Repartição de Pessoal, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Secretaria e Expediente Geral.
+Secção de Secretaria e Expediente Geral.
 
 Repartição de Admissão de Doentes, com:
 
 #### Secção de Doentes;
 
-#### Secção de Arquivo Clínico e Estatística.
+Secção de Arquivo Clínico e Estatística.
 
 Repartição de contabilidade, com:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica.
+Secção de Contabilidade Analítica.
 
 Repartição de Aprovisionamento, com:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 ## ANEXO II — Conteúdo funcional de carreira do pessoal técnico-profissional de nível 4
 

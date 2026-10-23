@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/78/1993/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-1993-585226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2003d5b7a80045a8d855e57662542341d89fffe277c5299e69bd453348915f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d75890520e953d1cf8ddf9eda53a92ca728a67f1378c2fb7e66b3afec44d093
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,47 @@ relationships:
   target: pt:dre:1228572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO DE UM LUGAR O QUADRO DE PESSOAL, PELO DN 81/93 DE 28-ABR DR.IS-B [121] DE 25/MAI/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 113/93 DE 12-MAI DR.IS-B [146] DE 24/JUN/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO SECRETARIADO NACIONAL DE REABILITAÇÃO PELO DN 152/93 DE 08-JUN DR.IS-B [162] DE 13/JUL/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DN 431/93 DE 26-OUT DR.IS-B [291] DE 15/DEZ/1993 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-15'
+- type: amended_by
+  target: pt:dre:515989:por
+  label: "Alterado o quadro de pessoal, no que respeita aos grupos de pessoal técnico-profissional e de pessoal administrativo,\
+    \ pela PORT.610/95.20.06.1995.MF, DR.IS-B [140] de 20.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/610-1995-515989
+  date: '1995-06-20'
+- type: amended_by
+  target: pt:dre:3623204:por
+  label: "Alterada pela PORT.1947/2000(2ªSÉRIE).2000.11.24.MTS, DR.IIS [286] de 13/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1947-2000-3623204
+  date: '2000-11-24'
+- type: amended_by
+  target: pt:dre:3193393:por
+  label: "Alterado o quadro de pessoal, pela PORT.68/2001(2ªSÉRIE).2000.12.28.MTS DR.IIS [16] DE 16/JAN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-2001-3193393
+  date: '2000-12-28'
+- type: amended_by
+  target: pt:dre:1228572:por
+  label: "alterado o quadro de pessoal pela PORT.599/2001(2ªSÉRIE).2001.03.09.MTS, DR.IIS [69] de 22/Mar/2001)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-2001-1228572
+  date: '2001-03-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/1992/08/22/p/dre
   label: null
@@ -81,16 +122,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:258131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:52Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +166,13 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 11 de Dezembro de 1992.**
+Assinada em 11 de Dezembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 18.º do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/017b00/02060207.pdf))](https://files.diariodarepublica.pt/1s/1993/01/017b00/02060207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/017b00/02060207.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira de técnico auxiliar (nível 3)
 

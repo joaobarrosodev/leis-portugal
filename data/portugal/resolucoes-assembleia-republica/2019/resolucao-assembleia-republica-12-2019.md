@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01800/0050600513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/2019/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2019-118484589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49aa7da56ef6dc2e31e0bbabd8dc107f28c91e05a6f0ef7c5aa9b873374d32f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e421a2a1a92c2f03ac34c5b8f815930d02a43417fb2d330f9b6acd691dbbd2f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Convenção
-- Portugal
 - Comunicação por Satélite
+- Convenção
+- Embarcação
 - Inmarsat
-- Satélite
-- Segurança Marítima
 - Malta
 - Navegação Marítima
-relationships: []
+- Portugal
+- Satélite
+- Segurança Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:118484586:por
+  label: Ratificadas as Emendas à Convenção da Organização Internacional de Comunicações Móveis Via Satélite (IMSO) pelo(a)
+    Decreto do Presidente da República n.º 3/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/3-2019-118484586
+  date: '2019-01-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:27Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de dezembro de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 AMENDMENTS TO THE CONVENTION ON THE INTERNATIONAL MOBILE SATELLITE ORGANIZATION ADOPTED AT THE TWENTIETH SESSION OF THE ASSEMBLY
 
@@ -458,7 +464,9 @@ c) O Acordo de Serviço Público pertinente e quaisquer outros instrumentos rela
 
 4 - Todos os Prestadores concluirão os Acordos de Serviço Público, os quais também serão concluídos pelo Diretor-Geral em nome da Organização. Os Acordos de Serviço Público deverão serão aprovados pela Assembleia. O Diretor-Geral circulará os Acordos de Serviço Público a todas as Partes. Tais Acordos consideram-se aprovados pela Assembleia, exceto se mais de um terço das Partes apresentar objeções por escrito ao Diretor-Geral, no prazo de três meses a contar da data de circulação.
 
-###### Artigo 6.º — Facilitação
+Artigo 6.º
+
+Facilitação
 
 1 - As Partes adotarão as medidas adequadas, de acordo com as leis nacionais, para permitir que os Prestadores prestem serviços de GMDSS.
 
@@ -581,3 +589,5 @@ No que respeita ao anexo da Convenção:
 No título, bem como no artigo 1.º, nos n.os 6 e 8 do artigo 5.º, a expressão «artigo 15.º» é substituída por «artigo 17.º».
 
 No artigo 2.º, no n.º 1 do artigo 3.º e no n.º 11 do artigo 5.º, a palavra «Secretariado» é substituída pela palavra «Diretorado».
+
+012019

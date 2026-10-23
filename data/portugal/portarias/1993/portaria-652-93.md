@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/652/1993/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-1993-375874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09b7d31d15e3f22706d67d563d65e4078e39ac6e04477ba0aa05e3a42e3675b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0efde842be1457a7d114cad3092e0eb8cfda12023a9e3447bd1564ca4963227c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
-- Plano de Estudos
 - Electricista
+- Formação Profissional
 - Jovem Trabalhador
+- Plano de Estudos
 - Política de Emprego
 - Regulamento
 relationships:
@@ -81,16 +81,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493180:por
+  label: "Revogados os itinerários de operadores de electricidade auto e tecnico de electricidade e electrónica auto comtemplados\
+    \ no presente diploma, pela PORT.1085/2003.2003.09.29.ME DR.IS-B [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-2003-493180
+  date: '2003-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:20Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +145,9 @@ Técnico de electricidade e electrónica auto.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 4 de Junho de 1993.**
+Assinada em 4 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.**
+O Ministro da Educação, António Fernando Couto dos Santos. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
 Normas regulamentares da formação de jovens em regime de alternância (aprendizagem e pré-aprendizagem) nas saídas profissionais da área da electricidade anexas à Portaria n.º 652/93.
 
@@ -595,4 +613,4 @@ XIII - Disposições finais e transitórias
 
 Do ANEXO I ao ANEXO X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/157b00/37183754.pdf))](https://files.diariodarepublica.pt/1s/1993/07/157b00/37183754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/157b00/37183754.pdf)

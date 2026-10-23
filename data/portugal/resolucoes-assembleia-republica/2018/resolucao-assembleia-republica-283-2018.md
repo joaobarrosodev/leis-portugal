@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17700/0476604775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/283/2018/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/283-2018-116387661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc3609af9ede07dbca7199702878df49fd040b01344c889db3b19e9bc73680e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4be77be0309288a82c75cfebd476f4badb54e516e7934baf4ed3839a0805c344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,33 @@ subjects:
 - América Latina
 - Caraíbas
 - CE Países
-- Fundação
 - Convenção
+- Cooperação Internacional
 - Direito Internacional Público
-- União Europeia
+- Fundação
+- Fundação UE-ALC
 - Hamburgo
 - República Dominicana
-- Cooperação Internacional
 - Santo Domingo
 - Sede
-- Fundação UE-ALC
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:116387660:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 60/2018 - Diário da República n.º 177/2018, Série I de
+    2018-09-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/60-2018-116387660
+  date: '2018-09-13'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:37Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +108,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de julho de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO QUE INSTITUI A FUNDAÇÃO INTERNACIONAL UE-ALC
 
@@ -406,7 +412,7 @@ b) Se os membros da Fundação decidirem pôr-lhe termo.
 
 ###### Artigo 28.º — Depositário
 
-**O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.
 
 ###### Artigo 29.º — Reservas
 
@@ -420,4 +426,6 @@ A partir da data de entrada em vigor do presente Acordo, a fundação transitór
 
 Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Acordo, redigido em exemplar único nas línguas búlgara, croata, checa, dinamarquesa, neerlandesa, inglesa, estónia, finlandesa, francesa, alemã, grega, húngara, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, eslovaca, eslovena, espanhola e sueca, fazendo fé qualquer dos textos, que será depositado nos arquivos do Conselho da União Europeia, que remeterá uma cópia autenticada a todas as Partes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/17700/0476604775.pdf))](https://files.diariodarepublica.pt/1s/2018/09/17700/0476604775.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/17700/0476604775.pdf)
+
+152018

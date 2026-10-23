@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07000/0156101561.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/101/2018/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/101-2018-115017484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa910161fdbb5cd0ec636f952632387ae5949d33e8b0319269dcd5f8843dc5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204fec6bfbcfebe1983400ee21f1e8f47b0c1280c11bc3fb0e3455089834a321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
 subjects:
 - Ajudante de Saúde
 - Assistência Médica
-- Pessoal de Saúde
-- Médico
-- Criação de Lugares
-- Serviço Nacional de Saúde
-- Integração de Trabalhadores
 - Contratação de Pessoal
-- Pessoal de Enfermagem
-- Quadro de Pessoal
-- Recomendação
+- Criação de Lugares
 - Gestão de Recursos Humanos
 - Governo
+- Integração de Trabalhadores
+- Médico
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Recomendação
+- Serviço Nacional de Saúde
 - Terapêutica
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:18Z'
   warnings: []
   errors: []
 ---
@@ -110,3 +110,5 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 Aprovada em 9 de fevereiro de 2018.
 
 O Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.
+
+111249867

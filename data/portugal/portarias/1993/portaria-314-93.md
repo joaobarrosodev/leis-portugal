@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-1993-634574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35cdc937e2903a0d7b88dda09c144303c6447b8eeb7f04fead218f90e81bd255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93845a4b6f538f172c5a0b9b54e1a5c75237e3ebdde7b2af284cb3a42f2c4f34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,21 @@ relationships:
   target: celex:31991L0184
   label: null
   source: http://data.europa.eu/eli/dir/1991/184/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 110/96 DE 10-ABR DR.IS-B [85]\085]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:05Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +135,7 @@ b) São acrescentados os números de ordem seguintes:
 
 2) É acrescentado o número de ordem 56 à primeira parte do anexo III:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
 
 3) Na segunda parte do anexo III:
 
@@ -148,7 +153,7 @@ a) A data de 31 de Dezembro de 1990, que figura na coluna «Admitido até», é 
 
 b) É acrescentado o seguinte corante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
 
 6) No anexo V são suprimidos os seguintes números de ordem:
 
@@ -158,7 +163,7 @@ b) É acrescentado o seguinte corante:
 
 7) À primeira parte do anexo VI são acrescentados os números de ordem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
 
 8) Na segunda parte do anexo VI:
 
@@ -168,11 +173,11 @@ b) Os números de ordem 4, 6 e 17 são suprimidos;
 
 c) É acrescentado o número de ordem seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
 
 9) À primeira parte do anexo VII é acrescentado o número de ordem seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381340.pdf)
 
 2.º - 1 - Os produtos cosméticos e de higiene corporal que contenham as substâncias referidas na alínea b) do n.º 1) do n.º 1.º não podem ser colocados no mercado após a data da entrada em vigor da presente portaria.
 
@@ -184,6 +189,6 @@ c) É acrescentado o número de ordem seguinte:
 
 Ministérios da Indústria e Energia, da Saúde e do Comércio e Turismo.
 
-**Assinada em 22 de Janeiro de 1993.**
+Assinada em 22 de Janeiro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

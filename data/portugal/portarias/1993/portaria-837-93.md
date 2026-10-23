@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/837/1993/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/837-1993-626999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0f2fb457c7eb67c03a91db670872eda4d99f24a279760054f72519337c1830
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1cd6aa4f64042d351051bae4750848b8bc06a6c64acb98fc55d988438262d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Área de Paisagem Protegida da Serra do Açor
-- Vida Selvagem
 - CAÇA
 - Proteção do Ambiente
 - Proteção Fitossanitária
+- Vida Selvagem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:12Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +123,6 @@ Manda o Governo, pela Ministra do Ambiente e Recursos Naturais, o seguinte:
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 25 de Agosto de 1993.**
+Assinada em 25 de Agosto de 1993.
 
 Pela Ministra do Ambiente e Recursos Naturais, António Manuel Taveira da Silva, Secretário de Estado dos Recursos Naturais.

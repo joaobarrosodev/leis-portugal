@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 1º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3838-(45) a 3838-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b01/00450046.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-h2/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-h2-1993-402531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 047938b352f9be87081abf512f786c2d8d105e963b237484a6605e9108f9ad48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b87280a3c50a5fdbc0327b7c481f18cdcb5b0df0755d12ca3d28f9aef6074b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,24 @@ relationships:
   target: pt:dre:552359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146721:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça turística pela PORT.638/2002.2002.06.12.MADRP,\
+    \ DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/638-2002-146721
+  date: '2002-06-12'
+- type: amended_by
+  target: pt:dre:655703:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística pela PORT.1359/2002.2002.10.16.MECO,DR.IS-B\
+    \ [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1359-2002-655703
+  date: '2002-10-16'
+- type: amended_by
+  target: pt:dre:552359:por
+  label: "Excluída a zona de caça turística do Pigeiro e outras, criada pelo presente diploma, renovada pela Port 1359/2002\
+    \ de 16-Out , pela PORT.1411/2006.18.12.2006.MADRP, DR.IS [241] de 18.12.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1411-2006-552359
+  date: '2006-12-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:20Z'
   warnings: []
   errors: []
 ---
@@ -131,8 +173,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 8 de Julho de 1993.**
+Assinada em 8 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b01/00450046.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b01/00450046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b01/00450046.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/039b00/06360638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/180/1993/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-1993-649155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fea7cfa770d61fa826a8df770f443473b399d14d6b9db672a9da31b24d7b096
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f4d625ab04b28e6c808e76df6470f77e90d6cacc94d859b920dcd9d7219843c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Criação de Serviços
 - Definição de Competências
-- Observatório do Emprego e Formação Profissional
 - Emprego
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Observatório do Emprego e Formação Profissional
 - Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:175338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinado o funcionamento do Observatório do Emprego e Formação Profissional na dependência do Ministro da Segurança\
+    \ Social e do Trabalho, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004, até à sua integração no Conselho\
+    \ Permanente de Concertação Social\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Actividades Económicas e do Trabalho do Observatório do Emprego e\
+    \ Formação Profissional (integrado no agora extinto Ministério da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Observatório (integrado no extinto\
+    \ Ministério das Actividades Económicas e do Trabalho), criado no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Transferido o Observatório do Emprego e Formação Profissional para o Conselho Económico e Social, em termos a definir\
+    \ em diploma próprio, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, conforme ao previsto no respectivo\
+    \ art. 39º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique na dependência do Ministério da Economia e do Emprego, até à aprovação do diploma da sua transferência\
+    \ para o Conselho Económico e Social (prevista no art. 39º do Dec Lei 211/2006 de 27-Out), o Observatório do Emprego e\
+    \ Formação Profissional, criado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinto, sendo objecto de fusão, o Observatório do Emprego e Formação Profissional e integradas as suas competências\
+    \ no Centro de Relações Laborais, pelo DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
   label: null
@@ -85,16 +127,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175338:por
+  label: "Revogada, a partir de 01.09.2012, e determinado que o Centro de Relações Laborais suceda nas atribuições do Observatório\
+    \ do Emprego e Formação Profissional, pelo DEC LEI.189/2012.22.08.2012.MEE, DR.IS [162] de 22.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2012-175338
+  date: '2012-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:52Z'
   warnings: []
   errors: []
 ---
@@ -247,6 +311,6 @@ O regulamento interno do Observatório será aprovado por despacho do Ministro d
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 31 de Dezembro de 1992.**
+Assinada em 31 de Dezembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

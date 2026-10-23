@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/858/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/858-1993-660314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d84bd9bcffe69c2fc04ec9b9091006891e4548daada4fdc578e896d547da5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3d5f413d6967f483ec30edbfa698d141b9c5c1bc951fc7551f79a5e23854f84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:46Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +114,10 @@ Manda o Governo, pelos Ministros das Finanças e do Mar, ao abrigo do disposto n
 
 Ministérios das Finanças e do Mar.
 
-**Assinada em 24 de Agosto de 1993.**
+Assinada em 24 de Agosto de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 Mapa anexo à Portaria n.º 858/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49234924.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49234924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49234924.pdf)

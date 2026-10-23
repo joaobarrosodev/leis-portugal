@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15000/0263202674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/183/2016/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/183-2016-75105953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9030dbe410347b1316a7306faab2739f47b75f212f96b06ab983f1c62d78281e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2afa5d596f579a49d291d0d41e9aefa75c35c8074e5fa485f3e96d7e613dcfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- EUA
 - Conta Bancária
-- Portugal
-- Lisboa
 - Contribuições e Impostos
+- EUA
 - Evasão Fiscal
+- Lisboa
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:75105951:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 53/2016 - Diário da República n.º 150/2016, Série
+    I de 2016-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/53-2016-75105951
+  date: '2016-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2006/01/20/p/dre
   label: null
@@ -85,13 +91,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:04Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +110,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de junho de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA PARA REFORÇAR O CUMPRIMENTO FISCAL E IMPLEMENTAR O FATCA
 

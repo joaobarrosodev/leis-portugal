@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/546/1993/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/546-1993-283152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63997fde395297a0ec7cf37348859629f1e1692f83946a2fab8d3a311d6577f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dee0006d759862d9917c9d0509a2ac78d54bb3a01fd7f58909ad6c7bdd60c656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/147/1992/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147/1992/03/10/p/dre
+- type: cites
+  target: pt:dre:168051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:255655:por
+  label: "Revogado o n.º 1 e o mapa I pela PORT.218/94.13.04.1994.MF, DR.IS-B [86] de 13.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1994-255655
+  date: '1994-04-13'
+- type: repealed_by
+  target: pt:dre:173286:por
+  label: "Revogado o n.º 2.º e o mapa II pela PORT.236/95.28.03.1995.MF, DR.IS-B [74] de 28.03.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-1995-173286
+  date: '1995-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:34Z'
   warnings: []
   errors: []
 ---
@@ -108,14 +146,14 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, ao abrigo do dispo
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 10 de Maio de 1993.**
+Assinada em 10 de Maio de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf))](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf))](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/122b00/28962897.pdf)

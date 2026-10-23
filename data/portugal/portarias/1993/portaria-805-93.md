@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/805/1993/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/805-1993-626641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01db1949553819d83288baa3134862b6422e98734ebfff5b0b5153041e71ad84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9b02b3559eabe43fc72685306e6155f8a98101d859eb1702d754f817b998c75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:668134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE PELA PORT 1277/95 DE 27-OUT DR.IS-B [249]\0B [249]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -85,16 +90,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:285904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:27Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +178,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 27 de Julho de 1993.**
+Assinada em 27 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital de Pulido Valente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/210b00/47084708.pdf))](https://files.diariodarepublica.pt/1s/1993/09/210b00/47084708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/210b00/47084708.pdf)

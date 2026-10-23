@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1204/1993/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1204-1993-688975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9955e9eb96612226d0065d7737e226c96ff4222c6a841c743f25212b81cdcd9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91bb5324f4c041275f002e94e5abe61fb196d50a7da669e38128392f0a629e86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Código da Propriedade Industrial
 - Convenção
+- Cooperação Industrial
 - Patente
 - Propriedade Industrial
-- Cooperação Industrial
 - Taxa
 - Tratado de Cooperação em Matéria de Patentes
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/599/1991/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/599/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:548175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668281:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:41Z'
   warnings: []
   errors: []
 ---
@@ -432,6 +440,6 @@ Por cada apresentação ... 600$00
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 20 de Outubro de 1993.**
+Assinada em 20 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria.

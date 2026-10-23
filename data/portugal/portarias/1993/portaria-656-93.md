@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/656/1993/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/656-1993-388868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f11c14db9577eff701cb28434005aeb1c9378a73c40d28efbaea07eb23ffe44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7db5979f02fe84d9663c5ec2f3d1c92e1288238ac30929de4f5a7d62ab0a5470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equipamento de Veículo
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:517628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:512393:por
+  label: "Alterados os quadros anexos I e II da Portaria 1009/89, de 21 de novembro, na redacção do presente diploma, pela\
+    \ PORT.53/94.21.01.1994.MAI, DR.IS-B [17] de 21.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1994-512393
+  date: '1994-01-21'
+- type: amended_by
+  target: pt:dre:496125:por
+  label: "Alterados os quadros anexos I e II da Portaria 1009/89, de 21 de novembro, na redacção do presente diploma, pela\
+    \ PORT.58/94.25.01.1994.MAI, DR.IS-B [20] de 25.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1994-496125
+  date: '1994-01-25'
 - type: cites
   target: celex:31992L0114
   label: null
@@ -83,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:27Z'
   warnings: []
   errors: []
 ---
@@ -116,16 +128,16 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 ## ANEXO I — Veículos automóveis e seus componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf))](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf)
 
 ## ANEXO II — Directiva contendo disposições sobre características técnicas dos veículos automóveis e seus componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf))](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/161b00/38013806.pdf)
 
 2.º Para efeitos do disposto na Directiva n.º [92/114/CEE](http://data.europa.eu/eli/dir/1992/114/oj?locale=pt), entende-se por categoria N os veículos a motor destinados ao transporte de mercadorias com pelo menos quatro rodas ou três rodas e peso bruto superior a 1 t.
 
 Ministério da Administração Interna.
 
-**Assinada em 26 de Maio de 1993.**
+Assinada em 26 de Maio de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

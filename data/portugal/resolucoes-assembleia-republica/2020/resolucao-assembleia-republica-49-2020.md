@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/49/2020/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-2020-138852741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b146f566c0e5178959a4c8240bf08ad8947add8dede5e9dfbc13fb53d3e4f48c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcdfc75dbd9a1746835400e9cc0ef3f680a0545464b6af997d5fbd8e01aaf6e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Presidente da República
 - Assembleia da República
 - Doença Infecciosa
-- Recomendação
+- Estado de Emergência
 - Governo XXII
+- Presidente da República
+- Recomendação
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:00Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +204,7 @@ i) Para os efeitos previstos na parte final do n.º 2 do artigo 28.º da [Lei n.
 
 Aprovada em 5 de junho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ## ANEXO — (a que se refere o n.º 6)
 
@@ -358,7 +358,7 @@ Efetivamente, a evidência apontava para transmissão comunitária ativa em vár
 
 Em Portugal, os dois primeiros casos confirmados de Covid-19 foram notificados a 2 de março, estando associados a viagens recentes a estes países: um ao Norte de Itália e o outro ao Sul de Espanha. No dia seguinte, 3 de março, foram confirmados 2 novos casos de Covid-19, com ligação epidemiológica a um dos casos confirmados no dia anterior. O número de novos casos confirmados de doença foi aumentando nos dias seguintes, até atingir os 642 casos no dia 17 de março (Fig. 1). A curva epidémica apresentava, a 17 de março, um elevado número de novos casos com data de início de sintomas entre 13 e 16 de março (Fig. 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 De 1 de janeiro a 17 de março, foram notificados 5067 casos suspeitos de infeção por SARS-CoV-2, dos quais 642 foram confirmados laboratorialmente, enquanto 351 casos aguardavam resultado laboratorial. Um total de 6656 pessoas (que tinham contactado com casos confirmados) encontravam-se em vigilância ativa pelas autoridades de saúde. Assim, os resultados laboratoriais permitiram excluir infeção por SARS-CoV-2 em 4074 do total de casos suspeitos notificados.
 
@@ -370,7 +370,7 @@ Até 17 de março, 330 casos (51,4 %) eram homens e 312 casos (48,6 %) eram mulh
 
 Do total de 642 casos, havia 3 casos (0,5 %) recuperados e um óbito (taxa de letalidade de 0,2 %) - um homem de 80 anos com patologia oncológica prévia. Estavam internados 89 casos (13,9 %), dos quais 20 estavam em Unidades de Cuidados Intensivos. Isso significa que 549 casos (85,5 %) correspondiam a doença ligeira e recuperavam em casa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Relativamente à região de residência dos casos (Fig. 4):
 
@@ -390,7 +390,7 @@ Relativamente à região de residência dos casos (Fig. 4):
 
 . 9 casos (1,4 %) eram cidadãos estrangeiros não residentes em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 3. Caracterização da situação económica
 
@@ -806,7 +806,7 @@ ANEXOS
 
 a) Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Relatório do estado de emergência de 18 de março a 2 de abril
 
@@ -924,7 +924,7 @@ Em 2 de abril de 2020, a disponibilidade dos militares da GNR era de 98,66 % do 
 
 O Centro Clínico da Guarda articulou-se para funcionar a 24 horas/dia, tendo sido constituídas três equipas de atendimento permanente. Quanto à situação epidemiológica, com referência à data de 2 de abril, 25 militares encontravam-se infetados com Covid-19, com 1 militar em internamento e 24 em isolamento profilático. Na mesma data, o número total de suspeitos de Covid-19 era de 69, aguardando-se os resultados de 88 militares e 166 militares encontravam-se em vigilância, conforme a tabela n.º 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 A par da monitorização da Covid-19 na GNR, importa ainda realçar que o Centro Clínico prestou apoio psicológico a 413 militares e civis da GNR.
 
@@ -950,31 +950,31 @@ Lisboa, Carmo, 6 de abril de 2020. - O Comandante-Geral, Luís Francisco Botelho
 
 Ao todo, realizaram-se 13 669 patrulhas auto, 482 patrulhas apeadas, 28 patrulhas com trinómios, 105 patrulhas a cavalo, 23 patrulhas em meio fluvial e 55 patrulhas em meio marítimo, como ilustra a tabela n.º 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 3 - De realçar que no cumprimento do patrulhamento de proximidade foram empenhadas 12 537 viaturas que percorreram 1 037 593 km e 124 embarcações que percorreram 2704 milhas náuticas, de acordo com os dados da tabela n.º 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 4 - Nas ações de vigilância e controlo foram fiscalizados 45 233 cidadãos, 29 020 viaturas, 127 comboios e 77 embarcações, como ilustra a tabela n.º 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 5 - Deve, assim, referir-se que a generalidade da população acatou as restrições legais e as orientações da GNR e procuravam compreender as medidas, podendo considerar-se que o grau de acatamento foi bastante satisfatório, tendo-se verificados os dados constantes da tabela n.º 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 6 - Decorrente de situações de incumprimento, no total, por crime de desobediência, foram detidos: 14 cidadãos por violação do dever de confinamento obrigatório; 22 cidadãos por violação do dever de recolhimento obrigatório; 12 por incumprimento de encerramento dos estabelecimentos e ou instalações e 5 por incumprimento à suspensão das atividades no âmbito da prestação de serviços, conforme a tabela n.º 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 7 - No período de 22 de março a 2 de abril, foi prestado o seguinte apoio na descontaminação de viaturas do INEM, bombeiros e CVP, por parte da GNR:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 b) Polícia de Segurança Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Relatório Operação #FIQUEEMCASA
 
@@ -1006,59 +1006,59 @@ Na comunidade em geral e na PSP em particular, importa considerar, por um lado, 
 
 Até ao dia 1 de abril havia registo de 45 casos confirmados de contaminação por Covid-19 em polícias e 7 casos confirmados em pessoal com funções não policiais, havendo uma taxa de absentismo por Covid-19 (quarentena/contaminação), nessa data, de cerca de 2,07 % do efetivo total da PSP.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 3 - Ponto de situação operacional
 
 Atividade operacional do período da Operação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Ponto da situação Covid-19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Linha dedicada à Covid-19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Dados de trânsito da Operação #FIQUEEMCASA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 4 - Cercos sanitários em curso naquela data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 5 - Criminalidade denunciada
 
 Comparação da evolução da criminalidade denunciada cotejando-a com o período homólogo, desde que foi declarada a situação de alerta (130000MAR2020), através do Despacho n.º 3298-B/2020, nos termos da Lei de Bases da Proteção Civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Comparação da evolução da criminalidade denunciada durante o período temporal da Operação #FIQUEEMCASA, relativizando-a com o período homólogo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 No que concerne às detenções durante o período temporal da Operação #FIQUEEMCASA, relativizando-as com o período homólogo, devendo atender-se que o sistema apenas permite aceder até às 48 horas anteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Desde que foi declarada a situação de alerta (130000MAR2020) até 04ABR2020, apresenta-se graficamente a evolução dos cinco crimes com maiores variações face ao período homólogo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Note-se que os presentes dados são provisórios, correspondendo a lapsos temporais muito curtos e próximos da data atual, pelo que, no que se refere aos dados de 2020, ainda poderão sofrer alterações. Nestes termos, não devem ser considerados enquanto valores absolutos, mas somente tendências.
 
 Considerando que há um interesse redobrado no acompanhamento de alguns crimes em concreto, designadamente da violência doméstica e da tipologia criminal que tem registado maiores incrementos, antagonicamente à criminalidade geral, concretamente, o crime de burla, apresentam-se dois quadros onde é possível verificar a evolução destes crimes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Constata-se, por conseguinte, uma descida significativa do número de participações por VD quando comparado com período homólogo do ano transato (- 39%). Esta diminuição poderá significar um aumento das cifras negras.
 
 A PSP está em articulação ativa com a Secretaria de Estado para a Cidadania e Igualdade no sentido de melhor adaptar a resposta policial em casos de diminuição da autonomia das vítimas para efetuarem as respetivas denúncias, sugerindo-se o recurso ao número 112, ao email violenciadomestica@psp.pt, ao email ou telefone da esquadra da residência ou o contacto com um familiar ou amigo solicitando-lhe que efetue a denúncia por si, por forma a evitar rastreamentos por parte da pessoa agressora.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 6 - Notas finais
 
@@ -1140,7 +1140,7 @@ Tipo de ocorrência: Operação de transbordo do terminal de cruzeiros para o ae
 
 c) Serviço de Estrangeiros e Fronteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 MINISTÉRIO DA ADMINISTRAÇÃO INTERNA
 
@@ -1240,7 +1240,7 @@ O SEF respondeu por correio eletrónico a 6929 comunicações. Foram efetuados 1
 
 No caso da atividade do Gabinete de Asilo e Refugiados, verificou-se um decréscimo acentuado no número dos pedidos de proteção internacional, em contraste com os valores registados na semana anterior, em que a maioria dos requentes eram provenientes de Itália, Espanha, França e Alemanha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Ainda de destacar que Portugal respeita o principio de non-refoulement, bem como todos as normas preconizadas na Convenção de Genebra Relativa ao Estatuto dos Refugiados de 1951, continuando assim a registar todos os pedidos de proteção internacional (em TN ou na fronteira).
 
@@ -1302,7 +1302,7 @@ c) Interdição do tráfego aéreo com destino e a partir de Portugal, com deter
 
 O teletrabalho foi privilegiado quer para a carreira de investigação e fiscalização (928 colaboradores no total) quer para a carreira geral (585 colaboradores no total). Acrescem 30 dirigentes intermédios (dos quais 25 CIF e 5 da carreira geral) que laboram em «espelho», revezando-se e alternando entre funções presenciais e remotas. Como se verificará, no quadro infra, o número de colaboradores, neste regime, tem vindo a aumentar gradualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Também o uso de plataformas digitais, como as videoconferências (Skype empresas, Webex cisco, entre outras), tem permitido dar continuidade às funções a desempenhar, ressaltando-se ainda a possibilidade de recuperação de pendências de determinados processos.
 
@@ -1330,19 +1330,19 @@ Fronteira aérea
 
 Entre 19 de março e 2 de abril, registaram-se movimentos apenas nos postos de fronteira aérea assinalados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Os dados referentes ao cruzeiro MSC Fantasia não se encontram contabilizados por não ter existido entrada formal em território nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
-## ANEXO N.º 2| Organograma
+ANEXO N.º 2| Organograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 d) Autoridade Nacional de Emergência e Proteção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 Relatório da Autoridade Nacional de Emergência e Proteção Civil, que visa contribuir para o relatório setorial, na sequência do decurso do estado de emergência, declarado pelo Presidente da República, a coberto do Decreto n.º 14-A/2020, de 18 de março, vigente entre o dia 19 de março e o dia 2 de abril de 2020.
 
@@ -1476,7 +1476,7 @@ Carnaxide, 8 de abril de 2020. - O Presidente, Carlos Mourato Nunes, Tenente-Gen
 
 ## ANEXO N.º 1 — Mapa de informação dos planos de emergência e proteção civil ativados na vigência do estado de emergência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14400/0000300107.pdf)
 
 ## ANEXO II — Atas simplificadas da Estrutura de Monitorização do Estado de Emergência
 
@@ -3637,3 +3637,5 @@ II - Após a declaração do estado de emergência
 55. [Declaração de Retificação n.º 11-D/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130531801/details/normal?l=1), de 20 de março - Retifica o [Decreto n.º 2-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130473161/details/normal?l=1), de 20 de março, da Presidência do Conselho de Ministros, que regulamenta a aplicação do estado de emergência decretado pelo Presidente da República, publicado no Diário da República, 1.ª série, n.º 57 (suplemento), de 20 de março de 2020;
 
 56. [Declaração de Retificação n.º 11-E/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130603072/details/normal?l=1), 25 de março - Retifica a [Portaria n.º 80-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130603048/details/normal?l=1), de 25 de março, das Infraestruturas e Habitação, que regula o regime de prestação de serviços essenciais de inspeção de veículos, publicada no Diário da República, 1.ª série, n.º 60 (suplemento), de 25 de março de 2020.
+
+113334385

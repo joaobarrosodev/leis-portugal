@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/212/2016/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/212-2016-75639797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da38a375fdb70297b85989bc79b2990b9ea2b3c9ca1e6283215e56ddf95cac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af664afbb2548dee094b860b5c93a3a467266516cb78c6ab8f48009b0f8c5fef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atenas
-- Financiamento
 - CE Países
 - Conselho Científico
 - Conselho de Administração
 - Convenção
-- Portugal
 - Definição de Competências
 - Direito Internacional Público
 - Direito Público
-- União Europeia
 - Estatuto
+- Financiamento
 - Organização Europeia de Direito Público
-relationships: []
+- Portugal
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:75639796:por
+  label: Ratificado o Acordo para a Criação e Estatuto da Organização Europeia de Direito Público pelo(a) Decreto do Presidente
+    da República n.º 94/2016 - Diário da República n.º 210/2016, Série I de 2016-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/94-2016-75639796
+  date: '2016-11-02'
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:49Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +108,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de setembro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 AGREEMENT FOR THE ESTABLISHMENT AND STATUTE OF THE EUROPEAN PUBLIC LAW ORGANIZATION
 
@@ -362,21 +368,21 @@ Done in Athens, this 27th day of October 2004.
 
 For the Government of the Republic of Cyprus:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
 
 For the Government of Estonia:
 
 For the Government of the Hellenic Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
 
 For the Government of the Republic of Italy:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
 
 For the Government of the Republic of Moldova:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21000/0387003877.pdf)
 
 For the Government of Serbia and Montenegro:
 
@@ -394,7 +400,7 @@ Notando a vontade da República Helénica de aceitar que, após a aquisição do
 
 acordam no seguinte:
 
-# PARTE I — Criação e Estatuto
+## PARTE I — Criação e Estatuto
 
 ###### Artigo 1.º — A Organização
 
@@ -450,7 +456,7 @@ Para prosseguir os seus objetivos e as suas atividades, a Organização deverá 
 
 2 - A Organização pode aceitar pessoal em regime de cedência ou de destacamento proveniente das Partes participantes no presente Acordo e de outros países.
 
-# PARTE II — Organização
+## PARTE II — Organização
 
 ###### Artigo 7.º — Os órgãos
 
@@ -518,7 +524,7 @@ A composição detalhada do Conselho de Administração, os direitos de voto de 
 
 4 - O Conselho de Administração aprovará um Plano de Compensação e Benefícios para o pessoal da OEDP, bem como um sistema integrado de tratamento de reclamações.
 
-# PARTE III — Recursos financeiros
+## PARTE III — Recursos financeiros
 
 ###### Artigo 14.º — Financiamento
 
@@ -530,7 +536,7 @@ A composição detalhada do Conselho de Administração, os direitos de voto de 
 
 As operações da Organização serão sujeitas a uma auditoria financeira completa realizada anualmente por auditores independentes. Os resultados de tais auditorias deverão ser facultados ao Conselho de Administração e à Assembleia.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 16.º — Assinatura, ratificação, aceitação, aprovação e adesão
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/680/1993/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1993-392231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7ea0ab0e80eb2d318dcf4b6bc8900c4535ccfafe984fad290c34e6bf52be80c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a02f7d95c67f32364b8c06dbd9255b378364fe1f00ef2370f5ec6f32ad14ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Bacharelato
 - Diploma
 - Doutoramento
-- Universidade do Algarve
+- Ensino Superior
 - Impresso
 - Licenciatura
 - Mestrado
-- Ensino Superior
+- Universidade do Algarve
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/1992/10/13/p/dre
@@ -88,16 +88,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/212/1993/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/212/1993/02/19/p/dre
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:11Z'
   warnings: []
   errors: []
 ---
@@ -166,9 +218,9 @@ São revogadas as Portarias n.os [443/88](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 22 de Junho de 1993.**
+Assinada em 22 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Universidade do Algarve
 

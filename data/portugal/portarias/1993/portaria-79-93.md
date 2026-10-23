@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/79/1993/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-1993-585234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a690e3a727779e6f35b783a5c864968bd31d8cbe442a65900ce1332e96eca26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af86cc87e2eedfec3f015d6badf5c5aa87f336b120cda12e812c0a6e354af45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Regional de Segurança Social
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Faro
+- Pessoal Dirigente
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Quadro de Pessoal
@@ -91,16 +91,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/345-a/1992/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/345-a/1992/04/14/p/dre
+- type: cites
+  target: pt:dre:156848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618476:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:07Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +185,9 @@ h) Os serviços locais.
 
 2.º O artigo 16.º do Regulamento do Centro Regional de Segurança Social de Faro passa a ter a seguinte redacção:
 
-###### Artigo 16.º — Divisão de Gestão de Pessoal e Apoio Técnico
+###### Artigo 16.º
+
+##### Divisão de Gestão de Pessoal e Apoio Técnico
 
 Compete à Divisão de Gestão de Pessoal e Apoio Técnico:
 
@@ -181,7 +223,9 @@ p) Proceder à vistoria de edifícios, tendo em vista informar sobre as condiç�
 
 3.º É aditado o artigo 16.º-A ao Regulamento do Centro Regional de Segurança Social de Faro:
 
-###### Artigo 16.º-A — Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
+###### Artigo 16.º-A
+
+##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
 
 Compete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:
 
@@ -227,10 +271,10 @@ l) Recolher e tratar os necessários dados estatísticos.
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 10 de Dezembro de 1992.**
+Assinada em 10 de Dezembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa anexo à Portaria n.º 79/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/017b00/02070209.pdf))](https://files.diariodarepublica.pt/1s/1993/01/017b00/02070209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/017b00/02070209.pdf)

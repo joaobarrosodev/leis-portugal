@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1993, 1º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 862-(2) a 862-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1993-485590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 292e4e5b57d6769095ad01e4586c931339a7f7952cfb0e6517244018597b78a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bef20c3a526e9d77c4333e506f45840f31caab00ad07a5c6a97c9bedf8eb4a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/1992/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/65/1992/02/01/p/dre
+- type: cites
+  target: pt:dre:149824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:13Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +112,6 @@ Manda o Governo, pelos Ministros Adjunto, das Finanças, da Indústria e Energia
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 15 de Fevereiro de 1993.**
+Assinada em 15 de Fevereiro de 1993.
 
 Pelo Ministro Adjunto, Amândio Santa Cruz Domingues Basto Oliveira, Subsecretário de Estado Adjunto do Ministro Adjunto. - Pelo Ministro das Finanças, José Manuel Alves Elias da Costa, Secretário de Estado das Finanças. - Pelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Secretário de Estado da Energia. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.

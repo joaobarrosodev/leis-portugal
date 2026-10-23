@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1174/1993/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1174-1993-686220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ee9ef63c15a2006e6258e4c611a579b1f293fc7761175a2d6b87b3b767b37f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad71f3c269294c124b5182a4735740090bd427d106f79eaab6f029011a4b077
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Instalações e Equipamentos de Saúde
-- Quadro de Pessoal
 - Ministério da Saúde
+- Quadro de Pessoal
 - Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:3272034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3272034:por
+  label: "Alterado o quadro de pessoal, pela PORT.988/2001(2ºSÉRIE).2001.04.30.MS,DR.IIS[123] de 28/05/2001\001\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-2001-3272034
+  date: '2001-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/361/1993/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/361/1993/10/15/p/dre
+- type: cites
+  target: pt:dre:668520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:56Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +115,7 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 18 de Outubro de 1993.**
+Assinada em 18 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
@@ -114,28 +123,28 @@ Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de E
 
 Serviços Centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
 
 ## ANEXO II — Quadro de pessoal da Direcção-Geral das Instalações e Equipamentos da Saúde
 
 Direcção Regional do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
 
 ## ANEXO III — Quadro de pessoal da Direcção-Geral das Instalações e Equipamentos da Saúde
 
 Direcção Regional do Centro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
 
 ## ANEXO IV — Quadro de pessoal da Direcção-Geral das Instalações e Equipamentos da Saúde
 
 Direcção Regional do Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
 
 ## ANEXO V — Quadro de pessoal da Direcção-Geral das Instalações e Equipamentos da Saúde
 
 Direcção Regional de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62906297.pdf)

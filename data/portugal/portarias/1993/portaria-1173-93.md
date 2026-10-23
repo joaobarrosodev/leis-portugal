@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1173/1993/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1173-1993-686219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69573d04cbee601d610a0535c0a18bfd78fa253f672ac25d7039edfe5bc41f8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfcde2e42cb84a7eb4107a7dd8d0d5db661e5dd8cb1533154f353c5b3e1d9c02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,61 @@ relationships:
   target: pt:dre:222064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 342/94 DE 19-ABR DR.IS-B [113] DE 16/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 350/94 DE 19-ABR DR.IS-B [115] DE 18/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 611/94 DE 22-JUL DR.IS-B [189] DE 17/AGO/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO PORTUGUÊS DA JUVENTUDE PELO DN 637/94 DE 10-AGO DR.IS-B [210] DE 10/SET/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-10'
+- type: amended_by
+  target: pt:dre:177780:por
+  label: "Alterado o quadro de pessoal pela PORT.634/96.1996.11.07.PCM, DR.IS-B [258]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/634-1996-177780
+  date: '1996-11-07'
+- type: amended_by
+  target: pt:dre:1301964:por
+  label: "Alterado o quadro de pessoal constante do anexo I pelo DC.553/98.1998.07.22.MA-PCM, DR.IIS [187] de 14/Ago/1998\
+    \ \08 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/553-1998-1301964
+  date: '1998-07-22'
+- type: amended_by
+  target: pt:dre:222064:por
+  label: "Alterado o quadro de pessoal do Instituto Português da Juventude pela PORT.1008/98.1998.12.04.PCM DR.IS-B [280]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1008-1998-222064
+  date: '1998-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:651703:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:56Z'
   warnings: []
   errors: []
 ---
@@ -108,14 +149,14 @@ Manda o Governo, pelo Ministro das Finanças e pelo Ministro Adjunto, o seguinte
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 2 de Novembro de 1993.**
+Assinada em 2 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro Adjunto, Maria do Céu Baptista Ramos, Secretária de Estado da Juventude.
 
 ## ANEXO I — Quadro de pessoal dos serviços centrais do Instituto Português da Juventude
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf)
 
 ## ANEXO II — Quadros de pessoal dos serviços regionais do Instituto Português da Juventude
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf))](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/263b00/62846290.pdf)

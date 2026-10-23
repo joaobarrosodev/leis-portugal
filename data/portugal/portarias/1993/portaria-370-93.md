@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/370/1993/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1993-679817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5bd971ddfc373d501113f105ab5ca2266a63c85aa7b6fa3f6c597615cc53f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d920699419490893eed9d8d7eec887a205ba9592894569848178826ebcfe1c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,30 @@ relationships:
   target: pt:dre:444946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444946:por
+  label: "Alterado o quadro do pessoal docente da Escola Secundária de António Arroio, constante do mapa I anexo ao presente\
+    \ diploma, pela PORT.592/98.1998.08.24.PCM, DR.IS-B [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-1998-444946
+  date: '1998-08-24'
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:23Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +130,8 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 8 de Março de 1993.**
+Assinada em 8 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/077b00/16211622.pdf))](https://files.diariodarepublica.pt/1s/1993/04/077b00/16211622.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/077b00/16211622.pdf)

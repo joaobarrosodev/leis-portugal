@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/804/1993/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/804-1993-626640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 492e59f6e1296bada6a8b081f837ed4138bbdec75a65a36eeeb9fea5408c1137
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972e4217cbe4c0c2f8b09a765e3c0885de9ec3742ad7cfd1059a4d76d2109d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Descrição de Funções
 - Direcção Geral de Energia
 - Ministério da Indústria e Energia
-- Descrição de Funções
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,71 @@ relationships:
   target: pt:dre:1040969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 205/93 DE 11-OUT DR.IS-B [255]3SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, NO QUE SE REFERE AO GRUPO DE PESSOAL DE INFORMÁTICA CONSTANTE DO MAPA I ANEXO, PELA
+    PORT 695/94, DE 26-JUL DR.IS-B [171]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DE ENERGIA PELA PORT 535/95 DE 03-JUN DR.IS-B [129]\0DE 03-JUN DR.IS-B\
+    \ [129]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-03'
+- type: amended_by
+  target: pt:dre:2289572:por
+  label: "Alterado o quadro de pessoal pela PORT.474/97(2ªSÉRIE).1997.07.14.PCM, MF e MECO DR.IIS [173] de 29/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1997-2289572
+  date: '1997-07-14'
+- type: amended_by
+  target: pt:dre:3551421:por
+  label: "Alterado o quadro de pessoal pela PORT.829-A/2000(2ªSÉRIE).2000.03.24.MECO, DR.IIS [122] de 26/Mai/2000\000\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/829-a-2000-3551421
+  date: '2000-03-24'
+- type: amended_by
+  target: pt:dre:1495795:por
+  label: "Alterado o quadro de pessoal pela PORT.1003/2000(2ªSÉRIE).2000.06.05.MECO DR.IIS [164] DE 18/JUL/2000 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1003-2000-1495795
+  date: '2000-06-05'
+- type: amended_by
+  target: pt:dre:2002503:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo, pela PORT.1528/2000(2ªSÉRIE).2000.09.18.MECO, DR.IIS [230]\
+    \ de 04/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1528-2000-2002503
+  date: '2000-09-18'
+- type: amended_by
+  target: pt:dre:1040969:por
+  label: "Alterado o quadro de pessoal pela PORT.304/2002(2ªSÉRIE).2002.01.14.MECO, DR.IIS [39] de 15/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-2002-1040969
+  date: '2002-01-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/1993/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/1993/03/19/p/dre
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634491:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:27Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +162,13 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o segu
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 21 de Julho de 1993.**
+Assinada em 21 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/210b00/47064708.pdf))](https://files.diariodarepublica.pt/1s/1993/09/210b00/47064708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/210b00/47064708.pdf)
 
 MAPA II
 

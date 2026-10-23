@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/115b00/27062708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/531/1993/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/531-1993-281814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3baf0cb5d98f4b28df58007a486ef5d501abdfc58ae800f2d05d1996b6a58c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfa9e6576486c85a2edea2fd278661fec92c17db862d3a7a18f870d26084fcfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,51 @@ reuse:
 subjects:
 - Castelo de VIDE
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano Geral de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1958210:por
+  label: "Tornado público ter sido aprovada, por deliberação da Assembleia Municipal de Castelo de Vide, em 24.09.2012, a\
+    \ alteração ao nº 2.2 do Regulamento do Plano de Pormenor do Bairro da Boavista, ratificado pelo presente diploma, pelo\
+    \ AV.15539/2012.20.11.2012.MCASTELO VIDE, DR.IIS [224] de 20.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/15539-2012-1958210
+  date: '2012-11-20'
+- type: amended_by
+  target: pt:dre:70094135:por
+  label: Tornada pública a revogação a partir de 26.08.2015, do Plano de Pormenor do Bairro da Boavista, ratificado e publicado
+    pelo presente diploma, pelo(a) Aviso n.º 9513/2015 - Diário da República n.º 165/2015, Série II de 2015-08-25, nos termos
+    do disposto no art. 89.º do Regulamento do PDMCV por ele publicado.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9513-2015-70094135
+  date: '2015-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:11Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +140,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 2 de Abril de 1993.**
+Assinada em 2 de Abril de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
@@ -186,4 +212,4 @@ j) O logradouro do lote n.º 32 poderá ser murado, não devendo a altura desse 
 
 k) O antigo edifício de moinho, integrado no lote n.º 32, será construtivamente reabilitado sem que se percam as suas características formais e funcionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/115b00/27062708.pdf))](https://files.diariodarepublica.pt/1s/1993/05/115b00/27062708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/115b00/27062708.pdf)

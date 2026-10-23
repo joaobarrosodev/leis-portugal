@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/265b00/63406341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1186/1993/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1186-1993-690179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb3816151cd64915880af78424dc8eb2d8e5afe4605b478059d7ddeba10dddbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ef8a79bb3706453b367a67b4590a4dd9077086427eefa3032052eb20c1ab7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
-- Beja
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:407291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624850:por
+  label: "Transferido, para a Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Beja, o curso de bacharelato\
+    \ em Informática, ministrado na Escola Superior de Educação do mesmo Instituto, criado pela Port 381/90 de 19-Mai, alterado\
+    \ pelo presente diploma, pela PORT.9/96.08.01.1996.ME, DR.IS-B [6] de 08.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1996-624850
+  date: '1996-01-08'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571430:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407291:por
+  label: "Revogada pela PORT.322/96.01.08.1996.ME, DR.IS-B [177] de 01.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1996-407291
+  date: '1996-08-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:16Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +139,8 @@ A alteração aprovada pela presente portaria entrará em funcionamento nos term
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
 Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63406341.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63406341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63406341.pdf)

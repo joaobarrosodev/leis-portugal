@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/633/1993/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-1993-374176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4298061445291a8adb1bde1e57a95ed608f2da30cf5997af1cdc2097a4cfd09d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6169b0060138c2c88f7283643ada703bb67707d23fa8272b16609d3604283e9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,29 @@ relationships:
   target: pt:dre:437457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437457:por
+  label: "Revogados os nºs 4º, 5º, 6º e 7º pela PORT.537/98.1998.08.17.ME, DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-1998-437457
+  date: '1998-08-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:55Z'
   warnings: []
   errors: []
 ---
@@ -151,9 +164,9 @@ As cartas de curso e diploma a que se referem os n.os 4.º a 6.º terão num lad
 
 Ministério da Educação.
 
-**Assinada em 31 de Maio de 1993.**
+Assinada em 31 de Maio de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Instituto Politécnico de Santarém
 
@@ -169,15 +182,15 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Santarém, ... (ver nota l).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ... (ver nota m)
 
-**O Presidente da Comissão Instaladora da ... (ver nota f),**
+O Presidente da Comissão Instaladora da ... (ver nota f),
 
 ... (ver nota n)
 
-**O Secretário da ... (ver nota f),**
+O Secretário da ... (ver nota f),
 
 ... (ver nota o)
 
@@ -223,15 +236,15 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Santarém, ... (ver nota m).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ... (ver nota n)
 
-**O Presidente da Comissão Instaladora da ... (ver nota f),**
+O Presidente da Comissão Instaladora da ... (ver nota f),
 
 ... (ver nota o)
 
-**O Secretário da... (ver nota f),**
+O Secretário da... (ver nota f),
 
 ... (ver nota p)
 
@@ -277,15 +290,15 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Santarém, ... (ver nota l).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ... (ver nota m)
 
-**O Presidente da Comissão Instaladora da ... (ver nota f),**
+O Presidente da Comissão Instaladora da ... (ver nota f),
 
 ... (ver nota n)
 
-**O Secretário,**
+O Secretário,
 
 ... (ver nota o)
 
@@ -329,15 +342,15 @@ República (ver nota a) Portuguesa
 
 Publicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) o grau de bacharel em Engenharia Técnica do curso de ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com o grau de bacharel na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor bacharel, em Tomar, no dia ... do mês ... do ano ... (ver nota h).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,**
+O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,
 
 ...
 
-**O Secretário da Escola,**
+O Secretário da Escola,
 
 ...
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ...
 
@@ -353,7 +366,7 @@ Carta de curso
 
 Grau de bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf))](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)
 
 ## ANEXO V — Instituto Politécnico de Santarém
 
@@ -367,15 +380,15 @@ República (ver nota a) Portuguesa
 
 Publicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) o grau de licenciado no curso de ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com o grau de licenciado na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor licenciado, em Tomar, no dia ... do mês ... do ano ... (ver nota h).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,**
+O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,
 
 ...
 
-**O Secretário da Escola,**
+O Secretário da Escola,
 
 ...
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ...
 
@@ -391,7 +404,7 @@ Carta de curso
 
 Grau de licenciado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf))](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)
 
 ## ANEXO VI — Instituto Politécnico de Santarém
 
@@ -403,15 +416,15 @@ República (ver nota a) Portuguesa
 
 Publicamente atestamos e asseguramos a todos e cada um que este diploma virem que o ilustre Sr. ... (ver nota b), filho de ... (ver nota c), nascido em ... (ver nota d), alcançou com louvor e honra (ver nota e) ... no curso de estudos superiores especializados ... (ver nota f), na preclara Escola Superior de Tecnologia de Tomar, depois de completados os seus estudos e emitida a pública aprovação em que foi julgado idóneo por sufrágio dos mestres. E assim, portanto, esta alma mater o distinguiu com diploma de estudos superiores especializados na Escola Superior de Tecnologia de Tomar, no dia ... do mês ... do ano de ... (ver nota g). Este facto foi anotado no «Livro dos Actos e Graus» e, como testemunho público, demos este texto, por nós assinado, apenso o selo magno desta academia, ao referido bem merecedor diplomado, em Tomar, no dia ... do mês ... do ano ... (ver nota h).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,**
+O Presidente da Comissão Instaladora da Escola Superior de Tecnologia de Tomar,
 
 ...
 
-**O Secretário da Escola,**
+O Secretário da Escola,
 
 ...
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Santarém,
 
 ...
 
@@ -425,4 +438,4 @@ Escola Superior de Tecnologia de Tomar
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf))](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/152b00/36183621.pdf)

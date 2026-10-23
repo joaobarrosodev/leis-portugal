@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/328/1993/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-1993-637908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bc42399d2a23eec53ce90b19d2a5d9e8bae1b1df879a02c209c4b0c127175f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 578b35aea91247c9bbb3ba98d7efd143bf0420c2990bfbb34836b1ba2c503526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Comando Geral da Polícia de Segurança Pública
 - Comissão de Explosivos
 - Criação de Serviços
 - Definição de Competências
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:513263:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513263:por
+  label: "Alterada a alínea e) do n.º 2) do n.º 2.º pela PORT.382/95.02.05.1995.MDN, DR.IS-B [101] de 02.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1995-513263
+  date: '1995-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/1992/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/107/1992/06/02/p/dre
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516875:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:23Z'
   warnings: []
   errors: []
 ---
@@ -149,6 +166,6 @@ j) Um representante do Comando do Batalhão de Sapadores Bombeiros.
 
 Ministérios da Defesa Nacional e da Administração Interna.
 
-**Assinada em 9 de Fevereiro de 1993.**
+Assinada em 9 de Fevereiro de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Administração Interna, Manuel Dias Loureiro.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Administração Interna, Manuel Dias Loureiro.

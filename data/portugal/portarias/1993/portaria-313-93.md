@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/065b00/13381338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/313/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1993-634679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 261fd2d5f3b6ab8d41e793fc202386531bb6958c9a8ae70bc9e36d5e68aede0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0687f8011f0b5dd630296c09f54a4f7d72bd154dfecdd163f0f023ca6adbc308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Quadro de Pessoal
 - Santa Maria da Feira
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:548001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548001:por
+  label: "Revogada pela PORT.1065/95.30.08.1995.MJ, DR.IS-B [200] de 30.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1065-1995-548001
+  date: '1995-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:03Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +114,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos artigos 5.
 
 3.º O quadro de oficiais de cada uma das conservatórias é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381338.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13381338.pdf)
 
 4.º A área de competência territorial das novas conservatórias, resultantes do desdobramento da actual Conservatória dos Registos Predial e Comercial de Santa Maria da Feira, é a seguinte:
 
@@ -119,6 +132,6 @@ Registo predial das freguesias de Argoncilhe, Canedo, Fiães, Geão, Guisande, L
 
 Ministério da Justiça.
 
-**Assinada em 17 de Fevereiro de 1993.**
+Assinada em 17 de Fevereiro de 1993.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

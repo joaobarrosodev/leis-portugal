@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(172) a 3838-(173)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/01720173.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-z8/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-z8-1993-402361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f671ea9a6a453d24d287d03fe92b42e49389df0ba5ebe8070a40d74f255ee184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177df72e44b16d107bc61b1bd2abda614fd75e5346a69a80cec90d572ef5f97d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,46 @@ relationships:
   target: pt:dre:491264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157419:por
+  label: "Renovada a concessão da zona de caça associativa pela Port 254-AP/96.1996.07.15.MADRP, DR.IS-B [162]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-ap-1996-157419
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:444470:por
+  label: "Desanexado um prédio rústico da zona de caça associativa criada pelo presente diploma, pela PORT.574/98.1998.08.21.MADRP,\
+    \ DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1998-444470
+  date: '1998-08-21'
+- type: amended_by
+  target: pt:dre:235484:por
+  label: "Anexados vários prédios rústicos pela PORT.861/98.1998.10.09.MADRP DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/861-1998-235484
+  date: '1998-10-09'
+- type: amended_by
+  target: pt:dre:426486:por
+  label: "Desanexado um prédio rústico pela PORT.618/99.1999.08.09.MADRP, DR.IS-B [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-1999-426486
+  date: '1999-08-09'
+- type: amended_by
+  target: pt:dre:263675:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.306/2002.2002.03.20.MADRP DR.IS-B [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-2002-263675
+  date: '2002-03-20'
+- type: amended_by
+  target: pt:dre:641095:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 254-AP/96\
+    \ de 15-Jul e pela Port 306/2002 de 20-Mar, pela PORT.1010/2007.30.08.2007.MADRP, DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1010-2007-641095
+  date: '2007-08-30'
+- type: amended_by
+  target: pt:dre:491264:por
+  label: "Renovada, por um período de seis anos, a zona de caça concessionada pelo presente diploma, renovada pela Port 254-AP/96,\
+    \ de 15-Jul, alterada pelas Port 574/98, de 21-Ago, Port 861/98, de 09-Out, e Port 618/99, de 09-Ago, renovada pela Port\
+    \ 306/2002, de 20-Mar, e alterada pela Port 1010/2007, de 30-Ago, pela PORT.1214/2009.09.10.2009.MADRP, DR.IS [196] de\
+    \ 09.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1214-2009-491264
+  date: '2009-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +123,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:26Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +197,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/01720173.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/01720173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01720173.pdf)

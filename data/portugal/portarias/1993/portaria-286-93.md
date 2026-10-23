@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/1993/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca4d98095accc56a7e91d92f9bebfbb73e9ae4413eb5cae3e45706cca1ff74ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 831b3c77384b608c785033776dd7052f22cad0e0e7ad86da3cca7fdd7214fb51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Produto Químico
 - Aproximação das Legislações
+- Atividade Industrial
 - CEE
-- Poluição Atmosférica
 - Indústria
-- Proteção do Ambiente
+- Poluição Atmosférica
 - Poluição Industrial
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:2224855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 91/93, PUBLICADA NO DR.IS-B, 126, 4 SUPL, DE 930531.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACRESCENTADO UM NUMERO 12 AO ANEXO VI PELA PORTARIA 1058/94, DE 2 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 278.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-02'
+- type: amended_by
+  target: pt:dre:506797:por
+  label: "Alterado o num 11 do anexo VI Port 125/97.1997.02.21.MECO, DR.IS-B [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-1997-506797
+  date: '1997-02-21'
+- type: amended_by
+  target: pt:dre:365924:por
+  label: "Alterado o num 9.1.1 do anexo VI pela Port.399/97.1997.06.18.MECO, DR.IS-B [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/399-1997-365924
+  date: '1997-06-18'
+- type: amended_by
+  target: pt:dre:566856:por
+  label: "Alterado de acordo com o anexo III para a incineração de todos os resíduos perigosos contidos no seu âmbito, o nº\
+    \ 11.2 do Anexo VI pelo DEC LEI.273/98.1998.09.02.MA, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1998-566856
+  date: '1998-09-02'
 - type: cites
   target: celex:31980L0779
   label: null
@@ -99,16 +125,71 @@ relationships:
   target: celex:31989L0427
   label: null
   source: http://data.europa.eu/eli/dir/1989/427/oj
+- type: repealed_by
+  target: pt:dre:179551:por
+  label: "Revogada pela PORT.623/96.31.10.1996.MECO, DR.IS-B [253] de 31.10.1996, na parte que dispõe sobre a matéria a que\
+    \ se refere a citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1996-179551
+  date: '1996-10-31'
+- type: repealed_by
+  target: pt:dre:352526:por
+  label: "Revogados os nºs 1º a 4º, quando entrarem em vigor as portarias previstas no art. 4º do Dec Lei 276/99 de 23-Jul,\
+    \ pelo DEC LEI.276/99.1999.07.23.MAM,DR.IS-A [170].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1999-352526
+  date: '1999-07-23'
+- type: repealed_by
+  target: pt:dre:653499:por
+  label: "Revogados os nºs 9.1.1, 9.1.2, 9.1.3, 9.2, 9.3 e 9.5 do Anexo VI pelo DEC LEI.178/2003.2003.08.05.MCOTA, DR.IS-A\
+    \ [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2003-653499
+  date: '2003-08-05'
+- type: repealed_by
+  target: pt:dre:218329:por
+  label: "Revogado o disposto nos n.ºs 5.º e 6.º do presente diploma, a partir da entrada em vigor das portarias previstas\
+    \ no n.º 1 do art. 17.º pelo DEC LEI.78/2004.03.04.2004.MCOTA, DR.IS-A [80] de 03.04.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2004-218329
+  date: '2004-04-03'
+- type: repealed_by
+  target: pt:dre:532798:por
+  label: "Revogado a partir de 28.12.2005 o nº 11.1 do anexo VI do presente diploma, na redacção introduzida pela Port 125/97\
+    \ de 21-Fev, pelo DEC LEI.85/2005.28.04.2005.MAOT, DR.IS-A [82] de 28.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2005-532798
+  date: '2005-04-28'
+- type: repealed_by
+  target: pt:dre:541010:por
+  label: "Revogado o n.º 6 pela PORT.80/2006.23.01.2006.MAOTDR, DR.IS-B [16] de 23.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2006-541010
+  date: '2006-01-23'
+- type: repealed_by
+  target: pt:dre:494792:por
+  label: "Revogados os anexos iv e v pela PORT.675/2009.23.06.2009.MAOTDR, DR.IS [119] de 23.06.2009, sem prejuízo do disposto\
+    \ no art. 5º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/675-2009-494792
+  date: '2009-06-23'
+- type: repealed_by
+  target: pt:dre:494796:por
+  label: "Revogado, sem prejuízo do disposto no art. 7.º, o n.º 9 do anexo vi, relativo aos VLE de aplicação sectorial, revogado\
+    \ ainda sem prejuízo do disposto no art. 7.º e nos termos do nº 2 do art. 8.º, o anexo iv relativo aos VLE gerais para\
+    \ as instalações de combustão, todos do presente diploma, pela PORT.677/2009.23.06.2009.MAOTDR, DR.IS [119] de 23.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2009-494796
+  date: '2009-06-23'
+- type: repealed_by
+  target: pt:dre:115631554:por
+  label: Revogada, a partir de 07.07.2018 e com efeitos a 01.07.2018, pelo(a) Portaria n.º 190-B/2018 - Diário da República
+    n.º 125/2018, 1º Suplemento, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-b-2018-115631554
+  date: '2018-07-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:24Z'
   warnings: []
   errors: []
 ---
@@ -141,17 +222,17 @@ Manda o Governo, nos termos do n.º 1 do artigo 5.º do Decreto-Lei n.º 352/90,
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 26 de Janeiro de 1993.**
+Assinada em 26 de Janeiro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 ## ANEXO III — A) Métodos de referência de amostragem e análise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 B) Métodos de amostragem e análise para as partículas em suspensão (método gravimétrico)
 
@@ -199,7 +280,7 @@ C) Características a respeitar para a escolha de um método de amostragem e do 
 
 Eficiência mínima aceitável para um aparelho de amostragem (percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 1.4 - O caudal de aspiração para a amostragem deve permanecer constante durante todo o período de amostragem, com uma tolerância de (mais ou menos) 5% do valor nominal
 
@@ -291,11 +372,11 @@ Categoria 3: para um caudal mássico >= 25 g/h ... (ver nota ***) 5
 
 Dióxido de enxofre (mg SO(índice 2)/m3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 ## ANEXO V — Tabela das substâncias cancerígenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 ## ANEXO VI — Valores limites de emissão de aplicação sectorial
 
@@ -437,7 +518,7 @@ Fluoretos (expressos em F(elevado a -)) - 30 mg/m3N.
 
 Os limites de emissão nos efluentes gasosos dos fornos, referidos a um teor volúmico de 18% de O(índice 2), são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 5.3 - Fabricação de cimento, cal e gesso (CAE: 3692):
 
@@ -533,7 +614,7 @@ Potência inferior a 500 MW - 100 mg/m3N.
 
 Os limites de emissão de SO(índice 2) são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 Os limites de emissão de NO(índice x) são:
 
@@ -553,7 +634,7 @@ Instalações de capacidade térmica inferior a 500 MW e que utilizem combustív
 
 Os limites de emissão de SO(índice 2) são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 O limite de emissão de NO(índice x) é de 450 mg/m3N.
 
@@ -595,13 +676,13 @@ Dióxido de enxofre - 250 mg/m3N;
 
 9.2.1 - Às instalações que utilizem simultaneamente dois ou mais combustíveis, o valor limite de emissão para cada poluente será determinado por aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 9.2.2 - Sem prejuízo do disposto no n.º 9.2.1, às instalações de combustão de fornalha mista que utilizem para consumo próprio os resíduos de destilação e de conversão das instalações de refinação do petróleo bruto, isoladamente ou em simultâneo com outros combustíveis, aplicar-se-ão as disposições relativas ao combustível com o valor limite de emissão mais elevado (combustível determinante), se durante o funcionamento da instalação a proporção de calor fornecida por esse combustível for de pelo menos 50% em relação à soma das potências térmicas fornecidas por todos os combustíveis.
 
 Se a proporção de calor fornecido pelo combustível determinante for inferior a 50%, o valor limite de emissão para cada poluente será determinado por aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 9.2.3 - Em alternativa ao disposto no número anterior, pode ser aplicado ao dióxido de enxofre um valor limite de emissão de 1000 mg/m3N, como valor médio das emissões de todas as novas instalações da refinaria independentemente das misturas de combustíveis utilizadas. Da aplicação desta disposição não poderá resultar um aumento das emissões provenientes das instalações existentes.
 
@@ -625,11 +706,11 @@ Dióxido de enxofre e poeiras: 97% de todos os valores médios de quarenta e oit
 
 Limites máximos e objectivos de redução das emissões de dióxido de enxofre para as instalações existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 Limites máximos e objectivos de redução das emissões de monóxido de azoto para as instalações existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 10 - Armazenagem (silos de cereais) (CAE: 7192.0.0):
 
@@ -743,7 +824,7 @@ Dioxinas - 0,1 mg/m3N.
 
 De acordo com o tipo de resíduos, a temperatura dos gases de combustão deve atingir pelo menos os valores indicados na tabela seguinte, durante um período não inferior a dois segundos e em presença de pelo menos 6% de oxigénio; no caso de apenas se incinerarem resíduos líquidos, o teor de O(índice 2) deve ser pelo menos de 3%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11691177.pdf)
 
 A temperatura de incineração de resíduos hospitalares não deve ser inferior a 1100ºC.
 

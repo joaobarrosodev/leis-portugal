@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/496/1993/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-1993-274416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8db777f3fed70258fb404a01f0e8aac6ff0b902d59286cd373c2c6d202999501
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf3d34651182c43d370680abf5d9630c80a05d82e633bc50567907778237ae43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:156626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156626:por
+  label: "Alterado o Plano de pormenor ratificado pelo presente diploma, pela PORT.445/97.1997.07.07.MEPAT, DR.IS-B [154]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/445-1997-156626
+  date: '1997-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596516:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:19Z'
   warnings: []
   errors: []
 ---
@@ -112,21 +146,21 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 25 de Fevereiro de 1993.**
+Assinada em 25 de Fevereiro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor de Urbanização da Caridade
 
 I - Introdução
 
-###### Artigo 1.º A área a que se aplica o presente Regulamento é a contida nos limites do Plano de Pormenor de Urbanização (PPU) da Caridade assinalada na planta de trabalho, na de síntese e noutras anexas ao presente Regulamento, situa-se na zona poente da cidade de Ourém, tem uma forma triangular, é limitada a norte pela Estrada do Ribeirinho, a sul pela Rua do Dr. Joaquim Francisco Alves, e a poente pela Rua do Campo de Futebol e tem uma área de 10,50 ha.
+Artigo 1.º A área a que se aplica o presente Regulamento é a contida nos limites do Plano de Pormenor de Urbanização (PPU) da Caridade assinalada na planta de trabalho, na de síntese e noutras anexas ao presente Regulamento, situa-se na zona poente da cidade de Ourém, tem uma forma triangular, é limitada a norte pela Estrada do Ribeirinho, a sul pela Rua do Dr. Joaquim Francisco Alves, e a poente pela Rua do Campo de Futebol e tem uma área de 10,50 ha.
 
-###### Art. 2.º O PPU da Caridade pretende solucionar a situação de facto das contrariedades ao Plano Geral de Urbanização (PGU) de Ourém, apresentadas na planta de situação actual, fl. 7, que previa para o local zona livre com uma só habitação por hectare, conforme extracto do PGU, fl. 4. O PPU da Caridade apresenta-se assim como plano para o local.
+Art. 2.º O PPU da Caridade pretende solucionar a situação de facto das contrariedades ao Plano Geral de Urbanização (PGU) de Ourém, apresentadas na planta de situação actual, fl. 7, que previa para o local zona livre com uma só habitação por hectare, conforme extracto do PGU, fl. 4. O PPU da Caridade apresenta-se assim como plano para o local.
 
-###### Art. 3.º A área do PPU da Caridade está dividida, à semelhança do PGU de Ourém, em áreas de classificação urbanística diferenciada, às quais serão aplicadas as normas específicas deste Regulamento.
+Art. 3.º A área do PPU da Caridade está dividida, à semelhança do PGU de Ourém, em áreas de classificação urbanística diferenciada, às quais serão aplicadas as normas específicas deste Regulamento.
 
-###### Art. 4.º A operação urbanística é caracterizada pelos seguintes indicadores gerais:
+Art. 4.º A operação urbanística é caracterizada pelos seguintes indicadores gerais:
 
 Área de intervenção: 10,50 ha;
 
@@ -154,7 +188,7 @@ Volume de construção: 175360 m3;
 
 Índice volumétrico: 1,67.
 
-###### Art. 5.º - 1 - As áreas de classificação urbanística diferenciada do PPU da Caridade são as seguintes:
+Art. 5.º - 1 - As áreas de classificação urbanística diferenciada do PPU da Caridade são as seguintes:
 
 I) ZUHM - Área edificável de habitação em moradias;
 
@@ -252,13 +286,13 @@ VII) ZD - Área não edificável desportiva. - Zona desportiva constituída pelo
 
 II - Disposições preliminares
 
-###### Art. 6.º O uso do solo na área do PPU da Caridade é o estabelecido no presente Plano de Pormenor de Urbanização.
+Art. 6.º O uso do solo na área do PPU da Caridade é o estabelecido no presente Plano de Pormenor de Urbanização.
 
-###### Art. 7.º Na concretização do PPU da Caridade deverá ser tomado em conta o interesse dos particulares, prevendo-se um desenvolvimento equilibrado do território conforme o fim considerado mais adequado para este objectivo.
+Art. 7.º Na concretização do PPU da Caridade deverá ser tomado em conta o interesse dos particulares, prevendo-se um desenvolvimento equilibrado do território conforme o fim considerado mais adequado para este objectivo.
 
-###### Art. 8.º O proprietário de um prédio naquilo que respeita à utilização do mesmo para diferentes tipos de edificação encontra-se sujeito às limitações que se estabelecem no presente Regulamento.
+Art. 8.º O proprietário de um prédio naquilo que respeita à utilização do mesmo para diferentes tipos de edificação encontra-se sujeito às limitações que se estabelecem no presente Regulamento.
 
-###### Art. 9.º Estabelecem-se as seguintes definições na utilização do presente Regulamento:
+Art. 9.º Estabelecem-se as seguintes definições na utilização do presente Regulamento:
 
 «Área total» - a área do solo correspondente à área total delimitada pela intervenção urbanística;
 
@@ -322,99 +356,99 @@ II - Disposições preliminares
 
 «Renovação urbana» - execução de acções urbanísticas e de obras que visem a renovação de áreas urbanas sobreocupadas ou com condições deficientes de habitabilidade, salubridade, estética ou segurança.
 
-###### Art. 10.º A supervisão, fiscalização e orientação da edificação urbana em conformidade com o PPU da Caridade, da vila de Ourém, compete à Câmara Municipal de Ourém, em conformidade com a legislação aplicável sobre a delimitação das competências entre órgãos da administração central e local.
+Art. 10.º A supervisão, fiscalização e orientação da edificação urbana em conformidade com o PPU da Caridade, da vila de Ourém, compete à Câmara Municipal de Ourém, em conformidade com a legislação aplicável sobre a delimitação das competências entre órgãos da administração central e local.
 
 III - Disposições gerais
 
-# Parte 1 - Plano de Pormenor de Urbanização da Caridade
+Parte 1 - Plano de Pormenor de Urbanização da Caridade
 
-###### Art. 11.º A Câmara Municipal de Ourém promoverá, após a aprovação do PPU da Caridade, a correspondente actualização do PGU aprovado, para a correcta gestão urbanística do aglomerado urbano de Ourém.
+Art. 11.º A Câmara Municipal de Ourém promoverá, após a aprovação do PPU da Caridade, a correspondente actualização do PGU aprovado, para a correcta gestão urbanística do aglomerado urbano de Ourém.
 
-###### Art. 12.º O PPU da Caridade não prejudica as disposições dos alvarás de loteamento e licenças de construção concedidas por ele abrangidos e que com ele não colidam.
+Art. 12.º O PPU da Caridade não prejudica as disposições dos alvarás de loteamento e licenças de construção concedidas por ele abrangidos e que com ele não colidam.
 
-###### Art. 13.º - 1 - O PPU da Caridade vincula todos os processos de licenciamento do uso do solo para efeitos de edificação.
+Art. 13.º - 1 - O PPU da Caridade vincula todos os processos de licenciamento do uso do solo para efeitos de edificação.
 
 2 - A Câmara Municipal de Ourém não licenciará qualquer acto que prejudique o PPU da Caridade.
 
-###### Art. 14.º - 1 - A Câmara Municipal de Ourém integrará, por cedência, negociação amigável ou expropriação, no domínio municipal e à medida da necessidade da sua utilização, todos os prédios rústicos ou urbanos necessários à constituição de arruamentos e respectivas faixas marginais, espaços públicos, habitação ou equipamentos colectivos da sua responsabilidade de promoção.
+Art. 14.º - 1 - A Câmara Municipal de Ourém integrará, por cedência, negociação amigável ou expropriação, no domínio municipal e à medida da necessidade da sua utilização, todos os prédios rústicos ou urbanos necessários à constituição de arruamentos e respectivas faixas marginais, espaços públicos, habitação ou equipamentos colectivos da sua responsabilidade de promoção.
 
 2 - Os arruamentos e espaços públicos referidos no número anterior serão transferidos para o domínio público à medida que forem constituídos na sua utilização; os equipamentos colectivos da responsabilidade de promoção da Câmara Municipal de Ourém manter-se-ão no domínio privado municipal mesmo depois de constituídos na sua utilização.
 
-###### Art. 15.º Os arruamentos particulares de utilização pública que se mantenham no domínio privado não poderão ser vedados à sua utilização pública nem tão-pouco receber a instalação de infra-estruturas públicas que alterem a utilização e o valor fundiário dos terrenos marginais.
+Art. 15.º Os arruamentos particulares de utilização pública que se mantenham no domínio privado não poderão ser vedados à sua utilização pública nem tão-pouco receber a instalação de infra-estruturas públicas que alterem a utilização e o valor fundiário dos terrenos marginais.
 
-###### Art. 16.º A Câmara Municipal de Ourém integrará, por cedência, negociação amigável ou expropriação, no domínio municipal, à medida das disponibilidades de administração e das necessidades de transformação, os terrenos que por motivo de vinculação do uso regulamentado pelo PPU da Caridade não se destinem a edificação, alterem o seu uso e sofram uma evidente depreciação no seu valor, avaliado em função das actividades nele desenvolvidas.
+Art. 16.º A Câmara Municipal de Ourém integrará, por cedência, negociação amigável ou expropriação, no domínio municipal, à medida das disponibilidades de administração e das necessidades de transformação, os terrenos que por motivo de vinculação do uso regulamentado pelo PPU da Caridade não se destinem a edificação, alterem o seu uso e sofram uma evidente depreciação no seu valor, avaliado em função das actividades nele desenvolvidas.
 
-# Parte 2 - Parcelamento da propriedade
+Parte 2 - Parcelamento da propriedade
 
-###### Art. 17.º O parcelamento da propriedade deverá conformar-se com a legislação e regulamentação urbanística aplicável quer no que se refere à organização dos processos de licenciamento quer no que se refere às prescrições técnicas a observar.
+Art. 17.º O parcelamento da propriedade deverá conformar-se com a legislação e regulamentação urbanística aplicável quer no que se refere à organização dos processos de licenciamento quer no que se refere às prescrições técnicas a observar.
 
-###### Art. 18.º - 1 - Com o parcelamento procurar-se-á obter uma apropriada, simples e clara divisão da propriedade, tendo em consideração quer os direitos reais e servidões constituídas quer os justos desejos expressos pelos seus proprietários.
+Art. 18.º - 1 - Com o parcelamento procurar-se-á obter uma apropriada, simples e clara divisão da propriedade, tendo em consideração quer os direitos reais e servidões constituídas quer os justos desejos expressos pelos seus proprietários.
 
 2 - Não é permitida a constituição de lotes urbanos que não disponham de frente para arruamento.
 
 3 - É estabelecida como área mínima a ceder à Câmara Municipal de Ourém para a instalação de equipamentos colectivos e a constituição de espaços públicos equipados a área indicada na planta de síntese, além da área a ceder para a constituição de arruamentos, circulação de peões indispensável e de estacionamento público ou privado por fogo ou por 100 m2 de área de pavimento de actividade privada. A cada lugar de estacionamento corresponderá a dimensão mínima de 5 m x 2,5 m, a qual não poderá incluir áreas das faixas dos arruamentos.
 
-###### Art. 19.º - 1 - Alterações ao parcelamento estabelecido no PPU da Caridade só poderão ser requeridas pelo(s) proprietário(s) do prédio a que as mesmas se referem.
+Art. 19.º - 1 - Alterações ao parcelamento estabelecido no PPU da Caridade só poderão ser requeridas pelo(s) proprietário(s) do prédio a que as mesmas se referem.
 
 2 - As alterações ao parcelamento referidas no n.º 1 deste artigo só são de admitir por motivo de construção limítrofe, de rectificação de parcelas imperfeitas, de adequação às condições de utilização ou de reconhecido benefício social, económico ou estético e observarão o disposto nos artigos 17.º e 18.º, bem como os índices e as servidões ou condicionamentos urbanísticos estabelecidos.
 
-###### Art. 20.º As operações de loteamento urbano podem não ser autorizadas pela Câmara Municipal de Ourém, ainda que estabelecidas no PPU da Caridade, desde que a sua imediata e próxima realização seja inconveniente para a programação adequada da execução do PPU da Caridade ou para o desenvolvimento ordenado da área em que se localiza.
+Art. 20.º As operações de loteamento urbano podem não ser autorizadas pela Câmara Municipal de Ourém, ainda que estabelecidas no PPU da Caridade, desde que a sua imediata e próxima realização seja inconveniente para a programação adequada da execução do PPU da Caridade ou para o desenvolvimento ordenado da área em que se localiza.
 
-###### Art. 21.º A Câmara Municipal de Ourém providenciará no sentido de manter actualizado o registo cadastral, designadamente das suas propriedades e dos parcelamentos licenciados, com a implantação dos respectivos marcos do terreno.
+Art. 21.º A Câmara Municipal de Ourém providenciará no sentido de manter actualizado o registo cadastral, designadamente das suas propriedades e dos parcelamentos licenciados, com a implantação dos respectivos marcos do terreno.
 
-# Parte 3 - Edificação
+## Parte 3 - Edificação
 
-###### Art. 22.º - 1 - A edificação não pode contrariar as disposições do PPU da Caridade e parcelamentos aprovados, tem de conformar-se com as disposições neles contidos e observar a legislação e regulamentação da edificação aplicável, designadamente o Regulamento Municipal de Edificação, quer no que se refere à organização dos processos de licenciamento quer no que se refere às prescrições técnicas a observar: o Regulamento Geral de Edificações Urbanas e o Regulamento Geral sobre o Ruído (capítulo II, artigos 4.º e 5.º).
+Art. 22.º - 1 - A edificação não pode contrariar as disposições do PPU da Caridade e parcelamentos aprovados, tem de conformar-se com as disposições neles contidos e observar a legislação e regulamentação da edificação aplicável, designadamente o Regulamento Municipal de Edificação, quer no que se refere à organização dos processos de licenciamento quer no que se refere às prescrições técnicas a observar: o Regulamento Geral de Edificações Urbanas e o Regulamento Geral sobre o Ruído (capítulo II, artigos 4.º e 5.º).
 
 2 - De forma a evitar futuras situações de incomodidade, com diminuição da qualidade de vida das populações, será proibida a instalação de unidades industriais nas zonas habitacionais e de equipamento. Qualquer que seja a sua natureza ou dimensão, a sua instalação será condicionada à zona industrial.
 
-###### Art. 23.º - 1 - As obras de edificação só poderão iniciar-se, obtido o licenciamento do parcelamento e o alvará do loteamento, quando haja lugar a parcelamento, após o licenciamento do projecto e obtenção da correspondente licença de construção, requeridos pelo proprietário.
+Art. 23.º - 1 - As obras de edificação só poderão iniciar-se, obtido o licenciamento do parcelamento e o alvará do loteamento, quando haja lugar a parcelamento, após o licenciamento do projecto e obtenção da correspondente licença de construção, requeridos pelo proprietário.
 
 2 - A Câmara Municipal de Ourém poderá recusar a concessão de licença de construção às obras de edificação em áreas que não disponham das infra-estruturas urbanas estabelecidas e quando tal se verifique ser inconveniente para o correcto desenvolvimento urbano no que se refere à construção e conservação das indispensáveis infra-estruturas, espaços livres e equipamentos colectivos.
 
 3 - A Câmara Municipal de Ourém poderá recusar a concessão da licença de construção às obras de edificação em áreas não reconhecidas salubres, não devidamente saneadas ou drenadas ou que não ofereçam condições de segurança para a construção.
 
-###### Art. 24.º - 1 - Toda a edificação terá de dispor de frente e acesso para arruamento e de ligação independente às redes de infra-estruturas instaladas ou estabelecidas para a área.
+Art. 24.º - 1 - Toda a edificação terá de dispor de frente e acesso para arruamento e de ligação independente às redes de infra-estruturas instaladas ou estabelecidas para a área.
 
 2 - Não são permitidas edificações nos logradouros privados de outras construções, à excepção de construções de apoio à construção principal e como tal admitidas e regulamentadas.
 
-###### Art. 25.º É estabelecido para as edificações isoladas o afastamento mínimo de 3 m aos limites laterais do lote do terreno.
+Art. 25.º É estabelecido para as edificações isoladas o afastamento mínimo de 3 m aos limites laterais do lote do terreno.
 
-###### Art. 26.º Os corpos balançados sobre o plano da fachada, fixos ou amovíveis, nos casos em que sejam permitidos, não poderão em caso algum exceder o balanço de 1,50 m.
+Art. 26.º Os corpos balançados sobre o plano da fachada, fixos ou amovíveis, nos casos em que sejam permitidos, não poderão em caso algum exceder o balanço de 1,50 m.
 
-###### Art. 27.º A projecção máxima de cada elemento da cobertura não pode exceder 3 m acima do nível da esteira do último piso, e a sua pendente máxima não pode exceder a inclinação de 1 na vertical para 2 na horizontal, ou seja, de, aproximadamente, 30º.
+Art. 27.º A projecção máxima de cada elemento da cobertura não pode exceder 3 m acima do nível da esteira do último piso, e a sua pendente máxima não pode exceder a inclinação de 1 na vertical para 2 na horizontal, ou seja, de, aproximadamente, 30º.
 
-###### Art. 28.º A fachada da edificação tem de ter possibilidade de acesso directo a viaturas de bombeiros e de recolha de lixos e dispor de acessos à cobertura a partir da caixa da escada.
+Art. 28.º A fachada da edificação tem de ter possibilidade de acesso directo a viaturas de bombeiros e de recolha de lixos e dispor de acessos à cobertura a partir da caixa da escada.
 
-###### Art. 29.º - 1 - É obrigatória a sujeição da edificação, quando outras sujeições não se estabeleçam, à observância dos materiais de revestimento e cores definidos ou a aprovar pela Câmara Municipal de Ourém.
+Art. 29.º - 1 - É obrigatória a sujeição da edificação, quando outras sujeições não se estabeleçam, à observância dos materiais de revestimento e cores definidos ou a aprovar pela Câmara Municipal de Ourém.
 
 2 - A edificação observará ainda as características arquitectónicas, construtivas e ambientais locais, de modo a salvaguardar as áreas classificadas, a unidade e a harmonia do conjunto urbano.
 
-###### Art. 30.º - 1 - Compete aos proprietários dos logradouros privados a sua manutenção e limpeza.
+Art. 30.º - 1 - Compete aos proprietários dos logradouros privados a sua manutenção e limpeza.
 
 2 - Os muros de delimitação dos logradouros não podem na sua zona fechada exceder a altura de 1,20 m na frente para o arruamento e a altura de 2 m nas demais frentes.
 
 3 - A ocupação de logradouros com construções de apoio a título definitivo ou precário terá de observar, quando admitida e regulamentada, os condicionamentos do PPU da Caridade aplicáveis e submeter-se ao licenciamento municipal.
 
-###### Art. 31.º Nos casos de cultivo, ajardinamento, arborização ou qualquer outro tipo de revestimento vegetal do logradouro privado, não se poderão implantar as espécies vegetais de forma a prejudicar a utilização das edificações ou dos logradouros contíguos, competindo à Câmara Municipal de Ourém a sua fiscalização e a determinação do cumprimento das medidas necessárias à sua observância.
+Art. 31.º Nos casos de cultivo, ajardinamento, arborização ou qualquer outro tipo de revestimento vegetal do logradouro privado, não se poderão implantar as espécies vegetais de forma a prejudicar a utilização das edificações ou dos logradouros contíguos, competindo à Câmara Municipal de Ourém a sua fiscalização e a determinação do cumprimento das medidas necessárias à sua observância.
 
-###### Art. 32.º A alteração da morfologia natural do terreno por motivo de obras de urbanização ou de edificação terá de salvaguardar a estabilidade e a drenagem natural do terreno, executando-se para o efeito e de acordo com o correspondente projecto de licenciamento as obras complementares necessárias a cargo do promotor da urbanização ou edificação, consoante os casos.
+Art. 32.º A alteração da morfologia natural do terreno por motivo de obras de urbanização ou de edificação terá de salvaguardar a estabilidade e a drenagem natural do terreno, executando-se para o efeito e de acordo com o correspondente projecto de licenciamento as obras complementares necessárias a cargo do promotor da urbanização ou edificação, consoante os casos.
 
-###### Art. 33.º A demolição de edifícios só será autorizada pela Câmara Municipal de Ourém por imposição do PPU da Caridade ou quando os edifícios careçam de requisitos de habitabilidade indispensáveis, designadamente falta de condições de solidez, segurança ou salubridade, e não se mostre aconselhável sob o aspecto técnico e ou económico a respectiva beneficiação ou reparação nem se encontrem ao abrigo de classificação ou protecção.
+Art. 33.º A demolição de edifícios só será autorizada pela Câmara Municipal de Ourém por imposição do PPU da Caridade ou quando os edifícios careçam de requisitos de habitabilidade indispensáveis, designadamente falta de condições de solidez, segurança ou salubridade, e não se mostre aconselhável sob o aspecto técnico e ou económico a respectiva beneficiação ou reparação nem se encontrem ao abrigo de classificação ou protecção.
 
-###### Art. 34.º É obrigatória a realização de obras de conservação periódica dos edifícios pelos seus proprietários e ou usufrutuários e conforme regulamento da Câmara Municipal de Ourém.
+Art. 34.º É obrigatória a realização de obras de conservação periódica dos edifícios pelos seus proprietários e ou usufrutuários e conforme regulamento da Câmara Municipal de Ourém.
 
-###### Art. 35.º A edificação de equipamentos colectivos e actividades obedecerão a especificações próprias, a definir caso a caso, que, caso algum, poderão contrariar os limites mínimos e máximos expressos neste Regulamento nem contrariar as especificações de aplicação geral, igualmente expressos.
+Art. 35.º A edificação de equipamentos colectivos e actividades obedecerão a especificações próprias, a definir caso a caso, que, caso algum, poderão contrariar os limites mínimos e máximos expressos neste Regulamento nem contrariar as especificações de aplicação geral, igualmente expressos.
 
-###### Art. 36.º As edificações observarão necessariamente a morfologia urbana proposta no PPU da Caridade, designadamente no que se refere à implantação, agregação, servidões e protecções urbanísticas estabelecidas.
+Art. 36.º As edificações observarão necessariamente a morfologia urbana proposta no PPU da Caridade, designadamente no que se refere à implantação, agregação, servidões e protecções urbanísticas estabelecidas.
 
-###### Art. 37.º - 1 - As alterações à edificação estabelecida no PPU da Caridade só poderão ser requeridas pelo(s) proprietário(s) do prédio a que as mesmas se referem.
+Art. 37.º - 1 - As alterações à edificação estabelecida no PPU da Caridade só poderão ser requeridas pelo(s) proprietário(s) do prédio a que as mesmas se referem.
 
 2 - As alterações referidas no n.º 1 deste artigo só serão de admitir pelos motivos referidos no n.º 2 do artigo 19.º
 
-# Parte 4 - Espaços públicos
+Parte 4 - Espaços públicos
 
-###### Art. 38.º - 1 - Compete à Câmara Municipal de Ourém a construção e integração no domínio público dos arruamentos e espaços públicos previstos e em conformidade com o PPU da Caridade.
+Art. 38.º - 1 - Compete à Câmara Municipal de Ourém a construção e integração no domínio público dos arruamentos e espaços públicos previstos e em conformidade com o PPU da Caridade.
 
 2 - As características técnicas dos novos arruamentos são sob o aspecto dimensional as defendidas no PPU da Caridade e sob o aspecto construtivo as definidas pela Câmara Municipal de Ourém, tendo em consideração a sua adequada resistência, economia, construção e reposição.
 
@@ -448,15 +482,15 @@ Para arruamentos de 9 m de faixa: >=10 m.
 
 10 - Compete à Câmara Municipal de Ourém a demarcação, sinalização, manutenção, conservação e limpeza dos arruamentos e outros espaços públicos.
 
-###### Art. 39.º - 1 - Na constituição dos arruamentos e espaços públicos atender-se-á à instalação das infra-estruturas - redes de águas, esgotos pluviais, esgotos domésticos, electricidade em alta tensão, electricidade em baixa tensão e telefones -, de modo a obter-se a máxima compatibilidade e economia dos traçados, quer no que se refere à sua construção quer no que se refere à sua utilização e conservação.
+Art. 39.º - 1 - Na constituição dos arruamentos e espaços públicos atender-se-á à instalação das infra-estruturas - redes de águas, esgotos pluviais, esgotos domésticos, electricidade em alta tensão, electricidade em baixa tensão e telefones -, de modo a obter-se a máxima compatibilidade e economia dos traçados, quer no que se refere à sua construção quer no que se refere à sua utilização e conservação.
 
 2 - Todas as infra-estruturas gerais serão instaladas em domínio público, claramente identificadas e de fácil acesso, consolidação e reposição.
 
-###### Art. 40.º - 1 - Na constituição dos espaços públicos atender-se-á à instalação das zonas de circulação e de estada de peões - passeios, praças, largos, terreiros, estadas, atravessamentos e outros -, com a garantia da sua segurança, conforto e limpeza, e tendo em consideração a sua adequada resistência, economia, construção, reposição e conservação.
+Art. 40.º - 1 - Na constituição dos espaços públicos atender-se-á à instalação das zonas de circulação e de estada de peões - passeios, praças, largos, terreiros, estadas, atravessamentos e outros -, com a garantia da sua segurança, conforto e limpeza, e tendo em consideração a sua adequada resistência, economia, construção, reposição e conservação.
 
 2 - Nos percursos contíguos de peões e atravessamento de arruamentos de circulação direccional de veículos serão garantidas as condições de circulação de carros de bebés e de deficientes.
 
-###### Art. 41.º - 1 - Na constituição dos espaços públicos atender-se-á à instalação de zonas verdes públicas - caldeiras para árvores, áreas permeáveis de revestimento vegetal e outras -, com garantia de utilização da flora de comprovada resistência urbana e adequada à função específica a que se destina, incluindo a estética paisagística.
+Art. 41.º - 1 - Na constituição dos espaços públicos atender-se-á à instalação de zonas verdes públicas - caldeiras para árvores, áreas permeáveis de revestimento vegetal e outras -, com garantia de utilização da flora de comprovada resistência urbana e adequada à função específica a que se destina, incluindo a estética paisagística.
 
 2 - Os troncos das árvores não se podem localizar a distâncias inferiores a 4,50 m e a 1 m, respectivamente do plano da edificação e do lancil.
 
@@ -464,11 +498,11 @@ Para arruamentos de 9 m de faixa: >=10 m.
 
 4 - Na constituição das zonas verdes públicas atender-se-á ainda à sua integração na estrutura verde global para cumprimento da sua função ecológica e correcção micro-climática e para a sua contribuição paisagística quer na definição da paisagem global quer no enquadramento paisagístico local.
 
-###### Art. 42.º Compete à Câmara Municipal de Ourém a manutenção, limpeza e conservação das zonas verdes públicas, podendo as associações de moradores ou autarquias locais colaborar de acordo com os programas comuns definidos.
+Art. 42.º Compete à Câmara Municipal de Ourém a manutenção, limpeza e conservação das zonas verdes públicas, podendo as associações de moradores ou autarquias locais colaborar de acordo com os programas comuns definidos.
 
-# Parte 5 - Servidões e protecções
+Parte 5 - Servidões e protecções
 
-###### Art. 43.º - 1 - São constituídas servidões e protecções, sob a jurisdição das entidades a seguir referidas e de acordo com a legislação aplicável, aos seguintes elementos incluídos nos limites do PPU da Caridade:
+Art. 43.º - 1 - São constituídas servidões e protecções, sob a jurisdição das entidades a seguir referidas e de acordo com a legislação aplicável, aos seguintes elementos incluídos nos limites do PPU da Caridade:
 
 1.1 - Infra-estruturas:
 
@@ -498,7 +532,7 @@ Casa da Criança e CRIO - Fundação Dr. Agostinho Albano de Almeida;
 
 IV - Disposições finais
 
-###### Art. 44.º - 1 - A Assembleia Municipal fixará o regime de aplicação de multas e outras sanções decorrentes do desrespeito do Regulamento do PPU da Caridade.
+Art. 44.º - 1 - A Assembleia Municipal fixará o regime de aplicação de multas e outras sanções decorrentes do desrespeito do Regulamento do PPU da Caridade.
 
 2 - A Câmara Municipal de Ourém é a entidade competente para promover o embargo e notificar o proprietário para demolição de edificação ilegal com desrespeito do PPU da Caridade.
 
@@ -506,17 +540,17 @@ IV - Disposições finais
 
 4 - As demolições resultantes de embargo serão custeadas pelo proprietário, podendo a Câmara Municipal de Ourém substituir-se a este no caso do não cumprimento da notificação e para o efeito tomar posse do terreno até à liquidação dos encargos assumidos.
 
-###### Art. 45.º - 1 - Assiste à Câmara Municipal de Ourém e aos seus funcionários credenciados para o efeito a liberdade de acesso aos prédios abrangidos pelo PPU da Caridade no cumprimento da sua fiscalização e na elaboração de estudos deles decorrentes.
+Art. 45.º - 1 - Assiste à Câmara Municipal de Ourém e aos seus funcionários credenciados para o efeito a liberdade de acesso aos prédios abrangidos pelo PPU da Caridade no cumprimento da sua fiscalização e na elaboração de estudos deles decorrentes.
 
 2 - A Assembleia Municipal fixará o regime de aplicação de multas pela interdição sem justa causa do acesso referido no n.º 1 deste artigo.
 
-###### Art. 46.º - 1 - O presente PPU da Caridade vigorará com a introdução das alterações ou actualizações decorrentes da sua gestão até à data da publicação da sua revisão.
+Art. 46.º - 1 - O presente PPU da Caridade vigorará com a introdução das alterações ou actualizações decorrentes da sua gestão até à data da publicação da sua revisão.
 
 2 - Compete à Câmara Municipal de Ourém a resolução das dúvidas que suscitem na aplicação do Regulamento do PPU da Caridade, bem como a integração de lacunas, após a sua aprovação pela Assembleia Municipal e publicação no Diário da República.
 
 3 - Da decisão tomada pela Câmara Municipal de Ourém nos termos do n.º 2 deste artigo cabe recurso para o Ministro da Educação.
 
-###### Art. 47.º O presente Regulamento do PPU da Caridade, da vila de Ourém, entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+Art. 47.º O presente Regulamento do PPU da Caridade, da vila de Ourém, entra em vigor no dia seguinte ao da sua publicação no Diário da República.
 
 Programa de execução
 
@@ -528,4 +562,4 @@ Todas as infra-estruturas são para ser executadas pelos promotores das constru�
 
 Quadro de características urbanísticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/108b00/24582464.pdf))](https://files.diariodarepublica.pt/1s/1993/05/108b00/24582464.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/108b00/24582464.pdf)

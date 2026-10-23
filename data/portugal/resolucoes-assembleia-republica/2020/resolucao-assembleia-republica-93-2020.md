@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/93/2020/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/93-2020-152422622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87d9441b65e55da7e7a7bee1154e27c8b37d9658912f3476a2fcdbca7923d698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb148dcc1c0de57284e0c843ab4449fd1b47651dcc1606ba3c0b7bfed8c5b656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,25 @@ reuse:
 subjects:
 - Administração de Cooperação Internacional
 - Arménia
+- Bruxelas
 - Comunidade Europeia
 - Convenção
 - Cooperação Comercial
-- Política de Cooperação
-- União Europeia
-- Euratom
 - Cooperação Europeia
 - Cooperação Internacional
+- Euratom
+- Política de Cooperação
 - Política Europeia de Segurança e Defesa
 - Tratado CEE
 - Tratado Euratom
-- Bruxelas
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:152422605:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 67/2020 - Diário da República n.º 251/2020, Série I de
+    2020-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/67-2020-152422605
+  date: '2020-12-29'
 - type: cites
   target: celex:31976L0914
   label: null
@@ -642,15 +648,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2
 article_structure:
-  article_count: 413
-  section_count: 93
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 401
+  section_count: 97
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:05Z'
   warnings: []
   errors: []
 ---
@@ -663,7 +669,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de outubro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA ABRANGENTE E REFORÇADO ENTRE A UNIÃO EUROPEIA E A COMUNIDADE EUROPEIA DA ENERGIA ATÓMICA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DA ARMÉNIA, POR OUTRO
 
@@ -4147,7 +4153,9 @@ No capítulo 13, secção 3, do presente título, a subsecção ii não se aplic
 
 ### CAPÍTULO 10 — Concorrência
 
-#### SECÇÃO A — Artigo 286.º
+#### SECÇÃO A
+
+###### Artigo 286.º
 
 Princípios
 
@@ -5111,7 +5119,7 @@ O presente Acordo é redigido em dois exemplares, nas línguas alemã, búlgara,
 
 Em fé do que os Plenipotenciários abaixo assinados, devidamente autorizados para o efeito, apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO I — [do capítulo 1 (Transportes) do título v (Outras políticas de cooperação)
 
@@ -7617,7 +7625,7 @@ Os setores ou subsetores não mencionados na lista a seguir apresentada não sã
 
 6 - Para maior certeza, a obrigação de concessão do tratamento nacional não implica, para a União Europeia, a obrigação de tornar extensivo aos nacionais ou pessoas coletivas da outra Parte o tratamento concedido num Estado-Membro aos nacionais e pessoas coletivas de outro Estado-Membro, nos termos do Tratado sobre o Funcionamento da União Europeia, nem as medidas adotadas no âmbito deste tratado, ou sua aplicação nos Estados-Membros. O tratamento nacional é concedido apenas às pessoas coletivas da outra Parte estabelecidas em conformidade com a legislação de outro Estado-Membro e que tenham a sua sede social, administração central ou local de atividade principal nesse Estado-Membro, inclusivamente pessoas coletivas estabelecidas na União Europeia e detidas ou controladas por nacionais da outra Parte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO VIII-C — Reservas referentes ao pessoal-chave, estagiários de nível pós-universitário e delegados comerciais da União Europeia
 
@@ -7647,7 +7655,7 @@ Nos termos do artigo 144.º do presente Acordo, a União Europeia não assume qu
 
 9 - Para maior certeza, a obrigação de concessão do tratamento nacional não implica, para a União Europeia, a obrigação de tornar extensivo aos nacionais ou pessoas coletivas da outra Parte o tratamento concedido num Estado-Membro aos nacionais e pessoas coletivas de outro Estado-Membro, nos termos do Tratado sobre o Funcionamento da União Europeia, nem as medidas adotadas no âmbito deste tratado, ou sua aplicação nos Estados-Membros. O tratamento nacional é concedido apenas às pessoas coletivas da outra Parte estabelecidas em conformidade com a legislação de outro Estado-Membro e que tenham a sua sede social, administração central ou local de atividade principal nesse Estado-Membro, inclusivamente pessoas coletivas estabelecidas na UE e detidas ou controladas por nacionais da outra Parte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO VIII-D — Reservas aplicáveis a prestadores de serviços por contrato e profissionais independentes da União Europeia
 
@@ -7729,7 +7737,7 @@ e) Serviços de consultoria de gestão e serviços relacionados com a consultori
 
 f) Serviços de tradução.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO VIII-E — Reservas da República da Arménia ao estabelecimento
 
@@ -7823,7 +7831,7 @@ Os setores ou subsetores não mencionados na lista a seguir apresentada não sã
 
 5 - Os direitos e obrigações decorrentes da presente lista de compromissos não têm um efeito executório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO VIII-G — Reservas da República da Arménia aplicáveis a prestadores de serviços por contrato e profissionais independentes
 
@@ -7915,11 +7923,11 @@ dd) Serviços de organização de congressos (CPC 87909); e
 
 ee) Serviços de tradução e interpretação (CPC 87905).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO IX — Legislação das Partes e requisitos de registo, controlo e proteção de indicações geográficas
 
-# PARTE A — Legislação das Partes
+## PARTE A — Legislação das Partes
 
 I - Legislação da União Europeia
 
@@ -7939,7 +7947,7 @@ II - Legislação da República da Arménia
 
 3) Normas sobre «Preenchimento, apresentação e tratamento de pedidos de registo de indicações geográficas, denominações de origem e produtos tradicionais garantidos», confirmadas pela decisão 310-N do governo da República da Arménia, de 10.3.2011.
 
-# PARTE B — Requisitos de registo, controlo e proteção de indicações geográficas
+## PARTE B — Requisitos de registo, controlo e proteção de indicações geográficas
 
 As Partes devem garantir que os respetivos sistemas de registo, controlo e proteção de indicações geográficas incluem:
 
@@ -7979,31 +7987,31 @@ iv) Quaisquer outras práticas suscetíveis de induzirem os consumidores em erro
 
 ## ANEXO X — Lista de indicações geográficas protegidas
 
-# PARTE A — Indicações geográficas de produtos da União Europeia
+## PARTE A — Indicações geográficas de produtos da União Europeia
 
 (a que é feita referência no artigo 231.º, n.º 3)
 
 1 - Lista de vinhos aromatizados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 2 - Lista de produtos agrícolas e de géneros alimentícios, exceto vinhos, bebidas espirituosas e vinhos aromatizados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 3 - Lista de bebidas espirituosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 4 - Lista de vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
-# PARTE B — Indicações geográficas de produtos da República da Arménia
+## PARTE B — Indicações geográficas de produtos da República da Arménia
 
 (a que é feita referência no artigo 231.º, n.º 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25100/0002100457.pdf)
 
 ## ANEXO XI — Contratos públicos adicionais abrangidos
 
@@ -8023,13 +8031,13 @@ Convenção de 26 de julho de 1995 relativa à Proteção dos Interesses Finance
 
 Aplicam-se as seguintes disposições desta convenção:
 
-###### Artigo 1.º - Disposições gerais, definições;
+Artigo 1.º - Disposições gerais, definições;
 
-###### Artigo 2.º, n.º 1, tomar as medidas necessárias para que os comportamentos referidos no artigo 1.º, bem como a cumplicidade, a instigação ou a tentativa relativas aos comportamentos referidos no artigo 1.º, n.º 1, sejam passíveis de sanções penais efetivas, proporcionadas e dissuasoras.
+Artigo 2.º, n.º 1, tomar as medidas necessárias para que os comportamentos referidos no artigo 1.º, bem como a cumplicidade, a instigação ou a tentativa relativas aos comportamentos referidos no artigo 1.º, n.º 1, sejam passíveis de sanções penais efetivas, proporcionadas e dissuasoras.
 
 Prazo: estas disposições da Convenção devem ser aplicadas a partir da entrada em vigor do presente Acordo;
 
-###### Artigo 3.º - Responsabilidade penal dos dirigentes de empresas.
+Artigo 3.º - Responsabilidade penal dos dirigentes de empresas.
 
 Prazo: estas disposições da Convenção devem ser aplicadas no prazo de três anos após a entrada em vigor do presente Acordo.
 
@@ -8037,15 +8045,15 @@ Protocolo à Convenção relativa à Proteção dos Interesses Financeiros das C
 
 Aplicam-se as seguintes disposições do Protocolo:
 
-###### Artigo 1.º, n.º 1, alínea c), e artigo 1.º, n.º 2 - definições pertinentes;
+Artigo 1.º, n.º 1, alínea c), e artigo 1.º, n.º 2 - definições pertinentes;
 
-###### Artigo 2.º - Corrupção passiva;
+Artigo 2.º - Corrupção passiva;
 
-###### Artigo 3.º - Corrupção ativa;
+Artigo 3.º - Corrupção ativa;
 
-###### Artigo 5.º, n.º 1, adotar as medidas necessárias para que os comportamentos referidos nos artigos 2.º e 3.º, bem como a cumplicidade nesses comportamentos ou a instigação aos mesmos, sejam passíveis de sanções penais efetivas, proporcionais e dissuasoras;
+Artigo 5.º, n.º 1, adotar as medidas necessárias para que os comportamentos referidos nos artigos 2.º e 3.º, bem como a cumplicidade nesses comportamentos ou a instigação aos mesmos, sejam passíveis de sanções penais efetivas, proporcionais e dissuasoras;
 
-###### Artigo 7.º - no que se refere ao artigo 3.º da Convenção.
+Artigo 7.º - no que se refere ao artigo 3.º da Convenção.
 
 Prazo: estas disposições do Protocolo devem ser aplicadas a partir da entrada em vigor do presente Acordo.
 
@@ -8053,15 +8061,15 @@ Segundo Protocolo à Convenção relativa à Proteção dos Interesses Financeir
 
 Aplicam-se as seguintes disposições do Protocolo:
 
-###### Artigo 1.º - Definições;
+Artigo 1.º - Definições;
 
-###### Artigo 2.º - Branqueamento de capitais;
+Artigo 2.º - Branqueamento de capitais;
 
-###### Artigo 3.º - Responsabilidade das pessoas coletivas;
+Artigo 3.º - Responsabilidade das pessoas coletivas;
 
-###### Artigo 4.º - Sanções aplicáveis às pessoas coletivas;
+Artigo 4.º - Sanções aplicáveis às pessoas coletivas;
 
-###### Artigo 12.º - no que se refere ao artigo 3.º da Convenção.
+Artigo 12.º - no que se refere ao artigo 3.º da Convenção.
 
 Prazo: estas disposições do Protocolo devem ser aplicadas a partir da entrada em vigor do presente Acordo.
 
@@ -8270,3 +8278,5 @@ DECLARAÇÃO RELATIVA AO CAPÍTULO 2 (DISPOSIÇÕES EM MATÉRIA DE CONTROLO E DE
 A obrigação de adotar medidas adequadas para corrigir eventuais irregularidades, fraudes ou práticas de corrupção ativa ou passiva e excluir conflitos de interesses em qualquer fase da execução dos fundos da UE a que se refere o título vii, capítulo 2, não pode ser entendida no sentido de criar uma responsabilidade financeira para a República da Arménia em relação às obrigações assumidas pelas entidades e pessoas sob a sua jurisdição.
 
 A União Europeia, no exercício do seu direito de controlo, em conformidade com o título vii, capítulo 2, deve respeitar as regras nacionais relativas ao sigilo bancário.
+
+113815452

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1255/1993/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1255-1993-552823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d04f021651ed43aa5e4756d0573273a46e82522ab09b88a038c1edfa7b1b15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df6b02ec16210dd667e039d509842d6f158b62ca0790e188e9a1e3d6b242fa29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,44 @@ reuse:
 subjects:
 - Alcobaça
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:449434:por
+  label: "Ratificada a suspensão parcial do Plano de Pormenor da Quinta da Cova da Onça, pela RES.97/2008.19.06.2008.PCM,\
+    \ DR.IS [117] de 19.06.2008, para a área delimitada na planta em anexo e pelo período de dois anos, e publicadas as medidas\
+    \ preventivas para a mesma área e pelo mesmo período.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/97-2008-449434
+  date: '2008-06-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:01Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +127,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Novembro de 1993.**
+Assinada em 10 de Novembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Quinta da Cova da Onça
 
@@ -300,4 +319,4 @@ No caso da existência de coberturas inclinadas, deverão ser revestidas a telha
 
 A definição das áreas livres compostas por arruamentos, estacionamentos, percursos pedonais, estacionamento de superfície de apoio aos equipamentos e parque urbano com respectivos equipamentos será objecto de projecto de execução de arranjos exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/286b00/68166817.pdf))](https://files.diariodarepublica.pt/1s/1993/12/286b00/68166817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/286b00/68166817.pdf)

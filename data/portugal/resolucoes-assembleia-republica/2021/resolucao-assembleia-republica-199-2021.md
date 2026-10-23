@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13400/0000600072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/199/2021/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/199-2021-167133015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d221c9b7eae3d5f0522b1b5120b14ec744037d2519d2737f609d679fbab1b69e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86ae3c3d3a9b5f47d43738be0fd63a046237b60d983e43c685a8c445a21f88f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Protecção do Investimento
 - Arbitragem
-- Financiamento
+- Bruxelas
 - CE Países
-- Política Fiscal
 - Comité Misto
 - Convenção
+- Custas Judiciais
 - Definição de Competências
-- União Europeia
 - Expropriação
+- Financiamento
 - Indemnização
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
 - Litígio Transfronteiriço
+- Mediador
 - Pessoa Coletiva
 - Pessoa Singular
+- Política Fiscal
+- Protecção do Investimento
+- Recurso
 - Sentença Condenatoria
 - Sentença Estrangeira
-- Mediador
 - Singapura
-- Custas Judiciais
-- Bruxelas
 - Tribunal Judicial
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:167133013:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 58/2021 - Diário da República n.º 134/2021, Série
+    I de 2021-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/58-2021-167133013
+  date: '2021-07-13'
 article_structure:
   article_count: 99
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:36Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +120,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO EM MATÉRIA DE PROTEÇÃO DOS INVESTIMENTOS ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DE SINGAPURA, POR OUTRO
 
@@ -760,7 +766,9 @@ As Partes procedem, entre si e em conjunto com outros parceiros comerciais inter
 
 O anexo 8 (Regras relativas ao acesso do público a documentos, às audições e à possibilidade de terceiros apresentarem observações) é aplicável aos litígios ao abrigo da presente secção.
 
-###### Artigo 3.17 — Parte no Acordo não litigante
+###### Artigo 3.17
+
+## Parte no Acordo não litigante
 
 1 - O tribunal deve aceitar observações escritas ou orais relativas a questões de interpretação do tratado formuladas pela Parte não litigante no Acordo ou, após consulta das Partes no litígio, pode convidar esta Parte a apresentá-las.
 
@@ -1526,7 +1534,7 @@ b) As Partes; e
 
 c) O presidente de todos os outros tribunais ou tribunais de recurso em matéria de investimento pertinentes.
 
-**O presidente do tribunal ou presidente do tribunal de recurso deve tornar públicas asquaisquer conclusões nos termos do presente número.**
+O presidente do tribunal ou presidente do tribunal de recurso deve tornar públicas asquaisquer conclusões nos termos do presente número.
 
 Confidencialidade
 
@@ -1658,7 +1666,7 @@ c) Em circunstâncias excecionais comparáveis.
 
 ###### Artigo 5.º
 
-**O Secretário-Geral das Nações Unidas, através do Secretariado da CNUDCI, é o depositário e deve disponibilizar ao público as informações nos termos do presente anexo.**
+O Secretário-Geral das Nações Unidas, através do Secretariado da CNUDCI, é o depositário e deve disponibilizar ao público as informações nos termos do presente anexo.
 
 ###### Artigo 6.º
 
@@ -2054,4 +2062,6 @@ No que diz respeito ao n.º 9 do anexo 9, ambas as Partes confirmam o seguinte:
 
 3 - Ambas as Partes devem aplicar o presente memorando de entendimento de boa-fé, a fim de facilitar o funcionamento do painel de arbitragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13400/0000600072.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13400/0000600072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13400/0000600072.pdf)
+
+114366674

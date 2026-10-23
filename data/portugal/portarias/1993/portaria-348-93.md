@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/348/1993/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-1993-643571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34c8c18e5cfa177822bcfaf1ed8a2cf51925a858442e9e37a9572a6ba2f558ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93887f1544600015a029d762af6375223ce5bb7a717f86ce6db2e12a34d161c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/630/1992/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/630/1992/07/03/p/dre
+- type: cites
+  target: pt:dre:156849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618733:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:53Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +186,9 @@ l) Os serviços locais.
 
 2.º É aditado o artigo 19.º-A ao Regulamento do Centro:
 
-###### Artigo 19.º-A — Divisão de Contra-Ordenações
+###### Artigo 19.º-A
+
+##### Divisão de Contra-Ordenações
 
 Compete à Divisão de Contra-Ordenações:
 
@@ -176,10 +218,10 @@ l) Recolher e tratar os necessários dados estatísticos.
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 12 de Fevereiro de 1993.**
+Assinada em 12 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa anexo à Portaria n.º 348/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/070b00/14591460.pdf))](https://files.diariodarepublica.pt/1s/1993/03/070b00/14591460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/070b00/14591460.pdf)

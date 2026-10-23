@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20600/0001700022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/218/2019/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/218-2019-125692187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b545121f027691fd621e165e1a4709ffb394c7678c7d961024b6598c88a3a382
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29c4d9480f97729e07be06c0a9f93aee9ee9cfa4e9503f58d9c87c8bd6c14086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carta Europeia de Autonomia Local
-- CE Países
-- Convenção
-- Conselho da Europa
 - Administração Local
 - Autarquia Local
+- Carta Europeia de Autonomia Local
+- CE Países
+- Conselho da Europa
+- Convenção
 - Utreque
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:125692185:por
+  label: Ratificado o presente Protocolo pelo(a) Decreto do Presidente da República n.º 59/2019 - Diário da República n.º
+    206/2019, Série I de 2019-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/59-2019-125692185
+  date: '2019-10-25'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:48Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ADDITIONAL PROTOCOL TO THE EUROPEAN CHARTER OF LOCAL SELF-GOVERNMENT ON THE RIGHT TO PARTICIPATE IN THE AFFAIRS OF A LOCAL AUTHORITY
 
@@ -312,7 +318,7 @@ O presente Protocolo aplica-se a todas as categorias de autarquias locais existe
 
 ###### Artigo 7.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa:
 
 a) De qualquer assinatura;
 
@@ -327,3 +333,5 @@ e) De qualquer outro ato, notificação ou comunicação relacionados com o pres
 Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Protocolo.
 
 Feito em Utreque, em 16 de novembro de 2009, em francês e inglês, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa deverá remeter uma cópia autenticada a cada um dos Estados membros do Conselho da Europa.
+
+232019

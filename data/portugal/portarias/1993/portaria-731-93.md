@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/189b00/43404340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/731/1993/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-1993-356173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b2d793afff6b1e53e3064a041201ece26bb14beab6fd0ce967de8cb92e38eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48e9f4834335a05124ad57ae5820fca844f4228b345e59fb5be2e5aa341026bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exército
-- Gestão Financeira
-- Gestão de Material
 - Forças Armadas
-- Regulamento
+- Gestão de Material
 - Gestão de Recursos Humanos
+- Gestão Financeira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:69920323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373441:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920323:por
+  label: Revogada (a partir de 01.08.2015) a Port 563/86 de 01-out DR.IS [226] na redação da Port 286/88 de 06-mai e da presente
+    portaria, pelo(a) Decreto Regulamentar n.º 11/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2015-69920323
+  date: '2015-07-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:37Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +136,6 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 9 de Julho de 1993.**
+Assinada em 9 de Julho de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

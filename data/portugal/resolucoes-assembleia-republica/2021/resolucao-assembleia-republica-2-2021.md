@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/2/2021/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/2-2021-154945780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90658737d0934e245aee227728b7ba9be7907853bd15c966fd4f1787c4bdea9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f341d4a218101e8200b45117656b22361bfc22c5f2946b5eded31969579b21e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- EEE
-- União Europeia
 - Bruxelas
+- Convenção
 - Croácia
+- EEE
 - Mecanismo Financeiro do Espaço Económico Europeu
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:154945777:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 9/2021 - Diário da República n.º 15/2021, Série
+    I de 2021-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/9-2021-154945777
+  date: '2021-01-22'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -222,15 +228,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir
 article_structure:
-  article_count: 23
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:37Z'
   warnings: []
   errors: []
 ---
@@ -243,7 +249,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de dezembro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDOS SOB FORMA DE TROCA DE CARTAS RELATIVOS À APLICAÇÃO PROVISÓRIA DO ACORDO SOBRE A PARTICIPAÇÃO DA REPÚBLICA DA CROÁCIA NO ESPAÇO ECONÓMICO EUROPEU E À APLICAÇÃO PROVISÓRIA DO PROTOCOLO ADICIONAL AO ACORDO ENTRE O REINO DA NORUEGA E A UNIÃO EUROPEIA RELATIVO A UM MECANISMO FINANCEIRO NORUEGUÊS PARA O PERÍODO 2009-2014.
 
@@ -385,7 +391,7 @@ aa) O texto seguinte é inserido antes da versão italiana do texto da declaraç
 
 «Versão croata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf)
 
 ii) O anexo iv-B («Texto da declaração na fatura EUR-MED») é alterado do seguinte modo:
 
@@ -393,7 +399,7 @@ aa) O texto seguinte é inserido antes da versão italiana do texto da declaraç
 
 «Versão croata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01500/0000800024.pdf)
 
 - cumulation applied with ... (nome do país/países)
 
@@ -403,7 +409,7 @@ b) Ao Protocolo n.º 38-B é aditado o seguinte:
 
 «ADENDA AO PROTOCOLO N.º 38-B SOBRE O MECANISMO FINANCEIRO DO EEE PARA A REPÚBLICA DA CROÁCIA
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O Protocolo n.º 38-B aplica-se mutatis mutandis à República da Croácia.
 
@@ -411,7 +417,7 @@ b) Ao Protocolo n.º 38-B é aditado o seguinte:
 
 3 - Não obstante o disposto no n.º 1, o artigo 6.º do Protocolo n.º 38-B não é aplicável. As dotações não utilizadas da Croácia não são reafetadas a outro Estado beneficiário.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os montantes adicionais das contribuições financeiras elevam-se a 5 milhões de EUR para a República da Croácia durante o período compreendido entre 1 de julho de 2013 e 30 de abril de 2014, inclusive; estes montantes são disponibilizados para autorização numa única parcela a partir da data de entrada em vigor do Acordo sobre a participação da República da Croácia no Espaço Económico Europeu ou de um acordo no sentido de aplicar o Acordo a título provisório.»
 
@@ -431,7 +437,7 @@ b) Nos mecanismos de salvaguarda previstos nas disposições transitórias sob o
 
 O procedimento geral de tomada de decisões previsto no Acordo é igualmente aplicável às decisões adotadas pela Comissão das Comunidades Europeias nos termos do artigo 38.º do Ato de Adesão de 16 de abril de 2003 e do artigo 37.º do Ato de Adesão de 25 de abril de 2005 e do artigo 38.º do Ato de Adesão de 9 de dezembro de 2011.»
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Todas as alterações dos atos adotados pelas instituições da União Europeia incluídas no Acordo EEE, que decorram do Ato relativo às condições de adesão da República da Croácia e às adaptações do Tratado da União Europeia, do Tratado sobre o Funcionamento da União Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica (a seguir designado por «Ato de Adesão de 9 de dezembro de 2011»), são incorporadas e fazem parte integrante do Acordo EEE.
 
@@ -445,17 +451,17 @@ O procedimento geral de tomada de decisões previsto no Acordo é igualmente apl
 
 5 - Caso os atos incorporados no Acordo EEE antes da data de entrada em vigor do presente Acordo necessitem de adaptações devido à participação da nova Parte Contratante, e caso não estejam previstas no presente Acordo as adaptações necessárias, essas adaptações são tratadas em conformidade com os procedimentos estabelecidos no Acordo EEE.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - As disposições incluídas no Ato de Adesão de 9 de dezembro de 2011 mencionadas no anexo B do presente Acordo são incorporadas no Acordo EEE e fazem dele parte integrante.
 
 2 - Todas as disposições relevantes para efeitos do Acordo EEE a que é feita referência no Ato de Adesão de 9 de dezembro de 2011 que não sejam mencionadas no anexo B do presente Acordo são tratadas em conformidade com os procedimentos estabelecidos no Acordo EEE.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Qualquer das Partes no presente Acordo pode submeter ao Comité Misto do EEE eventuais questões relativas à interpretação ou à aplicação do mesmo. O Comité Misto do EEE examina essas questões com o objetivo de encontrar uma solução aceitável que permita manter o bom funcionamento do Acordo EEE.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O presente Acordo é ratificado ou aprovado pelas presentes Partes Contratantes e pela nova Parte Contratante em conformidade com os respetivos procedimentos. Os instrumentos de ratificação ou de aprovação são depositados junto do Secretariado-Geral do Conselho da União Europeia.
 
@@ -467,13 +473,15 @@ b) Protocolo Adicional do Acordo entre a Comunidade Económica Europeia e a Isl�
 
 c) Protocolo Adicional do Acordo entre a Comunidade Económica Europeia e o Reino da Noruega na sequência da adesão da República da Croácia à União Europeia.
 
-###### Artigo 7.º
+Artigo 7.º
 
 O presente Acordo, redigido num único exemplar em língua alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, islandesa, italiana, letã, lituana, maltesa, neerlandesa, norueguesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé todos os textos, é depositado junto do Secretariado-Geral do Conselho da União Europeia, que dele remete uma cópia autenticada a todos os Governos das Partes Contratantes.
 
-## ANEXO A — Lista referida no artigo 3.º do Acordo
+ANEXO A
 
-# Parte I
+Lista referida no artigo 3.º do Acordo
+
+Parte I
 
 Atos referidos no Acordo EEE alterados pelo Ato de Adesão de 9 de dezembro de 2011
 
@@ -489,7 +497,7 @@ No anexo ix («Serviços financeiros»): ponto 14 ([Diretiva 2006/48/CE](http://
 
 No anexo xx («Ambiente»): ponto 21 al ([Diretiva 2003/87/CE](http://data.europa.eu/eli/dir/2003/87/oj?locale=pt) do Parlamento Europeu e do Conselho).
 
-# Parte II
+Parte II
 
 Outras alterações aos anexos do Acordo EEE
 
@@ -553,7 +561,9 @@ No ponto 32f ([Diretiva 2000/76/CE](http://data.europa.eu/eli/dir/2000/76/oj?loc
 
 No ponto 32fa ([Diretiva 2002/96/CE](http://data.europa.eu/eli/dir/2002/96/oj?locale=pt) do Parlamento Europeu e do Conselho), a expressão «ou, consoante o caso, do Protocolo de Adesão de 25 de abril de 2005» é suprimida.
 
-## ANEXO B — Lista referida no artigo 4.º do Acordo
+ANEXO B
+
+Lista referida no artigo 4.º do Acordo
 
 Os anexos e os protocolos do Acordo EEE são alterados do seguinte modo:
 
@@ -675,9 +685,9 @@ I) Acordo sobre a participação da República da Croácia no Espaço Económico
 
 II) Os textos a seguir enumerados, que são anexados ao Acordo:
 
-## Anexo A: lista referida no artigo 3.º do Acordo;
+Anexo A: lista referida no artigo 3.º do Acordo;
 
-## Anexo B: lista referida no artigo 4.º do Acordo.
+Anexo B: lista referida no artigo 4.º do Acordo.
 
 Os plenipotenciários das presentes Partes Contratantes e os plenipotenciários da nova Parte Contratante adotaram as declarações comuns e outras declarações a seguir enumeradas e anexas da presente Ata Final:
 
@@ -767,7 +777,7 @@ Tendo em conta o Acordo sobre a Participação da República da Croácia no Espa
 
 decidiram incluir a República da Croácia no atual Mecanismo Financeiro Norueguês 2009-2014, e celebrar o presente Protocolo:
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O Acordo entre o Reino da Noruega e a União Europeia Relativo a Um Mecanismo Financeiro Norueguês para o Período 2009-2014, a seguir denominado «Acordo», aplicar-se-á mutatis mutandis à República da Croácia.
 
@@ -775,17 +785,17 @@ decidiram incluir a República da Croácia no atual Mecanismo Financeiro Noruegu
 
 3 - Não obstante o disposto no n.º 1, o artigo 6.º do Protocolo n.º 38-A não é aplicável. As dotações não utilizadas da República da Croácia não serão reafetadas a outro Estado beneficiário.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os montantes adicionais das contribuições financeiras elevam-se a 4,6 milhões de EUR para a República da Croácia durante o período compreendido entre 1 de julho de 2013 e 30 de abril de 2014, inclusive; estes montantes serão disponibilizados para autorização numa única parcela a partir da data de entrada em vigor do Acordo sobre a participação da República da Croácia no Espaço Económico Europeu ou de um acordo no sentido de aplicar o Acordo e o presente Protocolo a título provisório.
 
-###### Artigo 3.º
+Artigo 3.º
 
 O presente Protocolo será ratificado ou aprovado pelas Partes de acordo com as suas formalidades próprias. Os instrumentos de ratificação ou de aprovação são depositados junto do Secretariado-Geral do Conselho da União Europeia.
 
 O presente Protocolo entrará em vigor no dia seguinte ao do depósito do último instrumento de ratificação ou aprovação, desde que o instrumento de ratificação ou aprovação do Acordo de participação da República da Croácia no Espaço Económico Europeu tenha sido igualmente depositado.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O presente Protocolo, redigido num único exemplar em língua alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e norueguesa, fazendo fé qualquer dos textos, será depositado junto do Secretariado-Geral do Conselho da União Europeia, que remeterá cópias autenticadas a todas as Partes Contratantes.
 
@@ -805,11 +815,11 @@ Tendo em conta o atual regime em matéria de comércio de peixe e de produtos da
 
 decidiram determinar de comum acordo as adaptações a introduzir no acordo na sequência da adesão da República da Croácia à União Europeia, e celebrar o presente Protocolo:
 
-###### Artigo 1.º
+Artigo 1.º
 
 O texto do Acordo, bem como os anexos e os protocolos que dele fazem parte integrante, a Ata Final e as declarações anexas são redigidos em língua croata, fazendo estes textos igualmente fé como os textos originais. O Comité Misto aprova o texto croata.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - As disposições especiais aplicáveis às importações na União Europeia de determinados peixes e produtos da pesca originários da Islândia constam do presente Protocolo.
 
@@ -817,7 +827,7 @@ O texto do Acordo, bem como os anexos e os protocolos que dele fazem parte integ
 
 3 - Os contingentes pautais são aplicáveis a partir do dia em que a aplicação provisória do presente protocolo se torna efetiva, de acordo com os procedimentos previstos no n.º 3 do artigo 4.º, e devem estar disponíveis durante 12 meses a contar dessa data.
 
-###### Artigo 3.º
+Artigo 3.º
 
 A União abrirá os seguintes contingentes pautais anuais isentos de direitos para os produtos originários da Islândia:
 
@@ -825,7 +835,7 @@ Lagostins (Nephrops norvegicus) congelados (código NC 0306 15 90), 60 t (peso l
 
 Filetes de cantarilho (Sebastes spp.), frescos ou refrigerados (código NC 0304 49 50), 100 t (peso líquido).
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O presente Protocolo é ratificado ou aprovado pelas Partes de acordo com os procedimentos respetivos. Os instrumentos de ratificação ou de aprovação são depositados junto do Secretariado-Geral do Conselho da União Europeia.
 
@@ -839,7 +849,7 @@ iii) Protocolo Adicional do Acordo entre a Comunidade Económica Europeia e o Re
 
 3 - Enquanto se aguarda a conclusão dos procedimentos referidos nos n.os 1 e 2, o presente Protocolo é aplicado a título provisório a partir do 1.º dia do 3.º mês seguinte à data do depósito da última notificação para o efeito.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O presente Protocolo, redigido num único exemplar em língua alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e islandesa, fazendo fé qualquer dos textos, será depositado junto do Secretariado-Geral do Conselho da União Europeia, que remeterá cópias autenticadas a todas as Partes Contratantes.
 
@@ -859,11 +869,11 @@ Tendo em conta o atual regime em matéria de comércio de peixe e de produtos da
 
 decidiram determinar de comum acordo as adaptações a introduzir no acordo na sequência da adesão da República da Croácia à União Europeia, e celebrar o presente Protocolo:
 
-###### Artigo 1.º
+Artigo 1.º
 
 O texto do Acordo, bem como os anexos e os protocolos que dele fazem parte integrante, a Ata Final e as declarações anexas são redigidos em língua croata, fazendo estes textos igualmente fé como os textos originais. O Comité Misto aprova o texto croata.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - As disposições especiais aplicáveis às importações na União Europeia de determinados peixes e produtos da pesca originários da Noruega constam do presente Protocolo.
 
@@ -873,13 +883,13 @@ O texto do Acordo, bem como os anexos e os protocolos que dele fazem parte integ
 
 4 - As regras de origem aplicáveis aos contingentes pautais previstos no artigo 3.º serão as definidas no Protocolo n.º 3 do Acordo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 A Comunidade abrirá os seguintes novos contingentes pautais suplementares isentos de direitos:
 
 Arenques, com especiarias, e/ou vinagre, em salmoura (códigos NC ex 1604 12 91, ex 1604 12 99) 1400 t (peso líquido escorrido).
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O presente Protocolo será ratificado ou aprovado pelas Partes de acordo com os procedimentos respetivos. Os instrumentos de ratificação ou de aprovação são depositados junto do Secretariado-Geral do Conselho da União Europeia.
 
@@ -893,6 +903,8 @@ iii) Protocolo Adicional do Acordo entre a Comunidade Económica Europeia e a Is
 
 3 - Enquanto se aguarda a conclusão das formalidades referidas nos n.os 1 e 2, o presente Protocolo é aplicado a título provisório a partir do 1.º dia do 3.º mês seguinte à data do depósito da última notificação para o efeito.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O presente Protocolo, redigido num único exemplar em língua alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e norueguesa, fazendo fé qualquer dos textos, será depositado junto do Secretariado-Geral do Conselho da União Europeia, que remeterá cópias autenticadas a todas as Partes Contratantes.
+
+113891155

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/1993/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1993-678801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 853dd7fc8917cba35b6c46f6977de0d0bbdfb4b6fa0eda9bc8b6b5e625319b0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f196f90776ac6abb7c763048124fb9d14a55f4b90f513d1db20059b8967b2bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,70 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 97/93 DE 27-MAI DR.IS-B [126]4SUPL DE 31/MAI/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 268/94 DE 05-MAI DR.IS-B [104]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-05'
+- type: amended_by
+  target: pt:dre:177781:por
+  label: "Alterado o quadro de pessoal pela PORT.635/96.1996.11.07.PCM, DR.IS-B [258]]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1996-177781
+  date: '1996-11-07'
+- type: amended_by
+  target: pt:dre:197478:por
+  label: "Alterado o quadro de pessoal, com as alterações que lhe foram introduzidas, pela PORT.178/98.1998.03.18.PCM, DR.IS-B\
+    \ [65]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-1998-197478
+  date: '1998-03-18'
+- type: amended_by
+  target: pt:dre:692215:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Ports 268/94 de 05-Mai, 538/95 de 03-Jun,\
+    \ 635/96 de 07-Nov e 178/98 de 18-Mar, pela PORT.937/99.1999.10.27.PCM, DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/937-1999-692215
+  date: '1999-10-27'
+- type: amended_by
+  target: pt:dre:552844:por
+  label: "Alterado o quadro de pessoal pela PORT.917/2000.2000.10.02.MF DR.IS-B [228] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/917-2000-552844
+  date: '2000-10-02'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital da Senhora da Oliveira - Guimarães aprovado pelo presente diploma pela\
+    \ PORT.1374/2002.2002.10.22.MF,DR.IS-B [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:58Z'
   warnings: []
   errors: []
 ---
@@ -113,35 +167,35 @@ a) Repartição de Pessoal, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Secretaria;
+Secção de Secretaria;
 
 b) Repartição de Admissão de Doentes, com:
 
 #### Secção de Doentes;
 
-#### Secção de Arquivo Clínico e Estatística;
+Secção de Arquivo Clínico e Estatística;
 
 c) Repartição de Contabilidade, com:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 d) Repartição de Aprovisionamento, com:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 15 de Fevereiro de 1993.**
+Assinada em 15 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Guimarães
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/071b00/14661471.pdf))](https://files.diariodarepublica.pt/1s/1993/03/071b00/14661471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/071b00/14661471.pdf)
 
 ## ANEXO I — Carreira de pessoal técnico-profissional de nível 4
 

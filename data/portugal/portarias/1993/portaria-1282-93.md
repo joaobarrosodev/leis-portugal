@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1282/1993/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1282-1993-539858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6da0c8ea3bfbf903a225700c3891535521e1bcd0c0b0f61d0a41c73691246c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ff2d67ee0157bb6875bfdcd77f5ce2bab114b7fa9bedbd1961b136d9afd0916
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,32 @@ reuse:
 subjects:
 - Administração de Portos
 - Instituto do Trabalho Portuário
-- Receita Própria
 - Portos
+- Receita Própria
 - Tarifa Portuária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/356/1993/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/356/1993/10/09/p/dre
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669802:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:37Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +114,6 @@ Manda o Governo, pelos Ministros das Finanças e do Mar, o seguinte:
 
 Ministérios das Finanças e do Mar.
 
-**Assinada em 24 de Novembro de 1993.**
+Assinada em 24 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

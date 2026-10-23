@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/865/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1993-660309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cc0f146429212fea97e1461cab603b4c50b9518d28eb5697fe32bf783f21421
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8b36e99bd36da2fb1af1c3bce4644189698e05f82c3aa9657426a9385268bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Ciência e Tecnologia
 - Escola Superior de Desenvolvimento Social e Comunitário
 - Instituto Superior Politécnico GAYA
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:240806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240806:por
+  label: "Determinada, nos termos do art. 3.º da Port 343/2003, a caducidade do bacharelato em Turismo cujo funcionamento\
+    \ foi autorizado pela Port 1061/91, de 18-Out DR.IS [241] na redacção da Port 1160/92, e do presente diploma, pela PORT.343/2003.2003.04.29.MCES\
+    \ DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-2003-240806
+  date: '2003-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1160/1992/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1160/1992/12/16/p/dre
+- type: cites
+  target: pt:dre:565457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:58Z'
   warnings: []
   errors: []
 ---
@@ -120,19 +139,19 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 12 de Agosto de 1993.**
+Assinada em 12 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Escola Superior de Desenvolvimento Social e Comunitário
 
 Curso superior de Património e Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
 
 Curso superior de Administração Pública, Regional e Local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
 
 No curso superior de Turismo, 2.º ano, 1.º semestre, onde se lê «Economia do Turismo» deve ler-se «Economia do Turismo I».
 
@@ -140,7 +159,7 @@ Escola Superior de Ciência e Tecnologia
 
 Curso superior de Contabilidade e Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49354937.pdf)
 
 No curso superior de Engenharia Electrónica e de Automação, 2.º ano, 1.º semestre, onde se lê «Máquinas Eléctricas» deve ler-se «Máquinas Eléctricas I».
 

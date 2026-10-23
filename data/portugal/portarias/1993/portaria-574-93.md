@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/130b00/30133017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/574/1993/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1993-260148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ca30f4f4be49a7dc28e51c895d3becad2613549add34245e3666e885d7426c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8470b8612b6f46fc7568f3eb4bc186ea7f031771ada19a7a7fc1f4ea2b0eb42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
 - CEE
 - Controlo Sanitário
+- GADO
 - Importação
 - Instituto de Protecção da Produção Agro-Alimentar
 - Legislação Veterinária
@@ -99,16 +99,21 @@ relationships:
   target: celex:31991L0628
   label: null
   source: http://data.europa.eu/eli/dir/1991/628/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:19Z'
   warnings: []
   errors: []
 ---
@@ -127,23 +132,23 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, que se
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 10 de Maio de 1993.**
+Assinada em 10 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
 
-## Anexo a que se refere a Portaria n.º 574/93
+Anexo a que se refere a Portaria n.º 574/93
 
 Regulamento dos Controlos Veterinários de Animais Provenientes de Países Terceiros
 
 #### SECÇÃO I — Disposições iniciais
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece o regime dos controlos veterinários aplicáveis aos animais provenientes de países terceiros.
+Artigo 1.º - 1 - O presente Regulamento estabelece o regime dos controlos veterinários aplicáveis aos animais provenientes de países terceiros.
 
 2 - Excluem-se do âmbito de aplicação deste Regulamento os animais de estimação e de companhia, com excepção dos equídeos que acompanhem viajantes, desde que sem fins lucrativos.
 
 3 - O disposto neste Regulamento não prejudica as obrigações decorrentes da aplicação da legislação aduaneira.
 
-###### Art. 2.º Para efeitos do presente Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, e, ainda, as seguintes:
+Art. 2.º Para efeitos do presente Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, e, ainda, as seguintes:
 
 a) Controlo documental: verificação dos certificados ou documentos veterinários que acompanham o animal;
 
@@ -163,7 +168,7 @@ h) Veterinário oficial: o veterinário designado pela autoridade central compet
 
 #### SECÇÃO II — Organização e sequência dos controlos
 
-###### Art. 3.º - 1 - Os importadores são obrigados a comunicar ao posto de inspecção fronteiriço em que os animais serão apresentados a sua quantidade e natureza, bem como a data previsível de chegada, com a antecedência mínima de um dia útil.
+Art. 3.º - 1 - Os importadores são obrigados a comunicar ao posto de inspecção fronteiriço em que os animais serão apresentados a sua quantidade e natureza, bem como a data previsível de chegada, com a antecedência mínima de um dia útil.
 
 2 - Os animais serão conduzidos directamente sob controlo oficial ao posto de inspecção fronteiriço ou, se for esse o caso, a uma das estações de quarentena, em conformidade com a alínea b) do n.º 1 do artigo 10.º
 
@@ -175,7 +180,7 @@ b) As despesas dos controlos veterinários foram pagas e de que, se for caso dis
 
 4 - A autoridade aduaneira só autorizará a introdução em livre prática nos territórios contemplados no anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt) se, sem prejuízo de disposições específicas que venham a ser adoptadas de acordo com o procedimento comunitariamente previsto, for apresentada prova de que se encontram satisfeitos os requisitos referidos no número anterior.
 
-###### Art. 4.º - 1 - Cada lote de animais proveniente de países terceiros será submetido pelo IPPAA a um controlo documental e a um controlo de identidade, num posto de inspecção fronteiriço aprovado para o efeito, independentemente do destino aduaneiro desses animais, a fim de verificar:
+Art. 4.º - 1 - Cada lote de animais proveniente de países terceiros será submetido pelo IPPAA a um controlo documental e a um controlo de identidade, num posto de inspecção fronteiriço aprovado para o efeito, independentemente do destino aduaneiro desses animais, a fim de verificar:
 
 a) A sua origem;
 
@@ -203,7 +208,7 @@ d) A verificação do cumprimento dos requisitos da Portaria n.º 761/90, de 29 
 
 7 - As despesas decorrentes da aplicação deste artigo ficam a cargo do expedidor, do destinatário ou do seu mandatário, não havendo lugar a qualquer indemnização.
 
-###### Art. 5.º A introdução de animais nos territórios referidos no anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt) é proibido quando esses controlos revelarem que:
+Art. 5.º A introdução de animais nos territórios referidos no anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt) é proibido quando esses controlos revelarem que:
 
 a) Os animais das espécies para as quais tenham sido harmonizadas as regras que regem as importações provêm, sem prejuízo das condições específicas previstas para os equídeos no artigo 19.º da Directiva n.º [90/426/CEE](http://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho, de 18 de Agosto, do território ou de uma parte do território de um país terceiro que não figure nas listas elaboradas nos termos da regulamentação comunitária para as espécies consideradas ou relativamente ao qual ou à qual as importações que daí provenham estejam proibidas por decisão comunitária;
 
@@ -217,7 +222,7 @@ e) Os animais não se encontram aptos a prosseguir viagem;
 
 f) O certificado ou documento veterinário que acompanha os animais não está conforme com as condições fixadas em aplicação da regulamentação comunitária ou, na ausência de regras harmonizadas, com as exigências previstas pela regulamentação nacional correspondente aos diferentes casos previstos pelo presente diploma.
 
-###### Art. 6.º Qualquer posto de inspecção fronteiriço deve:
+Art. 6.º Qualquer posto de inspecção fronteiriço deve:
 
 a) Estar situado no ponto de entrada de um dos territórios a que se refere o anexo I da Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt), podendo, no entanto, haver afastamento do ponto de entrada, quando tal afastamento se torne necessário, em virtude dos condicionalismos geográficos, desde que o posto de inspecção se situe num local afastado de explorações ou de locais onde se encontrem animais susceptíveis de serem infectados por doença contagiosa;
 
@@ -227,7 +232,7 @@ c) Ter sido aprovado de acordo com o anexo A;
 
 d) Ser colocado sob a responsabilidade de um veterinário oficial que assuma a responsabilidade dos controlos, podendo aquele ser assistido por auxiliares qualificados para o efeito e colocados sob a sua responsabilidade.
 
-###### Art. 7.º - 1 - Sempre que os animais das espécies para as quais tenham sido harmonizadas a nível comunitário as regras de importação não se destinem a ser introduzidos no mercado no território nacional, o veterinário oficial responsável pelo posto de inspecção fronteiriço, sem prejuízo das exigências específicas aplicáveis aos equídeos registados e acompanhados do documento de identificação previsto na Portaria n.º 272/92, de 31 de Março:
+Art. 7.º - 1 - Sempre que os animais das espécies para as quais tenham sido harmonizadas a nível comunitário as regras de importação não se destinem a ser introduzidos no mercado no território nacional, o veterinário oficial responsável pelo posto de inspecção fronteiriço, sem prejuízo das exigências específicas aplicáveis aos equídeos registados e acompanhados do documento de identificação previsto na Portaria n.º 272/92, de 31 de Março:
 
 a) Fornecerá ao interessado uma ou, em caso de fraccionamento do lote, várias cópias autenticadas dos certificados relativos aos animais, ficando o prazo de validade dessas cópias limitado a 10 dias;
 
@@ -243,7 +248,7 @@ a) Se os animais se destinam a um Estado membro ou a uma região com exigências
 
 b) Se foram efectuadas colheitas de amostras, não se conhecendo, porém, os resultados no momento em que o meio de transporte saiu do posto de inspecção fronteiriço.
 
-###### Art. 8.º - 1 - Os controlos veterinários de importação de animais das espécies não contempladas no anexo A da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) obedecem às seguintes condições:
+Art. 8.º - 1 - Os controlos veterinários de importação de animais das espécies não contempladas no anexo A da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) obedecem às seguintes condições:
 
 a) Caso os animais sejam directamente apresentados num dos postos de inspecção fronteiriços do Estado membro que pretende proceder às importações, aí deverão ser sujeitos ao conjunto dos controlos previstos no artigo 4.º;
 
@@ -287,7 +292,7 @@ e) Devem, após a passagem pelo posto de inspecção fronteiriço, ser encaminha
 
 9 - Os animais de abate ficarão sujeitos, no matadouro de destino, às regras comunitárias relativas ao abate das espécies em causa.
 
-###### Art. 9.º - 1 - O transporte dos animais provenientes de um país terceiro com destino a outro país terceiro só é autorizado desde que:
+Art. 9.º - 1 - O transporte dos animais provenientes de um país terceiro com destino a outro país terceiro só é autorizado desde que:
 
 a) Esse transporte seja previamente autorizado pelo veterinário oficial do posto de inspecção fronteiriço do Estado membro em cujo território os animais devem ser apresentados para efeitos dos controlos previstos no artigo 4.º e, se for caso disso, pela autoridade central competente do ou dos Estados membros de trânsito;
 
@@ -301,7 +306,7 @@ e) Em caso de travessia de um dos territórios a que se refere o anexo I da Dire
 
 2 - Todas as despesas ocasionadas pela aplicação do presente artigo ficarão a cargo do expedidor, do destinatário ou do seu mandatário, sem indemnização por parte do Estado.
 
-###### Art. 10.º - 1 - No caso de a regulamentação comunitária ou, nos domínios ainda não harmonizados, a regulamentação nacional do local de destino preverem a colocação em quarentena de animais vivos, esta pode efectuar-se:
+Art. 10.º - 1 - No caso de a regulamentação comunitária ou, nos domínios ainda não harmonizados, a regulamentação nacional do local de destino preverem a colocação em quarentena de animais vivos, esta pode efectuar-se:
 
 a) No caso de doenças que não a febre aftosa, raiva ou doença de Newcastle, numa estação de quarentena situada no país terceiro de origem, desde que tal estação tenha sido aprovada segundo o procedimento comunitariamente previsto e seja submetida a um controlo regular por parte dos peritos veterinários da Comissão das Comunidades Europeias (Comissão);
 
@@ -323,9 +328,9 @@ c) Numa estação de quarentena situada na proximidade da exploração de destin
 
 5 - Todas as despesas ocasionadas pela aplicação do presente artigo ficarão a cargo do expedidor, do destinatário ou do seu mandatário, sem indemnização por parte do Estado.
 
-###### Art. 11.º Sem prejuízo do disposto nesta secção, o veterinário oficial, ou a autoridade competente, em caso de suspeita de não observância da legislação veterinária, ou em caso de dúvidas quanto à identidade do animal, procederá a todos os controlos veterinários que julgar conveniente efectuar.
+Art. 11.º Sem prejuízo do disposto nesta secção, o veterinário oficial, ou a autoridade competente, em caso de suspeita de não observância da legislação veterinária, ou em caso de dúvidas quanto à identidade do animal, procederá a todos os controlos veterinários que julgar conveniente efectuar.
 
-###### Art. 12.º - 1 - Quando os controlos previstos no presente Regulamento revelarem que um animal não satisfaz as condições impostas pela regulamentação comunitária ou nacional, nos domínios ainda não harmonizados, ou que houve uma irregularidade, a autoridade competente decidirá, após consultar o importador ou seu representante:
+Art. 12.º - 1 - Quando os controlos previstos no presente Regulamento revelarem que um animal não satisfaz as condições impostas pela regulamentação comunitária ou nacional, nos domínios ainda não harmonizados, ou que houve uma irregularidade, a autoridade competente decidirá, após consultar o importador ou seu representante:
 
 a) Alojar, alimentar e dessedentar os animais, ordenando, se for caso disso, o seu tratamento;
 
@@ -351,11 +356,11 @@ b) Deve, caso contrário, ordenar o abate dos animais, com vista a outras utiliz
 
 5 - O produto da venda dos produtos referidos na alínea a) do n.º 3 reverte para o proprietário dos animais ou para o seu mandatário, depois de deduzidas as despesas citadas no número anterior.
 
-###### Art. 13.º Para efeitos de execução dos controlos referidos no n.º 2 do artigo 7.º, a identificação e o registo previsto na alínea c) do n.º 1 do artigo 3.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) devem, com excepção dos animais destinados a abate e dos equídeos registados, ser efectuados no local de destino dos animais, eventualmente após o período de observação previsto no n.º 8 do artigo 8.º
+Art. 13.º Para efeitos de execução dos controlos referidos no n.º 2 do artigo 7.º, a identificação e o registo previsto na alínea c) do n.º 1 do artigo 3.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) devem, com excepção dos animais destinados a abate e dos equídeos registados, ser efectuados no local de destino dos animais, eventualmente após o período de observação previsto no n.º 8 do artigo 8.º
 
-###### Art. 14.º Sem prejuízo dos controlos de bem-estar efectuados durante o transporte, pode ser aplicada, em conformidade com o procedimento comunitariamente previsto, uma frequência reduzida de controlo de identidade ou controlos físicos em certas condições e, nomeadamente, em função dos resultados dos controlos anteriores à adopção do presente Regulamento.
+Art. 14.º Sem prejuízo dos controlos de bem-estar efectuados durante o transporte, pode ser aplicada, em conformidade com o procedimento comunitariamente previsto, uma frequência reduzida de controlo de identidade ou controlos físicos em certas condições e, nomeadamente, em função dos resultados dos controlos anteriores à adopção do presente Regulamento.
 
-###### Art. 15.º - 1 - O presente Regulamento não prejudica os meios de recurso contra as decisões das autoridades competentes previstos na legislação em vigor.
+Art. 15.º - 1 - O presente Regulamento não prejudica os meios de recurso contra as decisões das autoridades competentes previstos na legislação em vigor.
 
 2 - As decisões tomadas pela DGP devem ser comunicadas, com indicação dos respectivos motivos, ao importador ou seu mandatário.
 
@@ -363,7 +368,7 @@ b) Deve, caso contrário, ordenar o abate dos animais, com vista a outras utiliz
 
 #### SECÇÃO III — Medidas de salvaguarda
 
-###### Art. 16.º - 1 - Se no território de um país terceiro se manifestar ou se propagar uma doença prevista na Portaria n.º 768/91, de 6 de Agosto, relativa à notificação de doenças dos animais na Comunidade, uma zoonose, uma doença ou causa susceptível de constituir perigo grave para os animais ou a saúde humana, ou se qualquer outra razão grave de polícia sanitária o justificar, o IPPAA pode pedir à Comissão, sem prejuízo de esta poder agir por sua própria iniciativa, que esta adopte sem demora, e em função da gravidade da situação, uma das seguintes medidas:
+Art. 16.º - 1 - Se no território de um país terceiro se manifestar ou se propagar uma doença prevista na Portaria n.º 768/91, de 6 de Agosto, relativa à notificação de doenças dos animais na Comunidade, uma zoonose, uma doença ou causa susceptível de constituir perigo grave para os animais ou a saúde humana, ou se qualquer outra razão grave de polícia sanitária o justificar, o IPPAA pode pedir à Comissão, sem prejuízo de esta poder agir por sua própria iniciativa, que esta adopte sem demora, e em função da gravidade da situação, uma das seguintes medidas:
 
 a) Suspensão das importações provenientes da totalidade ou parte do país terceiro em questão e, eventualmente, do país terceiro de trânsito;
 
@@ -375,7 +380,7 @@ a) Apreensão e destruição do lote em causa;
 
 b) Informação imediata dos demais postos de inspecção fronteiriços e da Comissão sobre os factos constatados e a origem dos animais.
 
-###### Art. 17.º - 1 - Sempre que, na sequência dos resultados dos controlos realizados no local de comercialização dos animais, o IPPAA considerar que as disposições do presente diploma não são observadas num posto de inspecção fronteiriço de outro Estado membro, deve imediatamente entrar em contacto com a autoridade nacional competente deste último, a fim de esta tomar todas as medidas necessárias e comunicar ao IPPAA a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
+Art. 17.º - 1 - Sempre que, na sequência dos resultados dos controlos realizados no local de comercialização dos animais, o IPPAA considerar que as disposições do presente diploma não são observadas num posto de inspecção fronteiriço de outro Estado membro, deve imediatamente entrar em contacto com a autoridade nacional competente deste último, a fim de esta tomar todas as medidas necessárias e comunicar ao IPPAA a natureza dos controlos efectuados, as decisões tomadas e os motivos das mesmas.
 
 2 - Caso as medidas tomadas em conformidade com o n.º 1 não se revelem suficientes, o IPPAA procurará, com a autoridade competente do outro Estado membro, as formas e os meios de solucionar a situação, se necessário mediante uma visita ao local.
 

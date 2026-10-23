@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/681/1993/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-1993-393823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa3bcb1b82e62dfef7df3cd773f91e54df99bbd1108281f5d76b95cb937dcf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955bd83ac54be7f7b025b347e5d1d9a1cd87fe4ad37f7af2a948678c039746ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Estoril
-- Política de Solos
-- Plano de Urbanização
-- Regulamento
 - Cascais
+- Estoril
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:11Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +127,15 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 11 de Junho de 1993.**
+Assinada em 11 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor - Residência de 3.ª Idade - GREI, Lda.
 
-###### Artigo 1.º O presente Regulamento define e disciplina a construção e a utilização de um conjunto habitacional a realizar num terreno localizado no gaveto da Rua do Alentejo com a Rua do Algarve, no Monte Estoril, e onde se encontra implantada a antiga residência do ex-rei Carol da Roménia.
+Artigo 1.º O presente Regulamento define e disciplina a construção e a utilização de um conjunto habitacional a realizar num terreno localizado no gaveto da Rua do Alentejo com a Rua do Algarve, no Monte Estoril, e onde se encontra implantada a antiga residência do ex-rei Carol da Roménia.
 
-###### Art. 2.º - 1 - O conjunto habitacional referido no artigo anterior será composto por cinco pequenos edifícios dispostos ao longo do amplo logradouro do lado norte e poente do terreno e destina-se a proporcionar assistência a pessoas que, estando na 3.ª idade e sem grande apoio familiar, necessitem de encontrar um espaço habitacional onde encontrem um ambiente de lazer e conforto.
+Art. 2.º - 1 - O conjunto habitacional referido no artigo anterior será composto por cinco pequenos edifícios dispostos ao longo do amplo logradouro do lado norte e poente do terreno e destina-se a proporcionar assistência a pessoas que, estando na 3.ª idade e sem grande apoio familiar, necessitem de encontrar um espaço habitacional onde encontrem um ambiente de lazer e conforto.
 
 2 - A construção dos edifícios mencionados no número anterior terá de ser realizada de modo a preservar exteriormente a moradia existente, não elevando a cércea dos edifícios a construir, por forma a deixar a moradia em evidência e completamente desafogada.
 
@@ -139,7 +151,7 @@ As guardas de varandas com o mesmo pormenor.
 
 As paredes exteriores serão duplas com caixa de ar e isoladas com placas de esferovite de espessura adequada.
 
-###### Art. 3.º - 1 - A construção e utilização dos edifícios terá de obedecer ao seguinte:
+Art. 3.º - 1 - A construção e utilização dos edifícios terá de obedecer ao seguinte:
 
 a) Número máximo de pisos - 2;
 
@@ -149,7 +161,7 @@ Piso à cota 40.90 - estacionamento automóvel;
 
 Piso à cota 43.50 - 3 T2, estacionamento automóvel e serviços;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)
 
 Piso à cota 46.50 - 4 T2, serviços de apoio, lazer e estar;
 
@@ -161,14 +173,14 @@ Piso à cota 52.50 - 4 T2 + 8 T1;
 
 c) Área de pavimentos e usos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)
 
 2 - Os edifícios a construir ficarão ligados entre si e a moradia existente, estabelecendo-se uma identidade de escala e volumes com esta última, de forma a proporcionar um enquadramento adequado que a liberte e destaque de todo o conjunto.
 
-###### Art. 4.º A moradia existente integrará as áreas destinadas a espaço de lazer, convívio e de serviços.
+Art. 4.º A moradia existente integrará as áreas destinadas a espaço de lazer, convívio e de serviços.
 
-###### Art. 5.º O conjunto habitacional será completado por espaços subterrâneos destinados a serviços e parqueamento, com capacidade para 39 viaturas.
+Art. 5.º O conjunto habitacional será completado por espaços subterrâneos destinados a serviços e parqueamento, com capacidade para 39 viaturas.
 
-###### Art. 6.º Na realização do conjunto habitacional procurar-se-á garantir a manutenção da arborização existente, ficando desde já proibido o abate de um pinheiro-manso existente no terreno, com uma copa em umbrela, com certa de 18 m de diâmetro.
+Art. 6.º Na realização do conjunto habitacional procurar-se-á garantir a manutenção da arborização existente, ficando desde já proibido o abate de um pinheiro-manso existente no terreno, com uma copa em umbrela, com certa de 18 m de diâmetro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf))](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/169b00/39203921.pdf)

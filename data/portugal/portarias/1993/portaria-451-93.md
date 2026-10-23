@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/451/1993/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-1993-300211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07314f39225c66bd49e7ea9a4615de1170b71cecc594a4bf7715352ecd244c6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd720ba6c39fde58feb7b2ca9f5e637bb4d6045f658e2a874b4ea9b710d89cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,16 +105,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/452/1993/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/452/1993/04/29/p/dre
+- type: cites
+  target: pt:dre:156852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674632:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:56:20Z'
   warnings: []
   errors: []
 ---
@@ -141,14 +197,14 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 29 de Março de 1993.**
+Assinada em 29 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa I anexo à Portaria n.º 451/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf))](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf)
 
 Mapa II anexo à [Portaria n.º 452/93](https://diariodarepublica.pt/dr/detalhe/portaria/452-1993-300212)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf))](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/100b00/21792180.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/257/1993/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1993-629145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457c2e80d54f9d424d359ffb85b35e3b7962848386371c3133370d4074c74f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ed4e3d477bd7f2f198f5c78126da8477da9f756e8f1521664c379152ae1256b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,35 @@ relationships:
   target: pt:dre:138550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138550:por
+  label: "Substituído, no que se refere às carreiras docente e de serviços gerais, o quadro de pessoal da Escola Superior\
+    \ de Enfermagem de Maria Fernanda Resende, aprovado pela Portaria n.º 652/87, de 25 de Julho, e posteriormente alterado\
+    \ no presente diploma, pela PORT.112/95.03.02.1995.MF, DR.IS-B [29] de 03.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/112-1995-138550
+  date: '1995-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:420589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:43Z'
   warnings: []
   errors: []
 ---
@@ -107,10 +122,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Fevereiro de 1993.**
+Assinada em 1 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal da Escola Superior de Enfermagem de Maria Fernanda Resende
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/055b00/10351035.pdf))](https://files.diariodarepublica.pt/1s/1993/03/055b00/10351035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/055b00/10351035.pdf)

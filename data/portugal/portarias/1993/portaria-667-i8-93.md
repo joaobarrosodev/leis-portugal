@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(162) a 3838-(162)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/01620162.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-i8/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-i8-1993-402121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb73606a41ed9d61b7596eaa3659917066655c93b45eb13bf7a20e270237b754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40589cfd61ccf2a48c46b90c2c4f969f77ff2de422a6239cab1dcaf9a541c3e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:641375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315147:por
+  label: "Suspensa pelo prazo de 180 dias a actividade cinegética na zona de caça turística concessionada pelo presente diploma,\
+    \ PORT.60/2001.2001.01.30.MADRP DR.IS-B [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-2001-315147
+  date: '2001-01-30'
+- type: amended_by
+  target: pt:dre:376236:por
+  label: "Renovado, por um período de 6 anos, a concessão de caça turística atribuída pelo presente diploma, pela PORT.1199-B/2001.2001.10.16.MECO\
+    \ DR.IS-B [240]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1199-b-2001-376236
+  date: '2001-10-16'
+- type: amended_by
+  target: pt:dre:641375:por
+  label: "Extinta a zona de caça criada e concessionada no presente diploma pela PORT.1051/2007.03.09.2007.MAOTDR, DR.IS [169]\
+    \ de 03.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-2007-641375
+  date: '2007-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
@@ -81,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/333/1993/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/333/1993/03/20/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:41Z'
   warnings: []
   errors: []
 ---
@@ -129,8 +171,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/01620162.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/01620162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01620162.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/585/1993/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1993-260907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a5a12feb0ac6e8ecb8181763a5aff265e1f3c9e254b01ab7507ed403c45e710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b797f3995cd29ee2c2755a55411f2c51d959bd0ec18ca3094c1410bb12622f7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,50 @@ reuse:
 subjects:
 - Celorico de Basto
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:73160803:por
+  label: Tornada pública a aprovação pela Assembleia Municipal de Celorico de Basto da alteração do Regulamento do Plano de
+    Pormenor da Zona Industrial de Celorico de Basto pelo(a) Aviso n.º 446/2016 - Diário da República n.º 10/2016, Série II
+    de 2016-01-15, que o republicou em anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/446-2016-73160803
+  date: '2016-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:75575785:por
+  label: Tornada pública a correção material, com alteração e republicação do anexo ao Regulamento e da Planta de Implantação,
+    do Plano de Pormenor da Zona Industrial de Celorico de Basto, publicado pelo AV 416/2016 de 15-jan, pelo(a) Declaração
+    n.º 140/2016 - Diário da República n.º 203/2016, Série II de 2016-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/140-2016-75575785
+  date: '2016-10-21'
 article_structure:
   article_count: 13
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:34Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +133,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Abril de 1993.**
+Assinada em 20 de Abril de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Plano de Pormenor da Zona Industrial de Celorico de Basto
 
@@ -233,4 +259,4 @@ Estas áreas constituem áreas públicas a ajardinar ou arborizar que interessam
 
 Todos os casos omissos que suscitem dúvidas e não estejam contidos no articulado do presente regulamento serão resolvidos de acordo com a legislação em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf))](https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf)

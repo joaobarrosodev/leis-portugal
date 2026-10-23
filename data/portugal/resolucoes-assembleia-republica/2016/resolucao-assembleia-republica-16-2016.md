@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01900/0025200252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16/2016/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2016-73318734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44ca9b313137ee0d955b1fbafd814752b867a4f28f5bdc09fbeea92e15fef8d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b90d92aa85825622cb225540295d7da93321e907d61b864b85e2bf06c6b88b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Banif
 - Banif-banco Internacional do Funchal
 - Comissão Parlamentar
 - Inquérito Parlamentar
-- Assembleia da República
 - Venda
 relationships:
 - type: amended_by
   target: pt:dre:74604808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74604808:por
+  label: Prorrogado, por mais 60 dias, o prazo de funcionamento da Comissão Parlamentar de Inquérito pelo(a) Resolução da
+    Assembleia da República n.º 103/2016 - Diário da República n.º 109/2016, Série I de 2016-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/103-2016-74604808
+  date: '2016-06-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -92,13 +98,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:31Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +131,4 @@ f) Avaliar o comportamento da autoridade de supervisão e as condições de exer
 
 Aprovada em 22 de janeiro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

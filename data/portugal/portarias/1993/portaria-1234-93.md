@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/281b00/67346736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1234/1993/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1234-1993-551637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d897076ac12383243cb7844649e4778e0331127282b9776132b77825335f00d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36c543e8637a9bfaa13594fd0980b8353a9fdaf52f0cfcaf42a32a25d7a36737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Évora
 - Ordenamento do Território
+- Plano de Pormenor
 - Plano Director Municipal
 - Política de Solos
-- Plano de Pormenor
 - Regulamento
-- Évora
 relationships:
+- type: amended_by
+  target: pt:dre:1336883:por
+  label: Tornado público ter a Assembleia Municipal de Évora, em 29.11.2012, aprovado a alteração ao regulamento do Plano
+    Director Municipal de Évora, ratificado pela Port 5/85 de 02-jan, com as alterações introduzidas pelo presente diploma,
+    pelo AV.2174/2013.12.02.2013.MÉVORA, DR.IIS [30] de 12.02.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2174-2013-1336883
+  date: '2013-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:28Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +131,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 24 de Outubro de 1993.**
+Assinada em 24 de Outubro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
@@ -240,4 +259,4 @@ Estejam em conformidade com as prescrições do Plano Director Municipal;
 
 Mereçam aprovação dos órgãos competentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/281b00/67346736.pdf))](https://files.diariodarepublica.pt/1s/1993/12/281b00/67346736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/281b00/67346736.pdf)

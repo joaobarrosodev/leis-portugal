@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/265b00/63396340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1185/1993/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1185-1993-690188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff61e40f489b22f6b772c69b1bf99bed9fda0c5aae8bad8025e25db70327234a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e88d815c5d0ed6156432269f439f3990dc9b8ee22b452434e257a617443e2ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Civil
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:388588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198080:por
+  label: "Alterado o plano de estudos constante do anexo I e revogado o n.º 3, pela PORT.685/96.21.11.1996.ME, DR.IS-B [270]\
+    \ de 21.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/685-1996-198080
+  date: '1996-11-21'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388588:por
+  label: "Revogada, findo o prazo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de\
+    \ 17-Jul, pela PORT.448/99.1999.06.19.ME,DR.IS-B [141].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1999-388588
+  date: '1999-06-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:13Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +178,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
 Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63396340.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63396340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63396340.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/823/1993/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/823-1993-626646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b449095ad3c66f492cc69e79b658dacfe45da74c794f0f0f17eb17c0febfa6bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0634d5d521a8d51a2d307c943a7f6062c14833614ad4605a1848affc0b68bcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - CAÇA
 - Parque Natural da Ria Formosa
+- Proteção dos Animais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:498153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:52Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +119,6 @@ Manda o Governo, pela Ministra do Ambiente e Recursos Naturais, o seguinte:
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 25 de Agosto de 1993.**
+Assinada em 25 de Agosto de 1993.
 
 Pela Ministra do Ambiente e Recursos Naturais, António Manuel Taveira da Silva, Secretário de Estado dos Recursos Naturais.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22700/0419604198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/231/2016/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/231-2016-75796637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 807d11e2dc5efb12e731a6f551c54baf1a7bdacbc21d4cf719bcc69011096690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a87279194bb835edde15c9bc08f466f7ec7e4e31ad928fc46151167b83af00ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos do Homem
 - Convenção
+- Direitos do Homem
+- Direitos do Indivíduo
 - Direitos e Liberdades
 - Estrasburgo
-- Direitos do Indivíduo
 relationships:
+- type: amended_by
+  target: pt:dre:75796634:por
+  label: Ratificado o Protocolo n.º 15 que altera a Convenção para a Proteção dos Direitos Humanos e das Liberdades Fundamentais
+    aprovado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 101/2016 - Diário da República n.º 227/2016,
+    Série I de 2016-11-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/101-2016-75796634
+  date: '2016-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
+- type: cites
+  target: pt:dre:259948:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:14Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de julho de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOL NO. 15 AMENDING THE CONVENTION ON THE PROTECTION OF HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS
 
@@ -106,7 +117,7 @@ Preamble
 
 The member States of the Council of Europe and the other High Contracting Parties to the Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 (hereinafter referred to as "the Convention"), signatory hereto:
 
-Having regard to the declaration adopted at the High Level Conference on the Future of the European Court of Human Rights, held in Brighton on 19 and 20 April 2012, as well as the declarations adopted at the conferences held in Interlaken on 18 and 19 February 2010 and [([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22700/0419604198.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22700/0419604198.pdf) on 26 and 27 April 2011;
+Having regard to the declaration adopted at the High Level Conference on the Future of the European Court of Human Rights, held in Brighton on 19 and 20 April 2012, as well as the declarations adopted at the conferences held in Interlaken on 18 and 19 February 2010 and [(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22700/0419604198.pdf) on 26 and 27 April 2011;
 
 Having regard to Opinion No. 283 (2013) adopted by the Parliamentary Assembly of the Council of Europe on 26 April 2013;
 
@@ -254,7 +265,7 @@ Este Protocolo entra em vigor no primeiro dia do mês seguinte ao termo de um pe
 
 ###### Artigo 9.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar todos os Estados membros do Conselho da Europa e as outras Altas Partes Contratantes na Convenção:**
+O Secretário-Geral do Conselho da Europa deverá notificar todos os Estados membros do Conselho da Europa e as outras Altas Partes Contratantes na Convenção:
 
 a) De qualquer assinatura;
 

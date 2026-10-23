@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/217/2019/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/217-2019-125692186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b5f6632bd2db5703ad4f67e1f19b47d65028c79837a0270704bf65152c620a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c643555c34beaa2e42dfb43a52e1e53bca4a79ef0bb6c560cf35e0c310de3b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Trabalho
 - Convenção
-- Portugal
 - Direito do Trabalho
-- OIT
 - Genebra
-relationships: []
+- OIT
+- Portugal
+- Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:125692184:por
+  label: Ratificado o Instrumento de Emenda da Constituição da Organização Internacional do Trabalho pelo(a) Decreto do Presidente
+    da República n.º 58/2019 - Diário da República n.º 206/2019, Série I de 2019-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/58-2019-125692184
+  date: '2019-10-25'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:46Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 INSTRUMENT FOR THE AMENDMENT OF THE CONSTITUTION OF THE INTERNATIONAL LABOUR ORGANISATION, ADOPTED BY THE CONFERENCE AT ITS SEVENTY-SECOND, SESSION GENEVA, 24 JUNE 1986
 
@@ -127,7 +133,7 @@ ANNEX
 
 The Constitution of the International Labour Organisation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf)
 
 The foregoing is the authentic text of the Constitution of the International Labour Organisation Instrument of Amendment, 1986 duly adopted by the General Conference of the International Labour Organisation during its Seventy-second Session which was held at Geneva and declared closed the twenty-fifth day of June 1986.
 
@@ -161,8 +167,10 @@ Dois exemplares autênticos do presente Instrumento de Emenda serão assinados p
 
 ## ANEXO — Constituição da Organização Internacional do Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20600/0000600016.pdf)
 
 O texto que precede é o texto autêntico do Instrumento de Emenda à Constituição da Organização Internacional do Trabalho, 1986, devidamente adotada pela Conferência Geral da Organização Internacional do Trabalho na sua septuagésima segunda sessão que teve lugar em Genebra e que foi declarada encerrada a 25 de junho 1986.
 
 Em fé do que apuseram as suas assinaturas, neste vigésimo sexto dia de junho de 1986.
+
+242019

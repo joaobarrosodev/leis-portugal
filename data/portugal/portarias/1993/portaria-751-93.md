@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/197b00/44864488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/751/1993/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1993-324130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f391ad054ecda95428851fca3465b2bfdc379e7d8b0a4697fbc12eb4f2cf65d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45a0789e2b2a987c01b83d66a0b58363bb487f22575f8169efd151166b4cdb1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - CEE
 - Etiquetagem
 - Informação Nutricional
+- Produto Alimentar
 - Proteção do Consumidor
 relationships:
 - type: amended_by
@@ -80,16 +80,31 @@ relationships:
   target: celex:31990L0496
   label: null
   source: http://data.europa.eu/eli/dir/1990/496/oj
+- type: corrected_by
+  target: pt:dre:285675:por
+  label: "Rectificada pela DECL-RECT.167/93.31.08.1993.PCM, DR.IS-B [204]4ºSupl de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/167-1993-285675
+  date: '1993-08-31'
+- type: corrected_by
+  target: pt:dre:664519:por
+  label: "Rectificada pela DECL-RECT.203/93.20.10.1993.PCM, DR.IS-B [255]3ºSupl de 30.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/203-1993-664519
+  date: '1993-10-20'
+- type: repealed_by
+  target: pt:dre:517231:por
+  label: "Revogada pelo DEC LEI.167/2004.07.07.2004.MADRP, DR.IS-A [158] de 07.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2004-517231
+  date: '2004-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:12Z'
   warnings: []
   errors: []
 ---
@@ -278,13 +293,13 @@ O presente diploma entra imediatamente em vigor, podendo, no entanto, manter-se 
 
 Ministérios da Agricultura, da Saúde, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 13 de Julho de 1993.**
+Assinada em 13 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
 
 ## ANEXO I — Vitaminas e sais minerais que podem ser declarados e respectiva dose diária recomendada (DDR)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/197b00/44864488.pdf))](https://files.diariodarepublica.pt/1s/1993/08/197b00/44864488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/197b00/44864488.pdf)
 
 ## ANEXO II — Factores de conversão relativos ao valor energético a indicar na rotulagem nutricional
 

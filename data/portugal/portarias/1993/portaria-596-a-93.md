@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 143/1993, 1º Suplemento, Série I-B de 1993-06-21
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3382-(2) a 3382-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/143b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/596-a/1993/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-a-1993-423416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 219051ce1b6010f78fb43b92bd45086042de856b6ccf31e27bbe4b0f12c69a80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eddb18d951c3415d4ba2da3f13272f766ad5bde13fb4a242311a67d4a184367
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Descrição de Funções
 - Direcção Geral das Condições de Trabalho
 - Ministério do Emprego e da Segurança Social
-- Descrição de Funções
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,55 @@ relationships:
   target: pt:dre:1296706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 82/94 DE 14-JAN DR.IS-B [33] DE 09/FEV/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 249/94 DE 22-ABR DR.IS-B [94]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DN 563/94 DE 20-JUN DR.IS-B [167] DE 21/JUL/1996\07] DE 21/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-21'
+- type: amended_by
+  target: pt:dre:1324321:por
+  label: "Criado um lugar de assessor principal no quadro de pessoal, pela PORT.183/96IIS.1996.09.10.PCM, DR.IIS [232] de\
+    \ 07/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-1996-1324321
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:815587:por
+  label: "Alterado o quadro de pessoal pela PORT.127/97IIS.1997.03.17.PCM, MF E MQE DR.IIS [84] DE 10/ABR/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-1997-815587
+  date: '1997-03-17'
+- type: amended_by
+  target: pt:dre:1296706:por
+  label: "Alterado o quadro de pessoal pela PORT.988/98(2ªSÉRIE).1998.09.02.PCM DR.IIS [218] DE 21/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-1998-1296706
+  date: '1998-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:265691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:54Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +144,11 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Março de 1993.**
+Assinada em 19 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/143b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/1993/06/143b01/00020003.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/143b01/00020003.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira de técnico auxiliar
 

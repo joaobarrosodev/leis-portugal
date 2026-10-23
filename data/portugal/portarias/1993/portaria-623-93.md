@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/623/1993/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/623-1993-374414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fddaac8641247c40295ae3f31847e67716aa2d394a7790f45b4d50b21c61c2cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39666b42292fa3ec4e8876e45b855582333fb705b2ebd835d0d20affa5de07db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Descrição de Funções
 - Direcção Geral dos Regimes de Segurança Social
 - Ministério do Emprego e da Segurança Social
-- Descrição de Funções
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,59 @@ relationships:
   target: pt:dre:2129372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 144/93 DE 30-JUL DR.IS-B [178] 31/JUL/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 217/93 DE 26-JUL DR.IS-B [199]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-25'
+- type: amended_by
+  target: pt:dre:815583:por
+  label: "Alterado o quadro de pessoal pela PORT.129/97IIS.1997.03.19.PCM, DR.IIS [84] de 1997.04.10\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-1997-815583
+  date: '1997-03-19'
+- type: amended_by
+  target: pt:dre:1114087:por
+  label: "Alterado o quadro de pessoal pela PORT.218/97(2ªSÉRIE).1997.04.18.PCM, MF E MSSS DR.IIS [110] DE 13/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1997-1114087
+  date: '1997-04-18'
+- type: amended_by
+  target: pt:dre:1296705:por
+  label: "Alterado o quadro de pessoal pela PORT.987/98(2ªSÉRIE).1998.09.02.PCM DR.IIS [218] DE 21/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-1998-1296705
+  date: '1998-09-02'
+- type: amended_by
+  target: pt:dre:2129370:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.288/2003(2ªSÉRIE).2002.11.12.MF, MSST, DR.IIS [53] DE 4/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2003-2129370
+  date: '2002-11-12'
+- type: amended_by
+  target: pt:dre:2129372:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.290/2003(2ªSÉRIE).2003.01.07.MF, MSST, DR.IIS [53] DE 4/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2003-2129372
+  date: '2003-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/216/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:265688:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:40Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +146,13 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Março de 1993.**
+Assinada em 19 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/151b00/36033604.pdf))](https://files.diariodarepublica.pt/1s/1993/06/151b00/36033604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/151b00/36033604.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/216b00/49244929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/859/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/859-1993-660315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c833d6155b0d4df881602a8119f17177519c1649883efae2726c24a955aeb70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55316642c0e8ef389bc84e0014e282ebfdda56047a60904682177a6064b3cd8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Renovação Urbana
 - Normas de Construção
-- Urbanismo
+- Ordenamento do Território
 - Protecção do Património
 - Regulamento
+- Renovação Urbana
+- Urbanismo
 - VILA NOVA da Barquinha
 relationships:
+- type: amended_by
+  target: pt:dre:121370202:por
+  label: Tornada pública a revogação do Plano de Pormenor de Salvaguarda da Zona Baixa de Vila Nova da Barquinha pelo(a) Aviso
+    (extrato) n.º 5019/2019 - Diário da República n.º 57/2019, Série II de 2019-03-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/5019-2019-121370202
+  date: '2019-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:227180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:43Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +143,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 9 de Agosto de 1993.**
+Assinada em 9 de Agosto de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Baixa de Vila Nova da Barquinha
 
@@ -557,4 +587,4 @@ O presente Regulamento deve ser revisto, no máximo, de cinco em cinco anos.
 
 Em anexo, e fazendo parte integrante deste Regulamento, junta-se planta síntese.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49244929.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49244929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49244929.pdf)

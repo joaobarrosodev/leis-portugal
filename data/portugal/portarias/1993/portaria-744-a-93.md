@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 193/1993, 1º Suplemento, Série I-B de 1993-08-18
   number: '193'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4410-(2) a 4410-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/744-a/1993/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5083c243a2e1bea5780ee4bab10e64c46ebc9f1b79af9d7826669df0ef3008b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32675b29d5a0a43778b961ff4c3a2e8fd52fb2b34231f3b0c9b1d4a115b640e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303230:por
+  label: "Revogado o n.º 1.º pela PORT.1152-B/94.27.12.1994.MF, DR.IS-B [298]3ºSupl de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1152-b-1994-303230
+  date: '1994-12-27'
+- type: repealed_by
+  target: pt:dre:158268:por
+  label: "Revogado o determinado no nº 2º, no respeitante à 1ª Tesouraria da Fazenda Pública do Funchal, com efeitos a partir\
+    \ da entrada em vigor do presente diploma, pela PORT.163/99.1999.03.10.MF, DR.IS-B [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/163-1999-158268
+  date: '1999-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:02Z'
   warnings: []
   errors: []
 ---
@@ -122,14 +141,14 @@ Manda o Governo, pelo Ministro das Finanças, nos termos da alínea c) do n.º 1
 
 Ministério das Finanças.
 
-**Assinada em 13 de Agosto de 1993.**
+Assinada em 13 de Agosto de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Finanças, José Monteiro Fernandes Braz, Secretário de Estado do Tesouro.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)

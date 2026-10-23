@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/642/1993/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/642-1993-376424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb2fc33595e5afec2b63ef63462a15c7ab7e7874458a6d5e754dea702798af90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59faf6b723aa044436b0fe44bc53c3bf8555571f0e2c5c69ab19229b4a6dca47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Marinha
 - Forças Armadas
+- Marinha
 - Pessoal Civil
 - Quadro de Pessoal
 relationships:
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:533787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572911:por
+  label: "Alterado o quadro do pessoal, constante do anexo I à Portaria n.º 717/91, de 23 de Julho, alterado pelo anexo I\
+    \ ao presente diploma, pela PORT.1180/95.27.09.1995.MDN, DR.IS-B [224] de 27.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1180-1995-572911
+  date: '1995-09-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
@@ -94,16 +100,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/717/1991/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/717/1991/07/23/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285681:por
+  label: "Rectificada pela DECL-RECT.162/93.31.08.1993.PCM, DR.IS-B [204]4ºSupl de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/162-1993-285681
+  date: '1993-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:07Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +165,7 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, que sejam a
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 7 de Junho de 1993.**
+Assinada em 7 de Junho de 1993.
 
 Pelo Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreiro Leite, Secretária de Estado Adjunta e do Orçamento.
 
@@ -134,4 +173,4 @@ Pelo Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes, Secretári
 
 Quadro do pessoal civil da Marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/156b00/36643669.pdf))](https://files.diariodarepublica.pt/1s/1993/07/156b00/36643669.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/156b00/36643669.pdf)

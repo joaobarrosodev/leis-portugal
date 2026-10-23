@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/236/2016/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/236-2016-105340329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0530effd1a74eafd6558b4ac72dd88e2e135328d35b29e40a7531838e8f7f6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df00d4798b1ceb7f5cd2642962cfbd6c33744056510d85b92f0cb304dd3a80cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abidjan
-- Costa do Marfim
 - Alfândega
 - Assistência Mútua
-- Financiamento
+- Bruxelas
 - CE Países
 - Comércio Internacional
 - Convenção
 - Cooperação Aduaneira
-- Direitos Aduaneiros
-- União Europeia
-- Importação
-- Desenvolvimento Económico
 - Cooperação Económica
 - Cooperação Internacional
-- Bruxelas
-relationships: []
+- Costa do Marfim
+- Desenvolvimento Económico
+- Direitos Aduaneiros
+- Financiamento
+- Importação
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:105340327:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 108/2016 - Diário da República n.º 235/2016, Série
+    I de 2016-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/108-2016-105340327
+  date: '2016-12-09'
 article_structure:
   article_count: 96
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:27Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +112,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de junho de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA ECONÓMICA INTERCALAR ENTRE A COSTA DO MARFIM, POR UM LADO, E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR OUTRO.
 
@@ -960,13 +966,13 @@ Os apêndices, anexos e protocolos do presente Acordo fazem parte integrante do 
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final do presente Acordo.
 
-## APÊNDICE I
+APÊNDICE I
 
 Produtos da Costa do Marfim prioritários para a exportação para a Comunidade Europeia
 
 Estes produtos devem ser identificados pela Costa do Marfim e notificados ao Comité APE até três meses a contar da data da assinatura do presente Acordo.
 
-## APÊNDICE II
+APÊNDICE II
 
 Autoridades competentes
 
@@ -1032,7 +1038,7 @@ Para os produtos do grupo C, a liberalização vai de 1 de Janeiro de 2018 a 31 
 
 Os produtos do grupo D não são objecto de liberalização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf)
 
 PROTOCOLO RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA
 
@@ -1198,4 +1204,4 @@ As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do pr
 
 3 - No que respeita a questões relacionadas com a aplicação do presente Protocolo, as Partes procedem a consultas entre si com vista à sua resolução no âmbito do Comité APE instituído pelo artigo 73.º do Acordo de Parceria Económica Intercalar entre a Costa do Marfim e a Comunidade Europeia e os seus Estados-Membros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0449904597.pdf)

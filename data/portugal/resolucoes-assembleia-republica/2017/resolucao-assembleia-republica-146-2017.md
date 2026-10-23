@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/146/2017/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/146-2017-107648317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fef70dc1b69beb2a7f2f651f1677d91ee8599df51a81787d1a680c6190bee24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc1ab5e70d37ac4bf987668829b52f19974d7951c24377949a7b220183f29b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Comércio Internacional
 - Convenção
-- Política de Cooperação
-- Portugal
-- Fundo Comum para os Produtos de BASE
 - Cooperação Económica
 - Cooperação Internacional
+- Fundo Comum para os Produtos de BASE
+- Política de Cooperação
+- Portugal
 - Produto de BASE
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:107648314:por
+  label: Ratificadas as alterações ao Acordo pelo(a) Decreto do Presidente da República n.º 50/2017 - Diário da República
+    n.º 130/2017, Série I de 2017-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2017-107648314
+  date: '2017-07-07'
 article_structure:
-  article_count: 59
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:27Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de março de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ANNEX V. DECISION CFC/GC/XXVI/1: AMENDMENTS TO THE AGREEMENT ESTABLISHING THE COMMON FUND FOR COMMODITIES
 
@@ -2067,7 +2073,7 @@ Schedule A, presently reading as follows:
 
 Subscription of Shares of Directly Contributed Capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 shall be amended so as to read:
 
@@ -2075,7 +2081,7 @@ shall be amended so as to read:
 
 Subscriptions of Shares of Capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 Schedule B, presently reading as follows:
 
@@ -2215,7 +2221,7 @@ Annex to schedule D, presently reading as follows:
 
 Allocation of Votes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 shall be amended so as to read:
 
@@ -2223,7 +2229,7 @@ shall be amended so as to read:
 
 Allocation of Votes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 Schedule E, presently reading as follows:
 
@@ -3133,7 +3139,7 @@ SCHEDULE A
 
 Subscriptions of Shares of Capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 SCHEDULE B
 
@@ -3195,7 +3201,7 @@ ANNEX TO SCHEDULE D
 
 Allocation of Votes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 SCHEDULE E
 
@@ -3237,7 +3243,7 @@ Pound sterling - 0.1110.
 
 2 - Any change in the list of the currencies that determine the value of the Unit of Account, and in the amounts of these currencies, shall be made in accordance with rules and regulations adopted by the Governing Council by a Qualified Majority in conformity with the practice of a competent international monetary organization.
 
-## ANEXO V. DECISÃO CFC/GC/XXVI/1: ALTERAÇÕES AO ACORDO RELATIVO À CRIAÇÃO DO FUNDO COMUM PARA OS PRODUTOS DE BASE
+ANEXO V. DECISÃO CFC/GC/XXVI/1: ALTERAÇÕES AO ACORDO RELATIVO À CRIAÇÃO DO FUNDO COMUM PARA OS PRODUTOS DE BASE
 
 O Conselho de Governadores do Fundo Comum para os Produtos de Base:
 
@@ -3483,7 +3489,9 @@ O capítulo iv, presentemente com a seguinte redação:
 
 Relação das organizações internacionais de produtos de base e dos organismos internacionais de produtos de base com o Fundo
 
-###### Artigo 7.º — Relação das organizações internacionais de produtos de base e dos organismos internacionais de produtos de base com o Fundo
+Artigo 7.º
+
+Relação das organizações internacionais de produtos de base e dos organismos internacionais de produtos de base com o Fundo
 
 1 - As facilidades da Primeira Conta do Fundo só serão utilizadas pelas organizações internacionais de produtos de base criadas para execução do disposto nos acordos internacionais de produtos de base que estabelecem a constituição de stocks reguladores internacionais ou de stocks nacionais coordenados internacionalmente e que celebraram um acordo de associação. O acordo de associação será redigido em conformidade com os termos deste Acordo e de quaisquer regulamentos compatíveis com o mesmo e a serem adotados pelo Conselho de Governadores.
 
@@ -5117,7 +5125,7 @@ O artigo 55.º, presentemente com a seguinte redação:
 
 Depositário
 
-**O Secretário-Geral das Nações Unidas será o Depositário deste Acordo.»**
+O Secretário-Geral das Nações Unidas será o Depositário deste Acordo.»
 
 será alterado, passando a ter a seguinte redação:
 
@@ -5125,7 +5133,7 @@ será alterado, passando a ter a seguinte redação:
 
 Depositário
 
-**O Secretário-Geral das Nações Unidas é o Depositário do presente Acordo.»**
+O Secretário-Geral das Nações Unidas é o Depositário do presente Acordo.»
 
 O artigo 56.º, presentemente com a seguinte redação:
 
@@ -5195,7 +5203,7 @@ O anexo A, presentemente com a seguinte redação:
 
 Subscrições de ações de capital representado por contribuições diretas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 será alterado, passando a ter a seguinte redação:
 
@@ -5203,7 +5211,7 @@ será alterado, passando a ter a seguinte redação:
 
 Subscrição de ações representativas do capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 O anexo B, presentemente com a seguinte redação:
 
@@ -5343,7 +5351,7 @@ O quadro apenso ao anexo D, presentemente com a seguinte redação:
 
 Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 será alterado, passando a ter a seguinte redação:
 
@@ -5351,7 +5359,7 @@ será alterado, passando a ter a seguinte redação:
 
 Atribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
 O anexo E, presentemente com a seguinte redação:
 
@@ -5471,7 +5479,9 @@ Libra esterlina - 0,1110.
 
 2 - Qualquer alteração à lista de moedas que determina o valor da Unidade de Conta, e aos montantes destas moedas, será efetuada de acordo com normas e regulamentos adotados pelo Conselho de Governadores por maioria qualificada, em conformidade com as práticas da organização monetária internacional competente.»
 
-## ANEXO — TEXTO COMPLETO DO ACORDO RELATIVO À CRIAÇÃO DO FUNDO COMUM PARA OS PRODUTOS DE BASE, TAL COMO ALTERADO PELA PRESENTE DECISÃO
+ANEXO
+
+TEXTO COMPLETO DO ACORDO RELATIVO À CRIAÇÃO DO FUNDO COMUM PARA OS PRODUTOS DE BASE, TAL COMO ALTERADO PELA PRESENTE DECISÃO
 
 Preâmbulo
 
@@ -5487,9 +5497,13 @@ Lembrando a Resolução 93 (IV), relativa ao Programa Integrado para Produtos de
 
 acordaram em criar pelo presente o Fundo Comum para os Produtos de Base, a funcionar em conformidade com o que se dispõe seguidamente:
 
-### CAPÍTULO I — Definições
+CAPÍTULO I
 
-###### Artigo 1.º — Definições
+Definições
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente Acordo:
 
@@ -5519,9 +5533,13 @@ Para efeitos do presente Acordo:
 
 13) «Votos expressos» significa votos afirmativos e negativos.
 
-### CAPÍTULO II — Objetivos e funções
+CAPÍTULO II
 
-###### Artigo 2.º — Objetivos
+Objetivos e funções
+
+Artigo 2.º
+
+Objetivos
 
 Os objetivos do Fundo serão:
 
@@ -5529,7 +5547,9 @@ a) Servir como instrumento chave na prossecução dos objetivos acordados no Pro
 
 b) Promover o desenvolvimento do setor dos produtos de base e contribuir para o desenvolvimento sustentável nas suas três dimensões: social, económica e ambiental; reconhecer a diversidade de opções conducentes ao desenvolvimento sustentável e a este propósito relembrar que cada país tem a responsabilidade primária pelo seu próprio desenvolvimento e o direito de determinar os seus caminhos e estratégias apropriadas de desenvolvimento.
 
-###### Artigo 3.º — Funções
+Artigo 3.º
+
+Funções
 
 Para prosseguir os objetivos mencionados no artigo 2.º, o Fundo exercerá as seguintes funções:
 
@@ -5543,9 +5563,13 @@ d) Disseminar conhecimentos e fornecer informações sobre abordagens inovadoras
 
 e) Desempenhar outras funções conforme decisão do Conselho de Governadores.
 
-### CAPÍTULO III — Participação
+CAPÍTULO III
 
-###### Artigo 4.º — Elegibilidade
+Participação
+
+Artigo 4.º
+
+Elegibilidade
 
 A participação no Fundo como membro estará aberta a:
 
@@ -5553,7 +5577,9 @@ a) Todos os Estados membros das Nações Unidas, ou de qualquer uma das suas ag�
 
 b) Qualquer organização intergovernamental que disponha de competências nos domínios da atividade do Fundo. Estas organizações intergovernamentais não terão a obrigação de assumir qualquer compromisso financeiro com o Fundo, nem deterão qualquer poder de voto.
 
-###### Artigo 5.º — Membros
+Artigo 5.º
+
+Membros
 
 Os membros do Fundo (adiante designados como membros) serão:
 
@@ -5565,13 +5591,19 @@ c) Aquelas organizações intergovernamentais referidas no artigo 4.º, alínea 
 
 d) Aquelas organizações intergovernamentais referidas no artigo 4.º, alínea b), que tenham aderido a este Acordo em conformidade com o artigo 56.º
 
-###### Artigo 6.º — Limitação de responsabilidades
+Artigo 6.º
+
+Limitação de responsabilidades
 
 Nenhum membro será responsável, em razão apenas desse estatuto, por ações ou obrigações assumidas pelo Fundo.
 
-### CAPÍTULO IV — Capital e outros recursos
+CAPÍTULO IV
 
-###### Artigo 7.º — Unidade de Conta e moedas
+Capital e outros recursos
+
+Artigo 7.º
+
+Unidade de Conta e moedas
 
 1 - A Unidade de Conta do Fundo é definida no anexo F.
 
@@ -5587,7 +5619,9 @@ d) Pagamentos por conta de reembolsos, rendimento, juros ou outros encargos rela
 
 3 - O Comité Executivo determinará o método de valorização das moedas utilizáveis, em termos de Unidades de Conta, de acordo com as práticas monetárias internacionais prevalecentes.
 
-###### Artigo 8.º — Recursos de capital
+Artigo 8.º
+
+Recursos de capital
 
 1 - O capital do Fundo (adiante designado por capital) será dividido em 37 000 ações a emitir pelo Fundo, com um valor nominal de 7 566,471 45 Unidades de Conta cada, e um valor total de 279 959 444 Unidades de Conta.
 
@@ -5601,7 +5635,9 @@ b) Poderá ser aumentado pelo Conselho de Governadores de acordo com o artigo 11
 
 4 - Se o Conselho de Governadores disponibilizar para subscrição ações representativas do capital não subscritas, conforme o n.º 2 do artigo 11.º, ou aumentar o número de ações representativas do capital, conforme a alínea b) do n.º 3 do presente artigo, cada membro terá o direito, mas não a obrigação, de subscrever tais ações.
 
-###### Artigo 9.º — Subscrição de ações
+Artigo 9.º
+
+Subscrição de ações
 
 1 - Cada membro referido no artigo 5.º, alínea a), manterá uma subscrição, tal como definida no anexo A, de:
 
@@ -5621,7 +5657,9 @@ b) Quaisquer ações adicionais em resultado de determinação do Conselho de Go
 
 5 - As ações representativas do capital não serão de nenhuma forma comprometidas ou oneradas pelos membros, e apenas serão transferíveis para o Fundo.
 
-###### Artigo 10.º — Pagamento das ações
+Artigo 10.º
+
+Pagamento das ações
 
 1 - O pagamento das ações representativas do capital subscrito por cada membro será concretizado:
 
@@ -5645,7 +5683,9 @@ c) Até dois anos após o pagamento realizado ao abrigo da alínea a) acima, ter
 
 6 - A subscrição de ações representativas do capital poderá, quando relevante, ser paga pelas agências apropriadas dos membros em causa.
 
-###### Artigo 11.º — Adequação das subscrições de ações representativas do capital
+Artigo 11.º
+
+Adequação das subscrições de ações representativas do capital
 
 1 - O Conselho de Governadores poderá reapreciar, com a periodicidade que entender apropriada, a adequação do capital disponível à conta de capital.
 
@@ -5653,7 +5693,9 @@ c) Até dois anos após o pagamento realizado ao abrigo da alínea a) acima, ter
 
 3 - As decisões do Conselho de Governadores ao abrigo do presente artigo serão adotadas por uma maioria altamente qualificada, mas não entrarão em vigor até serem aceites por todos os membros. A aceitação considera-se como efetiva exceto se algum membro notificar por escrito a sua objeção ao Diretor-Geral, até seis meses após a adoção da decisão. Este período poderá ser alargado pelo Conselho de Governadores aquando da adoção da decisão, a pedido de qualquer membro.
 
-###### Artigo 12.º — Contribuições voluntárias
+Artigo 12.º
+
+Contribuições voluntárias
 
 1 - O Fundo poderá aceitar contribuições voluntárias dos membros e outras fontes. Estas contribuições serão pagas em moedas utilizáveis.
 
@@ -5661,7 +5703,9 @@ c) Até dois anos após o pagamento realizado ao abrigo da alínea a) acima, ter
 
 3 - As contribuições voluntárias poderão, por opção do doador, ser efetuadas com ou sem restrições quanto ao seu uso pelo Fundo.
 
-###### Artigo 13.º — Reserva para garantias
+Artigo 13.º
+
+Reserva para garantias
 
 1 - O Conselho de Governadores estabelecerá uma reserva para garantias, cujos recursos serão utilizados como garantia aos empréstimos contraídos pelo Fundo.
 
@@ -5675,7 +5719,9 @@ c) Quaisquer outros recursos disponibilizados para a reserva para garantias por 
 
 3 - Não obstante as disposições dos n.os 1 e 2 do presente artigo, o Conselho de Governadores decidirá por maioria altamente qualificada como aplicar quaisquer lucros líquidos da conta de capital não atribuídos à reserva para garantias.
 
-###### Artigo 14.º — Dívida
+Artigo 14.º
+
+Dívida
 
 1 - O Fundo não contrairá empréstimos ou incorrerá em obrigações relativas a dívida sob qualquer forma, exceto se tal for concretizado conforme o n.º 2 do presente artigo.
 
@@ -5687,7 +5733,9 @@ ii) Necessidades de liquidez.
 
 3 - A dívida total do Fundo não poderá em qualquer altura exceder os recursos da reserva para garantias.
 
-###### Artigo 15.º — Fundos fiduciários
+Artigo 15.º
+
+Fundos fiduciários
 
 1 - O Fundo poderá aceitar recursos financeiros de qualquer parte ou partes para efeitos de estabelecimento de um fundo fiduciário, desde que os recursos de tal fundo fiduciário sejam aplicados na promoção dos objetivos do Fundo, tais como definidos no artigo 2.º
 
@@ -5695,9 +5743,13 @@ ii) Necessidades de liquidez.
 
 3 - Os termos e condições para a utilização de recursos de cada fundo fiduciário e para a administração e/ou gestão pelo Fundo serão, após aprovação pelo Comité Executivo, incluídos em acordo entre o Fundo e o detentor ou detentores do fundo fiduciário.
 
-### CAPÍTULO V — Operações
+CAPÍTULO V
 
-###### Artigo 16.º — Disposições gerais
+Operações
+
+Artigo 16.º
+
+Disposições gerais
 
 A) Uso dos recursos
 
@@ -5723,7 +5775,9 @@ D) Princípios operacionais gerais
 
 6 - O Fundo operará de maneira consistente com as boas práticas para uma gestão financeira prudente de fundos públicos.
 
-###### Artigo 17.º — A conta de capital
+Artigo 17.º
+
+A conta de capital
 
 A) Recursos
 
@@ -5757,7 +5811,9 @@ b) Afetação à reserva para garantias, ou outra finalidade, desde que determin
 
 3 - Para efeitos do n.º 2 do artigo 17.º, o capital atribuído à conta de capital será investido e/ou depositado de acordo com as regras e regulamentos adotados pelo Conselho de Governadores. Estas regras e regulamentos deverão ter em devida conta o objetivo de que tal capital permaneça livre a todo o momento e que não seja comprometido ou onerado sob qualquer forma.
 
-###### Artigo 18.º — A conta de operações
+Artigo 18.º
+
+A conta de operações
 
 A) Recursos
 
@@ -5785,13 +5841,19 @@ a) As medidas de desenvolvimento dos produtos de base serão inovadoras, tendo p
 
 b) As atividades do Fundo decorrentes da conta de operações poderão tomar a forma de qualquer tipo de intervenção financeira. Todas as intervenções financeiras serão implementadas segundo os termos e condições que o Comité Executivo decida como apropriadas.
 
-### CAPÍTULO VI — Organização e gestão
+CAPÍTULO VI
 
-###### Artigo 19.º — Estrutura do Fundo
+Organização e gestão
+
+Artigo 19.º
+
+Estrutura do Fundo
 
 O Fundo terá um Conselho de Governadores, um Comité Executivo, um Comité Consultivo, um Diretor-Geral e o pessoal necessário ao desempenho das suas funções.
 
-###### Artigo 20.º — Conselho de Governadores
+Artigo 20.º
+
+Conselho de Governadores
 
 1 - Qualquer dos poderes do Fundo poderá ser exercido pelo Conselho de Governadores.
 
@@ -5835,7 +5897,9 @@ m) Às decisões sobre reconstituições da conta de operações de acordo com o
 
 8 - Em cada reunião anual, o Conselho de Governadores elegerá um Presidente de entre os Governadores. O Presidente desempenhará o cargo até à eleição do sucessor e poderá ser reeleito para um segundo mandato.
 
-###### Artigo 21.º — Votações no Conselho de Governadores
+Artigo 21.º
+
+Votações no Conselho de Governadores
 
 1 - Os votos no Conselho de Governadores serão distribuídos entre os Estados membros de acordo com o anexo D.
 
@@ -5843,7 +5907,9 @@ m) Às decisões sobre reconstituições da conta de operações de acordo com o
 
 3 - Exceto se previsto em contrário no presente Acordo, todos os assuntos presentes ao Conselho de Governadores serão decididos por maioria simples.
 
-###### Artigo 22.º — Comité Executivo
+Artigo 22.º
+
+Comité Executivo
 
 1 - O Comité Executivo será responsável pela condução das operações do Fundo e reportará ao Conselho de Governadores. Para este efeito, o Comité Executivo exercerá os poderes que lhe sejam atribuídos no quadro do presente Acordo ou que lhe sejam delegados pelo Conselho de Governadores. No exercício de quaisquer poderes delegados, o Comité Executivo tomará decisões segundo o mesmo nível de maioria que se aplicaria caso tais poderes fossem mantidos pelo Conselho de Governadores.
 
@@ -5863,7 +5929,9 @@ m) Às decisões sobre reconstituições da conta de operações de acordo com o
 
 9 - O Comité Executivo poderá convidar representantes de outras organizações internacionais a assistir às reuniões como observadores.
 
-###### Artigo 23.º — Votações no Comité Executivo
+Artigo 23.º
+
+Votações no Comité Executivo
 
 1 - Cada Diretor Executivo terá direito ao número de votos atribuíveis aos membros que represente. Estes votos não terão de ser exercidos como uma unidade.
 
@@ -5871,7 +5939,9 @@ m) Às decisões sobre reconstituições da conta de operações de acordo com o
 
 3 - Exceto se previsto em contrário no presente Acordo, todos os assuntos presentes ao Comité Executivo serão decididos por maioria simples.
 
-###### Artigo 24.º — Diretor-Geral e pessoal
+Artigo 24.º
+
+Diretor-Geral e pessoal
 
 1 - O Conselho de Governadores, por maioria qualificada, nomeará o Diretor-Geral. Se o nomeado for, à altura da sua nomeação, Governador ou Diretor Executivo ou suplente, renunciará a tal cargo previamente à tomada de posse como Diretor-Geral.
 
@@ -5883,11 +5953,15 @@ m) Às decisões sobre reconstituições da conta de operações de acordo com o
 
 5 - Quando no exercício das suas funções, o Diretor-Geral e o pessoal ficam obrigados inteiramente perante o Fundo e não ficarão sujeitos a mais nenhuma autoridade. Cada membro respeitará a natureza internacional desta função e não tentará de forma alguma exercer qualquer influência sobre o Diretor-Geral ou sobre qualquer membro do pessoal quando no cumprimento das respetivas funções.
 
-###### Artigo 25.º — Comité Consultivo
+Artigo 25.º
+
+Comité Consultivo
 
 O Fundo manterá à disposição do Comité Executivo um Comité Consultivo, estabelecido e a operar de acordo com normas e regulamentos adotados pelo Conselho de Governadores, para facilitar as atividades da conta de operações.
 
-###### Artigo 26.º — Disposições orçamentais e de auditoria
+Artigo 26.º
+
+Disposições orçamentais e de auditoria
 
 1 - As despesas administrativas do Fundo serão cobertas por recursos da conta de capital.
 
@@ -5895,15 +5969,21 @@ O Fundo manterá à disposição do Comité Executivo um Comité Consultivo, est
 
 3 - O Diretor-Geral providenciará a realização anual de uma auditoria externa independente às contas do Fundo. O relatório e contas auditado, após consideração pelo Comité Executivo, será transmitido, juntamente com as suas recomendações, ao Conselho de Governadores, para aprovação.
 
-###### Artigo 27.º — Localização da sede
+Artigo 27.º
+
+Localização da sede
 
 A sede do Fundo, exceto se o Conselho de Governadores, por maioria qualificada, decidir de outra forma, será em Amesterdão, Holanda. O Fundo poderá, por decisão do Conselho de Governadores, estabelecer outros escritórios, se necessário, no território de qualquer membro.
 
-###### Artigo 28.º — Publicação de relatórios
+Artigo 28.º
+
+Publicação de relatórios
 
 O Fundo editará e transmitirá aos membros um relatório anual contendo um relatório e contas auditado. Após a adoção pelo Conselho de Governadores, tal relatório e declaração dos auditores serão também transmitidos para informação à Assembleia Geral das Nações Unidas, ao Comité de Comércio e Desenvolvimento da CNUCED e a outras organizações internacionais interessadas.
 
-###### Artigo 29.º — Relações com as Nações Unidas, organismos internacionais de produtos de base, outras organizações internacionais e outras entidades
+Artigo 29.º
+
+Relações com as Nações Unidas, organismos internacionais de produtos de base, outras organizações internacionais e outras entidades
 
 1 - O Fundo poderá estabelecer negociações com as Nações Unidas com vista à conclusão de um acordo que torne o Fundo, no seu relacionamento com as Nações Unidas, numa das agências especializadas referidas no artigo 57.º da Carta das Nações Unidas. Qualquer acordo concluído ao abrigo do artigo 63.º da Carta requererá a aprovação do Conselho de Governadores, sob recomendação do Comité Executivo.
 
@@ -5911,13 +5991,19 @@ O Fundo editará e transmitirá aos membros um relatório anual contendo um rela
 
 3 - O Fundo procurará estabelecer relações de trabalho com organismos internacionais de produtos de base e outras organizações internacionais, bem como com entidades públicas e privadas envolvidas em atividades relacionadas com as do Fundo, e mobilizar apoios financeiros que apoiem os objetivos do Fundo, qualquer que seja a sua proveniência. Na relação entre o Fundo e tais organizações e entidades, cada parte respeitará a autonomia da outra.
 
-### CAPÍTULO VII — Retirada e suspensão da condição de membro
+CAPÍTULO VII
 
-###### Artigo 30.º — Retirada da condição de membro
+Retirada e suspensão da condição de membro
+
+Artigo 30.º
+
+Retirada da condição de membro
 
 Um membro poderá, a qualquer altura, exceto se estiverem em aplicação as disposições previstas no n.º 2 do artigo 34.º, e sujeito às disposições do artigo 32.º, retirar-se do Fundo mediante um aviso escrito ao mesmo. Tal retirada tornar-se-á efetiva na data especificada no aviso, a qual deverá ter lugar não menos de doze meses após a receção do aviso pelo Fundo.
 
-###### Artigo 31.º — Suspensão da condição de membro
+Artigo 31.º
+
+Suspensão da condição de membro
 
 1 - Se um membro não cumprir com qualquer das suas obrigações financeiras para com o Fundo, o Conselho de Governadores poderá, exceto se estiverem em aplicação as disposições previstas no n.º 2 do artigo 34.º, por maioria qualificada, suspender a sua condição de membro. O membro suspenso deixará automaticamente de ser membro um ano após a data da sua suspensão, exceto se o Conselho de Governadores decidir alargar a suspensão por um período adicional de um ano.
 
@@ -5925,25 +6011,35 @@ Um membro poderá, a qualquer altura, exceto se estiverem em aplicação as disp
 
 3 - Durante a suspensão, o membro não estará habilitado a exercer quaisquer direitos ao abrigo do presente Acordo, exceto o direito à retirada e à arbitragem durante o processo de encerramento das operações do Fundo, mas continuará sujeito ao cumprimento de todas as obrigações no âmbito do presente Acordo.
 
-###### Artigo 32.º — Acerto de contas
+Artigo 32.º
+
+Acerto de contas
 
 1 - Quando um membro cessar tal condição permanecerá responsável por todas as solicitações previamente apresentadas pelo Fundo, e por pagamentos pendentes aquando da data em que deixou de ser membro, em respeito das suas obrigações para com o Fundo.
 
 2 - Quando um membro cessar tal condição, o Fundo providenciará a recompra das suas ações em conformidade com os n.os 2 e 3 do artigo 16.º, enquanto parte do acerto de contas com esse membro. O preço de recompra das ações será o valor das mesmas, em dólares dos Estados Unidos da América, refletido nas contas do Fundo à data da cessação da condição de membro; entende-se que qualquer montante devido neste âmbito a um membro poderá ser alocado pelo Fundo a qualquer responsabilidade pendente para com o Fundo desse membro, conforme o disposto no n.º 1 do presente artigo.
 
-### CAPÍTULO VIII — Suspensão e cessação de operações e regularização de obrigações
+CAPÍTULO VIII
 
-###### Artigo 33.º — Suspensão temporária de operações
+Suspensão e cessação de operações e regularização de obrigações
+
+Artigo 33.º
+
+Suspensão temporária de operações
 
 Numa situação de emergência, o Comité Executivo poderá suspender temporariamente as operações do Fundo, na medida em que o considere necessário, enquanto aguarda oportunidade para consideração e ação adicional por parte do Conselho de Governadores.
 
-###### Artigo 34.º — Cessação de operações
+Artigo 34.º
+
+Cessação de operações
 
 1 - O Conselho de Governadores poderá cessar a realização de operações pelo Fundo, mediante decisão tomada com o voto de dois terços do número total de Governadores que detenham não menos de três quartos do poder de voto total. Após tal decisão, o Fundo cessará todas as suas atividades, exceto as necessárias a uma ordenada gestão e conservação dos seus ativos e à regularização das obrigações pendentes.
 
 2 - Até à regularização final das suas obrigações e à distribuição final dos seus ativos, o Fundo continuará a existir, e todos os direitos e obrigações do Fundo e dos seus membros ao abrigo do presente Acordo continuarão em vigor, exceto no que diz respeito ao facto de nenhum membro poder retirar-se ou ser suspenso após a decisão de finalização de operações ser tomada.
 
-###### Artigo 35.º — Regularização de obrigações: disposições gerais
+Artigo 35.º
+
+Regularização de obrigações: disposições gerais
 
 1 - O Comité Executivo desenvolverá as diligências necessárias para assegurar uma gestão ordenada dos ativos do Fundo. Antes de efetuar quaisquer pagamentos a credores que reclamem responsabilidades diretas, o Comité Executivo, por maioria qualificada, emitirá as reservas ou promoverá os acordos que considere necessários, conforme o seu próprio julgamento, de forma a assegurar uma distribuição pro rata entre os detentores de responsabilidades contingentes e de responsabilidades diretas.
 
@@ -5955,35 +6051,49 @@ b) O Conselho de Governadores tenha decidido efetuar a distribuição por maiori
 
 3 - Após uma decisão do Conselho de Governadores ao abrigo da alínea b) do n.º 2 do presente artigo, o Comité Executivo efetuará distribuições sucessivas de quaisquer ativos remanescentes da conta em questão, até que todos os ativos tenham sido distribuídos.
 
-###### Artigo 36.º — Regularização de obrigações: conta de capital
+Artigo 36.º
+
+Regularização de obrigações: conta de capital
 
 1 - As responsabilidades para com os credores do Fundo serão regularizadas pari passu através da utilização dos ativos da conta de capital.
 
 2 - A distribuição de quaisquer ativos da conta de capital remanescentes após as distribuições previstas no n.º 1 do presente artigo, será efetuada em benefício dos membros, pro rata à sua subscrição de ações representativas do capital afetas à conta de capital.
 
-###### Artigo 37.º — Regularização de obrigações: conta de operações
+Artigo 37.º
+
+Regularização de obrigações: conta de operações
 
 1 - As responsabilidades incorridas pelo Fundo no âmbito das atividades da conta de operações serão regularizadas através da utilização de recursos da conta de operações.
 
 2 - A distribuição de quaisquer ativos remanescentes da conta de operações será efetuada em primeiro lugar aos membros, até ao valor das suas subscrições de ações representativas do capital alocado àquela conta, conforme o n.º 3 do artigo 9.º, e depois aos contribuintes para essa conta, pro rata à sua participação no montante total de contribuições, conforme o disposto no artigo 12.º
 
-###### Artigo 38.º — Regularização de obrigações: outros ativos do Fundo
+Artigo 38.º
+
+Regularização de obrigações: outros ativos do Fundo
 
 1 - Qualquer outro ativo será alienado na altura em que tal seja decidido pelo Conselho de Governadores, à luz das recomendações do Comité Executivo e de acordo com os procedimentos determinados pelo Comité Executivo por maioria qualificada.
 
 2 - As receitas resultantes da venda de tais ativos serão utilizadas na regularização pro rata das responsabilidades referidas no n.º 1 do artigo 36.º e n.º 1 do artigo 37.º Quaisquer ativos remanescentes serão distribuídos pelos membros, pro rata às suas subscrições de ações representativas do capital.
 
-### CAPÍTULO IX — Estatuto, privilégios e imunidades
+CAPÍTULO IX
 
-###### Artigo 39.º — Finalidades
+Estatuto, privilégios e imunidades
+
+Artigo 39.º
+
+Finalidades
 
 Para proporcionar ao Fundo o cumprimento das funções que lhe são atribuídas, o estatuto, privilégios e imunidades definidos no presente capítulo serão atribuídos ao Fundo no território de cada membro.
 
-###### Artigo 40.º — Estatuto legal do Fundo
+Artigo 40.º
+
+Estatuto legal do Fundo
 
 O Fundo possuirá personalidade jurídica completa, e, em particular, capacidade para estabelecer acordos internacionais com Estados e organizações internacionais, celebrar contratos, adquirir e prescindir de propriedades imóveis e móveis, e instaurar processos legais.
 
-###### Artigo 41.º — Imunidade relativa a procedimentos judiciais
+Artigo 41.º
+
+Imunidade relativa a procedimentos judiciais
 
 1 - O Fundo gozará de imunidade relativamente a qualquer forma de processo legal, exceto aquelas ações que possam ser instauradas contra o Fundo:
 
@@ -5999,23 +6109,33 @@ Tais ações apenas poderão ser instauradas em tribunais da jurisdição compet
 
 3 - Apesar das disposições constantes do n.º 1 do presente artigo, as propriedades e ativos do Fundo, onde quer que estejam localizados e por quem quer que forem usufruídos, serão imunes a qualquer forma de apropriação, penhora, confisco, injunção, outro processo judicial impeditivo do desembolso de fundos ou quaisquer outras medidas interlocutórias prévias à divulgação da deliberação final contra o Fundo por um tribunal com jurisdição em conformidade com o n.º 1 do presente artigo. O Fundo poderá acordar com os seus credores a imposição de limites às propriedades ou ativos do Fundo que possam ser sujeitos a execução em cumprimento da deliberação final.
 
-###### Artigo 42.º — Imunidade dos ativos face a outras ações
+Artigo 42.º
+
+Imunidade dos ativos face a outras ações
 
 As propriedades e ativos do Fundo, onde quer que estejam localizados e por quem quer que forem usufruídos, serão imunes a requisições, confiscos, expropriações e quaisquer outras formas de interferência ou apropriação, seja por ação executiva ou legislativa.
 
-###### Artigo 43.º — Imunidade dos arquivos
+Artigo 43.º
+
+Imunidade dos arquivos
 
 Os arquivos do Fundo, onde quer que estejam localizados, serão invioláveis.
 
-###### Artigo 44.º — Isenção de restrições para os ativos
+Artigo 44.º
+
+Isenção de restrições para os ativos
 
 Na medida em que se afigure necessário para levar a cabo as operações previstas no presente Acordo e com sujeição às disposições do mesmo, todas as propriedades e ativos do Fundo estarão livres de restrições, regulamentos, controlos e moratórias de qualquer natureza.
 
-###### Artigo 45.º — Privilégio de comunicações
+Artigo 45.º
+
+Privilégio de comunicações
 
 Na medida em que for compatível com qualquer convenção internacional de telecomunicações em vigor, concluída sob os auspícios da União Internacional de Telecomunicações, de que o membro seja parte, às comunicações oficiais do Fundo será concedido por cada membro o mesmo tratamento que é atribuído às comunicações oficiais de outros membros.
 
-###### Artigo 46.º — Imunidades e privilégios de indivíduos específicos
+Artigo 46.º
+
+Imunidades e privilégios de indivíduos específicos
 
 Todos os Governadores, Diretores Executivos e respetivos suplentes, o Diretor-Geral, os membros do Comité Consultivo, os peritos em execução de missões para o Fundo, e o pessoal, desde que não em serviço doméstico para o Fundo:
 
@@ -6025,7 +6145,9 @@ b) Quando não forem cidadãos do membro em causa, ser-lhes-ão atribuídas, bem
 
 c) Terão direito ao mesmo tratamento respeitante a facilidades de deslocação que seja concedido por cada membro a representantes, agentes e pessoal de nível comparável de outras instituições financeiras internacionais de que seja membro.
 
-###### Artigo 47.º — Imunidades fiscais
+Artigo 47.º
+
+Imunidades fiscais
 
 1 - No âmbito das suas atividades oficiais, o Fundo, os seus ativos, propriedades, rendimento e as suas operações e transações autorizadas pelo presente Acordo, estarão isentos de toda a tributação direta e de todos os direitos aduaneiros relativos a bens importados ou exportados para seu uso oficial, desde que tal não impeça nenhum membro de impor os impostos e direitos aduaneiros normais aos produtos de base originários do território de certo membro e que sejam atribuíveis ao Fundo sob qualquer circunstância. O Fundo não reclamará isenções de impostos que não sejam mais do que as comissões por serviços prestados.
 
@@ -6039,19 +6161,27 @@ a) Que discriminem tal obrigação ou título somente pelo facto de ser emitido 
 
 b) Se a única base jurídica para tal tributação for o local ou moeda em que é emitido, se torna pagável ou é pago, ou a localização de qualquer escritório ou espaço de realização de atividades mantido pelo Fundo.
 
-###### Artigo 48.º — Renúncia às imunidades, isenções e privilégios
+Artigo 48.º
+
+Renúncia às imunidades, isenções e privilégios
 
 1 - As imunidades, isenções e privilégios previstos no presente capítulo são concedidos no interesse do Fundo. O Fundo poderá no entanto renunciar, na medida e nas condições que venha a determinar, às imunidades, isenções e privilégios previstos neste capítulo, em casos em que tal ação não prejudique os interesses do Fundo.
 
 2 - O Diretor-Geral terá o poder, que lhe poderá ser delegado pelo Conselho de Governadores, e o dever de renunciar à imunidade de qualquer elemento do pessoal e de peritos que desempenhem missões para o Fundo, em casos em que a imunidade impeça a atuação da justiça e possa ser dispensada sem prejuízo para os interesses do Fundo.
 
-###### Artigo 49.º — Aplicação do presente capítulo
+Artigo 49.º
+
+Aplicação do presente capítulo
 
 Cada membro tomará as ações necessárias tendo em vista o objetivo de tornar efetivos no seu território os princípios e obrigações definidos neste capítulo.
 
-### CAPÍTULO X — Alterações
+CAPÍTULO X
 
-###### Artigo 50.º — Alterações
+Alterações
+
+Artigo 50.º
+
+Alterações
 
 1:
 
@@ -6063,9 +6193,13 @@ b) Qualquer proposta de alteração ao presente Acordo, emanada do Comité Execu
 
 3 - O Diretor-Geral notificará imediatamente todos os membros, e o Depositário, de quaisquer alterações que sejam adotadas e da data de entrada em vigor de tais alterações.
 
-### CAPÍTULO XI — Interpretação e arbitragem
+CAPÍTULO XI
 
-###### Artigo 51.º — Interpretação
+Interpretação e arbitragem
+
+Artigo 51.º
+
+Interpretação
 
 1 - Qualquer questão relativa à interpretação ou aplicação das disposições do presente Acordo, que surja entre qualquer membro e o Fundo ou entre membros, será submetida ao Comité Executivo para decisão. Tal membro ou membros terão o direito de participar nas deliberações do Comité Executivo durante a discussão de tal questão, de acordo com normas e regulamentos a serem adotados pelo Conselho de Governadores.
 
@@ -6073,45 +6207,65 @@ b) Qualquer proposta de alteração ao presente Acordo, emanada do Comité Execu
 
 3 - Quando o Conselho de Governadores não conseguir alcançar uma decisão ao abrigo do n.º 2 do presente artigo, a questão será submetida a arbitragem de acordo com os procedimentos definidos no n.º 2 do artigo 52.º, se qualquer membro assim o solicitar no prazo de três meses após o último dia em que a questão for considerada pelo Conselho de Governadores.
 
-###### Artigo 52.º — Arbitragem
+Artigo 52.º
+
+Arbitragem
 
 1 - Qualquer divergência entre o Fundo e um membro que tenha deixado essa condição, ou entre o Fundo e qualquer membro durante o período de cessação das operações do Fundo, será submetida a arbitragem.
 
 2 - O tribunal arbitral será constituído por três árbitros. Cada parte em disputa nomeará um árbitro. Os dois árbitros assim designados nomearão um terceiro árbitro, que será o Presidente. Se no prazo de 45 dias após a receção do pedido de arbitragem, nenhuma das partes tiver nomeado um árbitro, ou se no prazo de 30 dias após a nomeação dos dois árbitros, o terceiro árbitro não tiver sido nomeado, qualquer das partes poderá requerer ao Presidente do Tribunal Internacional de Justiça, ou outra autoridade que esteja prevista nas normas e regulamentos adotados pelo Conselho de Governadores, que nomeie um árbitro. Se ao Presidente do Tribunal Internacional de Justiça tiver sido solicitada, ao abrigo do presente número, a nomeação de um árbitro, e se o mesmo for nacional de um dos Estados em disputa, ou estiver impossibilitado de cumprir as suas funções, a autoridade para nomear um árbitro será atribuída ao Vice-Presidente do Tribunal, ou, se este estiver igualmente impedido, ao membro do Tribunal de idade mais elevada, não impedido nos mesmos termos, e que tenha mais tempo no cargo. O procedimento de arbitragem será fixado pelos árbitros, mas o Presidente terá poder total para decidir sobre todas as questões relativas a procedimentos, em caso de desacordo com os mesmos. Um voto maioritário dos árbitros será suficiente para a tomada de decisão, que será final e vinculativa para ambas as partes.
 
-### CAPÍTULO XII — Disposições finais
+CAPÍTULO XII
 
-###### Artigo 53.º — Entrada em vigor
+Disposições finais
+
+Artigo 53.º
+
+Entrada em vigor
 
 O presente Acordo entrou em vigor em 19 de junho de 1989 e foi alterado pelo Conselho de Governadores em 10 de janeiro de 2016.
 
-###### Artigo 54.º — Reapreciação periódica do Acordo
+Artigo 54.º
+
+Reapreciação periódica do Acordo
 
 O Conselho de Governadores, a cada dez anos, e começando em 2024, reapreciará o presente Acordo e, à luz de tal reapreciação, tomará a ação que considerar apropriada.
 
-###### Artigo 55.º — Depositário
+Artigo 55.º
 
-**O Secretário-Geral das Nações Unidas é o Depositário do presente Acordo.**
+Depositário
 
-###### Artigo 56.º — Adesão
+O Secretário-Geral das Nações Unidas é o Depositário do presente Acordo.
+
+Artigo 56.º
+
+Adesão
 
 1 - Qualquer Estado ou organização intergovernamental especificada no artigo 4.º poderá aderir ao presente Acordo sob termos e condições que sejam acordadas entre o Conselho de Governadores e tal Estado ou organização intergovernamental. A adesão será efetivada mediante o depósito de um instrumento de adesão junto do Depositário.
 
 2 - Para qualquer Estado ou organização intergovernamental que deposite um instrumento de adesão, o presente Acordo entrará em vigor na data de tal depósito.
 
-###### Artigo 57.º — Reservas
+Artigo 57.º
+
+Reservas
 
 Não poderão ser levantadas reservas com respeito a qualquer das disposições do presente Acordo, exceto no que se refere ao artigo 52.º
 
-###### Artigo 58.º — Línguas
+Artigo 58.º
+
+Línguas
 
 O presente Acordo é celebrado em inglês, francês, russo, espanhol, chinês e árabe, sendo as versões igualmente autênticas e dispondo da mesma força legal.
 
-## ANEXO A — Subscrição de ações representativas do capital
+ANEXO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+Subscrição de ações representativas do capital
 
-## ANEXO B — Disposições especiais para os países menos avançados, conforme o n.º 5 do artigo 10.º
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+
+ANEXO B
+
+Disposições especiais para os países menos avançados, conforme o n.º 5 do artigo 10.º
 
 1 - Os membros que pertençam à categoria dos países menos avançados, tal como definido pelas Nações Unidas, pagarão as ações referidas na alínea b) do n.º 1 do artigo 9.º da seguinte maneira:
 
@@ -6123,7 +6277,9 @@ c) Após os pagamentos conforme as alíneas a) e b) acima, os remanescentes 40 %
 
 2 - Não obstante as disposições do artigo 31.º, um país menos avançado não será suspenso da condição de membro devido ao não cumprimento das obrigações financeiras referidas no n.º 1 do presente anexo, sem que lhe seja dada oportunidade para apresentar o seu caso, num período de tempo razoável, e o Conselho de Governadores considere as razões para a incapacidade em cumprir tais obrigações.
 
-## ANEXO C — Critérios de elegibilidade para os organismos internacionais de produtos de base
+ANEXO C
+
+Critérios de elegibilidade para os organismos internacionais de produtos de base
 
 1 - Um organismo internacional de produtos de base será estabelecido numa base intergovernamental, com participação aberta a todos os Estados membros das Nações Unidas ou de qualquer das suas agências especializadas ou da Agência Internacional para a Energia Atómica.
 
@@ -6135,7 +6291,9 @@ c) Após os pagamentos conforme as alíneas a) e b) acima, os remanescentes 40 %
 
 5 - Estará em posição de adotar um método adequado à regularização de quaisquer responsabilidades técnicas ou outras que decorram da sua associação com as atividades da conta de operações.
 
-## ANEXO D — Atribuição de votos
+ANEXO D
+
+Atribuição de votos
 
 1 - Cada Estado membro referido no artigo 5.º, alínea a), terá direito a:
 
@@ -6165,9 +6323,11 @@ QUADRO APENSO AO ANEXO D
 
 Atribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf))](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/13000/0341603514.pdf)
 
-## ANEXO E — Eleição dos Diretores Executivos
+ANEXO E
+
+Eleição dos Diretores Executivos
 
 1 - No âmbito do presente Anexo:
 
@@ -6189,7 +6349,9 @@ b) Qualquer grupo de membros que detenha entre eles um número de votos que se i
 
 5 - O Conselho de Governadores poderá, a qualquer altura, por maioria altamente qualificada, alterar todos ou alguns dos números de votos referidos no n.º 1 do presente anexo.
 
-## ANEXO F — Unidade de Conta
+ANEXO F
+
+Unidade de Conta
 
 1 - O valor da Unidade de Conta será a soma dos valores seguintes, convertidos em qualquer uma dessas moedas:
 

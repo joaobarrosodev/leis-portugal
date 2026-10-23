@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/2017/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-2017-106478683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94476d8ed114936131c7dbf7f3282c4112cf0cda711198d13a26eac2f02570e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27cfc5fdfa2ff6991cc49be4ef4bc6b64410d84198aacfc3fe325f3215e3861a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cazaquistão
 - Astana
+- Cazaquistão
 - Combate ao Terrorismo
-- Direitos do Homem
+- Comércio
 - Convenção
 - Cooperação Aduaneira
-- Política de Cooperação
-- Cooperação Jurídica
-- Portugal
-- Trafico de Armas
-- Direito Humanitário
-- União Europeia
-- Indústria
-- Sociedade da Informação
-- Segurança Internacional
-- Desenvolvimento Económico
 - Cooperação Económica
-- Comércio
+- Cooperação Jurídica
+- Desenvolvimento Económico
+- Direito Humanitário
+- Direitos do Homem
+- Indústria
+- Política de Cooperação
+- Portugal
+- Segurança Internacional
+- Sociedade da Informação
+- Trafico de Armas
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:106478680:por
+  label: Ratificado o Acordo, pelo Decreto do Presidente da República n.º 18/2017 - Diário da República n.º 35/2017, Série
+    I de 2017-02-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-2017-106478680
+  date: '2017-02-17'
 - type: cites
   target: celex:31995R2988
   label: null
@@ -139,14 +145,14 @@ relationships:
   source: http://data.europa.eu/
 article_structure:
   article_count: 311
-  section_count: 74
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 83
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:36Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +165,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de dezembro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA E COOPERAÇÃO REFORÇADAS ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DO CAZAQUISTÃO, POR OUTRO.
 
@@ -3867,7 +3873,7 @@ A entrada e estada temporária de pessoas transferidas dentro de uma empresa pel
 
 ## ANEXO III — Âmbito do capítulo 8 («Contratos públicos») do título iii («Comércio e empresas»)
 
-# Parte 1 — Entidades da administração central cujos procedimentos de adjudicação de contratos são abrangidos
+## Parte 1 — Entidades da administração central cujos procedimentos de adjudicação de contratos são abrangidos
 
 Limiares a que se refere o artigo 120.º, n.º 2, alínea c), do presente Acordo:
 
@@ -3911,7 +3917,7 @@ Para a República do Cazaquistão:
 
 Nota. - A organização e realização dos procedimentos de adjudicação de contratos para os organismos públicos acima indicados podem ser confiadas a uma instituição única designada em conformidade com a legislação da República do Cazaquistão.
 
-# Parte 2 — Entidades da administração regional e local cujos procedimentos de adjudicação de contratos são abrangidos
+## Parte 2 — Entidades da administração regional e local cujos procedimentos de adjudicação de contratos são abrangidos
 
 Limiares a que se refere o artigo 120.º, n.º 2, alínea c), do presente Acordo:
 
@@ -3963,11 +3969,11 @@ Para a República do Cazaquistão:
 
 Nota. - A organização e realização dos procedimentos de adjudicação de contratos para os organismos públicos acima indicados podem ser confiadas a uma instituição única designada em conformidade com a legislação da República do Cazaquistão.
 
-# Parte 3 — Todas as outras entidades cujos procedimentos de adjudicação de contratos públicos são abrangidos
+## Parte 3 — Todas as outras entidades cujos procedimentos de adjudicação de contratos públicos são abrangidos
 
 (Nenhuma.)
 
-# Parte 4 — Mercadorias abrangidas
+## Parte 4 — Mercadorias abrangidas
 
 Para a União Europeia e a República do Cazaquistão:
 
@@ -3977,21 +3983,21 @@ Para a União Europeia e a República do Cazaquistão:
 
 Os números de código do Sistema Harmonizado de Designação e de Codificação das Mercadorias da Organização Mundial das Alfândegas (SH) indicados no quadro seguinte identificam as mercadorias referidas no artigo 137.º do presente Acordo. A descrição é indicada a título meramente informativo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
 
-# Parte 5 — Serviços abrangidos
+## Parte 5 — Serviços abrangidos
 
 Para a União Europeia e para a República do Cazaquistão:
 
 O Acordo é aplicável à adjudicação de contratos pelas entidades enumeradas nas partes 1 a 3 do presente anexo dos seguintes serviços identificados com base na Divisão 51 da Classificação Central dos Produtos das Nações Unidas (a seguir designada «CPC») contida na lista de classificação setorial de serviços da OMC (MTN.GNS/W/120) (1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
 
 (1) Exceto os serviços que as entidades adjudicantes têm de adquirir a outra entidade nos termos de um direito exclusivo estabelecido por disposições legislativas, regulamentares ou administrativas.
 
 Nota. - Os serviços abrangidos estão sujeitos às limitações e condições especificadas na lista de compromissos específicos subscritos por cada uma das Partes no âmbito do GATS.
 
-# Parte 6 — Serviços de construção abrangidos
+## Parte 6 — Serviços de construção abrangidos
 
 Para a União Europeia e a República do Cazaquistão:
 
@@ -3999,7 +4005,7 @@ O Acordo é aplicável aos procedimentos de adjudicação de contratos pelas ent
 
 Nota. - Os serviços abrangidos estão sujeitos às limitações e condições especificadas na lista de compromissos específicos subscritos por cada uma das Partes no âmbito do GATS.
 
-# Parte 7 — Notas gerais
+## Parte 7 — Notas gerais
 
 Para a União Europeia:
 
@@ -4043,11 +4049,11 @@ f) A adjudicação de contratos de serviços financeiros, salvo se especificado 
 
 ## ANEXO IV — Meios de comunicação para a publicação de informações e de anúncios referidos no capítulo 8 («Contratos públicos») do título iii («Comércio e empresas»)
 
-# Parte 1 — Meios de comunicação para a publicação de informações relativas a contratos públicos
+## Parte 1 — Meios de comunicação para a publicação de informações relativas a contratos públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
 
-# Parte 2 — Meios de comunicação para a publicação de anúncios
+## Parte 2 — Meios de comunicação para a publicação de anúncios
 
 Para a União Europeia:
 
@@ -4593,4 +4599,4 @@ c) Não afetam as disposições da União Europeia relativas à comunicação, e
 
 3 - No que respeita a questões relacionadas com a aplicabilidade do presente Protocolo, as Partes devem consultar-se tendo em vista a sua resolução no âmbito de um diálogo regular entre as Partes sobre questões aduaneiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03500/0089800978.pdf)

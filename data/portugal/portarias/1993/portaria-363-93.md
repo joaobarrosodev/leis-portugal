@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/363/1993/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1993-681442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a38120cdff9a9e6af77f73547bf0f5ea871cd42f3339843dfdaf6af6acaabab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 660eb93e786614d6abc7d4908c12e3978965d7dd82b4b9757df1181b2844d80d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Garantia
-- Serviço Público
 - Seguro Obrigatório de Responsabilidade Civil
-relationships: []
+- Serviço Público
+relationships:
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:13Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ b) 1123500000$00, para as concessionárias da exploração das redes da distribu
 
 Ministério da Indústria e Energia.
 
-**Assinada em 5 de Março de 1993.**
+Assinada em 5 de Março de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

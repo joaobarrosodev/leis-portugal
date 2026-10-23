@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285/1993/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-1993-634914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e876c2477c84cd783d88813cee73d7de09cc97f984285db4c1e3a4ec376e44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4460aa000101757fa045bb5a8bbbcb8c4bc6a9c17dc622546f771748c9555c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,56 @@ relationships:
   target: pt:dre:157587:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344957:por
+  label: "Renovada, por um período de seis anos, a concessão atribuída pelo presente diploma, pela PORT.592/99.1999.08.02.MADRP\
+    \ DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-1999-344957
+  date: '1999-08-02'
+- type: amended_by
+  target: pt:dre:157587:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pelo presente diploma (anteriormente renovada pela\
+    \ Port 592/99 de 02-Ago) pela PORT.960/2005.04.10.2005.MADRP, DR.IS-B [191] de 04.10.2005 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-2005-157587
+  date: '2005-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:23Z'
   warnings: []
   errors: []
 ---
@@ -130,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Fevereiro de 1993.**
+Assinada em 4 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/060b00/11681169.pdf))](https://files.diariodarepublica.pt/1s/1993/03/060b00/11681169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/060b00/11681169.pdf)

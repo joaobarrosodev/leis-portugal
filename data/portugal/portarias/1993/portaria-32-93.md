@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/1993/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1993-283939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d79a8eaacd8091d0a9419086d1312280cd4e47c8db2d8eb3caa2e0ac7317565e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a052844e7d50370db90ec17bea8871bc0dd159ad2c91cccf71236743ced55e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,10 @@ subjects:
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 34/93, PUBLICADA NO DR.IS-B, 49, 4 SUPL, DE 930227.\0227.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -87,16 +91,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665736:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:13Z'
   warnings: []
   errors: []
 ---
@@ -119,23 +163,23 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Dezembro de 1992.**
+Assinada em 14 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento do Plano de Pormenor do Núcleo Industrial de Murtede
 
-###### Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Núcleo Industrial de Murtede, definida pela linha limite da urbanização, conforme planta de síntese.
+Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Núcleo Industrial de Murtede, definida pela linha limite da urbanização, conforme planta de síntese.
 
-###### Art. 2.º Serão observadas todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste loteamento, do Regulamento Geral das Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e pareceres vinculativos prestados.
+Art. 2.º Serão observadas todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste loteamento, do Regulamento Geral das Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e pareceres vinculativos prestados.
 
-###### Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permitir, devendo, oportunamente, ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm, obrigatoriamente, os edifícios principais com frente e acesso para os arruamentos aprovados.
+Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permitir, devendo, oportunamente, ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm, obrigatoriamente, os edifícios principais com frente e acesso para os arruamentos aprovados.
 
-###### Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno ou a sua vegetação, que deverão ser mantidos, evitando-se os movimentos de terras que contrariem as melhores condições existentes.
+Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno ou a sua vegetação, que deverão ser mantidos, evitando-se os movimentos de terras que contrariem as melhores condições existentes.
 
-###### Art. 5.º A Câmara Municipal de Cantanhede (CMC) intervirá sempre em primeira instância na selecção das indústrias, estabelecendo prioridades e formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o município.
+Art. 5.º A Câmara Municipal de Cantanhede (CMC) intervirá sempre em primeira instância na selecção das indústrias, estabelecendo prioridades e formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o município.
 
-###### Art. 6.º As condições a respeitar na selecção e definição das prioridades das indústrias a instalar serão as seguintes:
+Art. 6.º As condições a respeitar na selecção e definição das prioridades das indústrias a instalar serão as seguintes:
 
 a) Indústrias que promovam e dinamizem o sector agrícola;
 
@@ -153,9 +197,9 @@ f) Armazéns industriais.
 
 § 2.º As indústrias cuja laboração provoque poluição no meio hídrico (para além das águas residuais das suas instalações sanitárias e refeitórios) só serão autorizadas se comprovarem que a poluição que produzem (eventualmente após tratamento nas suas instalações dos respectivos efluentes industriais) não ultrapassará os parâmetros oficialmente fixados na legislação portuguesa e comunitária em vigor, para o lançamento de águas residuais nos meios hídricos superficiais ou na ETAR que sirva o loteamento industrial.
 
-###### Art. 7.º Os potenciais interessados nos lotes deverão ser informados pelos serviços competentes, antes da elaboração dos projectos, dos requisitos a que estes devem obedecer.
+Art. 7.º Os potenciais interessados nos lotes deverão ser informados pelos serviços competentes, antes da elaboração dos projectos, dos requisitos a que estes devem obedecer.
 
-###### Art. 8.º As condições de instalação e de funcionamento dos estabelecimentos industriais são as seguintes:
+Art. 8.º As condições de instalação e de funcionamento dos estabelecimentos industriais são as seguintes:
 
 a) A viabilidade de instalação carece sempre de parecer da CMC;
 
@@ -173,7 +217,7 @@ g) Os projectos das indústrias a instalar deverão, caso se justifique, indicar
 
 h) Deverão os potenciais industriais ser informados e dar cumprimento ao [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, quer na construção do estabelecimento, quer na instalação dos equipamentos, de forma a não ultrapassar os níveis de ruído permitidos para o interior e exterior do estabelecimento.
 
-###### Art. 9.º As condições de ocupação dos lotes são as seguintes:
+Art. 9.º As condições de ocupação dos lotes são as seguintes:
 
 a) A percentagem de ocupação do solo não poderá exceder, por cada lote, 40% da área do mesmo;
 
@@ -185,12 +229,12 @@ d) Os muros ou delimitações das estremas dos lotes deverão ser feitos de acor
 
 e) A implantação dos edifícios deve respeitar os afastamentos mínimos de 5 m aos limites laterais dos lotes, bem como os afastamentos de 50 m relativamente à estrada nacional n.º 234 e de 70 m ao IP 1.
 
-###### Art. 10.º A área coberta mínima a construir numa primeira fase deverá ocupar pelo menos 20% da área coberta máxima.
+Art. 10.º A área coberta mínima a construir numa primeira fase deverá ocupar pelo menos 20% da área coberta máxima.
 
-###### Art. 11.º A CMC reserva o direito de, após a apreciação da implantação do futuro edifício industrial, exigir a manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que não se torne potencialmente perigosa ou ameaçadora de qualquer desastre.
+Art. 11.º A CMC reserva o direito de, após a apreciação da implantação do futuro edifício industrial, exigir a manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que não se torne potencialmente perigosa ou ameaçadora de qualquer desastre.
 
-###### Art. 12.º Todos os lotes terão de possuir áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas dos bombeiros.
+Art. 12.º Todos os lotes terão de possuir áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas dos bombeiros.
 
-###### Art. 13.º Deverão ser estabelecidos, aquando da instalação de cada unidade industrial, contactos com a EDP e TELECOM por forma a assegurar a necessária previsão e disponibilidades das respectivas redes de energia e telecomunicações para as unidades industriais.
+Art. 13.º Deverão ser estabelecidos, aquando da instalação de cada unidade industrial, contactos com a EDP e TELECOM por forma a assegurar a necessária previsão e disponibilidades das respectivas redes de energia e telecomunicações para as unidades industriais.
 
-###### Art. 14.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente regulamento serão resolvidas pela CMC.
+Art. 14.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente regulamento serão resolvidas pela CMC.

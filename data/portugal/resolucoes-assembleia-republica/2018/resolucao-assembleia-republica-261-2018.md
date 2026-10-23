@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/261/2018/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/261-2018-115991689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b5b701c26ecbc0b502a5a0bfaf7d35087deb9596062dcf961b6f439313e97d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f58256ac1fe2f1eb1667ab067fd7a9fa8b06053e9fac6c06de8cb0f75fe1284e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,68 +66,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Afeganistão
 - Alfândega
-- Protecção do Investimento
+- Alteração Climática
 - ARMA de Destruição Maciça
-- Modernização Administrativa
+- Armamento
+- Catástrofe
 - CE Países
-- Formação Profissional
 - Circulação de Capitais
-- Desenvolvimento Rural
 - Combate à Fraude
 - Combate ao Terrorismo
-- Juventude
-- Direitos do Homem
-- Igualdade de Tratamento
 - Comité Misto
+- Controlo Sanitário
 - Convenção
 - Cooperação Aduaneira
+- Cooperação Agrícola
 - Cooperação Bilateral
 - Cooperação Comercial
 - Cooperação Consular
-- Política de Cooperação
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Educação
-- Portugal
-- Desenvolvimento Regional
-- Controlo Sanitário
-- Migração
-- Armamento
-- União Europeia
-- Catástrofe
-- Cooperação Tecnológica
-- Investimento Estrangeiro
-- Afeganistão
-- Munique
-- Segurança Internacional
-- OIT
-- Pauta Aduaneira
-- Desenvolvimento Económico
-- Cooperação Agrícola
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Cooperação Política
-- Evasão Fiscal
-- Emprego
-- Propriedade Intelectual
-- Diploma Legal
-- Alteração Climática
+- Cooperação Técnica
+- Cooperação Tecnológica
 - Dados Pessoais
-relationships: []
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Diploma Legal
+- Direitos do Homem
+- Educação
+- Emprego
+- Evasão Fiscal
+- Formação Profissional
+- Igualdade de Tratamento
+- Investimento Estrangeiro
+- Juventude
+- Migração
+- Modernização Administrativa
+- Munique
+- OIT
+- Pauta Aduaneira
+- Política de Cooperação
+- Portugal
+- Propriedade Intelectual
+- Protecção do Investimento
+- Segurança Internacional
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:115991685:por
+  label: Ratificado o Acordo de Cooperação pelo(a) Decreto do Presidente da República n.º 49/2018 - Diário da República n.º
+    154/2018, Série I de 2018-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/49-2018-115991685
+  date: '2018-08-10'
 article_structure:
   article_count: 60
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:07Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +146,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de abril de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE COOPERAÇÃO EM MATÉRIA DE PARCERIA E DESENVOLVIMENTO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA ISLÂMICA DO AFEGANISTÃO, POR OUTRO.
 
@@ -630,7 +636,7 @@ b) Promovam o intercâmbio de informações e de conhecimentos, a mobilidade de 
 
 c) Apoiem a criação de capacidades e a promoção da qualidade no ensino e na aprendizagem, tirando proveito de outras experiências relevantes adquiridas neste domínio.
 
-3 - As Partes acordam em promover a execução de programas para o ensino superior e a juventude, como o Programa Erasmus+ da União, e para a mobilidade e a formação de investigadores, como as Ações [([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf), bem como em incentivar as suas instituições de ensino a cooperar em programas conjuntos com vista a reforçar a cooperação académica e a mobilidade e a fomentar a cooperação entre organizações de juventude, nomeadamente através de uma maior mobilidade de jovens e de técnicos de juventude no contexto da educação e da aprendizagem não formais.
+3 - As Partes acordam em promover a execução de programas para o ensino superior e a juventude, como o Programa Erasmus+ da União, e para a mobilidade e a formação de investigadores, como as Ações [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf), bem como em incentivar as suas instituições de ensino a cooperar em programas conjuntos com vista a reforçar a cooperação académica e a mobilidade e a fomentar a cooperação entre organizações de juventude, nomeadamente através de uma maior mobilidade de jovens e de técnicos de juventude no contexto da educação e da aprendizagem não formais.
 
 4 - Incentivar-se-á a cooperação em matéria de investigação, nomeadamente através do Horizonte 2020 - o Programa-Quadro de Investigação e Inovação da União (2014-2020).
 
@@ -854,4 +860,6 @@ b) O depósito, pelo Afeganistão, do instrumento de ratificação em conformida
 
 O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca, pastó e dari, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15400/0398003996.pdf)
+
+122018

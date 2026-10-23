@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1142/1993/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1142-1993-685426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d66355fa22881434892356c1cedecb912c9e551a720e06484edadb2409d1584
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa47bfac8447fe489c2f0cf2a036ac8539508f4a56d0af7f11fe018f42aaac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:12Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +163,15 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 21 de Setembro de 1993.**
+Assinada em 21 de Setembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento das normas provisórias do Plano Director Municipal do concelho de Carregal do Sal
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Disposições gerais
 
@@ -437,4 +483,4 @@ d) Qualquer ajustamento só terá eficácia depois de aprovado pela Câmara Muni
 
 § único. A execução destas normas provisórias não dispensa a consulta às diversas entidades nas áreas da sua respectiva jurisdição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/260b00/62226226.pdf))](https://files.diariodarepublica.pt/1s/1993/11/260b00/62226226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/260b00/62226226.pdf)

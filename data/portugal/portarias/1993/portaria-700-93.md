@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/700/1993/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-1993-345286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75dc25fafa7086c7f39efd44907130b65a81a4f5d83d1584db29739ddadf352d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ce13789a063952e7ae1bd889e91991abe27c3506c8e1ae3b550e86e01bd84a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Composição
 - Curso de Estudos Gregorianos
 - Curso de Instrumento
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:527428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506625:por
+  label: "Revogado o n.º 2.º e os anexos pela PORT.449/95.12.05.1995.ME, DR.IS-B [110] de 12.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1995-506625
+  date: '1995-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:42Z'
   warnings: []
   errors: []
 ---
@@ -140,69 +161,69 @@ Os aditamentos e alterações aprovados pela presente portaria entram em funcion
 
 Ministério da Educação.
 
-**Assinada em 1 de Julho de 1993.**
+Assinada em 1 de Julho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO II — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO III — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO IV — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO V — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO VI — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO VII — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO VIII — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO IX — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO X — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XI — Instituto Politécnico de Lisboa
 
@@ -212,13 +233,13 @@ Escola Superior de Música
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XIV — Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XV — ([Portaria n.º 1233/90](https://diariodarepublica.pt/dr/detalhe/portaria/1233-1990-564233), de 28 de Dezembro)
 
@@ -226,7 +247,7 @@ Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XVI — ([Portaria n.º 1233/90](https://diariodarepublica.pt/dr/detalhe/portaria/1233-1990-564233), de 28 de Dezembro)
 
@@ -234,7 +255,7 @@ Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XVII — ([Portaria n.º 1233/90](https://diariodarepublica.pt/dr/detalhe/portaria/1233-1990-564233), de 28 de Dezembro)
 
@@ -242,7 +263,7 @@ Instituto Politécnico de Lisboa
 
 Escola Superior de Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 ## ANEXO XVIII — ([Portaria n.º 1233/90](https://diariodarepublica.pt/dr/detalhe/portaria/1233-1990-564233), de 28 de Dezembro)
 
@@ -254,7 +275,7 @@ Curso: Estudos Superiores Gregorianos
 
 Grau: Bacharelato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf))](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/176b00/40784090.pdf)
 
 Para além das disciplinas acima referidas, poderão constituir disciplinas de opção para cada uma das áreas as que, integrando os planos de estudos das outras áreas, não façam parte do plano de estudos da própria área.
 

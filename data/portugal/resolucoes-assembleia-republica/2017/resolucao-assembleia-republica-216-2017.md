@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16300/0502905035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/216/2017/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/216-2017-108051989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c858c8874a44d01b7cd3e2e323ac8a4ad6cafd68cc7d29f7db1662f2e1a07df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82267db15c028a078ead6f96dcadb5a023b2fb4e50df53165ef86acf10b79b70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Crime
+- ÁREA de Jurisdição
+- Aviação Civil
 - Avião
 - Convenção
-- Portugal
-- ÁREA de Jurisdição
+- Crime
+- Jurisdição
 - Montreal
-- Aviação Civil
+- Portugal
 - Segurança Aérea
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:108051986:por
+  label: Ratificado o Protocolo pelo(a) Decreto do Presidente da República n.º 79/2017 - Diário da República n.º 163/2017,
+    Série I de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/79-2017-108051986
+  date: '2017-08-24'
 article_structure:
-  article_count: 0
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:11Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOL TO AMEND THE CONVENTION ON OFFENCES AND CERTAIN OTHER ACTS COMMITTED ON BOARD AIRCRAFT
 
@@ -312,11 +318,11 @@ Convictos de que, para fazer face a estas preocupações, é necessário adotar 
 
 acordaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 O presente Protocolo procede à alteração da Convenção Referente às Infrações e a Certos Outros Atos Cometidos a Bordo de Aeronaves, assinada em Tóquio, a 14 de setembro de 1963 (adiante designada «Convenção»).
 
-Artigo II
+###### Artigo II
 
 O n.º 3 do artigo 1.º da Convenção passa a ter a seguinte redação:
 
@@ -328,7 +334,7 @@ a) Uma aeronave é considerada em voo, desde o momento em que, terminado o embar
 
 b) Quando o Estado de origem do operador não for o mesmo que o Estado de registo da aeronave, a expressão 'Estado de registo da aeronave', utilizada nos artigos 4.º, 5.º e 13.º da Convenção, deve ser entendida como sendo o Estado de origem do operador.»
 
-Artigo III
+###### Artigo III
 
 O artigo 2.º da Convenção passa a ter a seguinte redação:
 
@@ -336,7 +342,7 @@ O artigo 2.º da Convenção passa a ter a seguinte redação:
 
 Sem prejuízo do disposto no artigo 4.º e das exigências de segurança da aeronave e das pessoas ou bens a bordo, nenhuma disposição da presente Convenção deve ser interpretada como autorizando ou exigindo a aplicação de qualquer medida no caso de infrações a leis penais de caráter político ou baseadas em discriminação racial, religiosa, nacionalidade, origem étnica, opinião política ou sexo.»
 
-Artigo IV
+###### Artigo IV
 
 O artigo 3.º da Convenção passa a ter a seguinte redação:
 
@@ -366,7 +372,7 @@ b) Na qualidade de Estado de origem do operador, se a infração ou o ato for pr
 
 3 - A presente Convenção não exclui o exercício da competência penal em conformidade com as leis nacionais.»
 
-Artigo V
+###### Artigo V
 
 É aditado à presente Convenção o artigo 3.º bis, com a seguinte redação:
 
@@ -374,11 +380,11 @@ Artigo V
 
 Se um Estado Contratante, ao exercer as suas competências nos termos do artigo 3.º, for notificado ou por qualquer outra forma tiver conhecimento de que um ou mais Estados Contratantes se encontrem a conduzir uma investigação ou um processo judicial sobre as mesmas infrações ou os mesmos atos, caso entenda ser necessário, deve consultar esses Estados Contratantes para coordenarem as suas ações. Os deveres constantes do presente artigo não prejudicam os deveres dos Estados Contratantes previstos no artigo 13.º»
 
-Artigo VI
+###### Artigo VI
 
 É revogado o n.º 2 do artigo 5.º da Convenção.
 
-Artigo VII
+###### Artigo VII
 
 O artigo 6.º da Convenção passa a ter a seguinte redação:
 
@@ -398,7 +404,7 @@ c) Para permitir entregar essa pessoa às autoridades competentes ou desembarcá
 
 4 - Nenhuma das disposições da presente Convenção se deve interpretar no sentido de obrigar um Estado Contratante a estabelecer um programa de agentes de segurança a bordo ou a concluir um acordo ou bilateral ou multilateral que autorize que agentes de segurança a bordo estrangeiros atuem no seu território.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo 9.º da Convenção passa a ter a seguinte redação:
 
@@ -410,7 +416,7 @@ O artigo 9.º da Convenção passa a ter a seguinte redação:
 
 3 - O comandante da aeronave deve fornecer às autoridades a quem, de harmonia com o disposto neste artigo, entregue o presumível autor da infração, os elementos de prova e de informação que se encontrem legitimamente em seu poder.»
 
-Artigo IX
+###### Artigo IX
 
 O artigo 10.º da Convenção passa a ter a seguinte redação:
 
@@ -418,7 +424,7 @@ O artigo 10.º da Convenção passa a ter a seguinte redação:
 
 Sempre que a aplicação das medidas previstas na presente Convenção esteja em conformidade com esta, o comandante da aeronave, qualquer membro da tripulação, qualquer passageiro, o agente de segurança a bordo, o proprietário ou o operador da aeronave, ou a pessoa por conta de quem o voo se realize, não podem ser responsabilizados em qualquer processo pelos prejuízos sofridos pela pessoa objeto dessas medidas.»
 
-Artigo X
+###### Artigo X
 
 É aditado à presente Convenção o artigo 15.º bis, com a seguinte redação:
 
@@ -432,7 +438,7 @@ b) Recusa em obedecer a instruções legítimas dadas pelo comandante da aeronav
 
 2 - Nenhuma das disposições da presente Convenção deve afetar o direito de cada Estado Contratante de introduzir ou de manter na sua legislação nacional medidas apropriadas para punir atos de interferência ilícita cometidos a bordo.»
 
-Artigo XI
+###### Artigo XI
 
 O n.º 1 do artigo 16.º da Convenção passa a ter a seguinte redação:
 
@@ -440,7 +446,7 @@ O n.º 1 do artigo 16.º da Convenção passa a ter a seguinte redação:
 
 1 - As infrações praticadas a bordo de aeronaves são consideradas, para fins de extradição entre os Estados Contratantes, como tendo sido praticadas tanto no lugar em que ocorreram, como no território dos Estados Contratantes, os quais devem estabelecer a sua competência de acordo com o disposto nos n.os 2 e 2 bis do artigo 3.º»
 
-Artigo XII
+###### Artigo XII
 
 O artigo 17.º da Convenção passa a ter a seguinte redação:
 
@@ -450,7 +456,7 @@ O artigo 17.º da Convenção passa a ter a seguinte redação:
 
 2 - A atuação de cada Estado Contratante, em cumprimento das suas obrigações ou no exercício de um poder discricionário, previstos na presente Convenção, deve conformar-se com as obrigações e com as responsabilidades dos Estados no Direito Internacional. A este respeito, cada Estado Contratante deve tomar em consideração os princípios do processo devido e do tratamento equitativo.»
 
-Artigo XIII
+###### Artigo XIII
 
 É aditado à presente Convenção o artigo 18.º bis, com a seguinte redação:
 
@@ -458,19 +464,19 @@ Artigo XIII
 
 Nenhuma das disposições da presente Convenção deve obstar ao exercício do direito de reclamar junto da pessoa que tenha sido entregue ou desembarcada, conforme o previsto nos artigos 8.º ou 9.º, respetivamente, uma indemnização pelos danos sofridos, como resultado de tal desembarque ou entrega, de acordo com a legislação nacional.»
 
-Artigo XIV
+###### Artigo XIV
 
 O texto da Convenção nas línguas árabe, chinesa e russa, em anexo ao presente Protocolo, devem constituir, juntamente com o texto da Convenção nas línguas espanhola, francesa e inglesa, textos autênticos nas seis línguas em causa.
 
-Artigo XV
+###### Artigo XV
 
 Entre os Estados Contratantes do presente Protocolo, a Convenção e o Protocolo devem ler-se e interpretar-se em conjunto, como um instrumento único e devem designar-se por Convenção de Tóquio, modificada pelo Protocolo de Montreal de 2014.
 
-Artigo XVI
+###### Artigo XVI
 
 O presente Protocolo é aberto, em 4 de abril de 2014, em Montreal, à assinatura pelos Estados que tenham participado na Conferência Internacional de Direito Aéreo que teve lugar em Montreal, de 26 de março a 4 de abril de 2014. Após 4 de abril de 2014, o presente Protocolo fica aberto para a assinatura por todos os Estados na Sede da Organização da Aviação Civil Internacional, em Montreal, até à sua entrada em vigor, nos termos do disposto no artigo xviii.
 
-Artigo XVII
+###### Artigo XVII
 
 1 - O presente Protocolo está sujeito a ratificação, a aceitação ou a aprovação dos Estados Signatários. Os instrumentos de ratificação, de aceitação ou de aprovação devem ser depositados perante o Secretário-Geral da Organização da Aviação Civil Internacional, que é pelo presente Protocolo designado como Depositário.
 
@@ -478,7 +484,7 @@ Artigo XVII
 
 3 - A ratificação, a aceitação, a aprovação ou a adesão ao presente Protocolo por um Estado que não seja um Estado Contratante da Convenção deve produzir o efeito de ratificação, de aceitação, de aprovação ou de adesão à Convenção de Tóquio, modificada pelo Protocolo de Montreal de 2014.
 
-Artigo XVIII
+###### Artigo XVIII
 
 1 - O presente Protocolo entra em vigor no primeiro dia do segundo mês seguinte à data do depósito do vigésimo segundo instrumento de ratificação, de aceitação, de aprovação ou de adesão, junto do Depositário.
 
@@ -486,13 +492,13 @@ Artigo XVIII
 
 3 - Logo após a entrada em vigor do presente Protocolo, o Depositário deve registá-lo junto das Nações Unidas.
 
-Artigo XIX
+###### Artigo XIX
 
 1 - Os Estados Contratantes podem denunciar o presente Protocolo mediante notificação escrita ao Depositário.
 
 2 - A denúncia produz efeitos um ano após a data da receção da referida notificação pelo Depositário.
 
-Artigo XX
+###### Artigo XX
 
 O Depositário deve notificar imediatamente todos os Estados Contratantes e Signatários do presente Protocolo sobre a data de cada assinatura, a data do depósito de cada instrumento de ratificação, aceitação, aprovação ou adesão, a data de entrada em vigor do presente Protocolo e outras informações pertinentes.
 

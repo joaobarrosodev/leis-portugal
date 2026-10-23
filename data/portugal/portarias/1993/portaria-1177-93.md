@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 263/1993, 1º Suplemento, Série I-B de 1993-11-10
   number: '263'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6298-(2) a 6298-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/263b01/00020051.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1177/1993/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50214724185053df7f4ffec630184b6d6214c79e6f9508d8a004bcf305fadde0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e863fd5399ea6c5da6bca04757fcdd328dacfe8fceaffcbae2747ec636730948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
 subjects:
 - Extinção de Lugares
 - Extinção de Serviços
-- Pessoal de Justiça
-- Tribunal do Trabalho
-- Tribunal Cível
-- Tribunal Criminal
-- Tribunal de Comarca
-- Orgânica
-- Supremo Tribunal de Justiça
-- Quadro de Pessoal
 - Ministério Público
+- Orgânica
+- Pessoal de Justiça
+- Quadro de Pessoal
 - Secretaria Judicial
 - Supremo Tribunal Administrativo
+- Supremo Tribunal de Justiça
 - Tribunal Administrativo
+- Tribunal Cível
+- Tribunal Criminal
 - Tribunal da Relação
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Execução das Penas
 - Tribunal de Família
 - Tribunal de Família e de Menores
 - Tribunal de Instrução Criminal
 - Tribunal de Menores
+- Tribunal do Trabalho
 - Tribunal Judicial
 - Tribunal Marítimo
 - VARA Civel
@@ -96,6 +96,83 @@ relationships:
   target: pt:dre:2777634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 9/94 DE 19-JAN DR.IS-B [25]2SUPL DE 31/JAN/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS QUADROS DE PESSOAL DAS SECRETÁRIAS JUDICIAIS, DAS SECRETÁRIAS DOS TRIBUNAIS ADMINISTRATIVOS E DOS SERVIÇOS
+    DO MINISTÉRIO PÚBLICO, PELA PORT 816/94, DE 16-SET DR.IS-B [215]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS E ADITADOS OS QUADROS DE PESSOAL DAS SECRETÁRIAS JUDICIAIS DE DIVERSOS TRIBUNAIS PELA PORT 1258/95 DE 24-OUT
+    DR.IS-B [246]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-24'
+- type: amended_by
+  target: pt:dre:422859:por
+  label: "Alterados os quadros de pessoal das secretarias judiciais de diversos ministérios e dos serviços do Ministério Público,\
+    \ aprovado pelo presente diploma, aditando-lhe ao mesmo diploma o quadro de pessoal do Tribunal da Comarca da Maia, bem\
+    \ como o dos respectivos serviços do Ministério Público, pela PORT.245/96.08.07.1996.PCM, DR.IS-B [156] de 08.07.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1996-422859
+  date: '1996-07-08'
+- type: amended_by
+  target: pt:dre:1870494:por
+  label: "Alterada pela PORT.217/96IIS.1996.10.04.PCM, DR.IIS [251]J\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1996-1870494
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:571199:por
+  label: "Alterado o mapa anexo à presente Portaria, anteriormente alterada pelas Port 816/94 de 16-Set, 1258/95 de 25-Out\
+    \ e 245/96 de 08-Jul, pela Port.63/97.1997.01.28.PCM, DR.IS-B [23]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-1997-571199
+  date: '1997-01-28'
+- type: amended_by
+  target: pt:dre:384605:por
+  label: "Alterado o quadro de pessoal anexado pela Port 245/96 de 08-Jul DR.IS-B [156] pela PORT.306/97.1997.05.09.PCM, MF\
+    \ E MJ DR.IS-B [107] DE 09/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-1997-384605
+  date: '1997-05-09'
+- type: amended_by
+  target: pt:dre:384607:por
+  label: "Alterados os quadros de pessoal das secretarias judiciais de Fafe, Felgueiras e Montijo pela PORT.307/97.1997.05.09.PCM,\
+    \ MF E MJ DR.IS-B [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1997-384607
+  date: '1997-05-09'
+- type: amended_by
+  target: pt:dre:395149:por
+  label: "Alterado o quadro de pessoal pela Port 311/97.1997.05.13.PCM, DR.IS-B [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1997-395149
+  date: '1997-05-13'
+- type: amended_by
+  target: pt:dre:521838:por
+  label: "Alterados os quadros de pessoal das Secretarias Judiciais, aprovados pelo presente diploma, com a redacção dada\
+    \ pelas Port 816/94 de 16-Set, 1258/95 de 24-Out, 245/96 de 08-Jul, 63/97 de 28-Jan, 306/97 de 09-Mai, 307/07 de 09-Mai\
+    \ e 311/97 de 13-Mai, pela PORT.299/98.1998.05.18.PCM DR.IS-B [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1998-521838
+  date: '1998-05-18'
+- type: amended_by
+  target: pt:dre:478061:por
+  label: "Alterado o quadro de pessoal do Tribunal de Comarca de São João da Madeira pela PORT.372/98.1998.07.01.PCM, DR.IS-B\
+    \ [149] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1998-478061
+  date: '1998-07-01'
+- type: amended_by
+  target: pt:dre:333494:por
+  label: "Alterados os quadros de pessoal pela PORT.307/99.1999.05.06.PCM,DR.IS-B [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1999-333494
+  date: '1999-05-06'
+- type: amended_by
+  target: pt:dre:2777634:por
+  label: "Alterado o quadro de pessoal do Tribunal da Relação de Lisboa, pela PORT.1509/2001(2ªSÉRIE).2001.08.27.MJ, DR.IIS\
+    \ [213] de 13/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1509-2001-2777634
+  date: '2001-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre
   label: null
@@ -108,16 +185,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/38/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:355536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 405
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:01Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +259,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 3 de Novembro de 1993.**
+Assinada em 3 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
@@ -156,7 +269,7 @@ Secretarias judiciais
 
 Supremo Tribunal de Justiça
 
-#### Secção de expediente e contabilidade e cinco secções de processos:
+Secção de expediente e contabilidade e cinco secções de processos:
 
 Pessoal:
 
@@ -380,7 +493,7 @@ Auxiliar administrativo ... 5
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -444,7 +557,7 @@ Auxiliar administrativo ... 2
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -466,7 +579,7 @@ Abrantes
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -488,7 +601,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -502,7 +615,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -530,7 +643,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de comarca
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -548,7 +661,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -562,7 +675,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -590,7 +703,7 @@ Albergaria-a-Velha
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -620,7 +733,7 @@ Albufeira
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -636,7 +749,7 @@ Escriturário judicial ... 5
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -652,7 +765,7 @@ Alcácer do Sal
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -680,7 +793,7 @@ Alcanena
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -708,7 +821,7 @@ Alcobaça
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -730,7 +843,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -746,7 +859,7 @@ Alenquer
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -776,7 +889,7 @@ Alfândega da Fé
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -802,7 +915,7 @@ Alijó
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -830,7 +943,7 @@ Almada
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -868,7 +981,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma ao tribunal de pequena instância criminal:
+Secção central e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma ao tribunal de pequena instância criminal:
 
 Pessoal:
 
@@ -882,7 +995,7 @@ Escriturário judicial ... 34
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -898,7 +1011,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -928,7 +1041,7 @@ Almeida
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -956,7 +1069,7 @@ Almodôvar
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -982,7 +1095,7 @@ Alvaiázere
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -1008,7 +1121,7 @@ Amadora
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -1030,7 +1143,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1046,7 +1159,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1076,7 +1189,7 @@ Amarante
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1092,7 +1205,7 @@ Escriturário judicial ... 5
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1108,7 +1221,7 @@ Amares
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1138,7 +1251,7 @@ Anadia
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -1160,7 +1273,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1176,7 +1289,7 @@ Angra do Heroísmo
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1194,7 +1307,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1210,7 +1323,7 @@ Ansião
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1238,7 +1351,7 @@ Arcos de Valdevez
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1268,7 +1381,7 @@ Arganil
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1298,7 +1411,7 @@ Armamar
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -1324,7 +1437,7 @@ Arouca
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1354,7 +1467,7 @@ Arraiolos
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1402,7 +1515,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -1416,7 +1529,7 @@ Escriturário judicial ... 21
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1432,7 +1545,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1458,7 +1571,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1488,7 +1601,7 @@ Avis
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -1514,7 +1627,7 @@ Baião
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -1562,7 +1675,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -1576,7 +1689,7 @@ Escriturário judicial ... 16
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1590,7 +1703,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1620,7 +1733,7 @@ Barreiro
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, e, ainda, uma secção auxiliar afecta também ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, e, ainda, uma secção auxiliar afecta também ao tribunal de círculo:
 
 Pessoal:
 
@@ -1650,7 +1763,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1664,7 +1777,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1694,7 +1807,7 @@ Beja
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -1716,7 +1829,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1730,7 +1843,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1758,7 +1871,7 @@ Benavente
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1788,7 +1901,7 @@ Boticas
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -1814,7 +1927,7 @@ Braga
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1852,7 +1965,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e oito secções de processos, sendo quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
+Secção central e oito secções de processos, sendo quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -1866,7 +1979,7 @@ Escriturário judicial ... 27
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1882,7 +1995,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1912,7 +2025,7 @@ Bragança
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -1932,7 +2045,7 @@ Auxilar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1946,7 +2059,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1974,7 +2087,7 @@ Cabeceiras de Basto
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2002,7 +2115,7 @@ Cadaval
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -2028,7 +2141,7 @@ Caldas da Rainha
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -2052,7 +2165,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2066,7 +2179,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2094,7 +2207,7 @@ Caminha
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2124,7 +2237,7 @@ Cantanhede
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2154,7 +2267,7 @@ Carrazeda de Ansiães
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -2180,7 +2293,7 @@ Cartaxo
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2196,7 +2309,7 @@ Escriturário judicial ... 8
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2234,7 +2347,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e nove secções de processos, sendo uma afecta ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
+Secção central e nove secções de processos, sendo uma afecta ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -2248,7 +2361,7 @@ Escriturário judicial ... 31
 
 Serviços do Ministério Público
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -2266,7 +2379,7 @@ Telefonista ... 1
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2296,7 +2409,7 @@ Castelo Branco
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -2318,7 +2431,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2332,7 +2445,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2360,7 +2473,7 @@ Castelo de Paiva
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -2386,7 +2499,7 @@ Castelo de Vide
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -2412,7 +2525,7 @@ Castro Daire
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2440,7 +2553,7 @@ Celorico de Basto
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2472,7 +2585,7 @@ Celorico da Beira
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2500,7 +2613,7 @@ Chaves
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -2522,7 +2635,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2538,7 +2651,7 @@ Cinfães
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -2582,7 +2695,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2598,7 +2711,7 @@ Motorista de ligeiros ... 1
 
 Tribunal de comarca
 
-#### Secção central e oito secções de processos, sendo quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
+Secção central e oito secções de processos, sendo quatro afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -2612,7 +2725,7 @@ Escriturário judicial ... 27
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2628,7 +2741,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2656,7 +2769,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2684,7 +2797,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de execução das penas
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2714,7 +2827,7 @@ Condeixa-a-Nova
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2744,7 +2857,7 @@ Coruche
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2772,7 +2885,7 @@ Covilhã
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -2794,7 +2907,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2808,7 +2921,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2836,7 +2949,7 @@ Cuba
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2864,7 +2977,7 @@ Elvas
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2894,7 +3007,7 @@ Entroncamento
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2924,7 +3037,7 @@ Espinho
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2944,7 +3057,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -2960,7 +3073,7 @@ Esposende
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -2990,7 +3103,7 @@ Estarreja
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3020,7 +3133,7 @@ Estramoz
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3068,7 +3181,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -3082,7 +3195,7 @@ Escriturário judicial ... 12
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3096,7 +3209,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3124,7 +3237,7 @@ Técnico de justiça auxilar ... 1
 
 Tribunal de execução das penas
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3154,7 +3267,7 @@ Fafe
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3184,7 +3297,7 @@ Faro
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3216,7 +3329,7 @@ Auxiliar de segurança ... 1
 
 Tribunal de comarca
 
-#### Secção central e quatro secções de processos, sendo duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e quatro secções de processos, sendo duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -3230,7 +3343,7 @@ Escriturário judicial ... 14
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3244,7 +3357,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3270,7 +3383,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3298,7 +3411,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal marítimo
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -3314,7 +3427,7 @@ Felgueiras
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3344,7 +3457,7 @@ Ferreira do Alentejo
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -3370,7 +3483,7 @@ Ferreira do Zêzere
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3398,7 +3511,7 @@ Figueira de Castelo Rodrigo
 
 Tribunal de comarca
 
-#### Secção central de processos:
+Secção central de processos:
 
 Pessoal:
 
@@ -3424,7 +3537,7 @@ Figueira da Foz
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -3448,7 +3561,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3462,7 +3575,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3492,7 +3605,7 @@ Figueiró dos Vinhos
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3522,7 +3635,7 @@ Fornos de Algodres
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -3548,7 +3661,7 @@ Fronteira
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -3574,7 +3687,7 @@ Funchal
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3612,7 +3725,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e seis secções de processos, sendo três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal (ver nota a):
 
@@ -3628,7 +3741,7 @@ Escriturário judicial ... 21
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3644,7 +3757,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3670,7 +3783,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3696,7 +3809,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal marítimo
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -3712,7 +3825,7 @@ Fundão
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3742,7 +3855,7 @@ Golegã
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3772,7 +3885,7 @@ Gondomar
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3798,7 +3911,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3824,7 +3937,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3854,7 +3967,7 @@ Guarda
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -3876,7 +3989,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3890,7 +4003,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -3920,7 +4033,7 @@ Guimarães
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3958,7 +4071,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -3972,7 +4085,7 @@ Escriturário judicial ... 27
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -3988,7 +4101,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4018,7 +4131,7 @@ Horta
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4046,7 +4159,7 @@ Idanha-a-Nova
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -4070,7 +4183,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4100,7 +4213,7 @@ Lagos
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4116,7 +4229,7 @@ Escriturário judicial ... 7
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4132,7 +4245,7 @@ Lamego
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -4152,7 +4265,7 @@ Oficial porteiro ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4166,7 +4279,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4216,7 +4329,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e nove secções de processos, sendo duas afectas ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e nove secções de processos, sendo duas afectas ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -4230,7 +4343,7 @@ Escriturário judicial ... 31
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4246,7 +4359,7 @@ Técnico de justiça auxiliar ... 8
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4360,7 +4473,7 @@ Electricista ... 1
 
 Varas cíveis
 
-#### Secção central e três secções de processos em cada vara:
+Secção central e três secções de processos em cada vara:
 
 Pessoal:
 
@@ -4376,7 +4489,7 @@ Escriturário judicial ... 7
 
 Varas criminais
 
-#### Secção central e seis secções de processos em cada duas varas:
+Secção central e seis secções de processos em cada duas varas:
 
 Pessoal:
 
@@ -4392,7 +4505,7 @@ Escriturário judicial ... 13
 
 Tribunal de instrução criminal
 
-#### Secção central e cinco secções de processos:
+Secção central e cinco secções de processos:
 
 Pessoal:
 
@@ -4408,7 +4521,7 @@ Escriturário judicial ... 23
 
 Tribunal de família
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -4424,7 +4537,7 @@ Escriturário judicial ... 11
 
 Tribunal de menores
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4440,7 +4553,7 @@ Escriturário judicial ... 6
 
 Tribunal do trabalho
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -4456,7 +4569,7 @@ Escriturário judicial ... 7
 
 Tribunal de execução das penas
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -4474,7 +4587,7 @@ Motorista de ligeiros ... 1
 
 Juízos cíveis
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -4490,7 +4603,7 @@ Escriturário judicial ... 13
 
 Juízos criminais
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -4506,7 +4619,7 @@ Escriturário judicial ... 10
 
 Tribunal de pequena instância criminal
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -4522,7 +4635,7 @@ Escriturário judicial ... 45
 
 Tribunal marítimo
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4540,7 +4653,7 @@ Serviços do Ministério Público
 
 Tribunais cíveis
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4556,7 +4669,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunais de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4572,7 +4685,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4588,7 +4701,7 @@ Técnico de justiça auxiliar ... 15
 
 Varas criminais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4602,7 +4715,7 @@ Técnico de justiça auxiliar ... 7
 
 Juízos criminais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4616,7 +4729,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal de pequena instância criminal e de execução das penas
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4632,7 +4745,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de instrução criminal
 
-#### Secção central, doze secções de processos e uma secção de processos auxiliar:
+Secção central, doze secções de processos e uma secção de processos auxiliar:
 
 Pessoal:
 
@@ -4740,7 +4853,7 @@ Técnico de justiça-adjunto ... 4
 
 Técnico de justiça auxiliar ... 4
 
-#### Secção de processos auxiliar:
+Secção de processos auxiliar:
 
 Técnico de justiça-adjunto ... 2
 
@@ -4752,7 +4865,7 @@ Loulé
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -4776,7 +4889,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4814,7 +4927,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, quatro afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -4828,7 +4941,7 @@ Escriturário judicial ... 23
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4844,7 +4957,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -4874,7 +4987,7 @@ Lourinhã
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4904,7 +5017,7 @@ Lousã
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4934,7 +5047,7 @@ Lousada
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -4964,7 +5077,7 @@ Mação
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -4990,7 +5103,7 @@ Macedo de Cavaleiros
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5018,7 +5131,7 @@ Mafra
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5048,7 +5161,7 @@ Maia
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5078,7 +5191,7 @@ Mangualde
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5108,7 +5221,7 @@ Marco de Canaveses
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5138,7 +5251,7 @@ Marinha Grande
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5188,7 +5301,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -5202,7 +5315,7 @@ Escriturário judicial ... 24
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5218,7 +5331,7 @@ Técnico de justiça auxiliar ... 7
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5248,7 +5361,7 @@ Meda
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5274,7 +5387,7 @@ Melgaço
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5300,7 +5413,7 @@ Mértola
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5326,7 +5439,7 @@ Mesão Frio
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5352,7 +5465,7 @@ Miranda do Douro
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5378,7 +5491,7 @@ Mirandela
 
 Tribunal de círculo e de comarca
 
-#### Secção central e duas secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e duas secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -5412,7 +5525,7 @@ Mogadouro
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5438,7 +5551,7 @@ Moimenta da Beira
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5468,7 +5581,7 @@ Moita
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5498,7 +5611,7 @@ Monção
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5528,7 +5641,7 @@ Monchique
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5554,7 +5667,7 @@ Mondim de Basto
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5580,7 +5693,7 @@ Montalegre
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5610,7 +5723,7 @@ Montemor-o-Novo
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5640,7 +5753,7 @@ Montemor-o-Velho
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal
 
@@ -5670,7 +5783,7 @@ Montijo
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5686,7 +5799,7 @@ Escriturário judicial ... 8
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5702,7 +5815,7 @@ Moura
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5728,7 +5841,7 @@ Murça
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5754,7 +5867,7 @@ Nazaré
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5784,7 +5897,7 @@ Nelas
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5812,7 +5925,7 @@ Nisa
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5840,7 +5953,7 @@ Nordeste
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5866,7 +5979,7 @@ Odemira
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -5918,7 +6031,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e oito secções de processos, sendo duas afectas ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e oito secções de processos, sendo duas afectas ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -5932,7 +6045,7 @@ Escriturário judicial ... 28
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -5950,7 +6063,7 @@ Oleiros
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -5976,7 +6089,7 @@ Olhão da Restauração
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -6024,7 +6137,7 @@ Telefonista ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -6038,7 +6151,7 @@ Escriturário judicial ... 15
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6052,7 +6165,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6082,7 +6195,7 @@ Oliveira do Bairro
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6112,7 +6225,7 @@ Oliveira de Frades
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6138,7 +6251,7 @@ Oliveira do Hospital
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6168,7 +6281,7 @@ Ourém
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -6184,7 +6297,7 @@ Escriturário judicial ... 6
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6200,7 +6313,7 @@ Ourique
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6228,7 +6341,7 @@ Ovar
 
 Tribunal de comarca
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -6250,7 +6363,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6266,7 +6379,7 @@ Paços de Ferreira
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -6296,7 +6409,7 @@ Palmela
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6326,7 +6439,7 @@ Pampilhosa da Serra
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6370,7 +6483,7 @@ Telefonista ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -6384,7 +6497,7 @@ Escriturário judicial ... 16
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6400,7 +6513,7 @@ Paredes de Coura
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6426,7 +6539,7 @@ Penacova
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6456,7 +6569,7 @@ Penafiel
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -6478,7 +6591,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6492,7 +6605,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -6522,7 +6635,7 @@ Penamacor
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6548,7 +6661,7 @@ Penela
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6574,7 +6687,7 @@ Peniche
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6604,7 +6717,7 @@ Peso da Régua
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6632,7 +6745,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6660,7 +6773,7 @@ Pombal
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -6682,7 +6795,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6698,7 +6811,7 @@ Ponta Delgada
 
 Tribunal de comarca
 
-#### Secção central e três secção de processos:
+Secção central e três secção de processos:
 
 Pessoal:
 
@@ -6724,7 +6837,7 @@ Auxiliar de segurança ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6738,7 +6851,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6764,7 +6877,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6790,7 +6903,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal marítimo
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -6806,7 +6919,7 @@ Ponta do Sol
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6836,7 +6949,7 @@ Ponte da Barca
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6864,7 +6977,7 @@ Ponte de Lima
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6894,7 +7007,7 @@ Ponte de Sor
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6922,7 +7035,7 @@ Portalegre
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -6942,7 +7055,7 @@ Oficial porteiro ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6956,7 +7069,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -6984,7 +7097,7 @@ Portel
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7010,7 +7123,7 @@ Portimão
 
 Tribunal de cículo
 
-#### Secção central, duas secções de processos e uma secção auxiliar:
+Secção central, duas secções de processos e uma secção auxiliar:
 
 Pessoal:
 
@@ -7034,7 +7147,7 @@ Auxiliar de segurança ... 1
 
 Tribunal de comarca
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -7056,7 +7169,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7070,7 +7183,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7138,7 +7251,7 @@ Auxiliar administrativo ... 2
 
 Varas cíveis
 
-#### Secção central e três secções de processos em cada vara:
+Secção central e três secções de processos em cada vara:
 
 Pessoal:
 
@@ -7154,7 +7267,7 @@ Escriturário judicial ... 7
 
 Varas criminais
 
-#### Secção central e duas secções de processos em cada duas varas:
+Secção central e duas secções de processos em cada duas varas:
 
 Pessoal:
 
@@ -7170,7 +7283,7 @@ Escriturário judicial ... 7
 
 Tribunal de instrução criminal
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7186,7 +7299,7 @@ Escriturário judicial ... 9
 
 Tribunal de família
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -7206,7 +7319,7 @@ Auxiliar de segurança ... 1
 
 Tribunal de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7222,7 +7335,7 @@ Escriturário judicial ... 3
 
 Tribunal do trabalho
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -7238,7 +7351,7 @@ Escriturário judicial ... 7
 
 Tribunal de execução das penas
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7256,7 +7369,7 @@ Motorista de ligeiros ... 1
 
 Juízos cíveis
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -7272,7 +7385,7 @@ Escriturário judicial ... 13
 
 Juízos criminais
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -7290,7 +7403,7 @@ Escriturário judicial (ver nota a) ... 13
 
 Tribunal de pequena instância criminal
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -7310,7 +7423,7 @@ Telefonista ... 2
 
 Tribunal marítimo
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7326,7 +7439,7 @@ Serviços do Ministério Público
 
 Tribunais cíveis
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7340,7 +7453,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunais de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7356,7 +7469,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7380,7 +7493,7 @@ Técnico de justiça-adjunto ... 2
 
 Juízos criminais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7418,7 +7531,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de instrução criminal
 
-#### Secção central e seis secções de processos:
+Secção central e seis secções de processos:
 
 Pessoal:
 
@@ -7450,7 +7563,7 @@ Porto de Mós
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7480,7 +7593,7 @@ Porto Santo
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7508,7 +7621,7 @@ Póvoa de Lanhoso
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7536,7 +7649,7 @@ Póvoa de Varzim
 
 Tribunal de comarca
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -7556,7 +7669,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7570,7 +7683,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7598,7 +7711,7 @@ Povoação
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7624,7 +7737,7 @@ Praia da Vitória
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7654,7 +7767,7 @@ Redondo
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7680,7 +7793,7 @@ Reguengos de Monsaraz
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7706,7 +7819,7 @@ Resende
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7732,7 +7845,7 @@ Ribeira Grande
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7762,7 +7875,7 @@ Rio Maior
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7792,7 +7905,7 @@ Sabrosa
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7818,7 +7931,7 @@ Sabugal
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -7844,7 +7957,7 @@ Santa Comba Dão
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7874,7 +7987,7 @@ Santa Cruz
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -7890,7 +8003,7 @@ Escriturário judicial ... 7
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7906,7 +8019,7 @@ Santa Cruz das Flores
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7934,7 +8047,7 @@ Santa Cruz da Graciosa
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -7982,7 +8095,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -7996,7 +8109,7 @@ Escriturário judicial ... 22
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8010,7 +8123,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8062,7 +8175,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -8076,7 +8189,7 @@ Escriturário judicial ... 17
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8090,7 +8203,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8120,7 +8233,7 @@ Santiago do Cacém
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -8142,7 +8255,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8156,7 +8269,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8184,7 +8297,7 @@ Santo Tirso
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -8222,7 +8335,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -8236,7 +8349,7 @@ Escriturário judicial ... 18
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8250,7 +8363,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8280,7 +8393,7 @@ São João da Madeira
 
 Tribunal de comarca
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -8296,7 +8409,7 @@ Escriturário judicial ... 11
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8312,7 +8425,7 @@ São João da Pesqueira
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -8338,7 +8451,7 @@ São Pedro do Sul
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8366,7 +8479,7 @@ São Roque do Pico
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8394,7 +8507,7 @@ São Vicente
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -8420,7 +8533,7 @@ Sátão
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8448,7 +8561,7 @@ Seia
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -8494,7 +8607,7 @@ Auxiliar de segurança ... 1
 
 Tribunal de comarca
 
-#### Secção central e quatro secções de processos, sendo duas afecta aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e quatro secções de processos, sendo duas afecta aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -8508,7 +8621,7 @@ Escriturário judicial ... 16
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8524,7 +8637,7 @@ Serpa
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -8550,7 +8663,7 @@ Sertã
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8580,7 +8693,7 @@ Sesimbra
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8632,7 +8745,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e sete secções de processos, sendo duas afectas ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo duas afectas ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -8646,7 +8759,7 @@ Escriturário judicial ... 27
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -8662,7 +8775,7 @@ Técnico de justiça auxiliar ... 9
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8688,7 +8801,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8716,7 +8829,7 @@ Silves
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processo:
+Secção central e duas secções de processo:
 
 Pessoal:
 
@@ -8746,7 +8859,7 @@ Sintra
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -8784,7 +8897,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e nove secções de processos, seis afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e nove secções de processos, seis afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -8798,7 +8911,7 @@ Escriturário judicial ... 24
 
 Serviços do Ministério Público
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -8814,7 +8927,7 @@ Técnico de justiça auxiliar ... 10
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8842,7 +8955,7 @@ Soure
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8872,7 +8985,7 @@ Tábua
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -8900,7 +9013,7 @@ Tabuaço
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -8926,7 +9039,7 @@ Tavira
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8956,7 +9069,7 @@ Tomar
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -8978,7 +9091,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -8992,7 +9105,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9022,7 +9135,7 @@ Tondela
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9052,7 +9165,7 @@ Torre de Moncorvo
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9080,7 +9193,7 @@ Torres Novas
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -9110,7 +9223,7 @@ Torres Vedras
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -9136,7 +9249,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9150,7 +9263,7 @@ Técnico de justiça auxilar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9180,7 +9293,7 @@ Trancoso
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9208,7 +9321,7 @@ Vagos
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9238,7 +9351,7 @@ Vale de Cambra
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9268,7 +9381,7 @@ Valença
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9296,7 +9409,7 @@ Valongo
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9324,7 +9437,7 @@ Valpaços
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9352,7 +9465,7 @@ Velas
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9380,7 +9493,7 @@ Viana do Castelo
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -9418,7 +9531,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e quatro secções de processos, sendo duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e quatro secções de processos, sendo duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -9432,7 +9545,7 @@ Escriturário judicial ... 18
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9446,7 +9559,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9476,7 +9589,7 @@ Vieira do Minho
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9506,7 +9619,7 @@ Vila do Conde
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -9532,7 +9645,7 @@ Operador de reprografia ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9548,7 +9661,7 @@ Vila Flor
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -9574,7 +9687,7 @@ Vila Franca do Campo
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9622,7 +9735,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo uma afecta ao tribunal de círculo, duas afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -9636,7 +9749,7 @@ Escriturário judicial ... 17
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9650,7 +9763,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9680,7 +9793,7 @@ Vila Nova de Cerveira
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9730,7 +9843,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -9744,7 +9857,7 @@ Escriturário judicial ... 20
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9758,7 +9871,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9788,7 +9901,7 @@ Vila Nova de Foz Côa
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -9814,7 +9927,7 @@ Vila Nova de Gaia
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -9852,7 +9965,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -9866,7 +9979,7 @@ Escriturário judicial ... 25
 
 Serviços do Ministério Público
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -9882,7 +9995,7 @@ Técnico de justiça auxiliar ... 10
 
 Tribunal de pequena instância criminal
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9898,7 +10011,7 @@ Escriturário judicial ... 9
 
 Tribunal do trabalho
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -9928,7 +10041,7 @@ Vila do Porto
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9956,7 +10069,7 @@ Vila Pouca de Aguiar
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -9986,7 +10099,7 @@ Vila Real
 
 Tribunal de círculo e de comarca
 
-#### Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e três secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -10008,7 +10121,7 @@ Telefonista ... 1
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10022,7 +10135,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10052,7 +10165,7 @@ Vila Real de Santo António
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10082,7 +10195,7 @@ Vila Verde
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -10112,7 +10225,7 @@ Vila Viçosa
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10140,7 +10253,7 @@ Vimioso
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -10166,7 +10279,7 @@ Vinhais
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -10196,7 +10309,7 @@ Viseu
 
 Tribunal de círculo
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -10234,7 +10347,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e cinco secções de processos, sendo três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -10248,7 +10361,7 @@ Escriturário judicial ... 19
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10262,7 +10375,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal do trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10292,7 +10405,7 @@ Vouzela
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10320,7 +10433,7 @@ Tribunais administrativos
 
 Supremo Tribunal Administrativo
 
-#### Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
+Secção de expediente e contabilidade, cinco secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -10386,7 +10499,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal administrativo do círculo de Coimbra
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10416,7 +10529,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal Administrativo do círculo de Lisboa
 
-#### Secção central, duas secções de processos e serviços de apoio:
+Secção central, duas secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -10464,7 +10577,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal administrativo do círculo do Porto
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -10522,7 +10635,7 @@ Lisboa
 
 Juízos cíveis
 
-#### Secção central e três secções de processos, em cada juízo:
+Secção central e três secções de processos, em cada juízo:
 
 Pessoal:
 
@@ -10540,7 +10653,7 @@ Porto
 
 Juízo cível
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 

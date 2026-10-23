@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15300/0396303963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/245/2018/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/245-2018-115946550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce7133fa092ac7173738a608856d9a822ff2b1439da17aea874d131f533d100e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3d1bf1b27041a45bf7aeff69c2704758e014c78234b8a8f4f1ab7ab4e4a30a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Centro Nacional de Protecção contra os Riscos Profissionais
-- Difusão da Informação
-- Segurança no Trabalho
-- Fiscalização
-- Doença Profissional
-- Recomendação
-- Condições de Higiene e Segurança no Trabalho
 - Autoridade para as Condições do Trabalho
+- Centro Nacional de Protecção contra os Riscos Profissionais
+- Condições de Higiene e Segurança no Trabalho
+- Difusão da Informação
+- Doença Profissional
+- Fiscalização
+- Recomendação
+- Segurança no Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/55/2010/01/21/p/dre
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:42Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +112,6 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 26 de abril de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+111554726

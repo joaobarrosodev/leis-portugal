@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/035b00/05610564.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/157/1993/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1993-648730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a60cba83a2f8c4b6e9261446899c4f235fbf37165b9f835b3449c4aa633ba674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07580758d943355c93b11f6a357ac5fef6307c17973fd385bd6623b60582f0b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Região Demarcada
 - Instituto da Vinha e do Vinho
+- Região Demarcada
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:546217:por
@@ -85,16 +85,28 @@ relationships:
   target: celex:31990R3201
   label: null
   source: http://data.europa.eu/eli/reg/1990/3201/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada, com excepção do previsto para o «Vinho Regional Trás-os-Montes», sub-região «Terras Durienses», pelo Dec\
+    \ Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação da legislação prevista\
+    \ nos arts 5º a 11º do referido diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:546217:por
+  label: "Revogada pela PORT.1197/2006.07.11.2006.MADRP, DR.IS [214] de 07.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1197-2006-546217
+  date: '2006-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:22Z'
   warnings: []
   errors: []
 ---
@@ -175,11 +187,11 @@ Solos mediterrâneos pardos ou vermelhos de xistos;
 
 Ministério da Agricultura.
 
-**Assinada em 20 de Janeiro de 1993.**
+Assinada em 20 de Janeiro de 1993.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/035b00/05610564.pdf))](https://files.diariodarepublica.pt/1s/1993/02/035b00/05610564.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/035b00/05610564.pdf)
 
 ## ANEXO II
 

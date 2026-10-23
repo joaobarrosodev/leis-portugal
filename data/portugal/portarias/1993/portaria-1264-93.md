@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/289b00/69066906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264/1993/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-1993-550667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 394a5d94de6f94cd5554d956e5a946e03020ea38da90e5fdb2c6f8c29c52e26b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0fcedcf7f5b2981beb961f6c68f57015e7d69fa7dd1be4b0528eeb105ba4cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Força Aérea
 - Direcção Geral da Aviação Civil
-- Lisboa
+- Força Aérea
 - Junta Médica
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:264276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264276:por
+  label: "Mantida em vigor pelo DEC LEI.121/94.1994.05.14.MOPTC, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1994-264276
+  date: '1994-05-14'
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481732:por
+  label: "Revogada pelo DEC LEI.250/2003.11.10.2003.MOPTH, DR.IS-A [236] de 11.10.2003, sem prejuízo das respectivas disposições\
+    \ finais e transitórias\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2003-481732
+  date: '1993-12-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:12Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +123,6 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Obras Públicas, Trans
 
 Ministérios da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 10 de Novembro de 1993.**
+Assinada em 10 de Novembro de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.

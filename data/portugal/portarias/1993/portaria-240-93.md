@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 49/1993, 1º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 862-(6) a 862-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b01/00060007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/240/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-1993-485583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc34c268b9137154e8c9e21fe4eda70396beffff7b8f5770e54cf99a59eacef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c71b1a92e1f6d703c1cf5e0c940044eb3eac9397272b56c9f23a768d22291b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:348336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º, 19.º, 19.º-A e 20.º do Regulamento, aprovado pela Portaria 40-A/86,\
+    \ de 29 de Janeiro, na redacção do presente diploma, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26-Supl] de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/343/1992/04/13/p/dre
   label: null
@@ -85,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/4/1993/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/4/1993/01/02/p/dre
+- type: cites
+  target: pt:dre:200014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664307:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:22Z'
   warnings: []
   errors: []
 ---
@@ -227,6 +249,6 @@ e) ...
 
 Ministério do Mar.
 
-**Assinada em 18 de Fevereiro de 1993.**
+Assinada em 18 de Fevereiro de 1993.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

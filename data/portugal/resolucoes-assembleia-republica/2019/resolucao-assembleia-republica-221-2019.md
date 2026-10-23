@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0000700038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/221/2019/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/221-2019-125933885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c0ba288104eccbe6683e96701fb98886bfd1ab9e04ec83d82cb38acd4e31c53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b85a53dac494f8aecb7eba071a5bb6608a1832db63e1d420825b7a3f1e3e55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
+- Comunicações
 - Convenção
 - Cooperação
-- Política de Cooperação
-- Portugal
+- Cooperação Internacional
+- Cooperação Militar
 - Definição de Competências
 - Estatuto
-- Política de Defesa
 - Informação
 - Informações Militares
+- NATO
+- Otava
+- Política de Cooperação
+- Política de Defesa
+- Portugal
 - Segurança Internacional
 - Tratado do Atlântico Norte
-- Otava
-- Cooperação Internacional
-- Comunicações
-- Cooperação Militar
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:125933881:por
+  label: Ratificado o Acordo Suplementar pelo(a) Decreto do Presidente da República n.º 66/2019 - Diário da República n.º
+    214/2019, Série I de 2019-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/66-2019-125933881
+  date: '2019-11-07'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a condução da atividade interministerial de planeamento civil de emergência,
+    em matérias da sua competência e, especificamente, no que respeita às relações com a Organização do Tratado do Atlântico
+    Norte, previstas na presente resolução, seja exercida pelo Ministro da Defesa Nacional, em coordenação com o Ministro
+    da Administração Interna, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série
+    I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja conduzida pelo Ministro da Defesa Nacional, em coordenação
+    com a Ministra da Administração Interna, a atividade interministerial de planeamento civil de emergência, em matérias
+    da sua competência e, especificamente, no que respeita às relações com a Organização do Tratado do Atlântico Norte pelo(a)
+    Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja conduzida pelo Ministro da Defesa Nacional, em coordenação
+    com a Ministra da Administração Interna, a atividade interministerial de planeamento civil de emergência, em matérias
+    da sua competência e, especificamente, no que respeita às relações com a Organização do Tratado do Atlântico Norte pelo(a)
+    Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:53Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +141,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 28 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO SUPLEMENTAR À CONVENÇÃO SOBRE O ESTATUTO DA ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, DOS REPRESENTANTES NACIONAIS E DO PESSOAL INTERNACIONAL, ASSINADA EM OTAVA, EM 20 DE SETEMBRO DE 1951, ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, SOBRE O ESTATUTO DA AGÊNCIA DE INFORMAÇÃO E COMUNICAÇÕES DA OTAN NA REPÚBLICA PORTUGUESA.
 
@@ -578,7 +609,7 @@ Pela Organização do Tratado do Atlântico Norte:
 
 Kevin J. Scheid, Diretor-Geral da Agência NCI.
 
-## ANEXO AO ACORDO SUPLEMENTAR À CONVENÇÃO SOBRE O ESTATUTO DA ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, DOS REPRESENTANTES NACIONAIS E DO PESSOAL INTERNACIONAL, ASSINADA EM OTAVA, EM 20 DE SETEMBRO DE 1951, ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, SOBRE O ESTATUTO DA AGÊNCIA DE INFORMAÇÃO E COMUNICAÇÕES DA OTAN NA REPÚBLICA PORTUGUESA.
+ANEXO AO ACORDO SUPLEMENTAR À CONVENÇÃO SOBRE O ESTATUTO DA ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, DOS REPRESENTANTES NACIONAIS E DO PESSOAL INTERNACIONAL, ASSINADA EM OTAVA, EM 20 DE SETEMBRO DE 1951, ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DO TRATADO DO ATLÂNTICO NORTE, SOBRE O ESTATUTO DA AGÊNCIA DE INFORMAÇÃO E COMUNICAÇÕES DA OTAN NA REPÚBLICA PORTUGUESA.
 
 1 - Sujeitos ao controlo, à utilização e à alienação previstos neste Acordo Suplementar, e sem prejuízo dos privilégios concedidos ao abrigo da Convenção entre os Estados Partes no Tratado do Atlântico Norte relativa ao Estatuto das suas Forças, assinada em Londres, em 19 de junho de 1951, ao abrigo da Convenção sobre o Estatuto da Organização do Tratado do Atlântico Norte, dos Representantes Nacionais e do Pessoal Internacional, assinada em Otava, em 20 de setembro de 1951, e ao abrigo do Protocolo sobre o Estatuto dos Quartéis-Generais Militares Internacionais criados em consequência do Tratado do Atlântico Norte, assinado em Paris, em 28 de agosto de 1952, os Membros do Pessoal, que não são cidadãos portugueses nem titulares de autorização de residência permanente na República Portuguesa, e os seus Dependentes, gozam dos seguintes benefícios na implementação do artigo 12.º:
 
@@ -1213,3 +1244,5 @@ iii) Privately-owned motor vehicles:
 5 - Nothing in this Annex is construed to interfere with customs allowances for crossing international borders, and it is an individual responsibility to duly observe and comply with customs regulations in force.
 
 6 - Nothing in this Annex shall deprive individuals from rights otherwise recognized in other international/EU instruments.
+
+252019

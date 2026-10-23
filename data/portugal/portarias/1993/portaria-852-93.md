@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/852/1993/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/852-1993-661075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c24ed38d4a4628fcc26bb9d8eb62f3bef75be3d94a2fe7e8c19b4077f5d68b8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5c0bda4acb79b7d3a7bc41120c137227850be8970cd64207f901c8e8f2a7894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,24 +72,46 @@ subjects:
 - Curso Superior de Informática de Gestão
 - Curso Superior de Produção Industrial
 - Ensino Particular
+- Ensino Superior
 - Instituto Superior de Matemática e Gestão
 - Marinha Grande
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:387371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660078:por
+  label: "Alterado o plano de estudos do Curso Superior de Informática de Gestão pela PORT.1198/2000.2000.12.20.ME DR.IS-B\
+    \ [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1198-2000-660078
+  date: '2000-12-20'
+- type: cites
+  target: pt:dre:547202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:33Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +136,6 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 12 de Agosto de 1993.**
+Assinada em 12 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

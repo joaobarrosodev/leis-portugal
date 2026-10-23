@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1278/1993/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1278-1993-538004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1529144210c7706db2886be0f8e9ab762926eb340fd1169c82988067cee9d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa06da410df40d2b9c026a3ec7b3bf10522ab56f8a88ee774a1a0c52ac9da059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Gestão
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
+- Plano de Estudos
 - Viana do Castelo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:31Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +136,8 @@ As alterações aprovadas pela presente portaria entrarão em funcionamento, no 
 
 Ministério da Educação.
 
-**Assinada em 22 de Novembro de 1993.**
+Assinada em 22 de Novembro de 1993.
 
 Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147014.pdf))](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147014.pdf)

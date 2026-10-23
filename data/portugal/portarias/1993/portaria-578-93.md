@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/578/1993/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-1993-259900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02d3b500e675aa94d3524c53fd987ace742cd2fcc6d7fba704d0036623d8e87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1dcc6be05cf6fdacb161ccf9a5f917704332131fda486e0aca044d2efa05725
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Ordenamento do Território
 - Património Histórico
 - Política de Solos
-- Urbanismo
 - Protecção do Património
-- Câmara Municipal
 - Trancoso
+- Urbanismo
 relationships:
+- type: amended_by
+  target: pt:dre:66602991:por
+  label: Tornada pública a alteração do art. 22.º do Plano de Pormenor de Salvaguarda do Centro Histórico de Trancoso ratificado
+    pelo presente diploma pelo(a) Aviso n.º 2161/2015 - Diário da República n.º 40/2015, Série II de 2015-02-26, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2161-2015-66602991
+  date: '2015-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:24Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +135,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Abril de 1993.**
+Assinada em 20 de Abril de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
@@ -461,4 +487,4 @@ Compete à Câmara Municipal de Trancoso a resolução das dúvidas que surjam n
 
 2 - Para além das penalidades previstas na lei, a Câmara Municipal de Trancoso poderá determinar que seja reposta a situação anterior à prática da infracção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/131b00/30263030.pdf))](https://files.diariodarepublica.pt/1s/1993/06/131b00/30263030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/131b00/30263030.pdf)

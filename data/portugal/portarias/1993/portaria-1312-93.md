@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1312/1993/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1312-1993-168874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fb2ec89478f2212daee15ffac72c8ebcf1d06d8646738190b63ba3b3a6eaa15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 297d302ecce888aac20fefc5b6872d5c7e0ab557119d14c1fba5f24e9ecfec77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,18 @@ reuse:
 subjects:
 - Cantanhede
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2140756:por
+  label: "Tornado público ter a Assembleia Municipal de Cantanhede, por deliberação de 19 de dezembro de 2011, aprovado a\
+    \ alteração, por adaptação, do Plano de Pormenor da Zona Industrial de Cantanhede (Ampliação), ratificado pelo presente\
+    \ diploma, pelo AV.2547/2012.16.02.2012.MCANTANHEDE, DR.IIS [34] de 16.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2547-2012-2140756
+  date: '2012-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -100,16 +107,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1992/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1992/04/28/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665736:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:23Z'
   warnings: []
   errors: []
 ---
@@ -132,23 +219,23 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Novembro de 1993.**
+Assinada em 15 de Novembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial I de Cantanhede (ampliação)
 
-###### Artigo 1.º O presente Regulamento aplica-se na área de intervenção do loteamento industrial de Cantanhede (ampliação), definida pela linha limite da urbanização, conforme planta de síntese.
+Artigo 1.º O presente Regulamento aplica-se na área de intervenção do loteamento industrial de Cantanhede (ampliação), definida pela linha limite da urbanização, conforme planta de síntese.
 
-###### Art. 2.º Serão observados todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste loteamento, do Regulamento de Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e pareceres vinculativos prestados.
+Art. 2.º Serão observados todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste loteamento, do Regulamento de Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e pareceres vinculativos prestados.
 
-###### Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permitir, devendo, oportunamente, ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm, obrigatoriamente, os edifícios principais com frente e acesso para os arruamentos aprovados.
+Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permitir, devendo, oportunamente, ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm, obrigatoriamente, os edifícios principais com frente e acesso para os arruamentos aprovados.
 
-###### Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno ou a sua vegetação, que deverão ser mantidos, evitando-se os movimentos de terras que contrariem as melhores condições existentes.
+Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno ou a sua vegetação, que deverão ser mantidos, evitando-se os movimentos de terras que contrariem as melhores condições existentes.
 
-###### Art. 5.º A Câmara Municipal de Cantanhede (CMC) intervirá sempre em primeira instância na selecção das indústrias, estabelecendo prioridades e formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho.
+Art. 5.º A Câmara Municipal de Cantanhede (CMC) intervirá sempre em primeira instância na selecção das indústrias, estabelecendo prioridades e formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho.
 
-###### Art. 6.º As condições a respeitar na selecção e definição das prioridades das indústrias a instalar serão as seguintes:
+Art. 6.º As condições a respeitar na selecção e definição das prioridades das indústrias a instalar serão as seguintes:
 
 a) Indústrias que promovam e dinamizem o sector agrícola;
 
@@ -166,9 +253,9 @@ f) Armazéns industriais.
 
 § 2.º As indústrias cuja laboração provoque poluição no meio hídrico (para além das águas residuais das suas instalações sanitárias e refeitórios) só serão autorizadas se comprovarem que a poluição que produzem (eventualmente após tratamento nas suas instalações dos respectivos efluentes industriais) não ultrapassará os parâmetros oficialmente fixados na legislação portuguesa e comunitária em vigor para o lançamento de águas residuais nos meios hídricos superficiais ou na ETAR que sirva o loteamento industrial.
 
-###### Art. 7.º Os potenciais interessados nos lotes deverão ser informados pelos serviços competentes, antes da elaboração dos projectos, dos requisitos a que estes devem obedecer.
+Art. 7.º Os potenciais interessados nos lotes deverão ser informados pelos serviços competentes, antes da elaboração dos projectos, dos requisitos a que estes devem obedecer.
 
-###### Art. 8.º As condições de instalação e de funcionamento dos estabelecimentos industriais são as seguintes:
+Art. 8.º As condições de instalação e de funcionamento dos estabelecimentos industriais são as seguintes:
 
 a) A viabilidade de instalação carece sempre de parecer da CMC;
 
@@ -192,7 +279,7 @@ Ao [Decreto-Lei n.º 72/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Não deverão ser instaladas indústrias sem que estejam executadas as infra-estruturas de base.
 
-###### Art. 9.º As condições de ocupação dos lotes são as seguintes:
+Art. 9.º As condições de ocupação dos lotes são as seguintes:
 
 a) A percentagem de ocupação do solo não poderá exceder, por cada lote, 50% da área do mesmo;
 
@@ -214,16 +301,16 @@ Ar - [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Acidentes industriais - Decretos-Leis n.os [224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828) e [280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164).
 
-###### Art. 10.º A área coberta mínima a construir numa primeira fase deverá ocupar pelo menos 20% da área coberta máxima.
+Art. 10.º A área coberta mínima a construir numa primeira fase deverá ocupar pelo menos 20% da área coberta máxima.
 
-###### Art. 11.º A CMC reserva o direito de, após a apreciação da implantação do futuro edifício industrial, exigir à manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que não se torne potencialmente perigosa ou ameaçadora de qualquer desastre.
+Art. 11.º A CMC reserva o direito de, após a apreciação da implantação do futuro edifício industrial, exigir à manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que não se torne potencialmente perigosa ou ameaçadora de qualquer desastre.
 
-###### Art. 12.º Todos os lotes terão de possuir áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas dos bombeiros.
+Art. 12.º Todos os lotes terão de possuir áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas dos bombeiros.
 
-###### Art. 13.º Deverão ser estabelecidos, aquando da instalação de cada unidade industrial, contactos com a EDP e a TELECOM, por forma a assegurar a necessária previsão e disponibilidade das respectivas redes de energia e telecomunicações para as unidades industriais.
+Art. 13.º Deverão ser estabelecidos, aquando da instalação de cada unidade industrial, contactos com a EDP e a TELECOM, por forma a assegurar a necessária previsão e disponibilidade das respectivas redes de energia e telecomunicações para as unidades industriais.
 
-###### Art. 14.º A cedência de lotes pela CMC aos interessados obedecerá às condições definidas por esta e aprovadas pela Assembleia Municipal.
+Art. 14.º A cedência de lotes pela CMC aos interessados obedecerá às condições definidas por esta e aprovadas pela Assembleia Municipal.
 
-###### Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela CMC.
+Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela CMC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/302b00/72137215.pdf))](https://files.diariodarepublica.pt/1s/1993/12/302b00/72137215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/302b00/72137215.pdf)

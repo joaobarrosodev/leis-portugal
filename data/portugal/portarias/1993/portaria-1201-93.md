@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1201/1993/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1201-1993-691271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc4a82c0d1b891e6e2f7bd8ad7dd17e92db910d62a433bdf25f13f080e06540d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c791618a8a96b72ca185ae183529532e329152e91e5082054063ab2dfcf8ff32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Electromecânica
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO 5 DO ANEXO I, PELA PORTARIA 1319/93, DE 30 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 303, DE 931230.\0\
+    31230.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:532848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532848:por
+  label: "Revogado, findo o processo previsto no art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, do presente\
+    \ diploma, na redacção da Port 1319/93, de 30-Dez, pela PORT.770/99.1999.08.30.ME DR.IS-B [202] DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/770-1999-532848
+  date: '1999-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:36Z'
   warnings: []
   errors: []
 ---
@@ -162,8 +181,8 @@ O curso referido no n.º 1.º entrará em funcionamento progressivamente, um ano
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/267b00/63586359.pdf))](https://files.diariodarepublica.pt/1s/1993/11/267b00/63586359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/267b00/63586359.pdf)

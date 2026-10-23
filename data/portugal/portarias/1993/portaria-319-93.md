@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/319/1993/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/319-1993-634501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6fede898c19b7f30ddc21e21d141a237f0d1d2da7e05091b7665caa19b6db9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6f830e213af515148e067c8e8d338e0891a3519e40f866c483c634548a560ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/1991/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/1991/08/22/p/dre
+- type: cites
+  target: pt:dre:403326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:13Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, ao abrigo do dis
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 22 de Fevereiro de 1993.**
+Assinada em 22 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
@@ -118,4 +126,4 @@ MAPA ANEXO
 
 Universidade Aberta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/066b00/13771377.pdf))](https://files.diariodarepublica.pt/1s/1993/03/066b00/13771377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/066b00/13771377.pdf)

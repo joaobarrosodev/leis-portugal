@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/581/1993/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/581-1993-260161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29989bbf5f42638a39ac10fb1be9b6a4def5794b1430bb10a3e63ec093aa1697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1363206c7943fdde6653927a92c065dc8b622e1f56b0e5f8bacc049d4da46999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Controlo Sanitário
 - Circulação de Mercadorias
+- Controlo Sanitário
 - Política Agrícola Comum
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 relationships:
 - type: cites
   target: celex:31992L0090
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:29Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +130,6 @@ e) Cooperar, de uma forma geral, com os serviços oficiais, designadamente mante
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Maio de 1993.**
+Assinada em 12 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

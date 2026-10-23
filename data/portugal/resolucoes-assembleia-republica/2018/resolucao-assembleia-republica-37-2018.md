@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02700/0085600856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/2018/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-2018-114641048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dfa930cea22879f9e6fcbc6ca8d3b711e8a6a38e234dcd5a8a4a72db768b1b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc772e4aa98589aa14e4f8f035ec591b2088a63c2f6556ded2fa68cb69164446
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Admissão de Pessoal
 - Ensino Oficial
-- Recrutamento de Pessoal
-- Pessoal Contratado
-- Pessoal Técnico Especializado
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Recomendação
 - Gestão de Recursos Humanos
 - Governo
+- Pessoal Contratado
+- Pessoal Docente
+- Pessoal Técnico Especializado
 - Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública
+- Recomendação
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: celex:31999L0070
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:30Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +116,6 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 15 de dezembro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+111105564

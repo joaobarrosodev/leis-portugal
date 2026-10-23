@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/141/2019/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/141-2019-124044593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610bf11f7b2af4014d9e299f63d26a73077b782fa2569a8c5fa6b3f6493942c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c60207d5c03c8f11206c6b36028e462e320001b2983943f08fe2613201282442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CPLP
 - Estatuto
 - Lisboa
-- CPLP
 - Palop
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:124044590:por
+  label: Ratificados os Estatutos da Comunidade dos Países de Língua Portuguesa, aprovados pela presente resolução, pelo(a)
+    Decreto do Presidente da República n.º 49/2019 - Diário da República n.º 157/2019, Série I de 2019-08-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/49-2019-124044590
+  date: '2019-08-19'
 article_structure:
   article_count: 141
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:58Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +98,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de março de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 X Reunião Ordinária do Conselho de Ministros da Comunidade dos Países de Língua Portuguesa
 
@@ -608,27 +614,27 @@ Os órgãos e instituições da CPLP definirão o seu próprio regimento interno
 
 Pelo Governo da República de Cabo Verde:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 Pelo Governo da República da Guiné-Bissau:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 Pelo Governo da República de Moçambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 Pelo Governo da República Democrática de São Tomé e Príncipe:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 Pelo Governo da República Democrática de Timor-Leste:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 XV Reunião Ordinária do Conselho de Ministros da Comunidade dos Países de Língua Portuguesa
 
@@ -1236,7 +1242,7 @@ B. Sumário (100 caracteres):
 
 C. Público alvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 D. Entidade(s) Proponente(s) e País(es):
 
@@ -1276,13 +1282,13 @@ C2. Objectivo específico.
 
 D. Beneficiário(s) directo(s)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 E. Metas/Resultados esperados.
 
 F. Actividades do projecto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 G. Indicadores objectivamente verificáveis de desenvolvimento do projecto.
 
@@ -1366,7 +1372,7 @@ Efeitos do projecto após a sua conclusão.
 
 Projecto de orçamento (valores em euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15700/0000700056.pdf)
 
 IX Conferência de Chefes de Estado e de Governo da Comunidade dos Países de Língua Portuguesa
 
@@ -2207,3 +2213,5 @@ Os textos originais da Declaração Constitutiva da CPLP e dos presentes Estatut
 ###### Artigo 31.º — Registo
 
 O Depositário submeterá os presentes Estatutos para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo notificar os Estados membros da conclusão deste procedimento e indicar-lhes o número de registo atribuído.
+
+162019

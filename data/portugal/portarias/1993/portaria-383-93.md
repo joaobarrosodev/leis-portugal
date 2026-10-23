@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/079b00/17251726.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/383/1993/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-1993-675212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c31e9c4bf0653af9de02ec8a25513d208ec93b8121d85abdf83c12575701731a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8537534cb07578922fbbf4b46966a8ec8b4fd67e0f4c3f3b17172e38d7bfb5d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Produto Cárneo
 - CEE
 - Controlo Sanitário
 - Direcção Geral da Pecuária
+- Produto Alimentar
+- Produto Cárneo
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -86,16 +86,25 @@ relationships:
   target: celex:31983L0201
   label: null
   source: http://data.europa.eu/eli/dir/1983/201/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 1229/93, DE 27 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 278, DE 931127.\0127.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:680782:por
+  label: Revogada a partir de 01.12.1993 pelo(a) Portaria n.º 1229/93 - Diário da República n.º 278/1993, Série I-B de 1993-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1229-1993-680782
+  date: '1993-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:46Z'
   warnings: []
   errors: []
 ---
@@ -140,6 +149,6 @@ b) As operações que, nos termos das alíneas c), e), f), g), h), i) e o) do n.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 9 de Março de 1993.**
+Assinada em 9 de Março de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

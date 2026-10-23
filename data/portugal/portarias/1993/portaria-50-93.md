@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/1993/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-1993-283756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b6f2e4a29adbe2c1b74fd661ad52f9b62e74c05ede48061349074044ec86158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52aa2782ec927fc33a3d6599e6627cb0ef7cf8c89e3e097fae4a9dc456eff5d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Particular
-- ISET
 - Ensino Superior
-relationships: []
+- ISET
+relationships:
+- type: amended_by
+  target: pt:dre:66692857:por
+  label: Tornado público o início do processo de encerramento voluntário do Instituto Superior de Educação e Trabalho reconhecido
+    de interesse público pelo presente diploma, com reconhecimento reiterado pela Port 967/93 de 01-out, pelo(a) Aviso n.º
+    2519/2015 - Diário da República n.º 47/2015, Série II de 2015-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2519-2015-66692857
+  date: '2015-03-09'
+- type: amended_by
+  target: pt:dre:108234568:por
+  label: Tornada pública a cessação, em 31.01.2017, do funcionamento e ministração dos ciclos de estudos do Instituto Superior
+    de Educação e Trabalho reconhecido de interesse público pelo presente diploma, com reconhecimento reiterado pela Port
+    967/93 de 01-out, pelo(a) Aviso n.º 11716/2017 - Diário da República n.º 191/2017, Série II de 2017-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11716-2017-108234568
+  date: '2017-10-03'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:26Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +129,6 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 18 de Dezembro de 1992.**
+Assinada em 18 de Dezembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

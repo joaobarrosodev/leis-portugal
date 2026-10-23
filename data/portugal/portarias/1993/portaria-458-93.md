@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/458/1993/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-1993-300060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce32d5d7b3d2f83ecc35bf3711739093d6ca38810a4e098190b91c4d084de793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a1b63b2e48d5cfb11fb17ad6040f8a766d5cce1667894b486d3787537a8686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,114 @@ subjects:
 - Amarante
 - Aveiro
 - Barreiro
+- Beja
 - Braga
+- Bragança
+- Castelo Branco
+- Centro Hospitalar de Coimbra
 - Centro Hospitalar de VILA NOVA de GAIA
+- Coimbra
 - Covilhã
-- Hospitais Civis de Lisboa
+- Estabelecimento Hospitalar
+- Évora
 - Faro
+- Guarda
+- Hospitais Civis de Lisboa
 - Hospital de Crianças Maria Pia
 - Hospital de São Francisco Xavier
 - Hospital Distrital
-- Centro Hospitalar de Coimbra
 - Leiria
-- Setúbal
-- Beja
-- Castelo Branco
-- Vila Real
-- Coimbra
 - Portalegre
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
 - Santarém
-- Bragança
-- Évora
-- Guarda
+- Setúbal
 - VALE do Sousa
 - Viana do Castelo
 - VILA NOVA de GAIA
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:541007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE AMARANTE, PELA PORT 915/94 DE 14-OUT DR.IS-B [238]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE BRAGANÇA, PELA PORT 944/94 DE 25-OUT DR.IS-B [247]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE AVEIRO, PUBLICADO EM ANEXO A PORT 1020/94 DE 22-NOV DR.IS-B
+    [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO FRANCISCO XAVIER, PELA PORT 1109/94 DE 12-DEZ DR.IS-B [285]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE FARO PELO PUBLICADO EM ANEXO A PORT 20/95 DE 09-JAN DR.IS-B
+    [7]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-09'
+- type: amended_by
+  target: pt:dre:231484:por
+  label: "Alterado o quadro de pessoal médico do Hospital Distrital de Castelo Branco, aprovado pela Portaria n.º 422/92,\
+    \ de 22 de Maio, e posteriormente alterado pela Portaria n.o 69/93, de 19 de Janeiro, e pelo presente diploma, pela PORT.269/95.04.04.1995.MF,\
+    \ DR.IS-B [80] de 04.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1995-231484
+  date: '1995-04-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DE VILA NOVA DE GAIA, PELA PORT 1172/95 DE 25-SET DR.IS-B [222]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUSBTITUIDO O QUADRO DE PESOAL DO HOSPITAL DISTRITAL DA COVILHÃ, PELA PORT 1188/95 DE 28-SET DR.IS-B [225]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO BERNARDO PELA PORT 1348/95 DE 14-NOV DR.IS.B [263]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-14'
+- type: amended_by
+  target: pt:dre:226006:por
+  label: "Substituído o quadro do pessoal do Hospital Distrital de Santarém, aprovado pela Port 700/87, de 17-Ago DR. IS [187],\
+    \ alterado pela Port 100/89, de 09-Fev, 755/89, de 01-Set, 113/90, de 12-Fev, 413/91, de 16-Maio, pelo presente diploma,\
+    \ pela Port 510/93, de 13-Maio, pela PORT.599/96.21.10.1996.PCM, DR.IS-B [244] de 21.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1996-226006
+  date: '1996-10-21'
+- type: amended_by
+  target: pt:dre:193414:por
+  label: "Alterado quadro de pessoal do Hospital Espírito Santo - Évora aprovado pela Port 87/91 de 30-Jun, na redacção dada\
+    \ pelo presente diploma, pela PORT.728/97.1997.08.25.PCM, DR.IS-B [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-1997-193414
+  date: '1997-08-25'
+- type: amended_by
+  target: pt:dre:607076:por
+  label: "Alterado no referente &#225; carreira m&#233;dica hospitalar o quadro de pessoal do Hospital Amato Lusitano - Castelo\
+    \ Branco, aprovado pela Port 422/92, de 22-Mai, alterada pelo presente diploma e pelas Port 741/92, de 24-Jul, 69/93,\
+    \ de 19-Jan, 269/95, de 04-Abr, 1029/95, de 22-Ago, 621/96, de 31-Out, 164/97, de 07-Mar, 31/98, de 19-Jan, 721/98, de\
+    \ 09-Set, 342/99, de 14-Mai e 315/2001, de 02-Abr, pela PORT.76/2004.21.01.2004.MF, DR.IS-B [17] de 21.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2004-607076
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/1992/07/03/p/dre
   label: null
@@ -139,16 +216,408 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/750/1992/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/750/1992/08/01/p/dre
+- type: cites
+  target: pt:dre:144803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:56:29Z'
   warnings: []
   errors: []
 ---
@@ -177,109 +646,109 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Agosto de 1992.**
+Assinada em 1 de Agosto de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO I — Quadro de pessoal do Hospital Distrital de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Beja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Braga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital do Barreiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Castelo Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Centro Hospitalar de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital da Covilhã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Évora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital da Guarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital de São Francisco Xavier
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital de D. Estefânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal dos Hospitais Civis de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Amarante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Centro Hospitalar do Vale do Sousa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Portalegre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Central e Especializado de Crianças Maria Pia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Santarém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Hospital Distrital de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 Quadro de pessoal do Centro Hospitalar de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf))](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/101b00/21902207.pdf)
 
 ## ANEXO II
 

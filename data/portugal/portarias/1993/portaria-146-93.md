@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/146/1993/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-1993-647326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788ff513ce4075b451152fb92f1e0673d5b2bc73f57615f5e73bce93e3f7e24f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f620f60a90449a6dc2da73ec99626a702c5d48af37319111f1708c122b696b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,32 @@ relationships:
   target: pt:dre:209672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: MANTIDOS EM VIGOR OS IMPRESSOS REFERIDOS NAS AL A) A J) DO NUM 1, BEM COMO AS INSTRUÇÕES DE PREENCHIMENTO, COM EXCEPÇÃO
+    DAS REFERENTES A DECLARAÇÃO MODELO NUM 2 AO ANEXO A E AO ANEXO E, PELA PORT 110/94 DE 18-FEV DR.IS-B [41]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDOS EM VIGOR, COM EXCEPÇÃO DO ANEXO C DA DECLARAÇÃO MODELO NUM 2, OS IMPRESSOS APROVADOS PELO PRESENTE DIPLOMA,\
+    \ BEM COMO AS INSTRUÇÕES DE PREENCHIMENTO DOS ANEXOS B, B1, C1, G E I A, PROVADAS IGUALMENTE PELO PRESENTE DIPLOMA, SENDO\
+    \ CONSIDERANDAS EXTENSIVAS AO ANO DE 1994 AS REFERÊNCIAS QUE NAS REFERIDAS INSTRUÇÕES SAO FEITAS AO ANO DE 1993, PELA\
+    \ PORT 198/95 DE 18-MAR DR.IS-B [66] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-18'
+- type: amended_by
+  target: pt:dre:589940:por
+  label: "Mantidos em vigor os modelos de impressos das declarações de rendimentos anexos A, B, B1, C1, F, G e I, aprovados\
+    \ no presente diploma, pela PORT.12/96.13.01.1996.MF, DR.IS-B [11] de 13.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-1996-589940
+  date: '1996-01-13'
+- type: amended_by
+  target: pt:dre:209672:por
+  label: "Mantidos em vigor, para declarar os rendimentos respeitantes ao ano de 1997 e anos anteriores os modelos de impressos\
+    \ do Anexo C1, Anexo F, Anexo G e Anexo I e respectivas instruçõespela PORT.68/98.1998.02.18.MF, DR.IS-B [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-1998-209672
+  date: '1998-02-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
@@ -81,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1082/1992/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1082/1992/11/26/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:07Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +175,8 @@ j) Do anexo I (herança indivisa).
 
 Ministério das Finanças.
 
-**Assinada em 18 de Janeiro de 1993.**
+Assinada em 18 de Janeiro de 1993.
 
 O Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento, Vasco Jorge Valdez Ferreira Matias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/033b00/05120526.pdf))](https://files.diariodarepublica.pt/1s/1993/02/033b00/05120526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/033b00/05120526.pdf)

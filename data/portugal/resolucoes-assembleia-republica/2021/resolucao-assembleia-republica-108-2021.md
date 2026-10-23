@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/06400/0000900009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/108/2021/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/108-2021-160686626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a78af4228b38f6ccf99bee85f65d3b87d47b8ed66b07779e8dc6dd1d9fdeb62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d5deea11e46fb19953284310ded30a0c3fde64444e5cd5fdd094316e84162f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
+- Comunicações
+- Deficiente
 - Educação
-- Ensino Secundário
-- Internet
 - Ensino
 - Ensino Básico
+- Ensino Secundário
+- Internet
 - Recomendação
-- Comunicações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
@@ -84,16 +84,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:22Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +122,6 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 11 de março de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+114104768

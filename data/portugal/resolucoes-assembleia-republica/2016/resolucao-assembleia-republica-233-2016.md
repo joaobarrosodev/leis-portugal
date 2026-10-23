@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/233/2016/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/233-2016-105300325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb8d95ed6e189bd093e0d6f1ce50ebead30a76a50245d6e483e7c6dc4199f5e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 692964d728f8e1d5c99cfb67fa9aee87bd9cabfeb0c9474979e13750d037c596
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Marítimo
-- Pessoal do MAR
-- Convenção
-- Londres
 - Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Direito Marítimo
 - Embarcação de Pesca
-relationships: []
+- Londres
+- Pessoal do MAR
+relationships:
+- type: amended_by
+  target: pt:dre:105300324:por
+  label: Ratificada a Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para Pessoal
+    de Navios de Pesca, Convenção STCW F pelo(a) Decreto do Presidente da República n.º 106/2016 - Diário da República n.º
+    232/2016, Série I de 2016-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/106-2016-105300324
+  date: '2016-12-05'
 article_structure:
   article_count: 15
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de junho de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR FISHING VESSEL PERSONNEL, 1995
 
@@ -1691,7 +1698,7 @@ The Government of ... certifies that the holder of this certificate has been fou
 
 The lawful holder of this certificate may serve in the following capacity or capacities:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
 
 APPENDIX 2
 
@@ -1707,7 +1714,7 @@ The Government of ... certifies that certificate No. ...has been issued to ... w
 
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
 
 APPENDIX 3
 
@@ -1723,7 +1730,7 @@ The Government of ... certifies that Certificate No. ... issued to ... by or on 
 
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the safe manning requirements of the Administration:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
 
 CONVENÇÃO INTERNACIONAL SOBRE NORMAS DE FORMAÇÃO, DE CERTIFICAÇÃO E DE SERVIÇO DE QUARTOS PARA PESSOAL DE NAVIOS DE PESCA, 1995
 
@@ -1937,7 +1944,9 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito pelos r
 
 Londres, aos sete de julho de mil novecentos e noventa e cinco.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -2119,7 +2128,7 @@ Requisitos mínimos obrigatórios para a certificação de mestres em navios de 
 
 .3 - Ter passado um exame adequado ou exames para avaliação da competência por determinação da Parte. Esse exame ou exames deverão incluir o material constante no apêndice a esta regra. Um candidato a exame titular de um certificado de competência válido, emitido em conformidade com as disposições da Convenção STCW 1978, não será novamente sujeito a exame relativamente aos temas constantes no apêndice, aprovados a um nível superior ou equivalente para emissão do certificado da Convenção.
 
-## Apêndice à Regra 1
+Apêndice à Regra 1
 
 Requisitos mínimos obrigatórios para a certificação de mestres em navios de pesca com comprimento igual ou superior a 24 metros que operam em águas não restritas
 
@@ -2397,7 +2406,7 @@ Requisitos mínimos obrigatórios para a certificação de oficiais chefes de qu
 
 .5 - Cumprir com as disposições aplicáveis da regra 6, adequadas para o desempenho das tarefas do serviço de rádio de acordo com o Regulamento das Radiocomunicações.
 
-## Apêndice à Regra 2
+Apêndice à Regra 2
 
 Requisitos mínimos obrigatórios para a certificação de oficiais chefes de quarto de navegação em navios de pesca com comprimento igual ou superior a 24 metros que operam em águas não restritas
 
@@ -2559,7 +2568,7 @@ Requisitos mínimos obrigatórios para a certificação de mestres em navios de 
 
 4 - Um candidato a exame titular de um certificado de competência válido emitido em conformidade com as disposições da Convenção STCW 1978 não carece da realização de novo exame relativamente aos temas constantes no apêndice aprovados a um nível superior ou equivalente para emissão do certificado da Convenção.
 
-## Apêndice à Regra 3
+Apêndice à Regra 3
 
 Conhecimentos mínimos necessários para a certificação de mestres em navios de pesca com comprimento igual ou superior a 24 metros que operam em águas restritas
 
@@ -2773,7 +2782,7 @@ Requisitos mínimos obrigatórios para a certificação de oficiais chefes de qu
 
 .5 - Cumprir com as disposições aplicáveis da regra 6, adequadas para o desempenho das tarefas do serviço de rádio de acordo com o Regulamento das Radiocomunicações.
 
-## Apêndice à Regra 4
+Apêndice à Regra 4
 
 Conhecimentos mínimos necessários para a certificação de oficiais chefes de quarto de navegação em navios de pesca com comprimento igual ou superior a 24 metros que operam em águas restritas
 
@@ -2927,7 +2936,7 @@ Requisitos mínimos obrigatórios para a certificação de chefes de máquinas e
 
 4 - O nível de conhecimentos exigidos nos termos dos diferentes parágrafos do apêndice pode ser diferente se o certificado está a ser emitido ao nível do chefe de máquinas ou do segundo-oficial de máquinas.
 
-## Apêndice à Regra 5
+Apêndice à Regra 5
 
 Conhecimentos mínimos necessários para a certificação de chefes de máquinas e segundos-oficiais de máquinas de navios de pesca cuja máquina principal tenha uma potência propulsora igual ou superior a 750 kW.
 
@@ -3037,7 +3046,7 @@ Requisitos mínimos para a certificação de operadores de rádio para o Sistema
 
 5 - Para a autenticação de todos os tipos de certificados emitidos nos termos das disposições do Regulamento das Radiocomunicações como cumprindo com os requisitos da Convenção, os conhecimentos, compreensão e competência exigidos são apresentados no apêndice a esta regra. Para determinar o nível adequado de conhecimento e formação, a Parte deverá também ter em consideração as recomendações relevantes da Organização.
 
-## Apêndice à Regra 6
+Apêndice à Regra 6
 
 Conhecimentos mínimos complementares e requisitos de formação para operadores de rádio de GMDSS
 
@@ -3263,7 +3272,7 @@ Tendo em conta a segurança do navio e da tripulação, o mestre deverá assegur
 
 O mestre deverá assegurar a manutenção de um serviço de escuta de rádio enquanto o navio permanecer no mar, nas frequências adequadas, tendo em conta os requisitos dos Regulamentos de Radiocomunicações.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 O modelo utilizado para atestar a emissão de um certificado deverá ser como apresentado em baixo, desde que as palavras «ou até à data limite de qualquer prorrogação da validade deste certificado, como poderá ser verificado no verso» na parte da frente do modelo e as disposições para registo da prorrogação da validade na parte detrás do modelo sejam omitidas sempre que a autenticação é substituída após ter caducado.
 
@@ -3277,9 +3286,9 @@ O Governo ... certifica que o titular deste certificado foi considerado devidame
 
 O titular legítimo do presente certificado pode desempenhar o cargo ou cargos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 O modelo utilizado para atestar a emissão de um certificado será o apresentado a seguir, desde que as palavras «ou até à data limite de qualquer prorrogação da validade desta autenticação, como poderá ser verificado no verso» na parte da frente do modelo e as disposições para registo da prorrogação da validade na parte detrás do modelo sejam omitidas sempre que a autenticação é substituída após ter caducado.
 
@@ -3293,9 +3302,9 @@ O Governo ... certifica que o certificado n.º ... foi emitido a ... o qual foi 
 
 O titular legítimo da presente autenticação pode desempenhar o cargo ou cargos a seguir mencionado(s), em conformidade com os requisitos de lotação mínima de segurança fixada pela Administração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 O modelo utilizado para atestar o reconhecimento de um certificado será o apresentado a seguir, desde que as palavras «ou até à data limite de qualquer prorrogação da validade desta autenticação, como poderá ser verificado no verso» na parte da frente do modelo e as disposições para registo da prorrogação da validade na parte detrás do modelo sejam omitidas sempre que a autenticação é substituída após ter caducado.
 
@@ -3309,4 +3318,4 @@ O Governo ...certifica que o certificado n.º ...emitido a ...pelo ou em nome do
 
 O titular legítimo da presente autenticação pode desempenhar o cargo ou cargos a seguir mencionado(s), em conformidade com os requisitos de lotação mínima de segurança fixada pela Administração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23200/0438204419.pdf)

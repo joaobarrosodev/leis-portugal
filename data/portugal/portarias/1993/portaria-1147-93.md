@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1147/1993/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1147-1993-685422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3455fedcfe075dd23c0bce98d181366206139bf4461cfdcaa125ffcab6756d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ac58cfd61e6bbf1900c43b1af7cf9b4003c0f964be7d250888081114dff53e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Engenharia de Instrumentação e Controlo
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
@@ -81,16 +81,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/355/1991/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/355/1991/04/20/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593511:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423206:por
+  label: "Revogada a PORT.649/99.1999.08.13.ME DR.IS-B [188] findo o Processo de Transição fixado no art. 31.º da Port 413-A/98,\
+    \ de 17-Jul\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1999-423206
+  date: '1999-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:20Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +139,8 @@ A alteração aprovada pela presente portaria entrará em funcionamento nos term
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/260b00/62296230.pdf))](https://files.diariodarepublica.pt/1s/1993/11/260b00/62296230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/260b00/62296230.pdf)

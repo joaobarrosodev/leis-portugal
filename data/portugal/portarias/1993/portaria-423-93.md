@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/423/1993/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/423-1993-692857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1827850c466b8120aaca63e22f38e5507722f7984e920743deb858bc49857ce2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5543a431462da2d2138a62d5117c740a4b4fae6a517bad25155699d663e707e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro Regional de Segurança Social
 - Criação de Serviços
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Viseu
 relationships:
 - type: cites
@@ -91,16 +91,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/916/1992/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/916/1992/09/22/p/dre
+- type: cites
+  target: pt:dre:144249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620946:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:43Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +199,9 @@ i) Os serviços locais.
 
 2.º O artigo 15.º do Regulamento do Centro passa a ter a seguinte redacção:
 
-###### Artigo 15.º — Divisão de Apoio Técnico
+###### Artigo 15.º
+
+##### Divisão de Apoio Técnico
 
 Compete à Divisão de Apoio Técnico:
 
@@ -161,7 +215,9 @@ d) Realizar as acções necessárias ao recrutamento, integração, formação e
 
 3.º É aditado o artigo 15.º-B ao Regulamento do Centro, com a seguinte redacção:
 
-###### Artigo 15.º-B — Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
+###### Artigo 15.º-B
+
+##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
 
 Compete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:
 
@@ -209,10 +265,10 @@ l) Recolher e tratar os necessários dados estatísticos.
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 12 de Março de 1993.**
+Assinada em 12 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa anexo à Portaria n.º 423/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/093b00/19311933.pdf))](https://files.diariodarepublica.pt/1s/1993/04/093b00/19311933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/093b00/19311933.pdf)

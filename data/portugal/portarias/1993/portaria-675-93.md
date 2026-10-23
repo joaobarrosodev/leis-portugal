@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/675/1993/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/675-1993-392642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e7920f28507ca9c438a2a750ca8bcf95be120d35dfab438e8ca40f6ce01d075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcbcbe6ed5b7ec665f2821440a57e339854ff0e495ee5b1f20260e3ccfe1d799
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Abrantes
 - Cartaxo
+- CASA do POVO
 - Centro Regional de Segurança Social
 - Coruche
-- CASA do POVO
 - Mação
 - Salvaterra de Magos
 - Santarém
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/145/1991/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/145/1991/02/18/p/dre
+- type: cites
+  target: pt:dre:485964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:01Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +122,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 25 de Junho de 1993.**
+Assinada em 25 de Junho de 1993.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

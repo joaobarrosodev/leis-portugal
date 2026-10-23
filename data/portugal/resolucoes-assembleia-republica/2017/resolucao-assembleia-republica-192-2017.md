@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15200/0454204548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/192/2017/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/192-2017-107976094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a31b33e732ce80c99fa7df312bda6b242f3b5b71ad2c28d00c5db34d90a34c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bde7fd3527e2b8111763bb6dd500161c63de17659afb9e1875da6835c929b1d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
 - Caracas
-- Convenção
-- Portugal
-- Espanha
-- Produção Cinematográfica
 - Cinema
-- Indústria Cinematográfica
+- Convenção
 - Córdoba
-relationships: []
+- Espanha
+- Indústria Cinematográfica
+- Países Ibero-Americanos
+- Portugal
+- Produção Cinematográfica
+relationships:
+- type: amended_by
+  target: pt:dre:107976086:por
+  label: Ratificado o presente Protocolo, pelo(a) Decreto do Presidente da República n.º 69/2017 - Diário da República n.º
+    152/2017, Série I de 2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/69-2017-107976086
+  date: '2017-08-08'
 article_structure:
-  article_count: 0
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:50:35Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de janeiro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOLO DE EMENDA AO CONVÉNIO DE INTEGRAÇÃO CINEMATOGRÁFICA IBERO-AMERICANA
 
@@ -114,61 +120,61 @@ Observando que a Conferência de Autoridades Cinematográficas da Ibero-América
 
 acordaram efetuar algumas emendas ao Convénio de Integração Cinematográfica Ibero-Americana (doravante denominado «o Convénio») e, para este efeito, resolveram concertar o seguinte Protocolo de Emenda ao mencionado Instrumento internacional:
 
-Artigo I
+###### Artigo I
 
 O Título do Convénio fica emendado nos seguintes termos:
 
 «Convénio de Integração Cinematográfica e Audiovisual Ibero-Americana»
 
-Artigo II
+###### Artigo II
 
 O terceiro Considerando do Convénio fica emendado nos seguintes termos:
 
 «Com o propósito de contribuir para um efetivo desenvolvimento da comunidade cinematográfica dos Estados Partes.»
 
-Artigo III
+###### Artigo III
 
 O Artigo IV do Convénio fica emendado nos seguintes termos:
 
 «Fazem Parte do presente Convénio, os Estados que o assinem e ratifiquem ou adiram ao mesmo.»
 
-Artigo IV
+###### Artigo IV
 
 O Artigo V do Convénio fica emendado nos seguintes termos:
 
 «As Partes adotarão as medidas necessárias, em conformidade com a legislação vigente em cada país, para facilitar a entrada, permanência e circulação dos cidadãos dos Estados Partes que se encarreguem do exercício de atividades destinadas ao cumprimento dos objetivos do presente Convénio.»
 
-Artigo V
+###### Artigo V
 
 O Artigo VI do Convénio fica emendado nos seguintes termos:
 
 «As Partes adotarão as medidas necessárias, em conformidade com sua legislação vigente, para facilitar a importação temporária dos bens provenientes dos Estados Partes destinados ao cumprimento dos objetivos do presente Convénio.»
 
-Artigo VI
+###### Artigo VI
 
 O Artigo IX do Convénio fica emendado nos seguintes termos:
 
 «As Partes promoverão a criação nas suas Cinematecas de secções dedicadas a cada um dos Estados Partes.»
 
-Artigo VII
+###### Artigo VII
 
 O Artigo XIII do Convénio fica emendado nos seguintes termos:
 
 «As Partes promoverão a presença da cinematografia dos Estados Partes nos canais de difusão audiovisual existentes ou que venham a ser criados em cada um deles, em conformidade com a legislação vigente de cada país.»
 
-Artigo VIII
+###### Artigo VIII
 
 O Artigo XV do Convénio fica emendado nos seguintes termos:
 
 «As Partes protegerão e defenderão os direitos de autor, em conformidade com as leis internas de cada um dos Estados Partes.»
 
-Artigo IX
+###### Artigo IX
 
 O Artigo XVI do Convénio fica emendado nos seguintes termos:
 
 «Este Convénio estabelece como seus órgãos principais: a Conferência de Autoridades Audiovisuais e Cinematográficas da lbero-América (CAACI) e a Secretaria Executiva da Cinematografia lbero-Americana (SECI). São órgãos auxiliares: o Conselho Consultivo da CAACI e as Comissões a que se refere o Artigo XXIII.»
 
-Artigo X
+###### Artigo X
 
 O Artigo XVII do Convénio fica emendado nos seguintes termos:
 
@@ -176,7 +182,7 @@ O Artigo XVII do Convénio fica emendado nos seguintes termos:
 
 A CAACI poderá convidar para as suas reuniões Estados que não sejam Parte do Convénio, assim como outros organismos, associações, fundações ou qualquer entidade de direito privado, e pessoas físicas. Seus direitos e obrigações serão determinados pelo regulamento interno da CAACI.»
 
-Artigo XI
+###### Artigo XI
 
 O primeiro parágrafo do Artigo XVIII fica emendado nos seguintes termos:
 
@@ -202,19 +208,19 @@ O primeiro parágrafo do Artigo XVIII fica emendado nos seguintes termos:
 
 - Conhecer e resolver todos os demais assuntos de interesse comum.»
 
-Artigo XII
+###### Artigo XII
 
 O Artigo XIX do Convénio fica emendado nos seguintes termos:
 
 «A CAACI reunirá em forma ordinária uma vez ao ano, e extraordinariamente quando solicitado por mais de metade dos seus membros ou pelo Secretário Executivo, em conformidade com o seu regulamento interno.»
 
-Artigo XIII
+###### Artigo XIII
 
 O Artigo XX do Convénio fica emendado nos seguintes termos:
 
 «A Secretaria Executiva da Cinematografia Ibero-Americana (SECI) é o órgão técnico e executivo. Será representada pelo Secretário Executivo, designado pela CAACI.»
 
-Artigo XIV
+###### Artigo XIV
 
 O Artigo XXI do Convénio fica emendado nos seguintes termos:
 
@@ -240,13 +246,13 @@ O Artigo XXI do Convénio fica emendado nos seguintes termos:
 
 - Apresentar à Conferência informação das suas atividades, assim como da execução orçamental.»
 
-Artigo XV
+###### Artigo XV
 
 Acrescenta-se um Artigo, subsequente ao Artigo XXI, com a seguinte redação:
 
 «A CAACI estabelecerá por regulamento o funcionamento do Conselho Consultivo, o qual será integrado por pelo menos três Estados Partes deste Convénio, e reunirá por solicitação do Secretário Executivo. O Conselho Consultivo desempenhará funções de assessoria no tocante às matérias que sejam submetidas à sua consideração pela SECI.»
 
-Artigo XVI
+###### Artigo XVI
 
 O Artigo XXII do Convénio fica emendado nos seguintes termos:
 
@@ -254,53 +260,53 @@ O Artigo XXII do Convénio fica emendado nos seguintes termos:
 
 Em cada uma das Partes funcionará uma comissão de trabalho para a aplicação deste Convénio, a qual será presidida pela autoridade cinematográfica designada por seu respectivo governo.»
 
-Artigo XVII
+###### Artigo XVII
 
 O Artigo XXIII do Convénio fica emendado nos seguintes termos:
 
 «O Secretário Executivo gozará no território de cada um dos Estados Partes da capacidade jurídica e dos privilégios indispensáveis ao exercício de suas funções, em conformidade com a legislação interna de cada uma das Partes.»
 
-Artigo XVIII
+###### Artigo XVIII
 
 O Artigo XXV do Convénio fica emendado nos seguintes termos:
 
 «O presente Convénio não afetará quaisquer acordos ou compromissos bilaterais assumidos no campo da cooperação ou co-produção cinematográfica entre os Estados Partes.»
 
-Artigo XIX
+###### Artigo XIX
 
 O Artigo XXVI do Convénio fica emendado nos seguintes termos:
 
 «O presente Convénio fica aberto à adesão de qualquer Estado Ibero-americano, do Caribe ou de fala hispânica ou portuguesa, mediante prévia aprovação da CAACI.»
 
-Artigo XX
+###### Artigo XX
 
 O Artigo XXVII do Convénio fica emendado nos seguintes termos:
 
 «Cada Parte comunicará por via diplomática ao Estado sede da SECI o cumprimento dos procedimentos legais internos para a aprovação do presente Convénio e o Ministério das Relações Exteriores do Estado sede informará os demais Estados Partes e a SECI sobre o facto.»
 
-Artigo XXI
+###### Artigo XXI
 
 O Artigo XXVIII do Convénio fica emendado nos seguintes termos:
 
 «As dúvidas ou controvérsias que possam surgir da interpretação ou aplicação do presente Convénio serão solucionadas pela CAACI.»
 
-Artigo XXII
+###### Artigo XXII
 
 Os Artigos XXII, XXIII, XXIV, XXV, XXVI, XVII, XVIII, XXIX, XXX, XXXI e XXXII do Convénio deverão ser lidos como XXIII, XXIV, XXV, XXVI, XVII, XVIII, XXIX, XXX, XXXI, XXXII e XXXIII, respectivamente.
 
-Artigo XXIII
+###### Artigo XXIII
 
 O presente Protocolo de Emenda poderá ser firmado por aqueles Estados Partes do Convénio de Integração Cinematográfica Ibero-Americana.
 
-Artigo XXIV
+###### Artigo XXIV
 
 O original do presente Protocolo, cujos textos em castelhano e português são igualmente autênticos, será depositado no Estado sede da SECI, que enviará cópias certificadas aos países membros do Convénio para sua ratificação ou adesão.
 
-Artigo XXV
+###### Artigo XXV
 
 Os instrumentos de ratificação ou adesão serão depositados no Estado Sede da SECI, o qual comunicará aos Estados Partes e à SECI cada depósito e a data do mesmo.
 
-Artigo XXVI
+###### Artigo XXVI
 
 O presente Protocolo entrará em vigor quando nove (9) dos Estados signatários houverem efetuado o depósito do Instrumento de Ratificação nos termos do Artigo anterior. Para os demais Estados o presente Protocolo entrará em vigor a partir da data do depósito do respectivo Instrumento de Ratificação ou Adesão.
 

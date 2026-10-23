@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/278b00/66676677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1229/1993/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1229-1993-680782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c542abc6d8b5b42b94e5f6698c8b52bbb74da74974794db5e9257c5dfbf3e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5afa0525aa1256ade387e15e8ab6d28bb8ba54a173f4189b4572d0081ee2f1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Produto Cárneo
 - CEE
 - Controlo Sanitário
-- Saúde Pública
 - Higiene Alimentar
 - Instituto de Protecção da Produção Agro-Alimentar
 - Política Agrícola Comum
+- Produto Animal
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Produto Animal
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:223273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 3 DO ANEXO AO PRESENTE DIPLOMA, PELA PORT 684/95 DE 28-JUN DR.IS-B [147]\0DR.IS-B [147]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 3 DO REGULAMENTO PELA PORT 227/96 DE 25-JUN DR.IS-B [145]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-25'
 - type: cites
   target: celex:31964L0433
   label: null
@@ -123,16 +133,21 @@ relationships:
   target: celex:31992L0005
   label: null
   source: http://data.europa.eu/eli/dir/1992/5/oj
+- type: repealed_by
+  target: pt:dre:223273:por
+  label: "Revogado pelo DEC LEI.342/98.1998.11.05.MADRP, DR.IS-A [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1998-223273
+  date: '1998-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:21Z'
   warnings: []
   errors: []
 ---
@@ -173,19 +188,19 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, o segu
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 21 de Outubro de 1993.**
+Assinada em 21 de Outubro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
 
-## Anexo a que se refere a Portaria n.º 1229/93
+Anexo a que se refere a Portaria n.º 1229/93
 
 Regulamento das Condições Sanitárias Aplicáveis à Produção e à Colocação no Mercado de Produtos à Base de Carne e de Outros Produtos de Origem Animal Destinados ao Consumo Humano ou à Preparação de Outros Géneros Alimentícios.
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece as condições sanitárias aplicáveis à produção e à colocação no mercado de produtos à base de carne e de outros produtos de origem animal destinados, após tratamento, ao consumo humano ou à preparação de outros géneros alimentícios.
+Artigo 1.º - 1 - O presente Regulamento estabelece as condições sanitárias aplicáveis à produção e à colocação no mercado de produtos à base de carne e de outros produtos de origem animal destinados, após tratamento, ao consumo humano ou à preparação de outros géneros alimentícios.
 
 2 - Este Regulamento não se aplica à preparação e armazenagem de produtos à base de carne e de outros produtos de origem animal destinados ao consumo humano efectuadas por retalhistas, ou em instalações adjacentes aos locais de venda em que essas operações são efectuadas, tendo como único objectivo a venda directa ao consumidor.
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) Produtos à base de carne - os produtos fabricados a partir de carne, ou com carne, que tenha sofrido um tratamento tal que a superfície de corte à vista permita verificar o desaparecimento das características da carne fresca, não se considerando, no entanto, produtos à base de carne:
 
@@ -253,7 +268,7 @@ r) Colocação no mercado - detenção ou exposição com vista à venda, coloca
 
 s) Autoridade competente - o Instituto de Protecção da Produção Agro-Alimentar (IPPAA), autoridade veterinária nacional, que poderá delegar as competências que lhe são cometidas pelo presente Regulamento, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto nos artigos 4.º a 6.º, os produtos à base de carne colocados no mercado devem:
+Art. 3.º - 1 - Sem prejuízo do disposto nos artigos 4.º a 6.º, os produtos à base de carne colocados no mercado devem:
 
 a) Ser preparados e armazenados num estabelecimento aprovado e controlado ou nos termos do artigo 8.º ou, no que se refere aos estabelecimentos que não possuam uma estrutura ou uma capacidade de produção industrial, do artigo 9.º;
 
@@ -301,7 +316,7 @@ c) A colocação no mercado desses produtos permanece sujeita às disposições 
 
 4 - Até à entrada em vigor de regulamentação comunitária sobre a matéria, e sem prejuízo das regras nacionais aplicáveis à ionização para fins médicos, os produtos à base de carne não podem ter sido submetidos a radiações ionizantes.
 
-###### Art. 4.º Os produtos à base de carne devem ser objecto de marcação, sob a responsabilidade do responsável pelo estabelecimento, através de:
+Art. 4.º Os produtos à base de carne devem ser objecto de marcação, sob a responsabilidade do responsável pelo estabelecimento, através de:
 
 a) Uma marca de salubridade nacional, caso a matéria-prima utilizada seja comercializada com a mesma marca;
 
@@ -309,7 +324,7 @@ b) Uma marca a definir pela Comunidade Económica Europeia, se as carnes utiliza
 
 c) Uma marca de salubridade, nos termos do capítulo VI do anexo B, nos restantes casos, devendo essa marca ser impressa no rótulo, ou aposta no produto, ou no acondicionamento, e a impressão dos rótulos e das marcas ser objecto de autorização da autoridade competente.
 
-###### Art. 5.º - 1 - Durante o transporte, os produtos à base de carne devem ser acompanhados de um documento comercial de acompanhamento e de um certificado de salubridade.
+Art. 5.º - 1 - Durante o transporte, os produtos à base de carne devem ser acompanhados de um documento comercial de acompanhamento e de um certificado de salubridade.
 
 2 - O documento comercial de acompanhamento referido no número anterior deve:
 
@@ -321,7 +336,7 @@ b) Ser conservado pelo destinatário durante, pelo menos, um ano.
 
 4 - O certificado de salubridade não é exigido para os produtos à base de carne contidos em recipientes hermeticamente fechados e que tenham sido submetidos a um tratamento nos termos do primeiro travessão do ponto B do capítulo VIII do anexo B, quando a marca de salubridade lhes seja aposta, de forma indelével, de acordo com as regras a definir nos termos do processo comunitariamente previsto.
 
-###### Art. 6.º - 1 - Para além das condições previstas nos artigos 3.º, 4.º e 5.º, os produtos à base de carne devem:
+Art. 6.º - 1 - Para além das condições previstas nos artigos 3.º, 4.º e 5.º, os produtos à base de carne devem:
 
 a) Ser preparados por aquecimento, salga profunda, marinagem ou dessecação, podendo esses processos ser combinados com a fumagem ou a cura, se for caso disso, em condições microclimáticas especiais, e ser associados a certos adjuvantes de salga profunda, desde que respeitando o disposto no n.º 2 do artigo 14.º, podendo os produtos à base de carne ser igualmente associados a outros produtos alimentares e condimentos;
 
@@ -331,9 +346,9 @@ b) Ser obtidos, se for caso disso, a partir de um produto à base de carne ou de
 
 3 - Os produtos à base de carne a que se referem as alíneas a) e b) do artigo 4.º não podem ser enviados para o território de outro Estado membro.
 
-###### Art. 7.º Os pratos cozinhados com matérias-primas de origem animal abrangidas pelo presente Regulamento em estabelecimentos referidos na alínea p) do artigo 2.º devem, enquanto não forem comunitariamente estabelecidas as normas sanitárias e de origem aplicáveis, respeitar as regras de higiene previstas no capítulo II do anexo A, satisfazer as exigências específicas previstas no capítulo IX do anexo B e ser controlados nos termos do artigo 9.º
+Art. 7.º Os pratos cozinhados com matérias-primas de origem animal abrangidas pelo presente Regulamento em estabelecimentos referidos na alínea p) do artigo 2.º devem, enquanto não forem comunitariamente estabelecidas as normas sanitárias e de origem aplicáveis, respeitar as regras de higiene previstas no capítulo II do anexo A, satisfazer as exigências específicas previstas no capítulo IX do anexo B e ser controlados nos termos do artigo 9.º
 
-###### Art. 8.º Os produtos de origem animal não referidos nos artigos anteriores devem:
+Art. 8.º Os produtos de origem animal não referidos nos artigos anteriores devem:
 
 a) Ter sido obtidos em estabelecimentos que satisfaçam as exigências do artigo 9.º, sejam autorizados e registados nos termos do artigo 12.º, respeitem as normas do anexo A e sejam controlados nos termos do artigo 10.º;
 
@@ -343,7 +358,7 @@ c) Ser sujeitos aos controlos previstos no capítulo IV do anexo B;
 
 d) Ser acompanhados, nos termos do n.º 2 do artigo 5.º, de um documento comercial que especifique a origem dos referidos produtos.
 
-###### Art. 9.º - 1 - O responsável pelo estabelecimento ou centro de reacondicionamento deve tomar as medidas necessárias para que sejam observadas as normas do presente Regulamento em todas as fases da produção ou do reacondicionamento.
+Art. 9.º - 1 - O responsável pelo estabelecimento ou centro de reacondicionamento deve tomar as medidas necessárias para que sejam observadas as normas do presente Regulamento em todas as fases da produção ou do reacondicionamento.
 
 2 - Em cumprimento do disposto no número anterior, devem ser efectuados autocontrolos constantes baseados nos seguintes princípios:
 
@@ -369,7 +384,7 @@ e) Garantias em matérias de gestão da marcação de salubridade, nomeadamente 
 
 8 - O programa de formação a que se refere o número anterior poderá revestir carácter específico quando se tratar dos estabelecimentos referidos no artigo 11.º, devendo a autoridade competente estar associada à concepção e execução do programa de formação.
 
-###### Art. 10.º - 1 - O IPPAA elaborará uma lista dos estabelecimentos aprovados, com excepção dos referidos no artigo 13.º, sendo a cada um deles atribuído um número de aprovação.
+Art. 10.º - 1 - O IPPAA elaborará uma lista dos estabelecimentos aprovados, com excepção dos referidos no artigo 13.º, sendo a cada um deles atribuído um número de aprovação.
 
 2 - Será atribuído um número de aprovação único a:
 
@@ -403,7 +418,7 @@ b) Suspender temporariamente a autorização, se for caso disso, para o tipo de 
 
 13 - Em caso de incumprimento reiterado, o controlo será reforçado e a autoridade competente procederá à apreensão dos rótulos ou outros suportes com a marca de salubridade.
 
-###### Art. 11.º - 1 - O IPPAA poderá conceder aos estabelecimentos que fabricam produtos à base de carne e que não possuam uma estrutura e uma capacidade de produção industrial derrogações às exigências da alínea g) do n.º 2 do capítulo I do anexo A, no que se refere às torneiras, e às do n.º 11 do mesmo capítulo, no que se refere aos vestiários, os quais podem ser substituídos por armários.
+Art. 11.º - 1 - O IPPAA poderá conceder aos estabelecimentos que fabricam produtos à base de carne e que não possuam uma estrutura e uma capacidade de produção industrial derrogações às exigências da alínea g) do n.º 2 do capítulo I do anexo A, no que se refere às torneiras, e às do n.º 11 do mesmo capítulo, no que se refere aos vestiários, os quais podem ser substituídos por armários.
 
 2 - Poderão ainda ser concedidas derrogações ao n.º 3 do capítulo I do anexo A no que se refere aos compartimentos de armazenagem das matérias-primas e dos produtos acabados, desde que o estabelecimento disponha, pelo menos, de:
 
@@ -419,7 +434,7 @@ b) No n.º 2 do artigo 4.º e no n.º 1, segundo parágrafo, do artigo 13.º da 
 
 4 - As disposições do capítulo VII do anexo B não se aplicam às operações de armazenagem nos estabelecimentos referidos nos n.os 1 e 2 nem às operações de transporte de produtos que não os referidos no n.º 6 do artigo 9.º
 
-###### Art. 12.º - 1 - Em derrogação do disposto no artigo 10.º e desde que a produção não se efectue num estabelecimento aprovado nos termos do mesmo artigo, o IPPAA autorizará e registará todos os estabelecimentos que produzam outros produtos de origem animal definidos na alínea b) do artigo 2.º, atribuindo a cada um deles um número oficial específico, para fins de inspecção e de reconhecimento do estabelecimento de origem dos produtos em causa.
+Art. 12.º - 1 - Em derrogação do disposto no artigo 10.º e desde que a produção não se efectue num estabelecimento aprovado nos termos do mesmo artigo, o IPPAA autorizará e registará todos os estabelecimentos que produzam outros produtos de origem animal definidos na alínea b) do artigo 2.º, atribuindo a cada um deles um número oficial específico, para fins de inspecção e de reconhecimento do estabelecimento de origem dos produtos em causa.
 
 2 - Sem prejuízo do disposto no número anterior, sempre que a produção se efectue num local contíguo a um matadouro, aquela aprovação deverá ser alargada ao referido local, desde que o mesmo cumpra as exigências do presente Regulamento.
 
@@ -429,13 +444,13 @@ b) No n.º 2 do artigo 4.º e no n.º 1, segundo parágrafo, do artigo 13.º da 
 
 5 - As análises e testes serão efectuados em conformidade com métodos comprovados e cientificamente reconhecidos, em especial os adoptados em disposições comunitárias ou em normas internacionais.
 
-###### Art. 13.º Aos produtos abrangidos pelo presente Regulamento aplica-se o disposto na Portaria n.º 576/93, de 4 de Junho.
+Art. 13.º Aos produtos abrangidos pelo presente Regulamento aplica-se o disposto na Portaria n.º 576/93, de 4 de Junho.
 
-###### Art. 14.º - 1 - Até à adopção de normas sanitárias de âmbito comunitário aplicáveis à colocação de carnes de caça selvagem no mercado, continuam a ser aplicáveis as normas nacionais relativas à utilização destas carnes nos estabelecimentos referidos no presente Regulamento e à colocação no mercado de produtos à base de carne que contenham estas carnes.
+Art. 14.º - 1 - Até à adopção de normas sanitárias de âmbito comunitário aplicáveis à colocação de carnes de caça selvagem no mercado, continuam a ser aplicáveis as normas nacionais relativas à utilização destas carnes nos estabelecimentos referidos no presente Regulamento e à colocação no mercado de produtos à base de carne que contenham estas carnes.
 
 2 - Até à publicação da lista de géneros alimentícios aos quais se podem acrescentar aditivos autorizados, assim como das condições dessa adição e, se necessário, de limitações quanto ao objectivo tecnológico da sua utilização, continuam a ser aplicáveis à produção nacional e ao comércio intracomunitário as normas nacionais e os convénios bilaterais existentes até 1 de Julho de 1990 que restrinjam a utilização de aditivos nos produtos abrangidos pelo presente Regulamento.
 
-###### Art. 15.º Sem prejuízo das disposições específicas do presente Regulamento, a autoridade competente procederá a todos os controlos que considerar adequados caso suspeite do não cumprimento das disposições deste Regulamento ou se houver dúvidas quanto à salubridade dos produtos referidos no artigo 1.º
+Art. 15.º Sem prejuízo das disposições específicas do presente Regulamento, a autoridade competente procederá a todos os controlos que considerar adequados caso suspeite do não cumprimento das disposições deste Regulamento ou se houver dúvidas quanto à salubridade dos produtos referidos no artigo 1.º
 
 ## ANEXO A — Condições gerais
 
@@ -889,7 +904,7 @@ Os veículos destinados ao transporte com refrigeração devem ser concebidos de
 
 8 - As gorduras animais fundidas, consoante o seu tipo, devem satisfazer as normas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/278b00/66676677.pdf))](https://files.diariodarepublica.pt/1s/1993/11/278b00/66676677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/278b00/66676677.pdf)
 
 9 - Os torresmos destinados ao consumo humano devem ser armazenados:
 

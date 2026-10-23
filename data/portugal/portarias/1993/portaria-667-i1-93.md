@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 1º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3838-(29) a 3838-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b01/00290029.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-i1/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-i1-1993-402362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0ac6dd79fd2d750cca5f70898d3de15cd26a764830320f6d222d4149e1d3ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1b49e8258556c5e34ec173bbfdd2bd51d8097d02b10a007a12639f907d4e247
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,17 @@ relationships:
   target: pt:dre:302113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146728:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.632/2002.2002.06.12.MADRP, DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-2002-146728
+  date: '2002-06-12'
+- type: amended_by
+  target: pt:dre:302113:por
+  label: "Anexados vários prédios rústicos á zona de caça associativa concessionada pelo presente diploma, renovada pela Port\
+    \ 632/2002, de 12-Jun, pela PORT.479/2004.04.05.2004.MADRP, DR.IS-B [104] de 04.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/479-2004-302113
+  date: '2004-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -84,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:31Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +169,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Julho de 1993.**
+Assinada em 1 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b01/00290029.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b01/00290029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b01/00290029.pdf)

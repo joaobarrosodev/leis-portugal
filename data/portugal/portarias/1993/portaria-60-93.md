@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/60/1993/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-1993-585415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d258ba6b5886c5cd47bede10d14137bcf98b728f0327ef65c9b478c655a24efa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b995830fdf2987ac41125ef3fd4765c353261b8ab9a06e5e43f8cd659a3a3196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Artes Decorativas Portuguesas
 - Curso de Estudos Superiores Especializados em Design de Mobiliário Urbano
 - Curso de Estudos Superiores Especializados em Peritos em Arte-mobiliário
 - Curso Superior de Artes Decorativas
 - Ensino Particular
-- Escola Superior de Artes Decorativas
 - Ensino Superior
-relationships: []
+- Escola Superior de Artes Decorativas
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:00Z'
   warnings: []
   errors: []
 ---
@@ -121,10 +133,10 @@ Design de Mobiliário Urbano.
 
 Ministério da Educação.
 
-**Assinada em 18 de Dezembro de 1992.**
+Assinada em 18 de Dezembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Escola Superior de Artes Decorativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/011b00/01220123.pdf))](https://files.diariodarepublica.pt/1s/1993/01/011b00/01220123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/011b00/01220123.pdf)

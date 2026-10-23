@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22100/0533405336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/307/2018/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/307-2018-116997463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8978932118594d63d9f76f37eb3930557abe069f7be87efcc75dc0c4107be44b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 524c7b0669565753113910d8157652aba818e63294e0c8088eb0575650197a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
-- Portugal
 - Decisão CE
-- Parlamentar Europeu
+- Direito de Voto
+- Eleição
 - Eleição Europeia
-- União Europeia
 - Euratom
 - Mandato
-- Sistema Eleitoral
+- Parlamentar Europeu
 - Parlamento Europeu
-- Direito de Voto
+- Portugal
+- Sistema Eleitoral
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:116997462:por
+  label: Ratificada a Decisão (UE, Euratom) 2018/994, do Conselho, de 13-jul, aprovada pela presente Resolução, pelo(a) Decreto
+    do Presidente da República n.º 83/2018 - Diário da República n.º 221/2018, Série I de 2018-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/83-2018-116997462
+  date: '2018-11-16'
 - type: cites
   target: celex:31976D0787
   label: null
@@ -96,15 +102,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dec/2018/994/oj
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:15Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +123,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de outubro de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 [DECISÃO (UE, EURATOM) 2018/994](https://data.europa.eu/eli/dec/2018/994/oj?locale=pt), DO CONSELHO, DE 13 DE JULHO DE 2018, QUE ALTERA O ATO RELATIVO À ELEIÇÃO DOS MEMBROS DO PARLAMENTO EUROPEU POR SUFRÁGIO UNIVERSAL DIRETO, ANEXO À DECISÃO 76/787/CECA, CEE, EURATOM DO CONSELHO, DE 20 DE SETEMBRO DE 1976.
 
@@ -187,7 +193,7 @@ O Ato Eleitoral é alterado da seguinte forma:
 
 Se as disposições nacionais estabelecerem um prazo para a apresentação de candidaturas à eleição para o Parlamento Europeu, esse prazo deve ser, no mínimo, de três semanas antes da data fixada pelo Estado-Membro em causa, nos termos do artigo 10.º, n.º 1, para a realização das eleições para o Parlamento Europeu.
 
-###### Artigo 3.º-B
+Artigo 3.º-B
 
 Os Estados-Membros podem autorizar que os boletins de voto ostentem o nome ou o logótipo do partido político europeu em que o partido político nacional ou o candidato individual está filiado.»
 
@@ -211,7 +217,7 @@ Nas eleições para o Parlamento Europeu, os Estados-Membros podem prever a poss
 
 Em conformidade com os respetivos procedimentos eleitorais nacionais, os Estados-Membros podem tomar as medidas necessárias para permitir que os seus cidadãos que residam em países terceiros votem nas eleições para o Parlamento Europeu.
 
-###### Artigo 9.º-B
+Artigo 9.º-B
 
 1 - Cada Estado-Membro designa uma autoridade de contacto responsável pelo intercâmbio de dados sobre os eleitores e os candidatos com as suas homólogas de outros Estados-Membros.
 
@@ -244,3 +250,5 @@ Portugal declara que o sentido do seu voto tem como pressuposto que a cláusula 
 (4) [Decisão 2002/772/CE](https://data.europa.eu/eli/dec/2002/772/oj?locale=pt), Euratom do Conselho, de 25 de junho e 23 de setembro de 2002, que altera o Ato relativo à eleição dos representantes ao Parlamento Europeu por sufrágio universal direto, anexo à Decisão 76/787/CECA, CEE, Euratom (JO, L 283, de 21.10.2002, p. 1).
 
 (5) A data de entrada em vigor da presente decisão é publicada no Jornal Oficial da União Europeia por intermédio do Secretariado-Geral do Conselho.
+
+172018

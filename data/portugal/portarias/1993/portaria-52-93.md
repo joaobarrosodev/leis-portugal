@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/1993/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-1993-588255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b4dac39b0b2da629a1d0e372a3f53fa5f807217f09ce979c18c55620dea992d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70741314922a4215937d1b2d701cab90fc198bcda9facd9bd677aeb1a1a7dee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Celorico da Beira
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Protecção do Património
-- Câmara Municipal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:54Z'
   warnings: []
   errors: []
 ---
@@ -108,33 +136,33 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Outubro de 1992.**
+Assinada em 26 de Outubro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º O presente Regulamento para a Salvaguarda e Recuperação do Núcleo Urbano de Linhares da Beira aplica-se à área de intervenção do Plano de Pormenor de Recuperação Urbana (PPRU), do qual é parte integrante, e toma em consideração as disposições constantes do Regulamento Geral das Edificações Urbanas ([Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951).
+Artigo 1.º O presente Regulamento para a Salvaguarda e Recuperação do Núcleo Urbano de Linhares da Beira aplica-se à área de intervenção do Plano de Pormenor de Recuperação Urbana (PPRU), do qual é parte integrante, e toma em consideração as disposições constantes do Regulamento Geral das Edificações Urbanas ([Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951).
 
-###### Art. 2.º A Câmara Municipal de Celorico da Beira, pelo presente Regulamento, obriga-se a que as reparações, recuperações, reabilitações e construções na área do Plano, definida no capítulo regulamentar respectivo, se ajustem e garantam o cumprimento das directivas contidas no Plano em geral e no articulado do Regulamento em particular.
+Art. 2.º A Câmara Municipal de Celorico da Beira, pelo presente Regulamento, obriga-se a que as reparações, recuperações, reabilitações e construções na área do Plano, definida no capítulo regulamentar respectivo, se ajustem e garantam o cumprimento das directivas contidas no Plano em geral e no articulado do Regulamento em particular.
 
-###### Art. 3.º O presente Regulamento, a aplicar nas áreas definidas no capítulo regulamentar respectivo, estabelece que a Câmara Municipal de Celorico da Beira se obriga a conservar o carácter urbano e arquitectónico daquelas áreas, preservando e recuperando o seu interesse paisagístico-urbano, em geral, e, em particular, o seu interesse arqueológico, histórico, evocativo, arquitectónico e urbanístico, garantindo por esse meio a conservação do valor estético do aglomerado urbano e as classificações apresentadas no Plano.
+Art. 3.º O presente Regulamento, a aplicar nas áreas definidas no capítulo regulamentar respectivo, estabelece que a Câmara Municipal de Celorico da Beira se obriga a conservar o carácter urbano e arquitectónico daquelas áreas, preservando e recuperando o seu interesse paisagístico-urbano, em geral, e, em particular, o seu interesse arqueológico, histórico, evocativo, arquitectónico e urbanístico, garantindo por esse meio a conservação do valor estético do aglomerado urbano e as classificações apresentadas no Plano.
 
-###### Art. 4.º O presente Regulamento estabelece que a Câmara Municipal de Celorico da Beira se obriga a:
+Art. 4.º O presente Regulamento estabelece que a Câmara Municipal de Celorico da Beira se obriga a:
 
 1) Não conceder licenças para execução de obras sem verificar previamente que elas não colidem com as normas e orientações contidas no presente Plano.
 
-###### Art. 5.º O presente Regulamento, após aprovação do PPRU, pela Assembleia Municipal, devidamente ratificada, constituirá instrumento legal vinculativo, regendo quaisquer trabalhos a registar na sua área de intervenção.
+Art. 5.º O presente Regulamento, após aprovação do PPRU, pela Assembleia Municipal, devidamente ratificada, constituirá instrumento legal vinculativo, regendo quaisquer trabalhos a registar na sua área de intervenção.
 
-###### Art. 6.º Os moradores têm direito de reclamar, junto da Câmara Municipal, contra os proprietários que não conservem ou atentem contra o património edificado do conjunto.
+Art. 6.º Os moradores têm direito de reclamar, junto da Câmara Municipal, contra os proprietários que não conservem ou atentem contra o património edificado do conjunto.
 
 ### CAPÍTULO II — Planos de pormenor
 
-###### Art. 7.º A Câmara Municipal deverá incrementar a realização dos planos de pormenor propostos, que poderão ser elaborados pelo município ou por contratos com equipas de reconhecida competência.
+Art. 7.º A Câmara Municipal deverá incrementar a realização dos planos de pormenor propostos, que poderão ser elaborados pelo município ou por contratos com equipas de reconhecida competência.
 
-###### Art. 8.º O estabelecimento de prioridades, para além do considerado no Plano, competirá à Câmara Municipal de Celorico da Beira, ouvidos os serviços técnicos respectivos.
+Art. 8.º O estabelecimento de prioridades, para além do considerado no Plano, competirá à Câmara Municipal de Celorico da Beira, ouvidos os serviços técnicos respectivos.
 
 ### CAPÍTULO III — Áreas afectadas e classificadas
 
@@ -142,11 +170,11 @@ Art 9.º O presente Regulamento propõe a área afecta ao PPRU para classificaç
 
 § único. Deverá a Câmara Municipal de Celorico da Beira submeter à aprovação ministerial esta nova classificação.
 
-###### Art. 10.º O presente Regulamento considera a classificação do castelo como monumento nacional, propondo a revisão das áreas de protecção, conforme assinalado no desenho respectivo e no artigo 9.º
+Art. 10.º O presente Regulamento considera a classificação do castelo como monumento nacional, propondo a revisão das áreas de protecção, conforme assinalado no desenho respectivo e no artigo 9.º
 
 § único. Deverá a Câmara Municipal de Celorico da Beira submeter à aprovação ministerial esta nova zona de protecção.
 
-###### Art. 11.º O presente Regulamento considera a classificação como imóveis de interesse público os edifícios já classificados, nomeadamente:
+Art. 11.º O presente Regulamento considera a classificação como imóveis de interesse público os edifícios já classificados, nomeadamente:
 
 A igreja matriz;
 
@@ -156,13 +184,13 @@ O pelourinho.
 
 ([Decreto n.º 41191](https://diariodarepublica.pt/dr/detalhe/decreto/41191-1957-279453), de 18 de Julho de 1957; [Decreto n.º 47508](https://diariodarepublica.pt/dr/detalhe/decreto/47508-1967-500897), de 24 de Janeiro de 1967; Decreto n.º 23122, de 11 de Outubro de 1933.)
 
-###### Art. 12.º O presente Regulamento propõe para a classificação como imóvel de interesse público a calçada romana.
+Art. 12.º O presente Regulamento propõe para a classificação como imóvel de interesse público a calçada romana.
 
 § único. Deverá a Câmara Municipal de Celorico da Beira submeter à aprovação ministerial esta nova classificação.
 
-###### Art. 13.º Este Regulamento propõe a classificação de valores concelhios para todos os edifícios suporte de pormenores notáveis.
+Art. 13.º Este Regulamento propõe a classificação de valores concelhios para todos os edifícios suporte de pormenores notáveis.
 
-###### Art. 14.º Este Regulamento estabelece três zonas envolventes de protecção do Centro Histórico devidamente identificadas em desenho e regulamentadas:
+Art. 14.º Este Regulamento estabelece três zonas envolventes de protecção do Centro Histórico devidamente identificadas em desenho e regulamentadas:
 
 1.ª Área de servidão de vistas. - Consideram-se de preservar as vistas da serra e para a serra, estabelecendo como zona non aedificandi a área contida entre o aglomerado urbano existente e a via de cintura proposta.
 
@@ -172,11 +200,11 @@ O pelourinho.
 
 ### CAPÍTULO IV — Edifícios
 
-###### Art. 15.º O conjunto histórico de Linhares da Beira representa um todo de valor arquitectónico e cultural de primeira grandeza na região em que se insere, pelo que deve ser encarada a sua reabilitação e conservação no estrito respeito pelo património edificado existente, sem prejuízo de intervenções que permitam a eliminação de casos dissonantes, já registados.
+Art. 15.º O conjunto histórico de Linhares da Beira representa um todo de valor arquitectónico e cultural de primeira grandeza na região em que se insere, pelo que deve ser encarada a sua reabilitação e conservação no estrito respeito pelo património edificado existente, sem prejuízo de intervenções que permitam a eliminação de casos dissonantes, já registados.
 
 A área definida pelo PPRU fica sujeita a uma disciplina que respeita integralmente a arquitectura preexistente, não sendo autorizada qualquer demolição ou alteração incompatível com o equilíbrio do conjunto patrimonial.
 
-###### Art. 16.º As características dos edifícios decorrem da sua tipologia, sendo a estrutura, composição e valor arquitectónico reflexo de técnicas e materiais empregues, pelo que quaisquer alterações que lhe sejam imprimidas e desrespeitem essas características determinam a descaracterização do edifício e, consequentemente, a degradação do conjunto.
+Art. 16.º As características dos edifícios decorrem da sua tipologia, sendo a estrutura, composição e valor arquitectónico reflexo de técnicas e materiais empregues, pelo que quaisquer alterações que lhe sejam imprimidas e desrespeitem essas características determinam a descaracterização do edifício e, consequentemente, a degradação do conjunto.
 
 1 - Fica interdita a demolição de qualquer imóvel, excepto em caso de ruína iminente e ameaça da segurança pública.
 
@@ -188,33 +216,33 @@ Neste caso a demolição só será possível após vistoria pelos Serviços Téc
 
 Exceptuam-se as ampliações nos casos em que se justifique a necessidade de dotar o imóvel das necessárias condições de habitabilidade e salubridade de reconversão do seu interior com a instalação das infra-estruturas (cozinha/instalação sanitária).
 
-###### Art. 17.º As obras de recuperação, reabilitação ou outras que venham a ocorrer nos edifícios só serão viáveis depois de aprovado pela Câmara o respectivo projecto e emitida a licença respectiva.
+Art. 17.º As obras de recuperação, reabilitação ou outras que venham a ocorrer nos edifícios só serão viáveis depois de aprovado pela Câmara o respectivo projecto e emitida a licença respectiva.
 
 1 - Os projectos de recuperação, reabilitação ou conservação deverão ser precedidos de pedido de viabilidade.
 
 2 - O projecto conterá obrigatoriamente o levantamento fotográfico detalhado.
 
-###### Art. 18.º Fica interdita qualquer alteração na dimensão, forma e proporção dos vãos, excepto em dissonâncias justificadas pela reposição original ou pela melhoria das condições de habitabilidade e salubridade do imóvel.
+Art. 18.º Fica interdita qualquer alteração na dimensão, forma e proporção dos vãos, excepto em dissonâncias justificadas pela reposição original ou pela melhoria das condições de habitabilidade e salubridade do imóvel.
 
-###### Art. 19.º A forma e inclinação das coberturas preexistentes deverá ser respeitada de maneira a manter a silhueta do conjunto e vistas panorâmicas, exceptuando os casos dissonantes pela reposição da situação original.
+Art. 19.º A forma e inclinação das coberturas preexistentes deverá ser respeitada de maneira a manter a silhueta do conjunto e vistas panorâmicas, exceptuando os casos dissonantes pela reposição da situação original.
 
 § único. Fica interdita a introdução de mansardas ou trapeiras.
 
-###### Art. 20.º Em caso algum é admissível a alteração ou substituição de elementos arquitectónicos classificados de notáveis.
+Art. 20.º Em caso algum é admissível a alteração ou substituição de elementos arquitectónicos classificados de notáveis.
 
-###### Art. 21.º Os edifícios classificados de dissonantes deverão ser reintegrados nas características arquitectónicas e cromáticas anteriores, removendo-se as dissonâncias se forem parciais, incluindo elementos de cobertura e telhados, aquando de pedido de licença de obras.
+Art. 21.º Os edifícios classificados de dissonantes deverão ser reintegrados nas características arquitectónicas e cromáticas anteriores, removendo-se as dissonâncias se forem parciais, incluindo elementos de cobertura e telhados, aquando de pedido de licença de obras.
 
-###### Art. 22.º A demolição em edifícios classificados nas fichas do PPRU como dissonantes só será autorizada depois de aprovado o projecto de reabilitação.
+Art. 22.º A demolição em edifícios classificados nas fichas do PPRU como dissonantes só será autorizada depois de aprovado o projecto de reabilitação.
 
 § único. Os projectos de reabilitação deverão pautar-se pelo respeito dos volumes e materiais locais.
 
-###### Art. 23.º Deverão ser eliminadas todas as construções abarracadas e lixeiras como forma de libertação dos logradouros e saneamento das áreas envolventes da habitação.
+Art. 23.º Deverão ser eliminadas todas as construções abarracadas e lixeiras como forma de libertação dos logradouros e saneamento das áreas envolventes da habitação.
 
 § único. Como reflexo da economia local é admissível a recolha de animais domésticos nas lojas desde que não seja posta em causa a saúde pública.
 
-###### Art. 24.º Os edifícios deverão ser objecto de reparação e limpeza, tratamento de coberturas, fachadas e empenas por períodos máximos de oito anos.
+Art. 24.º Os edifícios deverão ser objecto de reparação e limpeza, tratamento de coberturas, fachadas e empenas por períodos máximos de oito anos.
 
-###### Art. 25.º Serão garantidos todos os usos que os regulamentos municipais e outros autorizem, sempre que compatíveis com a integridade e carácter do edifício, qualidade de vida, conservação do ambiente e que não ocasionem rupturas na estrutura urbana.
+Art. 25.º Serão garantidos todos os usos que os regulamentos municipais e outros autorizem, sempre que compatíveis com a integridade e carácter do edifício, qualidade de vida, conservação do ambiente e que não ocasionem rupturas na estrutura urbana.
 
 1 - A alteração do uso deverá ser condicionada à ocupação efectiva do edifício.
 
@@ -226,15 +254,15 @@ Exceptuam-se as ampliações nos casos em que se justifique a necessidade de dot
 
 1 - Coberturas
 
-###### Art. 26.º Para revestimento de coberturas só são admissíveis telhas cerâmicas de barro vermelho (canudo, aba e canudo).
+Art. 26.º Para revestimento de coberturas só são admissíveis telhas cerâmicas de barro vermelho (canudo, aba e canudo).
 
 2 - Guarnecimento de vãos
 
-###### Art. 27.º Fica interdito o uso de estores exteriores.
+Art. 27.º Fica interdito o uso de estores exteriores.
 
 § único. Deverão ser utilizadas, como sistema de obscurecimento, portadas interiores.
 
-###### Art. 28.º Fica interdito o uso de caixilharias de alumínio anodizado.
+Art. 28.º Fica interdito o uso de caixilharias de alumínio anodizado.
 
 1 - Deverão ser utilizadas caixilharias de madeira, ou alumínio termolacado, pintado a esmalte ou lacados nas cores da paleta recomendada.
 
@@ -242,29 +270,29 @@ Exceptuam-se as ampliações nos casos em que se justifique a necessidade de dot
 
 3 - Cantarias
 
-###### Art. 29.º Fica interdita a colagem de cantarias de granito ou outros em socos, ombreiras, lintéis, parapeitos ou soleiras.
+Art. 29.º Fica interdita a colagem de cantarias de granito ou outros em socos, ombreiras, lintéis, parapeitos ou soleiras.
 
 4 - Reboco
 
-###### Art. 30.º É inviável o reboco de alvenarias de granito, o avivar de juntas ou a introdução de socos, excepto nos casos tipológicos incompatíveis (casas solarengas, nas cores previstas), ou em casos em que a melhoria das condições de habitabilidade e salubridade assim o imponham.
+Art. 30.º É inviável o reboco de alvenarias de granito, o avivar de juntas ou a introdução de socos, excepto nos casos tipológicos incompatíveis (casas solarengas, nas cores previstas), ou em casos em que a melhoria das condições de habitabilidade e salubridade assim o imponham.
 
 5 - Algerozes e tubos de queda
 
-###### Art. 31.º Os algerozes e tubos de queda deverão ser metálicos, pintados nas cores adoptadas para as caixilharias do edifício em que se inserem.
+Art. 31.º Os algerozes e tubos de queda deverão ser metálicos, pintados nas cores adoptadas para as caixilharias do edifício em que se inserem.
 
 6 - Cores
 
-###### Art. 32.º O uso da cor restringe-se aos elementos secundários e emprega-se em exclusividade: ocre, óxido de ferro e cinza nas alvenarias; verde-escuro, castanho-escuro e óxido de ferro nas madeiras e elementos metálicos.
+Art. 32.º O uso da cor restringe-se aos elementos secundários e emprega-se em exclusividade: ocre, óxido de ferro e cinza nas alvenarias; verde-escuro, castanho-escuro e óxido de ferro nas madeiras e elementos metálicos.
 
-###### Art. 33.º Os materiais removidos de demolições deverão ser postos à disposição da Câmara Municipal, sempre que esta o entenda conveniente, para utilização em trabalhos futuros.
+Art. 33.º Os materiais removidos de demolições deverão ser postos à disposição da Câmara Municipal, sempre que esta o entenda conveniente, para utilização em trabalhos futuros.
 
 ### CAPÍTULO VI — Diversos
 
-###### Art. 34.º Elementos arquitectónicos e achados arqueológicos descobertos no decurso de obras de conservação ou recuperação de edifícios deverão ser comunicados à Câmara Municipal de Celorico da Beira, que enviará os seus técnicos ao local, inventariando e preservando os achados.
+Art. 34.º Elementos arquitectónicos e achados arqueológicos descobertos no decurso de obras de conservação ou recuperação de edifícios deverão ser comunicados à Câmara Municipal de Celorico da Beira, que enviará os seus técnicos ao local, inventariando e preservando os achados.
 
 § único. O espólio eventualmente removido deverá fazer parte do acervo artístico, arqueológico e cultural do futuro Museu de Linhares da Beira.
 
-###### Art. 35.º A publicidade deverá ser discreta e de qualidade, não podendo impedir a leitura dos elementos arquitectónicos notáveis.
+Art. 35.º A publicidade deverá ser discreta e de qualidade, não podendo impedir a leitura dos elementos arquitectónicos notáveis.
 
 1 - Não é admissível a utilização de publicidade luminosa.
 
@@ -272,10 +300,10 @@ Exceptuam-se as ampliações nos casos em que se justifique a necessidade de dot
 
 3 - A aplicação de publicidade não é permitida em edifícios denominados de qualidade e exige licenciamento camarário próprio.
 
-###### Art. 36.º A numeração dos edifícios é estipulada pela Câmara Municipal, prevendo-se que a cada propriedade corresponda um único número subdividido por ordem alfabética.
+Art. 36.º A numeração dos edifícios é estipulada pela Câmara Municipal, prevendo-se que a cada propriedade corresponda um único número subdividido por ordem alfabética.
 
-###### Art. 37.º Deverá ser respeitada a antiga toponímia, que constará nas placas informativas lado a lado com as novas designações, quando existam.
+Art. 37.º Deverá ser respeitada a antiga toponímia, que constará nas placas informativas lado a lado com as novas designações, quando existam.
 
-###### Art. 38.º O parqueamento automóvel só é autorizado nas áreas criadas para o efeito.
+Art. 38.º O parqueamento automóvel só é autorizado nas áreas criadas para o efeito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/010b00/00980100.pdf))](https://files.diariodarepublica.pt/1s/1993/01/010b00/00980100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/010b00/00980100.pdf)

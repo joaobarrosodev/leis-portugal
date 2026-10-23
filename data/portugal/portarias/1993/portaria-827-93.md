@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/211b00/47994800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/827/1993/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/827-1993-626996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b99afde3b321d93103d0384aa7f9f8904cc9efc3cbb515dbc76c7b9112892577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c33f8cef8dfe88ddf945e883202ebf2269434b68d2b706573bc7a74676b40b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Sever do Vouga
 relationships:
 - type: amended_by
   target: pt:dre:506419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506419:por
+  label: "Totalmente revogada pela RES.30/97.1997.01.16.PCM, DR.IS-B [49] de 1997.02.27 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/30-1997-506419
+  date: '1997-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:57Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +125,8 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 9 de Agosto de 1993.**
+Assinada em 9 de Agosto de 1993.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/211b00/47994800.pdf))](https://files.diariodarepublica.pt/1s/1993/09/211b00/47994800.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/211b00/47994800.pdf)

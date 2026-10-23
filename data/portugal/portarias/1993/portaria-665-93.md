@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/665/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/665-1993-390020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e4f02dc4519d31bc0eb0d2b228925bafb79a0d42ee14b32daa1a83c8db65f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8076477ff80d8072da80712767a8854ba2de589021a0de98e2efd961becd199d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano de Urbanização
 - Cascais
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:156627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156627:por
+  label: "Alterado o quadro sinóptico anexo ao Regulamento e o art 18º, secção III do mesmo Regulamento, pela PORT.446/97.1997.07.07.MEPAT,\
+    \ DR.IS-B [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/446-1997-156627
+  date: '1997-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -82,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:40Z'
   warnings: []
   errors: []
 ---
@@ -122,17 +148,17 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 8 de Junho de 1993.**
+Assinada em 8 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Guia, estrada nacional n.º 247, Cascais
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente regulamento, respeitante ao Plano de Pormenor da Guia, inclui disposições sobre a ocupação e uso do solo nas áreas habitacionais, nas áreas de empreendimentos turísticos, nas áreas a preservar para implantação de infra-estruturas, nas destinadas a zonas verdes públicas ou privadas e zonas abrangidas por condicionantes.
+Artigo 1.º O presente regulamento, respeitante ao Plano de Pormenor da Guia, inclui disposições sobre a ocupação e uso do solo nas áreas habitacionais, nas áreas de empreendimentos turísticos, nas áreas a preservar para implantação de infra-estruturas, nas destinadas a zonas verdes públicas ou privadas e zonas abrangidas por condicionantes.
 
-###### Art. 2.º Considera-se abrangida pelo Plano de Recuperação Urbanística a área constante na planta de implantação (escala de 1:1000), sendo definida pelos seguintes limites:
+Art. 2.º Considera-se abrangida pelo Plano de Recuperação Urbanística a área constante na planta de implantação (escala de 1:1000), sendo definida pelos seguintes limites:
 
 a) A norte - prolongamento da Rua de Pêro de Alenquer;
 
@@ -142,51 +168,51 @@ c) A sul - estrada nacional n.º 247 e Avenida da República;
 
 d) A poente - estrada municipal n.º 597 (Estrada da Torre).
 
-###### Art. 3.º Quaisquer obras de iniciativa pública ou privada a realizar na área de intervenção do Plano de Pormenor respeitarão obrigatoriamente as disposições do presente regulamento.
+Art. 3.º Quaisquer obras de iniciativa pública ou privada a realizar na área de intervenção do Plano de Pormenor respeitarão obrigatoriamente as disposições do presente regulamento.
 
-###### Art. 4.º O Plano de Pormenor da Guia tem a vigência de 10 anos após publicação no Diário da República, findo o qual se concluirá o processo de revisão.
+Art. 4.º O Plano de Pormenor da Guia tem a vigência de 10 anos após publicação no Diário da República, findo o qual se concluirá o processo de revisão.
 
 ### CAPÍTULO II — Zonamento
 
-###### Art. 5.º O Plano de Pormenor abrange as seguintes zonas:
+Art. 5.º O Plano de Pormenor abrange as seguintes zonas:
 
 a) Zonas habitacionais unifamiliares:
 
 b) Zonas de empreendimentos turísticos.
 
-###### Art. 6.º As áreas sobrantes que resultam dos planos de pormenor serão integradas no domínio público.
+Art. 6.º As áreas sobrantes que resultam dos planos de pormenor serão integradas no domínio público.
 
 ### CAPÍTULO III — Espaço construído
 
 #### SECÇÃO I — Generalidades
 
-###### Art. 7.º As normas genéricas que regulamentarão a construção são as seguintes:
+Art. 7.º As normas genéricas que regulamentarão a construção são as seguintes:
 
 a) As construções que não estejam de acordo com o estabelecido no Plano deverão ser objecto de renovação, por forma a realizarem-se as obras necessárias para que se enquadrem no Plano;
 
 b) Na elaboração e instrução dos projectos de novos edifícios deverão ser respeitadas as normas legais e regulamentares em vigor, nomeadamente o [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), o Regulamento Geral das Edificações Urbanas e regulamentos específicos, tais como o Regulamento Geral do Ruído, o Regulamento das Características do Comportamento Térmico dos Edifícios, o Regulamento de Segurança contra Incêndios, bem como outros que entretanto venham a ser publicados, e também normas e posturas municipais em vigor.
 
-###### Art. 8.º A percentagem de ocupação máxima do terreno é de 16% (incluindo anexos).
+Art. 8.º A percentagem de ocupação máxima do terreno é de 16% (incluindo anexos).
 
 § único. Para efeitos de determinação do índice de ocupação, incluem-se todas as áreas da edificação propriamente dita, garagens e anexos.
 
-###### Art. 9.º No caso de construção de caves, as áreas destes espaços não contabilizam para a área de construção referida no quadro sinóptico, se forem destinadas a parqueamento, arrecadações e espaços técnicos.
+Art. 9.º No caso de construção de caves, as áreas destes espaços não contabilizam para a área de construção referida no quadro sinóptico, se forem destinadas a parqueamento, arrecadações e espaços técnicos.
 
-###### Art. 10.º As cotas de soleira determinam-se a partir do terreno natural, podendo acrescer em relação a este 0,5 m.
+Art. 10.º As cotas de soleira determinam-se a partir do terreno natural, podendo acrescer em relação a este 0,5 m.
 
 #### SECÇÃO II — Zonas habitacionais unifamiliares
 
-###### Art. 11.º As zonas habitacionais unifamiliares constituem as parcelas designadas pelos n.os 5, 6, 7, 8, 9, 10, 11, 12, 13 e 16.
+Art. 11.º As zonas habitacionais unifamiliares constituem as parcelas designadas pelos n.os 5, 6, 7, 8, 9, 10, 11, 12, 13 e 16.
 
-###### Art. 12.º Os edifícios terão um máximo de dois pisos acima do solo, unicamente utilizado para habitação. Poderá ser construída uma cave ou sótão.
+Art. 12.º Os edifícios terão um máximo de dois pisos acima do solo, unicamente utilizado para habitação. Poderá ser construída uma cave ou sótão.
 
-###### Art. 13.º Qualquer garagem ou anexo só poderá ter um piso, cuja área não será superior a 45 m2, não ultrapassando a altura de 2,8 m.
+Art. 13.º Qualquer garagem ou anexo só poderá ter um piso, cuja área não será superior a 45 m2, não ultrapassando a altura de 2,8 m.
 
-###### Art. 14.º O índice de ocupação terá um valor máximo de 0,35.
+Art. 14.º O índice de ocupação terá um valor máximo de 0,35.
 
 § único. Para efeitos de determinação do índice de ocupação incluem-se todas as áreas de construção da edificação propriamente dita, garagens e anexos, excluindo-se apenas as caves, que se encontrem nas condições previstas no artigo 9.º
 
-###### Art. 15.º Os afastamentos mínimos aos limites dos lotes na implantação de moradias são os seguintes:
+Art. 15.º Os afastamentos mínimos aos limites dos lotes na implantação de moradias são os seguintes:
 
 a) Afastamento frontal - 8 m;
 
@@ -194,25 +220,25 @@ b) Afastamentos laterais - 5 m;
 
 c) Afastamento de tardoz (logradouro) - 8 m.
 
-###### Art. 16.º Excepcionalmente e caso as dimensões dos lotes dificultem a implantação da edificação, poderão os afastamentos a que se refere o artigo anterior ser reduzidos, desde que cumprida toda a legislação em vigor, e com autorização expressa do proprietário da parcela confinante.
+Art. 16.º Excepcionalmente e caso as dimensões dos lotes dificultem a implantação da edificação, poderão os afastamentos a que se refere o artigo anterior ser reduzidos, desde que cumprida toda a legislação em vigor, e com autorização expressa do proprietário da parcela confinante.
 
-###### Art. 17.º É obrigatória a existência de dois lugares de estacionamento por fogo, dentro dos limites da parcela.
+Art. 17.º É obrigatória a existência de dois lugares de estacionamento por fogo, dentro dos limites da parcela.
 
 #### SECÇÃO III — Empreendimentos turísticos
 
-###### Art. 18.º Os empreendimentos turísticos constituem as parcelas designadas pelos n.os 1, 2, 3, 4-A, 4-B, 4-C e 14, destinando-se a parcela n.º 15 a restaurante.
+Art. 18.º Os empreendimentos turísticos constituem as parcelas designadas pelos n.os 1, 2, 3, 4-A, 4-B, 4-C e 14, destinando-se a parcela n.º 15 a restaurante.
 
-###### Art. 19.º Os edifícios terão um máximo de nove pisos acima do solo, unicamente utilizados para empreendimentos turísticos. O piso do rés-do-chão e a 1.ª cave, desde que garantidas as exigências de habitabilidade mínima, poderão destinar-se a comércio ou serviços de uso exclusivo dos utilizadores.
+Art. 19.º Os edifícios terão um máximo de nove pisos acima do solo, unicamente utilizados para empreendimentos turísticos. O piso do rés-do-chão e a 1.ª cave, desde que garantidas as exigências de habitabilidade mínima, poderão destinar-se a comércio ou serviços de uso exclusivo dos utilizadores.
 
 § único. Poderão ser construídas caves, estando o seu uso exclusivamente destinado a parqueamento, arrecadações e espaços técnicos.
 
-###### Art. 20.º Qualquer ocupação ou anexo só poderá ter um piso, cuja área de implantação não será superior a 75 m2 da área do lote, não ultrapassando a altura 2,8 m, e desde que se destine exclusivamente a área de apoio nos termos do [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898).
+Art. 20.º Qualquer ocupação ou anexo só poderá ter um piso, cuja área de implantação não será superior a 75 m2 da área do lote, não ultrapassando a altura 2,8 m, e desde que se destine exclusivamente a área de apoio nos termos do [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898).
 
-###### Art. 21.º O índice de ocupação terá um valor máximo de 1.
+Art. 21.º O índice de ocupação terá um valor máximo de 1.
 
 § único. Para efeitos de determinação do índice de ocupação incluem-se todas as áreas de construção da edificação propriamente dita, garagens e anexos, excluindo-se apenas as caves, que se encontrem nas condições previstas no artigo 9.º
 
-###### Art. 22.º Os afastamentos mínimos aos limites dos lotes na implantação de construções são os seguintes:
+Art. 22.º Os afastamentos mínimos aos limites dos lotes na implantação de construções são os seguintes:
 
 a) Afastamento frontal - 3 m;
 
@@ -220,15 +246,15 @@ b) Afastamentos laterais - 5 m;
 
 c) Afastamento de tardoz (logradouro) - 8 m.
 
-###### Art. 23.º Excepcionalmente e caso as dimensões dos lotes dificultem a implantação da edificação, poderão os afastamentos a que se refere o artigo anterior ser reduzidos, desde que cumprida toda a legislação em vigor, e com autorização expressa do proprietário da parcela confinante.
+Art. 23.º Excepcionalmente e caso as dimensões dos lotes dificultem a implantação da edificação, poderão os afastamentos a que se refere o artigo anterior ser reduzidos, desde que cumprida toda a legislação em vigor, e com autorização expressa do proprietário da parcela confinante.
 
-###### Art. 24.º É obrigatória a existência de um lugar de estacionamento por cada 50 m2 de área comercial ou de serviços, dentro dos limites do lote.
+Art. 24.º É obrigatória a existência de um lugar de estacionamento por cada 50 m2 de área comercial ou de serviços, dentro dos limites do lote.
 
 ### CAPÍTULO IV — Espaço exterior
 
-###### Art. 25.º O espaço exterior será objecto de projecto de arranjos exteriores.
+Art. 25.º O espaço exterior será objecto de projecto de arranjos exteriores.
 
-###### Art. 26.º Fica sujeito a prévia autorização municipal o derrube de árvores que não fiquem abrangidas pela implantação dos edifícios.
+Art. 26.º Fica sujeito a prévia autorização municipal o derrube de árvores que não fiquem abrangidas pela implantação dos edifícios.
 
 Art 27.º A delimitação das parcelas abrangidas pelo Plano deverão obedecer ao seguinte:
 
@@ -238,11 +264,11 @@ b) As vedações entre parcelas não poderão exceder 2 m de altura;
 
 c) Outras soluções poderão ser adoptadas, desde que devidamente justificadas no projecto de arranjos exteriores.
 
-###### Art. 28.º Excepcionalmente, poderão ser permitidas instalações de interesse colectivo, desde que não prejudiquem a circulação dos peões e se integrem harmoniosamente no espaço verde exterior.
+Art. 28.º Excepcionalmente, poderão ser permitidas instalações de interesse colectivo, desde que não prejudiquem a circulação dos peões e se integrem harmoniosamente no espaço verde exterior.
 
 ### CAPÍTULO V — Áreas e índices
 
-###### Art. 29.º As áreas de conjunto do Plano de Pormenor da Guia resumem-se ao indicado no quadro sinóptico.
+Art. 29.º As áreas de conjunto do Plano de Pormenor da Guia resumem-se ao indicado no quadro sinóptico.
 
 Considerando:
 
@@ -284,8 +310,8 @@ IV 1 = volume da construção/área de intervenção;
 
 IV 2 = volume da construção/área de implantação.
 
-###### Art. 30.º Este regulamento e as peças desenhadas constituem o Plano de Pormenor da Guia e são indissociáveis, apenas podendo ser objecto de qualquer alteração com o acordo dos subscritores.
+Art. 30.º Este regulamento e as peças desenhadas constituem o Plano de Pormenor da Guia e são indissociáveis, apenas podendo ser objecto de qualquer alteração com o acordo dos subscritores.
 
 Quadro sinóptico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b00/38333836.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b00/38333836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b00/38333836.pdf)

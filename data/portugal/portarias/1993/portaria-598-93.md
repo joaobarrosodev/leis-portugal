@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/598/1993/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/598-1993-267668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c8a527bc0ea05f2fdbd689e2ce9a8e962f28b9064776a5203dfe6b7de5e74d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 263373b646856b81a266dfdf2f7c3fee186891720e616129339401df5841f2a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,165 @@ relationships:
   target: pt:dre:517597:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL CURRY CABRAL, PELA PORT 1181/93 DE 12-NOV DR.IS-B [265]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOSÉ PELA PORT 71/94 DE 02-FEV DR.IS-B [27]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE D. ESTEFÂNIA, PELA PORT 328/94 DE 28-MAI DR.IS-B [124]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SANTA MARTA, PELA PORT 727/94 DE 12-AGO DR.IS-B [186]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO SUBGRUPO HOSPITALAR DOS CAPUCHOS E DESTERRO, PELA PORT 10/95 DE 06-JAN DR.IS-B [5]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE CURRY CABRAL, PELA PORT 717/95 DE 05-JUL DR.IS-B [153]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-05'
+- type: amended_by
+  target: pt:dre:2170724:por
+  label: "Alterado o quadro de pessoal pela PORT.110/96IIS.1996.07.17.PCM, DR.IIS [183] de 1996.08.08\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-1996-2170724
+  date: '1996-07-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE D. ESTEFÂNIA PELA PORT 296/96 DE 26-JUL DR.IS-B [172]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-26'
+- type: amended_by
+  target: pt:dre:408356:por
+  label: "Alterado o quadro de pessoal do Hospital de D. Estefânia, aprovado pelo presente diploma, pela PORT.296/96.26.07.1996.PCM,\
+    \ DR.IS-B [172] de 26.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1996-408356
+  date: '1996-07-26'
+- type: amended_by
+  target: pt:dre:213431:por
+  label: "Alterado o quadro de pessoal do Hospital de D. Estefânia, pela PORT.521/96.30.09.1996.PCM, DR.IS-B [227] de 30.09.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-1996-213431
+  date: '1996-09-30'
+- type: amended_by
+  target: pt:dre:233103:por
+  label: "Alterado o quadro de pessoal do Hospital de São José, pela PORT.565/96.09.10.1996.PCM, DR.IS-B [234] de 09.10.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/565-1996-233103
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOSÉ CONSTANTE DO MAPA I ANEXO, PELA PORT 228/96IIS DE 04-OUT DA
+    PCM, MS E MF DR.IIS [255] DE 04/NOV/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-11-04'
+- type: amended_by
+  target: pt:dre:187767:por
+  label: "Alterado o quadro de pessoal pela PORT.716/96.1996.12.10.PCM, DR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1996-187767
+  date: '1996-12-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO HOSPITAL D. ESTEFÂNIA, PELA PORT 716/96 DE 10-DEZ DR.IS-B [285]\05]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-10'
+- type: amended_by
+  target: pt:dre:187310:por
+  label: "Alterado o quadro de pessoal do Hospital de São José pela PORT.728/96.1996.12.11.PCM DR.IS-B [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-1996-187310
+  date: '1996-12-11'
+- type: amended_by
+  target: pt:dre:145873:por
+  label: "Alterado o quadro de pessoal do Hospital de Santa Marta, pela Port.758/96.1996.12.26.PCM, DR.IS-B [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-1996-145873
+  date: '1996-12-26'
+- type: amended_by
+  target: pt:dre:156389:por
+  label: "Alterado o quadro de pessoal do Hospital de São José pela Port 438/97.1997.07.03.PCM, DR.IS-B [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-1997-156389
+  date: '1997-07-03'
+- type: amended_by
+  target: pt:dre:149432:por
+  label: "Alterado o quadro de pessoal do Hospital de Santa Marta, pela PORT.525/97.1997.07.23.PCM, DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-1997-149432
+  date: '1997-07-23'
+- type: amended_by
+  target: pt:dre:640364:por
+  label: "Alterado o quadro de pessoal do Hospital de Santa Marta, com as alterações das Port 727/94 de 12-Ago e 758/96 de\
+    \ 26-Dez, pela Port.800/97.1997.09.02.PCM, MF e MS DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/800-1997-640364
+  date: '1997-09-02'
+- type: amended_by
+  target: pt:dre:663967:por
+  label: "Alterado o quadro de pessoal do Hospital de São José pela Port.1041/97.1997.10.06.PCM, MF e MS DR.IS-B [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1041-1997-663967
+  date: '1997-10-06'
+- type: amended_by
+  target: pt:dre:694212:por
+  label: "Alterado o quadro de pessoal do Hospital de S. José pela PORT.1183/97.1997.11.20.PCM, MF E MS DR.IS-B [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1183-1997-694212
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:243774:por
+  label: "Alterado o quadro de pessoal do Hospital de D. Estefânia pela PORT.719/98.1998.09.09.PCM, DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/719-1998-243774
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:273664:por
+  label: "Alterado o quadro de pessoal do Hospital de D. Estefânia, na redacção das Port 328/94, de 28-Mai, 296/96, de 26-Jul,\
+    \ 521/96, de 30-Set, 716/96, de 10-Dez e 719/98, de 09-Set, pela PORT.125/2002.2002.02.09.MF, DR.IS-B [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2002-273664
+  date: '2002-02-09'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterados os quadros de pessoal do Subgrupo Hospitalar dos Capuchos e Desterro, Hospital de D. Estefânia, Hospital\
+    \ de Santa Marta e Hospital de São José aprovados pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B [244]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:1999292:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1828/2002(2ªSÉRIE).2002.11.25.MF, MS, DR.IIS [287] DE 12/DEZ/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1828-2002-1999292
+  date: '2002-11-25'
+- type: amended_by
+  target: pt:dre:3528294:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1832/2002(2ªSÉRIE).2002.11.26.MF, MS, DR.IIS [288] DE 13/DEZ/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1832-2002-3528294
+  date: '2002-11-26'
+- type: amended_by
+  target: pt:dre:671220:por
+  label: "Alterado o quadro de pessoal do Hospital de São José constante do anexo Ideste diploma, com a redacção dada pelas\
+    \ Port 71/94 de 02-Fev, 565/96 de 09-Out, 728/96 de 11-Dez, 438/97 de 03-Jul, 1041/97 de 06-Out 1183/97 de 20-Nov e 1374/2002\
+    \ de 22-Out, pela PORT.559/2003.2003.07.16.MF DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-2003-671220
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:552859:por
+  label: "Alterdo o quadro de pessoal do Hospital de Santa Marta, com as alterações das Port 727/94 de 12-Ago, 758/96 de 26-Dez,\
+    \ 525/97 de 23-Jul, 800/97 de 02-Set e 1374/2002 de 22-Out, pela PORT.248/2004.08.03.2004.MF, DR.IS-B [57] de 08.03.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-2004-552859
+  date: '2004-03-08'
+- type: amended_by
+  target: pt:dre:517597:por
+  label: "Alterado o quadro de pessoal do Hospital de D. Estefânia aprovado pelo presente diploma, alterado pelas Port 328/94\
+    \ de 28-Mai, 296/96 de 26-Jul, 521/96 de 30-Set, 716/96 de 10-Dez, 719/98 de 09-Set 125/2002 de 09-Fev e 1374/2002 de\
+    \ 22-Out, pela PORT.744/2004.30.06.2004.MF, DR.IS-B [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-2004-517597
+  date: '2004-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1080/1991/10/24/p/dre
   label: null
@@ -89,16 +248,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/458/1993/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/458/1993/04/30/p/dre
+- type: cites
+  target: pt:dre:171481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 56
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:56Z'
   warnings: []
   errors: []
 ---
@@ -131,29 +386,29 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Maio de 1993.**
+Assinada em 28 de Maio de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO I — Quadro de pessoal do Hospital de São José
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf))](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
 
 ## ANEXO II — Quadro de pessoal do Hospital de Curry Cabral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf))](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
 
 ## ANEXO III — Quadro de pessoal do Hospital de D. Estefânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf))](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
 
 ## ANEXO IV — Quadro de pessoal do Hospital de Santa Marta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf))](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
 
 ## ANEXO V — Quadro de pessoal do Subgrupo Hospitalar dos Capuchos e Desterro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf))](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/145b00/34283453.pdf)
 
 ## ANEXO VI
 
@@ -163,57 +418,57 @@ Hospital de São José
 
 Direcção de Serviços Farmacêuticos, com as seguintes divisões:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
-##### Divisão de Farmacotécnia e Nutrição Clínica;
+Divisão de Farmacotécnia e Nutrição Clínica;
 
 Direcção de Serviços de Instalações e Equipamento;
 
 Repartição de Pessoal, com:
 
-#### Secção de Vencimentos e Controlo de Assiduidade;
+Secção de Vencimentos e Controlo de Assiduidade;
 
-#### Secção de Aposentações e Cadastro;
+Secção de Aposentações e Cadastro;
 
 Repartição de Gestão de Recursos Humanos, com:
 
-#### Secção de Informação, Expediente e Arquivo;
+Secção de Informação, Expediente e Arquivo;
 
-#### Secção de Concursos, Nomeações e Formação;
+Secção de Concursos, Nomeações e Formação;
 
 Repartição dos Serviços Financeiros, com:
 
 #### Secção de Despesas;
 
-#### Secção de Receitas;
+Secção de Receitas;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Informação e Apoio à Gestão, com:
 
-#### Secção de Gestão, Informação e Relações Públicas;
+Secção de Gestão, Informação e Relações Públicas;
 
-#### Secção de Expediente Geral;
+Secção de Expediente Geral;
 
 Repartição de Admissão de Doentes, com:
 
-#### Secção do Serviço de Urgência;
+Secção do Serviço de Urgência;
 
-#### Secção de Consultas Externas;
+Secção de Consultas Externas;
 
-#### Secção de Internamento.
+Secção de Internamento.
 
 Hospital de Curry Cabral
 
 Direcção de Serviços Farmacêuticos, com:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
 Direcção de Serviços de Instalações e Equipamento;
 
@@ -221,99 +476,99 @@ Direcção de Serviços de Gestão Financeira;
 
 Repartição de Pessoal, com:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Vencimentos e Controlo da Assiduidade;
+Secção de Vencimentos e Controlo da Assiduidade;
 
 Repartição dos Serviços Financeiros, com:
 
 #### Secção de Receitas;
 
-#### Secção de Despesas;
+Secção de Despesas;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Informação e Admissão de Doentes, com:
 
-#### Secção de Informação e Expediente Geral;
+Secção de Informação e Expediente Geral;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Relações Públicas e Secretariado.
+Secção de Relações Públicas e Secretariado.
 
 Hospital de D. Estefânia
 
 Direcção de Serviços Farmacêuticos, com:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
-##### Divisão de Instalações e Equipamento;
+Divisão de Instalações e Equipamento;
 
 Repartição de Pessoal, com:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Vencimentos e Controlo de Assiduidade;
+Secção de Vencimentos e Controlo de Assiduidade;
 
 Repartição dos Serviços Financeiros, com:
 
 #### Secção de Receitas;
 
-#### Secção de Despesas;
+Secção de Despesas;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Informação e Admissão de Doentes, com:
 
-#### Secção de Informação e Expediente Geral;
+Secção de Informação e Expediente Geral;
 
-#### Secção de Admissão de Doentes.
+Secção de Admissão de Doentes.
 
 Hospital de Santa Marta
 
 Direcção de Serviços Farmacêuticos, com:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
-##### Divisão de Instalações e Equipamento;
+Divisão de Instalações e Equipamento;
 
 Repartição de Pessoal, com:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Vencimentos e Controlo de Assiduidade;
+Secção de Vencimentos e Controlo de Assiduidade;
 
 Repartição dos Serviços Financeiros, com:
 
 #### Secção de Receitas;
 
-#### Secção de Despesas;
+Secção de Despesas;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Informação e Admissão de Doentes, com:
 
-#### Secção de Informação e Expediente Geral;
+Secção de Informação e Expediente Geral;
 
-#### Secção de Admissão de Doentes.
+Secção de Admissão de Doentes.
 
 Subgrupo Hospitalar dos Capuchos e Desterro
 
 Direcção de Serviços Farmacêuticos, com:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
 Direcção de Serviços de Instalações e Equipamentos;
 
@@ -321,29 +576,29 @@ Direcção de Serviços de Gestão Financeira;
 
 Repartição de Pessoal, com:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Vencimentos e Controlo de Assiduidade;
+Secção de Vencimentos e Controlo de Assiduidade;
 
 Repartição dos Serviços Financeiros, com:
 
 #### Secção de Despesas;
 
-#### Secção de Receitas;
+Secção de Receitas;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Informação e Admissão de Doentes, com:
 
-#### Secção de Informação e Expediene Geral;
+Secção de Informação e Expediene Geral;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Relações Públicas e Secretariado.
+Secção de Relações Públicas e Secretariado.
 
 ## ANEXO VII — Carreiras de pessoal técnico-profissional de nível 4
 

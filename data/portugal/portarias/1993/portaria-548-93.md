@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/548/1993/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1993-283947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f177e132e995c9e20e51a4031604ed2dfacb38e859b28a2bbd18d3a2371c217f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b31ceb64d9651b540c94b25cd50953cda6f5cf87d3fbbe1fd0008a56f076c519
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516768:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:34Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +115,7 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, ao abrigo do d
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 6 de Abril de 1993.**
+Assinada em 6 de Abril de 1993.
 
 Pelo Ministro do Emprego e da Segurança Social, Jorge Hernâni de Almeida Seabra, Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social.
 
@@ -143,7 +151,9 @@ a) Secção de Pessoal, Expediente e Arquivo;
 
 b) Secção de Refeitórios e Supermercados.
 
-###### Artigo 5.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 5.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Compete à Secção de Pessoal, Expediente e Arquivo:
 
@@ -161,7 +171,9 @@ f) Executar as tarefas respeitantes ao registo, classificação e distribuição
 
 g) Organizar e manter actualizado o arquivo, de carácter geral, dos Serviços Sociais.
 
-###### Artigo 6.º — Secção de Refeitórios e Supermercados
+###### Artigo 6.º
+
+#### Secção de Refeitórios e Supermercados
 
 Compete à Secção de Refeitórios e Supermercados:
 
@@ -187,7 +199,9 @@ b) A Secção de Aprovisionamento e Património;
 
 c) A Tesouraria.
 
-###### Artigo 8.º — Secção de Contabilidade, Gestão Orçamental e Custos
+###### Artigo 8.º
+
+#### Secção de Contabilidade, Gestão Orçamental e Custos
 
 Compete à Secção de Contabilidade, Gestão Orçamental e Custos:
 
@@ -209,7 +223,9 @@ h) Elaborar a conta de gerência, de acordo com as disposições legais em vigor
 
 i) Assegurar o funcionamento de um sistema de contabilidade analítica que permita o controlo orçamental e a determinação dos custos por actividade.
 
-###### Artigo 9.º — Secção de Aprovisionamento e Património
+###### Artigo 9.º
+
+#### Secção de Aprovisionamento e Património
 
 Compete à Secção de Aprovisionamento e Património:
 
@@ -251,7 +267,9 @@ a) A Secção de Subsídios e Comparticipações;
 
 b) A Secção de Registo de Beneficiários e Complementações em Saúde.
 
-###### Artigo 12.º — Secção de Subsídios e Comparticipações
+###### Artigo 12.º
+
+#### Secção de Subsídios e Comparticipações
 
 Compete à Secção de Subsídios e Comparticipações:
 
@@ -261,7 +279,9 @@ b) Efectuar os processamentos e elaborar as respectivas listas de benefícios;
 
 c) Preparar e organizar, por forma desagregada, os dados relativos aos diversos subsídios processados, quer para fins estatísticos quer para apoio ao conselho de direcção.
 
-###### Artigo 13.º — Secção de Registo de Beneficiários e Complementações em Saúde
+###### Artigo 13.º
+
+#### Secção de Registo de Beneficiários e Complementações em Saúde
 
 Compete à Secção de Registo de Beneficiários e Complementações em Saúde:
 
@@ -275,7 +295,9 @@ d) Preparar e organizar, por forma desagregada, os dados relativos aos diversos 
 
 e) Promover a organização e actualização dos dados do respectivo ficheiro e arquivo de processos de beneficiários.
 
-###### Artigo 14.º — Divisão de Acção Social
+###### Artigo 14.º
+
+##### Divisão de Acção Social
 
 1 - Compete à Divisão de Acção Social:
 

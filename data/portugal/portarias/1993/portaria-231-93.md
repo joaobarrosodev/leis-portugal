@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b00/08480855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-1993-658218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbbc2e28c8d27f55202ecce90577ffaf62909527d22e644ab0551b6af9706681
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b826fa403e39d2a27991596a43a8a3fdd7f7d07b4d9d39911fbb5530542d42b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,10 @@ subjects:
 - Controlo Sanitário
 - Regulamento do Comércio Intracomunitário e das Importações de Países Terceiros de AVES de Capoeira e OVOS para Incubação
 relationships:
+- type: amended_by
+  target: pt:dre:376805:por
+  label: "ALTERADO O ANEXO III DO REGULAMENTO, PELA PORTARIA 640/93, PUBLICADA NO DR.IS-B, 155, DE 930705.\0705.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-1993-376805
 - type: amended_by
   target: pt:dre:521594:por
   label: Última alteração registada na importação inicial
@@ -93,16 +97,21 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:521594:por
+  label: "Revogada peo DEC LEI.141/98.1998.05.16.MADRP, DR.IS-A [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1998-521594
+  date: '1998-05-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:07Z'
   warnings: []
   errors: []
 ---
@@ -119,21 +128,21 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Dezembro de 1992.**
+Assinada em 16 de Dezembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 231/93
+Anexo a que se refere a Portaria n.º 231/93
 
 Regulamento do Comércio Intracomunitário e das Importações de Países Terceiros de Aves de Capoeira e Ovos para Incubação.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece as condições de polícia sanitária aplicáveis ao comércio intracomunitário e às importações de países terceiros de aves de capoeira e de ovos para incubação.
+Artigo 1.º - 1 - O presente Regulamento estabelece as condições de polícia sanitária aplicáveis ao comércio intracomunitário e às importações de países terceiros de aves de capoeira e de ovos para incubação.
 
 2 - O presente Regulamento não se aplica às aves de capoeira destinadas a exposições, concursos ou competições.
 
-###### Art. 2.º Para efeitos deste Regulamento, entende-se por:
+Art. 2.º Para efeitos deste Regulamento, entende-se por:
 
 a) Aves de capoeira - galinhas, perus, pintadas, patos, gansos, codornizes, pombos, faisões e perdizes criados ou mantidos em cativeiro com vista à sua reprodução, à produção de carne ou de ovos para consumo ou ao fornecimento de espécies cinegéticas para repovoamento;
 
@@ -185,9 +194,9 @@ u) Entidade competente - Direcção-Geral da Pecuária.
 
 #### SECÇÃO II — Normas para o comércio intracomunitário
 
-###### Art. 3.º Os laboratórios de referência de cada Estado membro responsáveis pela coordenação dos métodos de diagnóstico previstos no presente Regulamento e pela sua utilização pelos laboratórios aprovados nos respectivos territórios são os enumerados no anexo I a este Regulamento.
+Art. 3.º Os laboratórios de referência de cada Estado membro responsáveis pela coordenação dos métodos de diagnóstico previstos no presente Regulamento e pela sua utilização pelos laboratórios aprovados nos respectivos territórios são os enumerados no anexo I a este Regulamento.
 
-###### Art. 4.º Os ovos de incubação, os pintos do dia, as aves de reprodução e de produção devem provir:
+Art. 4.º Os ovos de incubação, os pintos do dia, as aves de reprodução e de produção devem provir:
 
 a) De estabelecimentos que satisfaçam as seguintes condições:
 
@@ -199,7 +208,7 @@ iii) Estejam situados fora de uma zona contaminada;
 
 b) De bandos que, na altura da expedição, não apresentem qualquer sintoma clínico, ou outro, de doença.
 
-###### Art. 5.º Aquando da expedição, os ovos para incubação devem satisfazer as seguintes exigências:
+Art. 5.º Aquando da expedição, os ovos para incubação devem satisfazer as seguintes exigências:
 
 a) Provir de bandos que:
 
@@ -213,7 +222,7 @@ b) Estejam marcados em conformidade com o Regulamento (CEE) n.º [1868/77](http:
 
 c) Tenham sido submetidos a desinfecção, de acordo com as instruções do veterinário oficial.
 
-###### Art. 6.º As aves do dia devem:
+Art. 6.º As aves do dia devem:
 
 a) Ser provenientes de ovos de incubação que satisfaçam as condições estabelecidas nos artigos 4.º e 5.º;
 
@@ -221,7 +230,7 @@ b) Satisfazer, se for caso disso, as condições de vacinação estabelecidas no
 
 c) Não apresentar, aquando da expedição, qualquer sintoma clínico, ou outro, de doença, nos termos definidos nos n.os 2.7 e 2.8 do ponto B) do capítulo II do anexo II a este Regulamento.
 
-###### Art. 7.º Aquando da expedição, as aves de capoeira de reprodução e de produção devem:
+Art. 7.º Aquando da expedição, as aves de capoeira de reprodução e de produção devem:
 
 a) Ter permanecido, a partir do nascimento ou por um período não inferior a seis semanas, num ou em vários estabelecimentos referidos na alínea a) do n.º 1 do artigo 4.º;
 
@@ -229,7 +238,7 @@ b) Satisfazer, se for caso disso, as condições de vacinação estabelecidas no
 
 c) Ter sido submetidas, nas vinte e quatro horas anteriores à expedição, a um exame sanitário, efectuado por um veterinário oficial ou por um veterinário acreditado, e, na altura do exame, não ter apresentado qualquer sintoma clínico, ou outro, de doença.
 
-###### Art. 8.º Aquando da expedição, as aves de abate devem provir de uma exploração:
+Art. 8.º Aquando da expedição, as aves de abate devem provir de uma exploração:
 
 a) Onde tenham permanecido desde o nascimento ou por um período superior a 21 dias;
 
@@ -239,7 +248,7 @@ c) Na qual, aquando do exame sanitário do banco de que fazem parte as aves de a
 
 d) Situada fora de qualquer zona declarada contaminada pela influenza aviária ou pela doença de Newcastle, a definir no âmbito das medidas de combate às doenças animais que venham a ser adoptadas em conformidade com a regulamentação comunitária.
 
-###### Art. 9.º - 1 - As exigências dos artigos 5.º a 8.º e 13.º não se aplicam ao comércio intracomunitário de aves de capoeira e de ovos de incubação quando se trate de pequenos lotes com menos de 20 unidades.
+Art. 9.º - 1 - As exigências dos artigos 5.º a 8.º e 13.º não se aplicam ao comércio intracomunitário de aves de capoeira e de ovos de incubação quando se trate de pequenos lotes com menos de 20 unidades.
 
 2 - As aves de capoeira e os ovos de incubação referidos no número anterior devem, aquando da sua expedição, provir de bandos:
 
@@ -255,7 +264,7 @@ e) Situados fora de qualquer zona declarada contaminada por influenza aviária o
 
 f) Que tenham reagido negativamente a um teste serológico para detecção de anticorpos de S. pullorum e gallinarum, em conformidade com o capítulo III do anexo II ao presente Regulamento.
 
-###### Art. 10.º - 1 - A expedição de aves de capoeira e de ovos para incubação a partir de Estados membros, ou partes de Estados membros, que pratiquem a vacinação das aves de capoeira contra a doença de Newcastle, para um Estado membro ou parte de Estado membro cujo estatuto tenha sido estabelecido em conformidade com o n.º 2 deste artigo deve obedecer às seguintes condições:
+Art. 10.º - 1 - A expedição de aves de capoeira e de ovos para incubação a partir de Estados membros, ou partes de Estados membros, que pratiquem a vacinação das aves de capoeira contra a doença de Newcastle, para um Estado membro ou parte de Estado membro cujo estatuto tenha sido estabelecido em conformidade com o n.º 2 deste artigo deve obedecer às seguintes condições:
 
 a) Os ovos de incubação devem provir de bandos não vacinados, ou vacinados com uma vacina inactivada, ou vacinados com uma vacina viva, desde que a vacinação tenha sido efectuada, pelo menos, 60 dias antes da recolha dos ovos de incubação;
 
@@ -295,7 +304,7 @@ c) Todas as aves de capoeira de reprodução serem submetidas, pelo menos uma ve
 
 d) As explorações não conterem qualquer ave de capoeira que tenha sido vacinada contra a doença de Newcastle.
 
-###### Art. 11.º - 1 - No caso de se estabelecer um programa de luta contra uma doença das aves de capoeira, poderá o mesmo ser apresentado à Comissão das Comunidades Europeias, indicando, nomeadamente:
+Art. 11.º - 1 - No caso de se estabelecer um programa de luta contra uma doença das aves de capoeira, poderá o mesmo ser apresentado à Comissão das Comunidades Europeias, indicando, nomeadamente:
 
 a) A situação da doença no território;
 
@@ -313,7 +322,7 @@ g) As medidas a tomar no caso de se verificarem resultados positivos aquando dos
 
 2 - Os programas são aprovados pela Comissão das Comunidades Europeias, em conformidade com o processo comunitariamente previsto, podendo, de acordo com o mesmo processo, ser impostas garantias complementares, gerais ou limitadas, no âmbito do comércio intracomunitário.
 
-###### Art. 12.º - 1 - Qualquer Estado membro que considere estar total ou parcialmente indemne de qualquer doença das aves de capoeira deve apresentar à Comissão das Comunidades Europeias as provas adequadas, indicando, nomeadamente:
+Art. 12.º - 1 - Qualquer Estado membro que considere estar total ou parcialmente indemne de qualquer doença das aves de capoeira deve apresentar à Comissão das Comunidades Europeias as provas adequadas, indicando, nomeadamente:
 
 a) A natureza da doença e o historial do seu aparecimento;
 
@@ -329,7 +338,7 @@ e) As normas que permitam verificar a ausência da doença.
 
 3 - O Estado membro em causa deverá comunicar à Comissão das Comunidades Europeias qualquer alteração das provas referidas no n.º 1.
 
-###### Art. 13.º - 1 - As aves do dia e os ovos de incubação devem ser transportados ou em embalagens não reutilizáveis, concebidas para o efeito, ou em embalagens reutilizáveis, desde que sejam desinfectadas antes de voltarem a ser utilizadas, devendo essas embalagens ser limpas e:
+Art. 13.º - 1 - As aves do dia e os ovos de incubação devem ser transportados ou em embalagens não reutilizáveis, concebidas para o efeito, ou em embalagens reutilizáveis, desde que sejam desinfectadas antes de voltarem a ser utilizadas, devendo essas embalagens ser limpas e:
 
 a) Conter apenas aves do dia ou ovos para incubação da mesma espécie, categoria e tipo de ave de capoeira e provenientes do mesmo estabelecimento;
 
@@ -375,9 +384,9 @@ c) Permitir a sua limpeza e desinfecção.
 
 7 - Os meios de transporte e, se forem reutilizáveis, os contentores, caixas e jaulas devem, antes do carregamento e após o descarregamento, ser limpos e desinfectados de acordo com as instruções da autoridade competente.
 
-###### Art. 14.º É proibido o transporte das aves de capoeira referidas nos n.os 4 e 5 do artigo anterior através de uma zona declarada contaminada por influenza aviária ou pela doença de Newcastle, excepto se efectuado nos grandes eixos rodoviários ou ferroviários.
+Art. 14.º É proibido o transporte das aves de capoeira referidas nos n.os 4 e 5 do artigo anterior através de uma zona declarada contaminada por influenza aviária ou pela doença de Newcastle, excepto se efectuado nos grandes eixos rodoviários ou ferroviários.
 
-###### Art. 15.º As aves de capoeira e os ovos de incubação destinados ao comércio intracomunitário devem, durante o seu transporte para o local de destino, ser acompanhados por um certificado sanitário, conforme o modelo previsto no anexo IV a este Regulamento, o qual deverá ser:
+Art. 15.º As aves de capoeira e os ovos de incubação destinados ao comércio intracomunitário devem, durante o seu transporte para o local de destino, ser acompanhados por um certificado sanitário, conforme o modelo previsto no anexo IV a este Regulamento, o qual deverá ser:
 
 a) Assinado por um veterinário oficial;
 
@@ -391,13 +400,13 @@ e) Previsto, em princípio, para um único destinatário;
 
 f) Com carimbo de cor diferente da do certificado.
 
-###### Art. 16.º Os Estados membros destinatários podem, dentro do respeito das disposições gerais do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), conceder a um ou mais Estados membros expedidores autorizações, gerais ou limitadas, de introdução no seu território de aves de capoeira e ovos de incubação dispensados do certificado previsto no artigo anterior.
+Art. 16.º Os Estados membros destinatários podem, dentro do respeito das disposições gerais do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), conceder a um ou mais Estados membros expedidores autorizações, gerais ou limitadas, de introdução no seu território de aves de capoeira e ovos de incubação dispensados do certificado previsto no artigo anterior.
 
-###### Art. 17.º Ao comércio intracomunitário de aves de capoeira e ovos de incubação aplicam-se as medidas de salvaguarda previstas na Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt), do Conselho, de 11 de Dezembro.
+Art. 17.º Ao comércio intracomunitário de aves de capoeira e ovos de incubação aplicam-se as medidas de salvaguarda previstas na Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt), do Conselho, de 11 de Dezembro.
 
 #### SECÇÃO III — Normas para as importações provenientes de países terceiros
 
-###### Art. 18.º - 1 - As aves de capoeira e os ovos de incubação devem provir de países terceiros ou de partes de países terceiros que constem de uma lista estabelecida pela Comissão das Comunidades Europeias, em conformidade com a regulamentação comunitária.
+Art. 18.º - 1 - As aves de capoeira e os ovos de incubação devem provir de países terceiros ou de partes de países terceiros que constem de uma lista estabelecida pela Comissão das Comunidades Europeias, em conformidade com a regulamentação comunitária.
 
 2 - Para decidir se um país terceiro ou uma parte de país terceiro pode constar da lista referida no número anterior ter-se-á em conta, nomeadamente:
 
@@ -417,19 +426,19 @@ g) O respeito das normas comunitárias em matérias de hormonas e de resíduos.
 
 3 - A lista referida no n.º 1 é publicada no Jornal Oficial das Comunidades Europeias.
 
-###### Art. 19.º - 1 - As aves de capoeira e os ovos de incubação devem provir de países terceiros indemnes de influenza aviária e da doença de Newcastle.
+Art. 19.º - 1 - As aves de capoeira e os ovos de incubação devem provir de países terceiros indemnes de influenza aviária e da doença de Newcastle.
 
 2 - Os critérios gerais a considerar para a qualificação dos países terceiros relativamente a essas doenças serão definidos de acordo com o procedimento comunitariamente previsto.
 
 3 - A Comissão das Comunidades Europeias, de acordo com o procedimento comunitariamente previsto, pode decidir que o n.º 1 se aplique apenas a uma parte do território de um país terceiro.
 
-###### Art. 20.º Apenas será autorizada a importação de aves de capoeira e ovos para incubação do território de um país terceiro ou de parte do território de um país terceiro incluído na lista a que se refere o n.º 1 do artigo anterior se essas aves de capoeira e ovos para incubação provierem de bandos que:
+Art. 20.º Apenas será autorizada a importação de aves de capoeira e ovos para incubação do território de um país terceiro ou de parte do território de um país terceiro incluído na lista a que se refere o n.º 1 do artigo anterior se essas aves de capoeira e ovos para incubação provierem de bandos que:
 
 a) Antes da sua expedição, tenham permanecido, ininterruptamente, no território ou na parte do território em questão desse país durante um período a definir de acordo com o procedimento comunitariamente previsto;
 
 b) Satisfaçam as condições de polícia sanitária adoptadas em conformidade com o processo comunitariamente previsto para a importação de aves de capoeira e ovos para incubação desse país, podendo essas condições variar em função das espécies e categorias de aves de capoeira.
 
-###### Art. 21.º - 1 - As aves de capoeira e os ovos de incubação devem ser acompanhados por um certificado passado e assinado por um veterinário oficial do país terceiro de exportação.
+Art. 21.º - 1 - As aves de capoeira e os ovos de incubação devem ser acompanhados por um certificado passado e assinado por um veterinário oficial do país terceiro de exportação.
 
 2 - O certificado deve:
 
@@ -449,7 +458,7 @@ g) Ser previsto para um único destinatário;
 
 h) Ostentar um carimbo de cor diferente da do certificado.
 
-###### Art. 22.º - 1 - Serão efectuados controlos por peritos veterinários dos Estados membros e da Comissão das Comunidades Europeias a fim de verificar se todas as disposições do presente diploma são efectivamente aplicadas.
+Art. 22.º - 1 - Serão efectuados controlos por peritos veterinários dos Estados membros e da Comissão das Comunidades Europeias a fim de verificar se todas as disposições do presente diploma são efectivamente aplicadas.
 
 2 - Os peritos dos Estados membros encarregados destes controlos serão designados pela Comissão das Comunidades Europeias, sob proposta dos Estados membros.
 
@@ -457,11 +466,11 @@ h) Ostentar um carimbo de cor diferente da do certificado.
 
 4 - A periodicidade e as regras desses controlos serão determinadas em conformidade com a regulamentação comunitária.
 
-###### Art. 23.º - 1 - A Comissão das Comunidades Europeias, de acordo com o processo comunitariamente previsto, pode decidir limitar as importações provenientes de um país terceiro, ou de uma parte de um país terceiro, a determinadas espécies, aos ovos para incubação e às aves de capoeira destinadas a utilizações específicas.
+Art. 23.º - 1 - A Comissão das Comunidades Europeias, de acordo com o processo comunitariamente previsto, pode decidir limitar as importações provenientes de um país terceiro, ou de uma parte de um país terceiro, a determinadas espécies, aos ovos para incubação e às aves de capoeira destinadas a utilizações específicas.
 
 2 - De acordo com o procedimento comunitariamente previsto, a Comissão das Comunidades Europeias pode decidir aplicar, após a importação, qualquer medida de polícia sanitária que se revele necessária.
 
-###### Art. 24.º - 1 - As regras e princípios gerais aplicáveis às inspecções nos países terceiros ou às inspecções das aves de capoeira importadas de países terceiros serão determinados de acordo com o n.º 1, segundo parágrafo, do artigo 19.º da Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt).
+Art. 24.º - 1 - As regras e princípios gerais aplicáveis às inspecções nos países terceiros ou às inspecções das aves de capoeira importadas de países terceiros serão determinados de acordo com o n.º 1, segundo parágrafo, do artigo 19.º da Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt).
 
 2 - Até à entrada em vigor das regras e princípios referidos no número anterior, continuarão a ser aplicáveis as normas nacionais, sob reserva do respeito das disposições gerais do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado).
 
@@ -479,11 +488,11 @@ e) O exame demonstre que não foram respeitadas as regras comunitárias em maté
 
 4 - A autoridade competente do Estado membro de destino pode designar o matadouro responsável pelo abate das aves de capoeira que devam ser abatidas por razões de saúde animal ou daquelas cuja entrada tenha sido recusada nos termos do n.º 1, cuja reexpedição não tenha sido autorizada.
 
-###### Art. 25.º - 1 - Após a sua chegada ao Estado membro de destino, as aves de capoeira de abate devem ser directamente conduzidas a um matadouro para aí serem abatidas o mais rapidamente possível.
+Art. 25.º - 1 - Após a sua chegada ao Estado membro de destino, as aves de capoeira de abate devem ser directamente conduzidas a um matadouro para aí serem abatidas o mais rapidamente possível.
 
 2 - Sem prejuízo de condições específicas estabelecidas de acordo com o procedimento comunitariamente previsto, a autoridade competente do Estado membro de destino pode, em função de exigências de polícia sanitária, designar o matadouro para onde as aves de capoeira devem ser transportadas.
 
-###### Art. 26.º - 1 - Sem prejuízo do disposto no artigo 19.º, os Estados membros podem proibir a importação, directa ou indirecta, de aves de capoeira provenientes de país terceiro, ou de uma parte do território deste, no qual surja ou se propague uma doença contagiosa susceptível de comprometer o estado sanitário das aves, ou se qualquer outro motivo de polícia sanitária o justificar.
+Art. 26.º - 1 - Sem prejuízo do disposto no artigo 19.º, os Estados membros podem proibir a importação, directa ou indirecta, de aves de capoeira provenientes de país terceiro, ou de uma parte do território deste, no qual surja ou se propague uma doença contagiosa susceptível de comprometer o estado sanitário das aves, ou se qualquer outro motivo de polícia sanitária o justificar.
 
 2 - As medidas tomadas pelos Estados membros, bem como a sua revogação, devem ser, de imediato, comunicadas aos outros Estados membros e à Comissão das Comunidades Europeias com indicação dos respectivos motivos.
 
@@ -491,7 +500,7 @@ e) O exame demonstre que não foram respeitadas as regras comunitárias em maté
 
 4 - O reatamento das importações provenientes do país terceiro em causa será autorizado de acordo com o processo comunitariamente previsto.
 
-###### Art. 27.º Até à data de entrada em vigor das decisões aprovadas em execução dos artigos 18.º, 19.º e 20.º, às importações de aves de capoeira e de ovos para incubação provenientes de países terceiros aplicam-se as disposições equivalentes previstas na secção II para o comércio intracomunitário.
+Art. 27.º Até à data de entrada em vigor das decisões aprovadas em execução dos artigos 18.º, 19.º e 20.º, às importações de aves de capoeira e de ovos para incubação provenientes de países terceiros aplicam-se as disposições equivalentes previstas na secção II para o comércio intracomunitário.
 
 ## ANEXO I
 
@@ -745,4 +754,4 @@ b) Ser produzidas, controladas e distribuídas sob controlo oficial.
 
 ## ANEXO IV — Certificados sanitários a utilizar no comércio intracomunitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b00/08480855.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b00/08480855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b00/08480855.pdf)

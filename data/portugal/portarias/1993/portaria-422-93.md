@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/422/1993/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1993-692856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84d1bbcd1277e0142d5b27159a56dfc29fbd2afdf4ea8c3b2c12679bc2063d0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da4a1fbffca4ecdc4a4cd90e579b659ecd5024f43171daf23eb5b2808d2d35eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro Regional de Segurança Social
 - Criação de Serviços
-- Quadro de Pessoal
 - Guarda
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/72/1991/04/04/p/dre
@@ -83,16 +83,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/62/1992/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/62/1992/01/31/p/dre
+- type: cites
+  target: pt:dre:150935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622129:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:43Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +175,9 @@ i) Os serviços locais.
 
 2.º O artigo 12.º do Regulamento do Centro passa a ter a seguinte redacção:
 
-###### Artigo 12.º — Divisão de Apoio Técnico
+###### Artigo 12.º
+
+##### Divisão de Apoio Técnico
 
 Compete à Divisão de Apoio Técnico:
 
@@ -153,7 +191,9 @@ d) Realizar as acções necessárias ao recrutamento, integração, formação e
 
 3.º É aditado o artigo 12.º-A ao Regulamento do Centro, com a seguinte redacção:
 
-###### Artigo 12.º-A — Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
+###### Artigo 12.º-A
+
+##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
 
 Compete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:
 
@@ -201,10 +241,10 @@ l) Recolher e tratar os necessários dados estatísticos.
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 12 de Março de 1993.**
+Assinada em 12 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa anexo à Portaria n.º 422/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/093b00/19301931.pdf))](https://files.diariodarepublica.pt/1s/1993/04/093b00/19301931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/093b00/19301931.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/118b00/27902790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/534/1993/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-1993-281441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9a4e83404e9b7ce200872083bf196504e3e436055d2c4c1fe08e98ac1976548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 707fddadf83a0c119bee810ab21df9e60c58fcae1fd0ed52369050020f562eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Controlo Sanitário
-- Saúde Pública
 - Inspecção dos Alimentos
 - Pescado
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:439843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439843:por
+  label: "Revogada pelo DEC LEI.223/2008.18.11.2008.MADRP, DR.IS [224] de 18.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2008-439843
+  date: '2008-11-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:16Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +109,9 @@ Considerando que aquele Regulamento deverá manter-se em vigor na sua globalidad
 
 Manda o Governo pelos Ministros da Agricultura e do Mar, o seguinte:
 
-###### Artigo único. O artigo 20.º do Regulamento da Inspecção e Fiscalização Hígio-Sanitárias do Pescado, anexo à [Portaria n.º 559/76](https://diariodarepublica.pt/dr/detalhe/portaria/559-1976-408695), de 7 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 20.º do Regulamento da Inspecção e Fiscalização Hígio-Sanitárias do Pescado, anexo à [Portaria n.º 559/76](https://diariodarepublica.pt/dr/detalhe/portaria/559-1976-408695), de 7 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 20.º - 1 - Sempre que a evisceração for possível do ponto de vista técnico e comercial, deve ser efectuada o mais rapidamente possível após a captura ou o desembarque.
+Art. 20.º - 1 - Sempre que a evisceração for possível do ponto de vista técnico e comercial, deve ser efectuada o mais rapidamente possível após a captura ou o desembarque.
 
 2 - O descabeçamento total ou o desguelramento é operação complementar a efectuar, sempre que conveniente, em todos os peixes com peso unitário aproximado ou superior a 1 kg, sobretudo se estiverem conservados a temperatura superior a 5ºC.
 
@@ -112,6 +121,6 @@ Manda o Governo pelos Ministros da Agricultura e do Mar, o seguinte:
 
 Ministérios da Agricultura e do Mar.
 
-**Assinada em 4 de Maio de 1993.**
+Assinada em 4 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

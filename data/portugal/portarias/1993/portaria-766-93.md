@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/766/1993/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-1993-631634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afb7191a95da125db8544cf17494b087687114079a56e8b1052ac1892d21a68d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bb196d3b45d321806127352dd0b49718a3cd442554c6aa5b84e78d5c1bcd943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Alvito
 - Barrancos
+- Beja
+- CASA do POVO
 - Castro Verde
 - Centro Regional de Segurança Social
 - Cuba.alentejo
-- CASA do POVO
-- Beja
 - Transferência Patrimonial
 - Vidigueira
 relationships:
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/124/1991/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/124/1991/02/11/p/dre
+- type: cites
+  target: pt:dre:478039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:29Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +122,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 30 de Julho de 1993.**
+Assinada em 30 de Julho de 1993.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

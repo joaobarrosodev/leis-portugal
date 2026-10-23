@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/619/1993/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-1993-374408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c3fd1ab8044e8da32dfbe03e510352ba02ebe5a1ddc8c5cb76715e637bc6d28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 279240eada6b9be62533259613dc619da2f25dc982911eae17e413ddea3f52ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Departamento de Estudos e Planeamento
-- Ministério do Emprego e da Segurança Social
 - Descrição de Funções
+- Ministério do Emprego e da Segurança Social
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,39 @@ relationships:
   target: pt:dre:2156864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299453:por
+  label: "Alterado o quadro de pessoal pelo DN.522/94.19.07.1994.MF, DR.IS-B [165] de 19.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/522-1994-299453
+  date: '1994-07-19'
+- type: amended_by
+  target: pt:dre:1542872:por
+  label: "Alterado o quadro de pessoal pela PORT.251/96IIS.13.11.1996.PCM, DR.IIS [263] de 13.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-1996-1542872
+  date: '1996-11-13'
+- type: amended_by
+  target: pt:dre:2156864:por
+  label: "Alterado o quadro de pessoal pela PORT.699/98(2ªSÉRIE).1998.07.03.PCM, DR.IIS [171] de 27/Jul/1998\01998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/699-1998-2156864
+  date: '1998-07-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:265696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:29Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +126,11 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Março de 1993.**
+Assinada em 19 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/151b00/35983599.pdf))](https://files.diariodarepublica.pt/1s/1993/06/151b00/35983599.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/151b00/35983599.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira técnica auxiliar (nível 3)
 

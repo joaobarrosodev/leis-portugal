@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/860/1993/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1993-660304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de40a6e4fc6ca13b2c42eb2c446582c1886420da806db86b91ec481b6ac2947c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa02ccccc174adcc0552ad365131d8fc2d57935c34d7faf7d02d6dedb116ab49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Normas de Construção
+- Ordenamento do Território
 - Ovar
 - Política de Solos
-- Urbanismo
 - Regulamento
+- Urbanismo
 relationships:
+- type: amended_by
+  target: pt:dre:106542116:por
+  label: Tornada pública a aprovação de correção material incidindo sobre a Planta de Síntese e sobre a Sec. I do III Cap.
+    do Regulamento do Plano de Pormenor, pelo(a) Aviso n.º 2219/2017 - Diário da República n.º 44/2017, Série II de 2017-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2219-2017-106542116
+  date: '2017-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:140291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:48Z'
   warnings: []
   errors: []
 ---
@@ -108,19 +138,19 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 9 de Agosto de 1993.**
+Assinada em 9 de Agosto de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
 I - Disposições gerais
 
-###### Artigo 1.º O presente Plano de Pormenor será regulado pelas constantes disposições e pelas restantes peças escritas e desenhadas que, para todos os efeitos legais, se devem considerar como anexas ao presente Regulamento.
+Artigo 1.º O presente Plano de Pormenor será regulado pelas constantes disposições e pelas restantes peças escritas e desenhadas que, para todos os efeitos legais, se devem considerar como anexas ao presente Regulamento.
 
-###### Art. 2.º Todas as obras públicas ou particulares que se pretendam realizar na área serão apreciadas de acordo com o dispositivo no presente Regulamento e demais legislação aplicável.
+Art. 2.º Todas as obras públicas ou particulares que se pretendam realizar na área serão apreciadas de acordo com o dispositivo no presente Regulamento e demais legislação aplicável.
 
-###### Art. 3.º Estão sujeitos a licenciamento municipal, sem prejuízo das autorizações ou aprovações previstas em lei especial, os seguintes actos:
+Art. 3.º Estão sujeitos a licenciamento municipal, sem prejuízo das autorizações ou aprovações previstas em lei especial, os seguintes actos:
 
 a) Todas as obras de construção civil, de reconstrução, ampliação, alteração, reparação ou demolição de edificações;
 
@@ -140,29 +170,29 @@ h) A abertura de poços e furos de captação de águas subterrâneas;
 
 i) A abertura de novas vias de comunicação ou melhoramento das existentes na área de intervenção do Plano de Pormenor.
 
-###### Art. 4.º Qualquer construção, reconstrução ou derrube de árvores não aprovado pela Câmara Municipal está sujeito ao estipulado nos Decretos-Leis n.os [275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), [804/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335) e [90/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1977-140291).
+Art. 4.º Qualquer construção, reconstrução ou derrube de árvores não aprovado pela Câmara Municipal está sujeito ao estipulado nos Decretos-Leis n.os [275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), [804/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335) e [90/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1977-140291).
 
-###### Art. 5.º Este Regulamento entrará em vigor a partir da data da sua aprovação.
+Art. 5.º Este Regulamento entrará em vigor a partir da data da sua aprovação.
 
-###### Art. 6.º Qualquer situação não prevista neste Regulamento observará o disposto na demais legislação vigente.
+Art. 6.º Qualquer situação não prevista neste Regulamento observará o disposto na demais legislação vigente.
 
 II- Construção existente
 
-###### Artigo 1.º Estão incluídos neste capítulo as construções referidas no desenho 1, «Estado actual».
+Artigo 1.º Estão incluídos neste capítulo as construções referidas no desenho 1, «Estado actual».
 
-###### Art. 2.º Estas construções destinam-se essencialmente a habitação.
+Art. 2.º Estas construções destinam-se essencialmente a habitação.
 
 Poderá, porém, ser permitida a utilização não habitacional, desde que compatível com a vocação principal.
 
-###### Art. 3.º As construções existentes cuja implantação desrespeite a ocupação prevista no presente Plano Pormenor não poderão executar quaisquer obras que se não limitem à sua mera conservação ou limpeza.
+Art. 3.º As construções existentes cuja implantação desrespeite a ocupação prevista no presente Plano Pormenor não poderão executar quaisquer obras que se não limitem à sua mera conservação ou limpeza.
 
 III - Construção futura
 
-###### Artigo 1.º Estão incluídas neste capítulo as construções referidas nos desenhos 4 e seguintes, exceptuando-se as consideradas no capítulo II do presente Regulamento, «Construção existente».
+Artigo 1.º Estão incluídas neste capítulo as construções referidas nos desenhos 4 e seguintes, exceptuando-se as consideradas no capítulo II do presente Regulamento, «Construção existente».
 
-###### Art. 2.º As construções respeitantes a este capítulo só serão admitidas desde que respeitem a implantação, os alinhamentos e as cérceas definidas para as respectivas tipologias.
+Art. 2.º As construções respeitantes a este capítulo só serão admitidas desde que respeitem a implantação, os alinhamentos e as cérceas definidas para as respectivas tipologias.
 
-###### Art. 3.º A implantação das construções, incluindo anexos, não poderá exceder a superfície indicada no desenho da planta de síntese.
+Art. 3.º A implantação das construções, incluindo anexos, não poderá exceder a superfície indicada no desenho da planta de síntese.
 
 Tipologias
 
@@ -292,12 +322,12 @@ Quanto às regras de constituição dos espaços livres das edificações e incl
 
 Zonas públicas
 
-###### Artigo 1.º Estão incluídos neste capítulo os arruamentos, passeios, baias de estacionamento e zonas pedonais e os espaços ajardinados exteriores ao perímetro dos lotes.
+Artigo 1.º Estão incluídos neste capítulo os arruamentos, passeios, baias de estacionamento e zonas pedonais e os espaços ajardinados exteriores ao perímetro dos lotes.
 
-###### Art. 2.º As faixas de rodagem serão pavimentadas a semipenetração, os arruamentos condicionados e as baias de estacionamento em cubos de granito, os passeios e demais zonas pedonais a pedrinha de chão (vidraço).
+Art. 2.º As faixas de rodagem serão pavimentadas a semipenetração, os arruamentos condicionados e as baias de estacionamento em cubos de granito, os passeios e demais zonas pedonais a pedrinha de chão (vidraço).
 
-###### Art. 3.º Os espaços ajardinados serão devidamente tratados, designadamente no que respeita à sua cobertura vegetal - arbórea, arbustiva e relvamento.
+Art. 3.º Os espaços ajardinados serão devidamente tratados, designadamente no que respeita à sua cobertura vegetal - arbórea, arbustiva e relvamento.
 
-###### Art. 4.º Os perfis transversais e longitudinais dos diversos arruamentos são os que constam do respectivo desenho.
+Art. 4.º Os perfis transversais e longitudinais dos diversos arruamentos são os que constam do respectivo desenho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/216b00/49294931.pdf))](https://files.diariodarepublica.pt/1s/1993/09/216b00/49294931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49294931.pdf)

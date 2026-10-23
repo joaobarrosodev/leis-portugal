@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 12/1993, 1º Suplemento, Série I-B de 1993-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 140-(2) a 140-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62-a/1993/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-a-1993-449958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cc19becdf1dfd8c023e8a5f2d69e204cd43a3d89a2f03759565e5eb40256707
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d59a0619df55975c658c5f78da0d81853b69317624f7f35fc1972799cea00f11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,22 @@ relationships:
   target: celex:31984L0527
   label: null
   source: http://data.europa.eu/eli/dir/1984/527/oj
+- type: repealed_by
+  target: pt:dre:254667:por
+  label: "Revogada, com excepção do nº 1 do nº1 e das partes 1 a 3 do Anexo I pelo DEC LEI.41/2002.2002.02.28.MES, DR.IS-A[50]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2002-254667
+  date: '2002-02-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:30Z'
   warnings: []
   errors: []
 ---
@@ -180,9 +186,9 @@ O presente diploma entra em vigor 90 dias após a sua publicação no Diário da
 
 Ministério da Indústria e Energia.
 
-**Assinada em 15 de Janeiro de 1993.**
+Assinada em 15 de Janeiro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I
 
@@ -316,7 +322,7 @@ QUADRO I
 
 Coeficiente de forma C para fundos copados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 2.3.3 - A espessura nominal da parede da parte cilíndrica e do fundo copado não pode ser, em qualquer caso, inferior a:
 
@@ -456,7 +462,7 @@ Os valores determinados para a resistência à tracção e para o alongamento ap
 
 3.1.2.3.3 - A relação (n) entre o diâmetro do mandril e a espessura do provete não deve exceder os valores dados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 3.2 - Ensaio de rotura sob pressão hidráulica:
 
@@ -610,7 +616,7 @@ Um lote é constituído, no máximo, por 3000 garrafas do mesmo tipo, fabricadas
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 Em função do lote, as garrafas colhidas serão submetidas aos ensaios mecânicos previstos no n.º 3.1 e ao ensaio de rotura sob pressão hidráulica previsto no n.º 3.2, de acordo com a repartição indicada no quadro n.º 1.
 
@@ -620,7 +626,7 @@ Se uma das garrafas não satisfizer os ensaios mecânicos ou o ensaio de rotura,
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 Se uma ou várias destas garrafas não derem resultados satisfatórios, o lote deve ser rejeitado.
 
@@ -664,7 +670,7 @@ A letra maiúscula «P» (Portugal) e os dois últimos algarismos do ano de apro
 
 O número característico da aprovação CEE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 6.2 - Marca de verificação CEE. - O organismo de inspecção deve apor a marca de verificação CEE pela forma seguinte:
 
@@ -674,7 +680,7 @@ A letra maiúscula «P» (Portugal);
 
 A marca do organismo de inspecção aposta pelo agente verificador, completado, eventualmente, pela do próprio agente verificador;
 
-Um contorno hexagonal: [([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf);
+Um contorno hexagonal: [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf);
 
 A data de verificação: ano e mês.
 
@@ -730,7 +736,7 @@ Feito em ...
 
 ... (assinatura).
 
-## Anexo técnico ao certificado de aprovação CEE
+Anexo técnico ao certificado de aprovação CEE
 
 1 - Conclusões do exame CEE de modelo com vista à aprovação CEE.
 
@@ -786,11 +792,11 @@ Provas de verificação
 
 1 - Medições efectuadas nas garrafas colhidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 2 - Ensaios mecânicos efectuados nas garrafas colhidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
 
 Declaração
 
@@ -806,4 +812,4 @@ Feito e certificado em ..., a ...
 
 Em nome de: ... (organismo de inspecção).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00020011.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1290/1993/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1290-1993-540987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65c898909e8eed7f007008a13e0fb9b75b0e1a261576658f7c4ac86a4f1416f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c0a7a613f5c27db00f8602bf368af12771cfb71e946047de3063f09a2d9081d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Lisboa
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 - Universidade Técnica de Lisboa
 relationships:
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:48Z'
   warnings: []
   errors: []
 ---
@@ -115,67 +123,67 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 22 de Novembro de 1993.**
+Assinada em 22 de Novembro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor do Pólo Universitário da Universidade Técnica de Lisboa
 
 ### CAPÍTULO I — Âmbito
 
-###### Artigo 1.º O Regulamento do Plano de Pormenor do Pólo Universitário da Universidade Técnica de Lisboa, no Alto da Ajuda, aplica-se à área assinalada com A e B na planta junta - planta de implantação - síntese -, que foi disponibilizada pela Câmara Municipal de Lisboa para a instalação de edifícios da Universidade Técnica de Lisboa, e ainda aos terrenos anexos C, D, E e F, assinalados na mesma planta.
+Artigo 1.º O Regulamento do Plano de Pormenor do Pólo Universitário da Universidade Técnica de Lisboa, no Alto da Ajuda, aplica-se à área assinalada com A e B na planta junta - planta de implantação - síntese -, que foi disponibilizada pela Câmara Municipal de Lisboa para a instalação de edifícios da Universidade Técnica de Lisboa, e ainda aos terrenos anexos C, D, E e F, assinalados na mesma planta.
 
-###### Art. 2.º O presente Plano de Pormenor é composto por um relatório contendo a descrição e justificação das soluções adoptadas, programa de execução, programa de financiamento e Regulamento, bem como pelas seguintes peças desenhadas: planta de enquadramento, planta de condicionantes e planta de implantação - síntese e as seguintes plantas parcelares da solução de implantação: gestão, parcelamento, usos do solo, modelação e respectivos cortes, volumes, demolições e rede viária.
+Art. 2.º O presente Plano de Pormenor é composto por um relatório contendo a descrição e justificação das soluções adoptadas, programa de execução, programa de financiamento e Regulamento, bem como pelas seguintes peças desenhadas: planta de enquadramento, planta de condicionantes e planta de implantação - síntese e as seguintes plantas parcelares da solução de implantação: gestão, parcelamento, usos do solo, modelação e respectivos cortes, volumes, demolições e rede viária.
 
 Elementos anexos: extracto do Plano Geral de Urbanização da Cidade de Lisboa, plantas e perfis longitudinais das infra-estruturas e perfis transversais dos arruamentos; planta de estacionamentos; esquema de circulação; esquema de drenagem.
 
-###### Art. 3.º Do Regulamento fazem parte integrante as presentes disposições, bem como o quadro regulamentar anexo, que estabelece os índices e parâmetros urbanísticos regulamentares, e ainda as observações ao referido quadro, que detalham as condições particulares de aplicação do presente Regulamento e do quadro regulamentar a cada parcela, bem como as restantes peças escritas e desenhadas do Plano que esclarecem e explicitam os seus princípios e objectivos.
+Art. 3.º Do Regulamento fazem parte integrante as presentes disposições, bem como o quadro regulamentar anexo, que estabelece os índices e parâmetros urbanísticos regulamentares, e ainda as observações ao referido quadro, que detalham as condições particulares de aplicação do presente Regulamento e do quadro regulamentar a cada parcela, bem como as restantes peças escritas e desenhadas do Plano que esclarecem e explicitam os seus princípios e objectivos.
 
 ### CAPÍTULO II — Vinculação
 
-###### Artigo 1.º As soluções de composição apresentadas nas áreas exteriores aos terrenos assinalados com A e B na planta de implantação - síntese correspondem a sugestões não vinculativas, que deverão ser objecto de novo estudo integrado em plano de área adjacente ou aprofundados a nível de projecto.
+Artigo 1.º As soluções de composição apresentadas nas áreas exteriores aos terrenos assinalados com A e B na planta de implantação - síntese correspondem a sugestões não vinculativas, que deverão ser objecto de novo estudo integrado em plano de área adjacente ou aprofundados a nível de projecto.
 
-###### Art. 2.º A construção dos edifícios, infra-estruturas e parque público deverão obedecer aos princípios enunciados neste Plano de Pormenor e procurar sempre soluções articuladas entre si e com os espaços contíguos, integrando-se, com harmonia, na paisagem.
+Art. 2.º A construção dos edifícios, infra-estruturas e parque público deverão obedecer aos princípios enunciados neste Plano de Pormenor e procurar sempre soluções articuladas entre si e com os espaços contíguos, integrando-se, com harmonia, na paisagem.
 
-###### Art. 3.º Os terrenos abrangidos pelo perímetro do Plano estão divididos em parcelas (v. planta de implantação - síntese e o elemento anexo planta de implantação - parcelamento) para efeito de aplicação deste Regulamento e algumas dessas parcelas poderão vir a ser loteadas, como se sugere na referida planta, nos termos deste Regulamento.
+Art. 3.º Os terrenos abrangidos pelo perímetro do Plano estão divididos em parcelas (v. planta de implantação - síntese e o elemento anexo planta de implantação - parcelamento) para efeito de aplicação deste Regulamento e algumas dessas parcelas poderão vir a ser loteadas, como se sugere na referida planta, nos termos deste Regulamento.
 
-###### Art. 4.º As parcelas designadas pela letra L na planta de implantação - parcelamento (L 1, L 2 e L 3) poderão ser loteadas conforme indicado na mesma planta, desde que fique assegurado que o parqueamento em cave é comum e servido por uma única entrada/saída da via pública para conjuntos mínimos de três lotes.
+Art. 4.º As parcelas designadas pela letra L na planta de implantação - parcelamento (L 1, L 2 e L 3) poderão ser loteadas conforme indicado na mesma planta, desde que fique assegurado que o parqueamento em cave é comum e servido por uma única entrada/saída da via pública para conjuntos mínimos de três lotes.
 
-###### Art. 5.º O tipo de utilização, as áreas máximas de implantação e de construção, o número máximo de pisos, as áreas de estacionamento em cave, as condicionantes arquitectónicas, os alinhamentos sobre as vias e as cotas de soleira são definidos na planta de implantação - síntese e no quadro regulamentar anexo, sem prejuízo de pequenos acertos decorrentes dos projectos de arquitectura e engenharia, de acordo com as observações anexas ao referido quadro, e que terão em conta, com maior rigor, as cotas do terreno e os imperativos de composição estética.
+Art. 5.º O tipo de utilização, as áreas máximas de implantação e de construção, o número máximo de pisos, as áreas de estacionamento em cave, as condicionantes arquitectónicas, os alinhamentos sobre as vias e as cotas de soleira são definidos na planta de implantação - síntese e no quadro regulamentar anexo, sem prejuízo de pequenos acertos decorrentes dos projectos de arquitectura e engenharia, de acordo com as observações anexas ao referido quadro, e que terão em conta, com maior rigor, as cotas do terreno e os imperativos de composição estética.
 
-###### Art. 6.º Os lotes envolventes da sequência de praças só poderão concretizar-se através do loteamento das parcelas L 2 e L 3 mediante estudo prévio arquitectónico do conjunto respectivo e na condição de ser previsto estacionamento público em cave, para além do estacionamento privado (v. planta de estacionamento), com estacionamento público não inferior a: L 2 = 6000 m2 e L 3 = 22500 m2.
+Art. 6.º Os lotes envolventes da sequência de praças só poderão concretizar-se através do loteamento das parcelas L 2 e L 3 mediante estudo prévio arquitectónico do conjunto respectivo e na condição de ser previsto estacionamento público em cave, para além do estacionamento privado (v. planta de estacionamento), com estacionamento público não inferior a: L 2 = 6000 m2 e L 3 = 22500 m2.
 
-###### Art. 7.º As construções deverão ser concebidas de forma a respeitarem todas os corredores de passagem que se justifiquem, devendo estes corredores ser integrados no domínio público municipal.
+Art. 7.º As construções deverão ser concebidas de forma a respeitarem todas os corredores de passagem que se justifiquem, devendo estes corredores ser integrados no domínio público municipal.
 
-###### Art. 8.º A altura das edificações deve respeitar os volumes apresentados na planta de implantação - síntese e também ilustrada na planta de implantação - volumes e as silhuetas apresentadas nos cortes que constam das peças desenhadas do Plano, bem como as disposições do quadro regulamentar anexo.
+Art. 8.º A altura das edificações deve respeitar os volumes apresentados na planta de implantação - síntese e também ilustrada na planta de implantação - volumes e as silhuetas apresentadas nos cortes que constam das peças desenhadas do Plano, bem como as disposições do quadro regulamentar anexo.
 
-###### Art. 9.º Entende-se que a altura máxima, em número de pisos, fixada no presente Regulamento se mede a partir da cota mais elevada do terreno modelado, na envolvente do edifício, sem prejuízo das caves e meias-caves, por motivos de desnível topográfico, de acordo com as soluções do Plano (v. planta de implantação - síntese e, como ilustrações, planta de implantação - modelação, cortes e perfis).
+Art. 9.º Entende-se que a altura máxima, em número de pisos, fixada no presente Regulamento se mede a partir da cota mais elevada do terreno modelado, na envolvente do edifício, sem prejuízo das caves e meias-caves, por motivos de desnível topográfico, de acordo com as soluções do Plano (v. planta de implantação - síntese e, como ilustrações, planta de implantação - modelação, cortes e perfis).
 
-###### Art. 10.º Os alinhamentos interiorizados que se indicam nas peças desenhadas para estabelecer pátios e praças poderão ser ajustados em função das características arquitectónicas dos espaços exteriores em conjunto com a ordem arquitectónica dos edifícios, a definir em estudo específico para cada um desses espaços.
+Art. 10.º Os alinhamentos interiorizados que se indicam nas peças desenhadas para estabelecer pátios e praças poderão ser ajustados em função das características arquitectónicas dos espaços exteriores em conjunto com a ordem arquitectónica dos edifícios, a definir em estudo específico para cada um desses espaços.
 
-###### Art. 11.º A altura máxima permitida acima da cota da rasante do arruamento que serve a fachada principal de cada edifício é de 16 m.
+Art. 11.º A altura máxima permitida acima da cota da rasante do arruamento que serve a fachada principal de cada edifício é de 16 m.
 
-###### Art. 12.º Os arruamentos e vias do Plano deverão subordinar-se aos traçados e às cotas assinalados nas peças desenhadas - planta de implantação - síntese - e ilustrados na planta de implantação - rede viária e perfis longitudinais, bem como quanto aos perfis transversais, e respeitar a hierarquia e funções previstas para cada uma. Poderão propor-se ajustamentos menores à modelação do terreno e à rasante das vias na fase de projecto.
+Art. 12.º Os arruamentos e vias do Plano deverão subordinar-se aos traçados e às cotas assinalados nas peças desenhadas - planta de implantação - síntese - e ilustrados na planta de implantação - rede viária e perfis longitudinais, bem como quanto aos perfis transversais, e respeitar a hierarquia e funções previstas para cada uma. Poderão propor-se ajustamentos menores à modelação do terreno e à rasante das vias na fase de projecto.
 
-###### Art. 13.º Estabelecem-se quatro usos do solo distintos, cuja localização é a definida na planta de implantação - síntese e ilustrada na planta de implantação - usos do solo.
+Art. 13.º Estabelecem-se quatro usos do solo distintos, cuja localização é a definida na planta de implantação - síntese e ilustrada na planta de implantação - usos do solo.
 
-###### Art. 14.º A planta de implantação - síntese define a localização de cada instalação da Universidade Técnica de Lisboa, admitindo-se, nos termos deste Regulamento, que, em caso de conveniência justificada, se permute a localização de escolas entre si, desde que daí não resulte qualquer violação das restantes disposições regulamentares.
+Art. 14.º A planta de implantação - síntese define a localização de cada instalação da Universidade Técnica de Lisboa, admitindo-se, nos termos deste Regulamento, que, em caso de conveniência justificada, se permute a localização de escolas entre si, desde que daí não resulte qualquer violação das restantes disposições regulamentares.
 
-###### Art. 15.º Os lotes n.os 32, 33 e 34 poderão, em conjunto, ser destinados a um estabelecimento hoteleiro.
+Art. 15.º Os lotes n.os 32, 33 e 34 poderão, em conjunto, ser destinados a um estabelecimento hoteleiro.
 
-###### Art. 16.º O dimensionamento regulamentar mínimo dos estacionamentos em cave é feito em número de lugares, sendo o seu total de 4767 lugares, sendo 3342 integrados nos lotes edificáveis e 1425 lugares localizados em silos subterrâneos de estacionamento público, nas parcelas L 2 e L 3. Na execução das infra-estruturas viárias serão assegurados 1535 lugares na via pública.
+Art. 16.º O dimensionamento regulamentar mínimo dos estacionamentos em cave é feito em número de lugares, sendo o seu total de 4767 lugares, sendo 3342 integrados nos lotes edificáveis e 1425 lugares localizados em silos subterrâneos de estacionamento público, nas parcelas L 2 e L 3. Na execução das infra-estruturas viárias serão assegurados 1535 lugares na via pública.
 
-## Anexo ao Regulamento - Quadro regulamentar
+Anexo ao Regulamento - Quadro regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf))](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
 
 Solução indicativa para lotes exteriores ao perímetro do Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf))](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
 
 Número máximo de fogos e escritórios ou lojas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf))](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
 
 Nota. - L 2 e L 3 correspondem a dois silos para estacionamento com, respectivamente, 300 e 1125 lugares.
 
@@ -203,4 +211,4 @@ Parcela Lv. - Destina-se a parque público e à implantação de espaços lúdic
 
 Parcelas 49 e 52. - Os edifícios a construir nestas parcelas deverão incluir corredores de passagem a nível do rés-do-chão, integrados no espaço público, que permitam as saídas de praças nesses locais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf))](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/297b00/71017105.pdf)

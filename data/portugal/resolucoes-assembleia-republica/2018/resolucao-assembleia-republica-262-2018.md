@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15400/0399604019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/262/2018/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/262-2018-115991690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60971ed4f1b258c058c9378f343a6a90d07e606c2d7e5fbd230d1c952f0695a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d387937858e27f0cb923f7a19d2451d1817a9846783fe013eb8b98f54f69f31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,74 +67,80 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Protecção do Investimento
-- ARMA de Destruição Maciça
-- Modernização Administrativa
-- CE Países
-- Turismo
-- Desenvolvimento Rural
-- Combate ao Terrorismo
-- Saneamento Básico
-- Juventude
-- Direitos do Homem
-- Igualdade de Tratamento
-- Convenção
-- Cooperação Comercial
-- Cooperação Consular
-- Política de Cooperação
-- Cooperação Técnica
-- Educação
-- Corrupção
-- Portugal
-- Combate ao Crime
-- Crime Organizado
-- Recursos Hídricos
-- Desenvolvimento Social
-- Luta contra a Discriminação
-- Controlo Sanitário
-- Combate à Droga
-- Tráfico Ilícito de Migrantes
-- Armamento
-- Saúde Pública
-- União Europeia
-- Catástrofe
-- Pesca
-- Branqueamento de Capitais
-- Cooperação Tecnológica
-- Investimento Estrangeiro
-- Discriminação Racial
-- Discriminação Sexual
-- Política de Transportes
+- Alteração Climática
 - Aquicultura
-- Cuba
-- Pauta Aduaneira
+- ARMA de Destruição Maciça
+- Armamento
+- Branqueamento de Capitais
+- Bruxelas
+- Catástrofe
+- CE Países
+- Combate à Droga
+- Combate ao Crime
+- Combate ao Terrorismo
+- Controlo Sanitário
+- Convenção
 - Cooperação Agrícola
 - Cooperação Científica
+- Cooperação Comercial
+- Cooperação Consular
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
 - Cooperação Judiciária
 - Cooperação Política
-- Energia
+- Cooperação Técnica
+- Cooperação Tecnológica
+- Corrupção
+- Crime Organizado
+- Cuba
+- Dados Pessoais
+- Desenvolvimento Rural
+- Desenvolvimento Social
+- Direitos do Homem
+- Discriminação Racial
+- Discriminação Sexual
+- Educação
 - Emprego
+- Energia
+- Igualdade de Tratamento
+- Investimento Estrangeiro
+- Juventude
+- Luta contra a Discriminação
+- Modernização Administrativa
+- Pauta Aduaneira
+- Pesca
+- Política de Cooperação
+- Política de Transportes
+- Portugal
 - Propriedade Intelectual
 - Proteção do Consumidor
+- Protecção do Investimento
 - Protecção e Assistência Consular
-- Alteração Climática
-- Dados Pessoais
+- Recursos Hídricos
+- Saneamento Básico
+- Saúde Pública
 - Tráfico de Pessoas
-- Bruxelas
-relationships: []
+- Tráfico Ilícito de Migrantes
+- Turismo
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:115991686:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 50/2018 - Diário da República n.º 154/2018, Série
+    I de 2018-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2018-115991686
+  date: '2018-08-10'
 article_structure:
   article_count: 89
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:07Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +153,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de junho de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE DIÁLOGO POLÍTICO E DE COOPERAÇÃO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DE CUBA, POR OUTRO
 
@@ -203,7 +209,7 @@ Assinalando que, caso as Partes decidam, no âmbito do presente Acordo, aderir a
 
 acordaram no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Princípios
 
@@ -237,7 +243,7 @@ f) Reforçar a cooperação regional nas Caraíbas e na América Latina com o in
 
 g) Promover o entendimento incentivando o contacto, o diálogo e a cooperação entre as sociedades de Cuba e dos países da UE, a todos os níveis.
 
-# PARTE II — Diálogo político
+## PARTE II — Diálogo político
 
 ###### Artigo 3.º — Objetivos
 
@@ -369,7 +375,7 @@ c) Colaborando com vista à emancipação das mulheres, à redução das desigua
 
 7 - As Partes reafirmam a necessidade de todos os países desenvolvidos consagrarem 0,7 % do seu produto nacional bruto à ajuda pública ao desenvolvimento e de as economias emergentes e os países de rendimento médio-elevado fixarem objetivos para aumentar a sua participação no financiamento público internacional.
 
-# PARTE III — Cooperação e diálogo político setorial
+## PARTE III — Cooperação e diálogo político setorial
 
 ## TÍTULO I — Disposições gerais
 
@@ -1025,7 +1031,7 @@ i) A organização e o funcionamento das empresas, nomeadamente das empresas pú
 
 4 - As Partes devem esforçar-se por trocar pontos de vista e cooperar com vista a acordarem e desenvolverem ações comuns nas instâncias multilaterais.
 
-# PARTE IV — Comércio e cooperação comercial
+## PARTE IV — Comércio e cooperação comercial
 
 ###### Artigo 60.º — Objetivos
 
@@ -1225,7 +1231,7 @@ As Partes reconhecem que as regras de origem desempenham um papel importante no 
 
 As Partes devem incentivar maiores fluxos de investimento através do conhecimento mútuo da legislação aplicável e do desenvolvimento de um ambiente atrativo e previsível para o investimento recíproco, através de um diálogo destinado a melhorar a compreensão e a cooperação nesta matéria e a promover um regime estável, transparente, aberto e não discriminatório para as empresas e o investimento.
 
-# PARTE V — Disposições institucionais e finais
+## PARTE V — Disposições institucionais e finais
 
 ###### Artigo 81.º — Conselho Conjunto
 
@@ -1329,4 +1335,6 @@ O presente Acordo é redigido em dois exemplares, nas línguas alemã, búlgara,
 
 Em fé do que, os plenipotenciários abaixo assinados apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/15400/0399604019.pdf))](https://files.diariodarepublica.pt/1s/2018/08/15400/0399604019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/15400/0399604019.pdf)
+
+132018

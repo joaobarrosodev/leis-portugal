@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1279/1993/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1279-1993-538005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 204f3c89d5007122a865bb55c3a1ee6e3486945cefd6992ecdfe0c518f001b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b2629166a2803b66fdf78bf87d60a467374e4e392bec0867fbe59c69a5aaf86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Turismo
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
+- Plano de Estudos
 - Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:433782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610249:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:433782:por
+  label: "Revogada a Port 65/89 de 30-Jan, alterada pelo presente diploma, findo o processo de transição fixado nos termos\
+    \ do art. 31.º do Regulamento aprovado pela Port 413-A/98 de 17-Jul, pela PORT.722/99.1999.08.24.ME DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/722-1999-433782
+  date: '1999-08-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:32Z'
   warnings: []
   errors: []
 ---
@@ -117,8 +135,8 @@ A alteração aprovada pela presente portaria entrará em funcionamento, no pres
 
 Ministério da Educação.
 
-**Assinada em 22 de Novembro de 1993.**
+Assinada em 22 de Novembro de 1993.
 
 Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147015.pdf))](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/292b00/70147015.pdf)

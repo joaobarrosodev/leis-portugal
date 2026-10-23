@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/213b00/48554867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/847/1993/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/847-1993-660968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3924dd87b5d220b608ebf2e3196d0a23eea8392799da4310a0ddda2156abc9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcada84ddd038bba1e395d07354920f255ec689f1d7bc75a408663b0fbb0b6f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Construção Civil
 - Barragem
+- Construção Civil
 - Regulamento
 - Segurança das Instalações
 relationships:
@@ -75,16 +75,26 @@ relationships:
   target: pt:dre:114937037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313845:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114937037:por
+  label: Revogado, a partir de 27.04.2018, o presente diploma, pelo(a) Decreto-Lei n.º 21/2018 - Diário da República n.º 62/2018,
+    Série I de 2018-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2018-114937037
+  date: '2018-03-28'
 article_structure:
   article_count: 48
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:28Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +115,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional, da Administração Interna,
 
 Ministérios da Defesa Nacional, da Administração Interna, da Agricultura, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Ambiente e Recursos Naturais.
 
-**Assinada em 9 de Junho de 1993.**
+Assinada em 9 de Junho de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 ## Anexo à Portaria n.º 847/93 — Normas de Observação e Inspecção de Barragens
 
@@ -783,4 +793,4 @@ b) Nas classes B e C - o valor de ((alfa)(índice g)), o valor de R e o valor de
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/213b00/48554867.pdf))](https://files.diariodarepublica.pt/1s/1993/09/213b00/48554867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/213b00/48554867.pdf)

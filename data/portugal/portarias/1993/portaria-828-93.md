@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/828/1993/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-1993-626991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1210ca6c41aadaa8a705f56e9af1c09cd0a95e8110c5dbf6498da11c703f3bcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d1bb34a90da40a8b04940f7fa418fe370d12e097ab0db8a3b473f1a9f74d38d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - CEE
 - Controlo Sanitário
 - Gado Suíno
-- Reprodução Animal
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
+- Pecuária
 - Política Agrícola Comum
 - Registo de Animais
-- Pecuária
+- Reprodução Animal
 relationships:
 - type: cites
   target: celex:31989D0507
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:59Z'
   warnings: []
   errors: []
 ---
@@ -157,6 +157,6 @@ c) A admissão, para efeitos de testagem oficial, de machos reprodutores de raç
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Julho de 1993.**
+Assinada em 23 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

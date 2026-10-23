@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/273/1993/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-1993-627997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ef61db310652ba2704a76dfd937a2d8b210e0b0963c45d6d87203b94f252edf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dc7ccd86bf82ab3a8d7f7e150c9ede670ac7ffd7c523e7eb890c7db3c08eeb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,45 @@ relationships:
   target: pt:dre:284100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194605:por
+  label: "Alterado o nº 1º da Port 722-A13/92 de 15-Jul, na redacção dada pelo presente diploma, pela PORT.746/97.1997.08.28.MADRP,\
+    \ DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1997-194605
+  date: '1997-08-28'
+- type: amended_by
+  target: pt:dre:284100:por
+  label: "Renovada, por um período de 12 anos, a concessão de zona de caça associativa concessionada pela Port 722-A13/92,\
+    \ de 15-Jul, alterada pela presente portaria, pela Port.1033-BT/2004.10.08.2004.MADRP, DR.IS-B [187-Supl] de 10.08.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-bt-2004-284100
+  date: '2004-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-a13/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-a13/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617360:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:08Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +135,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Fevereiro de 1993.**
+Assinada em 4 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/059b00/11411141.pdf))](https://files.diariodarepublica.pt/1s/1993/03/059b00/11411141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/059b00/11411141.pdf)

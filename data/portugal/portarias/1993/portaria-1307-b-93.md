@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1993, 3º Suplemento, Série I-B de 1993-12-27
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7176-(6) a 7176-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/300b03/00060008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1307-b/1993/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1307-b-1993-415444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4ca10353e88830f9ee2a1875bd03448e6eee7e3880232f6acfd211c9e5d19a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65efeb35f76c0f2565bf42958cf88e916b7ae31e83fe8fe6dbeb8f63a2a73884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contabilidade Pública
 - Direcção Geral do Tesouro
 - Operações de Caixa
 - Operações de Tesouraria
 - Plano de Contas
 - Regulamento
-- Contabilidade Pública
 - Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:17Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +128,9 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 30.º e do n.
 
 Ministério das Finanças.
 
-**Assinada em 23 de Dezembro de 1993.**
+Assinada em 23 de Dezembro de 1993.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga.**
+O Ministro das Finanças, Eduardo de Almeida Catroga.
 
 ## ANEXO — Regulamento das Entradas e Saídas de Fundos, da Contabilização e Controlo das operações de Tesouraria e do Funcionamento das Caixas
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/063b00/12121215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/297/1993/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-1993-634317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d9f546816b7480d665bd8e9e76993775ae9ca654391b85dc62b2b12f2fd0f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f95abf383024a67add11afa5f20eeb8b02af2015a5b27c7f637945119826907a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:548985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584229:por
+  label: "Revogada pela PORT.1165/2000.2000.12.09.MAI,DR.IS-B [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1165-2000-584229
+  date: '2000-12-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:40Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +164,7 @@ c) No prazo de 180 dias, conformar-se com todos os restantes requisitos impostos
 
 Ministérios da Administração Interna e da Indústria e Energia.
 
-**Assinada em 16 de Fevereiro de 1993.**
+Assinada em 16 de Fevereiro de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 

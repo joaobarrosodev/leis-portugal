@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 181/1993, 1º Suplemento, Série I-B de 1993-08-04
   number: '181'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4192-(2) a 4192-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/717/1993/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/717-1993-445531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 553ae4f3472487d448610583d8c5686143bcbf1127fd104a74aaabdc968b53a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c5b50564a8f74de9e70b85d62b7b433e9a15c15527f6784b5216d376ecf9b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ÁREA Metropolitana
 - Alienação de Solos
-- Construção Civil
+- ÁREA Metropolitana
+- Autarquia Local
 - Concurso Internacional
 - Concurso Público
-- Lisboa
+- Construção Civil
+- Habitação
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Lisboa
+- Porto
 - Programa
 - Regulamento
-- Habitação
 - Taxa
-- Autarquia Local
-- Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/150-a/1991/04/22/p/dre
@@ -122,16 +122,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/716/1993/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/716/1993/08/04/p/dre
+- type: cites
+  target: pt:dre:218893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:07Z'
   warnings: []
   errors: []
 ---
@@ -158,9 +238,9 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Julho de 1993.**
+Assinada em 30 de Julho de 1993.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 ## Anexo à Portaria n.º 717/93
 
@@ -190,7 +270,7 @@ O empreendimento a edificar nestes terrenos deverá ser concebido e executado po
 
 2.1 - O processo de concurso para prossecução do programa de habitações económicas (identificar o empreendimento) encontra-se patente no IGAPHE, onde pode ser examinado, durante as horas de expediente, desde a data da publicação do respectivo anúncio até ao dia e hora do acto público do concurso.
 
-2.2 - As peças que instruem o processo são as indicadas com [([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf))](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf) no anexo III deste programa.
+2.2 - As peças que instruem o processo são as indicadas com [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf) no anexo III deste programa.
 
 2.3 - Os interessados poderão obter cópias das peças escritas e desenhadas do processo do concurso nas condições indicadas no n.º 26 deste programa de concurso.
 
@@ -686,7 +766,7 @@ Assinatura(s) do(s) concorrente(s)/representante(s) legal(ais)/procurador(es): .
 
 ## ANEXO III — Elementos patenteados a concurso e a fornecer pelo IGAPHE (n.º 2.2 do programa de concurso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf))](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf)
 
 ## ANEXO IV — Estudo prévio a que se referem os n.os 16.1.11 e 16.2.5 do programa de concurso
 
@@ -1656,7 +1736,7 @@ Preço, quantias pagas, remanescente em dívida e garantias
 
 1 - O preço global de venda dos lotes de terreno referidos na cláusula 1.ª é de ... escudos (por extenso), correspondendo a cada lote o preço seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf))](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/181b01/00020017.pdf)
 
 2 - O promotor adjudicatário já pagou ao IGAPHE a quantia de ... escudos (por extenso) em .../.../..., aquando da celebração do contrato de promessa de que este é o prometido e pagou neste acto a quantia de ... escudos (por extenso), pagamento do qual o IGAPHE dá aqui a correspondente quitação.
 

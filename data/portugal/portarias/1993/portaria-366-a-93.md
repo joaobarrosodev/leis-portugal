@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/1993, 1º Suplemento, Série I-B de 1993-03-31
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1608-(2) a 1608-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/366-a/1993/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-a-1993-409475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102f06ea9949f990c4292a07d2e9c9623a22dce1a5e63fe23c924c472f227d08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1ab6134d3c823bd86295d7d64f5a3ee69ca601fd9d4d427234f45962ac9bbbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ponte de Vasco da GAMA
 - Concurso Público
 - Contrato de Concessão
-- RIO TEJO
 - Gabinete da Travessia do TEJO em Lisboa
 - Ponte
+- Ponte de Vasco da GAMA
+- RIO TEJO
 relationships:
 - type: cites
   target: celex:31971L0305
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:54:18Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +122,9 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Março de 1993.**
+Assinada em 30 de Março de 1993.
 
-**O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 Concurso internacional para a nova travessia rodoviária sobre o Tejo em Lisboa
 
@@ -338,7 +338,7 @@ c) Quanto à data de conclusão do empreendimento, deverá indicar-se explicitam
 
 d) Quanto ao nível de portagens, deverá ser indicada a média anual do valor actualizado das portagens a cobrar pelacConcessionária nas duas travessias desde a data de entrada em serviço da nova travessia até ao termo da concessão, calculado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 e) Quanto ao prazos de concessão, deverá indicar-se a data para a transferência da exploração da ponte actual para a concessionária e a data para o fim da concessão ou, no caso de ser proposto um prazo de concessão variável, o prazo máximo proposto e os factores dos quais se faz depender o termo da concessão;
 
@@ -1864,7 +1864,7 @@ c) A realização de todos os estudos necessários ao estabelecimento e explora�
 
 44.1 - As classes de veículos para efeitos da aplicação das taxas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 44.2 - A relação entre as taxas de portagem das classes 4 e 1 não poderá ser superior a 5.
 
@@ -2202,7 +2202,7 @@ QUADRO VII.1
 
 Caracterização da agitação marítima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 71 - Níveis de água. - Na faixa abrangida pela nova ponte, o nível médio das águas no estuário é de +2,25 m em Cabo Ruivo e +2,30 m em Alcochete.
 
@@ -2212,7 +2212,7 @@ QUADRO VII.2
 
 Cotas de preia-mar e de baixa-mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 A consideração dos efeitos de marés extremas e das sobreelevações do nível das águas devidas a caudais de cheia e a efeitos meteorológicos adversos conduzem, para efeitos construtivos e de navegação, à adopção do valor +5,50 m como nível máximo das águas na zona da nova ponte.
 
@@ -2240,7 +2240,7 @@ QUADRO VII.3
 
 Dimensionamento dos vãos e choque nos pilares ou em protecções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 As coordenadas aproximadas dos pontos de intersecção dos eixos dos canais navegáveis com eixo da travessia são as do quadro VII.4.
 
@@ -2248,7 +2248,7 @@ QUADRO VII.4
 
 Coordenadas dos canais navegáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 75 - Segurança da navegação. - Em termos de segurança de navegação, para além dos aspectos associados à ocorrência de nevoeiro, de que não se dispõe de tratamento estatístico, devem respeitar-se as seguintes condições:
 
@@ -2266,7 +2266,7 @@ QUADRO VII.5
 
 Assinalamento marítimo da travessia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 76.2 - Energia eléctrica - a alimentação eléctrica das ajudas mencionadas deve ser autónoma da instalação eléctrica da ponte e viaduto sul ou, se ligada àqueles, deve ter a possibilidade de comutação automática para um sistema autónomo, em caso de falha de energia.
 
@@ -2758,7 +2758,7 @@ c) Aprovisionamento e acondicionamento de materiais e elementos de construção.
 
 Assim, o n.º 24.1 do artigo 24.º do RSA é substituído pelos valores indicados na figura IX.1 para a pressão dinâmica do vento, Wk.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 111.4.2 - Os valores característicos da pressão dinâmica do vento são obtidos a partir dos valores característicos da velocidade de rajada do vento, definidos em função da altura acima do solo, h, pelas seguintes expressões:
 
@@ -2868,7 +2868,7 @@ A via com sobrecarga de 9 kN/m2 poderá situar-se, transversalmente, em qualquer
 
 2) Sobrecargas concentradas - sobrecargas constituídas por grupos de quatro cargas, Q', iguais, descarregando cada uma delas numa superfície de 0,40 m x 0,40 m e dispostas de acordo com o indicado no esquema da figura IX.2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 Os valores característicos das cargas Q' a considerar serão os seguintes:
 
@@ -2894,7 +2894,7 @@ A carga de cada eixo descarregará sobre qualquer via da faixa de rodagem atrav�
 
 Os valores indicados para esta sobrecarga são valores nominais, que deverão ser considerados como valores característicos nas verificações de segurança da estrutura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 2) Sobrecarga uniforme e sobrecargas concentradas - em conjunto com o comboio de cargas da alínea b), n.º 1), deverá considerar-se a actuação de sobrecargas uniformemente distribuídas e grupos de cargas concentradas.
 
@@ -2904,7 +2904,7 @@ Na via onde circular o comboio de cargas referido na alínea b), n.º 1), não s
 
 Os valores reduzidos relativos às sobrecargas definidas neste modelo n.º 2 devem ser considerados nulos ((Psi)(índice 0) = (Psi)(índice 1) = (Psi)(índice 2) = 0)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 113.4 - Sobrecargas para verificação da segurança em relação aos estados limites últimos de fadiga. - Na verificação da segurança em relação aos estados limites últimos que envolvem fadiga, será considerado o seguinte modelo de sobrecarga:
 
@@ -2912,7 +2912,7 @@ a) Sobrecarga representada por um veículo com quatro eixos iguais com a disposi
 
 Cada eixo transmite uma carga cujo valor característico é igual a 120 kN, através de duas superfícies de contacto com 0,40 m x 0,40 m;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 b) Número de repetições a considerar para a sobrecarga:
 
@@ -2962,7 +2962,7 @@ b) Movimentos devidos ao funcionamento de juntas e de aparelhos de apoio.
 
 114.4.3 - Assim, para efeitos de dimensionamento, dever-se-á considerar a seguinte regra de segurança e de combinação de acções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf))](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/076b01/00020036.pdf)
 
 114.4.4 - A verificação da segurança em relação ao estado limite de traficabilidade consistirá essencialmente em quantificar as descontinuidades que possam ocorrer no pavimento e analisar se introduzem condicionamentos ao tráfego. No caso de essas descontinuidades corresponderem à abertura de uma junta de dilatação, os valores limites de abertura das juntas serão os seguintes:
 

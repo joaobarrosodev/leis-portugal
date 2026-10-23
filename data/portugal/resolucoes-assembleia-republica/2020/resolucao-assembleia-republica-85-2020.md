@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22400/0002100031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/85/2020/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/85-2020-148747522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa853bbefc11856f8bed578bea9dd1020894f04caf0a8a020e6d71b8ef801252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa41954d0bf288feea48e25546ffee0efe9ff70fdb9733cd326aa8b6b4da66e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Gestão Financeira
 - Gestão Orçamental
 - Orçamento
-- Assembleia da República
 relationships:
 - type: cites
   target: eli:http://data.dr
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:50Z'
   warnings: []
   errors: []
 ---
@@ -140,9 +140,9 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 23 de outubro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22400/0002100031.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22400/0002100031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22400/0002100031.pdf)
 
 Notas explicativas
 
@@ -385,3 +385,5 @@ Despesa
 103 - Artigos 48.º e 50.º da [Lei n.º 53/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/583192/details/normal?l=1), de 8 de novembro.
 
 104 - Artigo 5.º e artigos 15.º a 22.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, na sua redação atual.
+
+113699461

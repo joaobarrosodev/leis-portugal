@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/180b00/41724173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/714/1993/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-1993-369024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7039b4bc2b4ecc234a76db3244a6a13335cce7a0b7bcdd74e02bbb37e1c628f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7dd143e07912c0405a79b4d72dcd7e70de2968408820d4f5cf8850dfda0563
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medidas Preventivas
-- Exame Médico
-- Trabalho de Menores
-- Posto de Trabalho
-- Contrato de Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
+- Exame Médico
+- Medidas Preventivas
+- Posto de Trabalho
+- Trabalho de Menores
 relationships:
 - type: amended_by
   target: pt:dre:362317:por
@@ -88,16 +88,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:371438:por
+  label: "Revogada pela LEI.58/99.1999.06.30.AR DR.IS-A [150], com excepção das matérias não reguladas pelo presente diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-1999-371438
+  date: '1999-06-30'
+- type: repealed_by
+  target: pt:dre:362317:por
+  label: "Revogada pelo DEC LEI.107/2001.2001.04.06.MTS DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2001-362317
+  date: '2001-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:02Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +177,6 @@ e) Comporte um período de mais de quatro horas seguidas sem ser interrompido po
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 5 de Julho de 1993.**
+Assinada em 5 de Julho de 1993.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

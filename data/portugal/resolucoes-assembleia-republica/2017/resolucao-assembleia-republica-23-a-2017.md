@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 33/2017, 1º Suplemento, Série I de 2017-02-15
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 802-(2) a 802-(1417)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23-a/2017/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-a-2017-106463003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f2a6da665cac780ffa1e22eb4743ecdfa74abb9ba1df12123eaa87ebb5f8f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0902848a72cf8144568f2086856d9040e297472093fcd8c93f7511d28238f169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA de Destruição Maciça
+- Associação
 - Combate ao Terrorismo
 - Convenção
 - Cooperação
-- União Europeia
-- Terrorismo
 - Honduras
 - Proteção do Ambiente
-- Associação
 - Tegucigalpa
+- Terrorismo
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:106463002:por
+  label: Ratificado o Acordo aprovado pela presente resolução, pelo(a) Decreto do Presidente da República n.º 13-A/2017 -
+    Diário da República n.º 33/2017, 1º Suplemento, Série I de 2017-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-a-2017-106463002
+  date: '2017-02-15'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -133,16 +139,200 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
+- type: cites
+  target: pt:dre:139464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692422:por
+  label: null
+  source: null
 article_structure:
-  article_count: 458
-  section_count: 179
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 436
+  section_count: 80
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:31Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +345,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de outubro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO QUE CRIA UMA ASSOCIAÇÃO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A AMÉRICA CENTRAL, POR OUTRO
 
@@ -207,9 +397,9 @@ Tendo em conta a Declaração de Madrid de maio de 2010;
 
 acordaram no seguinte:
 
-# PARTE I — Disposições institucionais e gerais
+## PARTE I — Disposições institucionais e gerais
 
-## TÍTULO I
+TÍTULO I
 
 Natureza e âmbito de aplicação do presente Acordo
 
@@ -245,7 +435,7 @@ h) Promover o aumento do comércio e do investimento entre as Partes, tendo em c
 
 As Partes devem tratar-se mutuamente como iguais. Nenhuma das disposições do presente Acordo deve ser interpretada de forma a comprometer a soberania de qualquer uma das Repúblicas da Parte AC.
 
-## TÍTULO II
+TÍTULO II
 
 Quadro institucional
 
@@ -341,7 +531,7 @@ c) Discutir quaisquer questões relacionadas com a cooperação que possam afeta
 
 2 - As Partes convocam regularmente reuniões com os referidos representantes, a fim de os informar sobre a aplicação do presente Acordo e de reunir as suas sugestões a este respeito.
 
-# PARTE II — Diálogo político
+## PARTE II — Diálogo político
 
 ###### Artigo 12.º — Objetivos
 
@@ -463,7 +653,7 @@ Com vista ao reforço e ao desenvolvimento das atividades económicas, tendo sim
 
 3 - Para o efeito, é criado um grupo de trabalho birregional. O mandato deste grupo consiste em analisar a criação deste mecanismo, bem como as modalidades do seu funcionamento.
 
-# PARTE III — Cooperação
+## PARTE III — Cooperação
 
 ###### Artigo 24.º — Objetivos
 
@@ -557,7 +747,7 @@ b) A cooperação no domínio das estatísticas em matéria de ciência, tecnolo
 
 3 - Essa cooperação pode contemplar, nomeadamente: intercâmbios técnicos entre os institutos de estatística das Repúblicas da Parte AC e dos Estados-Membros da União Europeia e o Eurostat, incluindo o intercâmbio de cientistas; a definição de métodos mais aperfeiçoados e, se necessário, compatíveis para a recolha, desagregação, análise e interpretação dos dados; a organização de seminários, grupos de trabalho ou programas de formação no domínio estatístico.
 
-## TÍTULO I
+TÍTULO I
 
 Democracia, direitos humanos e boa governação
 
@@ -619,7 +809,7 @@ i) O apoio à participação da sociedade civil.
 
 As Partes atribuem especial importância à consolidação do Estado de direito e ao reforço das instituições a todos os níveis da administração, em geral, e nos domínios da aplicação da lei e da administração da justiça, em particular. A cooperação neste domínio tem por objetivo, nomeadamente, o reforço da independência do poder judicial e a melhoria da sua eficácia.
 
-## TÍTULO II
+TÍTULO II
 
 Justiça, liberdade e segurança
 
@@ -707,7 +897,7 @@ f) Desenvolver a cooperação, a fim de facilitar a adoção de medidas destinad
 
 3 - As Partes acordam em cooperar com vista à prevenção e supressão de atos terroristas, através da cooperação policial e judiciária.
 
-## TÍTULO III
+TÍTULO III
 
 Desenvolvimento social e coesão social
 
@@ -837,7 +1027,7 @@ b) Sinergias entre os estabelecimentos de ensino superior e os setores público 
 
 2 - As Partes acordam em fomentar a participação ativa dos jovens na sociedade, inclusivamente na elaboração das políticas que tenham impacto nas suas vidas.
 
-## TÍTULO IV
+TÍTULO IV
 
 Migração
 
@@ -873,7 +1063,7 @@ b) Cada Estado-Membro da União Europeia readmite, mediante pedido e sem outras 
 
 4 - As Partes acordam em concluir, mediante pedido e o mais rapidamente possível, um acordo que regulamente as obrigações específicas dos Estados-Membros da União Europeia e dos países da Parte AC em matéria de readmissão. Tal acordo contempla igualmente a questão da readmissão de nacionais de países terceiros e de apátridas.
 
-## TÍTULO V
+TÍTULO V
 
 Ambiente, catástrofes naturais e alterações climáticas
 
@@ -919,7 +1109,7 @@ h) O reforço da gestão ambiental e dos sistemas de monitorização e controlo.
 
 3 - As Partes dedicam especial atenção à melhoria da redução dos riscos de catástrofe em todas as suas políticas, nomeadamente em matéria de gestão do território, reabilitação e reconstrução.
 
-## TÍTULO VI
+TÍTULO VI
 
 Desenvolvimento económico e comercial
 
@@ -1227,7 +1417,7 @@ b) Acesso ao microcrédito, facilitando, através de incentivos e programas de g
 
 c) Troca de experiências em matéria de políticas e de legislação alternativa que promovam a criação da banca popular e da banca ética.
 
-## TÍTULO VII
+TÍTULO VII
 
 Integração regional
 
@@ -1247,7 +1437,7 @@ Integração regional
 
 As Partes comprometem-se a utilizar todos os instrumentos de cooperação existentes para promover iniciativas destinadas a desenvolver uma cooperação ativa entre a Parte UE e as Repúblicas da Parte AC, sem prejuízo da cooperação entre elas e entre as Repúblicas da Parte AC e outros países e ou regiões da América Latina e das Caraíbas, em todos os domínios de cooperação abrangidos pelo presente Acordo. Pretende-se que as atividades de cooperação regional e bilateral sejam complementares.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Cooperação no domínio da cultura e do audiovisual
 
@@ -1267,7 +1457,7 @@ Cooperação no domínio da cultura e do audiovisual
 
 7 - Encontra-se anexado ao presente Acordo um Protocolo sobre Cooperação Cultural de relevância para este título.
 
-## TÍTULO IX
+TÍTULO IX
 
 Sociedade do conhecimento
 
@@ -1321,9 +1511,9 @@ j) Promoção da formação, da investigação, do desenvolvimento e de aplicaç
 
 5 - As Partes incentivam a participação dos respetivos organismos nos programas científicos e tecnológicos da outra Parte, a fim de alcançar uma excelência científica mutuamente vantajosa, em conformidade com as respetivas disposições em matéria de participação das pessoas coletivas de países terceiros.
 
-# PARTE IV — Comércio
+## PARTE IV — Comércio
 
-## TÍTULO I
+TÍTULO I
 
 Disposições iniciais
 
@@ -1385,7 +1575,7 @@ c) Uma taxa ou outro encargo instituídos nos termos da legislação interna de 
 
 - «Tratamento pautal preferencial», a taxa do direito aduaneiro aplicável por força do presente Acordo a uma mercadoria originária.
 
-## TÍTULO II
+TÍTULO II
 
 Comércio de mercadorias
 
@@ -2161,7 +2351,7 @@ g) Ocupar-se de qualquer outra questão para a qual tenha sido mandatado pelo Co
 
 3 - As Partes reconhecem que, a pedido de uma Parte e antes de adotarem quaisquer das medidas previstas no artigo xx, alíneas i) e j), do GATT de 1994, a Parte de exportação que pretende adotar medidas faculta à outra Parte todas as informações pertinentes. As Partes podem chegar a acordo sobre os meios necessários para pôr termo às condições que tornam imperiosas as medidas. Caso não seja alcançado um acordo no prazo de 30 dias, a Parte de exportação pode aplicar à exportação do produto em causa as medidas previstas no presente artigo. Sempre que circunstâncias excecionais e críticas, que exijam uma ação imediata, impossibilitem a comunicação de informações ou uma análise prévias, a Parte que tenciona adotar as medidas pode aplicar de imediato as medidas de precaução estritamente necessárias para fazer face à situação, informando imediatamente desse facto a outra Parte.
 
-## TÍTULO III
+TÍTULO III
 
 Estabelecimento, comércio de serviços e comércio eletrónico
 
@@ -2807,7 +2997,7 @@ f) Incompatíveis com os artigos 165.º e 171.º do presente título, desde que 
 
 2 - As disposições do presente título e dos correspondentes anexos sobre listas de compromissos não são aplicáveis aos regimes de segurança social das Partes nem às atividades desenvolvidas no território de cada uma das Partes relacionadas, ainda que ocasionalmente, com o exercício da autoridade pública.
 
-## TÍTULO IV
+TÍTULO IV
 
 Pagamentos correntes e movimentos de capitais
 
@@ -2835,7 +3025,7 @@ Quando, em circunstâncias excecionais, os movimentos de capitais entre as Parte
 
 2 - As Partes consultam-se mutuamente a fim de facilitar os movimentos de capitais entre elas e de promover os objetivos do presente Acordo.
 
-## TÍTULO V
+TÍTULO V
 
 Contratos públicos
 
@@ -3249,7 +3439,7 @@ deve apresentar as suas objeções por escrito no prazo de trinta dias a contar 
 
 As Partes acordam em que é do seu interesse comum promover iniciativas mútuas de cooperação e assistência técnica em questões relacionadas com os contratos públicos. Neste sentido, as Partes identificam uma série de atividades de cooperação, que se encontram estabelecidas na parte iii, título vi (Desenvolvimento económico e comercial), artigo 58.º, do presente Acordo.
 
-## TÍTULO VI
+TÍTULO VI
 
 Propriedade intelectual
 
@@ -3655,7 +3845,7 @@ As Partes acordam em que é do seu interesse comum promover iniciativas mútuas 
 
 2 - O Panamá adere ao Tratado de Cooperação em Matéria de Patentes (Washington, 1970, com a última redação que lhe foi dada em 2001) num prazo que não exceda dois anos, com início na data da entrada em vigor do presente Acordo.
 
-## TÍTULO VII
+TÍTULO VII
 
 Comércio e concorrência
 
@@ -3729,7 +3919,7 @@ As Partes acordam em que é do seu interesse comum promover iniciativas de assis
 
 As Partes abstêm-se de recorrer aos procedimentos de resolução de litígios previstos na parte iv, título x (Resolução de litígios), do presente Acordo para as questões que digam respeito ao disposto no presente título.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Comércio e desenvolvimento sustentável
 
@@ -3959,7 +4149,7 @@ O relatório final do painel inclui um exame dos argumentos incluídos nas obser
 
 As medidas em matéria de cooperação e assistência técnica relativas ao presente título são estabelecidas na parte iii, título vi (Desenvolvimento económico e comercial), do presente Acordo.
 
-## TÍTULO IX
+TÍTULO IX
 
 Integração económica regional
 
@@ -4035,7 +4225,7 @@ Para os produtos incluídos na lista 2 do anexo xix, a obrigação acima referid
 
 5 - Os compromissos assumidos em matéria de integração regional pela Parte AC ao abrigo do presente título não são objeto dos procedimentos de resolução de litígios definidos na parte iv, título x (Resolução de litígios), do presente Acordo.
 
-## TÍTULO X
+TÍTULO X
 
 Resolução de litígios
 
@@ -4257,7 +4447,7 @@ O procedimento é encerrado com a notificação da solução mutuamente satisfat
 
 2 - O Conselho de Associação pode alterar o regulamento interno e o código de conduta.
 
-## TÍTULO XI
+TÍTULO XI
 
 Mecanismo de mediação para medidas não pautais
 
@@ -4361,7 +4551,7 @@ Qualquer prazo referido no presente título pode ser alterado por acordo mútuo 
 
 3 - O Conselho de Associação estabelece todos os custos elegíveis, bem como a remuneração e os subsídios a pagar ao mediador.
 
-## TÍTULO XII
+TÍTULO XII
 
 Transparência e procedimentos administrativos
 
@@ -4427,7 +4617,7 @@ As disposições do presente título não prejudicam a aplicação de qualquer r
 
 6 - As Partes abstêm-se de recorrer aos procedimentos de resolução de litígios previstos na parte iv, título x (Resolução de litígios), do presente Acordo para as questões que digam respeito ao disposto no presente artigo.
 
-## TÍTULO XIII
+TÍTULO XIII
 
 Tarefas específicas em matéria comercial dos organismos instituídos ao abrigo do presente Acordo
 
@@ -4501,7 +4691,7 @@ c) Tomar, no exercício das suas funções, quaisquer outras medidas que as Part
 
 4 - Os subcomités são presididos alternadamente por um representante da Parte UE, por um lado, e por um representante de uma das Repúblicas da Parte AC, por outro, por um período de um ano.
 
-## TÍTULO XIV
+TÍTULO XIV
 
 Exceções
 
@@ -4539,7 +4729,7 @@ No âmbito dessas consultas deve analisar-se a conformidade das medidas restriti
 
 2 - Nenhuma disposição da parte iv do presente Acordo impede a manutenção, a alteração ou a criação de uniões aduaneiras, zonas de comércio livre ou outros acordos celebrados entre as Partes ou entre as Partes e países ou regiões terceiros.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 352.º — Definição das Partes
 
@@ -4681,7 +4871,7 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, búlgara, c
 
 Em fé do que, os abaixo assinados, devidamente autorizados, assinaram este Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO I — Eliminação dos direitos aduaneiros
 
@@ -4713,7 +4903,7 @@ g) Os direitos sobre as mercadorias visadas nas rubricas da categoria de escalon
 
 h) Os direitos sobre as mercadorias visadas nas rubricas da categoria de escalonamento E2 da lista de uma Parte são eliminados em dez etapas anuais. Na data de entrada em vigor do presente Acordo, os direitos são reduzidos em 2 % da taxa de base e em 1 de janeiro do ano dois em 2 % adicionais. A partir de 1 de janeiro do ano três, são reduzidos em 8 % adicionais da taxa de base; e, em seguida, em 8 % adicionais da taxa de base cada ano até ao ano seis. A partir de 1 de janeiro do ano sete, os direitos são reduzidos em 16 % adicionais da taxa de base, em seguida em 16 % adicionais cada ano até ao ano nove e essas mercadorias são isentas de direitos a partir de 1 de janeiro do ano dez. O processo de redução dos direitos para esta categoria é pormenorizado no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 i) Os direitos sobre as mercadorias visadas nas rubricas da categoria de escalonamento F da lista de uma Parte permanecem na sua taxa de base (55), sob reserva do disposto na alínea c) do artigo 84.º («Standstill») do capítulo 1 do título ii («Comércio de mercadorias») da parte iv do presente Acordo. Estas mercadorias são excluídas da eliminação ou redução dos direitos;
 
@@ -4765,7 +4955,7 @@ r) Os direitos sobre as mercadorias visadas nas rubricas da categoria de escalon
 
 8 - Os sucedâneos do queijo são produtos com a aparência física do queijo, que são razoavelmente considerados como sendo utilizados como queijo e que não satisfazem simultaneamente os três critérios enunciados na nota 3 do capítulo 4 do Sistema Harmonizado. De um modo geral, estes produtos satisfazem, pelo menos, um dos critérios mencionados.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Contingentes pautais de importação
 
@@ -4787,7 +4977,7 @@ c) As alíneas a) e b) aplicam-se às seguintes linhas pautais da lista das Rep�
 
 a) Cada República da Parte AC concede à Parte UE um contingente para as mercadorias entradas em conformidade com as alíneas b) e d). Especifica-se em seguida o volume para o ano um e o crescimento anual sucessivo com início no ano dois para cada República da Parte AC:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 b) Ao abrigo deste contingente, a quantidade agregada das mercadorias entradas sob as linhas pautais indicadas na alínea d) beneficia de isenção de direitos aduaneiros em qualquer ano civil e não deve exceder os montantes especificados no quadro da alínea a) para a Parte UE, para cada ano.
 
@@ -4807,7 +4997,7 @@ c) As alíneas a) e b) aplicam-se às seguintes linhas pautais da lista das Rep�
 
 a) Cada República da Parte AC concede à Parte UE um contingente para as mercadorias entradas em conformidade com as alíneas b) e d). Especifica-se em seguida o contingente para o ano um e o crescimento anual sucessivo com início no ano dois para cada República da Parte AC:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 b) Ao abrigo deste contingente, a quantidade agregada das mercadorias entradas sob as linhas pautais indicadas na alínea d) beneficia de isenção de direitos aduaneiros em qualquer ano civil e não deve exceder os montantes do contingente especificados no quadro da alínea a) para a Parte UE, para cada ano.
 
@@ -4823,7 +5013,7 @@ b) Os direitos aduaneiros sobre as mercadorias entradas em quantidades agregadas
 
 c) As alíneas a) e b) aplicam-se às seguintes linhas pautais da lista das Repúblicas da Parte AC: 1602.41.00, 1602.42.00 e 1602.49.90 do SAC de 2007.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Contingentes pautais de importação da Parte UE
 
@@ -4907,13 +5097,13 @@ c) Os direitos aduaneiros sobre as mercadorias entradas em quantidades agregadas
 
 d) As alíneas a), b) e c) aplicam-se às seguintes linhas pautais da lista da Parte UE: 2208 40 51 e 2208 40 99.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Tratamento especial em relação às bananas
 
 1 - Para os produtos agrícolas originários da América Central, abrangidos pelo código 0803 00 19 da Nomenclatura Combinada («Bananas frescas, excluindo os plátanos») e enumeradas na categoria «ST» na lista da Parte UE, aplicam-se os seguintes direitos aduaneiros preferenciais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 2 - Os direitos aduaneiros preferenciais indicados no quadro supra aplicam-se a partir da data de entrada em vigor do Acordo. Os direitos não são reduzidos retroativamente.
 
@@ -4933,127 +5123,137 @@ e) As medidas referidas nas alíneas b) ou c) apenas são aplicáveis durante o 
 
 Lista da Parte UE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lista das Repúblicas da Parte AC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lista do Panamá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO II — Relativo à definição do conceito de «produtos originários» e métodos de cooperação administrativa
 
 ÍNDICE
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º - Definições — TÍTULO II
+###### Artigo 1.º - Definições
+
+## TÍTULO II
 
 Definição do conceito de «produtos originários»
 
-###### Artigo 2.º - Requisitos gerais — Artigo 3.º - Acumulação de origem
+###### Artigo 2.º - Requisitos gerais
 
-###### Artigo 4.º - Produtos inteiramente obtidos
+###### Artigo 3.º - Acumulação de origem
 
-###### Artigo 5.º - Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
+Artigo 4.º - Produtos inteiramente obtidos
 
-###### Artigo 6.º - Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 5.º - Produtos objeto de operações de complemento de fabrico ou de transformação suficientes
 
-###### Artigo 7.º - Unidade de qualificação
+Artigo 6.º - Operações de complemento de fabrico ou de transformação insuficientes
 
-###### Artigo 8.º - Acessórios, peças sobressalentes e ferramentas
+Artigo 7.º - Unidade de qualificação
 
-###### Artigo 9.º - Sortidos — Artigo 10.º - Elementos neutros
+Artigo 8.º - Acessórios, peças sobressalentes e ferramentas
 
-## TÍTULO III
+###### Artigo 9.º - Sortidos
+
+###### Artigo 10.º - Elementos neutros
+
+TÍTULO III
 
 Requisitos territoriais
 
-###### Artigo 11.º - Princípio da territorialidade
+Artigo 11.º - Princípio da territorialidade
 
-###### Artigo 12.º - Transporte direto — Artigo 13.º - Exposições
+###### Artigo 12.º - Transporte direto
 
-## TÍTULO IV
+###### Artigo 13.º - Exposições
+
+TÍTULO IV
 
 Prova de origem
 
 ###### Artigo 14.º - Requisitos gerais — Artigo 15.º - Procedimento para a emissão de um certificado de circulação EUR.1
 
-###### Artigo 16.º - Certificados de circulação EUR.1 emitidos a posteriori
+Artigo 16.º - Certificados de circulação EUR.1 emitidos a posteriori
 
-###### Artigo 17.º - Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 17.º - Emissão de uma segunda via do certificado de circulação EUR.1
 
-###### Artigo 18.º - Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
+Artigo 18.º - Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida ou estabelecida anteriormente
 
-###### Artigo 19.º - Condições para efetuar uma declaração na fatura
+Artigo 19.º - Condições para efetuar uma declaração na fatura
 
-###### Artigo 20.º - Exportador autorizado
+Artigo 20.º - Exportador autorizado
 
-###### Artigo 21.º - Prazo de validade da prova de origem
+Artigo 21.º - Prazo de validade da prova de origem
 
-###### Artigo 22.º - Apresentação da prova de origem
+Artigo 22.º - Apresentação da prova de origem
 
-###### Artigo 23.º - Importação em remessas escalonadas
+Artigo 23.º - Importação em remessas escalonadas
 
-###### Artigo 24.º - Isenções da prova de origem
+Artigo 24.º - Isenções da prova de origem
 
-###### Artigo 25.º - Documentos comprovativos
+Artigo 25.º - Documentos comprovativos
 
-###### Artigo 26.º - Conservação da prova de origem e dos documentos comprovativos
+Artigo 26.º - Conservação da prova de origem e dos documentos comprovativos
 
-###### Artigo 27.º - Discrepâncias e erros formais
+Artigo 27.º - Discrepâncias e erros formais
 
-###### Artigo 28.º - Montantes expressos em euros
+Artigo 28.º - Montantes expressos em euros
 
-## TÍTULO V
+TÍTULO V
 
 Métodos de cooperação administrativa
 
-###### Artigo 29.º - Cooperação administrativa
+Artigo 29.º - Cooperação administrativa
 
-###### Artigo 30.º - Controlo da prova de origem
+Artigo 30.º - Controlo da prova de origem
 
-###### Artigo 31.º - Resolução de litígios
+Artigo 31.º - Resolução de litígios
 
-###### Artigo 32.º - Sanções — Artigo 33.º - Zonas francas
+###### Artigo 32.º - Sanções
 
-## TÍTULO VI
+###### Artigo 33.º - Zonas francas
+
+TÍTULO VI
 
 Ceuta e Melilha
 
-###### Artigo 34.º - Aplicação do presente anexo
+Artigo 34.º - Aplicação do presente anexo
 
-###### Artigo 35.º - Condições especiais
+Artigo 35.º - Condições especiais
 
-## TÍTULO VII
+TÍTULO VII
 
 Disposições finais
 
-###### Artigo 36.º - Alterações ao presente anexo
+Artigo 36.º - Alterações ao presente anexo
 
 ###### Artigo 37.º - Notas explicativas — Artigo 38.º - Disposições transitórias para os produtos em trânsito ou em depósito
 
-###### Artigo 39.º - Disposição transitória para efeitos de acumulação
+Artigo 39.º - Disposição transitória para efeitos de acumulação
 
 Lista dos apêndices
 
-## Apêndice 1: Notas introdutórias do anexo ii
+Apêndice 1: Notas introdutórias do anexo ii
 
-## Apêndice 2: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
+Apêndice 2: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
 
-## Apêndice 2A: Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
+Apêndice 2A: Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter de produto originário
 
-## Apêndice 3: Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
+Apêndice 3: Modelos do certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
-## Apêndice 4: Declaração na fatura
+Apêndice 4: Declaração na fatura
 
-## Apêndice 5: Período de tempo para a apresentação de uma declaração na fatura ou reembolso de direitos de acordo com o artigo 19.º, n.º 6, e o artigo 21.º, n.º 4, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
+Apêndice 5: Período de tempo para a apresentação de uma declaração na fatura ou reembolso de direitos de acordo com o artigo 19.º, n.º 6, e o artigo 21.º, n.º 4, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
 
-## Apêndice 6: Montantes referidos no artigo 19.º, n.º 1, alínea b), e no artigo 24.º, n.º 3, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
+Apêndice 6: Montantes referidos no artigo 19.º, n.º 1, alínea b), e no artigo 24.º, n.º 3, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa
 
 Declarações comuns
 
@@ -5071,7 +5271,7 @@ Declaração comum relativa à revisão das regras de origem aplicáveis aos pro
 
 Declaração comum relativa à utilização temporária de matérias não originárias adicionais para os produtos dos capítulos 61 e 62 do Sistema Harmonizado
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -5117,7 +5317,7 @@ k) «Valor das matérias», o valor aduaneiro no momento da importação das mat
 
 l) «Valor das matérias não originárias», o valor dessas matérias tal como definido, mutatis mutandis, na alínea k).
 
-## TÍTULO II
+TÍTULO II
 
 Definição do conceito de «produtos originários»
 
@@ -5317,7 +5517,7 @@ c) Máquinas e ferramentas;
 
 d) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III
+TÍTULO III
 
 Requisitos territoriais
 
@@ -5387,7 +5587,7 @@ d) A partir do momento em que foram expedidos para a exposição, os produtos n�
 
 3 - O n.º 1 aplica-se a todas as exposições, feiras ou manifestações públicas análogas de caráter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros, durante as quais os produtos permaneçam sob controlo aduaneiro.
 
-## TÍTULO IV
+TÍTULO IV
 
 Prova de origem
 
@@ -5431,7 +5631,7 @@ b) Forem apresentadas às autoridades públicas competentes provas suficientes d
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter a frase «emitido a posteriori» numa das seguintes línguas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 5 - As menções referidas no n.º 4 são inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -5441,7 +5641,7 @@ b) Forem apresentadas às autoridades públicas competentes provas suficientes d
 
 2 - A segunda via emitida desta forma deve conter a frase «segunda via» numa das seguintes línguas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 3 - As menções referidas no n.º 2 são inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -5547,7 +5747,7 @@ d) Certificados de circulação EUR.1 ou declarações na fatura comprovativos d
 
 5 - Os montantes expressos em euros são revistos pelo Comité de Associação a pedido de uma das Partes. Ao proceder a essa revisão, o Comité de Associação considera a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, o Comité de Associação pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO V
+TÍTULO V
 
 Métodos de cooperação administrativa
 
@@ -5587,7 +5787,7 @@ São aplicadas sanções a quem emita ou mande emitir um documento contendo info
 
 2 - Em derrogação do disposto no n.º 1, quando os produtos originários da União Europeia ou da América Central entram numa zona franca ao abrigo de uma prova de origem e são sujeitos a um tratamento ou a uma transformação, as autoridades públicas competentes emitem um novo certificado de circulação EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente anexo.
 
-## TÍTULO VI
+TÍTULO VI
 
 Ceuta e Melilha
 
@@ -5625,7 +5825,7 @@ Esses produtos tenham sido objeto de operações de complemento de fabrico ou de
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente anexo em Ceuta e Melilha.
 
-## TÍTULO VII
+TÍTULO VII
 
 Disposições finais
 
@@ -5645,7 +5845,7 @@ As disposições do presente Acordo podem aplicar-se aos produtos que satisfaça
 
 As Partes para as quais o presente Acordo entrou em vigor em conformidade com o artigo 353.º da parte v (Disposições finais) podem utilizar matérias originárias das Repúblicas da Parte AC para as quais o presente Acordo ainda não entrou em vigor. O artigo 3.º do presente anexo é aplicado mutatis mutandis.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Notas introdutórias do anexo ii
 
@@ -5873,15 +6073,15 @@ Nota 9:
 
 Para efeitos do artigo 6.º do anexo ii, «simples» aplica-se a atividades que não exigem competências especializadas, máquinas, aparelhos ou equipamento especialmente produzidos ou instalados para realizar a atividade. No entanto, a mistura simples não inclui reação química. Reação química significa um processo, incluindo um processo bioquímico, que resulta numa molécula com uma nova estrutura mediante separação das ligações intramoleculares e formação de novas ligações intramoleculares ou alteração da disposição espacial dos átomos numa molécula.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter de produto originário.
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do presente Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
-## APÊNDICE 2 A
+APÊNDICE 2 A
 
 Adenda à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto fabricado possa adquirir o caráter de produto originário.
 
@@ -5919,7 +6119,7 @@ Nota 3:
 
 Para os produtos das posições 4810, ex 4811, 4816, 4817, ex 4818, ex 4819, ex 4820 e ex 4823, as regras seguintes conferem o caráter de produto originário no caso de um acréscimo superior a 0 % dos direitos consolidados da OMC da União Europeia aplicáveis a esses produtos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nota 4:
 
@@ -5931,7 +6131,7 @@ Fabricação a partir de matérias de qualquer posição, exceto a do produto.
 
 Esta regra confere o caráter de produto originário às mercadorias exportadas da América Central para a União Europeia no âmbito dos contingentes anuais por país:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 b) Para os produtos dos capítulos 61 e 62 especificados nesta alínea e nas alíneas c) e d):
 
@@ -5939,25 +6139,25 @@ Fabricação a partir de matérias de qualquer posição, exceto a do produto.
 
 Esta regra confere o caráter de produto originário às mercadorias exportadas da América Central para a União Europeia no âmbito dos contingentes anuais por país:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 c) As quantidades indicadas no ponto 1, alínea b), serão distribuídas em conformidade com os quadros a seguir apresentados para Costa Rica, Guatemala, Honduras e Panamá a seguir apresentados:
 
 Costa Rica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Guatemala
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Honduras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Panamá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 A pedido de uma República da Parte AC e sempre que se chegar a um acordo com a Parte UE, as quantidades anualmente atribuídas a cada subposição dos capítulos 61 e 62 indicada podem ser alteradas.
 
@@ -5965,11 +6165,11 @@ d)As quantidades indicadas no ponto 1, alínea b), serão distribuídas em confo
 
 Salvador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nicarágua
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 2 - Após o período de cinco anos referido no ponto 1, alínea b), as Partes reveem o sistema de contingentes, no que respeita, em particular, às quantidades e à sua distribuição. As Partes avaliam a viabilidade de acordarem novas taxas de aumentos anuais para os anos subsequentes, bem como a sua distribuição entre os produtos dos capítulos 61 e 62.
 
@@ -5987,9 +6187,9 @@ Fabricação a partir de matérias de qualquer posição.
 
 Esta regra confere o caráter de produto originário às mercadorias exportadas da América Central para a União Europeia no âmbito dos contingentes anuais por país:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Modelos do certificado de circulação Eur.1 e pedido de certificado de circulação Eur.1
 
@@ -5999,7 +6199,7 @@ Instruções para a impressão
 
 2 - As autoridades públicas competentes dos Estados-Membros da União Europeia e das Repúblicas da Parte AC podem reservar-se o direito de proceder à impressão dos formulários ou confiá-la a tipografias por elas autorizadas. Neste último caso, cada formulário deve incluir uma referência a essa autorização. Além disso, cada formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Notas
 
@@ -6009,13 +6209,13 @@ Notas
 
 3 - As mercadorias devem ser designadas conforme os usos comerciais, com as indicações necessárias para permitir a sua identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 DECLARAÇÃO DO EXPORTADOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Declaração na fatura
 
@@ -6023,9 +6223,9 @@ Requisitos específicos para efetuar uma declaração na fatura
 
 A declaração na fatura, cujo texto é a seguir apresentado, é efetuada utilizando uma das versões linguísticas nela estabelecidas e em conformidade com as disposições de direito interno do país de exportação. Se for manuscrita, a declaração é preenchida a tinta e em letras de imprensa. A declaração na fatura deve ser efetuada em conformidade com as respetivas notas de pé-de-página. As notas de pé-de-página não têm de ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Período de tempo para a apresentação de uma declaração na fatura ou reembolso de direitos de acordo com o artigo 19.º, n.º 6, e o artigo 21.º, n.º 4, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa.
 
@@ -6033,7 +6233,7 @@ Período de tempo para a apresentação de uma declaração na fatura ou reembol
 
 2 - Para as Repúblicas da Parte AC, um ano.
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Montantes referidos no artigo 19.º, n.º 1, alínea b), e no artigo 24.º, n.º 3, do anexo ii relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa.
 
@@ -6761,7 +6961,9 @@ www.mici.gob.pa
 
 ## ANEXO X — Listas de compromissos em matéria de estabelecimento
 
-#### SECÇÃO A — Parte UE
+#### SECÇÃO A
+
+## Parte UE
 
 1 - A lista de compromissos a seguir apresentada indica as atividades económicas liberalizadas nos termos do artigo 166.º do presente Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos estabelecimentos e investidores das Repúblicas da Parte AC nessas atividades. As listas são compostas dos seguintes elementos:
 
@@ -6847,7 +7049,7 @@ SE - Suécia;
 
 UK - Reino Unido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 #### SECÇÃO B — Repúblicas da Parte AC
 
@@ -6881,7 +7083,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Salvador
 
@@ -6913,7 +7115,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Guatemala
 
@@ -6945,7 +7147,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Honduras
 
@@ -6977,7 +7179,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nicarágua
 
@@ -7011,7 +7213,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 9 - Os compromissos contidos nesta lista não implicam um tratamento menos favorável para estabelecimentos e investidores da Parte UE do que nos termos, limitações e condições previstas no âmbito do GATS.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Panamá
 
@@ -7043,13 +7245,15 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XI — Listas de compromissos em matéria de prestação
 
 de serviços transfronteiras
 
-#### SECÇÃO A — Parte UE
+#### SECÇÃO A
+
+## Parte UE
 
 1 - A lista de compromissos a seguir apresentada indica os setores de serviços liberalizados nos termos do artigo 172.º do presente Acordo e, mediante reservas, as limitações em matéria de acesso ao mercado e de tratamento nacional aplicáveis aos serviços e prestadores de serviços das Repúblicas da Parte AC nesses setores. A lista é composta dos seguintes elementos:
 
@@ -7075,7 +7279,7 @@ b) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito auto executório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 #### SECÇÃO B — Repúblicas da Parte AC
 
@@ -7107,7 +7311,7 @@ b) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Salvador
 
@@ -7155,7 +7359,7 @@ Compromissos horizontais
 
 8 - O artigo 170.º do presente Acordo refere-se a medidas não discriminatórias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Guatemala
 
@@ -7185,7 +7389,7 @@ b) por CPC ver. 1.0, entende-se a Classificação Central de Produtos, tal como 
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Honduras
 
@@ -7215,7 +7419,7 @@ b) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nicarágua
 
@@ -7247,7 +7451,7 @@ b) Por CPC ver. 1.0, entende-se a Classificação Central de Produtos, tal como 
 
 9 - Os compromissos contidos nesta lista não implicam um tratamento menos favorável para os serviços e prestadores de serviços da Parte UE do que nos termos, limitações e condições previstas no âmbito do GATS.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Panamá
 
@@ -7277,7 +7481,7 @@ b) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 8 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XII — Reservas em matéria de pessoal-chave e estagiários
 
@@ -7315,7 +7519,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 9 - Os direitos e obrigações resultantes da presente lista de reservas não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XIII — Listas de compromissos das Repúblicas da Parte AC
 
@@ -7357,7 +7561,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Salvador
 
@@ -7393,7 +7597,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Guatemala
 
@@ -7463,7 +7667,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nicarágua
 
@@ -7499,7 +7703,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Panamá
 
@@ -7535,7 +7739,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XIV — Listas de compromissos das Repúblicas da Parte AC
 
@@ -7575,7 +7779,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Guatemala
 
@@ -7611,7 +7815,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Honduras
 
@@ -7647,7 +7851,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Nicarágua
 
@@ -7683,7 +7887,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Panamá
 
@@ -7719,7 +7923,7 @@ c) Por CPC ver. 1.0 entende-se a Classificação Central de Produtos, tal como e
 
 11 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente quaisquer direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XV — Pontos de informação
 
@@ -7747,7 +7951,7 @@ Secretariado Permanente, Planning, Apellis and Nirvana corner, 1409 Nicósia, Ch
 
 República Checa:
 
-Ministério da Indústria e do Comércio, Departamento de Política Comercial Multilateral e da UE, Politických [([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf) 20, Praha 1, República Checa; telefone: (420) 2 2485 2973; telefax: (420) 2 2422 1560, e-mail: vondrackova@mpo.cz.
+Ministério da Indústria e do Comércio, Departamento de Política Comercial Multilateral e da UE, Politických [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf) 20, Praha 1, República Checa; telefone: (420) 2 2485 2973; telefax: (420) 2 2422 1560, e-mail: vondrackova@mpo.cz.
 
 Dinamarca:
 
@@ -7799,7 +8003,7 @@ Ministério da Economia da República da Letónia, Departamento das Relações E
 
 Lituânia:
 
-##### Divisão das Organizações Económicas Internacionais, Ministério dos Negócios Estrangeiros, J. Tumo Vaizganto 2, 2600 Vilnius, Lituânia; telefone: (370 52) 362 594 / (370 52) 362 598; telefax: (370 52) 362 586; e-mail: teo.ed@urm.1t.
+Divisão das Organizações Económicas Internacionais, Ministério dos Negócios Estrangeiros, J. Tumo Vaizganto 2, 2600 Vilnius, Lituânia; telefone: (370 52) 362 594 / (370 52) 362 598; telefax: (370 52) 362 586; e-mail: teo.ed@urm.1t.
 
 Luxemburgo:
 
@@ -7815,7 +8019,7 @@ Ministério da Economia, Direção-Geral das Relações Económicas Externas, Po
 
 Polónia:
 
-Ministério da Economia, Departamento de Política Comercial, Ul. [([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf) 4a, 00-507 Varsóvia, Polónia; telefone: (48 22) 6934826 / (48 22) 6934856 / (48 22) 6934808; telefax: (48 22) 693 4018; e-mail: SekretariatDPH@mg.gov.pl.
+Ministério da Economia, Departamento de Política Comercial, Ul. [(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf) 4a, 00-507 Varsóvia, Polónia; telefone: (48 22) 6934826 / (48 22) 6934856 / (48 22) 6934808; telefax: (48 22) 693 4018; e-mail: SekretariatDPH@mg.gov.pl.
 
 Portugal:
 
@@ -7877,7 +8081,7 @@ Ministerio de Comercio e Industrias, Dirección Nacional de Administración de T
 
 ## ANEXO XVI — Contratos públicos
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Âmbito de aplicação
 
@@ -8461,31 +8665,31 @@ Listas indicativas de autoridades contratantes que são autoridades governamenta
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Organismos públicos, comissões estatais, órgãos executivos e outras entidades públicas criadas nos termos de uma lei ou de um decreto do Conselho de Ministros, exercendo uma função relacionada com o exercício do poder executivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -8559,7 +8763,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -9071,43 +9275,43 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -9151,23 +9355,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -9537,17 +9741,17 @@ Reino Unido:
 
 Lista dos fornecimentos e equipamento adquiridos pelos ministérios da defesa e agências de defesa ou de segurança da Bélgica, Bulgária, República Checa, Dinamarca, Alemanha, Estónia, Grécia, Espanha, França, Irlanda, Itália, Chipre, Letónia, Lituânia, Luxemburgo, Hungria, Malta, Países Baixos, Áustria, Polónia, Portugal, Roménia, Eslovénia, Eslováquia, Finlândia, Suécia e Reino Unido abrangidos pelo título.
 
-### Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimento.
+Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimento.
 
-### Capítulo 26: Minérios metalúrgicos, escórias e cinzas.
+Capítulo 26: Minérios metalúrgicos, escórias e cinzas.
 
-### Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais,
+Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais,
 
 exceto:
 
 ex 27.10: carburantes especiais.
 
-### Capítulo 28: Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos,
+Capítulo 28: Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos,
 
 exceto:
 
@@ -9569,7 +9773,7 @@ ex 28.51: produtos toxicológicos;
 
 ex 28.54: explosivos.
 
-### Capítulo 29: Produtos químicos orgânicos,
+Capítulo 29: Produtos químicos orgânicos,
 
 exceto:
 
@@ -9603,89 +9807,89 @@ ex 29.27: produtos toxicológicos;
 
 ex 29.29: explosivos.
 
-### Capítulo 30: Produtos farmacêuticos.
+Capítulo 30: Produtos farmacêuticos.
 
-### Capítulo 31: Adubos (fertilizantes).
+Capítulo 31: Adubos (fertilizantes).
 
-### Capítulo 32: Extratos tanantes e tintoriais; taninos e seus derivados; pigmentos e outras matérias corantes; tintas e vernizes; mástiques; tintas de escrever.
+Capítulo 32: Extratos tanantes e tintoriais; taninos e seus derivados; pigmentos e outras matérias corantes; tintas e vernizes; mástiques; tintas de escrever.
 
-### Capítulo 33: Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e preparações cosméticas.
+Capítulo 33: Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e preparações cosméticas.
 
-### Capítulo 34: Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar e «ceras para dentistas».
+Capítulo 34: Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar e «ceras para dentistas».
 
-### Capítulo 35: Matérias albuminoides, colas e enzimas.
+Capítulo 35: Matérias albuminoides, colas e enzimas.
 
-### Capítulo 37: Produtos para fotografia e cinematografia.
+Capítulo 37: Produtos para fotografia e cinematografia.
 
-### Capítulo 38: Produtos diversos das indústrias químicas,
+Capítulo 38: Produtos diversos das indústrias químicas,
 
 exceto:
 
 ex 38.19: produtos toxicológicos.
 
-### Capítulo 39: Matérias plásticas artificiais, ésteres e éteres da celulose, resinas artificiais e obras destas matérias,
+Capítulo 39: Matérias plásticas artificiais, ésteres e éteres da celulose, resinas artificiais e obras destas matérias,
 
 exceto:
 
 ex 39.03: explosivos.
 
-### Capítulo 40: Borracha natural, sintética ou artificial e obras de borracha,
+Capítulo 40: Borracha natural, sintética ou artificial e obras de borracha,
 
 exceto:
 
 ex 40.11: pneumáticos à prova de bala.
 
-### Capítulo 41: Peles, exceto as peles com pelo, e couros.
+Capítulo 41: Peles, exceto as peles com pelo, e couros.
 
-### Capítulo 42: Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa (exceto pelo de Messina).
+Capítulo 42: Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa (exceto pelo de Messina).
 
-### Capítulo 43: Peles com pelo e suas obras; peles com pelo artificiais.
+Capítulo 43: Peles com pelo e suas obras; peles com pelo artificiais.
 
-### Capítulo 44: Madeira, carvão vegetal e obras de madeira.
+Capítulo 44: Madeira, carvão vegetal e obras de madeira.
 
-### Capítulo 45: Cortiça e suas obras.
+Capítulo 45: Cortiça e suas obras.
 
-### Capítulo 46: Obras de espartaria ou de cestaria.
+Capítulo 46: Obras de espartaria ou de cestaria.
 
-### Capítulo 47: Matérias destinadas ao fabrico do papel.
+Capítulo 47: Matérias destinadas ao fabrico do papel.
 
-### Capítulo 48: Papel e cartão; obras de pasta de celulose, de papel ou de cartão.
+Capítulo 48: Papel e cartão; obras de pasta de celulose, de papel ou de cartão.
 
-### Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografados, planos e plantas.
+Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografados, planos e plantas.
 
-### Capítulo 65: Chapéus e artefactos de uso semelhante, e suas partes.
+Capítulo 65: Chapéus e artefactos de uso semelhante, e suas partes.
 
-### Capítulo 66: Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e suas partes.
+Capítulo 66: Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e suas partes.
 
-### Capítulo 67: Penas e penugem preparadas e suas obras; flores artificiais; obras de cabelo.
+Capítulo 67: Penas e penugem preparadas e suas obras; flores artificiais; obras de cabelo.
 
-### Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes.
+Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes.
 
 ### Capítulo 69: Produtos cerâmicos.
 
-### Capítulo 70: Vidro e suas obras.
+Capítulo 70: Vidro e suas obras.
 
-### Capítulo 71: Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas, metais preciosos, metais chapeados de metais preciosos e suas obras; bijutarias; moedas.
+Capítulo 71: Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas, metais preciosos, metais chapeados de metais preciosos e suas obras; bijutarias; moedas.
 
-### Capítulo 73: Ferro fundido, ferro macio, aço e suas obras.
+Capítulo 73: Ferro fundido, ferro macio, aço e suas obras.
 
 ### Capítulo 74: Cobre e suas obras.
 
-### Capítulo 75: Níquel e suas obras.
+Capítulo 75: Níquel e suas obras.
 
-### Capítulo 76: Alumínio e suas obras.
+Capítulo 76: Alumínio e suas obras.
 
-### Capítulo 77: Magnésio, berílio e suas obras.
+Capítulo 77: Magnésio, berílio e suas obras.
 
-### Capítulo 78: Chumbo e suas obras.
+Capítulo 78: Chumbo e suas obras.
 
 ### Capítulo 79: Zinco e suas obras.
 
-### Capítulo 80: Estanho e suas obras.
+Capítulo 80: Estanho e suas obras.
 
-### Capítulo 81: Outros metais comuns e suas obras.
+Capítulo 81: Outros metais comuns e suas obras.
 
-### Capítulo 82: Ferramentas, artefactos de cutelaria e talheres, e suas partes, de metais comuns,
+Capítulo 82: Ferramentas, artefactos de cutelaria e talheres, e suas partes, de metais comuns,
 
 exceto:
 
@@ -9693,9 +9897,9 @@ ex 82.05: ferramentas;
 
 ex 82.07: peças de ferramentas.
 
-### Capítulo 83: Obras diversas de metais comuns.
+Capítulo 83: Obras diversas de metais comuns.
 
-### Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes,
+Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes,
 
 exceto:
 
@@ -9711,7 +9915,7 @@ ex 84.55: peças da posição 84.53;
 
 ex 84.59: reatores nucleares.
 
-### Capítulo 85: Máquinas, aparelhos e material elétrico, e suas partes,
+Capítulo 85: Máquinas, aparelhos e material elétrico, e suas partes,
 
 exceto:
 
@@ -9719,7 +9923,7 @@ ex 85.13: equipamentos de telecomunicações;
 
 ex 85.15: aparelhos de transmissão.
 
-### Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização não elétricos para vias de comunicação,
+Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização não elétricos para vias de comunicação,
 
 exceto:
 
@@ -9733,7 +9937,7 @@ ex 86.06: vagões-oficinas;
 
 ex 86.07: vagões.
 
-### Capítulo 87: Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes,
+Capítulo 87: Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes,
 
 exceto:
 
@@ -9749,13 +9953,13 @@ ex 87.09: motociclos;
 
 ex 87.14: reboques.
 
-### Capítulo 89: Embarcações e estruturas flutuantes,
+Capítulo 89: Embarcações e estruturas flutuantes,
 
 exceto:
 
 ex 89.01 A: navios de guerra.
 
-### Capítulo 90: Instrumentos e aparelhos de ótica, de fotografia, de cinematografia, de medida, de controlo ou de precisão; instrumentos e aparelhos médico-cirúrgicos; suas partes,
+Capítulo 90: Instrumentos e aparelhos de ótica, de fotografia, de cinematografia, de medida, de controlo ou de precisão; instrumentos e aparelhos médico-cirúrgicos; suas partes,
 
 exceto:
 
@@ -9777,21 +9981,21 @@ ex 90.19: aparelhos de ortopedia;
 
 ex 90.20: aparelhos de raios X.
 
-### Capítulo 91: Fabrico de caixas de relógios e de relógios.
+Capítulo 91: Fabrico de caixas de relógios e de relógios.
 
-### Capítulo 92: Instrumentos de música, aparelhos de registo ou de reprodução de som, aparelhos de registo ou de reprodução de imagens e de som, para televisão, partes e acessórios destes instrumentos e aparelhos.
+Capítulo 92: Instrumentos de música, aparelhos de registo ou de reprodução de som, aparelhos de registo ou de reprodução de imagens e de som, para televisão, partes e acessórios destes instrumentos e aparelhos.
 
-### Capítulo 94: Móveis, mobiliário médico-cirúrgico, artigos de colchoeiro e semelhantes,
+Capítulo 94: Móveis, mobiliário médico-cirúrgico, artigos de colchoeiro e semelhantes,
 
 exceto:
 
 ex 94.01 A: cadeiras ou bancos de aeronaves.
 
-### Capítulo 95: Matérias para talhe ou modelação, preparadas ou em obra.
+Capítulo 95: Matérias para talhe ou modelação, preparadas ou em obra.
 
-### Capítulo 96: Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiras e crivos.
+Capítulo 96: Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiras e crivos.
 
-### Capítulo 98: Artefactos diversos.
+Capítulo 98: Artefactos diversos.
 
 #### SECÇÃO B — Entidades da administração subcentral que celebram contratos em conformidade com o disposto no título v da parte iv do presente Acordo
 
@@ -10517,7 +10721,7 @@ Especificados na secção E:
 
 Limiar: DSE 5 000 000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 G - Lista da Parte UE:
 
@@ -11009,23 +11213,23 @@ V:
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -11091,7 +11295,7 @@ Categorias:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -11163,43 +11367,43 @@ Categorias:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -11227,23 +11431,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -11969,27 +12173,27 @@ I - Produção, transporte ou distribuição de eletricidade
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12011,7 +12215,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12043,43 +12247,43 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -12107,23 +12311,23 @@ Entidades que transportam eletricidade nos termos de:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -12143,27 +12347,27 @@ II - Produção, transporte ou distribuição de água potável
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12171,7 +12375,7 @@ Entidades que produzem ou distribuem água nos termos da Local Government [Sanit
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12199,43 +12403,43 @@ Autarquias e institutos públicos locais produtores ou distribuidores de água p
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -12245,23 +12449,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -12275,27 +12479,27 @@ III - Serviços urbanos de caminho-de-ferro, eléctricos, tróleis ou autocarros
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12313,7 +12517,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12373,41 +12577,41 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre.
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -12437,23 +12641,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -12491,27 +12695,27 @@ IV - Instalações de portos marítimos ou interiores ou de outros terminais
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12521,7 +12725,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12637,43 +12841,43 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -12691,23 +12895,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -12723,27 +12927,27 @@ V - Instalações aeroportuárias
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12753,7 +12957,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12831,41 +13035,41 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre.
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -12877,23 +13081,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -12911,27 +13115,27 @@ VI - Serviços ferroviários
 
 Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Estónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Irlanda:
 
@@ -12941,7 +13145,7 @@ Irlanda:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Espanha:
 
@@ -12971,39 +13175,39 @@ França:
 
 Itália:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Chipre.
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta.
 
 Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -13021,23 +13225,23 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Reino Unido:
 
@@ -13061,7 +13265,7 @@ O título não abrange os contratos dos seguintes serviços, como classificados 
 
 1 - Investigação & desenvolvimento:
 
-##### Divisão 81 - Serviços de investigação e desenvolvimento.
+Divisão 81 - Serviços de investigação e desenvolvimento.
 
 2 - Gestão de instalações estatais (instalações administrativas e edifícios de serviços, instalações relativas a aeroportos, comunicações e mísseis, edifícios escolares, edifícios hospitalares, instalações industriais, edifícios residenciais, armazéns, instalações de investigação e desenvolvimento, outros edifícios, instalações de conservação e desenvolvimento, autoestradas, estradas, arruamentos, pontes e caminhos-de-ferro, instalações de produção de eletricidade, serviços de utilidade pública, outras instalações que não edifícios).
 
@@ -13071,13 +13275,13 @@ Classe 9692 - Serviços de lotarias e outros jogos de aposta.
 
 4 - Serviços públicos:
 
-##### Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
+Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
 
-##### Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
+Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
 
-##### Divisão 92 - Serviços de educação (educação pública);
+Divisão 92 - Serviços de educação (educação pública);
 
-##### Divisão 93 - Serviços de saúde e serviços sociais.
+Divisão 93 - Serviços de saúde e serviços sociais.
 
 B - Lista de Salvador:
 
@@ -13091,15 +13295,15 @@ O título não abrange os contratos dos seguintes serviços, como classificados 
 
 1 - Serviços públicos:
 
-##### Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
+Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
 
-##### Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
+Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
 
-##### Divisão 92 - Serviços de educação (educação pública);
+Divisão 92 - Serviços de educação (educação pública);
 
-##### Divisão 93 - Serviços de saúde e serviços sociais;
+Divisão 93 - Serviços de saúde e serviços sociais;
 
-##### Divisão 94 - Eliminação de águas residuais e resíduos, serviços de saneamento e outros serviços de proteção ambiental;
+Divisão 94 - Eliminação de águas residuais e resíduos, serviços de saneamento e outros serviços de proteção ambiental;
 
 2 - Serviços profissionais individuais (o título não abrange a contratação de pessoas, por períodos determinados, que prestem um serviço profissional, se essa contratação não for utilizada para iludir as obrigações previstas no título).
 
@@ -13127,19 +13331,19 @@ O título não abrange os contratos dos seguintes serviços, como classificados 
 
 Serviços públicos:
 
-##### Divisão 81 - Serviços de investigação e desenvolvimento;
+Divisão 81 - Serviços de investigação e desenvolvimento;
 
-##### Divisão 83 - Outros serviços de consultoria, científicos e técnicos;
+Divisão 83 - Outros serviços de consultoria, científicos e técnicos;
 
-##### Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
+Divisão 69 - Serviços de distribuição de eletricidade; serviços de distribuição de gás e água por condutas;
 
-##### Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
+Divisão 91 - Administração pública e outros serviços prestados à comunidade em geral; serviços de segurança social obrigatória;
 
-##### Divisão 92 - Serviços de educação (educação pública);
+Divisão 92 - Serviços de educação (educação pública);
 
-##### Divisão 93 - Serviços de saúde e serviços sociais;
+Divisão 93 - Serviços de saúde e serviços sociais;
 
-##### Divisão 94 - Eliminação de águas residuais e resíduos, serviços de saneamento e outros serviços de proteção ambiental.
+Divisão 94 - Eliminação de águas residuais e resíduos, serviços de saneamento e outros serviços de proteção ambiental.
 
 F - Lista do Panamá:
 
@@ -13147,13 +13351,13 @@ O título aplica-se a todos os contratos de serviços celebrados pelas entidades
 
 O título não abrange os contratos dos seguintes serviços, como elaborados na Classificação Central dos Produtos 1.0 (CPC, versão 1.0) das Nações Unidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 G - Parte UE:
 
 Estão incluídos os seguintes serviços da Lista Universal de Serviços, que consta do documento MTN.GNS/W/120 *:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Notas
 
@@ -13207,7 +13411,7 @@ Todos os serviços incluídos na lista da divisão 51.
 
 Lista da divisão 51, CPC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 #### SECÇÃO F — Notas gerais
 
@@ -13425,7 +13629,7 @@ C - Âmbito de aplicação alargado:
 
 As exceções à divisão 752 da CPC (Serviços de telecomunicações) na secção D não se aplicam à Costa Rica.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Meios de comunicação social para a publicação de informações sobre os contratos públicos
 
@@ -13471,7 +13675,7 @@ Bélgica:
 
 Bulgária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 República Checa:
 
@@ -13525,11 +13729,11 @@ Chipre:
 
 Letónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Lituânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Luxemburgo:
 
@@ -13539,7 +13743,7 @@ Luxemburgo:
 
 Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Malta:
 
@@ -13553,11 +13757,11 @@ Países Baixos:
 
 Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Portugal:
 
@@ -13565,7 +13769,7 @@ Portugal:
 
 Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Eslovénia:
 
@@ -13575,11 +13779,11 @@ Eslovénia:
 
 Eslováquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Suécia:
 
@@ -13589,7 +13793,7 @@ Reino Unido:
 
 - Jornal Oficial da União Europeia.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Meios de comunicação social para a publicação de anúncios
 
@@ -13629,7 +13833,7 @@ União Europeia:
 
 Jornal Oficial da União Europeia - http: //simap.europa.eu
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Anúncio de concurso previsto
 
@@ -13659,7 +13863,7 @@ e) Lista e descrição sucinta das condições de participação dos fornecedore
 
 f) Quando, em conformidade com o artigo 215.º, uma entidade adjudicante tem a intenção de selecionar um número limitado de fornecedores qualificados que convidará a apresentar propostas, os critérios que serão utilizados para esta seleção e, se aplicável, qualquer restrição ao número de fornecedores que serão autorizados a apresentar propostas.
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Anúncio que convida os fornecedores interessados a solicitar a sua inclusão numa lista de fornecedores
 
@@ -13667,7 +13871,7 @@ Se a legislação de uma Parte prevê a publicação de um anúncio que convida 
 
 As entidades colocarão à disposição uma descrição das mercadorias e dos serviços, ou das categorias de mercadorias e dos serviços, em relação aos quais a lista pode ser utilizada; as condições de participação que os fornecedores devem satisfazer e os métodos que a entidade adjudicante utiliza para verificar se tal é o caso; o período de validade da lista e os meios utilizados para a respetiva renovação ou encerramento ou, caso o período de validade não seja mencionado, uma indicação do método utilizado para comunicar que a utilização da lista foi encerrada. Para um melhor entendimento, nenhuma disposição do título v da parte iv do presente Acordo pode ser entendida como uma obrigação de manter listas de fornecedores.
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Prazos
 
@@ -13711,7 +13915,7 @@ c) As propostas podem ser recebidas por via eletrónica pela entidade adjudicant
 
 A utilização do presente número, em conjugação com o n.º 4, não pode dar origem, em caso algum, à redução dos prazos para a apresentação de propostas previstos no n.º 2 para menos de 10 dias a contar da data da publicação do anúncio de concurso previsto.
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Anúncios de adjudicação
 
@@ -13729,7 +13933,7 @@ e) Data de adjudicação; e
 
 f) Tipo de método de contratação utilizado.
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Documentação relativa ao concurso
 
@@ -13753,31 +13957,31 @@ h) Eventuais datas para a entrega de mercadorias ou a prestação de serviços.
 
 ## ANEXO XVII — Lista de nomes elegíveis para proteção como indicações geográficas no território das Partes
 
-# Parte A
+Parte A
 
 Nomes da Parte UE
 
 Os nomes incluídos no presente anexo são indicações geográficas no território da Parte UE que são tratadas segundo os procedimentos de proteção aplicáveis de cada uma das Repúblicas da Parte AC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
-# Parte B
+Parte B
 
 Nomes das Repúblicas da Parte AC
 
 Os nomes incluídos no presente anexo são indicações geográficas no território das Repúblicas da Parte AC que são tratadas segundo os procedimentos de proteção aplicáveis da Parte UE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 ## ANEXO XVIII — Indicações geográficas protegidas
 
-# Parte A
+Parte A
 
 Indicações geográficas da Parte UE protegidas nas Repúblicas da Parte AC em conformidade com o título vi (Propriedade intelectual) da parte iv do presente Acordo
 
 Os nomes do anexo xvii que foram protegidos como indicações geográficas no seguimento das avaliações efetuadas pelas autoridades nacionais competentes das Partes devem ser aqui inseridos em conformidade com as disposições institucionais, designadamente o título xiii (Tarefas específicas em matéria comercial dos organismos instituídos ao abrigo do presente Acordo), através de decisões do Conselho de Associação.
 
-# Parte B
+Parte B
 
 Indicações geográficas das Repúblicas da Parte AC protegidas na Parte UE em conformidade com o título vi (Propriedade intelectual) da parte iv do presente Acordo
 
@@ -14087,7 +14291,7 @@ As Partes reconhecem que na Parte de origem foram apresentados pedidos de regist
 
 Lista dos nomes em relação aos quais foram apresentados pedidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
 
 Declaração comum relativa às uniões aduaneiras da Parte UE
 
@@ -16433,4 +16637,4 @@ Presume-se a existência de influência dominante quando, direta ou indiretament
 
 (1016) Nenhuma disposição do presente Protocolo está sujeita ao título x (Resolução de litígios) da parte iv do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf))](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/03301/0000201417.pdf)

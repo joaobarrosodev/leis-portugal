@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1232/1993/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1232-1993-552328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d17e6045ed749e7ed97c010ab9d45869e38a3121081c613c355f0f8b11a2991a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98f9c511e90f8af0265321e4623803530e03eb14ec73dfa735a489e82446ae62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,45 @@ reuse:
 subjects:
 - Igualdade de Tratamento
 - Marinha
-- Serviço Militar
 - Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:299471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A SUBALINIA 1 DA ALÍNEA A) DO NUMERO 1 PELA PORTARIA 656/94, DE 19 DE JULHO, PUBLICADA NO DR.IS-B, 165.\0\
+    -B, 165."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/163/1992/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/163/1992/03/13/p/dre
+- type: cites
+  target: pt:dre:175511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:26Z'
   warnings: []
   errors: []
 ---
@@ -179,6 +197,6 @@ Taifa (TF).
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Novembro de 1993.**
+Assinada em 10 de Novembro de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

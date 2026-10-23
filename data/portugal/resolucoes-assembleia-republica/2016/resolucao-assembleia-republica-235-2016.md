@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/235/2016/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/235-2016-105340328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fc8c278068e94d57658803ecbdc8bb0211ecf63bc46b21cd889ede36e510afc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4ec560f36ce59666d354426de32a413e6b5271c2ad1b52c910a58ea49337488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
 - Aviação Civil Internacional
-- União Europeia
+- Convenção
 - Israel
 - Luxemburgo
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:105340326:por
+  label: Ratificado o Acordo de Aviação Euro-Mediterrânico aprovado pela presente resolução pelo(a) Decreto do Presidente
+    da República n.º 107/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/107-2016-105340326
+  date: '2016-12-09'
 - type: cites
   target: celex:31991R0295
   label: null
@@ -230,14 +236,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/
 article_structure:
   article_count: 31
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:24Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +256,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de outubro de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE AVIAÇÃO EURO-MEDITERRÂNICO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E O GOVERNO DO ESTADO DE ISRAEL, POR OUTRO.
 
@@ -874,7 +880,7 @@ Em fé do que os abaixo assinados, com os devidos poderes para o efeito, apusera
 
 Feito no Luxemburgo aos dez dias do mês de junho de dois mil e treze, que corresponde ao dia dois de Tamuz do ano cinco mil setecentos e setenta e três do calendário hebraico, em duplo exemplar, nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena, sueca e hebraica, fazendo igualmente fé todos os textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 ## ANEXO I — Serviços acordados e rotas especificadas
 
@@ -1204,11 +1210,11 @@ Disposições pertinentes: cláusula 1, ponto 1, e cláusulas 2 a 9 do anexo.
 
 ## ANEXO V — Parte A: Frequências de base acordadas em certas rotas, em número igual ou superior a 14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte B: Frequências de base acordadas em certas rotas, em número superior a 7 mas inferior a 14
+Parte B: Frequências de base acordadas em certas rotas, em número superior a 7 mas inferior a 14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 ## ANEXO VI
 
@@ -1216,70 +1222,70 @@ Disposições regulamentares e normas a cumprir quando da aplicação da legisla
 
 Aviso legal: o disposto no presente anexo não prejudica a aplicação do direito da UE no território da UE
 
-# Parte A.2: Investigação de acidentes/incidentes e comunicação de ocorrências
+Parte A.2: Investigação de acidentes/incidentes e comunicação de ocorrências
 
 A.2.1: [Regulamento (UE) n.º 996/2010](https://diariodarepublica.pt/application/external/eurolex?10R0996) do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativo à investigação e prevenção de acidentes e incidentes na aviação civil e que revoga a [Diretiva 94/56/CE](https://diariodarepublica.pt/application/external/eurolex?94L0056)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 A.2.2: Diretiva [2003/42/CE](https://diariodarepublica.pt/application/external/eurolex?03L0042) do Parlamento Europeu e do Conselho, de 13 de junho de 2003, relativa à comunicação de ocorrências na aviação civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte B: Gestão do tráfego aéreo
+Parte B: Gestão do tráfego aéreo
 
 B.1: [Regulamento (CE) n.º 549/2004](https://diariodarepublica.pt/application/external/eurolex?04R0549) do Parlamento Europeu e do Conselho, de 10 de março de 2004, que estabelece o quadro para a realização do Céu Único Europeu («Regulamento-Quadro»), com a redação que lhe foi dada pelo [Regulamento (CE) n.º 1070/2009](https://diariodarepublica.pt/application/external/eurolex?09R1070) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 B.2: [Regulamento (CE) n.º 550/2004](https://diariodarepublica.pt/application/external/eurolex?04R0550) do Parlamento Europeu e do Conselho, de 10 de março de 2004, relativo à prestação de serviços de navegação aérea no Céu Único Europeu (Regulamento Prestação de Serviços), com a redação que lhe foi dada pelo [Regulamento (CE) n.º 1070/2009](https://diariodarepublica.pt/application/external/eurolex?09R1070) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 B.3: [Regulamento (CE) n.º 551/2004](https://diariodarepublica.pt/application/external/eurolex?04R0551) do Parlamento Europeu e do Conselho, de 10 de março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu, (Regulamento Espaço Aéreo), com a redação que lhe foi dada pelo [Regulamento (CE) n.º 1070/2009](https://diariodarepublica.pt/application/external/eurolex?09R1070) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 B.4: [Regulamento (CE) n.º 552/2004](https://diariodarepublica.pt/application/external/eurolex?04R0552) do Parlamento Europeu e do Conselho, de 10 de março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo (Regulamento Interoperabilidade), com a redação que lhe foi dada pelo [Regulamento (CE) n.º 1070/2009](https://diariodarepublica.pt/application/external/eurolex?09R1070) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 B.5: [Regulamento (CE) n.º 216/2008](https://diariodarepublica.pt/application/external/eurolex?08R0216) do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Diretiva [91/670/CEE](https://diariodarepublica.pt/application/external/eurolex?91L0670) do Conselho, o [Regulamento (CE) n.º 1592/2002](https://diariodarepublica.pt/application/external/eurolex?02R1592) e a Diretiva [2004/36/CE](https://diariodarepublica.pt/application/external/eurolex?04L0036), com a redação que lhe foi dada pelo [Regulamento (CE) n.º 1108/2009](https://diariodarepublica.pt/application/external/eurolex?09R1108) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que altera o [Regulamento (CE) n.º 216/2008](https://diariodarepublica.pt/application/external/eurolex?08R0216) no que se refere aos aeródromos, à gestão do tráfego aéreo e aos serviços de navegação aérea, e que revoga a Diretiva [2006/23/CE](https://diariodarepublica.pt/application/external/eurolex?06L0023).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte C: Ambiente
+## Parte C: Ambiente
 
 C.1: Diretiva [2002/30/CE](https://diariodarepublica.pt/application/external/eurolex?02L0030) relativa ao estabelecimento de regras e procedimentos para a introdução de restrições de operação relacionadas com o ruído nos aeroportos comunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 C.2: Diretiva [2006/93/CE](https://diariodarepublica.pt/application/external/eurolex?06L0093) relativa à regulação da exploração dos aviões que dependem do anexo 16 da Convenção relativa à Aviação Civil Internacional, volume 1, segunda parte, capítulo 3, segunda edição (1988)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte D: Responsabilidade das transportadoras aéreas
+Parte D: Responsabilidade das transportadoras aéreas
 
 D.1: [Regulamento (CE) n.º 2027/97](https://diariodarepublica.pt/application/external/eurolex?97R2027) do Conselho relativo à responsabilidade das transportadoras aéreas em caso de acidente, com a redação que lhe foi dada pelo [Regulamento (CE) n.º 889/2002](https://diariodarepublica.pt/application/external/eurolex?02R0889)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte E: Direitos do consumidor
+Parte E: Direitos do consumidor
 
 E.1: Diretiva [90/314/CEE](https://diariodarepublica.pt/application/external/eurolex?90L0314) relativa às viagens organizadas, férias organizadas e circuitos organizados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 E.3: [Regulamento (CE) n.º 261/2004](https://diariodarepublica.pt/application/external/eurolex?04R0261) que estabelece regras comuns para a indemnização e a assistência aos passageiros dos transportes aéreos em caso de recusa de embarque e de cancelamento ou atraso considerável dos voos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
 E.4: [Regulamento (CE) n.º 1107/2006](https://diariodarepublica.pt/application/external/eurolex?06R1107) do Parlamento Europeu e do Conselho, de 5 de julho de 2006, relativo aos direitos das pessoas com deficiência e das pessoas com mobilidade reduzida no transporte aéreo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
 
-# Parte F
+## Parte F
 
 F.1: [Diretiva 2000/79/CEE](https://diariodarepublica.pt/application/external/eurolex?00L0079) do Conselho, de 27 de novembro de 2000, respeitante à aplicação do acordo europeu sobre a organização do tempo de trabalho do pessoal móvel da aviação civil, celebrado pela Associação das Companhias Aéreas Europeias (AEA), a Federação Europeia dos Trabalhadores dos Transportes (ETF), a Associação Europeia do Pessoal Navegante (ECA), a Associação das Companhias Aéreas das Regiões da Europa (ERA) e a Associação Internacional de Companhias Aéreas (AICA).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf))](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/12/23500/0445804499.pdf)

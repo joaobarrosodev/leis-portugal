@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14700/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/53/2020/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2020-139129314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed509abdf01add11b43bd0f2a46c2c090bb09614e3452161150aae6b1b480385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37a9a69b6223a6e755cf663fa1e3b6273f16fa69f6ff6c5627ee667888c55f7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia da República
-- Proteção do Ambiente
 - Doença Infecciosa
 - Epidemia
-- Recomendação
 - Estratégia Nacional para o Ar
+- Proteção do Ambiente
+- Recomendação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2010/09/23/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/2017/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/2017/05/10/p/dre
+- type: cites
+  target: pt:dre:106982550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66863795:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:05Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +143,6 @@ c) Em terminais de navios de cruzeiro.
 
 Aprovada em 26 de junho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+113440657

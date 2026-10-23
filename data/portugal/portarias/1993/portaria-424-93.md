@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/093b00/19331933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/424/1993/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-1993-692861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52ea5f883a0c7f23281e2d85fc098e53aed668b0b475bec919fa27801a8e78ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41f6756f227194b599cf4e8ef8514133b9b7ee6aa7ac3925c8a13d83a742d556
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - CEE
 - Controlo de Qualidade
-- Saúde Pública
-- Indústria de Plásticos
 - Embalagem
+- Indústria de Plásticos
+- Produto Alimentar
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31990L0128
@@ -86,16 +86,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/898/1991/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/898/1991/09/02/p/dre
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA, A PARTIR DE 1 DE ABRIL DE 1996, PELA PORT 1114/95 DE 13-SET DR.IS-B [212]\0B [212]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:44Z'
   warnings: []
   errors: []
 ---
@@ -136,6 +141,6 @@ Disposições transitórias
 
 Ministérios da Agricultura, da Indústria e Energia e da Saúde.
 
-**Assinada em 24 de Março de 1993.**
+Assinada em 24 de Março de 1993.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho.

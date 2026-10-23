@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(81) a 3838-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/00810081.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-q3/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-q3-1993-402165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:05:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27bf1c7af5ee5db8a9cbb89e40318d2a766889b2052f9045fa43619264137daf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58b08fe7199d3d0394dd6b1cfa16f1624f29484eee7b90a07bfff7564651415b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:05:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,31 @@ relationships:
   target: pt:dre:485625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311585:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pela presente portaria, pela PORT.513/2000.2000.07.25.MADRP\
+    \ DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-2000-311585
+  date: '2000-07-25'
+- type: amended_by
+  target: pt:dre:400656:por
+  label: "Renovada a concessão a zona de caça associativa pela PORT.168/2001.2001.03.08.MADRP DR.IS-B [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-2001-400656
+  date: '2001-03-08'
+- type: amended_by
+  target: pt:dre:602057:por
+  label: "Transferida para a Associação de Caçadores de Condessa das Olaias, a zona de caça atribuída pelo presente diploma,\
+    \ alterada pela Port 168/2001, de 08-Mar e anexado àquela zona de caça um prédio rústico, pela PORT.186/2009.20.02.2009.MAOTDR,\
+    \ DR.IS [36] de 20.02.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2009-602057
+  date: '2009-02-20'
+- type: amended_by
+  target: pt:dre:485625:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade dos Tojais e outras, concessionada\
+    \ pelo presente diploma, alterada pela Port 168/2001, de 08-Mar, e pela Port. 186/2009, de 20-Fev, pela PORT.24/2011.07.01.2011.MADRP,\
+    \ DR.IS [5] de 07.01.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2011-485625
+  date: '2011-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -87,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680/1991/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680/1991/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663552:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:05:01Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +186,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 8 de Julho de 1993.**
+Assinada em 8 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/00810081.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/00810081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/00810081.pdf)

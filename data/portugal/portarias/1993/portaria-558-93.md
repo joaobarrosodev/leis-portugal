@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/558/1993/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-1993-283693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5211b1e0ab7bfdc583f7c259092888d69796e0f2257d0c94e9f20fea02e17ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb3dc13ed05b69eac8d635b40a0938a5af16fd6402201f470813fb55076e9fd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas do Norte
 - Construção Civil
-- Plano de Estudos
 - Equivalência de Habilitações Literárias
-- Recrutamento de Pessoal
 - Pessoal Autárquico
 - Pessoal Técnico Profissional
+- Plano de Estudos
 - Quadro de Pessoal
-- Autarquia Local
-relationships: []
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:52Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +102,11 @@ Manda o Governo, pela Secretária de Estado Adjunta e do Orçamento e pelo Secre
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 19 de Abril de 1993.**
+Assinada em 19 de Abril de 1993.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
-## Anexo I à Portaria n.º 558/93
+Anexo I à Portaria n.º 558/93
 
 Curso de Técnicas de Desenho de Construção Civil
 
@@ -110,7 +114,7 @@ Plano curricular/carga horária
 
 Horas
 
-# Parte teórica: — Desenho ... 970
+## Parte teórica: — Desenho ... 970
 
 Tecnologia ... 70
 
@@ -132,7 +136,7 @@ Total da parte prática ... 840
 
 Total geral ... 2290
 
-## Anexo II à Portaria n.º 558/93
+Anexo II à Portaria n.º 558/93
 
 Curso de Desenho e Medições
 
@@ -140,7 +144,7 @@ Plano curricular/carga horária
 
 Horas
 
-# Parte teórica: — Desenho ... 550
+## Parte teórica: — Desenho ... 550
 
 Autocad ... 110
 
@@ -164,7 +168,7 @@ Total da parte prática ... 840
 
 Total geral ... 2290
 
-## Anexo III à Portaria n.º 558/93
+Anexo III à Portaria n.º 558/93
 
 Curso de Desenho de Construção Civil
 
@@ -172,7 +176,7 @@ Plano curricular/carga horária
 
 Horas
 
-# Parte teórica: — Iniciação ... 80
+## Parte teórica: — Iniciação ... 80
 
 Aperfeiçoamento ... 105
 

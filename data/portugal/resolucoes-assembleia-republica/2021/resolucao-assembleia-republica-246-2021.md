@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15900/0000201705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/246/2021/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/246-2021-169709473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9b442fee2bc6254a215f9c7824e5a2b4f86d23642e9eec0026603999b8ed831
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 532d449230d5428db102ef7b30359383ff812622b3118300209fcb2d4aec4ec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos e Liberdades
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Fiscalização
-- Isolamento Profiláctico
-- Direitos do Indivíduo
-- Parecer
+- Açores
 - Assembleia da República
+- Controlo Sanitário
+- Direitos do Indivíduo
+- Direitos e Liberdades
 - Doença Infecciosa
 - Epidemia
-- Madeira.região Autónoma
-- Relatório
+- Estado de Emergência
+- Fiscalização
 - Governo
-- Açores
+- Isolamento Profiláctico
+- Madeira.região Autónoma
+- Parecer
+- Relatório
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Vigilância Epidemiológica
 relationships:
 - type: cites
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/92-a/2020/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/92-a/2020/11/02/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147412974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147968348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:43Z'
   warnings: []
   errors: []
 ---
@@ -184,6 +212,8 @@ Com efeito, os sucessivos decretos consagraram a possibilidade generalizada de a
 
 Aprovada em 22 de julho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15900/0000201705.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15900/0000201705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15900/0000201705.pdf)
+
+114453943

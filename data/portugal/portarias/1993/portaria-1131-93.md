@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1131/1993/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1131-1993-665722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a854847a7d5c4999e66f4d2195896865d09453636100942b2659f1b55b84b05b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf23fde02007091d32e0b9b7d231ba1808d44d031aff29a601b69d82b742daa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Controlo de Qualidade
-- Saúde
-- Marca
 - Equipamento
+- Marca
 - Normas de Segurança
 - Proteção do Consumidor
+- Saúde
 relationships:
 - type: amended_by
   target: pt:dre:1737149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555421:por
+  label: "Alterados os anexos I, II, IV e V pela PORT.109/96.10.04.1996.MECO, DR.IS-B [85] de 10.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1996-555421
+  date: '1996-04-10'
+- type: amended_by
+  target: pt:dre:195211:por
+  label: "Alterado no anexo I o 1º parg do num 2.8 e eliminado o num 1.5 do anexo V, na redacção dada pela Port 109/96/ de\
+    \ 10 de Abr, pela Port 695/97.1997.08.19.MECO, DR.IS-B [190]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/695-1997-195211
+  date: '1997-08-19'
 - type: cites
   target: celex:31986L0188
   label: null
@@ -88,13 +99,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:43:57Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +126,9 @@ Manda o Governo, pelos Ministros da Indústria e Energia e da Saúde, o seguinte
 
 Ministérios da Indústria e Energia e da Saúde.
 
-**Assinada em 10 de Setembro de 1993.**
+Assinada em 10 de Setembro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
 ## ANEXO I — Exigências essenciais de saúde e de segurança
 
@@ -571,7 +582,7 @@ A marca CE é constituída pela sigla CE, seguida dos dois últimos algarismos d
 
 1.5 - A exigência de aposição da marca CE não se aplica a componentes não indispensáveis ao bom funcionamento dos EPI em que sejam incorporados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258b00/61896194.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258b00/61896194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258b00/61896194.pdf)
 
 (nota 1) Os algarismos indicados a título de exemplo são os correspondentes ao 1.º ano de aplicação do decreto-lei.
 

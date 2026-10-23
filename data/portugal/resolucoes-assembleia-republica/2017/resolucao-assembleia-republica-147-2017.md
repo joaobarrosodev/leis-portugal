@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13000/0351403518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/147/2017/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/147-2017-107648318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a900e1e34d576e39d8b29519ba800bea6e91e7580ef6cc605925609c635f12f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b543448bc0a005ffa0e393219b41158e99e1f1448bee3fbada27cf51b9dcf9a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
 - BENS Classificados
-- Obra de Arte
-- PERU
-- Convenção
-- Portugal
 - Combate ao Crime
-- Património Arqueológico
-- Património Cultural
-- Lisboa
+- Convenção
+- Exportação
 - Importação
-- Património Subaquático
+- Lisboa
+- Obra de Arte
+- Património
+- Património Arqueológico
+- Património Arquitectónico
 - Património Audiovisual
+- Património Cultural
 - Património Documental
 - Património Fonográfico
 - Património Fotográfico
 - Património Histórico
 - Património Nacional
-- Exportação
-- Património Arquitectónico
-- Protecção do Património
 - Património Natural
-relationships: []
+- Património Subaquático
+- PERU
+- Portugal
+- Protecção do Património
+relationships:
+- type: amended_by
+  target: pt:dre:107648313:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 49/2017 - Diário da República n.º 130/2017, Série
+    I de 2017-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/49-2017-107648313
+  date: '2017-07-07'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:49:29Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +118,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de abril de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PERU PARA A PROTEÇÃO, CONSERVAÇÃO, RECUPERAÇÃO E DEVOLUÇÃO DE BENS CULTURAIS, PALEONTOLÓGICOS, ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, FURTADOS, ROUBADOS E ILICITAMENTE EXPORTADOS OU TRANSFERIDOS.
 
@@ -232,7 +238,7 @@ O presente Acordo entra em vigor 30 dias após a receção da última notificaç
 
 A Parte em cujo território o presente Acordo for assinado, submetê-lo-á, no mais breve prazo possível após a sua entrada em vigor, para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinado em Lisboa, em 19 de novembro de 2012, em dois originais, nas línguas portuguesa e castelhana, fazendo ambos igualmente fé.**
+Assinado em Lisboa, em 19 de novembro de 2012, em dois originais, nas línguas portuguesa e castelhana, fazendo ambos igualmente fé.
 
 Pela República Portuguesa:
 

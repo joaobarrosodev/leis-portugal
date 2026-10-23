@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/207b00/46494653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/774/1993/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/774-1993-632882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24f487ab342d0247d80b11bba0a97eb40cd07b20d6b330b58af3ce35bd21c20c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d366c7dc717863e809e4e782823f0f6f9595d7878d81aca1090b371d304ab3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Cárneo
 - CEE
 - Controlo Sanitário
 - Importação
 - País Estrangeiro
 - Política Agrícola Comum
-- Regulamento
 - Produto Animal
+- Produto Cárneo
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:580792:por
@@ -106,16 +106,21 @@ relationships:
   target: celex:31990R2726
   label: null
   source: http://data.europa.eu/eli/reg/1990/2726/oj
+- type: repealed_by
+  target: pt:dre:580792:por
+  label: "Revogada pelo DEC LEI.210/2000.2000.09.02.MADRP, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2000-580792
+  date: '2000-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:44Z'
   warnings: []
   errors: []
 ---
@@ -134,21 +139,21 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura e do Comércio e 
 
 Ministérios das Finanças, da Agricultura e do Comércio e Turismo.
 
-**Assinada em 2 de Julho de 1993.**
+Assinada em 2 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
 
-## Anexo a que se refere a Portaria n.º 774/93
+Anexo a que se refere a Portaria n.º 774/93
 
 Regulamento dos Controlos Veterinários de Produtos Animais e de Origem Animal Provenientes de Países Terceiros
 
 #### SECÇÃO I — Disposições iniciais
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece o regime dos controlos veterinários aplicáveis aos produtos animais e de origem animal provenientes de países terceiros.
+Artigo 1.º - 1 - O presente Regulamento estabelece o regime dos controlos veterinários aplicáveis aos produtos animais e de origem animal provenientes de países terceiros.
 
 2 - Mantêm-se em vigor as disposições veterinárias nacionais relativas aos produtos cujas trocas comerciais não foram ainda objecto de harmonização comunitária e as condições resultantes da regulamentação comunitária, quando essas condições não tenham sito objecto de harmonização total ao nível comunitário.
 
-###### Art. 2.º - 1 - Para efeitos do Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt) do Conselho, de 11 de Dezembro, e da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) do Conselho, de 26 de Junho, e ainda as seguintes:
+Art. 2.º - 1 - Para efeitos do Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt) do Conselho, de 11 de Dezembro, e da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) do Conselho, de 26 de Junho, e ainda as seguintes:
 
 a) Produtos - os produtos animais ou de origem animal referidos nas Directivas n.os [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt) e [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), bem como, nas condições previstas no artigo 17.º:
 
@@ -174,13 +179,13 @@ h) Autoridade competente - O Instituto de Protecção da Produção Agro-Aliment
 
 #### SECÇÃO II — Organização e sequência dos controlos
 
-###### Art. 3.º A importação de produtos de países terceiros só é autorizada se for feita prova de que:
+Art. 3.º A importação de produtos de países terceiros só é autorizada se for feita prova de que:
 
 a) Foram efectuados os controlos dos produtos, nos termos dos artigos 4.º, 5.º, 6.º e 8.º, e emitido o certificado previsto na alínea b) do n.º 1 do artigo 10.º;
 
 b) As despesas com os controlos veterinários foram pagas e que, se for caso disso, foi depositada uma caução que cubra as eventuais despesas previstas no n.º 3 do artigo 16.º
 
-###### Art. 4.º - 1 - Cada lote de produtos proveniente de países terceiros será submetido a um controlo documental e a um controlo de identidade, independentemente do destino aduaneiro desses produtos, a fim de verificar:
+Art. 4.º - 1 - Cada lote de produtos proveniente de países terceiros será submetido a um controlo documental e a um controlo de identidade, independentemente do destino aduaneiro desses produtos, a fim de verificar:
 
 a) A sua origem;
 
@@ -216,11 +221,11 @@ b) Em relação aos outros produtos, nos termos do n.º 1 do artigo 7.º da Dire
 
 8 - As despesas decorrentes da aplicação do presente artigo ficarão a cargo do expedidor, do destinatário ou do seu mandatário, sem direito a indemnização por parte do Estado.
 
-###### Art. 5.º - 1 - Para admissão numa zona franca ou num entreposto franco, tal como definidos nas alíneas a) e b) do n.º 4 do artigo 1.º do Regulamento (CEE) n.º [2504/88](http://data.europa.eu/eli/reg/1988/2504/oj?locale=pt), de 15 de Agosto, a autoridade competente assegurará que os produtos sejam sujeitos a um controlo documental e a uma verificação por simples inspecção visual, da conformidade entre os documentos ou certificados e os produtos e, se necessário, a um controlo de identidade e a um controlo físico dos produtos.
+Art. 5.º - 1 - Para admissão numa zona franca ou num entreposto franco, tal como definidos nas alíneas a) e b) do n.º 4 do artigo 1.º do Regulamento (CEE) n.º [2504/88](http://data.europa.eu/eli/reg/1988/2504/oj?locale=pt), de 15 de Agosto, a autoridade competente assegurará que os produtos sejam sujeitos a um controlo documental e a uma verificação por simples inspecção visual, da conformidade entre os documentos ou certificados e os produtos e, se necessário, a um controlo de identidade e a um controlo físico dos produtos.
 
 2 - Os produtos provenientes de uma zona franca ou de um entreposto franco, com destino a um dos territórios a que se refere o anexo I, devem ser submetidos aos controlos previstos no presente Regulamento.
 
-###### Art. 6.º - 1 - Aquando da admissão no entreposto, a autoridade competente efectuará um controlo de identidade dos produtos destinados a serem colocados sob o regime de «entreposto aduaneiro», tal como definido pelo Regulamento (CEE) n.º [2503/88](http://data.europa.eu/eli/reg/1988/2503/oj?locale=pt), de 15 de Agosto, ou em «depósito temporário», tal como definido pelo Regulamento (CEE) n.º [4151/88](http://data.europa.eu/eli/reg/1988/4151/oj?locale=pt), de 31 de Dezembro, o qual terá lugar num entreposto designado pela autoridade competente com base em orientações a definir de acordo com o procedimento comunitariamente previsto.
+Art. 6.º - 1 - Aquando da admissão no entreposto, a autoridade competente efectuará um controlo de identidade dos produtos destinados a serem colocados sob o regime de «entreposto aduaneiro», tal como definido pelo Regulamento (CEE) n.º [2503/88](http://data.europa.eu/eli/reg/1988/2503/oj?locale=pt), de 15 de Agosto, ou em «depósito temporário», tal como definido pelo Regulamento (CEE) n.º [4151/88](http://data.europa.eu/eli/reg/1988/4151/oj?locale=pt), de 31 de Dezembro, o qual terá lugar num entreposto designado pela autoridade competente com base em orientações a definir de acordo com o procedimento comunitariamente previsto.
 
 2 - Os produtos que tiverem sido armazenados num entreposto nacional, com vista à sua colocação em livre prática num dos territórios a que se refere o anexo I, devem ter sido mantidos sob vigilância aduaneira, antes de serem colocados em livre prática, e sido sujeitos aos controlos previstos no artigo 8.º
 
@@ -232,7 +237,7 @@ b) De cópia dos certificados, conforme disposto na subalínea ii) da alínea b)
 
 4 - As despesas com os controlos veterinários previstos no presente artigo ficarão a cargo do operador que solicitou a colocação em entreposto aduaneiro ou em depósito temporário, devendo essas despesas, incluindo uma caução para as despesas ocasionadas por um eventual recurso às possibilidades referidas no n.º 3 do artigo 16.º, ser saldadas antes da admissão no entreposto.
 
-###### Art. 7.º Sem prejuízo das medidas adoptadas em conformidade com o procedimento comunitariamente previsto, poderão não ser aplicadas as exigências previstas no n.º 4 do artigo 4.º aos produtos que se destinam a ser colocados em entreposto numa zona franca e que não satisfacam nem as exigências da regulamentação comunitária nem, quando se trate de produtos cujas trocas comerciais ainda não foram objecto de harmonização comunitária, as legislações nacionais aplicáveis, desde que:
+Art. 7.º Sem prejuízo das medidas adoptadas em conformidade com o procedimento comunitariamente previsto, poderão não ser aplicadas as exigências previstas no n.º 4 do artigo 4.º aos produtos que se destinam a ser colocados em entreposto numa zona franca e que não satisfacam nem as exigências da regulamentação comunitária nem, quando se trate de produtos cujas trocas comerciais ainda não foram objecto de harmonização comunitária, as legislações nacionais aplicáveis, desde que:
 
 a) Exista correspondência entre os produtos, ou os lotes, e os documentos que os acompanham;
 
@@ -240,7 +245,7 @@ b) Os produtos em causa sejam posteriormente reexpedidos para um país terceiro 
 
 c) Os produtos em causa sejam armazenados de maneira a ficarem claramente separados dos produtos destinados à comercialização num dos territórios a que se refere o anexo a este Regulamento.
 
-###### Art. 8.º - 1 - Os produtos cujas regras veterinárias aplicáveis às trocas comerciais tenham sido harmonizadas ao nível comunitário e que sejam apresentados num dos pontos de entrada nos territórios a que se refere o anexo a este Regulamento devem satisfazer as seguintes condições:
+Art. 8.º - 1 - Os produtos cujas regras veterinárias aplicáveis às trocas comerciais tenham sido harmonizadas ao nível comunitário e que sejam apresentados num dos pontos de entrada nos territórios a que se refere o anexo a este Regulamento devem satisfazer as seguintes condições:
 
 a) Se o ponto de entrada for um posto de inspecção fronteiriço, devem aí ser submetidos aos controlos referidos no n.º 4 do artigo 4.º, bem como aos controlos previstos no número seguinte;
 
@@ -260,7 +265,7 @@ c) À colheita de amostras oficiais para efeitos de busca de resíduos ou de age
 
 5 - Em derrogação do disposto no n.º 2, no que respeita aos produtos introduzidos num porto ou aeroporto de um dos territórios a que se refere o anexo a este Regulamento, os controlos poderão ser efectuados no porto ou no aeroporto de destino, desde que os mesmos disponham de um posto de inspecção fronteiriço e que os produtos sejam transportados, consoante o caso, por via marítima ou por via aérea.
 
-###### Art. 9.º Os postos de inspecção fronteiriços devem satisfazer às seguintes condições:
+Art. 9.º Os postos de inspecção fronteiriços devem satisfazer às seguintes condições:
 
 a) Estar situados na proximidade do ponto de entrada de um dos territórios a que se refere o anexo a este Regulamento;
 
@@ -268,7 +273,7 @@ b) Ser designados e aprovados nos termos da regulamentação comunitária;
 
 c) Ser colocados sob a autoridade de um veterinário oficial que assuma a responsabilidade dos controlos, o qual pode ser coadjuvado por auxiliares qualificados para o efeito.
 
-###### Art. 10.º - 1 - Sempre que os produtos cujas trocas comerciais foram objecto de harmonização a nível comunitário não se destinem a ser comercializados no território nacional, o veterinário oficial responsável pelo posto de inspecção fronteiriço:
+Art. 10.º - 1 - Sempre que os produtos cujas trocas comerciais foram objecto de harmonização a nível comunitário não se destinem a ser comercializados no território nacional, o veterinário oficial responsável pelo posto de inspecção fronteiriço:
 
 a) Fornecerá ao interessado uma ou, em caso de fraccionamento do lote, várias cópias autenticadas dos certificados, sendo o prazo de validade dessas cópias fixado, em função da natureza do produto em causa, de acordo com o procedimento comunitariamente previsto;
 
@@ -278,7 +283,7 @@ c) Conservará o ou os certificados originais que acompanham os produtos;
 
 2 - As trocas comerciais dos produtos referidos na Directiva n.º [89/662/CEE](http://data.europa.eu/eli/dir/1989/662/oj?locale=pt) e admitidos nos territórios a que se refere o anexo a este Regulamento efectuar-se-ão em conformidade com as regras estabelecidas na citada directiva.
 
-###### Art. 11.º - 1 - O disposto no presente artigo aplica-se aos produtos para os quais as regras aplicáveis às trocas comerciais ainda não foram harmonizadas ao nível comunitário e que, após a sua introdução num dos territórios a que se refere o anexo a este Regulamento, devam ser reexpedidos para outro Estado membro que autorize a admissão desses produtos no seu território.
+Art. 11.º - 1 - O disposto no presente artigo aplica-se aos produtos para os quais as regras aplicáveis às trocas comerciais ainda não foram harmonizadas ao nível comunitário e que, após a sua introdução num dos territórios a que se refere o anexo a este Regulamento, devam ser reexpedidos para outro Estado membro que autorize a admissão desses produtos no seu território.
 
 2 - Cado lote de produtos, sem prejuízo do controlo documental previsto no n.º 1 do artigo 4.º, deve:
 
@@ -308,7 +313,7 @@ iii) Conservará o ou os certificados originais relativos aos produtos.
 
 8 - Se o controlo físico previsto no presente artigo revelar que o produto não pode ser colocado no mercado, aplica-se o disposto no artigo 16.º
 
-###### Art. 12.º - 1 - O transporte dos produtos provenientes de um país terceiro para outro país terceiro é autorizado desde que:
+Art. 12.º - 1 - O transporte dos produtos provenientes de um país terceiro para outro país terceiro é autorizado desde que:
 
 a) O interessado forneça prova de que o primeiro país terceiro para o qual são encaminhados os produtos, após transitarem por um dos territórios a que se refere o anexo a este Regulamento, se compromete a não devolver ou reexpedir os produtos;
 
@@ -318,9 +323,9 @@ c) Em caso de travessia de um dos territórios a que se refere o anexo a este Re
 
 2 - Todas as despesas ocasionadas pela aplicação do presente artigo ficarão a cargo do expedidor, do destinatário ou do seu mandatário, sem direito a qualquer indemnização por parte do Estado.
 
-###### Art. 13.º O serviço veterinário competente efectuará um controlo de identidade, sem prejuízo do disposto no artigo 15.º e, eventualmente, um controlo físico dos produtos que recebam um destino aduaneiro diferente dos previstos nos artigos 5.º, 6.º, 10.º, 11.º e 14.º
+Art. 13.º O serviço veterinário competente efectuará um controlo de identidade, sem prejuízo do disposto no artigo 15.º e, eventualmente, um controlo físico dos produtos que recebam um destino aduaneiro diferente dos previstos nos artigos 5.º, 6.º, 10.º, 11.º e 14.º
 
-###### Art. 14.º - 1 - A presente secção, com excepção do disposto no artigo seguinte, não se aplica aos produtos que:
+Art. 14.º - 1 - A presente secção, com excepção do disposto no artigo seguinte, não se aplica aos produtos que:
 
 a) Estejam contidos nas bagagens pessoais dos viajantes e se destinem ao seu consumo próprio, desde que a quantidade não ultrapasse um valor a definir comunitariamente e sejam provenientes de um país terceiro, ou de parte de um país terceiro, que conste da lista aprovada nos termos da regulamentação comunitária e a partir do qual não sejam proibidas as importações;
 
@@ -338,9 +343,9 @@ ii) Sejam objecto de pequenos envios destinados a particulares, desde que se tra
 
 3 - O disposto no n.º 1 não afecta as disposições aplicáveis às carnes frescas e aos produtos à base de carne, nos termos do n.º 2.º da Portaria n.º 380/90, de 18 de Maio.
 
-###### Art. 15.º Sem prejuízo do disposto na presente secção, o veterinário oficial ou a autoridade veterinária competente, em caso de suspeita da não observância da legislação veterinária ou de dúvidas quanto à identidade do produto, procederá a todos os controlos veterinários que julgar conveniente efectuar.
+Art. 15.º Sem prejuízo do disposto na presente secção, o veterinário oficial ou a autoridade veterinária competente, em caso de suspeita da não observância da legislação veterinária ou de dúvidas quanto à identidade do produto, procederá a todos os controlos veterinários que julgar conveniente efectuar.
 
-###### Art. 16.º - 1 - Quando os controlos definidos no presente Regulamento revelem à autoridade competente que o produto não satisfaz as condições impostas pela regulamentação comunitária, ou pela regulamentação nacional aplicável, nos domínios que ainda não tenham sido objecto de harmonização comunitária ou quando esses controlos revelem uma irregularidade, apos consultar o importador ou o seu representante, esta decidirá:
+Art. 16.º - 1 - Quando os controlos definidos no presente Regulamento revelem à autoridade competente que o produto não satisfaz as condições impostas pela regulamentação comunitária, ou pela regulamentação nacional aplicável, nos domínios que ainda não tenham sido objecto de harmonização comunitária ou quando esses controlos revelem uma irregularidade, apos consultar o importador ou o seu representante, esta decidirá:
 
 a) A reexpedição do lote para fora dos territórios referidos no anexo a este Regulamento, num prazo a fixar pela autoridade nacional competente, se as condições de polícia sanitária ou de salubridade não se opuserem a essa reexpedição;
 
@@ -358,11 +363,11 @@ c) Com uma frequência a determinar, informar a Comissão, através do IPPAA, da
 
 4 - As disposições relativas à informação dos Estados membros serão fixadas no âmbito do programa de desenvolvimento da informatização dos procedimentos veterinários de importação (Projecto Shift).
 
-###### Art. 17.º Os peixes frescos imediatamente desembarcados de um barco que arvore pavilhão de um país terceiro devem ser submetidos, antes de poderem ser comercializados em território definido no anexo, aos controlos previstos para os peixes imediatamente desembarcados de um barco que arvore pavilhão de um Estado membro.
+Art. 17.º Os peixes frescos imediatamente desembarcados de um barco que arvore pavilhão de um país terceiro devem ser submetidos, antes de poderem ser comercializados em território definido no anexo, aos controlos previstos para os peixes imediatamente desembarcados de um barco que arvore pavilhão de um Estado membro.
 
 #### SECÇÃO III — Medidas de salvaguarda
 
-###### Art. 18.º - 1 - Se no território de um país terceiro se manifestar ou se propagar uma doença prevista na Portaria n.º 768/91, de 6 de Agosto, uma zoonose, uma doença ou outro factor susceptível de constituir perigo grave para a saúde humana ou para os animais, ou se qualquer outra razão grave de polícia sanitária ou de protecção da saúde pública o justificar, nomeadamente em razão das verificações feitas pelos peritos veterinários, o IPPAA pode solicitar à Comissão, sem prejuízo de esta poder agir por sua iniciativa, a adopção imediata, em função da gravidade da situação, de uma das seguintes medidas:
+Art. 18.º - 1 - Se no território de um país terceiro se manifestar ou se propagar uma doença prevista na Portaria n.º 768/91, de 6 de Agosto, uma zoonose, uma doença ou outro factor susceptível de constituir perigo grave para a saúde humana ou para os animais, ou se qualquer outra razão grave de polícia sanitária ou de protecção da saúde pública o justificar, nomeadamente em razão das verificações feitas pelos peritos veterinários, o IPPAA pode solicitar à Comissão, sem prejuízo de esta poder agir por sua iniciativa, a adopção imediata, em função da gravidade da situação, de uma das seguintes medidas:
 
 a) Suspensão das importações provenientes da totalidade, ou de parte, do país terceiro em questão e, eventualmente, do país terceiro de trânsito;
 
@@ -374,7 +379,7 @@ a) Apreensão e destruição do lote;
 
 b) Informação imediata dos demais postos de inspecção fronteiriços e da Comissão sobre os factos constatados e a origem dos produtos, nos termos do n.º 4 do artigo 16.º
 
-###### Art. 19.º - 1 - Sempre que, na sequência dos resultados dos controlos realizados no local de comercialização dos produtos, o IPPAA considerar que as disposições do presente Regulamento não são observadas num posto de inspecção fronteiriço, num dos pontos de passagem a que se refere a alínea a) do n.º 2 do artigo 4.º num porto franco ou numa zona franca, ou num entreposto franco de outro Estado membro, deve informar imediatamente a competente autoridade central deste último, devendo esta tomar todas as medidas necessárias e comunicar ao IPPAA a natureza dos controlos efectuados, as decisões e os motivos dessas decisões.
+Art. 19.º - 1 - Sempre que, na sequência dos resultados dos controlos realizados no local de comercialização dos produtos, o IPPAA considerar que as disposições do presente Regulamento não são observadas num posto de inspecção fronteiriço, num dos pontos de passagem a que se refere a alínea a) do n.º 2 do artigo 4.º num porto franco ou numa zona franca, ou num entreposto franco de outro Estado membro, deve informar imediatamente a competente autoridade central deste último, devendo esta tomar todas as medidas necessárias e comunicar ao IPPAA a natureza dos controlos efectuados, as decisões e os motivos dessas decisões.
 
 2 - Quando os controlos referidos no n.º 1 permitirem verificar um incumprimento repetido das disposições do presente diploma, o IPPAA informará a Comissão e as autoridades competentes dos outros Estados membros.
 
@@ -384,7 +389,7 @@ b) Informação imediata dos demais postos de inspecção fronteiriços e da Com
 
 #### SECÇÃO IV — Disposições finais
 
-###### Art. 20.º O presente Regulamento não afecta as obrigações decorrentes das regulamentações aduaneiras.
+Art. 20.º O presente Regulamento não afecta as obrigações decorrentes das regulamentações aduaneiras.
 
 ## ANEXO
 

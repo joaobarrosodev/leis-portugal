@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07400/0127801278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/62/2016/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/62-2016-74163189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b68c2817d936bf01c4a47cb941f45a27cdc4fd3f1e098b79033518a07824cb20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d7a1e5096d5387c265c2f6886e9d5c4257e3769b2fa991b6e3f831b27f7d968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
 - Cargo Público
 - Cargos Políticos
-- Pessoal Dirigente
+- Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas
 - Corrupção
+- Funcionário Público
 - Gestor Público
 - Incompatibilidades
 - Mandato
 - Órgãos de Soberania
-- Funcionário Público
-- Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas
+- Pessoal Dirigente
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:122050354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75727289:por
+  label: Suspensa entre 27 de outubro e 1 de dezembro de 2016, inclusive, a contagem do prazo de funcionamento da Comissão
+    Eventual para o Reforço da Transparência no Exercício de Funções Pública, constituída pela presente Resolução, e prorrogado
+    o referido prazo por mais noventa dias a contar daquela data, pelo(a) Resolução da Assembleia da República n.º 222/2016
+    - Diário da República n.º 218/2016, Série I de 2016-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/222-2016-75727289
+  date: '2016-11-14'
+- type: amended_by
+  target: pt:dre:106589743:por
+  label: Prorrogado, por mais 120 dias, o prazo de funcionamento da Comissão Eventual, pela Resolução da Assembleia da República
+    n.º 41/2017 - Diário da República n.º 51/2017, Série I de 2017-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/41-2017-106589743
+  date: '2017-03-13'
+- type: amended_by
+  target: pt:dre:107692696:por
+  label: Prorrogado, por mais 120 dias, o prazo de funcionamento da Comissão Eventual pelo(a) Resolução da Assembleia da República
+    n.º 150/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/150-2017-107692696
+  date: '2017-07-14'
+- type: amended_by
+  target: pt:dre:108316314:por
+  label: Suspendido, entre 19 de julho e 29 de novembro de 2017, a contagem do prazo de funcionamento da Comissão Eventual
+    para o Reforço da Transparência no Exercício de Funções Públicas, constituída pelo presente diploma, pelo(a) Resolução
+    da Assembleia da República n.º 233/2017 - Diário da República n.º 200/2017, Série I de 2017-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/233-2017-108316314
+  date: '2017-10-17'
+- type: amended_by
+  target: pt:dre:115132732:por
+  label: Prorrogado, até ao final da 3.ª sessão legislativa, o prazo de funcionamento da Comissão Eventual constituída pela
+    presente resolução, pelo(a) Resolução da Assembleia da República n.º 114/2018 - Diário da República n.º 76/2018, Série
+    I de 2018-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/114-2018-115132732
+  date: '2018-04-18'
+- type: amended_by
+  target: pt:dre:115814342:por
+  label: Prorrogado até ao final do primeiro trimestre de 2019 o prazo de funcionamento da Comissão Eventual pelo(a) Resolução
+    da Assembleia da República n.º 224/2018 - Diário da República n.º 146/2018, Série I de 2018-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/224-2018-115814342
+  date: '2018-07-31'
+- type: amended_by
+  target: pt:dre:122050354:por
+  label: Prorrogada até ao final do primeiro semestre de 2019 o prazo de funcionamento da Comissão Eventual constituída pelo
+    presente diploma, pelo(a) Resolução da Assembleia da República n.º 55/2019 - Diário da República n.º 70/2019, Série I
+    de 2019-04-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/55-2019-122050354
+  date: '2019-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/64/2014/07/10/p/dre
   label: null
@@ -88,13 +135,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:30Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +188,4 @@ d) Medidas enquadradas na Declaração para a Abertura e Transparência Parlamen
 
 Aprovada em 8 de abril de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

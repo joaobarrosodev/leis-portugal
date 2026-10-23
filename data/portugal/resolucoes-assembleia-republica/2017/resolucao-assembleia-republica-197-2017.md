@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15400/0457704577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/197/2017/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/197-2017-107986167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:50:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9649c0e7d9eb61655e1a386c13276409219e8e9262e51c22ae26fbcd28c021c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fba94787519c6ee34c72b6bd750159d21870be7d64caccd1d0b97190ca8da968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:50:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
 subjects:
 - Agência de Publicidade
 - Agência de Turismo
-- Turismo
-- Promoção Turística
-- Investigação Científica e Tecnológica
+- Autarquia Local
+- Cooperação Científica
+- Ensino Superior
 - Estabelecimento Hoteleiro
 - Informação Turística
 - Interesse para o Turismo
-- Universidade
-- Cooperação Científica
+- Investigação Científica e Tecnológica
 - Política de Investigação e Desenvolvimento
+- Promoção Turística
 - Recomendação
-- Ensino Superior
 - Setor Empresarial
 - Setor Privado
 - Setor Público
-- Autarquia Local
+- Turismo
+- Universidade
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:50:43Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +123,4 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 30 de junho de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/770/1993/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1993-632878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c10cdd27ed8592bd428f4218a9a49d73be2f0c0c2c439f0511890fba699a8f34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bee2ff700891540b8a2406b7a06609b54884fc8b648ca4d114ea0f39591d7b75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Regional
+- Financiamento
 - Programa Interreg
 - Região Fronteiriça
 relationships:
@@ -78,13 +78,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:39Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +115,6 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Teritório, da Indústria e Energia, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 28 de Junho de 1993.**
+Assinada em 28 de Junho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

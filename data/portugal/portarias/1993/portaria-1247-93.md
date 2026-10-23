@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1247/1993/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1247-1993-554137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16243c3f3d98a132cfcf3523d775e984ed6487a4f4dce146febf59034894933d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b83700a33daaf0be470b8690eb3c8d97bde41243ab677d0c4a1344c1125ed724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Criação de Lugares
-- Universidade NOVA de Lisboa
 - Instituto de Higiene e Medicina Tropical
+- Investigador
 - Pessoal Administrativo
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pessoal Técnico Superior
 - Quadro de Pessoal
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:257245:por
@@ -87,16 +87,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1074/1992/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1074/1992/11/21/p/dre
+- type: cites
+  target: pt:dre:261128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:48Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +141,7 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e da Educação.
 
-**Assinada em 4 de Novembro de 1993.**
+Assinada em 4 de Novembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e do Desenvolvimento Regional. - O Ministro da Educação, António Fernando Couto dos Santos.
 
@@ -125,16 +149,16 @@ MAPA I
 
 Instituto de Higiene e Medicina Tropical
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf))](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)
 
 MAPA II
 
 Faculdade de Ciências e Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf))](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)
 
 MAPA III
 
 Faculdade de Ciências Sociais e Humanas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf))](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/285b00/68026803.pdf)

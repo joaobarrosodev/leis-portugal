@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-1993-634678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b949dc4fe2844cbd4384616ded9b88942703c911489d8c4deaeea2152df42eed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f449961bb4f4bfacba7ae7d4a37ebacc078d6aecdd079a9902f3b13446c5ac5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
-- Lisboa
-- Política de Solos
-- Plano de Urbanização
 - Câmara Municipal
+- Lisboa
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 62
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:03Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +136,7 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Fevereiro de 1993.**
+Assinada em 10 de Fevereiro de 1993.
 
 Normas provisórias do Plano de Pormenor do Eixo Urbano Luz-Benfica
 
@@ -560,7 +580,7 @@ Para a instalação de equipamentos colectivos, designadamente de natureza escol
 
 1 - Nos loteamentos são obrigatórias as áreas de estacionamento estabelecidas nos artigos anteriores no interior dos lotes e, ainda, as áreas previstas no algoritmo seguinte, nos espaços exteriores aos lotes anexos às vias de circulação, espaços esses a integrar no domínio público municipal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)
 
 2 - O disposto no número anterior poderá ser dispensado nos lotes destinados a construções de habitação social e de habitação de custos controlados, relativamente aos quais apenas será exigível uma área para estacionamento nos espaços públicos anexos às vias de circulação rodoviária equivalente a um carro por fogo para residentes e ainda meio lugar por fogo para visitantes.
 
@@ -592,7 +612,9 @@ e) Quando da impossibilidade ou da inconveniência de natureza técnica, nomeada
 
 ### CAPÍTULO V — Regime específico das subunidades de gestão
 
-#### SECÇÃO I — Artigo 41.º
+#### SECÇÃO I
+
+###### Artigo 41.º
 
 Regime das subunidades de gestão
 
@@ -618,7 +640,9 @@ f) As subunidades de gestão 7.1 e 7.3 são áreas de equipamentos colectivos;
 
 2) As subunidades de gestão 3.3 e 3.5 ficam sujeitas aos estudos específicos anexos, que fazem parte integrante deste regulamento.
 
-#### SECÇÃO II — Artigo 43.º
+#### SECÇÃO II
+
+###### Artigo 43.º
 
 Regime específico da subunidade
 
@@ -630,7 +654,9 @@ Nesta subunidade poderá ser licenciado empreendimento subordinado aos seguintes
 
 3) Área de estacionamento em cave (incluindo zonas técnicas): 201 388 m2.
 
-#### SECÇÃO III — Artigo 44.º
+#### SECÇÃO III
+
+###### Artigo 44.º
 
 Regime específico da subunidade 3.3
 
@@ -652,7 +678,9 @@ Nesta subunidade poderá ser licenciada ocupação edificada subordinada aos seg
 
 8) Os edifícios deverão ter tratamento de fachadas de igual qualidade tanto para a Avenida do Colégio Militar como para o arruamento pedonal a construir entre os edifícios e a zona verde da Quinta da Granja de Baixo.
 
-#### SECÇÃO IV — Artigo 45.º
+#### SECÇÃO IV
+
+###### Artigo 45.º
 
 Regime específico da subunidade 3.4
 
@@ -668,7 +696,9 @@ Nesta subunidade poderá ser licenciada ocupação edificada subordinada aos seg
 
 5) Os edifícios deverão ter tratamento de fachadas de igual qualidade em todos eles.
 
-#### SECÇÃO V — Artigo 46.º
+#### SECÇÃO V
+
+###### Artigo 46.º
 
 Regime específico da subunidade 3.5
 
@@ -682,7 +712,9 @@ Nesta subunidade poderá ser licenciada ocupação edificada subordinada aos seg
 
 4) Os licenciamentos de construção deverão respeitar o estudo específico anexo às presentes normas.
 
-#### SECÇÃO VI — Artigo 47.º
+#### SECÇÃO VI
+
+###### Artigo 47.º
 
 Regime específico da subunidade 4.1
 
@@ -696,7 +728,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 4) A volumetria existente deve ser mantida.
 
-#### SECÇÃO VII — Artigo 48.º
+#### SECÇÃO VII
+
+###### Artigo 48.º
 
 Regime específico da subunidade 4.2
 
@@ -712,7 +746,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 5) É autorizada a reconversão para usos comerciais do piso térreo com acesso principal pela Rua do Prof. Santos Lucas.
 
-#### SECÇÃO VIII — Artigo 49.º
+#### SECÇÃO VIII
+
+###### Artigo 49.º
 
 Regime específico da subunidade 4.3
 
@@ -728,7 +764,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 5) É autorizado o remate da banda de edifícios a poente, mas os projectos de arquitectura devem proceder ao estudo dos arranjos exteriores, prevendo solução que valorize a passagem para peões através do piso vazado existente no edifício com o n.º 6 da Avenida do Uruguai.
 
-#### SECÇÃO IX — Artigo 50.º
+#### SECÇÃO IX
+
+###### Artigo 50.º
 
 Regime específico da subunidade 4.4
 
@@ -744,13 +782,17 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 5) É autorizada a reconversão do piso térreo para usos comerciais.
 
-#### SECÇÃO X — Artigo 51.º
+#### SECÇÃO X
+
+###### Artigo 51.º
 
 Regime específico da subunidade 4.5
 
 Deverão manter-se nesta subunidade os usos, a volumetria e a área de implantação.
 
-#### SECÇÃO XI — Artigo 52.º
+#### SECÇÃO XI
+
+###### Artigo 52.º
 
 Regime específico da subunidade 4.6
 
@@ -768,7 +810,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 6) As construções no troço confinante com os terrenos da Escola Preparatória da Quinta de Marrocos devem prever a abertura de frentes comerciais a tardoz, viradas para a passagem pública de peões, a criar.
 
-#### SECÇÃO XII — Artigo 53.º
+#### SECÇÃO XII
+
+###### Artigo 53.º
 
 Regime específico da subunidade 5.1
 
@@ -780,7 +824,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 3) A área de implantação máxima permitida é de 12075 m2.
 
-#### SECÇÃO XIII — Artigo 54.º
+#### SECÇÃO XIII
+
+###### Artigo 54.º
 
 Regime específico da subunidade 6.1
 
@@ -798,7 +844,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 6) O licenciamento de construção deverá ser subordinado à condição da prévia cedência para o domínio público de uma faixa de terreno situada no lado nascente da Rua de José Rodrigues Miguéis, com vista à constituição de corredor arborizado.
 
-#### SECÇÃO XIV — Artigo 55.º
+#### SECÇÃO XIV
+
+###### Artigo 55.º
 
 Regime específico da subunidade 6.2
 
@@ -814,7 +862,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 5) A área de estacionamento prevista no edifício do Centro Comercial Fonte Nova deverá articular-se com as soluções propostas para o estacionamento constantes do estudo específico para a subunidade 6.3.
 
-#### SECÇÃO XV — Artigo 56.º
+#### SECÇÃO XV
+
+###### Artigo 56.º
 
 Regime específico da subunidade 6.4
 
@@ -828,7 +878,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 4) A volumetria existente deve ser mantida.
 
-#### SECÇÃO XVI — Artigo 57.º
+#### SECÇÃO XVI
+
+###### Artigo 57.º
 
 Regime específico da subunidade 8.1
 
@@ -842,7 +894,9 @@ Nesta subunidade poderá licenciar-se ocupação subordinada aos seguintes condi
 
 4) A volumetria existente deve ser mantida.
 
-#### SECÇÃO XVII — Artigo 58.º
+#### SECÇÃO XVII
+
+###### Artigo 58.º
 
 Regime específico da subunidade 8.3
 
@@ -878,7 +932,7 @@ As disposições constantes do capítulo IV são aplicáveis a todas a pretensõ
 
 ## ANEXO I — Estacionamento e garagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)
 
 ## ANEXO II — Caução
 
@@ -950,4 +1004,4 @@ A importância total desta garantia é, assim, de ... (extenso), correspondente 
 
 Observações. - Qualquer rasura deverá ser ressalvada e as assinaturas devem ser reconhecidas na qualidade. Esta garantia será aceite depois de visada pelo Departamento de Administração Geral desta Câmara (Avenida de 24 de Julho, 171, Lisboa).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13271337.pdf)

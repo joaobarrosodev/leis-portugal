@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15700/0005700069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/142/2019/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/142-2019-124044594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50089bd1d293dfb64ba6298a2b628e1db25e369a1a048a7255a957656810057f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8607874e634c44bf2efac7312a6a35e9ea0d4d8fb4e526eb1deaa9f5278586dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
-- Lisboa
-- Instalação de Serviços
 - FAO
+- Instalação de Serviços
+- Lisboa
+- ONU
+- Portugal
 - Roma
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:124044591:por
+  label: Ratificado o Acordo aprovado pela presente Resolução pelo(a) Decreto do Presidente da República n.º 50/2019 - Diário
+    da República n.º 157/2019, Série I de 2019-08-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2019-124044591
+  date: '2019-08-19'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:59Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 28 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A ALIMENTAÇÃO E AGRICULTURA PARA O ESTABELECIMENTO DE UM ESCRITÓRIO DE LIGAÇÃO E PARCERIA DA ORGANIZAÇÃO EM LISBOA
 
@@ -558,3 +564,5 @@ With specific reference to "Partnership and Liaison Office with Portugal and CPL
 5 - FAO shall produce an annual report on the activities of the Office, which shall include in an appropriate manner, the financial statements related to the Portuguese contributions managed by FAO, in accordance with the financial rules of the Organization.
 
 6 - Other entities may make available additional contributions for the activities of the Office, which will be subject to revision by the joint Partnership Committee. These additional contributions may be formalized in the terms agreed between the Parties.
+
+172019

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21400/0012300170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/224/2019/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/224-2019-125933888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2688d6f516eba10116204ded142f25fb846076596cbc24ef6ad556b1b34e41bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dcc66145572421ec98d20a522cee39869147658310caebb63f369d3f8006216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pescador
 - Convenção
-- Portugal
-- Pesca
-- OIT
 - Genebra
-relationships: []
+- OIT
+- Pesca
+- Pescador
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:125933884:por
+  label: Ratificada a Convenção aprovada pela presente resolução, pelo(a) Decreto do Presidente da República n.º 69/2019 -
+    Diário da República n.º 214/2019, Série I de 2019-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/69-2019-125933884
+  date: '2019-11-07'
 article_structure:
   article_count: 54
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 CONVENTION 188
 
@@ -1103,7 +1109,7 @@ Após ter decidido que estas propostas tomariam a forma de uma convenção inter
 
 adota, neste dia catorze de junho de dois mil e sete, a seguinte Convenção, que será denominada Convenção relativa ao Trabalho no Sector da Pesca, 2007.
 
-# PARTE I — Definições e campo de aplicação
+## PARTE I — Definições e campo de aplicação
 
 Definições
 
@@ -1213,7 +1219,7 @@ b) Nos relatórios posteriores sobre a aplicação da Convenção, descrever as 
 
 2 - Nos relatórios apresentados ao abrigo do artigo 22.º da Constituição, o Membro deverá comunicar os motivos da decisão tomada por força do presente artigo e as observações formuladas no âmbito da consulta.
 
-# PARTE II — Princípios gerais
+## PARTE II — Princípios gerais
 
 Aplicação
 
@@ -1253,7 +1259,7 @@ d) No respeito pelas normas de segurança da navegação e vigilância e pelas b
 
 4 - Os pescadores devem respeitar as ordens legais do comandante, mestre ou arrais e as medidas de segurança e saúde aplicáveis.
 
-# PARTE III — Condições mínimas para o trabalho a bordo dos navios de pesca
+## PARTE III — Condições mínimas para o trabalho a bordo dos navios de pesca
 
 Idade mínima
 
@@ -1317,7 +1323,7 @@ b) O interessado não tem nenhum problema de saúde que possa ser agravado pelo 
 
 3 - Se o período de validade do certificado caducar durante uma viagem, o certificado permanece válido até ao fim dessa viagem.
 
-# PARTE IV — Condições de serviço
+## PARTE IV — Condições de serviço
 
 Tripulação e duração do descanso
 
@@ -1433,7 +1439,7 @@ Todos os Membros devem adotar, após consulta, legislação ou outras medidas qu
 
 Todos os Membros devem exigir que todos os pescadores que trabalham a bordo de navios de pesca possam fazer chegar gratuitamente às suas famílias, no todo ou em parte, o montante recebido, incluindo os adiantamentos.
 
-# PARTE V — Alojamento e alimentação
+## PARTE V — Alojamento e alimentação
 
 ###### Artigo 25.º
 
@@ -1473,7 +1479,7 @@ c) A alimentação e a água potável sejam fornecidas ao pescador gratuitamente
 
 2 - Um Membro que não esteja em condições de aplicar as disposições do anexo iii pode, após consulta, adotar na sua legislação disposições ou outras medidas equivalentes no conjunto às disposições enunciadas no anexo iii, à exceção das disposições que se referem ao artigo 27.º
 
-# PARTE VI — Cuidados médicos, proteção da saúde e segurança social
+## PARTE VI — Cuidados médicos, proteção da saúde e segurança social
 
 Cuidados médicos
 
@@ -1591,7 +1597,7 @@ b) Quer por um regime de seguro obrigatório de indemnização dos trabalhadores
 
 2 - A legislação nacional pode prever isentar o armador de pesca da responsabilidade caso o acidente não tenha ocorrido ao serviço do navio de pesca ou se a doença ou a lesão foi dissimulada no momento da contratação ou se o acidente ou a doença for imputável a falta intencional do pescador.
 
-# PARTE VII — Cumprimento e aplicação
+## PARTE VII — Cumprimento e aplicação
 
 ###### Artigo 40.º
 
@@ -1631,7 +1637,7 @@ tenham a bordo um documento válido emitido pela autoridade competente, comprova
 
 Todos os Membros deverão aplicar a presente Convenção de forma a garantir que os navios de pesca que arvoram a bandeira de um Estado que não ratificou a Convenção não beneficiem de um tratamento mais favorável que o concedido aos navios que arvoram a bandeira de um Membro que a ratificou.
 
-# PARTE VIII — Emendas aos anexos i, ii e iii
+## PARTE VIII — Emendas aos anexos i, ii e iii
 
 ###### Artigo 45.º
 
@@ -1639,7 +1645,7 @@ Todos os Membros deverão aplicar a presente Convenção de forma a garantir que
 
 2 - Todas as emendas adotadas em conformidade com o n.º 1 do presente artigo entram em vigor seis meses após a data da sua adoção por um Membro que tenha ratificado a presente Convenção, a menos que o Membro em questão tenha notificado por escrito o Diretor-Geral do Secretariado Internacional do Trabalho dando conta de que essa emenda não entrará em vigor para esse Membro ou só entrará em vigor no seguimento de uma nova notificação.
 
-# PARTE IX — Disposições finais
+## PARTE IX — Disposições finais
 
 ###### Artigo 46.º
 
@@ -2002,3 +2008,5 @@ Os resultados dessas inspeções e as medidas adotadas para remediar as deficiê
 Derrogações
 
 84 - A autoridade competente pode, após consulta, permitir derrogações às disposições do presente anexo para ter em atenção, sem discriminação, os interesses dos pescadores com práticas religiosas e sociais diferentes e específicas, desde que daí não resultem condições que, no conjunto, seriam menos favoráveis do que aquelas que resultariam da aplicação deste anexo.
+
+282019

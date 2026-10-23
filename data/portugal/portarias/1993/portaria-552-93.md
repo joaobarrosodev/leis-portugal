@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/552/1993/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1993-283551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5943c0a036dc4248a8e04538ff53bb725aba49f0736bc8c9ec6a91d5386247a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af29aec0a42e89dcf8cfe1478c4f7b3a03bf302522914f0d9b79cfecb30c6dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,54 @@ subjects:
 - Regulamento
 - Santo Tirso
 relationships:
+- type: amended_by
+  target: pt:dre:1206263:por
+  label: Tornado público a aprovação da alteração ao Plano de Pormenor da Quinta de Geão, ratificado pela presente Portaria,
+    pelo(a) Declaração n.º 90/2003 (2.ª série) - Diário da República n.º 54/2003, Série II de 2003-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/90-2003-1206263
+  date: '2003-03-05'
+- type: amended_by
+  target: pt:dre:75137825:por
+  label: Tornado público a aprovação da suspensão parcial, e das correspondentes medidas preventivas, do Plano de Pormenor
+    da Quinta de Geão, ratificado pela presente Portaria e alterado pela Decl 90/2003 de 05-mar, pelo(a) Aviso n.º 10023/2016
+    - Diário da República n.º 155/2016, Série II de 2016-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10023-2016-75137825
+  date: '2016-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285679:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 160/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-B, 204 SUPL, DE 930831.\0\
+    30831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/160-1993-285679
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:41Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +140,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 31 de Março de 1993.**
+Assinada em 31 de Março de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
@@ -194,14 +228,14 @@ c) Nos muros de meação de lotes contíguos serão adoptadas as soluções mais
 
 3.5 - Excepções - com carácter excepcional poderão admitir-se soluções apresentadas em projectos de inegável qualidade arquitectónica, e como tal reconhecidos pela Câmara Municipal, subscritos por arquitecto, e que eventualmente não cumpram integralmente o disposto no presente artigo, desde que as referidas soluções respeitem ou reforcem o espírito geral da proposta do Plano e se justifiquem por uma correcta relação com o terreno e com a envolvente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf))](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)
 
 Quadro síntese
 
 Habitação unifamiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf))](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)
 
 Habitação colectiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf))](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/125b00/29312934.pdf)

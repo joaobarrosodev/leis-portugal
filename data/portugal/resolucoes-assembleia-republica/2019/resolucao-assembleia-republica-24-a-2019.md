@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 33/2019, 1º Suplemento, Série I de 2019-02-15
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1270-(2) a 1270-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03301/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24-a/2019/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-a-2019-119685080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2be22308cdf860cf178a9fb6dc5f053d6f79df72618fe3c11199750ee027babc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c405c55bec16b3d0bd26888677053ea4d47c8c37ed509f554dc8665f8b079a1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:122651138:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122651138:por
+  label: Prorrogado o prazo de funcionamento da Comissão Parlamentar de Inquérito constituída pelo presente diploma pelo(a)
+    Resolução da Assembleia da República n.º 88/2019 - Diário da República n.º 118/2019, Série I de 2019-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/88-2019-122651138
+  date: '2019-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -89,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:04:14Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +128,6 @@ d) Avaliar o impacto destas práticas de crédito nas necessidades da recapitali
 
 Aprovada em 15 de fevereiro de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+112074487

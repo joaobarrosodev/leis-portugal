@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/639/1993/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/639-1993-376798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56281479fd689267d0e35a1ab27ab94eb4a2d53195e6d02246fab20eb3bc6125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5daf3ddd54cef94fe0142860b7eff635937c0baed413a2bd87b5378f7b1aefd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,40 @@ reuse:
 subjects:
 - Aveiro
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:02Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +123,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Junho de 1993.**
+Assinada em 1 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Plano de Pormenor Urbanístico da Bica (Azurva)
 
@@ -123,9 +139,9 @@ O presente Regulamento abrange uma área de cerca de 17,60 ha, numa zona de cons
 
 1.2 - O Regulamento Geral das Edificações Urbanas (RGEU), nomeadamente no que respeita aos artigos 121.º e 122.º, que se transcrevem e, para todos os efeitos, fazem parte integrante do presente Regulamento, é de cumprimento genérico e obrigatório:
 
-###### Art. 121.º As construções em zonas urbanas ou rurais, seja qual for a natureza e o fim a que se destinam, deverão ser delineadas, executadas e mantidas de forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se.
+Art. 121.º As construções em zonas urbanas ou rurais, seja qual for a natureza e o fim a que se destinam, deverão ser delineadas, executadas e mantidas de forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se.
 
-###### Art. 122.º O disposto no artigo anterior aplica-se integralmente nas obras de conservação, reconstrução ou transformação de construções existentes.
+Art. 122.º O disposto no artigo anterior aplica-se integralmente nas obras de conservação, reconstrução ou transformação de construções existentes.
 
 1.3 - Não poderão existir quaisquer construções susceptíveis de comprometerem, pela sua localização, a aparência ou proporções, o aspecto das povoações ou dos conjuntos arquitectónicos, edifícios e locais de reconhecido interesse histórico ou de prejudicar a beleza das paisagens.
 
@@ -179,4 +195,4 @@ d) Nos lotes de habitação deverá ser prevista uma zona coberta ou não destin
 
 4 - A matéria deste Regulamento é aplicável a todas as edificações e espaços livres abrangidos pelo presente Plano de Pormenor. Em todos os casos omissos prevalecerão as determinações legais contidas no RGEU, sendo os ajustes ao Plano executados pelo município, sempre que se entendam necessários à boa implementação deste.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/155b00/36583659.pdf))](https://files.diariodarepublica.pt/1s/1993/07/155b00/36583659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/155b00/36583659.pdf)

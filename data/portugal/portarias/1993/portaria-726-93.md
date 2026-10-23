@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/187b00/42824289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726/1993/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1993-354880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 607a83a520c1188a3c8c06845cd6137530f2aafd4dc648629c8e9fcf02119769
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f80e037c2ba75a83915bb4b107016ba481e3e8f1ea352a9fdc7689b21e71d187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Ave
+- Ave de Capoeira
 - CEE
 - Controlo Sanitário
-- Ave de Capoeira
+- Doença Animal
 - Política Agrícola Comum
-- Ave
 - Regulamento
 relationships:
 - type: amended_by
@@ -97,16 +97,21 @@ relationships:
   target: celex:31992L0066
   label: null
   source: http://data.europa.eu/eli/dir/1992/66/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:27Z'
   warnings: []
   errors: []
 ---
@@ -125,15 +130,15 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 2 de Agosto de 1993.**
+Assinada em 2 de Agosto de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 726/93
+Anexo a que se refere a Portaria n.º 726/93
 
 Regulamento das Medidas a Aplicar em Caso de Aparecimento da Doença de Newcastle
 
-###### Artigo 1.º - 1 - O presente Regulamento define, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas a aplicar em caso de aparecimento da doença de Newcastle:
+Artigo 1.º - 1 - O presente Regulamento define, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas a aplicar em caso de aparecimento da doença de Newcastle:
 
 a) Em aves de capoeira, nas explorações avícolas;
 
@@ -141,7 +146,7 @@ b) Em pombos-correios e outras aves mantidas em cativeiro.
 
 2 - O presente Regulamento não se aplica em caso de detecção da doença de Newcastle nas aves selvagens vivendo em liberdade.
 
-###### Art. 2.º - 1 - Para efeitos deste Regulamento são aplicáveis as definições constantes do artigo 2.º do Regulamento aprovado pela Portaria n.º 231/93, de 27 de Fevereiro.
+Art. 2.º - 1 - Para efeitos deste Regulamento são aplicáveis as definições constantes do artigo 2.º do Regulamento aprovado pela Portaria n.º 231/93, de 27 de Fevereiro.
 
 2 - Consideram-se, ainda, as seguintes definições:
 
@@ -161,9 +166,9 @@ g) «Pombo-correio» - qualquer pombo que seja transportado, ou se destine a ser
 
 h) «Pombal» - qualquer instalação utilizada para a detenção ou a criação de pombos-correios.
 
-###### Art. 3.º Qualquer suspeita da doença de Newcastle deve ser notificada de imediato aos serviços regionais de agricultura e ao IPPAA.
+Art. 3.º Qualquer suspeita da doença de Newcastle deve ser notificada de imediato aos serviços regionais de agricultura e ao IPPAA.
 
-###### Art. 4.º - 1 - Quando, numa exploração, existam aves de capoeira suspeitas de estarem infectadas ou contaminadas pela doença de Newcastle, o veterinário oficial deve, utilizando-se dos meios oficiais para confirmar ou infirmar a presença da referida doença, proceder ou mandar proceder às colheitas de amostras necessárias às análises laboratoriais.
+Art. 4.º - 1 - Quando, numa exploração, existam aves de capoeira suspeitas de estarem infectadas ou contaminadas pela doença de Newcastle, o veterinário oficial deve, utilizando-se dos meios oficiais para confirmar ou infirmar a presença da referida doença, proceder ou mandar proceder às colheitas de amostras necessárias às análises laboratoriais.
 
 2 - Após a notificação da suspeita, a autoridade competente mandará colocar sob vigilância oficial a exploração e ordenará, nomeadamente, que:
 
@@ -191,7 +196,7 @@ g) Seja realizado um inquérito epidemiológico nos termos do disposto no artigo
 
 5 - As medidas referidas nos n.os 1 e 2 só serão levantadas quando a suspeita da doença de Newcastle for infirmada pelo veterinário oficial.
 
-###### Art. 5.º - 1 - A autoridade competente, logo que a presença da doença de Newcastle numa exploração for confirmada, pode determinar, em complemento das medidas enumeradas no n.º 2 do artigo anterior, a execução das seguintes medidas:
+Art. 5.º - 1 - A autoridade competente, logo que a presença da doença de Newcastle numa exploração for confirmada, pode determinar, em complemento das medidas enumeradas no n.º 2 do artigo anterior, a execução das seguintes medidas:
 
 a) Abate imediato, no local, de todas as aves de capoeira existentes na exploração, devendo ser destruídas todas as aves de capoeira que tenham morrido, ou que tenham sido abatidas, bem como os seus ovos, operações estas que devem ser efectuadas de modo a reduzir ao mínimo o risco de propagação da doença;
 
@@ -221,9 +226,9 @@ b) Nenhuma ave abandone a exploração, excepto para ser conduzida directamente 
 
 5 - A carne fresca proveniente das aves a que se refere o n.º 3 do presente artigo deve ostentar a marca de salubridade prevista no n.º 1 do artigo 5.º da Directiva n.º [91/494/CEE](http://data.europa.eu/eli/dir/1991/494/oj?locale=pt).
 
-###### Art. 6.º Para as explorações com dois ou mais bandos distintos, a autoridade competente pode, com base em critérios a estabelecer, prever derrogações às exigências do n.º 1 do artigo 5.º, no que respeita aos bandos saudáveis, desde que o veterinário oficial tenha confirmado que as operações aí efectuadas asseguram a completa separação dos bandos no que diz respeito ao alojamento, ao tratamento e à alimentação, de tal modo que o vírus não pode propagar-se de um bando para outro.
+Art. 6.º Para as explorações com dois ou mais bandos distintos, a autoridade competente pode, com base em critérios a estabelecer, prever derrogações às exigências do n.º 1 do artigo 5.º, no que respeita aos bandos saudáveis, desde que o veterinário oficial tenha confirmado que as operações aí efectuadas asseguram a completa separação dos bandos no que diz respeito ao alojamento, ao tratamento e à alimentação, de tal modo que o vírus não pode propagar-se de um bando para outro.
 
-###### Art. 7.º - 1 - O inquérito epidemiológico abrangerá:
+Art. 7.º - 1 - O inquérito epidemiológico abrangerá:
 
 a) A duração do período durante o qual a doença de Newcastle pode ter existido na exploração ou no pombal;
 
@@ -233,7 +238,7 @@ c) Os movimentos de pessoas, aves de capoeira, pombos, outras aves mantidas em c
 
 2 - Deverá ser criada uma célula de crise, cujas regras de funcionamento serão estabelecidas de acordo com o procedimento comunitariamente previsto, para efeitos de realização do inquérito epidemiológico e coordenação das medidas necessárias para assegurar, no mais breve prazo, a erradicação da doença de Newcastle.
 
-###### Art. 8.º - 1 - Quando o veterinário oficial suspeitar que, em qualquer exploração, existem aves de capoeira que podem ter sido contaminadas devido à circulação de pessoas, animais ou veículos, ou outro meio, essa exploração será colocada sob controlo oficial.
+Art. 8.º - 1 - Quando o veterinário oficial suspeitar que, em qualquer exploração, existem aves de capoeira que podem ter sido contaminadas devido à circulação de pessoas, animais ou veículos, ou outro meio, essa exploração será colocada sob controlo oficial.
 
 2 - O controlo oficial referido no número anterior tem como objectivo detectar imediatamente qualquer suspeita de doença de Newcastle, proceder ao recenseamento e ao controlo dos movimentos de aves de capoeira, bem como, se for caso disso, executar a acção prevista no número seguinte.
 
@@ -247,7 +252,7 @@ c) Os movimentos de pessoas, aves de capoeira, pombos, outras aves mantidas em c
 
 7 - Quando o veterinário oficial suspeite que os pombos-correios ou um determinado pombal se encontram contaminados pelo vírus da doença de Newcastle, tomará todas as medidas necessárias para que sejam aplicadas a esse pombal medidas de restrição, incluindo a proibição do transporte de pombos-correios para fora do pombal durante 21 dias.
 
-###### Art. 9.º - 1 - Logo que o diagnóstico da doença de Newcastle for oficialmente confirmado em aves de capoeira, a autoridade competente delimitará, em redor da exploração infectada, uma zona de protecção com um raio mínimo de 3 km e uma zona de vigilância com um raio mínimo de 10 km, devendo ter em conta, na delimitação dessas zonas, factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a doença de Newcastle e as estruturas de controlo.
+Art. 9.º - 1 - Logo que o diagnóstico da doença de Newcastle for oficialmente confirmado em aves de capoeira, a autoridade competente delimitará, em redor da exploração infectada, uma zona de protecção com um raio mínimo de 3 km e uma zona de vigilância com um raio mínimo de 10 km, devendo ter em conta, na delimitação dessas zonas, factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a doença de Newcastle e as estruturas de controlo.
 
 2 - As medidas aplicadas na zona de protecção incluirão:
 
@@ -301,13 +306,13 @@ g) Sem prejuízo do disposto nas alíneas a) e b), a proibição do transporte d
 
 7 - Sempre que o inquérito epidemiológico previsto no artigo 7.º confirme que o foco se deve a uma infecção que não apresenta qualquer extensão, a dimensão e a duração da aplicação das medidas relativas às zonas de protecção e de vigilância podem ser reduzidas de acordo com o procedimento comunitariamente previsto.
 
-###### Art. 10.º - 1 - Cabe à autoridade competente fixar as regras que lhe permitam determinar os movimentos dos ovos das aves de capoeira e das aves mantidas em cativeiro.
+Art. 10.º - 1 - Cabe à autoridade competente fixar as regras que lhe permitam determinar os movimentos dos ovos das aves de capoeira e das aves mantidas em cativeiro.
 
 2 - O proprietário ou o responsável pelas aves de capoeira e ou pelos pombos-correios está obrigado a apresentar à autoridade competente, sempre que a mesma lho solicite, as informações relativas às aves de capoeira e aos ovos que entrem ou saiam da sua exploração, bem como as informações relativas às competições ou exposições em que tenham participado os pombos-correios.
 
 3 - Todo aquele que proceda ao transporte ou ao comércio de aves de capoeira, de pombos-correios e de ovos de aves mantidas em cativeiro deve estar apto a apresentar à autoridade competente as informações relativas aos movimentos das aves de capoeira, dos pombos-correios e dos ovos que transportou ou comercializou, bem como todo e qualquer elemento relacionado com essas informações.
 
-###### Art. 11.º - 1 - Os desinfectantes a utilizar bem como as suas concentrações devem ser oficialmente aprovados pela autoridade competente.
+Art. 11.º - 1 - Os desinfectantes a utilizar bem como as suas concentrações devem ser oficialmente aprovados pela autoridade competente.
 
 2 - As operações de limpeza e desinfecção devem ser efectuadas sob vigilância oficial, em conformidade com:
 
@@ -315,9 +320,9 @@ a) As instruções do veterinário oficial;
 
 b) O processo de limpeza e desinfecção de explorações infectadas previsto no anexo II a este Regulamento.
 
-###### Art. 12.º As colheitas de amostras e as análises laboratoriais destinadas a detectar a presença do vírus da docença de Newcastle devem ser efectuadas em conformidade com o anexo II a este Regulamento.
+Art. 12.º As colheitas de amostras e as análises laboratoriais destinadas a detectar a presença do vírus da docença de Newcastle devem ser efectuadas em conformidade com o anexo II a este Regulamento.
 
-###### Art. 13.º - 1 - Cabe à autoridade competente designar:
+Art. 13.º - 1 - Cabe à autoridade competente designar:
 
 a) Um laboratório nacional com equipamentos e pessoal especializado que lhe permita proceder à definição das características antigénicas e biológicas do vírus da doença de Newcastle, bem como confirmar os resultados obtidos pelos laboratórios de diagnóstico regionais;
 
@@ -339,11 +344,11 @@ e) Devem assegurar a confirmação dos resultados positivos obtidos nos laborat�
 
 3 - Os laboratórios nacionais indicados no anexo IV cooperarão com o laboratório de referência comunitário previsto no artigo seguinte.
 
-###### Art. 14.º O laboratório comunitário de referência para a doença de Newcastle, suas competências e atribuições são definidas no anexo V a este Regulamento, sem prejuízo das disposições previstas na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt), nomeadamente no seu artigo 28.º
+Art. 14.º O laboratório comunitário de referência para a doença de Newcastle, suas competências e atribuições são definidas no anexo V a este Regulamento, sem prejuízo das disposições previstas na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt), nomeadamente no seu artigo 28.º
 
-###### Art. 15.º A vacinação contra a doença de Newcastle, por meio de vacinas cuja comercialização tenha sido autorizada pela autoridade competente, pode ser praticada no âmbito de medidas de profilaxia ou em complemento de medidas de luta adoptadas por ocasião do aparecimento da doença.
+Art. 15.º A vacinação contra a doença de Newcastle, por meio de vacinas cuja comercialização tenha sido autorizada pela autoridade competente, pode ser praticada no âmbito de medidas de profilaxia ou em complemento de medidas de luta adoptadas por ocasião do aparecimento da doença.
 
-###### Art. 16.º - 1 - Em caso de confirmação da doença de Newcastle e a fim de completar as outras medidas de luta previstas no presente Regulamento, a autoridade competente pode delimitar a zona territorial e o período em que será realizada, sob controlo oficial e no mais breve prazo possível, a vacinação sistemática, ou vacinação de urgência, das espécies de aves de capoeira designadas.
+Art. 16.º - 1 - Em caso de confirmação da doença de Newcastle e a fim de completar as outras medidas de luta previstas no presente Regulamento, a autoridade competente pode delimitar a zona territorial e o período em que será realizada, sob controlo oficial e no mais breve prazo possível, a vacinação sistemática, ou vacinação de urgência, das espécies de aves de capoeira designadas.
 
 2 - No caso previsto no número anterior, é proibida a vacinação ou a revacinação de aves de capoeira nas explorações sujeitas às restrições referidas no artigo 4.º
 
@@ -371,7 +376,7 @@ iii) Os ovos para incubação provenientes de aves de capoeira reprodutoras vaci
 
 5 - Em derrogação das alíneas a) e b) do n.º 3, a autoridade competente pode isentar da vacinação sistemática determinados bandos de aves de capoeira de especial valor científico, desde que seja assegurada a sua protecção sanitária e que esses bandos sejam submetidos a controlos serológicos periódicos.
 
-###### Art. 17.º - 1 - Perante a suspeita da existência de pombos-correios ou de aves mantidas em cativeiro infectados pela doença de Newcastle, o veterinário oficial deve aplicar de imediato os meios de investigação oficiais, com o objectivo de confirmar ou infirmar a presença da doença, devendo, em especial, efectuar ou mandar efectuar as colheitas adequadas para efeitos de análises laboratoriais.
+Art. 17.º - 1 - Perante a suspeita da existência de pombos-correios ou de aves mantidas em cativeiro infectados pela doença de Newcastle, o veterinário oficial deve aplicar de imediato os meios de investigação oficiais, com o objectivo de confirmar ou infirmar a presença da doença, devendo, em especial, efectuar ou mandar efectuar as colheitas adequadas para efeitos de análises laboratoriais.
 
 2 - Logo que a autoridade competente seja notificada, deverá mandar colocar o pombal ou a exploração sob vigilância oficial e, nomeadamente, proibir a saída destes de qualquer pombo ou ave mantida em cativeiro e de tudo o que possa transmitir a doença de Newcastle.
 
@@ -387,19 +392,19 @@ i) A proibição de transporte dos pombos ou de aves mantidas em cativeiro para 
 
 ii) A destruição ou tratamento de todas as matérias ou resíduos que possam estar contaminados, devendo o tratamento assegurar a destruição de todos os vírus da doença de Newcastle presentes e de todos os resíduos acumulados durante o período de 60 dias referido no ponto i).
 
-###### Art. 18.º - 1 - É probida a utilização, para alimentação das aves de capoeira, das águas de cozinha provenientes de meios de transporte internacionais, tais como navios, veículos terrestres e aeronaves, devendo essas águas ser recolhidas e destruídas sob controlo oficial.
+Art. 18.º - 1 - É probida a utilização, para alimentação das aves de capoeira, das águas de cozinha provenientes de meios de transporte internacionais, tais como navios, veículos terrestres e aeronaves, devendo essas águas ser recolhidas e destruídas sob controlo oficial.
 
 2 - A utilização, para alimentação das aves de capoeira, de águas de cozinha que não as referidas no número anterior ou de detritos de aves de capoeira só pode ser autorizada após terem sido submetidas a um tratamento pelo calor em instalações adequadas que assegurem a não transmissão da doença e a destruição do vírus da doença de Newcastle.
 
-###### Art. 19.º - 1 - A autoridade competente elaborará um plano de emergência, especificando as medidas nacionais a executar em caso de aparecimento da doença de Newcastle.
+Art. 19.º - 1 - A autoridade competente elaborará um plano de emergência, especificando as medidas nacionais a executar em caso de aparecimento da doença de Newcastle.
 
 2 - Esse plano deverá permitir o acesso do pessoal às instalações, ao equipamento e a qualquer outro material adequado, necessário para uma erradicação rápida e eficiente do foco, bem como fornecer uma indicação dos stocks de vacinas de que deve dispor para uma vacinação de emergência.
 
 3 - Os critérios a aplicar para a elaboração destes planos constam do anexo VII a este Regulamento.
 
-###### Art. 20.º - Os peritos da Comissão da Comunidade Europeia poderão efectuar controlos, em colaboração com as autoridades competentes, para verificação do cumprimento do disposto no presente Regulamento.
+Art. 20.º - Os peritos da Comissão da Comunidade Europeia poderão efectuar controlos, em colaboração com as autoridades competentes, para verificação do cumprimento do disposto no presente Regulamento.
 
-###### Art. 21.º - As condições da participação financeira da Comunidade nas acções decorrentes da aplicação da presente portaria são as definidas na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt).
+Art. 21.º - As condições da participação financeira da Comunidade nas acções decorrentes da aplicação da presente portaria são as definidas na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt).
 
 ## ANEXO I — Autorização para a saída de ovos de uma exploração sujeita às condições da alínea e) do n.º 2 do artigo 4.º
 
@@ -601,7 +606,7 @@ j) A validade dos resultados depende da obtenção de um título inferior a 2(el
 
 5 - Calcular o índice de acordo com o seguinte exemplo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/187b00/42824289.pdf))](https://files.diariodarepublica.pt/1s/1993/08/187b00/42824289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/187b00/42824289.pdf)
 
 ### CAPÍTULO VIII — Avaliação da capacidade de formação de placas
 

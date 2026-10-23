@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/807/1993/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-1993-626643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16a5f72de44b6ad60143d69f21b614556064539abd95290673ff9cf5a04b04be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df9ae1d9086f355b18003c6eedcec785f9d999ccb86eb2d2af4d36d091192831
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cantanhede
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:230928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230928:por
+  label: "Aprovada a alteração de delimitação da Reserva Ecológica Nacional do município de Cantanhede, constante da presente\
+    \ portaria, pela RES.166/96.14.10.1996.PCM, DR.IS-B [[238]] de 14.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/166-1996-230928
+  date: '1996-10-14'
+- type: amended_by
+  target: pt:dre:453837:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Cantanhede, constante da presente\
+    \ portaria, alterada pela Res 166/96 de 14-Out, da PCM, pela RES.138/2008.16.09.2008.PCM, DR.IS [179] de 16.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/138-2008-453837
+  date: '2008-09-16'
+- type: amended_by
+  target: pt:dre:71092232:por
+  label: Aprovada a alteração da delimitação da REN do município de Cantanhede constante do presente diploma, com as alterações
+    aprovadas pelas Res 166/96 de 14-out PCM, Res 138/2008 de 16-set PCM e Port 48/2013 de 04-fev, pelo(a) Despacho n.º 13662/2015
+    - Diário da República n.º 231/2015, Série II de 2015-11-25 que republica a Carta da REN
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13662-2015-71092232
+  date: '2015-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:32Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +139,8 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 9 de Agosto de 1993.**
+Assinada em 9 de Agosto de 1993.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveira. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/210b00/47124712.pdf))](https://files.diariodarepublica.pt/1s/1993/09/210b00/47124712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/210b00/47124712.pdf)

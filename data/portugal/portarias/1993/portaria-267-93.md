@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/059b00/11161118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/267/1993/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-1993-627995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44e96e37a94a18af2b59e070d1b9afeca13663ed4236e8d7491e90e828608cae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd4de9c73bf159f594223ae53061a7a6bd21c8f96759f56ee21d59fdd6f46ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,32 @@ reuse:
 subjects:
 - Ambulância
 - Inspecção de Veículos
-- Veículo
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Escolar
+- Veículo
 - Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:584229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A AL A) DO NUM 3, PELA PORT 287-A/93 DE 12-MAR DR.IS-B [60]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXCLUÍDOS DA INSPECÇÃO PERIÓDICA, PREVISTA NO NUM 1 DO PRESENTE DIPLOMA, OS AUTOMÓVEIS CONSIDERADOS ANTIGOS, PELA
+    PORT 163/94 DE 23-MAR DR.IS-B [69]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A AL A) DO NUM 2 PELA PORT 569/95 DE 16-JUN DR.IS-B [137]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-16'
 - type: cites
   target: celex:31977L0143
   label: null
@@ -89,16 +105,26 @@ relationships:
   target: celex:31991L0328
   label: null
   source: http://data.europa.eu/eli/dir/1991/328/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADA A AL F) DO NUM 1 PELA PORT 1098/93 DE 30-OUT DR.IS-B [255]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-30'
+- type: repealed_by
+  target: pt:dre:584229:por
+  label: "Revogada pela PORT.1165/2000.2000.12.09.MAI,DR.IS-B [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1165-2000-584229
+  date: '2000-12-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:58Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +261,7 @@ b) As reclamações, acompanhadas do parecer do responsável pelo centro, serão
 
 Ministério da Administração Interna.
 
-**Assinada em 11 de Janeiro de 1993.**
+Assinada em 11 de Janeiro de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.
 

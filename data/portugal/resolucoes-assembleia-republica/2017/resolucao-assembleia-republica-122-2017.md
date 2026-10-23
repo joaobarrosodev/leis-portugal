@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11700/0309903103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/122/2017/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2017-107535167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4826a2f321881b0325547c32fd812d7465ec0badc349c98bd1121020d81586e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4651c5d4302915c56752d65e56b2be19155a2cfdd51a30d0aa45df7e9d319f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - África do Sul
-- Investigação Científica e Tecnológica
 - Convenção
 - Cooperação
+- Cooperação Científica
+- Cooperação Tecnológica
+- Durban
+- Investigação Científica e Tecnológica
 - Política de Cooperação
 - Portugal
-- Durban
-- Cooperação Tecnológica
-- Cooperação Científica
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:107535165:por
+  label: Ratificado o Acordo aprovado pelo presente diploma, pelo(a) Decreto do Presidente da República n.º 41/2017 - Diário
+    da República n.º 117/2017, Série I de 2017-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/41-2017-107535165
+  date: '2017-06-20'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:54Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 21 de abril de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ÁFRICA DO SUL SOBRE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA
 
@@ -218,7 +224,7 @@ A Parte em cujo território for assinado o presente Acordo, submetê-lo-á para 
 
 Em testemunho de que os abaixo assinados, devidamente autorizados pelos respetivos Governos, assinaram e selaram este Acordo.
 
-**Assinado em Durban aos 28 dias do mês de agosto de 2015 em dois originais nas línguas Portuguesa e Inglesa, fazendo ambos os textos igualmente fé.**
+Assinado em Durban aos 28 dias do mês de agosto de 2015 em dois originais nas línguas Portuguesa e Inglesa, fazendo ambos os textos igualmente fé.
 
 Pela República Portuguesa:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/150b00/35343538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/612/1993/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/612-1993-374857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08a0fed6f40c9c4c42b98769c9b8929111d4403250fb18eb51addeb8b0044b70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f3e32077ce30c96d4d5d79349dae39117195c01f37d8ac3440fcd12a9b89f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,93 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
 - Mudança de Curso
 - Numerus Clausus
-- Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 - Transferência de Alunos
 relationships:
 - type: amended_by
   target: pt:dre:520215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138091:por
+  label: "Alterado o artigo 2.º do Regulamento pela PORT.96/95.01.02.1995.ME, DR.IS-B [27] de 01.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1995-138091
+  date: '1995-02-01'
+- type: amended_by
+  target: pt:dre:629157:por
+  label: "Alterados os artigos 1.º, 2.º (o último na redação da Portaria 96/95, de 1 de Fevereiro), 3.º, 5.º, 12.º, 13.º,\
+    \ 15.º, 26.º, 31.º e a designação do Regulamento aprovado no presente diploma, para Regulamento dos Regimes de Reingresso,\
+    \ Mudança de Curso e Transferência no Ensino Superior) e revogadas as referências 8 a 11 do anexo I, pela PORT.317-A/96.29.07.1996.ME,\
+    \ DR.IS-B [174]2ºSupl de 29.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-a-1996-629157
+  date: '1996-07-29'
+- type: amended_by
+  target: pt:dre:173877:por
+  label: "Alterado o art. 22º do Regulamento, pela PORT.1152/2002.2002.08.28.MCES, DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1152-2002-173877
+  date: '2002-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521985:por
+  label: "Revogado o nrº 1 do art. 5º do Regulamento aprovado pela presente portaria, na redacção dada pela Port. 317-A/96\
+    \ de 29-Jul, pela PORT.953/2001.2001.08.09.ME, DR.IS-B [184] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/953-2001-521985
+  date: '2001-08-09'
+- type: repealed_by
+  target: pt:dre:520215:por
+  label: "Revogado o presente diploma, alterado pelas Ports. 317-A/96 de 29-Jul, 953/2001 de 09-Ago e 1152/2002 de 28-Ago,\
+    \ pela PORT.401/2007.05.04.2007.MCTES, DR.IS [68] de 05.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/401-2007-520215
+  date: '2007-04-05'
 article_structure:
   article_count: 36
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:20Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +172,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 2 de Junho de 1993.**
+Assinada em 2 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 Regulamento dos Regimes de Reingresso, Mudança de Curso e Transferência no Ensino Superior Público
 
@@ -162,7 +224,9 @@ a) Cursos com idêntica designação e conduzindo à atribuição do mesmo grau 
 
 b) Cursos com designações diferentes mas situados na mesma área científica, tendo objectivos semelhantes, ministrando uma formação científica equivalente e conduzindo à atribuição do mesmo grau ou diploma.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Regimes
 
@@ -390,4 +454,4 @@ O disposto no presente Regulamento aplica-se a partir da candidatura à matrícu
 
 ## ANEXO I — Calendário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35343538.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35343538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35343538.pdf)

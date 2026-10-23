@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/698/1993/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-1993-345491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6c2e0eac53f0051ef8ece0d72cd1c1255510705b00eab37ef57e2559b4945f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceb09814f4ecb2bfaff79a619e66e9acf9e5a5cd1a8be8dd668ab774c6a8e3c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Universitária
+- Ensino Superior
 - Instituto Politécnico
 - Isenção de Propinas
-- Universidade
-- Propinas
-- Ensino Superior
 - Matrícula
+- Propinas
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/1992/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/1992/08/14/p/dre
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:37Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +122,6 @@ b) Redução de 30% - nível de rendimento familiar capitado em 1550 contos e gl
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 9 de Julho de 1993.**
+Assinada em 9 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.

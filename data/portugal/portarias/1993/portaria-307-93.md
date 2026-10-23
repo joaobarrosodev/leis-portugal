@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/1993/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-1993-634330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed87af7d3d6498c0e0bb753f33441437235d6755775d42a8f9397edf1ceb4d09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f6b80fd29912ed359294d5d975de1115a2533ca5f13a26522847a394b84a0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,25 @@ relationships:
   target: pt:dre:513992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:551229:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:513992:por
+  label: "Revogada pela PORT.419/95.09.05.1995.MA, DR.IS-B [107] de 09.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-1995-513992
+  date: '1995-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:55Z'
   warnings: []
   errors: []
 ---
@@ -103,20 +112,20 @@ Manda o Governo, pelos Ministros da Agricultura e da Indústria e Energia, o seg
 
 Ministérios da Agricultura e da Indústria e Energia.
 
-**Assinada em 5 de Fevereiro de 1993.**
+Assinada em 5 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I — Lista de fabricantes autorizados de pré-misturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf))](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)
 
 ## ANEXO II — Lista de fabricantes autorizados de alimentos compostos
 
 A - Fabricantes que destinam a sua produção ao mercado consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf))](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)
 
 B - Fabricantes que destinam a sua produção apenas às suas explorações pecuárias (autoprodutores)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf))](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/063b00/12401245.pdf)

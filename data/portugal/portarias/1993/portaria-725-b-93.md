@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 186/1993, 2º Suplemento, Série I-B de 1993-08-10
   number: '186'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4266-(11) a 4266-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/186b02/00110019.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/725-b/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-b-1993-370260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2142757a630ffbc6456c8dbdd98979abebb1bc9c2229a0b13928f40d45cc408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a602034f320e8c070427d94c1c93fa17d2fd11e1b6d133a6a494e455a011a4fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,59 @@ subjects:
 - Zona de Proteção
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19941003 - RECTIFICADA A LOCALIZAÇÃO DAS RESERVAS DE CAÇA CDR-3, NO CONCELHO DAS CALDAS DA RAINHA, ALC-1, DO CONCELHO\
+    \ DE ALCOBAÇA, CDR-1, DESIGNADA POR PAUL DA ROSA PENA, PELA PORTARIA 895-A/94, DE 3 DE SETEMBRO, PUBLICADA NO DR.IS-B,\
+    \ 229, SUPL.\0-B, 229, SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:344227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444461:por
+  label: "Extinta a zona de caça denominada \"TVD-1\" pela PORT.561/98.1998.08.20.MADRP DR.IS-B [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/561-1998-444461
+  date: '1998-08-20'
+- type: amended_by
+  target: pt:dre:344227:por
+  label: "Extintas as reservas PNC 1 e PNC 2, pela PORT.850/2010.06.09.2010.MADRP, DR.IS [173] de 06.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/850-2010-344227
+  date: '2010-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:323487:por
+  label: RECTIFICADA A LOCALIZAÇÃO DAS RESERVAS DE CAÇA ALC-1 MATA DO VIMEIRO, CDR-3, NO CONCELHO DE CALDAS DA RAINHA, ALC-1,
+    NO CONCELHO DE ALCOBAÇA E CDR-1, PAUL DA ROSA PENA, pelo(a) Portaria n.º 895-A/94 - Diário da República n.º 229/1994,
+    1º Suplemento, Série I-B de 1994-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/895-a-1994-323487
+  date: '1994-10-03'
+- type: repealed_by
+  target: pt:dre:499807:por
+  label: "Revogada pela PORT.1042/2003.2003.09.22.MADRP, DR.IS-B [219](Ver Port 1410/2003 de 23-Dez)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1042-2003-499807
+  date: '2003-09-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:19Z'
   warnings: []
   errors: []
 ---
@@ -218,8 +254,8 @@ A zona TVD-1, designada por Casais da Boavista e Ulmeiro e Almargens, na fregues
 
 Ministério da Agricultura.
 
-**Assinada em 29 de Julho de 1993.**
+Assinada em 29 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/186b02/00110019.pdf))](https://files.diariodarepublica.pt/1s/1993/08/186b02/00110019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/186b02/00110019.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/130/2018/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/130-2018-115360035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297819459fad9225902c7d0955fb9b74e062197a4e122169b39f792ae23a91f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bf9daebed179ecfe1e81e156a888840142f1650b6fa8e26f60c41a6bdce1ee9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Gestão Orçamental
 - Orçamento
-- Assembleia da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/19/2003/06/20/p/dre
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:02Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +111,11 @@ O Vice-Presidente da Assembleia da República, em substituição do Presidente d
 
 Mapa da Receita OAR 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf))](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf)
 
 Mapa da despesa por rubricas OAR 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf))](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/09700/0221602220.pdf)
 
 Notas explicativas das rubricas orçamentais
 
@@ -138,3 +138,5 @@ Despesa
 4 - Inscrição, ao nível da despesa, dos saldos da subvenção pública para as campanhas das eleições gerais para os órgãos das autarquias locais, de 2013 (6.782.655,83(euro)) e de 2017 (2.751,84(euro) respeitantes a reposições cobradas em 2018, de pagamentos efetuados em 2017).
 
 5 - Devolução do saldo relativo à subvenção pública para a campanha das eleições gerais para as autarquias locais de 2009, do valor de uma reposição que se estima cobrar até 31 de dezembro de 2018 (7.545,44(euro)).
+
+111351934

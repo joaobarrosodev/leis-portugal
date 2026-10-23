@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533/1993/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1993-281439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a70ee037a9aedcf57237096438e21fe75af6b8c3c2504d2cf420938c107e437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d2fd30052dc9cbc9d2941015c6d7f211e370894df328c20ca3e4e006d56c466
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - CEE
-- Leite
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Exploração Pecuária
 - Higiene Alimentar
 - Importação
 - Inspecção dos Alimentos
 - Lacticínios
-- Embalagem
+- Leite
 - Política Agrícola Comum
 - Produção Leiteira
+- Produto Alimentar
 - Proteção do Consumidor
 - Queijo
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548004:por
+  label: "Alterados os anexos A, B e C do Regulamento aprovado no presente diploma, pela PORT.1068/95.30.08.1995.MA, DR.IS-B\
+    \ [200] de 30.08.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1068-1995-548004
+  date: '1995-08-30'
+- type: amended_by
+  target: pt:dre:609373:por
+  label: "Alterados a subal. i) da al. b) do nº 1 do capítulo I do anexo A e os nºs 1 e 2 do capítulo II, parte A, do anexo\
+    \ C do regulamento aprovado pelo presente diploma, na redação da Port 1068/95, de 30-ago, pela PORT.56/96.22.02.1996.MECO,\
+    \ DR.IS-B [45] de 22.02.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1996-609373
+  date: '1996-02-22'
+- type: amended_by
+  target: pt:dre:233086:por
+  label: "Alterado o nº 4 do cap. I do anexo A do regulamento aprovado pelo presente diploma, pelo DEC LEI.108/2005.05.07.2005.MADRP,\
+    \ DR.IS-A [127] de 05.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2005-233086
+  date: '2005-07-05'
 - type: cites
   target: celex:31968R0804
   label: null
@@ -141,16 +160,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção da Port 1068/95, de 30-Ago e da Port 56/96, de 22-Fev, pelo DEC LEI.111/2006.09.06.2006.MADRP,\
+    \ DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 1
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:58:14Z'
   warnings: []
   errors: []
 ---
@@ -209,17 +234,17 @@ b) Os responsáveis pelos estabelecimentos provem estar aptos a aplicar correcta
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 11 de Maio de 1993.**
+Assinada em 11 de Maio de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 533/93
+Anexo a que se refere o n.º 1.º da Portaria n.º 533/93
 
 Regulamento das Normas Sanitárias Aplicáveis à Produção e Colocação no Mercado de Leite Cru, de Leite de Consumo Tratado Termicamente, de Leite Destinado a Transformação e de Produtos à Base de Leite, Destinados ao Consumo Humano.
 
 ### CAPÍTULO I — Prescrições gerais
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece as normas sanitárias aplicáveis à produção e colocação no mercado de leite cru, de leite de consumo tratado termicamente, de leite destinado a transformação e de produtos à base de leite, destinados ao consumo humano.
+Artigo 1.º - 1 - O presente Regulamento estabelece as normas sanitárias aplicáveis à produção e colocação no mercado de leite cru, de leite de consumo tratado termicamente, de leite destinado a transformação e de produtos à base de leite, destinados ao consumo humano.
 
 2 - As regras de higiene previstas neste Regulamento aplicam-se ao fabrico dos produtos referidos no número anterior cujos constituintes lácteos tenham sido parcialmente substituídos por produtos que não produtos à base de leite.
 
@@ -233,7 +258,7 @@ c) Directiva n.º [83/417/CEE](http://data.europa.eu/eli/dir/1983/417/oj?locale=
 
 d) Regulamento (CEE) n.º [1898/87](http://data.europa.eu/eli/reg/1987/1898/oj?locale=pt) do Conselho, de 2 de Julho, com a redacção dada pelo Regulamento (CEE) n.º [222/88](http://data.europa.eu/eli/reg/1988/222/oj?locale=pt), relativo à protecção da denominação do leite e dos produtos lácteos aquando da sua comercialização.
 
-###### Art. 2.º - 1 - Para efeitos do presente Regulamento, entende-se por:
+Art. 2.º - 1 - Para efeitos do presente Regulamento, entende-se por:
 
 a) Leite cru: o leite produzido pela secreção da glândula mamária de uma ou várias vacas, ovelhas, cabras ou búfalas, não aquecido a uma temperatura superior a 40ºC, nem submetido a um tratamento de efeito equivalente;
 
@@ -281,7 +306,7 @@ d) Do artigo 2.º do Regulamento (CEE) n.º [1898/87](http://data.europa.eu/eli/
 
 ### CAPÍTULO II — Condições relativas à produção
 
-###### Art. 3.º - 1 - À distribuição e venda de leite cru para consumo humano directo aplica-se o disposto no n.º 3.º da Portaria n.º 473/87, de 4 de Junho.
+Art. 3.º - 1 - À distribuição e venda de leite cru para consumo humano directo aplica-se o disposto no n.º 3.º da Portaria n.º 473/87, de 4 de Junho.
 
 2 - Sem prejuízo de condições suplementares que venham a ser fixadas, pode vir a ser autorizada a colocação no mercado de leite cru destinado ao consumo humano directo, desde que:
 
@@ -291,7 +316,7 @@ b) Seja arrefecido nos termos do capítulo III do anexo A, caso não seja vendid
 
 c) Preencha as condições enunciadas no capítulo IV do anexo C.
 
-###### Art. 4.º - 1 - O leite cru só pode ser utilizado no fabrico de leite de consumo tratado termicamente ou de produtos à base de leite desde que:
+Art. 4.º - 1 - O leite cru só pode ser utilizado no fabrico de leite de consumo tratado termicamente ou de produtos à base de leite desde que:
 
 a) Provenha de animais e de explorações controlados regularmente pela autoridade competente em execução do artigo 12.º;
 
@@ -307,7 +332,7 @@ e) Satisfaça as condições higiénicas definidas no capítulo III do anexo A.
 
 3 - No caso do leite de cabra e de ovelha, o tratamento térmico referido no número anterior deve ser efectuado in loco.
 
-###### Art. 5.º - 1 - O leite de consumo tratado termicamente só poderá ser colocado no mercado desde que:
+Art. 5.º - 1 - O leite de consumo tratado termicamente só poderá ser colocado no mercado desde que:
 
 a) Tenha sido obtido a partir de leite cru, depurado ou filtrado, com equipamentos previstos na alínea e) do capítulo V do anexo B, que reúna as seguintes condições:
 
@@ -341,7 +366,7 @@ i) No que respeita ao leite de vaca, tenha um ponto de congelação igual ou inf
 
 2 - O documento referido na alínea h) do número anterior não é exigido em caso de transporte efectuado pelo produtor para entrega directa ao consumidor final.
 
-###### Art. 6.º Só podem ser fabricados produtos à base de leite a partir de:
+Art. 6.º Só podem ser fabricados produtos à base de leite a partir de:
 
 a) Leite cru que satisfaça as exigências do artigo 4.º e do capítulo I do anexo C e que tenha transitado, se for caso disso, por um posto de recepção ou centro de normalização de leite que preencha as condições previstas no anexo B, com excepção do capítulo V;
 
@@ -351,7 +376,7 @@ i) Provenha de um estabelecimento de tratamento que preencha as condições prev
 
 ii) Tenha sido armazenado e transportado nos termos do capítulo V do anexo C.
 
-###### Art. 7.º - 1 - Os produtos à base de leite devem obedecer às seguintes condições:
+Art. 7.º - 1 - Os produtos à base de leite devem obedecer às seguintes condições:
 
 a) Ser obtidos a partir de leite que satisfaça as exigências do artigo anterior ou de produtos à base de leite que satisfaçam as exigências do presente artigo;
 
@@ -375,7 +400,7 @@ j) Satisfazer as exigências da alínea h) do n.º 1 do artigo 5.º no que se re
 
 2 - O leite e os produtos à base de leite destinados ao comércio não podem ter sido submetidos a radiações ionizantes.
 
-###### Art. 8.º - 1 - A autoridade competente pode, no que se refere ao fabrico de queijo com uma cura de pelo menos 60 dias, conceder derrogações individuais ou gerais relativamente às seguintes exigências:
+Art. 8.º - 1 - A autoridade competente pode, no que se refere ao fabrico de queijo com uma cura de pelo menos 60 dias, conceder derrogações individuais ou gerais relativamente às seguintes exigências:
 
 a) Capítulo IV do anexo A, no que respeita às características do leite cru;
 
@@ -385,7 +410,7 @@ c) N.º 2 da parte B do capítulo IV do anexo C.
 
 2 - A autoridade competente pode, após autorização da Comissão das Comunidades Europeias, na medida em que determinadas exigências do presente Regulamento possam prejudicar o fabrico de produtos à base de leite de características tradicionais, conceder derrogações individuais e gerais ao disposto nas alíneas a) a d) do n.º 1 do artigo 7.º, desde que o leite utilizado nesse fabrico satisfaça as exigências do capítulo I do anexo A.
 
-###### Art. 9.º - 1 - Aos locais de recolha, centros e estabelecimentos de tratamento e transformação que satisfaçam o disposto neste Regulamento será atribuído um número de controlo veterinário pela autoridade competente.
+Art. 9.º - 1 - Aos locais de recolha, centros e estabelecimentos de tratamento e transformação que satisfaçam o disposto neste Regulamento será atribuído um número de controlo veterinário pela autoridade competente.
 
 2 - Será estabelecida uma lista dos estabelecimentos de tratamento e transformação aprovados, para além dos referidos no artigo seguinte, bem como dos locais de recolha e dos centros de normalização aprovados.
 
@@ -413,9 +438,9 @@ c) Caso o responsável pelo estabelecimento, centro ou local de recolha não pro
 
 11 - As regras de execução do presente artigo serão fixadas de acordo com o processo comunitariamente previsto, nomeadamente no que se refere à natureza dos controlos, sua frequência e métodos de amostragem e de análises microbiológicas.
 
-###### Art. 10.º Aquando da aprovação de estabelecimentos que fabriquem produtos à base de leite cuja produção seja limitada, a autoridade competente pode conceder derrogações ao disposto na alínea b) do n.º 1 do artigo 7.º, ao n.º 5 do artigo 14.º e aos capítulos I e V do anexo B.
+Art. 10.º Aquando da aprovação de estabelecimentos que fabriquem produtos à base de leite cuja produção seja limitada, a autoridade competente pode conceder derrogações ao disposto na alínea b) do n.º 1 do artigo 7.º, ao n.º 5 do artigo 14.º e aos capítulos I e V do anexo B.
 
-###### Art. 11.º - 1 - As cisternas de leite, salas, instalações e equipamento de trabalho podem ser utilizados para outros géneros alimentícios, desde que sejam tomadas todas as medidas adequadas para evitar a contaminação ou a deterioração do leite de consumo ou dos produtos à base de leite.
+Art. 11.º - 1 - As cisternas de leite, salas, instalações e equipamento de trabalho podem ser utilizados para outros géneros alimentícios, desde que sejam tomadas todas as medidas adequadas para evitar a contaminação ou a deterioração do leite de consumo ou dos produtos à base de leite.
 
 2 - As cisternas utilizadas para o leite devem ostentar a indicação clara de que apenas podem ser utilizadas para o transporte de géneros alimentícios.
 
@@ -423,13 +448,13 @@ c) Caso o responsável pelo estabelecimento, centro ou local de recolha não pro
 
 4 - As regras de execução do presente artigo, nomeadamente as condições exigidas em matéria de lavagem, limpeza e desinfecção antes da utilização, bem como as condições de transporte, serão adoptadas de acordo com o procedimento comunitariamente previsto.
 
-###### Art. 12.º - 1 - Os animais das explorações de produção devem ser submetidos a um controlo veterinário regular para verificação do cumprimento das exigências do capítulo I do anexo A.
+Art. 12.º - 1 - Os animais das explorações de produção devem ser submetidos a um controlo veterinário regular para verificação do cumprimento das exigências do capítulo I do anexo A.
 
 2 - As explorações de produção devem ser submetidas a controlos periódicos que permitam verificar o cumprimento das exigências em matéria de higiene.
 
 3 - As condições gerais de higiene a respeitar pelas explorações de produção, nomeadamente as relativas à manutenção das salas e à ordenha, serão estabelecidas de acordo com o processo comunitariamente previsto, excepto no caso de explorações bovinas leiteiras, em que se aplicam as regras constantes do anexo D.
 
-###### Art. 13.º - 1 - No âmbito dos controlos previstos no artigo seguinte devem ser efectuadas análises com vista à pesquisa de resíduos de substâncias de acção farmacológica e hormonal, pesticidas, detergentes, desinfectantes e outras substâncias suceptíveis de alterarem as características organolépticas do leite ou dos produtos à base de leite, ou de tornar o seu consumo perigoso ou prejudicial para a saúde humana, na medida em que excedam os limites máximos autorizados.
+Art. 13.º - 1 - No âmbito dos controlos previstos no artigo seguinte devem ser efectuadas análises com vista à pesquisa de resíduos de substâncias de acção farmacológica e hormonal, pesticidas, detergentes, desinfectantes e outras substâncias suceptíveis de alterarem as características organolépticas do leite ou dos produtos à base de leite, ou de tornar o seu consumo perigoso ou prejudicial para a saúde humana, na medida em que excedam os limites máximos autorizados.
 
 2 - As análises de resíduos devem ser realizadas de acordo com os métodos cientificamente reconhecidos e comprovados a nível comunitário ou internacional.
 
@@ -439,7 +464,7 @@ c) Caso o responsável pelo estabelecimento, centro ou local de recolha não pro
 
 5 - Até à entrada em vigor das regras de execução deste artigo, mantém-se em vigor a regulamentação nacional, nomeadamente no que respeita à pesquisa de inibidores.
 
-###### Art. 14.º - 1 - O responsável pelo estabelecimento de tratamento e ou de transformação deve tomar todas as medidas necessárias para que seja observado o disposto neste Regulamento em todas as fases da produção.
+Art. 14.º - 1 - O responsável pelo estabelecimento de tratamento e ou de transformação deve tomar todas as medidas necessárias para que seja observado o disposto neste Regulamento em todas as fases da produção.
 
 2 - Para efeitos do número anterior, o responsável pelo estabelecimento deve efectuar autocontrolos com base nos seguintes princípios:
 
@@ -463,19 +488,19 @@ f) Em caso de risco imediato para a saúde humana, retirada do mercado dos produ
 
 6 - A autoridade competente responsável pelo estabelecimento deve estar associada à concepção e execução destes programas ou ao seu controlo, quando se tratar de programas existentes à data da entrada em vigor deste Regulamento.
 
-###### Art. 15.º - 1 - Os peritos da Comissão poderão efectuar controlos no local, para efeitos de verificação do cumprimento do disposto neste Regulamento.
+Art. 15.º - 1 - Os peritos da Comissão poderão efectuar controlos no local, para efeitos de verificação do cumprimento do disposto neste Regulamento.
 
 2 - A autoridade competente deverá prestar toda a assistência necessária aos peritos no cumprimento da sua missão de controlo.
 
-###### Art. 16.º - 1 - Aos produtos referidos no presente Regulamento aplica-se o disposto no Decreto-Lei n.º 110/93, de 19 de Abril, e legislação complementar.
+Art. 16.º - 1 - Aos produtos referidos no presente Regulamento aplica-se o disposto no Decreto-Lei n.º 110/93, de 19 de Abril, e legislação complementar.
 
 2 - Sem prejuízo do disposto neste Regulamento, a autoridade competente procederá à realização de todos os controlos que considere adequados em caso de suspeita de irregularidades ou em caso de dúvidas quanto à salubridade dos produtos.
 
-###### Art. 17.º Até à entrada em vigor de regulamentação comunitária sobre a matéria, os métodos de análise e de testes aceites internacionalmente são reconhecidos como métodos de referência.
+Art. 17.º Até à entrada em vigor de regulamentação comunitária sobre a matéria, os métodos de análise e de testes aceites internacionalmente são reconhecidos como métodos de referência.
 
 ### CAPÍTULO III — Importações provenientes de países terceiros
 
-###### Art. 18.º - 1 - As condições aplicáveis às importações de leite cru, de leite tratado termicamente e de produtos à base de leite devem ser, pelo menos, equivalentes às previstas no capítulo anterior.
+Art. 18.º - 1 - As condições aplicáveis às importações de leite cru, de leite tratado termicamente e de produtos à base de leite devem ser, pelo menos, equivalentes às previstas no capítulo anterior.
 
 2 - Só podem ser importados de países terceiros leite ou produtos à base de leite:
 
@@ -485,7 +510,7 @@ b) Acompanhados de um certificado sanitário, conforme a um modelo a celebrar de
 
 3 - Para efeitos de controlo dos produtos a que se referem os números anteriores aplica-se o disposto no Decreto-Lei n.º 111/93, de 10 de Abril, e legislação complementar.
 
-###### Art. 19.º - 1 - Os produtos referidos no presente Regulamento só podem ser importados de países terceiros desde que:
+Art. 19.º - 1 - Os produtos referidos no presente Regulamento só podem ser importados de países terceiros desde que:
 
 a) Sejam acompanhados de um certificado emitido pela autoridade competente do país terceiro no momento da carga, segundo modelo de certificado que será elaborado de acordo com o processo comunitariamente previsto;
 
@@ -493,7 +518,7 @@ b) Tenham passado os controlos previstos nos Decretos-Leis n.os 68/93, de 10 de 
 
 2 - Até à entrada em vigor das regras de execução do presente artigo continuam a aplicar-se as regras nacionais relativas às importações provenientes de países terceiros, desde que essas regras não sejam mais favoráveis que as previstas no capítulo anterior.
 
-###### Art. 20.º Só poderão ser incluídos na lista prevista no artigo 18.º os países terceiros ou partes de países terceiros:
+Art. 20.º Só poderão ser incluídos na lista prevista no artigo 18.º os países terceiros ou partes de países terceiros:
 
 a) Cujas importações não sejam objecto de interdição pelos motivos sanitários referidos no anexo A ou resultantes de qualquer outra doença exótica ou em execução dos artigos 6.º, 7.º e 14.º da Directiva n.º [72/462/CEE](http://data.europa.eu/eli/dir/1972/462/oj?locale=pt);
 
@@ -503,7 +528,7 @@ c) Cujo serviço veterinário tenha capacidade para assegurar o cumprimento de e
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 21.º - 1 - A autoridade competente designará os laboratórios nacionais de referência em matéria de análise e de teste do leite e dos produtos à base de leite, devendo a lista desses laboratórios ser comunicada à Comissão.
+Art. 21.º - 1 - A autoridade competente designará os laboratórios nacionais de referência em matéria de análise e de teste do leite e dos produtos à base de leite, devendo a lista desses laboratórios ser comunicada à Comissão.
 
 2 - Aos laboratórios referidos no número anterior compete:
 
@@ -515,11 +540,11 @@ c) Organizar periodicamente ensaios comparativos;
 
 d) Assegurar a divulgação das informações fornecidas pelo laboratório comunitário de referência junto das autoridades competentes e dos laboratórios de rotina encarregues de efectuar as análises e testes em matéria de leite e de produtos à base de leite.
 
-###### Art. 22.º - 1 - O laboratório comunitário de referência em matéria de análise e de teste do leite e dos produtos à base de leite é o referido no capítulo I do anexo E.
+Art. 22.º - 1 - O laboratório comunitário de referência em matéria de análise e de teste do leite e dos produtos à base de leite é o referido no capítulo I do anexo E.
 
 2 - As competências e tarefas do laboratório de referência são as constantes do capítulo II do anexo E.
 
-###### Art. 23.º De acordo com o processo comunitariamente previsto, podem vir a ser estabelecidas derrogações ao disposto nos artigos 3.º e 6.º aos produtos à base de leite que contenham outros géneros alimentícios e cuja percentagem de leite e de produtos à base de leite não seja essencial, desde que cumpridas as seguintes condições:
+Art. 23.º De acordo com o processo comunitariamente previsto, podem vir a ser estabelecidas derrogações ao disposto nos artigos 3.º e 6.º aos produtos à base de leite que contenham outros géneros alimentícios e cuja percentagem de leite e de produtos à base de leite não seja essencial, desde que cumpridas as seguintes condições:
 
 a) As prescrições de saúde animal constantes do capítulo I do anexo A;
 
@@ -529,7 +554,7 @@ c) As exigências relativas à marcação contidas no capítulo IV do anexo C;
 
 d) As normas de controlo constantes do capítulo VI do anexo C.
 
-###### Art. 24.º No âmbito dos controlos referidos no artigo 14.º, por portaria será alargada ao leite cru, ao leite tratado termicamente e aos produtos à base de leite a pesquisa de:
+Art. 24.º No âmbito dos controlos referidos no artigo 14.º, por portaria será alargada ao leite cru, ao leite tratado termicamente e aos produtos à base de leite a pesquisa de:
 
 a) Resíduos do grupo III da parte A do anexo I da Directiva n.º 86/469 do Conselho, de 16 de Setembro;
 
@@ -687,7 +712,7 @@ Teor de células somáticas (por mililitro): =< 400000 (ver nota b).
 
 2 - O leite de vaca destinado ao fabrico de outros produtos à base de leite, com excepção dos referidos no n.º 1, deve satisfazer as seguintes normas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf))](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
 
 3 - O leite de vaca destinado à produção de «produtos com leite cru», cujo processo de fabrico não inclua qualquer tratamento térmico, para além de obedecer aos parâmetros indicados no n.º 1, deve ainda satisfazer a seguinte norma (ver nota 1):
 
@@ -751,7 +776,9 @@ E - A observância das normas das partes A, B e C deve ser controlada através d
 
 F - As normas estabelecidas nas partes A, B e C aplicam-se sem prejuízo do cumprimento dos limites fixados nos anexos I e III do Regulamento n.º [2377/90](http://data.europa.eu/eli/reg/1990/2377/oj?locale=pt)[2377/90/CEE](http://data.europa.eu/eli/reg/1990/2377/oj?locale=pt).
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos de tratamento e dos estabelecimentos de transformação
 
@@ -913,7 +940,9 @@ Para além das condições gerais previstas no capítulo II, os estabelecimentos
 
 Este programa deve satisfazer a exigência referida no n.º 1 do presente capítulo e evitar, além disso, métodos de limpeza inadequados, que constituam risco sanitário para os produtos referidos no presente Regulamento.
 
-## ANEXO C — CAPÍTULO I
+## ANEXO C
+
+### CAPÍTULO I
 
 Exigências relativas ao fabrico do leite tratado termicamente e dos produtos à base de leite
 
@@ -1017,7 +1046,7 @@ A - Critérios microbiológicos para determinados produtos à base de leite no m
 
 1 - Critérios obrigatórios - germes patogénicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf))](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
 
 Além disso, os microrganismo patogénicos e as respectivas toxinas não devem estar presentes em quantidades susceptíveis de afectarem a saúde dos consumidores.
 
@@ -1027,7 +1056,7 @@ Os programas de amostragem serão estabelecidos em função da natureza dos prod
 
 2 - Critérios analíticos - germes testemunhas de falta de higiene:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf))](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
 
 Caso estas normas sejam ultrapassadas, deve ser efectuada uma revisão dos métodos de controlo dos pontos críticos aplicados no estabelecimento de transformação. A autoridade competente deve ser informada dos processos de rectificação introduzidos no sistema de controlo da produção.
 
@@ -1037,7 +1066,7 @@ Além disso, no que respeita aos queijos produzidos com leite cru e com leite te
 
 Destinadas à avaliação do bom funcionamento do estabelecimento e à aplicação do sistema de autocontrolo da produção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf))](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/118b00/27772790.pdf)
 
 A identificação de estirpes de Staphylococcus aureus enterotoxígenos ou de Escherichia coli presumivelmente patogénicos implicará a retirada do mercado de todos os lotes incriminados. Neste caso, a autoridade competente, nos termos da alínea e) do n.º 2 do artigo 14.º, deve manter-se informada dos resultados verificados, bem como das acções inerentes à retirada dos lotes incriminados e dos processos de rectificação a efectuar no sistema de controlo da produção.
 
@@ -1291,7 +1320,9 @@ Condições gerais para a manutenção do material e utensílios utilizados na o
 
 12 - No caso de o leite ser filtrado, o filtro utilizado deve, em função do seu tipo, ser substituído ou limpo antes de perder a sua capacidade de absorção. De qualquer modo, o filtro deve ser substituído ou limpo antes de cada ordenha. Não devem ser utilizados filtros de pano.
 
-## ANEXO E — CAPÍTULO I
+## ANEXO E
+
+### CAPÍTULO I
 
 Laboratório comunitário de referência
 

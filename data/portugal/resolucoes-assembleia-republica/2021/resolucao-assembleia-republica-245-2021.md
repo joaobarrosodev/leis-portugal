@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15800/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/245/2021/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/245-2021-169602020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78c233a060a1dbd55353ee7b0a826376c206c3df96f5a604f6c7bd1ccc0c4bb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99e7ab38aeedadcaec99829cef693b128884c67d687981063528ec02466d1494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Luta contra a Pobreza
-- Convenção
-- Portugal
-- Desenvolvimento Cultural
-- Desenvolvimento Social
-- União Europeia
-- Desenvolvimento Económico
 - Bruxelas
-relationships: []
+- Convenção
+- Desenvolvimento Cultural
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Luta contra a Pobreza
+- Portugal
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:169602017:por
+  label: Ratificada a Decisão n.º 2/2020 aprovada para ratificação pelo presente diploma pelo(a) Decreto do Presidente da
+    República n.º 65/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-2021-169602017
+  date: '2021-08-16'
+- type: cites
+  target: pt:dre:127145498:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:41Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de julho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 DECISÃO N.º 2/2020, DO COMITÉ DE EMBAIXADORES ACP-UE, DE 4 DE DEZEMBRO DE 2020, QUE ALTERA A DECISÃO N.º 3/2019, DO COMITÉ DE EMBAIXADORES ACP-UE, QUE ADOTA MEDIDAS TRANSITÓRIAS NOS TERMOS DO ARTIGO 95.º, N.º 4, DO ACORDO DE PARCERIA ACP-UE
 
@@ -143,6 +153,8 @@ Pelo Conselho de Ministros ACP-UE:
 
 Pelo Comité de Embaixadores ACP-UE:
 
-**O Presidente, Michael Clauss.**
+O Presidente, Michael Clauss.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15800/0001400016.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15800/0001400016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15800/0001400016.pdf)
+
+114481248

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1208/1993/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1208-1993-688455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 506d48de36d192282efc3d97e7c69a363a0c82e856f7a184afe35788e863573f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9e0bdcae5c86c0f0c279cadfc3295abb1f9389fa709bc2ffaad9db3291c3531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
+- Bragança
 - Extinção de Lugares
 - Hospital Distrital
+- Pessoal de Saúde
 - Pessoal Técnico Superior
 - Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:624618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE BRAGANÇA, PELA PORTARIA 944/94, DE 25 DE OUTUBRO, PUBLICADA\
+    \ NO DR.IS-B, 247.\0-B, 247."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
@@ -102,16 +108,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/714/1991/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/714/1991/07/19/p/dre
+- type: cites
+  target: pt:dre:180632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:46Z'
   warnings: []
   errors: []
 ---
@@ -136,10 +210,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 26 de Outubro de 1993.**
+Assinada em 26 de Outubro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital Distrital de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63806381.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63806381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63806381.pdf)

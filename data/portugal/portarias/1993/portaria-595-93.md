@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/142b00/33263327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/595/1993/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-1993-269186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c417b78e8561fd5ac8272de02b3e910b5f2f3abf5a7e61ef234fb95bd721d72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f36d1357cd936a82a5bff5637fa4e85d58ff11a51c26bdb25fdd8f9214777583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comité Olímpico Português
 - Conselho Superior do Desporto
+- Desporto
 - Estatuto
 - Federação Desportiva
 - Instituto do Desporto
 - Organização Desportiva
-- Comité Olímpico Português
-- Desporto
 - Utilidade Pública Desportiva
 relationships:
 - type: amended_by
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:243744:por
+  label: "Revogada, a partir de 01.01.2009, pelo DEC LEI.248-B/2008.31.12.2008.PCM, DR.IS [252-3.ºSupl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-b-2008-243744
+  date: '2008-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:50Z'
   warnings: []
   errors: []
 ---
@@ -146,8 +163,8 @@ f) Outros elementos julgados pertinentes pela requerente face aos requisitos leg
 
 Ministério da Educação.
 
-**Assinada em 13 de Maio de 1993.**
+Assinada em 13 de Maio de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/142b00/33263327.pdf))](https://files.diariodarepublica.pt/1s/1993/06/142b00/33263327.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/142b00/33263327.pdf)

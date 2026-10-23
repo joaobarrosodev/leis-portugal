@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 164/1993, 1º Suplemento, Série I-B de 1993-07-15
   number: '164'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2854-(9) a 2854-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/164b01/00090009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/668-j/1993/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-j-1993-687052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41be56c59c1ab46aa4c271b0002d4cd1465fc1f99c93a53351f8abeb0aaa05be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a222808622563cb02a25e9e2b6a1220476f47faa299d081a942e92dcb41d9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,29 @@ relationships:
   target: pt:dre:538034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DO NUM 1 E SUSBTITUIDA A PLANTA ANEXA PELA PORT 1003/95 DE 19-AGO DR.IS-B [191]\0B [191]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-19'
+- type: amended_by
+  target: pt:dre:659752:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na concessão atribuída no presente diploma pela\
+    \ PORT.1013/97.1997.09.24.MADRP DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1013-1997-659752
+  date: '1997-09-24'
+- type: amended_by
+  target: pt:dre:685026:por
+  label: "Alterado o nº 1º ao presente diploma, com a redacção dada pela Port 1003/95 de 19-Ago, e aditado um nº 1º-A pela\
+    \ PORT.1137/97.1997.11.07.MADRP DR.IS-B [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1137-1997-685026
+  date: '1997-11-07'
+- type: amended_by
+  target: pt:dre:538034:por
+  label: "Extinta a zona de caça criada pelo presente diploma e posteriormente alterada pela Port 1003/95, de 19-Ago e pela\
+    \ Port 1137/97, de 07-Nov, pela PORT.680/2006.04.07.2006.MADRP, DR.IS [127] de 04.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/680-2006-538034
+  date: '2006-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:41Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +168,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/164b01/00090009.pdf))](https://files.diariodarepublica.pt/1s/1993/07/164b01/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/164b01/00090009.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/620/1993/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/620-1993-374410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd1a085a5cf904addd0fe6d7670045e5bbfaa704bb674c2dcada4a49d8db6f9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b28180f728767df8666dcfd60c55f178dbf245bd832707aff13ba5a23c4aba15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Departamento de Estatística
-- Ministério do Emprego e da Segurança Social
 - Descrição de Funções
+- Ministério do Emprego e da Segurança Social
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,48 @@ relationships:
   target: pt:dre:2723695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL RECT 174/93 DE 30-AGO DR.IS-B [204]4SUPL DE 31/AGO/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DN 664/94 DE 24-AGO DR.IS-B [219] DE 21/SET/1994\0E 21/SET/1994"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:3266391:por
+  label: "Alterado o quadro de pessoal pela PORT.712/98(2ªSÉRIE).1998.07.14.PCM, DR.IIS [174] de 30/Jul/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/712-1998-3266391
+  date: '1998-07-14'
+- type: amended_by
+  target: pt:dre:2723695:por
+  label: "Alterado o aquadro de pessoal por PORT.267/2003(2ªSÉRIE).2003.02.03.MF e MSST, DR.IIS [45] de 22/Fev/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-2003-2723695
+  date: '2003-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/212/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265692:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:35Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +135,13 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Março de 1993.**
+Assinada em 19 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/151b00/35993601.pdf))](https://files.diariodarepublica.pt/1s/1993/06/151b00/35993601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/151b00/35993601.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira técnica auxiliar
 

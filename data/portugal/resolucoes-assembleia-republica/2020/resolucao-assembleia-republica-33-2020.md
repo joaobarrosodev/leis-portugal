@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/2020/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-2020-136900599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ecc9e3d5aed783a023de45800dd5e0289c8fa3141d5892dfef2ecf8262419e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae3e1f6af2bb09f91549159c5fbc2844b2e19dc48124abbae822a4fdafed96af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Gestão Orçamental
 - Orçamento
-- Assembleia da República
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:35Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +91,15 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 19 de junho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ## ANEXO I — Mapa da Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf)
 
 ## ANEXO II — Mapa da Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12500/0000400010.pdf)
 
 Notas explicativas das rubricas orçamentais
 
@@ -122,3 +122,5 @@ Despesa
 3 - Reforço por conta de reposições de subvenções para as campanhas de eleições ocorridas em anos anteriores: Legislativas de 2019, no montante de 12,58 (euro), e dos saldos das subvenções públicas para as campanhas dos atos eleitorais que ainda não se encontram encerrados: eleições gerais para os Órgãos das Autarquias Locais de 2017 (893.788,41 (euro)) e Legislativas de 2019 (1.288.911,11 (euro)), no montante global de 2.182.712,10 (euro).
 
 4 - Inscrição do valor global de 7.912.857,73 (euro), que inclui: a devolução parcial do saldo da subvenção pública para a campanha das eleições gerais para os Órgãos das Autarquias Locais (7.000.000,00 (euro)), e a devolução integral dos saldos a 31 de dezembro de 2019 relativos às subvenções públicas para a campanha das eleições gerais para os Órgãos das Autarquias Locais de 2013 (500.000,00 (euro)) e para o Parlamento Europeu de 2019 (153.730,58 (euro)), acrescido do valor correspondente à estimativa de reposições a cobrar em 2020 inerentes a subvenções para as campanhas das eleições gerais para os Órgãos das Autarquias Locais de 2013 (259.127,15 (euro)).
+
+113345085

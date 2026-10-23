@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/706/1993/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1993-345098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31dd33a3a2210d93c3735cd3495e3daa733d7a381bd2ec48bf3fb75aa9a95468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bec7de9c56a316a4966e5fe63844f92aa7f905b87cd22b6bb27ad5e18e2de639
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
+- Marinha
+- Militar
 - Pessoal Contratado
 - Quadro de Pessoal
-- Militar
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:52Z'
   warnings: []
   errors: []
 ---
@@ -114,14 +126,14 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no n.�
 
 1.º Os quantitativos máximos de militares na efectividade de serviço, nos regimes de contrato e voluntariado, na Marinha, Exército e Força Aérea, em 1993, são os constantes do quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf))](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf)
 
 2.º Os quantitativos máximos de pessoal a admitir na Marinha, Exército e Força Aérea, em 1993, com destino aos regimes de contrato e voluntariado, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf))](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/178b00/41464146.pdf)
 
 Ministério da Defesa Nacional.
 
-**Assinada em 5 de Julho de 1993.**
+Assinada em 5 de Julho de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

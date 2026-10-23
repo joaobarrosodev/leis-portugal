@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/838/1993/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/838-1993-661307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a653cd7a7de3dd469ff24336982f7c182141a64c8849c2fafe7773d2966bf3b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63ff2d74ac7fbadb205c3dc5a1a6fb8d1344bd84123e039a897ccc1cfb9efabc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Escola Técnica dos Serviços de Saúde
 - Lisboa
 - Pessoal de BAD
-- Coimbra
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:406113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:12Z'
   warnings: []
   errors: []
 ---
@@ -107,18 +115,18 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 27 de Julho de 1993.**
+Assinada em 27 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO I — Quadro de pessoal da Escola Técnica dos Serviços de Saúde de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf))](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)
 
 ## ANEXO II — Quadro de pessoal da Escola Técnica dos Serviços de Saúde de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf))](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)
 
 ## ANEXO III — Quadro de pessoal da Escola Técnica dos Serviços de Saúde do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf))](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/212b00/48274828.pdf)

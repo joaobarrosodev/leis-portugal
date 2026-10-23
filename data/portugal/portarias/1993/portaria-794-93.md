@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/794/1993/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1993-629975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5fb0f681b77a3d6abcc032aed3555051baa63934eb0f0e889eb0950e23b78dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72dbbd9417d8dfb86ad85b7124066a42e2b44454a60eac783adc5559d89f3b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Alter do CHÃO
 - Arronches
 - Avis
+- CASA do POVO
 - Centro Regional de Segurança Social
 - Crato
 - Fronteira.povoação
-- CASA do POVO
 - Monforte
 - Portalegre
 - Sousel
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/119/1991/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/119/1991/02/11/p/dre
+- type: cites
+  target: pt:dre:478032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:12Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +122,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 30 de Julho de 1993.**
+Assinada em 30 de Julho de 1993.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

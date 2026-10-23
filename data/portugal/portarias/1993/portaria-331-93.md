@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/331/1993/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-1993-637906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2050cebd79c0823cae53728007329d0e2e4dfa8932631fe3ee271da1b482adcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22bbad7b9dccb60ff4f4b57c5e83ad4fa9d920960ff7a659717d8fc6be1b4d01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - CE Países
 - Circulação de GADO
 - Controlo Sanitário
+- Gado Equino
 - Importação
 - Política Agrícola Comum
-- Gado Equino
 - Regulamento
 - Troca Intracomunitária
 relationships:
@@ -79,6 +79,13 @@ relationships:
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671385:por
+  label: "Alterados os arts. 13º e 19º do Regulamento da Circulação de Equídeos no Território da CEE e da Importação de Equídeos\
+    \ de Países Terceiros, aprovado pelo presente diploma, pelo DEC LEI.73/2006.24.03.2006.MADRP, DR.IS-A [60] de 24.03.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2006-671385
+  date: '2006-03-24'
 - type: cites
   target: celex:31990L0425
   label: null
@@ -103,16 +110,25 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:593676:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 99/93, PUBLICADA NO DR.IS-B, 126, 4 SUPL, DE 930531.\0531.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/99-1993-593676
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:28Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +147,7 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Fevereiro de 1993.**
+Assinada em 12 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -141,9 +157,9 @@ Regulamento da Circulação de Equídeos no Território da CEE e da Importação
 
 ### CAPÍTULO I — Disposições iniciais
 
-###### Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária que regem a circulação de equídeos no território da CEE e as importações de equídeos de países terceiros.
+Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária que regem a circulação de equídeos no território da CEE e as importações de equídeos de países terceiros.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 a) «Exploração» o estabelecimento agrícola ou de treino, a cavalariça ou, genericamente, qualquer local ou instalação em que os equídeos sejam mantidos ou criados, independentemente da sua utilização;
 
@@ -167,7 +183,7 @@ j) «Admissão temporária» o estatuto de um equídeo registado proveniente de 
 
 ### CAPÍTULO II — Circulação de equídeos
 
-###### Art. 3.º - 1 - A autoridade competente apenas autorizará a circulação no seu território de equídeos registados e apenas expedirá equídeos para o território de outro Estado membro se estes preencherem as condições previstas nos artigos 4.º a 8.º
+Art. 3.º - 1 - A autoridade competente apenas autorizará a circulação no seu território de equídeos registados e apenas expedirá equídeos para o território de outro Estado membro se estes preencherem as condições previstas nos artigos 4.º a 8.º
 
 2 - Quando os equídeos se destinem ao território nacional, a autoridade competente pode conceder derrogações, gerais ou limitadas, às condições de circulação, desde que os animais:
 
@@ -177,19 +193,19 @@ b) Participem em manifestações culturais ou afins, ou em actividades organizad
 
 c) Se destinem exclusivamente ao pasto ou ao trabalho, a título temporário, na proximidade das fronteiras internas da Comunidade.
 
-###### Art. 4.º - 1 - Nas quarenta e oito horas anteriores ao embarque ou carregamento terá lugar uma inspecção sanitária dos equídeos efectuada pelo veterinário oficial.
+Art. 4.º - 1 - Nas quarenta e oito horas anteriores ao embarque ou carregamento terá lugar uma inspecção sanitária dos equídeos efectuada pelo veterinário oficial.
 
 2 - Sem prejuízo do disposto no artigo 6.º, a inspecção a que se refere o número anterior apenas é exigida para os equídeos registados quando se trate de trocas intracomunitárias.
 
 3 - Aquando da inspecção, o veterinário oficial deve certificar-se de que os equídeos, nos 15 dias anteriores à inspecção, não estiveram em contacto com outros que apresentem sintomatologia de infecção ou doença contagiosa, e os equídeos não devem revelar qualquer sintoma clínico de doença.
 
-###### Art. 5.º Os equídeos devem ser identificados através de:
+Art. 5.º Os equídeos devem ser identificados através de:
 
 a) No que se refere aos cavalos registados, documento de identificação previsto na Portaria n.º 272/92, de 31 de Março, cuja validade deverá ser suspensa pelo veterinário oficial enquanto durarem as proibições previstas no artigo seguinte ou no artigo 8.º, devendo este documento ser restituído à autoridade que o emitiu após o abate do cavalo registado;
 
 b) No que se refere aos equídeos de criação e de rendimento, segundo método de identificação a determinar comunitariamente.
 
-###### Art. 6.º - 1 - Para além do disposto no artigo 8.º, os equídeos não devem provir de uma exploração que seja objecto de uma das seguintes medidas de proibição:
+Art. 6.º - 1 - Para além do disposto no artigo 8.º, os equídeos não devem provir de uma exploração que seja objecto de uma das seguintes medidas de proibição:
 
 a) Se nem todos os animais das espécies sensíveis à doença presentes na exploração tiverem sido abatidos ou destruídos, o período de proibição aplicado à exploração de origem deverá ser pelo menos igual:
 
@@ -209,7 +225,7 @@ b) Se todos os animais das espécies sensíveis presentes na exploração tivere
 
 2 - A autoridade competente pode estabelecer derrogações às medidas de proibição previstas no número anterior para os hipódromos e terrenos de corrida.
 
-###### Art. 7.º Caso seja estabelecido um programa de luta contra uma doença dos equídeos, o Estado membro deve indicar à Comissão, nomeadamente:
+Art. 7.º Caso seja estabelecido um programa de luta contra uma doença dos equídeos, o Estado membro deve indicar à Comissão, nomeadamente:
 
 a) A situação da doença no território;
 
@@ -227,7 +243,7 @@ g) As medidas a tomar em caso de resultados positivos verificados em controlos e
 
 h) O carácter não discriminatório entre as trocas em território do Estado membro em causa e as trocas intracomunitárias.
 
-###### Art. 8.º - 1 - Caso uma parte de um Estado membro indemne de peste equina venha a ser considerada infectada nos termos do número seguinte, os equídeos só poderão ser expedidos dessa zona nas condições fixadas no n.º 6.
+Art. 8.º - 1 - Caso uma parte de um Estado membro indemne de peste equina venha a ser considerada infectada nos termos do número seguinte, os equídeos só poderão ser expedidos dessa zona nas condições fixadas no n.º 6.
 
 2 - Uma parte do território de um Estado membro será considerada infectada pela peste equina se, em alternativa, se verificar uma das seguintes condições:
 
@@ -259,9 +275,9 @@ e) Os equídeos terem sido mantidos num local de quarentena, aprovado oficialmen
 
 f) Os equídeos terem sido protegidos dos insectos vectores do vírus durante o período de quarentena e durante o transporte, desde o local de quarentena até ao local de expedição.
 
-###### Art. 9.º Quando seja aplicado um regime alternativo de controlo que ofereça garantias equivalentes às previstas no artigo 6.º para a circulação, no seu território, de equídeos e de equídeos registados, a autoridade nacional competente pode conceder a outro Estado membro, numa base de reciprocidade, uma derrogação à inspecção referida no artigo 4.º e ao disposto no n.º 2 do artigo 11.º
+Art. 9.º Quando seja aplicado um regime alternativo de controlo que ofereça garantias equivalentes às previstas no artigo 6.º para a circulação, no seu território, de equídeos e de equídeos registados, a autoridade nacional competente pode conceder a outro Estado membro, numa base de reciprocidade, uma derrogação à inspecção referida no artigo 4.º e ao disposto no n.º 2 do artigo 11.º
 
-###### Art. 10.º - 1 - Os equídeos devem ser conduzidos, no mais curso espaço de tempo, da exploração de proveniência para o local de destino quer directamente quer após passagem por um mercado ou centro de concentração aprovados, tal como definidos nos artigos 13.º, 15.º e 16.º da Portaria n.º 467/90, de 22 de Junho, num meio de transporte e num espaço regularmente limpos e desinfectados segundo frequência a definir pelo Estado membro de expedição.
+Art. 10.º - 1 - Os equídeos devem ser conduzidos, no mais curso espaço de tempo, da exploração de proveniência para o local de destino quer directamente quer após passagem por um mercado ou centro de concentração aprovados, tal como definidos nos artigos 13.º, 15.º e 16.º da Portaria n.º 467/90, de 22 de Junho, num meio de transporte e num espaço regularmente limpos e desinfectados segundo frequência a definir pelo Estado membro de expedição.
 
 2 - Os veículos de transporte devem ser construídos de modo que as fezes, as palhas das camas e as forragens não possam verter ou cair para fora do veículo durante o transporte, que deve ser efectuado de forma a assegurar protecção sanitária eficaz e o bem-estar dos equídeos.
 
@@ -271,7 +287,7 @@ f) Os equídeos terem sido protegidos dos insectos vectores do vírus durante o 
 
 5 - O veterinário oficial deve registar o número de identificação ou o número do documento de identificação do equídeo abatido e enviar à autoridade competente do local de expedição uma certidão que ateste o referido abate.
 
-###### Art. 11.º - 1 - Os equídeos registados serão acompanhados, ao abandonarem a exploração respectiva, do documento de identificação previsto no artigo 5.º, devendo esse documento de identificação, no caso de trocas intracomunitárias, ser completado pelo atestado previsto no anexo B a este Regulamento.
+Art. 11.º - 1 - Os equídeos registados serão acompanhados, ao abandonarem a exploração respectiva, do documento de identificação previsto no artigo 5.º, devendo esse documento de identificação, no caso de trocas intracomunitárias, ser completado pelo atestado previsto no anexo B a este Regulamento.
 
 2 - Os equídeos de criação, de rendimento ou de talho não abrangidos pelo número anterior serão acompanhados durante o transporte de um certificado de inspecção sanitária em conformidade com o anexo C a este Regulamento.
 
@@ -279,15 +295,15 @@ f) Os equídeos terem sido protegidos dos insectos vectores do vírus durante o 
 
 4 - As importações de equídeos não registados podem ser efectuadas com um único certificado sanitário por lote, em substituição do certificado individual a que se refere o n.º 2.
 
-###### Art. 12.º À presente secção são aplicáveis as regras previstas na Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno, nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado membro de destino e às medidas de salvaguarda a tomar.
+Art. 12.º À presente secção são aplicáveis as regras previstas na Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno, nomeadamente no que se refere aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado membro de destino e às medidas de salvaguarda a tomar.
 
 ### CAPÍTULO III — Regras para as importações provenientes de países terceiros
 
-###### Art. 13.º - 1 - Para poderem ser importados, os equídeos devem ser provenientes de países terceiros, ou de partes de países terceiros, constantes de uma lista elaborada nos termos dos artigos 3.º, 46.º e 47.º da Portaria n.º 380/90, de 18 de Maio.
+Art. 13.º - 1 - Para poderem ser importados, os equídeos devem ser provenientes de países terceiros, ou de partes de países terceiros, constantes de uma lista elaborada nos termos dos artigos 3.º, 46.º e 47.º da Portaria n.º 380/90, de 18 de Maio.
 
 2 - Os procedimentos e critérios de elaboração, alteração e publicação da lista de países terceiros a que se refere o número anterior são os previstos no artigo 3.º da Portaria n.º 380/90, de 18 de Maio.
 
-###### Art. 14.º - 1 - Os equídeos devem provir de países terceiros:
+Art. 14.º - 1 - Os equídeos devem provir de países terceiros:
 
 a) Indemnes de peste equina;
 
@@ -301,11 +317,11 @@ a) O disposto no número anterior pode ser aplicado apenas a uma parte do territ
 
 b) Podem ser exigidas garantias adicionais em relação a doenças exóticas na Comunidade.
 
-###### Art. 15.º - 1 - Antes da data do seu embarque com vista a expedição, os equídeos devem ter permanecido, sem interrupção, no território ou numa parte do território de um país terceiro ou, em caso de regionalização, na parte do território definida em aplicação da alínea a) do n.º 2 do artigo anterior, durante um período a fixar aquando da adopção das decisões a tomar em aplicação do mesmo artigo.
+Art. 15.º - 1 - Antes da data do seu embarque com vista a expedição, os equídeos devem ter permanecido, sem interrupção, no território ou numa parte do território de um país terceiro ou, em caso de regionalização, na parte do território definida em aplicação da alínea a) do n.º 2 do artigo anterior, durante um período a fixar aquando da adopção das decisões a tomar em aplicação do mesmo artigo.
 
 2 - Os equídeos devem provir de uma exploração colocada sob controlo veterinário.
 
-###### Art. 16.º - 1 - A importação de equídeos do território de um país terceiro, ou de uma parte do território de um país terceiro, só será autorizada se, para além dos requisitos do artigo 15.º, os equídeos em questão satisfizerem as condições sanitárias comunitariamente adoptadas para as importações de equídeos desse país em função da espécie em causa e das categorias de equídeos.
+Art. 16.º - 1 - A importação de equídeos do território de um país terceiro, ou de uma parte do território de um país terceiro, só será autorizada se, para além dos requisitos do artigo 15.º, os equídeos em questão satisfizerem as condições sanitárias comunitariamente adoptadas para as importações de equídeos desse país em função da espécie em causa e das categorias de equídeos.
 
 2 - Para fixação das condições de polícia sanitária em conformidade com o número anterior, a referência de base a utilizar é a das normas previstas nos artigos 4.º a 8.º
 
@@ -315,7 +331,7 @@ a) Para a estomatite vesicular, os equídeos devem provir de uma exploração in
 
 b) Para a artrite viral, os equídeos machos devem ter reagido negativamente, sem prejuízo do disposto na alínea b) do artigo 19.º, a um teste sorológico, ou a um vírus de isolamento ou a qualquer outro teste comunitariamente aprovado que garanta que o animal se encontra indemne dessa doença, podendo as categorias de equídeos machos a que esta exigência será aplicável ser delimitadas comunitariamente.
 
-###### Art. 17.º - 1 - Os equídeos devem ser identificados nos termos do artigo 5.º e ser acompanhados de um certificado emitido por um veterinário oficial do país terceiro exportador que obedeça às seguintes condições:
+Art. 17.º - 1 - Os equídeos devem ser identificados nos termos do artigo 5.º e ser acompanhados de um certificado emitido por um veterinário oficial do país terceiro exportador que obedeça às seguintes condições:
 
 a) Ser emitido no dia do embarque dos equídeos ou, no caso de cavalos registados, no último dia útil antes do embarque;
 
@@ -331,11 +347,11 @@ f) Ser previsto para um único destinatário ou, no caso de equídeos para abate
 
 2 - O certificado referido no número anterior deve ser redigido em formulário a aprovar nos termos do regulamento comunitário.
 
-###### Art. 18.º - 1 - À chegada, os equídeos para abate devem ser conduzidos a um matadouro, directamente ou após passagem por um mercado ou um centro de concentração e, em conformidade com as exigências de polícia sanitária, ser abatidos no prazo que venha a ser comunitariamente fixado.
+Art. 18.º - 1 - À chegada, os equídeos para abate devem ser conduzidos a um matadouro, directamente ou após passagem por um mercado ou um centro de concentração e, em conformidade com as exigências de polícia sanitária, ser abatidos no prazo que venha a ser comunitariamente fixado.
 
 2 - Sem prejuízo de condições especiais fixadas a nível comunitário, a autoridade competente pode, por razões de polícia sanitária, designar o matadouro para o qual devem ser encaminhados os equídeos.
 
-###### Art. 19.º De acordo com as especificações da Comissão:
+Art. 19.º De acordo com as especificações da Comissão:
 
 a) Pode ser limitada a importação de um país terceiro, ou de uma parte de um país terceiro, a espécies ou categorias especiais de equídeos;
 
@@ -343,7 +359,7 @@ b) Em derrogação ao artigo 17.º, podem ser definidas condições especiais de
 
 c) Devem ser determinadas as condições que permitem converter uma admissão temporária em admissão definitiva.
 
-###### Art. 20.º - 1 - As regras gerais aplicáveis aos controlos das importações de equídeos de países terceiros serão fixadas de acordo com decisões comunitárias, mantendo-se em vigor as regras nacionais conformes com o [Tratado da CEE](https://diariodarepublica.pt/application/external/tratado), até à execução daquelas decisões.
+Art. 20.º - 1 - As regras gerais aplicáveis aos controlos das importações de equídeos de países terceiros serão fixadas de acordo com decisões comunitárias, mantendo-se em vigor as regras nacionais conformes com o [Tratado da CEE](https://diariodarepublica.pt/application/external/tratado), até à execução daquelas decisões.
 
 2 - A importação de equídeos é proibida sempre que se verificar, por ocasião de controlo de importação previsto no número anterior, que:
 
@@ -359,9 +375,9 @@ e) Os equídeos foram tratados com substâncias proibidas por lei.
 
 3 - Sem prejuízo das decisões comunitárias que venham a ser adoptadas sobre a matéria, a autoridade competente do Estado membro de destino pode, por razões de ordem sanitária ou quando é recusada a reexpedição dos animais cuja importação foi recusada, designar o matadouro para o qual devem ser conduzidos os equídeos.
 
-###### Art. 21.º Sem prejuízo do disposto no artigo 15.º, sempre que num país terceiro apareça ou alastre uma doença contagiosa dos animais susceptível de comprometer a situação sanitária do efectivo nacional, ou sempre que qualquer outra razão de polícia sanitária o justifique, a entidade competente proibirá a importação de equídeos quando provenientes directa ou indirectamente do território de um país terceiro ou de uma parte do seu território.
+Art. 21.º Sem prejuízo do disposto no artigo 15.º, sempre que num país terceiro apareça ou alastre uma doença contagiosa dos animais susceptível de comprometer a situação sanitária do efectivo nacional, ou sempre que qualquer outra razão de polícia sanitária o justifique, a entidade competente proibirá a importação de equídeos quando provenientes directa ou indirectamente do território de um país terceiro ou de uma parte do seu território.
 
-###### Art. 22.º - 1 - O disposto no capítulo III do presente diploma não afecta os direitos e obrigações que resultem de convenções (sanitárias) celebradas entre um ou mais Estados membros e um ou mais países terceiros antes de 12 de Dezembro de 1972.
+Art. 22.º - 1 - O disposto no capítulo III do presente diploma não afecta os direitos e obrigações que resultem de convenções (sanitárias) celebradas entre um ou mais Estados membros e um ou mais países terceiros antes de 12 de Dezembro de 1972.
 
 2 - Na medida em que as convenções a que se refere o número anterior sejam incompatíveis com o presente diploma, os Estados membros em causa devem recorrer a todos os meios apropriados para eliminar as incompatibilidades verificadas.
 
@@ -453,7 +469,7 @@ I - Número de equídeos: ...
 
 II - Identificação dos equídeos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf))](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf)
 
 III - Origem e destino do(s) equídeo(s):
 
@@ -513,7 +529,7 @@ Carimbo: ...
 
 (nota b) Riscar a menção inútil.
 
-(nota c) Na República Federal da Alemanha «Beamteter Tierartz»; na Bélgica «Inspecteur vétérinaire» ou «Inspecteur dierenarts»; em França «Vétérinaire officiel»; em Itália «Veterinario ufficiale»; no Luxemburgo «Inspecteur vétérinaire»; nos Países Baixos «Officieel dierennarts»; na Dinamarca «Embeds dyrlaege»; na Irlanda «Veterinary inspector»; no Reino Unido «Veterinary inspector»; na Grécia [([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf))](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf); em Espanha «Instector veterinario»; em Portugal «Inspector veterin ário».
+(nota c) Na República Federal da Alemanha «Beamteter Tierartz»; na Bélgica «Inspecteur vétérinaire» ou «Inspecteur dierenarts»; em França «Vétérinaire officiel»; em Itália «Veterinario ufficiale»; no Luxemburgo «Inspecteur vétérinaire»; nos Países Baixos «Officieel dierennarts»; na Dinamarca «Embeds dyrlaege»; na Irlanda «Veterinary inspector»; no Reino Unido «Veterinary inspector»; na Grécia [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/067b00/14061410.pdf); em Espanha «Instector veterinario»; em Portugal «Inspector veterin ário».
 
 ## ANEXO D — Peste equina
 

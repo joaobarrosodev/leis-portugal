@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/678/1993/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1993-392233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b9ebcb586f88a03709c35601a5ca85148b576271d2807b1b7b399b1928e358c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 849c7ed31c2412df816d0087082b4bd45659ff17eec07295760319885edada07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano Geral de Urbanização
-- Regulamento
 - Évora
+- Ordenamento do Território
+- Plano Geral de Urbanização
+- Política de Solos
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:06Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +129,21 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 11 de Junho de 1993.**
+Assinada em 11 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano Geral de Urbanização de Évora
 
 ### CAPÍTULO 1.º — Disposições gerais
 
-###### Artigo 1.º A área urbana da cidade de Évora fica sujeita à aplicação das disposições do presente regulamento, que constitui parte integrante do Plano Director do Concelho de Évora.
+Artigo 1.º A área urbana da cidade de Évora fica sujeita à aplicação das disposições do presente regulamento, que constitui parte integrante do Plano Director do Concelho de Évora.
 
-###### Art. 2.º O Plano Geral de Urbanização de Évora tem a vigência de cinco anos.
+Art. 2.º O Plano Geral de Urbanização de Évora tem a vigência de cinco anos.
 
-###### Art. 3.º Quaisquer obras, quer de iniciativa pública quer privada, a realizar dentro da área de intervenção do presente Plano respeitarão obrigatoriamente às disposições deste Regulamento, respectivas peças gráficas e memória descritiva.
+Art. 3.º Quaisquer obras, quer de iniciativa pública quer privada, a realizar dentro da área de intervenção do presente Plano respeitarão obrigatoriamente às disposições deste Regulamento, respectivas peças gráficas e memória descritiva.
 
-###### Art. 4.º Para o correcto entendimento do Regulamento são consideradas as seguintes definições:
+Art. 4.º Para o correcto entendimento do Regulamento são consideradas as seguintes definições:
 
 a) Adaptação. - Destina-se a adaptar um edifício a um novo uso ou a melhorar a sua actual utilização. Consiste em obras de alteração com conservação integral dos elementos estruturais e decorativos de interesse;
 
@@ -183,25 +203,25 @@ s) Superfície urbanizável (Su). - Entende-se por superfície urbanizável uma 
 
 ### CAPÍTULO 2.º — Condicionamentos à ocupação do solo
 
-###### Art. 5.º Nos troços das ribeiras do Xarrama e Alpedriche, que delimitam a área urbana de Évora, é interdita a edificação numa faixa de 50 m, medida para um lado e outro lado das respectivas margens.
+Art. 5.º Nos troços das ribeiras do Xarrama e Alpedriche, que delimitam a área urbana de Évora, é interdita a edificação numa faixa de 50 m, medida para um lado e outro lado das respectivas margens.
 
-###### Art. 6.º Ao longo das linhas de caminho de ferro que atravessam o concelho e numa faixa de 20 m medida para um e outro lado das vias é interdita a execução de quaisquer construções.
+Art. 6.º Ao longo das linhas de caminho de ferro que atravessam o concelho e numa faixa de 20 m medida para um e outro lado das vias é interdita a execução de quaisquer construções.
 
-###### Art. 7.º Nos troços das estradas nacionais, classificadas como de 1.ª classe, que atravessam o concelho é estabelecida uma faixa de respeito de 50 m, medida para um e outro lado do limite da plataforma das mesmas, onde é interdita a execução de qualquer edificação.
+Art. 7.º Nos troços das estradas nacionais, classificadas como de 1.ª classe, que atravessam o concelho é estabelecida uma faixa de respeito de 50 m, medida para um e outro lado do limite da plataforma das mesmas, onde é interdita a execução de qualquer edificação.
 
-###### Art. 8.º - 1 - Ao longo do traçado dos emissários de condução de afluentes são estabelecidas faixas de 5 m e de 10 m, medidas para um e outro lados, onde são interditas, respectivamente, a execução de quaisquer construções e a plantação de árvores.
+Art. 8.º - 1 - Ao longo do traçado dos emissários de condução de afluentes são estabelecidas faixas de 5 m e de 10 m, medidas para um e outro lados, onde são interditas, respectivamente, a execução de quaisquer construções e a plantação de árvores.
 
 2 - Não será autorizada a execução de qualquer construção a distância inferior a 200 m do perímetro da área correspondente à estação de tratamento de efluentes.
 
-###### Art. 9.º Ao longo do traçado das condutas adutoras de água são estabelecidas faixas de 5 m e de 10 m, medidas para um e outro lados, onde são interditas, respectivamente, a execução de quaisquer construções e a plantação de árvores.
+Art. 9.º Ao longo do traçado das condutas adutoras de água são estabelecidas faixas de 5 m e de 10 m, medidas para um e outro lados, onde são interditas, respectivamente, a execução de quaisquer construções e a plantação de árvores.
 
-###### Art. 10.º É estabelecido um corredor em anel de 200 m de largura, como delimitado no desenho n.º 3, destinado à implementação de linhas de condução de energia eléctrica de alta tensão (150 kW), onde não será autorizada a execução de quaisquer construções.
+Art. 10.º É estabelecido um corredor em anel de 200 m de largura, como delimitado no desenho n.º 3, destinado à implementação de linhas de condução de energia eléctrica de alta tensão (150 kW), onde não será autorizada a execução de quaisquer construções.
 
-###### Art. 11.º - 1 - No desenho n.º 3 são definidos os limites dos corredores destinados à implantação de infra-estruturas projectadas ou previstas, onde não será permitida a execução de quaisquer construções.
+Art. 11.º - 1 - No desenho n.º 3 são definidos os limites dos corredores destinados à implantação de infra-estruturas projectadas ou previstas, onde não será permitida a execução de quaisquer construções.
 
 2 - O condicionamento do número anterior será levantado, suspenso ou alterado logo que para tais infra-estruturas existam projectos aprovados que definam os traçados e as faixas de respeito permanentes.
 
-###### Art. 12.º - 1 - A construção de rodovias urbanas na área urbana da cidade de Évora deverá obedecer aos seguintes perfis tipo definidos no desenho n.º 6:
+Art. 12.º - 1 - A construção de rodovias urbanas na área urbana da cidade de Évora deverá obedecer aos seguintes perfis tipo definidos no desenho n.º 6:
 
 a) Rede primária:
 
@@ -231,15 +251,15 @@ d) As vias radiais de acesso existentes pertencentes à rede primária deverão 
 
 e) A via circular envolvente das muralhas deverá ser uniformizada com um perfil de 7 m, com excepção do troço norte, que deverá manter o perfil com duas faixas de circulação separadas.
 
-###### Art. 13.º - 1 - É interdita a instalação de lixeiras dentro dos limites das áreas urbanas.
+Art. 13.º - 1 - É interdita a instalação de lixeiras dentro dos limites das áreas urbanas.
 
 2 - É igualmente interdita a execução de edificações a distância inferior a 200 m dos limites das áreas ocupadas por lixeiras.
 
-###### Art. 14.º - 1 - Nos sectores de tomada de vista panorâmica sobre a cidade de Évora, Alto dos Moinhos de São Bento, Convento do Espinheiro e Alto da Boa Morte, estrada nacional n.º 254, delimitados no desenho n.º 3, a altura das edificações a erigir não poderá ultrapassar as linhas que ligam os pontos de tomada de vista panorâmica sobre a cidade e o coroamento das muralhas, conforme esquemas do desenho n.º 4.
+Art. 14.º - 1 - Nos sectores de tomada de vista panorâmica sobre a cidade de Évora, Alto dos Moinhos de São Bento, Convento do Espinheiro e Alto da Boa Morte, estrada nacional n.º 254, delimitados no desenho n.º 3, a altura das edificações a erigir não poderá ultrapassar as linhas que ligam os pontos de tomada de vista panorâmica sobre a cidade e o coroamento das muralhas, conforme esquemas do desenho n.º 4.
 
 2 - Constitui excepção ao disposto no número anterior a situação pontual da edificação destinada a serviços públicos, a erigir na zona 6-15 do sector oeste.
 
-###### Art. 15.º - 1 - A Câmara Municipal poderá suspender as licenças de obras concedidas sempre que, no decorrer dos respectivos trabalhos, se verifique a descoberta de elementos arquitectónicos ou achados arqueológicos.
+Art. 15.º - 1 - A Câmara Municipal poderá suspender as licenças de obras concedidas sempre que, no decorrer dos respectivos trabalhos, se verifique a descoberta de elementos arquitectónicos ou achados arqueológicos.
 
 2 - O prosseguimento dos trabalhos dependerá do estudo e identificação dos elementos descobertos, tarefa para a qual a Câmara poderá recorrer ao concurso do Instituto Português do Património Cultural.
 
@@ -247,9 +267,9 @@ e) A via circular envolvente das muralhas deverá ser uniformizada com um perfil
 
 #### SECÇÃO 1.ª — Área urbana de Évora
 
-###### Art. 16.º A área urbana da cidade de Évora, delimitada nos desenhos n.os 3 e 5, caracteriza-se por uma concentração de funções, nela se distinguindo zonas de habitação, zonas de indústria, zonas de comércio e serviços, zonas verdes, zonas de equipamento, zonas especiais e zonas de urbanização não programada.
+Art. 16.º A área urbana da cidade de Évora, delimitada nos desenhos n.os 3 e 5, caracteriza-se por uma concentração de funções, nela se distinguindo zonas de habitação, zonas de indústria, zonas de comércio e serviços, zonas verdes, zonas de equipamento, zonas especiais e zonas de urbanização não programada.
 
-###### Art. 17.º Para a área definida no artigo precedente são estabelecidos os seguintes condicionamentos:
+Art. 17.º Para a área definida no artigo precedente são estabelecidos os seguintes condicionamentos:
 
 1) É interdita a instalação de indústrias nocivas e de todas as actividades artesanais que a Câmara Municipal, ouvidas as juntas de freguesia e a Delegação de Saúde, considere tenham efeitos incompatíveis com a habitação ou sejam susceptíveis de pôr em perigo a segurança e saúde públicas;
 
@@ -257,7 +277,7 @@ e) A via circular envolvente das muralhas deverá ser uniformizada com um perfil
 
 ##### SUBSECÇÃO 1.ª — Zonas de habitação
 
-###### Art. 18.º - 1 - São zonas de habitação as delimitadas como tal no desenho n.º 2 e destinadas predominantemente a habitação e equipamento complementar, como instalações culturais, recreativas, comerciais, podendo ainda incluir pequenas instalações artesanais e industriais compatíveis com a habitação.
+Art. 18.º - 1 - São zonas de habitação as delimitadas como tal no desenho n.º 2 e destinadas predominantemente a habitação e equipamento complementar, como instalações culturais, recreativas, comerciais, podendo ainda incluir pequenas instalações artesanais e industriais compatíveis com a habitação.
 
 2 - É permitida a instalação de unidades hoteleiras ou similares desde que integradas nas condições de edificabilidade das respectivas zonas.
 
@@ -269,7 +289,7 @@ b) Zonas de habitação a renovar ou integrar;
 
 c) Zonas de habitação de expansão.
 
-###### Art. 19.º Para as zonas de habitação consolidada e a renovar ou integrar são estabelecidos os seguintes condicionamentos:
+Art. 19.º Para as zonas de habitação consolidada e a renovar ou integrar são estabelecidos os seguintes condicionamentos:
 
 1 - Os afastamentos entre as fachadas dos edifícios não poderão ser inferiores aos que se verifiquem entre os volumes construídos existentes, com excepção do disposto no número seguinte.
 
@@ -297,11 +317,11 @@ d) O caso de edifícios singulares projectados em conjunto com a sua envolvênci
 
 ##### DIVISÃO 1.ª — Zona de habitação consolidada
 
-###### Art. 20.º - 1 - Zonas de habitação consolidada são aquelas onde existem infra-estruturas primárias e secundárias, estando definidos os alinhamentos dos planos marginais na maioria dos lotes por edifícios que se considera de manter.
+Art. 20.º - 1 - Zonas de habitação consolidada são aquelas onde existem infra-estruturas primárias e secundárias, estando definidos os alinhamentos dos planos marginais na maioria dos lotes por edifícios que se considera de manter.
 
 2 - Na revisão dos planos das zonas de habitação consolidada, na eventual alteração do índice de utilização, deverão ser ponderadas as consequências da densificação, atendendo à capacidade dos equipamentos e de estacionamento nos espaços públicos.
 
-###### Art. 21.º Para a zona de habitação consolidada são estabelecidos os seguintes condicionamentos:
+Art. 21.º Para a zona de habitação consolidada são estabelecidos os seguintes condicionamentos:
 
 1) A concretização do Plano far-se-á através da edificação lote a lote ou do loteamento urbano e ainda eventual ampliação das edificações existentes;
 
@@ -329,9 +349,9 @@ IV) 15 m2 por cada 100 m2 de lotes de terreno para actividades artesanais e indu
 
 ##### DIVISÃO 2.ª — Zona de habitação a renovar ou integrar
 
-###### Art. 22.º Zonas de habitação a renovar ou integrar são aquelas de origem espontânea ou clandestina, possuindo uma malha urbana total ou parcialmente definida, dispondo ou não de urbanização primária e secundária.
+Art. 22.º Zonas de habitação a renovar ou integrar são aquelas de origem espontânea ou clandestina, possuindo uma malha urbana total ou parcialmente definida, dispondo ou não de urbanização primária e secundária.
 
-###### Art. 23.º Para a zona de habitação a renovar ou integrar são estabelecidos os seguintes condicionamentos, tendo em vista a sua consolidação e integração na malha urbana:
+Art. 23.º Para a zona de habitação a renovar ou integrar são estabelecidos os seguintes condicionamentos, tendo em vista a sua consolidação e integração na malha urbana:
 
 1) A edificação, a reconstrução ou o loteamento urbano serão sempre precedidos da elaboração de um plano parcial de urbanização a elaborar pela Câmara Municipal de Évora, exceptuando-se as situações de edificação ou reconstrução que não comprometam o objectivo de reestruturação definido no plano geral de urbanização respectivo;
 
@@ -345,11 +365,11 @@ IV) 15 m2 por cada 100 m2 de lotes de terreno para actividades artesanais e indu
 
 ##### DIVISÃO 3.ª — Zona de habitação de expansão
 
-###### Art. 24.º - 1 - São zonas de habitação de expansão aquelas onde o Plano prevê a construção de novos conjuntos residenciais e cuja edificação em loteamento urbano exige a construção de obras de urbanização primária e secundária, no que se refere à instalação de creches e jardins-de-infância.
+Art. 24.º - 1 - São zonas de habitação de expansão aquelas onde o Plano prevê a construção de novos conjuntos residenciais e cuja edificação em loteamento urbano exige a construção de obras de urbanização primária e secundária, no que se refere à instalação de creches e jardins-de-infância.
 
 2 - Nestas zonas o Plano deverá processar-se através de planos de pormenor e projectos de urbanização a realizar pela Câmara Municipal de Évora para as áreas de intervenção individualizada, aos quais se deverão sujeitar os processos de loteamento dos diversos prédios rústicos.
 
-###### Art. 25.º Para a zona de habitação de expansão, que se subdivide em expansão H1, expansão H2 e expansão H3, são estabelecidos, respectivamente, os seguintes condicionamentos:
+Art. 25.º Para a zona de habitação de expansão, que se subdivide em expansão H1, expansão H2 e expansão H3, são estabelecidos, respectivamente, os seguintes condicionamentos:
 
 1) Expansão H1:
 
@@ -403,9 +423,9 @@ e) Área de cedência para espaço verde público de recreio ligado à habitaç�
 
 ##### SUBSECÇÃO 2.ª — Zona de indústria
 
-###### Art. 26.º São zonas de indústria aquelas destinadas à implantação de edifícios e instalações industriais, nelas se incluindo as áreas destinadas à instalação de laboratórios de pesquisa e análise, armazéns, depósitos, silos, oficinas, edifícios de natureza recreativa e social ao serviço dos trabalhadores da indústria, escritório e salas de exposição ligadas à actividade de produção e ainda a edificação de habitação para encarregados e pessoal de vigilância e manutenção dos complexos industriais.
+Art. 26.º São zonas de indústria aquelas destinadas à implantação de edifícios e instalações industriais, nelas se incluindo as áreas destinadas à instalação de laboratórios de pesquisa e análise, armazéns, depósitos, silos, oficinas, edifícios de natureza recreativa e social ao serviço dos trabalhadores da indústria, escritório e salas de exposição ligadas à actividade de produção e ainda a edificação de habitação para encarregados e pessoal de vigilância e manutenção dos complexos industriais.
 
-###### Art. 27.º Para a zona definida no artigo anterior são estabelecidos os seguintes condicionamentos:
+Art. 27.º Para a zona definida no artigo anterior são estabelecidos os seguintes condicionamentos:
 
 1) As unidades industriais localizar-se-ão em loteamento industrial ou integradas em áreas urbanas;
 
@@ -427,11 +447,11 @@ O projecto da estação de tratamento deverá justificar tecnicamente o tratamen
 
 ##### SUBSECÇÃO 3.ª — Zona de comércio e serviços
 
-###### Art. 28.º - 1 - Zonas de comércio e serviços são aquelas destinadas exclusivamente à instalação de serviços públicos ou de interesse colectivo, promovida pela Administração Pública ou por entidades públicas ou privadas, nomeadamente para actividades culturais e religiosas, serviços públicos ou privados, mercados e grandes instalações de venda a retalho.
+Art. 28.º - 1 - Zonas de comércio e serviços são aquelas destinadas exclusivamente à instalação de serviços públicos ou de interesse colectivo, promovida pela Administração Pública ou por entidades públicas ou privadas, nomeadamente para actividades culturais e religiosas, serviços públicos ou privados, mercados e grandes instalações de venda a retalho.
 
 2 - As zonas definidas no artigo anterior, identificadas no desenho n.º 5, para as quais a Câmara Municipal de Évora promoverá a elaboração de planos de pormenor, subdividem-se em zona 6-15, zona 5-14 e zona 7-01.
 
-###### Art. 29.º Para as zonas de comércio e serviços são estabelecidos os seguintes condicionamentos:
+Art. 29.º Para as zonas de comércio e serviços são estabelecidos os seguintes condicionamentos:
 
 1) Zona 6-15:
 
@@ -459,7 +479,7 @@ c) Afastamento mínimo à estrada nacional n.º 114 - 20 m;
 
 ##### DIVISÃO 1.ª — Zonas verdes de protecção
 
-###### Art. 30.º Zonas verdes de protecção são zonas de estrutura verde urbana através das quais se pretende proteger:
+Art. 30.º Zonas verdes de protecção são zonas de estrutura verde urbana através das quais se pretende proteger:
 
 a) A estabilidade física, nomeadamente encostas e linhas de água;
 
@@ -469,7 +489,7 @@ c) Zonas de recreio, inseridas na estrutura verde;
 
 d) As infra-estruturas, nomeadamente rodovias.
 
-###### Art. 31.º Para as zonas definidas no artigo anterior são estabelecidos os seguintes condicionamentos:
+Art. 31.º Para as zonas definidas no artigo anterior são estabelecidos os seguintes condicionamentos:
 
 1) Interdito o loteamento urbano;
 
@@ -491,7 +511,7 @@ Este articulado não se aplica ao sector monumental, dado tratar-se de uma das c
 
 ##### DIVISÃO 2.ª — Zonas verdes de uso colectivo
 
-###### Art. 32.º - 1 - As zonas verdes de uso colectivo, devidamente equipadas, destinam-se a recreio e lazer ao ar livre.
+Art. 32.º - 1 - As zonas verdes de uso colectivo, devidamente equipadas, destinam-se a recreio e lazer ao ar livre.
 
 2 - Nas zonas verdes de uso colectivo distinguem-se as zonas de recreio ligadas à habitação e as zonas verdes complementares (parque urbano).
 
@@ -499,7 +519,7 @@ Este articulado não se aplica ao sector monumental, dado tratar-se de uma das c
 
 4 - As zonas verdes complementares (parque urbano) são zonas exteriores à malha habitacional, tendo como função, para além de apoio às actividades de recreio e lazer, garantir a continuidade dos ecossistemas naturais.
 
-###### Art. 33.º - 1 - As zonas verdes de uso colectivo serão públicas e a sua construção deverá ser definida em plano.
+Art. 33.º - 1 - As zonas verdes de uso colectivo serão públicas e a sua construção deverá ser definida em plano.
 
 2 - Para estas zonas observar-se-á o seguinte regime transitório, que antecederá a transferência da sua posse e propriedade para a Administração, não sendo permitidas:
 
@@ -515,13 +535,13 @@ e) Descarga de entulho de qualquer tipo.
 
 ##### SUBSECÇÃO 5.ª — Zonas de equipamento
 
-###### Art. 34.º As zonas de equipamento são destinadas exclusivamente à instalação de equipamentos de interesse e utilização colectiva.
+Art. 34.º As zonas de equipamento são destinadas exclusivamente à instalação de equipamentos de interesse e utilização colectiva.
 
-###### Art. 35.º - 1 - A cércea máxima dos edifícios de equipamento não excederá 9 m, exceptuando situações tecnicamente justificáveis.
+Art. 35.º - 1 - A cércea máxima dos edifícios de equipamento não excederá 9 m, exceptuando situações tecnicamente justificáveis.
 
 2 - Nas zonas de equipamento deverá ser previsto estacionamento com capacidade adequada aos usos previstos.
 
-###### Art. 36.º Nas zonas de equipamento observar-se-á o seguinte regime transitório, que antecederá a transferência da sua posse para a Administração, sem prejuízo da continuidade da exploração agrícola, não sendo permitidas:
+Art. 36.º Nas zonas de equipamento observar-se-á o seguinte regime transitório, que antecederá a transferência da sua posse para a Administração, sem prejuízo da continuidade da exploração agrícola, não sendo permitidas:
 
 a) A execução de quaisquer construções;
 
@@ -537,9 +557,9 @@ e) Descarga de entulho de qualquer tipo.
 
 ##### DIVISÃO 1.ª — Sector monumental - extramuros
 
-###### Art. 37.º Tendo em vista a preservação da unidade do conjunto de monumentos - Forte de Santo António, aqueduto, Conventos da Cartuxa e de São Bento de Castris -, bem como assegurar a ligação do núcleo histórico com as áreas agrícolas envolventes, o sector monumental - extramuros, delimitado nos desenhos n.os 3 e 5, é classificado como sítio, nos termos do artigo 4.º, n.º 1, alínea c), do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+Art. 37.º Tendo em vista a preservação da unidade do conjunto de monumentos - Forte de Santo António, aqueduto, Conventos da Cartuxa e de São Bento de Castris -, bem como assegurar a ligação do núcleo histórico com as áreas agrícolas envolventes, o sector monumental - extramuros, delimitado nos desenhos n.os 3 e 5, é classificado como sítio, nos termos do artigo 4.º, n.º 1, alínea c), do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
 
-###### Art. 38.º No sector definido no artigo anterior, que deverá manter a utilização agrícola, serão observados os seguintes condicionamentos:
+Art. 38.º No sector definido no artigo anterior, que deverá manter a utilização agrícola, serão observados os seguintes condicionamentos:
 
 1) Não será permitido:
 
@@ -559,9 +579,9 @@ f) A descarga de entulho de qualquer tipo;
 
 ##### DIVISÃO 2.ª — Cidade intramuros - Centro Histórico
 
-###### Art. 39.º A cidade intramuros - Centro Histórico, delimitada no desenho n.º 7, é considerada como conjunto histórico, nos termos do artigo 4.º, n.º 1, alínea b), do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, tendo em vista a salvaguarda e protecção do respectivo património cultural, arquitectónico e urbanístico.
+Art. 39.º A cidade intramuros - Centro Histórico, delimitada no desenho n.º 7, é considerada como conjunto histórico, nos termos do artigo 4.º, n.º 1, alínea b), do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, tendo em vista a salvaguarda e protecção do respectivo património cultural, arquitectónico e urbanístico.
 
-###### Art. 40.º As edificações que individualmente consideradas integram o património da cidade intramuros - Centro Histórico, catalogadas e descritas em fichas, encontram-se classificadas, em função da sua qualidade, nas seguintes categorias:
+Art. 40.º As edificações que individualmente consideradas integram o património da cidade intramuros - Centro Histórico, catalogadas e descritas em fichas, encontram-se classificadas, em função da sua qualidade, nas seguintes categorias:
 
 A1 - monumentos nacionais classificados por decreto;
 
@@ -577,7 +597,7 @@ C1 - edifícios com fachadas com interesse;
 
 C2 - edifícios com alguns elementos na fachada com interesse.
 
-###### Art. 41.º - 1 - Na cidade intramuros são autorizados os ramos de actividade ou funções de habitação, comércio, serviços e equipamento, indústria e artesanato.
+Art. 41.º - 1 - Na cidade intramuros são autorizados os ramos de actividade ou funções de habitação, comércio, serviços e equipamento, indústria e artesanato.
 
 2 - É interdita a instalação de novos estabelecimentos comerciais nas vias principais com largura inferior a 5 m.
 
@@ -585,9 +605,9 @@ C2 - edifícios com alguns elementos na fachada com interesse.
 
 4 - Poderão ser admitidas excepções ao disposto no número anterior sempre que a actividade a instalar concorra directamente para o objectivo apontado pelo Plano de Valorização da Cidade Intramuros - Centro Histórico e desde que dessa instalação não resultem incómodos, nomeadamente poluição sonora ou gasosa, vibrações e choques, aumento substancial do volume de tráfego automóvel e movimentos de carga e descarga de veículos pesados.
 
-###### Art. 42.º As obras a realizar nas edificações da cidade intramuros - Centro Histórico revestirão as formas de conservação, restauro, adaptação, remodelação, reconstrução e construção.
+Art. 42.º As obras a realizar nas edificações da cidade intramuros - Centro Histórico revestirão as formas de conservação, restauro, adaptação, remodelação, reconstrução e construção.
 
-###### Art. 43.º - 1 - Nas edificações classificadas nas categorias A1 e A2 apenas serão autorizadas obras de conservação e restauro.
+Art. 43.º - 1 - Nas edificações classificadas nas categorias A1 e A2 apenas serão autorizadas obras de conservação e restauro.
 
 2 - Nas edificações classificadas nas categorias A3 e B1 são autorizadas obras de conservação, restauro e adaptação.
 
@@ -605,23 +625,23 @@ b) A elaboração do projecto de reconstrução, que respeitará integralmente a
 
 7 - Nas edificações não classificadas em qualquer das categorias referidas no artigo 40.º são autorizados todos os tipos de obras mencionas no artigo anterior.
 
-###### Art. 44.º Nas obras de adaptação e ou remodelação de edificações habitacionais não é permitido o aumento do número de fogos, salvo quando se assegure no próprio lote a área de estacionamento necessária ou quando tais obras se integrem em planos de recuperação de conjunto de um ou mais quarteirões ou ainda quando não resultem alterações do volume exterior da construção ou a destruição total ou parcial de elementos estruturais e ou decorativos a preservar.
+Art. 44.º Nas obras de adaptação e ou remodelação de edificações habitacionais não é permitido o aumento do número de fogos, salvo quando se assegure no próprio lote a área de estacionamento necessária ou quando tais obras se integrem em planos de recuperação de conjunto de um ou mais quarteirões ou ainda quando não resultem alterações do volume exterior da construção ou a destruição total ou parcial de elementos estruturais e ou decorativos a preservar.
 
-###### Art. 45.º Nas obras de adaptação e ou remodelação de edificações de utilização comercial, de serviços ou equipamento é permitido o aumento da área de pavimento, desde que tal não implique a alteração da fachada ou do volume exterior ou a destruição total ou parcial de elementos estruturais ou decorativos a preservar.
+Art. 45.º Nas obras de adaptação e ou remodelação de edificações de utilização comercial, de serviços ou equipamento é permitido o aumento da área de pavimento, desde que tal não implique a alteração da fachada ou do volume exterior ou a destruição total ou parcial de elementos estruturais ou decorativos a preservar.
 
-###### Art. 46.º Na reconstrução de edificações não é permitido o aumento do volume exterior relativamente ao edifício preexistente no mesmo local, salvo se as construções imediatamente contíguas possuírem dois pisos, caso em que se autorizará a uniformização da cércea.
+Art. 46.º Na reconstrução de edificações não é permitido o aumento do volume exterior relativamente ao edifício preexistente no mesmo local, salvo se as construções imediatamente contíguas possuírem dois pisos, caso em que se autorizará a uniformização da cércea.
 
-###### Art. 47.º Na reconstrução de edificações habitacionais não será permitido o aumento do número de fogos relativamente ao edifício preexistente, salvo se for garantida no interior do lote a área de estacionamento na proporção de um veículo por fogo ou quando se trate da situação prevista na parte final do artigo anterior, caso em que se permitirá o aumento de um fogo.
+Art. 47.º Na reconstrução de edificações habitacionais não será permitido o aumento do número de fogos relativamente ao edifício preexistente, salvo se for garantida no interior do lote a área de estacionamento na proporção de um veículo por fogo ou quando se trate da situação prevista na parte final do artigo anterior, caso em que se permitirá o aumento de um fogo.
 
-###### Art. 48.º Nas obras de reconstrução ou construção não é permitida a alteração dos alinhamentos existentes, salvo se diferentemente resultar de plano de pormenor aprovado.
+Art. 48.º Nas obras de reconstrução ou construção não é permitida a alteração dos alinhamentos existentes, salvo se diferentemente resultar de plano de pormenor aprovado.
 
-###### Art. 49.º Na reconstrução de edificações poderá ser imposta a diminuição da respectiva cércea, de acordo com o parecer da CMAAP, quando se trate de edifício ou edifícios que pelo seu vulto ou características exteriores prejudiquem um conjunto histórico ou pitoresco ou impeçam vistas sobre tal conjunto ou que dele se disfrutem.
+Art. 49.º Na reconstrução de edificações poderá ser imposta a diminuição da respectiva cércea, de acordo com o parecer da CMAAP, quando se trate de edifício ou edifícios que pelo seu vulto ou características exteriores prejudiquem um conjunto histórico ou pitoresco ou impeçam vistas sobre tal conjunto ou que dele se disfrutem.
 
-###### Art. 50.º Em qualquer obra de adaptação, remodelação ou reconstrução não poderão ser reduzidas as superfícies de pátios, jardins ou quaisquer outros espaços livres a nível de rés-do-chão, com excepção dos locais onde o Plano prevê novas edificações.
+Art. 50.º Em qualquer obra de adaptação, remodelação ou reconstrução não poderão ser reduzidas as superfícies de pátios, jardins ou quaisquer outros espaços livres a nível de rés-do-chão, com excepção dos locais onde o Plano prevê novas edificações.
 
-###### Art. 51.º As obras de edificação novas apenas serão permitidas nas áreas para tal expressamente previstas no Plano.
+Art. 51.º As obras de edificação novas apenas serão permitidas nas áreas para tal expressamente previstas no Plano.
 
-###### Art. 52.º - 1 - A cércea das edificações a erigir não poderá ser superior:
+Art. 52.º - 1 - A cércea das edificações a erigir não poderá ser superior:
 
 a) À altura dos edifícios imediatamente contíguos ao respectivo lote;
 
@@ -641,7 +661,7 @@ b) Se os arruamentos, pátios ou praças possuírem declive, a medida será toma
 
 4 - As cérceas e alturas estabelecidas no n.º 1 poderão ainda ser ultrapassadas em situações de edificações novas integradas em plano de conjunto aprovado, não devendo no entanto, em caso algum, exceder 9,5 m.
 
-###### Art. 53.º - 1 - As coberturas na cidade intramuros - Centro Histórico deverão ser em telha do tipo lusa artesanal, de canudo ou romana:
+Art. 53.º - 1 - As coberturas na cidade intramuros - Centro Histórico deverão ser em telha do tipo lusa artesanal, de canudo ou romana:
 
 a) São permitidas também coberturas em terraço revestido com tijoleira;
 
@@ -649,21 +669,21 @@ b) Admitem-se coberturas mistas em telha e terraço nas condições definidas an
 
 2 - Não será permitida a utilização de telhas tipo Marselha, bem como coberturas em argibetão, chapas de fibrocimento, alumínio ou materiais similares.
 
-###### Art. 54.º - 1 - Salvo em casos especiais devidamente justificados, ainda que dependentes de aprovação, deverão ser utilizados rebocos de argamassa de cimento, cal e areia recobertas com caiação.
+Art. 54.º - 1 - Salvo em casos especiais devidamente justificados, ainda que dependentes de aprovação, deverão ser utilizados rebocos de argamassa de cimento, cal e areia recobertas com caiação.
 
 2 - Não é permitida a utilização de rebocos, tais como imitação de tijolo ou cantaria, de tipo tirolês ou carapinha, e ainda a utilização de revestimentos de materiais cerâmicos vidrados ou azulejados e de marmorites.
 
-###### Art. 55.º Não é permitida a utilização, em qualquer tipo de edificações, de caixilharia de alumínio em cor natural ou dourada.
+Art. 55.º Não é permitida a utilização, em qualquer tipo de edificações, de caixilharia de alumínio em cor natural ou dourada.
 
-###### Art. 56.º - 1 - Na cidade intramuros - Centro Histórico a utilização de cores depende da prévia autorização municipal, devendo de preferência utilizar-se a cor branca, conjugada com aquelas consagradas pelas arquitecturas de tipo popular - azul - ou de tipo erudito - cinzento ou ocre.
+Art. 56.º - 1 - Na cidade intramuros - Centro Histórico a utilização de cores depende da prévia autorização municipal, devendo de preferência utilizar-se a cor branca, conjugada com aquelas consagradas pelas arquitecturas de tipo popular - azul - ou de tipo erudito - cinzento ou ocre.
 
 2 - Nas portas, janelas e caixilharias, que deverão ser de madeira, deverão ser utilizadas as cores verde e castanho.
 
-###### Art. 57.º A utilização de elementos decorativos de exterior, tais como remates, platibandas, cercaduras, pináculos, etc., apenas será autorizada nos casos em que seja plausível a sua justificação.
+Art. 57.º A utilização de elementos decorativos de exterior, tais como remates, platibandas, cercaduras, pináculos, etc., apenas será autorizada nos casos em que seja plausível a sua justificação.
 
-###### Art. 58.º Não é permitida a demolição ou deformação de chaminés, platibandas, reixas, grades de ferro decoradas em varandas, açoteias, mirantes e contramirantes ou quaisquer outros pormenores que tenham sido objecto de classificação.
+Art. 58.º Não é permitida a demolição ou deformação de chaminés, platibandas, reixas, grades de ferro decoradas em varandas, açoteias, mirantes e contramirantes ou quaisquer outros pormenores que tenham sido objecto de classificação.
 
-###### Art. 59.º - 1 - Nas edificações utilizadas ou a utilizar como estabelecimentos comerciais, quaisquer obras a realizar deverão respeitar o carácter e a expressão arquitectónica das mesmas:
+Art. 59.º - 1 - Nas edificações utilizadas ou a utilizar como estabelecimentos comerciais, quaisquer obras a realizar deverão respeitar o carácter e a expressão arquitectónica das mesmas:
 
 a) Nas edificações classificadas como de interesse, onde se admite a utilização para fins comerciais, não serão autorizadas quaisquer obras que sejam susceptíveis de provocar desarmonia nas fachadas;
 
@@ -675,15 +695,15 @@ d) Não será autorizada a utilização nos estabelecimentos comerciais de porta
 
 e) Não será igualmente permitida a utilização de instalação de montras salientes das paredes exteriores.
 
-###### Art. 60.º O município definirá em regulamento próprio as condições para a utilização de publicidade com carácter permanente.
+Art. 60.º O município definirá em regulamento próprio as condições para a utilização de publicidade com carácter permanente.
 
 ##### SUBSECÇÃO 7.ª — Zonas de urbanização não programada
 
-###### Art. 61.º - 1 - São zonas de urbanização não programada aquelas onde se reconhece vocação para ocupação com fins urbanos, mas que o previsível crescimento demográfico, a inexistência de infra-estruturas urbanísticas ou deficientes condições de acessibilidade justificam a sua não utilização imediata.
+Art. 61.º - 1 - São zonas de urbanização não programada aquelas onde se reconhece vocação para ocupação com fins urbanos, mas que o previsível crescimento demográfico, a inexistência de infra-estruturas urbanísticas ou deficientes condições de acessibilidade justificam a sua não utilização imediata.
 
 2 - A Câmara Municipal Évora determinará a utilização destas zonas através da elaboração de planos de pormenor, logo que considere ultrapassadas as circunstâncias que justificaram a aplicação do presente regime.
 
-###### Art. 62.º Enquanto, através da elaboração do plano de pormenor, a Câmara Municipal de Évora não determinar a alteração do estatuto da zona de urbanização não programada, observar-se-á o seguinte regime provisório:
+Art. 62.º Enquanto, através da elaboração do plano de pormenor, a Câmara Municipal de Évora não determinar a alteração do estatuto da zona de urbanização não programada, observar-se-á o seguinte regime provisório:
 
 1) Não serão permitidos:
 
@@ -701,6 +721,6 @@ e) A descarga de entulho de qualquer tipo;
 
 ### CAPÍTULO 4.º — Disposição final
 
-###### Art. 63.º As restrições regulamentares são supletivas relativamente às restrições concorrentes de ordem legal, não impedindo a aplicação destas.
+Art. 63.º As restrições regulamentares são supletivas relativamente às restrições concorrentes de ordem legal, não impedindo a aplicação destas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/168b00/39073913.pdf))](https://files.diariodarepublica.pt/1s/1993/07/168b00/39073913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/168b00/39073913.pdf)

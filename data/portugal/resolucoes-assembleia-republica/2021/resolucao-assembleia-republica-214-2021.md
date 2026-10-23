@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14500/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/214/2021/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/214-2021-168475288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39f67ee647fd3ef3fe67161220dc8eddcc2579dd8e793b4b3f920582afeface0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6b7a2aeb570673af5f74e83cf6d7d1c3aee321524be246280e9ceeadb4d2462
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Atividade Agrícola
 - Desenvolvimento Rural
-- Exploração Agrícola Familiar
 - Estatuto
-- Recomendação
-- Política Agrícola
-- Regime de Apoio
-- Agricultura
+- Exploração Agrícola Familiar
 - Governo
 - PDR 2020
+- Política Agrícola
+- Recomendação
+- Regime de Apoio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2018/08/07/p/dre
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/298/2019/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+- type: cites
+  target: pt:dre:115933868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:00Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +139,6 @@ c) A possibilidade de atribuição do título de reconhecimento do Estatuto quer
 
 Aprovada em 25 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+114420376

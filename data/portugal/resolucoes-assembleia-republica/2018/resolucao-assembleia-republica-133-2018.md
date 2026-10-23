@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/10100/0228602289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/133/2018/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/133-2018-115392182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb2cd3524aee2769cf41d72c3188c1d93a3ab2ecb6de528e3849e7f5857e3baf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfd5dcfc85864a1fcb196d91f69db2c318624dd6888f199647ad21b7d2cf95d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
 - Índia
-relationships: []
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:115392181:por
+  label: Ratificado o Protocolo que altera a Convenção entre o Governo da República Portuguesa e o Governo da República da
+    Índia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento (assinada em
+    Lisboa, em 11 de setembro de 1998), assinado em Lisboa, a 24 de junho de 2017, aprovado pela presente resolução, pelo(a)
+    Decreto do Presidente da República n.º 38/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/38-2018-115392181
+  date: '2018-05-25'
 article_structure:
-  article_count: 0
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:07Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +105,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de abril de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOLO QUE ALTERA A CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA ÍNDIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
 A República Portuguesa e a República da Índia, desejando alterar a Convenção entre o Governo da República Portuguesa e o Governo da República da Índia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em 11 de setembro de 1998 (a seguir referida por «Convenção»), acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 O texto do artigo 26.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -123,7 +131,7 @@ c) De fornecer informações reveladoras de segredos ou processos comerciais, in
 
 5 - O disposto no n.º 3 não pode em caso algum ser interpretado no sentido de permitir que um Estado Contratante se recuse a fornecer informações unicamente porque estas são detidas por um banco, outra instituição financeira, um mandatário ou por uma pessoa agindo na qualidade de agente ou fiduciário, ou porque essas informações respeitam aos direitos de propriedade de uma pessoa.»
 
-Artigo II
+###### Artigo II
 
 Os Estados Contratantes acordam em incluir o seguinte número no Protocolo à Convenção:
 
@@ -131,11 +139,11 @@ Os Estados Contratantes acordam em incluir o seguinte número no Protocolo à Co
 
 A autoridade que fornece as informações e a autoridade que as obtém ficam obrigadas a tomar medidas efetivas para proteger os dados pessoais fornecidos contra o acesso não autorizado, a alteração não autorizada e a divulgação não autorizada.»
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo entrará em vigor no 30.º dia após a data em que tenham sido trocadas as notas diplomáticas indicando a conclusão dos procedimentos legais internos necessários em cada Estado Contratante para a entrada em vigor do presente Protocolo.
 
-Artigo IV
+###### Artigo IV
 
 O presente Protocolo faz parte integrante da Convenção e permanecerá em vigor enquanto a Convenção permanecer em vigor.
 
@@ -151,7 +159,7 @@ Pelo Governo da República da Índia:
 
 K. Nandini Singla, Embaixadora da República da Índia em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/05/10100/0228602289.pdf))](https://files.diariodarepublica.pt/1s/2018/05/10100/0228602289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/05/10100/0228602289.pdf)
 
 PROTOCOL AMENDING THE CONVENTION BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF INDIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME.
 
@@ -204,3 +212,5 @@ Francisco Duarte Lopes, Director General of External Policy of the Ministry of F
 For the Government of the Republic of India:
 
 K. Nandini Singla, Ambassador of the Republic of India to Portugal.
+
+102018

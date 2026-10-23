@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/137/2019/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/137-2019-123770988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f7d9976a9c006e8d701ca97f1caac6e949c8bccb01e20c68a18355b06291968
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1056a1b102307fc069cd0412b9ec57a027b424f926eb6cfaf12a96a7695ffc2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
-- Convenção
-- Tratado do Atlântico Norte
-- Macedónia
 - Bruxelas
-relationships: []
+- Convenção
+- Macedónia
+- NATO
+- Tratado do Atlântico Norte
+relationships:
+- type: amended_by
+  target: pt:dre:123770986:por
+  label: Ratificado o Protocolo ao Tratado do Atlântico Norte sobre a Adesão da República da Macedónia do Norte pelo(a) Decreto
+    do Presidente da República n.º 46/2019 - Diário da República n.º 150/2019, Série I de 2019-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/46-2019-123770986
+  date: '2019-08-07'
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:51Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de maio de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOL TO THE NORTH ATLANTIC TREATY ON THE ACCESSION OF THE REPUBLIC OF NORTH MACEDONIA
 
@@ -118,119 +124,119 @@ Signed at Brussels on the sixth day of February 2019.
 
 For the Republic of Albania:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Kingdom of Belgium:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Bulgaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For Canada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Czech Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Kingdom of Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Estonia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the French Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Federal Republic of Germany:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Hellenic Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For Hungary:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Iceland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Italian Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Latvia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Lithuania:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Grand Duchy of Luxembourg:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For Montenegro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Kingdom of the Netherlands:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Kingdom of Norway:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Poland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For Romania:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Slovak Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Slovenia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Kingdom of Spain:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the Republic of Turkey:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the United Kingdom of Great Britain and Northern Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 For the United States of America:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 PROTOCOLE AU TRAITÉ DE L'ATLANTIQUE NORD SUR L'ACCESSION DE LA REPUBLIQUE DE MACEDOINE DU NORD
 
@@ -254,139 +260,139 @@ Signé à Bruxelles le 6 février 2019.
 
 Pour la République d'Albanie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Royaume de Belgique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de Bulgarie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Canada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de Croatie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Tchèque:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Royaume de Danemark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République d'Estonie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Fédérale d'Allemagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Hellénique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la Hongrie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République d'Islande:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de Lettonie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de Lituanie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Grand-Duché de Luxembourg:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Monténégro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Royaume des Pays-Bas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Rayaume de Norvège:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de Pologne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la Roumanie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Slovaque:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République Slovénie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour la République de la Turquie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 Pour les États-Unis d'Amérique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15000/0003000038.pdf)
 
 PROTOCOLO AO TRATADO DO ATLÂNTICO NORTE SOBRE A ADESÃO DA REPÚBLICA DA MACEDÓNIA DO NORTE
 
 As Partes no Tratado do Atlântico Norte, assinado em Washington, em 4 de abril de 1949, convencidas de que a adesão da República da Macedónia do Norte ao Tratado do Atlântico Norte irá reforçar a segurança na área do Atlântico Norte, acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 Após a entrada em vigor deste Protocolo, o Secretário-Geral da Organização do Tratado do Atlântico Norte enviará, em nome de todas as Partes, ao Governo da República da Macedónia do Norte um convite para aderir ao Tratado do Atlântico Norte. Em conformidade com o artigo 10.º do Tratado, a República da Macedónia do Norte tornar-se-á Parte na data em que depositar o seu instrumento de adesão junto do Governo dos Estados Unidos da América.
 
-Artigo II
+###### Artigo II
 
 O presente Protocolo entrará em vigor quando cada uma das Partes no Tratado do Atlântico Norte notificar o Governo dos Estados Unidos da América da sua aceitação. O Governo dos Estados Unidos da América informará todas as Partes no Tratado do Atlântico Norte da data de receção de cada uma dessas notificações e da data da entrada em vigor do presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo, cujos textos em inglês e francês fazem igualmente fé, será depositado nos arquivos do Governo dos Estados Unidos da América. As cópias devidamente autenticadas do Protocolo serão transmitidas por esse Governo aos Governos de todas as Partes no Tratado do Atlântico Norte.
 
 Em fé do que os plenipotenciários abaixo assinados assinaram o presente Protocolo.
 
-**Assinado em Bruxelas em 6 de fevereiro de 2019.**
+Assinado em Bruxelas em 6 de fevereiro de 2019.
 
 Pela República da Albânia:
 
@@ -445,3 +451,5 @@ Pela República da Turquia:
 Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
 Pelos Estados Unidos da América:
+
+122019

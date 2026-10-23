@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 12/1993, 1º Suplemento, Série I-B de 1993-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 140-(21) a 140-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62-c/1993/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-c-1993-449960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1774dace0512d85abe9279cd4f18b7323bb0eb459606820c1927b20fdead6b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1275de125218445c1cd870bb86a0911359b7a693ff50c8bca863664058d1bd2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Especificação Técnica
 - Certificado de Qualidade
 - Equipamento sob Pressão
+- Especificação Técnica
 relationships:
 - type: amended_by
   target: pt:dre:254667:por
@@ -87,16 +87,22 @@ relationships:
   target: celex:31984L0527
   label: null
   source: http://data.europa.eu/eli/dir/1984/527/oj
+- type: repealed_by
+  target: pt:dre:254667:por
+  label: "Revogada, com excepção do nº 1 do nº 1 e das partes 1 a 3 do Anexo I pelo DEC LEI.41/2002.2002.02.28.MES, DR.IS-A\
+    \ [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2002-254667
+  date: '2002-02-28'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:35Z'
   warnings: []
   errors: []
 ---
@@ -179,9 +185,9 @@ Esta portaria entra em vigor 90 dias após a sua publicação.
 
 Ministério da Indústria e Energia.
 
-**Assinada em 11 de Janeiro de 1993.**
+Assinada em 11 de Janeiro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I
 
@@ -381,7 +387,7 @@ O provete não deve fissurar quando, durante a dobragem em torno do mandril, os 
 
 A relação (n) entre o diâmetro do mandril e a espessura do provete não deve exceder os valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 3.1.2.3 - Ensaios de resistência. - O ensaio de resistência é efectuado em provetes do tipo definido na euronorma 45-63 ou EN correspondente de data posterior.
 
@@ -393,7 +399,7 @@ Os provetes de resiliência não podem ser desempenados e devem ser maquinados n
 
 O valor médio da resiliência obtido em três ensaios de resiliência, efectuados na direcção longitudinal ou transversal, assim como cada valor obtido em cada um destes ensaios, não deve ser inferior ao valor correspondente, expresso em joules por centímetro quadrado, indicado no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 3.2 - Ensaio de rotura sob pressão hidráulica:
 
@@ -459,7 +465,7 @@ A pressão inferior do ciclo não deve exceder 10% da pressão superior do mesmo
 
 O número de ciclos a atingir e a frequência máxima do ensaio são indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 A temperatura medida na parede externa da garrafa não deve exceder 50ºC no decurso do ensaio.
 
@@ -617,7 +623,7 @@ A letra maiúscula «P» (Portugal) e os dois últimos algarismos do ano de apro
 
 O número característico da aprovação CEE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 6.2 - Marca de verificação CEE. - O organismo de inspecção apõe a marca de verificação CEE pela forma seguinte:
 
@@ -627,7 +633,7 @@ A letra maiúscula «P» (Portugal);
 
 A marca do organismo de inspecção aposta pelo agente inspector e completada, eventualmente, pela do próprio agente inspector;
 
-Um contorno hexagonal: [([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf);
+Um contorno hexagonal: [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf);
 
 A data da verificação: ano e mês.
 
@@ -651,7 +657,7 @@ A massa e a capacidade devem ser indicadas com a aproximação de uma casa decim
 
 6.3.4 - Relativas à origem. - A letra maiúscula «P» (Portugal) seguida da marca do fabricante e do número de fabrico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 Fig. 1 - Ilustração do ensaio de dobragem
 
@@ -691,7 +697,7 @@ Feito em ...
 
 ... (assinatura).
 
-## Anexo técnico ao certificado de aprovação CEE
+Anexo técnico ao certificado de aprovação CEE
 
 1 - Conclusões do exame CEE de modelo com vista à aprovação CEE.
 
@@ -747,11 +753,11 @@ Provas de verificação
 
 1 - Medições efectuadas nas garrafas retiradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 2 - Ensaios mecânicos efectuados nas garrafas retiradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00210027.pdf)
 
 Declaração
 

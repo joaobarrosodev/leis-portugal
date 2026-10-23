@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/78/2020/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/78-2020-144730225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 474e5ee2d7f3db721169256f6741302de3fb14a521e32dcb47590e0da64162c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14a4fec5094af6fdd6d4d8197487cc07d453cc0a4de66320d1ab8d29f434a007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,40 @@ reuse:
 subjects:
 - Abastecimento de BENS Essenciais
 - Acesso ao Direito
-- Região Autónoma
-- Proteção Civil
-- Pessoal de Saúde
-- Empresa
-- Circulação de Pessoas
-- Liberdade Religiosa
-- Cooperação Transfronteira
-- Educação
-- Direitos Civis
-- Direitos e Liberdades
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
 - Administração Pública
-- Serviço Nacional de Saúde
-- Segurança Pública
-- Política de Defesa
-- Isolamento Profiláctico
+- Circulação de Pessoas
+- Controlo Sanitário
+- Cooperação Transfronteira
+- Dados Pessoais
+- Diploma Legal
 - Direito à Informação
+- Direitos Civis
 - Direitos do Indivíduo
-- Forças Armadas
+- Direitos e Liberdades
 - Doença Infecciosa
+- Educação
+- Empresa
 - Epidemia
-- Serviço Público
+- Estado de Emergência
+- Estrutura de Monitorização do Estado de Emergência
+- Forças Armadas
+- Governo
+- Isolamento Profiláctico
+- Liberdade Religiosa
+- Pessoal de Saúde
+- Política de Defesa
 - Política de Emprego
+- Procuradoria Geral da República
+- Proteção Civil
 - Proteção no Desemprego
 - Provedoria de Justiça
-- Diploma Legal
-- Teletrabalho
+- Região Autónoma
 - Relatório
-- Governo
-- Dados Pessoais
-- Procuradoria Geral da República
-- Estrutura de Monitorização do Estado de Emergência
+- Saúde Pública
+- Segurança Pública
+- Serviço Nacional de Saúde
+- Serviço Público
+- Teletrabalho
 relationships:
 - type: cites
   target: celex:32013R1379
@@ -155,16 +155,256 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
+- type: cites
+  target: pt:dre:114561723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121748967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124831367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125085418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125747677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130326108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130835147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131124441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131981889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132432016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132437525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132721067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132721069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132783835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132783869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132783870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132783871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132936740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133161453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137126910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:35Z'
   warnings: []
   errors: []
 ---
@@ -255,7 +495,7 @@ vi) Definição para o transporte aéreo de um limite máximo de passageiros, be
 
 Aprovada em 23 de julho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ## ANEXO — (a que se refere o n.º 6)
 
@@ -275,7 +515,7 @@ Ao abrigo do disposto na alínea b) do artigo 33.º do Decreto n.º [2-C/2020](h
 
 11 de maio de 2020.
 
-**O Ministro da Administração Interna,**
+O Ministro da Administração Interna,
 
 Eduardo Arménio do Nascimento Cabrita
 
@@ -389,7 +629,7 @@ De acordo com o procedimento previsto na [Lei n.º 44/86](https://diariodarepubl
 
 O consenso e solidariedade institucionais, bem como a adesão generalizada da população às exigências de recolhimento, em muito facilitaram o esforço coletivo de combate à pandemia. Reconhecendo tratar-se de um desígnio nacional, os Portugueses demonstraram uma inexcedível consciência cívica que importa enaltecer e que atenua a dureza dos sacrifícios por todos sentidos.
 
-À semelhança do que aconteceu nos dois primeiros períodos de declaração do estado de emergência, o Governo elaborou o presente relatório dando conta, de forma pormenorizada, e tanto quanto possível documentada, das providências e medidas adotadas na vigência da declaração do estado de emergência. Cumpre, assim, o disposto na alínea b) do artigo 33.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e no n.º 1 do artigo 28.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro. Na sua elaboração manteve-se a colaboração institucional entre as várias áreas governativas, em particular as da economia e da transição digital, da administração interna e da saúde.
+À semelhança do que aconteceu nos dois primeiros períodos de declaração do estado de emergência, o Governo elaborou o presente relatório dando conta, de forma pormenorizada, e tanto quanto possível documentada, das providências e medidas adotadas na vigência da declaração do estado de emergência. Cumpre, assim, o disposto na alínea b) do artigo 33.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e no n.º 1 do artigo 28.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro. Na sua elaboração manteve-se a colaboração institucional entre as várias áreas governativas, em particular as da economia e da transição digital, da administração interna e da saúde.
 
 2. CARACTERIZAÇÃO DA SITUAÇÃO EPIDEMIOLÓGICA E CAPACIDADE DE RESPOSTA DO SERVIÇO NACIONAL DE SAÚDE
 
@@ -397,7 +637,7 @@ O consenso e solidariedade institucionais, bem como a adesão generalizada da po
 
 Após confirmação dos primeiros casos de infeção por SARS-CoV-2, a 2 de março, a evolução do surto da COVID-19 em Portugal caracterizou-se por um aumento muito rápido do número casos logo nos primeiros dias de março (FIG.1), tendência que se manteve nos dias e meses seguintes. De facto, o número acumulado de casos confirmados ascendia a 642 no dia 17 de março, tendo atingido os 25.524 casos no dia 3 de maio. Entre 17 de abril e 3 de maio, foram notificados, em média, 382 novos casos por dia. Os atrasos de notificação provocaram alguns picos no número de casos reportados (como por exemplo, no dia 9 de abril). Porém, a 3 de maio, a curva epidémica continuava a evidenciar um elevado número de novos casos com data de início de sintomas entre os últimos dias de março e o início de abril, o que, considerando o período de incubação da doença, pode indiciar contágios ocorridos em meados de março, pouco antes da declaração do Estado de Emergência (FIG. 2), altura em que as medidas de contenção da transmissão da doença eram manifestamente mais brandas relativamente às que entretanto se foram implementando, de forma proporcional e necessária, em face da evolução da doença,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 A estimativa do R(t)(1) variou entre 0,94 e 2,49, observando-se uma tendência de decréscimo desde o dia 12 de março (anúncio fecho das escolas), com quebras mais acentuadas em 16 de março (fecho das escolas) e 18 de março (anúncio do Estado de Emergência) (FIG. 3).
 
@@ -407,19 +647,19 @@ A média do R(t) para o período entre 28 de abril e 2 de maio foi de 0,94, sign
 
 Recorde-se que a estimativa obtida para o número básico de reprodução (R0), indicador da transmissibilidade da infeção, que corresponde ao número médio de casos secundários a que cada caso dá origem, calculado na fase inicial da epidemia (ainda sem todas as medidas de contenção implementadas), com base na curva epidémica até ao dia 16 de março, foi de 2,08 (IC95%: 1,97-2,19).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 De 1 de janeiro a 3 de maio foram notificados 254.510 casos suspeitos de infeção por SARS-CoV-2, dos quais, por referência ao dia 3 de maio, 25.524 foram confirmados laboratorialmente, enquanto 2.760 casos aguardavam resultado laboratorial. Um total de 25.081 pessoas (que tinham contactado com casos confirmados) encontravam-se em vigilância ativa pelas autoridades de saúde. Assim, os resultados laboratoriais permitiram excluir infeção por SARS-CoV-2 em 226.226 do total de casos suspeitos notificados.
 
-De 1 de março a 3 de maio foram processadas 458.702 amostras para diagnóstico de SARS-CoV-2 em laboratórios públicos, privados e universidades. Para além do Instituto Nacional de Saúde Doutor Ricardo Jorge, havia 31 laboratórios públicos em todas as regiões do país - incluindo as Regiões Autónomas dos Açores e da Madeira - e vários laboratórios privados e universidades a processar amostras. A capacidade laboratorial do país foi significativamente expandida durante os meses de março e abril, não apenas no número de laboratórios mas também no número de amostras processadas em cada laboratório. Enquanto em todo o mês de março haviam sido processadas 79.909 amostras para diagnóstico de SARS-CoV-2, no mês de abril foram processadas 347.260 amostras, 4 vezes mais que em todo o mês de março. Entre 27 de abril e 3 de maio, foram processadas em média 12.896 amostras para diagnóstico de SARS-CoV-2 por dia.
+De 1 de março a 3 de maio foram processadas 458.702 amostras para diagnóstico de SARS-CoV-2 em laboratórios públicos, privados e universidades. Para além do Instituto Nacional de Saúde Doutor Ricardo Jorge, havia 31 laboratórios públicos em todas as regiões do país - incluindo as Regiões Autónomas dos Açores e da Madeira - e vários laboratórios privados e universidades a processar amostras. A capacidade laboratorial do país foi significativamente expandida durante os meses de março e abril, não apenas no número de laboratórios mas também no número de amostras processadas em cada laboratório. Enquanto em todo o mês de março haviam sido processadas 79.909 amostras para diagnóstico de SARS-CoV-2, no mês de abril foram processadas 347.260 amostras, 4 vezes mais que em todo o mês de março. Entre 27 de abril e 3 de maio, foram processadas em média 12.896 amostras para diagnóstico de SARS-CoV-2 por dia.
 
-Até 3 de maio, haviam sido identificados 751 casos importados, associados a viagem ou estadia recente em Espanha (171), França (137), Reino Unido (88), Emirados Árabes Unidos (48) ou Suíça (45).
+Até 3 de maio, haviam sido identificados 751 casos importados, associados a viagem ou estadia recente em Espanha (171), França (137), Reino Unido (88), Emirados Árabes Unidos (48) ou Suíça (45).
 
 Até 3 de maio, 10.429 casos (40,9%) eram homens e 15.095 casos (59,1%) eram mulheres. Cerca de 24% dos casos (n=6.233) tinham idade igual ou superior a 70 anos, tendo a maioria dos casos (52,9%) idade igual ou superior a 50 anos (FIG. 4).
 
 Do total de 25.524 casos, havia 1.712 casos (6,7%) recuperados e 1.063 óbitos (taxa de letalidade de 4,2%). A maioria dos óbitos (87,4%) tinha idade igual ou superior a 70 anos (taxa de letalidade em pessoas com 70 ou mais anos de 14,9%). A maioria dos óbitos ocorreu em indivíduos do sexo feminino (50,6%). Estavam internados 813 casos (3,2%), dos quais 143 estavam em Unidades de Cuidados Intensivos. Isso significa que 21.936 casos (85,9%) correspondiam a doença ligeira e recuperavam em casa. Existiam, a 3 de maio, 22.749 casos ativos de doença em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Relativamente à região de residência/notificação dos casos* (FIG. 5):
 
@@ -455,7 +695,7 @@ Quanto à região de ocorrência dos óbitos (FIG. 5):
 
 · A região da Madeira não registava, à data de 3 de maio, qualquer óbito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 2.2. Capacidade de Resposta do Serviço Nacional de Saúde (SNS)
 
@@ -469,17 +709,17 @@ Em março de 2020 o SNS dispunha de 21.582 camas. Destas, 528 eram camas em Unid
 
 Em 18 de abril de 2020, estavam internados 1.253 doentes COVID-19, dos quais 228 doentes internados em UCI. Em 2 de maio de 2020, a Direção-Geral da Saúde reportava 855 doentes COVID-19 internados dos quais 150 doentes internados em UCI. É pois, notória, a evolução positiva no decréscimo de número de casos de doentes internados, para o que contribuiu, decisivamente, a adoção de medidas de contenção da doença.
 
-No que concerne ao número de ventiladores com capacidade para utilização no tratamento da COVID-19, no início do mês de março foram contabilizados no SNS 1.142 ventiladores. No dia 17 de abril de 2020, o reforço da capacidade em número de ventiladores atingia os 1.564 aparelhos, fruto de i) compras efetuadas pela Administração Central do Sistema de Saúde, I. P. (1.151 ventiladores adquiridos, dos quais 13 entregues); ii) doações (170); iii) empréstimos (156); e iv) recuperações de aparelhos (87).
+No que concerne ao número de ventiladores com capacidade para utilização no tratamento da COVID-19, no início do mês de março foram contabilizados no SNS 1.142 ventiladores. No dia 17 de abril de 2020, o reforço da capacidade em número de ventiladores atingia os 1.564 aparelhos, fruto de i) compras efetuadas pela Administração Central do Sistema de Saúde, I. P. (1.151 ventiladores adquiridos, dos quais 13 entregues); ii) doações (170); iii) empréstimos (156); e iv) recuperações de aparelhos (87).
 
 Todavia, graças à generosidade de diversos doadores, do trabalho de recuperação de equipamentos, bem como do constante esforço do Governo no sentido de ultrapassar as vicissitudes contratuais já sentidas relativamente à aquisição de ventiladores no anterior período do estado de emergência, e reportadas no respetivo relatório, foi possível continuar o caminho no sentido do fortalecimento do SNS, conforme evidenciam os dados constantes das tabelas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Assim, por referência à data de 2 de maio, o reforço da capacidade em número de ventiladores atingia os 1.814 equipamentos, 74% dos quais invasivos.
 
 Também quanto à capacidade de realização de testes para rastreio de casos suspeitos de COVID-19, o SNS melhorou a sua capacidade, mantendo a tendência de aumento da capacidade de testagem, a que correspondeu, consequentemente, um aumento de testes realizados.
 
-Com efeito, desde o dia 1 de março, foram realizados 427.346 testes de diagnóstico COVID-19, dos quais 37.742 foram positivos (8,8 % do total de testes). Do total de testes, 426.662 foram realizados nos meses de março e abril: i) 79.909 (18,7%), foram realizados, entre os dias 1 a 31 de março; ii) 346.753 (81,2%), foram realizados entre os dias 1 e 30 de abril, com uma média de 11. 558 testes/dia. O dia 30 de abril figura como a data em que foram realizados mais testes desde o início da pandemia, num total de 15.881 testes (com 7,7% de amostras positivas nesse dia), sendo de sinalizar, no entanto, que nos dias 22, 23 e 28 de abril, o número de testes realizados ultrapassou os 15.000 testes/dia, apurando-se, ainda, que entre os dias 23 e 30 de abril foram realizados, em média, 13.714 testes/dia. Na semana anterior a média havia sido de 13.161/dia.
+Com efeito, desde o dia 1 de março, foram realizados 427.346 testes de diagnóstico COVID-19, dos quais 37.742 foram positivos (8,8 % do total de testes). Do total de testes, 426.662 foram realizados nos meses de março e abril: i) 79.909 (18,7%), foram realizados, entre os dias 1 a 31 de março; ii) 346.753 (81,2%), foram realizados entre os dias 1 e 30 de abril, com uma média de 11. 558 testes/dia. O dia 30 de abril figura como a data em que foram realizados mais testes desde o início da pandemia, num total de 15.881 testes (com 7,7% de amostras positivas nesse dia), sendo de sinalizar, no entanto, que nos dias 22, 23 e 28 de abril, o número de testes realizados ultrapassou os 15.000 testes/dia, apurando-se, ainda, que entre os dias 23 e 30 de abril foram realizados, em média, 13.714 testes/dia. Na semana anterior a média havia sido de 13.161/dia.
 
 Em termos de distribuição geográfica dos testes de diagnóstico realizados, apresentam-se os dados por referência à área geográfica de intervenção de cada Administração Regional de Saúde:
 
@@ -501,15 +741,15 @@ No que tange aos EPI, entre o dia 18 de abril (tabela I) e 2 de maio (tabela II)
 
 Tabela I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Tabela II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 3. CARACTERIZAÇÃO DA SITUAÇÃO ECONÓMICA
 
-A caracterização da situação económica observada durante a terceira fase do estado de emergência não pode dispensar a consideração das conclusões constantes dos dois relatórios precedentes. Ao longo das seis semanas em apreço, o XXII Governo Constitucional interveio de forma gradual e flexível, procurando adaptar as suas respostas a um contexto marcado pela incerteza. No domínio da economia, as prioridades foram delineadas logo numa primeira instância. Desta feita, a preservação do emprego, a manutenção do rendimento dos residentes em território nacional e a garantia de acesso a liquidez por parte dos operadores económicos constituíram a tríade que orientou a ação governativa.
+A caracterização da situação económica observada durante a terceira fase do estado de emergência não pode dispensar a consideração das conclusões constantes dos dois relatórios precedentes. Ao longo das seis semanas em apreço, o XXII Governo Constitucional interveio de forma gradual e flexível, procurando adaptar as suas respostas a um contexto marcado pela incerteza. No domínio da economia, as prioridades foram delineadas logo numa primeira instância. Desta feita, a preservação do emprego, a manutenção do rendimento dos residentes em território nacional e a garantia de acesso a liquidez por parte dos operadores económicos constituíram a tríade que orientou a ação governativa.
 
 Ainda antes da declaração do estado de emergência, foram adotadas medidas que viriam a consubstanciar a resposta inicial à crise pandémica. Assim, procedeu-se à suspensão de um conjunto de atividades económicas, por razões de saúde pública, à conceção de instrumentos de apoio à continuidade de inúmeros negócios, além de se ter criado um grupo de acompanhamento para monitorizar e assegurar a inexistência de perturbações na cadeia de abastecimento agroalimentar. Numa etapa subsequente, procurou-se aumentar a abrangência dos mecanismos de auxílio disponibilizados, disponibilizar equipamento de proteção individual (EPI) para garantir a segurança dos trabalhadores e, ainda, corrigir certas dinâmicas de mercado, prejudiciais para os cidadãos residentes em território nacional.
 
@@ -519,7 +759,7 @@ O trabalho desenvolvido nos dois primeiros estágios do estado de emergência re
 
 A materialização desta ação tem acontecido, em parte, mediante a conceção de medidas de apoio aos agentes económicos. Os estudos já publicados a este respeito permitem compreender que o recurso a tais medidas varia consoante a dimensão do operador económico em causa. As empresas de maior dimensão tendem a aceder a linhas de financiamento. Já as de média dimensão e as exportadoras procuram, sobretudo, os instrumentos excecionais e temporários, no âmbito dos incentivos comunitários. Por outro lado, as candidaturas ao regime de lay-off simplificado demonstram a preponderância deste mecanismo para os operadores económicos mais pequenos. A adesão significativa dos que se dedicam ao alojamento e à restauração é motivada, principalmente, pelo número de empresas cuja atividade se encontra paralisada. Mesmo as que operaram, neste período, registaram quebras assinaláveis.
 
-O recurso dos operadores económicos que atuam ao nível do comércio e dos serviços também é substancial. Pese embora, em tal domínio, ser necessário distinguir a situação das empresas agrícolas e de retalho alimentar e especializado. Enquanto no segundo caso, o encerramento dos espaços comerciais teve um forte impacto, no primeiro, observou-se a resiliência e emergiram as capacidades de alinhamento e sintonia entre todos os intervenientes da cadeia de abastecimento. A este propósito, deve assinalar-se o reforço das cadeias de abastecimento mais curtas. Relativamente à venda de veículos automóveis, o número de novas matrículas continuou a diminuir, ao longo do mês de abril.
+O recurso dos operadores económicos que atuam ao nível do comércio e dos serviços também é substancial. Pese embora, em tal domínio, ser necessário distinguir a situação das empresas agrícolas e de retalho alimentar e especializado. Enquanto no segundo caso, o encerramento dos espaços comerciais teve um forte impacto, no primeiro, observou-se a resiliência e emergiram as capacidades de alinhamento e sintonia entre todos os intervenientes da cadeia de abastecimento. A este propósito, deve assinalar-se o reforço das cadeias de abastecimento mais curtas. Relativamente à venda de veículos automóveis, o número de novas matrículas continuou a diminuir, ao longo do mês de abril.
 
 De acordo com a informação tornada pública, estima-se que os efeitos da pandemia no setor secundário tenham determinado a inatividade parcial de, aproximadamente, um terço das empresas. O impacto negativo registado afeta, de forma mais expressiva, as de dimensão micro, ainda que a diminuição acentuada do volume de negócios seja transversal aos diferentes tipos de operador económico. Entre as exceções, é possível identificar a fabricação de produtos farmacêuticos de base e de preparações farmacêuticas, cuja procura tem crescido significativamente. Em termos do setor primário, o já mencionado encerramento do canal «Horeca» originou a redução da comercialização de vinho, além de outros produtos, como é o caso dos hortofrutícolas e do leite de pequenos ruminantes e seus derivados. Embora para esta última situação também tenha contribuído a suspensão das feiras e de alguns mercados de base local. Os canais de distribuição digitais permitiram suster parte do decréscimo da atividade económica.
 
@@ -537,7 +777,7 @@ No dia 21 de abril, a área governativa da Economia e da Transição Digital apr
 
 Neste intervalo temporal, o empenho na disponibilização de um número superior de instrumentos de auxílio ficou, igualmente, plasmado na intervenção da área governativa da Agricultura. Através da [Portaria n.º 105-C/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-c-2020-132783871), de 30 de abril, determinou-se que, no âmbito do Programa de Desenvolvimento Regional 2014-2020 (PDR 2020), as consequências negativas decorrentes da pandemia que resultem na insuficiente concretização de ações ou metas podem ser considerados motivos de força maior não imputáveis aos beneficiários na avaliação dos objetivos. A nível setorial, procurou-se, também, minimizar as perturbações observadas na apicultura, concebendo-se medidas excecionais e temporárias, que constam da [Portaria n.º 105-B/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-b-2020-132783870), de 30 de abril. Por seu turno, o Despacho n.º 4946-A/2020, de 23 de abril, procedeu ao alargamento do universo dos destinos admissíveis para os produtos retirados, de modo que, a par das organizações caritativas, possam também beneficiar da referida ação as instituições penitenciárias, as colónias de férias infantis, os hospitais e os lares de idosos.
 
-Mediante a informação disponível, pode proceder-se à avaliação preliminar da implementação de algumas das medidas supramencionadas. Tal como foi previamente abordado, a adesão a determinadas linhas de crédito disponibilizadas e a certos sistemas de incentivo tem sido considerável, o que origina uma série de desafios para as entidades e organismos responsáveis pela sua operacionalização. No que respeita ao acesso ao regime de lay-off simplificado, estima-se que, no dia 2 de maio, estivessem inscritas 102.184 entidades empregadoras, o que corresponde a 1.256.266 trabalhadores e a uma massa salarial na ordem dos 1.268.635.212 (euro). Não obstante o facto de retratarem a redução ou a suspensão acentuadas das atividades económicas, estes valores demonstram que parte substancial das empresas localizadas em território nacional optou por preservar os postos de trabalho existentes, acreditando numa futura retoma.
+Mediante a informação disponível, pode proceder-se à avaliação preliminar da implementação de algumas das medidas supramencionadas. Tal como foi previamente abordado, a adesão a determinadas linhas de crédito disponibilizadas e a certos sistemas de incentivo tem sido considerável, o que origina uma série de desafios para as entidades e organismos responsáveis pela sua operacionalização. No que respeita ao acesso ao regime de lay-off simplificado, estima-se que, no dia 2 de maio, estivessem inscritas 102.184 entidades empregadoras, o que corresponde a 1.256.266 trabalhadores e a uma massa salarial na ordem dos 1.268.635.212 (euro). Não obstante o facto de retratarem a redução ou a suspensão acentuadas das atividades económicas, estes valores demonstram que parte substancial das empresas localizadas em território nacional optou por preservar os postos de trabalho existentes, acreditando numa futura retoma.
 
 O recurso ao lay-off simplificado tem acontecido, eminentemente, por operadores económicos que empregam, no máximo, 25 trabalhadores (cerca de 92,6% do total de entidades empregadoras que acederam). Contudo, importa realçar que, aproximadamente, 21,3% dos trabalhadores que se encontram ao abrigo deste regime exercem as suas funções na indústria transformadora, cujo peso das empresas é significativamente inferior (9,6%). Similarmente às conclusões expostas nos dois relatórios precedentes, as atividades económicas com maior representação, entre os operadores económicos que se candidataram ao mecanismo referido, são as de comércio por grosso, a retalho, de reparação de veículos automóveis e motociclos, além do alojamento, restauração e similares (em conjunto, perto de 45,6%). Merecem, ainda, destaque as atividades administrativas e dos serviços de apoio, pelo número de trabalhadores em lay-off, e as atividades de saúde humana e apoio social, pela quantidade de entidades abrangidas.
 
@@ -551,9 +791,9 @@ No dia 23 de abril, ocorreu a oitava reunião, a qual contou, como habitualmente
 
 Outra questão à qual se aludiu com frequência, nas reuniões do grupo de acompanhamento, prende-se com a consideração das atividades representadas enquanto serviços essenciais, para efeitos de acolhimento, nos estabelecimentos de ensino, dos filhos ou outros dependentes a cargo dos respetivos profissionais, conforme previsto na [Portaria n.º 82/2020](https://diariodarepublica.pt/dr/detalhe/portaria/82-2020-130835147), de 29 de março. Esta proposta foi devidamente acolhida, tendo sido publicada, a 19 de abril, a [Portaria n.º 97/2020](https://diariodarepublica.pt/dr/detalhe/portaria/97-2020-131981889). Neste diploma subscrito pela área governativa da Presidência do Conselho de Ministros, foram incluídos os serviços de produção agrícola e de indústria agroalimentar, juntando-se, assim, aos serviços do comércio por grosso, do comércio a retalho ou de prestação de serviços que não tivessem sido suspensos.
 
-A agilização dos canais de comercialização de produtos alimentares locais, com vista ao alargamento das possibilidades de escoamento da produção, havia sido anteriormente determinada. A Portaria n.º [88-E/2020](https://diariodarepublica.pt/dr/detalhe/portaria/88-e-2020-131193444), de 6 de abril, expandiu o grupo de produtos elegíveis a retirar do mercado, de modo a que estes pudessem ser remetidos a entidades de solidariedade social. Através do Despacho n.º 4946-A/2020, a área governativa da Agricultura ampliou o universo de destinos admissíveis, passando a considerar instituições penitenciárias, colónias de férias infantis, hospitais e lares de idosos. Ainda que esta ação não decorra diretamente do trabalho desenvolvido pelo grupo de acompanhamento, a questão dos excedentes de produtos agrícolas foi sendo aflorada pelos representantes dos operadores económicos, no decurso das reuniões.
+A agilização dos canais de comercialização de produtos alimentares locais, com vista ao alargamento das possibilidades de escoamento da produção, havia sido anteriormente determinada. A Portaria n.º [88-E/2020](https://diariodarepublica.pt/dr/detalhe/portaria/88-e-2020-131193444), de 6 de abril, expandiu o grupo de produtos elegíveis a retirar do mercado, de modo a que estes pudessem ser remetidos a entidades de solidariedade social. Através do Despacho n.º 4946-A/2020, a área governativa da Agricultura ampliou o universo de destinos admissíveis, passando a considerar instituições penitenciárias, colónias de férias infantis, hospitais e lares de idosos. Ainda que esta ação não decorra diretamente do trabalho desenvolvido pelo grupo de acompanhamento, a questão dos excedentes de produtos agrícolas foi sendo aflorada pelos representantes dos operadores económicos, no decurso das reuniões.
 
-De igual modo, a assunção de medidas com o objetivo de assegurar as condições de normalidade na produção, transporte, distribuição e abastecimento no âmbito das pescas, aquicultura e transformação não foi abordada em sede do grupo de trabalho. Porém, importa assinalar a promulgação do Despacho n.º 5124/2020, de 30 de abril, no qual se adotam medidas fundamentais para o exercício das atividades em causa. A suspensão dos prazos em procedimentos administrativos dificultou o habitual processo de emissão de títulos de atividade aquícola (TAA) e de utilização privativa do espaço marítimo nacional (TUPEM), o que se repercutiu nos níveis de produção. Dado que tal suspensão poderia colocar em causa o normal abastecimento, entendeu-se ser essencial determinar a validade dos títulos e licenças, cujos trâmites de renovação, que exigem a emissão de TAA e TUPEM e o correspondente procedimento de consulta pública, decorrem e deram entrada na Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), antes da sua caducidade, assim como a prorrogação da Certificação de Segurança das embarcações, de forma administrativa pelo período de 3 meses, nos termos da lei e sem custos associados para os proprietários.
+De igual modo, a assunção de medidas com o objetivo de assegurar as condições de normalidade na produção, transporte, distribuição e abastecimento no âmbito das pescas, aquicultura e transformação não foi abordada em sede do grupo de trabalho. Porém, importa assinalar a promulgação do Despacho n.º 5124/2020, de 30 de abril, no qual se adotam medidas fundamentais para o exercício das atividades em causa. A suspensão dos prazos em procedimentos administrativos dificultou o habitual processo de emissão de títulos de atividade aquícola (TAA) e de utilização privativa do espaço marítimo nacional (TUPEM), o que se repercutiu nos níveis de produção. Dado que tal suspensão poderia colocar em causa o normal abastecimento, entendeu-se ser essencial determinar a validade dos títulos e licenças, cujos trâmites de renovação, que exigem a emissão de TAA e TUPEM e o correspondente procedimento de consulta pública, decorrem e deram entrada na Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), antes da sua caducidade, assim como a prorrogação da Certificação de Segurança das embarcações, de forma administrativa pelo período de 3 meses, nos termos da lei e sem custos associados para os proprietários.
 
 O grupo de acompanhamento das condições de abastecimento da cadeia agroalimentar foi concebido com o propósito de garantir a necessária articulação entre todos os agentes envolvidos e interessados, de modo a que se evitassem situações de rutura ou escassez, durante a pandemia. Desde o início, houve a preocupação de não se acrescentar às crises sanitária e social um problema relacionado com a ausência de bens alimentares. Neste sentido, o trabalho do grupo referido não se esgota no período do estado de emergência, sendo expectável que perdure enquanto se julgar possível a ocorrência de perturbações. Pese embora, até ao presente, tais perturbações não se tenham verificado de forma persistente, é fundamental que se continue a promover o diálogo entre as diferentes partes.
 
@@ -583,7 +823,7 @@ Tal como foi previamente aludido, ao longo do estado de emergência, verificou-s
 
 4. MEDIDAS SETORIAIS
 
-A prorrogação do estado de emergência através do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, impôs ao Governo a necessidade de proceder a ajustamentos às medidas já aprovadas, tendo em vista o objetivo de alcançar o equilíbrio desejável entre a contenção da transmissão do vírus e a expansão da doença COVID-19, por um lado, e o bom funcionamento das cadeias de abastecimento de bens e serviços essenciais, por outro.
+A prorrogação do estado de emergência através do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, impôs ao Governo a necessidade de proceder a ajustamentos às medidas já aprovadas, tendo em vista o objetivo de alcançar o equilíbrio desejável entre a contenção da transmissão do vírus e a expansão da doença COVID-19, por um lado, e o bom funcionamento das cadeias de abastecimento de bens e serviços essenciais, por outro.
 
 Neste contexto, o Governo:
 
@@ -599,17 +839,17 @@ Neste contexto, o Governo:
 
 6. Prorrogou a suspensão do ensino da condução, dos exames e da atividade de formação presencial de certificação de profissionais, previstas no Despacho n.º 3301-B/2020, de 15 de março, e no Despacho n.º 4328-F/2020, de 8 de abril, até 2 de maio de 2020, uma vez que se mantiveram as condições que determinaram a suspensão;
 
-7. Determinou a requisição dos inspetores e técnicos superiores necessários para reforçar os poderes inspetivos da Autoridade para as Condições do Trabalho, nos termos do artigo 24.º do [Decreto n.º 2-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124), de 2 de abril (que regulamenta a primeira prorrogação do estado de emergência decretado pelo Presidente da República), mantido pelo artigo 26.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e que estabeleceu, neste contexto, a possibilidade de serem requisitados inspetores e técnicos superiores dos serviços de inspeção previstos no artigo 3.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, na sua redação atual, para reforçar a equipa da ACT, mediante despacho do Primeiro-Ministro e da Ministra do Trabalho, Solidariedade e Segurança Social;
+7. Determinou a requisição dos inspetores e técnicos superiores necessários para reforçar os poderes inspetivos da Autoridade para as Condições do Trabalho, nos termos do artigo 24.º do [Decreto n.º 2-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124), de 2 de abril (que regulamenta a primeira prorrogação do estado de emergência decretado pelo Presidente da República), mantido pelo artigo 26.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e que estabeleceu, neste contexto, a possibilidade de serem requisitados inspetores e técnicos superiores dos serviços de inspeção previstos no artigo 3.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, na sua redação atual, para reforçar a equipa da ACT, mediante despacho do Primeiro-Ministro e da Ministra do Trabalho, Solidariedade e Segurança Social;
 
 8. Previu medidas excecionais e temporárias a adotar no âmbito da formação profissional específica setorial regulamentada pelo Ministério da Agricultura, no sentido de dar continuidade à realização de formação profissional, destinada a técnicos e agricultores/operadores, autorizando-se, a título excecional e temporário, a realização de ações de formação profissional nas modalidades e-learning ou b-learning, ambas na componente à distância;
 
-9. Determinou, uma vez mais, a suspensão dos voos de e para Itália, por novo período de 14 dias, contado das 00:00 horas do dia 22 de abril de 2020, uma vez que a situação pandémica em Itália se mantinha intensa, persistindo os motivos subjacentes à suspensão inicialmente determinada;
+9. Determinou, uma vez mais, a suspensão dos voos de e para Itália, por novo período de 14 dias, contado das 00:00 horas do dia 22 de abril de 2020, uma vez que a situação pandémica em Itália se mantinha intensa, persistindo os motivos subjacentes à suspensão inicialmente determinada;
 
 10. Definiu os termos do atendimento presencial junto das secretarias judiciais e dos respetivos serviços do Ministério Público, durante o estado de emergência, procurando garantir o atendimento dos cidadãos sempre que os meios digitais e analógicos não logrem dar resposta, pela sua natureza ou qualquer outra razão atendível;
 
 11. Estabeleceu medidas excecionais e temporárias relativas ao setor do turismo, no âmbito da pandemia da doença COVID-19, na sequência da constatação da necessidade de, por um lado, burilar as medidas já adotadas pelo Governo relativamente às viagens dos finalistas, e, por outro lado, de consagrar um regime específico dirigido às viagens organizadas por agências de viagens e turismo, ao cancelamento de reservas em empreendimentos turísticos e estabelecimentos de alojamento e às relações entre agências de viagens e turismo, operadores de animação turística e os empreendimentos turísticos e os estabelecimentos de alojamento local;
 
-12. Consagrou um regime excecional de ajuste direto simplificado, admitindo-se que, na medida do estritamente necessário e por motivos de urgência imperiosa, devidamente fundamentada, e independentemente do preço contratual e até ao limite do cabimento orçamental, a celebração de contratos cujo objeto consista na aquisição de equipamentos, bens e serviços necessários à prevenção, contenção, mitigação e tratamento de infeção por SARS-CoV-2 e da doença COVID-19, ou com estas relacionados, se faça ao abrigo do regime do procedimento de ajuste direto simplificado, previsto no artigo 128.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual. Todavia, tal procedimento apenas poderá ser promovido pela Direção-Geral da Saúde, pela Administração Central do Sistema de Saúde, I. P., pelo Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P., e pelos Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), relativamente a bens que se destinem a entidades sob tutela do membro do Governo responsável pela área da saúde;
+12. Consagrou um regime excecional de ajuste direto simplificado, admitindo-se que, na medida do estritamente necessário e por motivos de urgência imperiosa, devidamente fundamentada, e independentemente do preço contratual e até ao limite do cabimento orçamental, a celebração de contratos cujo objeto consista na aquisição de equipamentos, bens e serviços necessários à prevenção, contenção, mitigação e tratamento de infeção por SARS-CoV-2 e da doença COVID-19, ou com estas relacionados, se faça ao abrigo do regime do procedimento de ajuste direto simplificado, previsto no artigo 128.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual. Todavia, tal procedimento apenas poderá ser promovido pela Direção-Geral da Saúde, pela Administração Central do Sistema de Saúde, I. P., pelo Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P., e pelos Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), relativamente a bens que se destinem a entidades sob tutela do membro do Governo responsável pela área da saúde;
 
 13. Acautelou que o período de acolhimento de vítimas de violência doméstica cuja prorrogação, prevista nos artigos 28.º e 39.º do [Decreto Regulamentar n.º 2/2018](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2018-114561723), de 24 de janeiro, devesse terminar antes de 15 de julho de 2020, se considera automática e excecionalmente prorrogado até esta data, de modo a permitir uma adequada resposta, quer das casas de abrigo, quer das situações de acolhimento de emergência que integram a rede nacional de apoio às vítimas de violência doméstica;
 
@@ -661,7 +901,7 @@ Realça-se o facto de o regime em causa se aplicar a todos os estabelecimentos d
 
 23. Estabeleceu um regime temporário e excecional de apoio às associações humanitárias de bombeiros, prevendo a possibilidade de antecipação de duodécimos do financiamento permanente que lhes é devido e da disponibilização de financiamento específico, que se destinam a fazer face às necessidades de tesouraria, nomeadamente para assegurar o pagamento de salários;
 
-24. Procedeu à prorrogação, até 31 de dezembro de 2020, do prazo de vigência previsto no artigo 5.º da [Portaria n.º 89/2020](https://diariodarepublica.pt/dr/detalhe/portaria/89-2020-131193420), de 7 de abril, que adota medidas excecionais, decorrentes da epidemia COVID-19, relativas às formalidades aplicáveis à produção, armazenagem e comercialização, com isenção do imposto, de álcool destinado aos fins previstos no n.º 3 do artigo 67.º do Código dos Impostos Especiais de Consumo (CIEC). Com efeito, considerando-se que as necessidades de produção e fornecimento de álcool, designadamente álcool gel e outros antisséticos, que motivaram a adoção da medida persistem, mesmo após o fim do estado de emergência, sendo até expectável um eventual aumento da procura no período subsequente de retoma paulatina da normalidade económica e social, é imperioso assegurar a manutenção da vigência destas medidas até ao final do ano, a fim de garantir a normalização da produção, fornecimento e distribuição de álcool para fins industriais, terapêuticos e sanitários, e de apoiar e estimular a produção nacional destes bens essenciais no combate e prevenção do novo coronavírus;
+24. Procedeu à prorrogação, até 31 de dezembro de 2020, do prazo de vigência previsto no artigo 5.º da [Portaria n.º 89/2020](https://diariodarepublica.pt/dr/detalhe/portaria/89-2020-131193420), de 7 de abril, que adota medidas excecionais, decorrentes da epidemia COVID-19, relativas às formalidades aplicáveis à produção, armazenagem e comercialização, com isenção do imposto, de álcool destinado aos fins previstos no n.º 3 do artigo 67.º do Código dos Impostos Especiais de Consumo (CIEC). Com efeito, considerando-se que as necessidades de produção e fornecimento de álcool, designadamente álcool gel e outros antisséticos, que motivaram a adoção da medida persistem, mesmo após o fim do estado de emergência, sendo até expectável um eventual aumento da procura no período subsequente de retoma paulatina da normalidade económica e social, é imperioso assegurar a manutenção da vigência destas medidas até ao final do ano, a fim de garantir a normalização da produção, fornecimento e distribuição de álcool para fins industriais, terapêuticos e sanitários, e de apoiar e estimular a produção nacional destes bens essenciais no combate e prevenção do novo coronavírus;
 
 25. Determinou as medidas necessárias e a prática dos atos que, no âmbito específico da sua ação, sejam adequados e indispensáveis para garantir as condições de normalidade na produção, transporte, distribuição e abastecimento no âmbito das pescas, aquicultura e transformação, designadamente através da previsão de que são aceites, até 31 de dezembro de 2020 ou até que sejam retomados e concluídos os respetivos procedimentos administrativos, para efeitos de exercício da atividade aquícola ou da pesca com recurso a armações, os títulos e licenças que habilitavam a esse exercício, cujos processos de renovação, sujeitos a emissão de TAA e TUPEM e ao correspondente procedimento de consulta pública, decorrem e deram entrada na Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) antes da sua caducidade. Desta forma, pretendeu garantir-se a manutenção da produtividade do setor das pescas e aquicultura e concomitante indústria transformadora, essencial para garantir o normal abastecimento alimentar das populações;
 
@@ -691,7 +931,7 @@ Realça-se o facto de o regime em causa se aplicar a todos os estabelecimentos d
 
 4.1. Declaração da situação de calamidade
 
-No decurso do terceiro período do estado de emergência foi efetuada uma avaliação da eficácia das medidas adotadas até então, nomeadamente ao nível da redução da taxa de contágio do vírus. Foi entendimento do Presidente da República, em consonância com o Governo e com base no conhecimento científico, não renovar o estado de emergência por um quarto período.
+No decurso do terceiro período do estado de emergência foi efetuada uma avaliação da eficácia das medidas adotadas até então, nomeadamente ao nível da redução da taxa de contágio do vírus. Foi entendimento do Presidente da República, em consonância com o Governo e com base no conhecimento científico, não renovar o estado de emergência por um quarto período.
 
 Nestes termos, o Governo preparou o novo enquadramento jurídico que permite um regresso, lento e gradual, da atividade económica e social, assegurando a mitigação do risco associado à pandemia. As medidas adotadas pelo Governo e o levantamento gradual das suspensões e interdições decretados durante o período do estado de emergência, que, dando prioridade à prevenção da doença, contenção da pandemia e garantia da segurança dos portugueses, permitiram que se caminhasse no sentido do regresso gradual da atividade económica ao seu normal funcionamento, mediante a avaliação do quadro epidemiológico, sanitário, social e económico, e executado por diversas fases.
 
@@ -755,7 +995,7 @@ Adicionalmente, tendo em conta o fim do período de situação de calamidade e o
 
 O Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, renovou as medidas adotadas nos decretos de execução do primeiro e segundo períodos do estado de emergência, por forma a garantir que os contactos entre pessoas se mantivessem a um nível mínimo indispensável, por constituírem um forte veículo de contágio e de propagação do vírus. Continuou a ser assegurada a possibilidade de deslocações na via pública, nomeadamente para o exercício de tarefas e funções essenciais à sobrevivência, para deslocações por motivos de saúde, funcionamento da sociedade em geral, bem como para o exercício de funções profissionais que não pudessem ser cumpridas a partir do domicílio.
 
-De igual modo, foi mantido o dever de confinamento obrigatório, em estabelecimento de saúde ou no respetivo domicílio para os doentes com COVID-19 e os infetados com SARS-Cov2 e para os cidadãos relativamente aos quais as autoridades de saúde determinassem medidas de vigilância ativa. Foi igualmente renovada a medida de sujeição a um dever especial de proteção em relação aos cidadãos maiores de 70 anos, os imunodeprimidos e os portadores de doença crónica que, de acordo com as orientações da autoridade de saúde devessem ser considerados de risco, designadamente os hipertensos, os diabéticos, os doentes cardiovasculares, os portadores de doença respiratória crónica e os doentes oncológicos. Nestes casos, foi assegurada a possibilidade de deslocação na via pública para satisfação de necessidades essenciais, tais como aquisição de bens e serviços, a fruição de momentos ao ar livre ou por motivos de força maior, desde que devidamente justificados. Quanto à generalidade da população, foi mantida a imposição de um dever geral de recolhimento domiciliário, com determinadas exceções, mantendo-se assim a regra geral de permanência na habitação, com vista à redução dos riscos de contágio associados ao contacto social.
+De igual modo, foi mantido o dever de confinamento obrigatório, em estabelecimento de saúde ou no respetivo domicílio para os doentes com COVID-19 e os infetados com SARS-Cov2 e para os cidadãos relativamente aos quais as autoridades de saúde determinassem medidas de vigilância ativa. Foi igualmente renovada a medida de sujeição a um dever especial de proteção em relação aos cidadãos maiores de 70 anos, os imunodeprimidos e os portadores de doença crónica que, de acordo com as orientações da autoridade de saúde devessem ser considerados de risco, designadamente os hipertensos, os diabéticos, os doentes cardiovasculares, os portadores de doença respiratória crónica e os doentes oncológicos. Nestes casos, foi assegurada a possibilidade de deslocação na via pública para satisfação de necessidades essenciais, tais como aquisição de bens e serviços, a fruição de momentos ao ar livre ou por motivos de força maior, desde que devidamente justificados. Quanto à generalidade da população, foi mantida a imposição de um dever geral de recolhimento domiciliário, com determinadas exceções, mantendo-se assim a regra geral de permanência na habitação, com vista à redução dos riscos de contágio associados ao contacto social.
 
 O decreto de execução do terceiro período do estado de emergência manteve a possibilidade de o membro do Governo responsável pela administração interna determinar o encerramento da circulação rodoviária e ferroviária, por razões de saúde pública, segurança ou fluidez do tráfego ou a restrição à circulação de determinados tipos de veículos. Tal previsão revelou-se decisiva para a implementação de operações de controlo da circulação rodoviária, em especial nos dias 1 e 2 de maio, visto o feriado de dia 1 ser uma sexta-feira e, por essa razão, ser previsível que muitos cidadãos pudessem querer deslocar-se para fora do concelho de residência, a fim de aproveitar o fim de semana prolongado. Tais deslocações não foram permitidas, por potenciadoras da propagação da epidemia, em salvaguarda da saúde pública, tendo o Governo aprovado, para o efeito, o Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril, no qual se estabeleceram as limitações à circulação entre concelhos, no período compreendido entre os dias 1 e 3 de maio de 2020.
 
@@ -765,7 +1005,7 @@ Foram excecionadas das limitações as deslocações entre concelhos, aquelas de
 
 No que respeita a esta categoria de direitos, para além das medidas constantes nos anteriores decretos de execução do estado de emergência, nomeadamente a adoção do regime de teletrabalho, sempre que possível, o encerramento de um conjunto alargado de instalações e estabelecimentos e a suspensão de atividades no âmbito do comércio a retalho e da prestação de serviços, restringindo a iniciativa económica privada, por forma a garantir o distanciamento social, a restrição os contactos sociais à sua expressão mínima, evitando a propagação da doença, foram ainda aplicadas limitações especiais ao funcionamento de certas atividades económicas no concelho de Ovar.
 
-Já no que concerne às restrições ao direito de propriedade privada, mantiveram-se as medidas previstas no âmbito da garantia de saúde pública e da requisição civil, sendo possível a requisição de bens e serviços, indústrias, fábricas, oficinas, campos ou instalações de qualquer natureza, nos casos em que tal fosse considerado adequado e indispensável para a proteção da saúde pública. No entanto, à semelhança do verificado nos dois períodos anteriores de execução do estado de emergência, o Governo não encontrou necessidade de recorrer à aplicação de tais medidas.
+Já no que concerne às restrições ao direito de propriedade privada, mantiveram-se as medidas previstas no âmbito da garantia de saúde pública e da requisição civil, sendo possível a requisição de bens e serviços, indústrias, fábricas, oficinas, campos ou instalações de qualquer natureza, nos casos em que tal fosse considerado adequado e indispensável para a proteção da saúde pública. No entanto, à semelhança do verificado nos dois períodos anteriores de execução do estado de emergência, o Governo não encontrou necessidade de recorrer à aplicação de tais medidas.
 
 Tal como consagrado no decreto de execução do segundo período do estado de emergência, foi mantida a possibilidade de laboração de vendedores itinerantes, com vista a propiciar a venda de bens alimentares ou outros de primeira necessidade nas localidades mais remotas.
 
@@ -811,7 +1051,7 @@ Assim, apesar de ser mantida a proibição de manifestações coletivas de relig
 
 Tal como já previsto no Decreto do Presidente da República n.º [17-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-a-2020-131068115), de 2 de abril, a alínea g) do artigo 4.º do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, consagrou a suspensão parcial da liberdade de aprender e ensinar, deixando em aberto a possibilidade de proibição ou limitação de aulas presenciais, a imposição do ensino à distância por meios telemáticos (com recurso à internet ou à televisão), o adiamento ou prolongamento de períodos letivos, o ajustamento de métodos de avaliação e a suspensão ou recalendarização de provas de exame ou da abertura do ano letivo, bem como eventuais ajustes ao modelo de acesso ao ensino superior.
 
-Tal previsão, fundamentada na necessidade de reduzir o risco de contágio e executar medidas de prevenção e combate à epidemia, no contexto escolar, teve consagração no Decreto-Lei n.º [14-G/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-g-2020-131393158), de 13 de abril, o qual estabeleceu medidas excecionais e temporárias na área da educação, no âmbito da pandemia da doença COVID-19, definindo regras relativas à realização e avaliação das aprendizagens, ao calendário escolar e de provas e exames dos ensinos básico e secundário, às matrículas, à inscrição para os exames finais nacionais e ao pessoal docente e não docente, de modo a assegurar a continuidade do ano letivo de 2019/2020, de uma forma justa, equitativa e de forma mais normalizada possível.
+Tal previsão, fundamentada na necessidade de reduzir o risco de contágio e executar medidas de prevenção e combate à epidemia, no contexto escolar, teve consagração no Decreto-Lei n.º [14-G/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-g-2020-131393158), de 13 de abril, o qual estabeleceu medidas excecionais e temporárias na área da educação, no âmbito da pandemia da doença COVID-19, definindo regras relativas à realização e avaliação das aprendizagens, ao calendário escolar e de provas e exames dos ensinos básico e secundário, às matrículas, à inscrição para os exames finais nacionais e ao pessoal docente e não docente, de modo a assegurar a continuidade do ano letivo de 2019/2020, de uma forma justa, equitativa e de forma mais normalizada possível.
 
 Apesar do referido normativo ter sido aprovado no decurso do segundo período do estado de emergência, a sua previsão abarca todos os níveis de ensino (excetuando-se o ensino superior) até ao final do ano letivo 2019/2020, de forma abrangente e completa, razão pela qual não foi alvo de alterações no decurso da execução do terceiro período do estado de emergência.
 
@@ -825,7 +1065,7 @@ Pretendeu-se, com esta medida, alertar os cidadãos para situações de saúde p
 
 5.9. Direito de resistência
 
-Da experiência obtida no período de execução da declaração do estado de emergência e da sua renovação, pôde verificar-se que a eficácia das medidas adotadas para debelar a atual situação pandémica depende, em grande parte, da adesão da população, ainda que as mesmas impliquem uma restrição, proporcional e necessária, de alguns dos seus direitos, liberdades e garantias. Nessa medida, foi determinado no artigo 5.º do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, que «[f]ica impedido todo e qualquer ato de resistência ativa ou passiva às ordens emanadas pelas autoridades públicas competentes em execução do presente estado de emergência».
+Da experiência obtida no período de execução da declaração do estado de emergência e da sua renovação, pôde verificar-se que a eficácia das medidas adotadas para debelar a atual situação pandémica depende, em grande parte, da adesão da população, ainda que as mesmas impliquem uma restrição, proporcional e necessária, de alguns dos seus direitos, liberdades e garantias. Nessa medida, foi determinado no artigo 5.º do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, que «[f]ica impedido todo e qualquer ato de resistência ativa ou passiva às ordens emanadas pelas autoridades públicas competentes em execução do presente estado de emergência».
 
 No seguimento deste normativo, o decreto que regulamenta a segunda prorrogação do estado de emergência voltou a consagrar o dever geral de cooperação por parte dos cidadãos e demais entidades, nomeadamente no cumprimento de ordens ou instruções dos órgãos e agentes responsáveis pela segurança, proteção civil e saúde pública na pronta satisfação de solicitações, que justificadamente lhes sejam feitas pelas entidades competentes para a concretização das medidas do referido decreto.
 
@@ -835,7 +1075,7 @@ Manteve-se igualmente a competência atribuída às juntas de freguesia de acons
 
 Recorde-se que nos termos do artigo 21.º da Constituição, que consagra o direito de resistência, «[t]odos têm o direito de resistir a qualquer ordem que ofenda os seus direitos, liberdades e garantias e de repelir pela força qualquer agressão, quando não seja possível recorrer à autoridade pública».
 
-Refira-se ainda que o Governo garantiu o funcionamento em permanência da Procuradoria-Geral da República e da Provedoria de Justiça, «com vista ao pleno exercício das suas competências de defesa da legalidade democrática e dos direitos dos cidadãos», tal como determinado pelo n.º 2 do artigo 18.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual, e como previsto no n.º 4 do artigo 6.º do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril.
+Refira-se ainda que o Governo garantiu o funcionamento em permanência da Procuradoria-Geral da República e da Provedoria de Justiça, «com vista ao pleno exercício das suas competências de defesa da legalidade democrática e dos direitos dos cidadãos», tal como determinado pelo n.º 2 do artigo 18.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual, e como previsto no n.º 4 do artigo 6.º do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril.
 
 6. EXECUÇÃO DA DECLARAÇÃO DO ESTADO DE EMERGÊNCIA
 
@@ -857,7 +1097,7 @@ No seguimento do já verificado nos períodos anteriores, as forças e serviço 
 
 No período ora em análise, continuaram a desenvolver-se ações reiteradas de sensibilização pedagógica junto da população, tirando partido do policiamento de proximidade, junto dos cidadãos e das suas comunidades, através do contacto pessoal, quer com a utilização de alertas sonoros através dos altifalantes das viaturas, ou dos altifalantes instalados em drones, divulgando cuidados a ter e procedimentos a adotar decorrentes das restrições legalmente impostas.
 
-Paralelamente, as Forças de Segurança realizaram 76 ações de vigilância (64 a GNR e 12 a PSP) com recurso a veículos aéreos não tripulados (drones), nas respetivas áreas de responsabilidade. A utilização destes meios teve como objetivo a proteção da segurança das pessoas e bens, públicos ou privados, e a prevenção da prática de crimes, tendo sido objeto de autorização do Secretário de Estado Adjunto e da Administração Interna, depois de obtido o parecer positivo da Comissão Nacional de Proteção de Dados.
+Paralelamente, as Forças de Segurança realizaram 76 ações de vigilância (64 a GNR e 12 a PSP) com recurso a veículos aéreos não tripulados (drones), nas respetivas áreas de responsabilidade. A utilização destes meios teve como objetivo a proteção da segurança das pessoas e bens, públicos ou privados, e a prevenção da prática de crimes, tendo sido objeto de autorização do Secretário de Estado Adjunto e da Administração Interna, depois de obtido o parecer positivo da Comissão Nacional de Proteção de Dados.
 
 Para o esforço comunicacional e pedagógico levado a cabo pelas FSS, em muito contribuiu a excelente relação com os órgãos de comunicação social, de âmbito nacional, regional e local, bem como a utilização intensiva das redes sociais para difundir mensagens de sensibilização à população.
 
@@ -875,13 +1115,13 @@ A PSP, no quadro da execução do terceiro período do estado de emergência, pr
 
 No âmbito operacional destaca-se o acompanhamento policial por parte da PSP a todos os transportes de material sanitário com destino ao Serviço Nacional de Saúde (SNS), os acompanhamentos policiais nas operações de transferência de cidadãos de lares, por motivos sanitários, o acompanhamento dos processos de testagem em alguns hostels da cidade de Lisboa, onde residem inúmeros cidadãos estrangeiros ou os esforços empreendidos no sentido de salvaguardar o meio de pagamento das pensões a pessoas reformadas em coordenação com os CTT e as estruturas locais.
 
-De referir, ainda, o incremento da realização de operações de fiscalização para o controlo das deslocações dos cidadãos e de veículos automóveis, de acordo com o previsto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, atendendo à verificação de elevados fluxos rodoviários e pedonais suscitados pela melhoria das condições climatéricas.
+De referir, ainda, o incremento da realização de operações de fiscalização para o controlo das deslocações dos cidadãos e de veículos automóveis, de acordo com o previsto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, atendendo à verificação de elevados fluxos rodoviários e pedonais suscitados pela melhoria das condições climatéricas.
 
-No âmbito das principais atribuições do SEF, uma vez que a atividade operacional se encontra limitada, o esforço de atuação continuou a recair na atividade desenvolvida nos nove Pontos de Passagem Autorizados (PPA), na sequência da reposição do controlo documental de pessoas nas fronteiras internas, registando-se, no período de 18 de abril a 2 de maio, um total de 84.543 passageiros controlados (uma subida de 30,3% face ao período anterior que registou 64.862), dos quais 356 não foram autorizados a entrar em território nacional.
+No âmbito das principais atribuições do SEF, uma vez que a atividade operacional se encontra limitada, o esforço de atuação continuou a recair na atividade desenvolvida nos nove Pontos de Passagem Autorizados (PPA), na sequência da reposição do controlo documental de pessoas nas fronteiras internas, registando-se, no período de 18 de abril a 2 de maio, um total de 84.543 passageiros controlados (uma subida de 30,3% face ao período anterior que registou 64.862), dos quais 356 não foram autorizados a entrar em território nacional.
 
-Na vertente documental, o SEF vem mantendo o atendimento presencial numa rede definida de balcões que funciona apenas mediante marcação prévia e em situações de reconhecida urgência. Assim, a prioridade foi o recurso aos meios digitais de interação com o cidadão. Apesar do reduzido número de atendimentos presenciais, foram resolvidas pendências e aprovados um total de 15.078 processos (verificando-se um acréscimo de 533% face ao período homólogo, em que se registaram 2.381), encontrando-se atualmente pendentes de personalização na Imprensa Nacional Casa da Moeda 21.274 títulos de residência.
+Na vertente documental, o SEF vem mantendo o atendimento presencial numa rede definida de balcões que funciona apenas mediante marcação prévia e em situações de reconhecida urgência. Assim, a prioridade foi o recurso aos meios digitais de interação com o cidadão. Apesar do reduzido número de atendimentos presenciais, foram resolvidas pendências e aprovados um total de 15.078 processos (verificando-se um acréscimo de 533% face ao período homólogo, em que se registaram 2.381), encontrando-se atualmente pendentes de personalização na Imprensa Nacional Casa da Moeda 21.274 títulos de residência.
 
-Foram igualmente concluídos 124 processos ARI, analisaram-se 13.460 processos em SAPA/Sistema Automático de Pré Agendamento e, 4.817 processos em SIGAP/Sistema Eletrónico de Gestão Documental em Workflow, verificando-se, assim, uma subida de 832% face aos 517 processos do período anterior.
+Foram igualmente concluídos 124 processos ARI, analisaram-se 13.460 processos em SAPA/Sistema Automático de Pré Agendamento e, 4.817 processos em SIGAP/Sistema Eletrónico de Gestão Documental em Workflow, verificando-se, assim, uma subida de 832% face aos 517 processos do período anterior.
 
 De destacar, ainda, no âmbito das atribuições do SEF, a realização de ações de sensibilização e esclarecimento para comunidades imigrantes, especialmente junto trabalhadores de explorações agrícolas na região do Algarve.
 
@@ -907,7 +1147,7 @@ Já no que concerne aos Planos de Emergência de Proteção Civil, mantiveram-se
 
 De referir a criação pela ANEPC da linha telefónica para apoio psicossocial COVID-19, dirigida a elementos de Comando dos Corpos de Bombeiros, nomeadamente para auxiliar à gestão de stress dos seus operacionais, tendo sido recebidas cerca de 50 chamadas.
 
-Quanto aos níveis de prontidão dos corpos de bombeiros, destacam-se os elevados níveis de operacionalidade com 344 Corpos de Bombeiros com 100% da sua capacidade operacional, 89 Corpos de Bombeiros entre os 75% e os 99%, e apenas 1 Corpo de Bombeiros entre os 50% e os 74%.
+Quanto aos níveis de prontidão dos corpos de bombeiros, destacam-se os elevados níveis de operacionalidade com 344 Corpos de Bombeiros com 100% da sua capacidade operacional, 89 Corpos de Bombeiros entre os 75% e os 99%, e apenas 1 Corpo de Bombeiros entre os 50% e os 74%.
 
 Em termos de recursos da ANEPC, destaca-se o esforço conjunto para a aquisição e reforço dos equipamentos de proteção individual, com vista à mitigação do risco de contágio dos operacionais no desempenho da missão.
 
@@ -935,7 +1175,7 @@ A base naval do Alfeite conta com 50 camas para os profissionais de saúde do Ho
 
 No período global da execução das 3 declarações do estado de emergência, as FA disponibilizaram cerca de 3.800 camas e 66 tendas em apoio a 117 entidades de 97 municípios (hospitais, centros de saúde, lares, câmaras municipais e outros agentes de proteção civil), bem como através da distribuição e armazenamento de material, em apoio ao SNS, dando resposta às solicitações da ANEPC. No âmbito do transporte de material, foi ativado o Centro Logístico Conjunto e efetuado o transporte aéreo de cerca de 7 toneladas de material médico entre o continente e ilhas e transporte terrestre de diversos equipamentos, nomeadamente em apoio ao SNS e ao Ministério da Educação.
 
-O Hospital das Forças Armadas (HFAR) procedeu à instalação do modulo de Apoio Militar de Emergência do Agrupamento Sanitário, no Polo de Lisboa (32 camas de internamento e 15 ventiladores) e implementou um sistema de colheitas rápidas para testes à COVID-19. No Polo do Porto, o HFAR passou a realizar sessões de hemodiálise a 16 doentes do Hospital de Braga e a prestar apoio a idosos em alto risco de contágio, disponibilizando alojamento e tratamento a estes cidadãos, em reforço das capacidades dos hospitais do SNS do norte do país.
+O Hospital das Forças Armadas (HFAR) procedeu à instalação do modulo de Apoio Militar de Emergência do Agrupamento Sanitário, no Polo de Lisboa (32 camas de internamento e 15 ventiladores) e implementou um sistema de colheitas rápidas para testes à COVID-19. No Polo do Porto, o HFAR passou a realizar sessões de hemodiálise a 16 doentes do Hospital de Braga e a prestar apoio a idosos em alto risco de contágio, disponibilizando alojamento e tratamento a estes cidadãos, em reforço das capacidades dos hospitais do SNS do norte do país.
 
 De referir igualmente que a Unidade Militar Laboratorial de Defesa Biológica e Química, após certificação técnica, passou a realizar testes completos de confirmação da COVID-19 (50 por dia) e o Laboratório Militar viu aumentada a capacidade de produção diária de gel desinfetante (2.700 litros), intensificada a produção de medicamentos e prestado apoio no armazenamento, gestão e distribuição da reserva estratégica do medicamento e de dispositivos médicos do SNS.
 
@@ -945,7 +1185,7 @@ Já no quadro do apoio à população sem-abrigo, as FA procederam à distribui�
 
 As FA desenvolveram a sua atividade num quadro de apoio logístico às capacidades da ANEPC, respondendo sempre prontamente às solicitações que lhes foram dirigidas, dando um contributo decisivo para o esforço nacional de combate à pandemia causada pela COVID-19.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 6.4. Cumprimento da legislação do estado de emergência - crime de desobediência
 
@@ -953,7 +1193,7 @@ As FA desenvolveram a sua atividade num quadro de apoio logístico às capacidad
 
 Apesar de o período ora em apreço ter sido antecedido de 30 dias de vigência do estado de emergência, verificou-se que a população em geral continuou a acatar pacificamente e de forma imediata as recomendações dos elementos das FSS, constituindo verdadeiras exceções aquelas que acabaram por levar ao levantamento de autos pelo crime de desobediência.
 
-Assim, no período compreendido entre os dias 18 de abril e 2 de maio, foram detidas 136 pessoas pelo crime de desobediência, das quais 44 por desobediência à obrigação de confinamento obrigatório, 1 por desobediência ao dever especial de confinamento, 60 por desobediência ao dever geral de recolhimento domiciliário, 14 por desobediência ao encerramento de instalações e estabelecimentos, 1 por desobediência às regras de funcionamento do comércio a retalho, 3 por desobediência às regras de funcionamento na prestação de serviços, 12 por resistência/coação e 1 por desobediência quanto às restrições de circulação no período de 1 a 3 de maio. Foram ainda encerrados 278 estabelecimentos por incumprimento das normas estabelecidas.
+Assim, no período compreendido entre os dias 18 de abril e 2 de maio, foram detidas 136 pessoas pelo crime de desobediência, das quais 44 por desobediência à obrigação de confinamento obrigatório, 1 por desobediência ao dever especial de confinamento, 60 por desobediência ao dever geral de recolhimento domiciliário, 14 por desobediência ao encerramento de instalações e estabelecimentos, 1 por desobediência às regras de funcionamento do comércio a retalho, 3 por desobediência às regras de funcionamento na prestação de serviços, 12 por resistência/coação e 1 por desobediência quanto às restrições de circulação no período de 1 a 3 de maio. Foram ainda encerrados 278 estabelecimentos por incumprimento das normas estabelecidas.
 
 Estes números juntam-se aos verificados nos dois primeiros períodos de estado de emergência: no primeiro período, que vigorou entre os dias 22 de março e 2 de abril, registaram-se 108 detenções por crime de desobediência e foram encerrados 1.708 estabelecimentos comerciais; no segundo período, que vigorou entre os dias 3 e 17 de abril, registaram-se 184 detenções por crime de desobediência e foram encerrados 432 estabelecimentos comerciais.
 
@@ -1003,7 +1243,7 @@ A composição da EMEE, estabelecida nos termos do Despacho n.º 3545/2020, publ
 
 18. Presidente da Autoridade Nacional de Emergência e Proteção Civil, Carlos Mourato Nunes
 
-A EMEE contou com a participação dos cinco Secretários de Estado que, ao abrigo do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, e do artigo 7.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e nos termos do Despacho n.º 4235-B/2020, o Primeiro-Ministro nomeou como autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nas diferentes regiões:
+A EMEE contou com a participação dos cinco Secretários de Estado que, ao abrigo do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, e do artigo 7.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e nos termos do Despacho n.º 4235-B/2020, o Primeiro-Ministro nomeou como autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nas diferentes regiões:
 
 1. Norte - Eduardo Pinheiro;
 
@@ -1015,7 +1255,7 @@ A EMEE contou com a participação dos cinco Secretários de Estado que, ao abri
 
 5. Algarve - José Apolinário.
 
-A EMEE funcionou em permanência, tendo realizado uma reunião, por videoconferência, no dia 24 de abril de 2020. O secretariado da EMEE foi assegurado pelo Gabinete da Secretária de Estado da Administração Interna.
+A EMEE funcionou em permanência, tendo realizado uma reunião, por videoconferência, no dia 24 de abril de 2020. O secretariado da EMEE foi assegurado pelo Gabinete da Secretária de Estado da Administração Interna.
 
 7.2. Questões nucleares
 
@@ -1103,7 +1343,7 @@ As forças e serviço de segurança reforçaram as ações de fiscalização, te
 
 A Autoridade Marítima Nacional, através da Polícia Marítima e do Instituto de Socorros a Náufragos, realizou nos dias 1, 2 e 3 de maio diversas ações de fiscalização nas praias e junto à orla marítima, no sentido de aconselhar e sensibilizar os cidadãos para a importância do cumprimento das medidas impostas, com o objetivo de conter a pandemia da COVID-19, proteger as pessoas e salvaguardar a saúde pública. Das situações de potencial incumprimento ou de risco, destacam-se as deslocações ou passeios no Domínio Público Marítimo, a permanência em zonas de apoio balnear, a prática de desportos como o surf ou o bodyboard e a pesca lúdica, sendo a zona centro aquela onde se registou maior afluência de pessoas. A abordagem da Polícia Marítima, à semelhança das restantes forças de segurança, foi no sentido preventivo e pedagógico, e em praticamente todas as situações os cidadãos cumpriram as indicações e terminaram as atividades, regressando às suas casas.
 
-As restrições à circulação impostas para o período de 1 a 3 de maio não prejudicaram a participação em atividades relativas às celebrações oficiais do Dia do Trabalhador. Nos termos do preâmbulo do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, «as limitações ao direito de deslocação deverão ser aplicadas de modo a permitir tal comemoração, embora com os limites de saúde pública (…)». Razão pela qual, a alínea t) do n.º 1 do artigo 5.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, excluiu do dever geral de recolhimento domiciliário as deslocações com vista a tal participação. Refira-se, a propósito, que a organização e a participação dos cidadãos nas atividades relativas à celebração do Dia do Trabalhador foram articuladas entre as forças e serviço de segurança e as centrais sindicais, tal como estipulado no n.º 6 do artigo 46.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril.
+As restrições à circulação impostas para o período de 1 a 3 de maio não prejudicaram a participação em atividades relativas às celebrações oficiais do Dia do Trabalhador. Nos termos do preâmbulo do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril, «as limitações ao direito de deslocação deverão ser aplicadas de modo a permitir tal comemoração, embora com os limites de saúde pública (…)». Razão pela qual, a alínea t) do n.º 1 do artigo 5.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, excluiu do dever geral de recolhimento domiciliário as deslocações com vista a tal participação. Refira-se, a propósito, que a organização e a participação dos cidadãos nas atividades relativas à celebração do Dia do Trabalhador foram articuladas entre as forças e serviço de segurança e as centrais sindicais, tal como estipulado no n.º 6 do artigo 46.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril.
 
 ii. Cerca sanitária de Ovar
 
@@ -1113,7 +1353,7 @@ Apoio às associações humanitárias de bombeiros
 
 Diversos membros da EMEE alertaram para a situação específica das associações humanitárias de bombeiros e para as dificuldades financeiras que as mesmas enfrentam decorrentes da atual situação pandémica. Tais dificuldades são fruto da diminuição abrupta do transporte de doentes não urgentes, com um impacto muito significativo na sua faturação, agravada pelo acréscimo repentino de gastos com equipamentos de proteção individual e material de desinfeção. Esta realidade coloca as associações humanitárias de bombeiros em situação de debilidade financeira que pode comprometer a atividade operacional dos corpos de bombeiros e, consequentemente, a sua capacidade de resposta a emergências.
 
-A fim de apoiar a sustentabilidade financeira das associações humanitárias de bombeiros, o [Decreto-Lei n.º 19/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2020-132721068), de 30 de abril, aprovou um apoio àquelas que se encontram em situação de debilidade financeira, destinado a fazer face às necessidades de tesouraria, nomeadamente para assegurar o pagamento de salários aos bombeiros assalariados e demais trabalhadores. Este apoio prevê a possibilidade de antecipação do financiamento permanente, no valor de 7 milhões de euros, e a disponibilização de um financiamento específico, sem juros, no valor de 6,5 milhões de euros. O Governo reforçou ainda, em mais de 560 mil euros, o Fundo de Proteção Social do Bombeiro para colmatar necessidades acrescidas de apoio aos bombeiros voluntários.
+A fim de apoiar a sustentabilidade financeira das associações humanitárias de bombeiros, o [Decreto-Lei n.º 19/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2020-132721068), de 30 de abril, aprovou um apoio àquelas que se encontram em situação de debilidade financeira, destinado a fazer face às necessidades de tesouraria, nomeadamente para assegurar o pagamento de salários aos bombeiros assalariados e demais trabalhadores. Este apoio prevê a possibilidade de antecipação do financiamento permanente, no valor de 7 milhões de euros, e a disponibilização de um financiamento específico, sem juros, no valor de 6,5 milhões de euros. O Governo reforçou ainda, em mais de 560 mil euros, o Fundo de Proteção Social do Bombeiro para colmatar necessidades acrescidas de apoio aos bombeiros voluntários.
 
 A EMEE foi sensibilizada para a necessidade de revisão dos montantes pagos pelo INEM às associações humanitárias de bombeiros referentes ao transporte de doentes urgentes, bem como o facto de os seguros de acidentes pessoais dos bombeiros voluntários não abrangerem a cobertura do risco de contração da doença COVID-19.
 
@@ -1131,7 +1371,7 @@ Todos foram confrontados com uma figura jurídica que residia tão-só no texto 
 
 O Governo tudo fez para garantir a resiliência do Sistema Nacional de Saúde, o qual enfrentou o maior dos desafios. Revelou-se, rectius, confirmou-se a excelência dos seus profissionais que, com dedicação e sacrifício pessoal e familiar, tudo fizeram para prestar os melhores cuidados de saúde à população. Esta dedicação e empenho mereceu múltiplas manifestações de reconhecimento de vários setores da sociedade, às quais se adere com apreço. O Governo reafirma a sua firme determinação em dotar o Serviço Nacional de Saúde com os meios necessários para que este possa continuar a cumprir o papel que a Constituição lhe reserva na realização do direito à saúde, com as suas características de universalidade, generalidade e, tendo em conta as condições económicas e sociais dos cidadãos, gratuitidade tendencial.
 
-O Governo reconhece, com humildade democrática, que as dificuldades foram muitas e que outros caminhos seriam eventualmente possíveis, especialmente quando se olha para o passado com os conhecimentos do presente. Em cada momento, porém, o Governo tudo fez ao seu alcance para, de forma proporcional, adequada e necessária, salvaguardar a saúde dos cidadãos. Perante o fim do estado de emergência, não é possível voltar de imediato à normalidade da vida em sociedade. A situação de saúde pública não está consolidada, continuando a apresentar graves riscos para a população, particularmente a mais vulnerável, e as consequências económicas e sociais perdurarão no tempo. O Governo tudo fará para que este período seja o mais curto possível, contando com a continuada colaboração dos partidos políticos e dos parceiros sociais, no respeito pela diferença de opiniões.
+O Governo reconhece, com humildade democrática, que as dificuldades foram muitas e que outros caminhos seriam eventualmente possíveis, especialmente quando se olha para o passado com os conhecimentos do presente. Em cada momento, porém, o Governo tudo fez ao seu alcance para, de forma proporcional, adequada e necessária, salvaguardar a saúde dos cidadãos. Perante o fim do estado de emergência, não é possível voltar de imediato à normalidade da vida em sociedade. A situação de saúde pública não está consolidada, continuando a apresentar graves riscos para a população, particularmente a mais vulnerável, e as consequências económicas e sociais perdurarão no tempo. O Governo tudo fará para que este período seja o mais curto possível, contando com a continuada colaboração dos partidos políticos e dos parceiros sociais, no respeito pela diferença de opiniões.
 
 O Governo presta público agradecimento pelo esforço de quantos ajudaram a controlar a pandemia e as limitar os seus efeitos. Agradece aos profissionais de saúde, aos agentes das forças e serviço de segurança, aos agentes de proteção civil, em particular aos bombeiros voluntários, aos funcionários públicos, aos trabalhadores dos setores essenciais. Agradece às Portuguesas e aos Portugueses que, anonimamente, mudaram hábitos sociais, recolheram a suas casas e cumpriram as recomendações e regras de segurança.
 
@@ -1141,13 +1381,13 @@ ANEXOS
 
 ## ANEXO I - Relatórios setoriais — a. Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Relatório do Estado de Emergência de 18 de abril a 2 de maio
 
 1. Introdução
 
-No contexto da pandemia ocasionada pelo vírus SARS-CoV-2 e pela doença COVID-19, S. Exª. o Presidente da República Portuguesa decretou o Estado de Emergência (EE) através do Decreto n.º [14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, cuja primeira renovação ocorreu por disposto do Decreto n.º [17-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-a-2020-131068115), a 2 de abril, com efeitos de 03 a 17 de abril de 2020, e a segunda renovação por [Decreto n.º 20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), a 17 de abril, com efeitos de 18 de abril a 02 de maio 2020. Consequentemente, a regulamentação da Declaração do EE através do Decreto n.º [2-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2020-130473161), de 20 de março, foi prorrogada pela primeira vez pelo [Decreto n.º 2-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124), de 02 abril, e pela segunda vez pelo Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril. A publicação do Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril regulamentou especificamente o EE entre 1 e 2 de maio 2020 e o estado de calamidade para o dia 03 de maio de 2020.
+No contexto da pandemia ocasionada pelo vírus SARS-CoV-2 e pela doença COVID-19, S. Exª. o Presidente da República Portuguesa decretou o Estado de Emergência (EE) através do Decreto n.º [14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, cuja primeira renovação ocorreu por disposto do Decreto n.º [17-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-a-2020-131068115), a 2 de abril, com efeitos de 03 a 17 de abril de 2020, e a segunda renovação por [Decreto n.º 20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), a 17 de abril, com efeitos de 18 de abril a 02 de maio 2020. Consequentemente, a regulamentação da Declaração do EE através do Decreto n.º [2-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2020-130473161), de 20 de março, foi prorrogada pela primeira vez pelo [Decreto n.º 2-B/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124), de 02 abril, e pela segunda vez pelo Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril. A publicação do Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril regulamentou especificamente o EE entre 1 e 2 de maio 2020 e o estado de calamidade para o dia 03 de maio de 2020.
 
 Estes Decretos regulamentaram situações específicas e aprovaram um conjunto adicional de medidas para minorar o risco de contágio do vírus SARS-CoV-2 e conter a propagação da doença COVID-19. Tais medidas exigiram a articulação e a conjugação de esforços com as Forças e Serviços de Segurança (FSS), traduzindo-se num esforço orientado e direcionado à Segurança Humana.
 
@@ -1175,7 +1415,7 @@ Para além destas, foram igualmente executadas as seguintes operações:
 
 · A Operação COVID-19 Transição Segura, em curso desde 30 de abril a 04 de maio de 2020, com a finalidade de garantir, através de uma presença dissuasora e interventiva, o cumprimento das normas decretadas no contexto do EE3 e da declaração da situação de calamidade, através do Decreto n.º [33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 30 de abril, a fim de sensibilizar e esclarecer a população para a nova realidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 No Anexo A deste relatório encontram-se sintetizados os resultados operacionais globais de todas as operações realizadas no período em análise e da ação da GNR nas suas várias dimensões, incluindo uma comparação do EE3 com os dois períodos anteriores do EE.
 
@@ -1227,7 +1467,7 @@ Todas as ações anteriormente descritas foram ampliadas pela dimensão da comun
 
 De sublinhar a excelente interação estabelecida com os órgãos de comunicação social nacionais, regionais e locais, tendo sido realizadas as seguintes reportagens: 240 em televisão; 27 em rádio; 2 em estúdio; 1 via skype; e 284 em imprensa escrita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Num esforço coletivo e colaborativo, continuou a apelar-se à consciência cívica e ao espírito de cidadania dos portugueses, com resultados visíveis no elevado nível de acatamento(4) generalizado por parte da população, bem espelhado no número total de 50.924 cidadãos que acataram as recomendações da GNR.
 
@@ -1247,17 +1487,17 @@ Como oportunidade de melhoria destaca-se a importância do estabelecimento de um
 
 Ao nível das Regiões Autónomas, continuaram as excelentes relações de cooperação institucional e operacional com as autoridades regionais e locais, salientando-se, na ilha da Madeira, a continuação do apoio prestado ao Comando Regional da PSP, à Alfândega do Funchal no controlo do portão único da Zona Franca, no Caniçal, e a coordenação com a Autoridade Marítima e as Autoridades Sanitárias nas zonas de apoio balnear e no controlo de embarcações nas Marinas do Funchal e Porto Santo. Foi exemplo disso a comunicação, a 20 de abril de 2020, da deteção de 4 embarcações de pesca profissional, registadas em Câmara de Lobos, com cerca de 25 tripulantes a bordo e que acostaram em Porto Moniz, noutro concelho, em incumprimento da cerca sanitária à freguesia de Câmara de Lobos.
 
-Também na Região Autónoma dos Açores as excelentes relações com as autoridades regionais e locais foi a tónica vigente, sublinhando-se a ação contínua da GNR em apoio da PSP na cerca sanitária concelhia estabelecida em toda a ilha de S. Miguel, na vigilância aos indivíduos instalados no The Lince Azores Great Hotel, em Ponta Delgada, e nas ações de patrulhamento de proximidade e de controlo das marinas, portos e aeroportos.
+Também na Região Autónoma dos Açores as excelentes relações com as autoridades regionais e locais foi a tónica vigente, sublinhando-se a ação contínua da GNR em apoio da PSP na cerca sanitária concelhia estabelecida em toda a ilha de S. Miguel, na vigilância aos indivíduos instalados no The Lince Azores Great Hotel, em Ponta Delgada, e nas ações de patrulhamento de proximidade e de controlo das marinas, portos e aeroportos.
 
 No âmbito da cooperação internacional, saliente-se a continuação da estreita ligação com a Guardia Civil, tendo como referencial de boas práticas a excelente articulação de procedimentos, a partilha de informação e a manutenção de um elevado grau de prontidão e de resposta operacional, em especial na fronteira comum. Tais sinergias, refletiram-se de forma evidente no controlo dos movimentos e da mobilidade transfronteiriça terrestre, com reflexos muito positivos na deteção e na diminuição do tráfico de estupefacientes. Em particular neste EE, realça-se a reabertura condicionada de outro ponto de passagem (OPP) em Rio de Onor/Bragança - Rio Honor de Castilla.
 
 5. Outros elementos relevantes
 
-Numa perspetiva interna e tendo como referencial primacial o bem-estar físico e moral do seu efetivo, o Comando da GNR continuou a promover a adoção de medidas de prevenção e proteção sanitárias, de higiene individual e coletiva, de apoio médico a 1.785 militares, de apoio psicológico a 913 militares, e a realização de 618 testes de zaragatoas, em todo o continente. Durante todo o período do EE, o dispositivo da GNR teve ao seu dispor linhas telefónicas e contas de correio eletrónico monitorizadas centralmente pela sala de situação para atendimento, por meios digitais, da Unidade de Apoio Médico Permanente do Centro Clínico (CC).
+Numa perspetiva interna e tendo como referencial primacial o bem-estar físico e moral do seu efetivo, o Comando da GNR continuou a promover a adoção de medidas de prevenção e proteção sanitárias, de higiene individual e coletiva, de apoio médico a 1.785 militares, de apoio psicológico a 913 militares, e a realização de 618 testes de zaragatoas, em todo o continente. Durante todo o período do EE, o dispositivo da GNR teve ao seu dispor linhas telefónicas e contas de correio eletrónico monitorizadas centralmente pela sala de situação para atendimento, por meios digitais, da Unidade de Apoio Médico Permanente do Centro Clínico (CC).
 
 A aplicação informática para monitorização e reporte diário do autodiagnóstico preliminar quanto ao quadro de sintomatologia foi, entretanto, alargada a todos os militares da GNR.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Refira-se igualmente a ação dos Serviços Sociais da GNR e da Escola da Guarda com a disponibilização de alojamentos a militares e civis para cumprimento do confinamento obrigatório (isolamento ou quarentena), em segurança e com apoio clínico e logístico permanente.
 
@@ -1293,111 +1533,111 @@ Luís Francisco Botelho Miguel
 
 Tenente-General
 
-## Anexo A - Resultados Operacionais Globais
+Anexo A - Resultados Operacionais Globais
 
 1. Numa situação de exceção e estado de emergência, a GNR foi uma Força de Segurança Humana, Próxima e de Confiança, que reforçou a sua relação com a Nação portuguesa e os portugueses através da interação consciente entre a Guarda e o Cidadão. No período de 18 de abril a 02 de maio de 2020 (EE3), 39.137 militares realizaram um total de 22.839 ações de sensibilização, percorreram 1.515.754 km, fiscalizaram 169.576 pessoas e 126.496 viaturas.
 
 2. A dimensão do esforço exercido pela GNR durante os três períodos do EE é demonstrada no gráfico 1. Na generalidade, verificou-se um aumento significativo da atuação da GNR relativamente aos EE2 e EE3, devido ao incremento do patrulhamento de proximidade e das operações, desdobradas em ações de sensibilização e de fiscalização, de maior duração temporal, que permitiram percorrer maiores distâncias e abranger um maior número de pessoas e de viaturas em todo o território nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-3. O patrulhamento de proximidade durante o 3.º período do EE (EE3), continuou a ser um elemento crucial que permitiu manter o vigor na prevenção, na consciencialização e na repressão de comportamentos de risco pela população, em especial com a comunidade sénior no interior do País. No cômputo geral realizaram-se 18825 ações de patrulhamento, das quais 17.529 patrulhas auto, 856 patrulhas apeadas, 99 com trinómios, 236 patrulhas a cavalo, 25 patrulhas em meio fluvial e 80 patrulhas em meio marítimo, como ilustra a tabela 1.
+3. O patrulhamento de proximidade durante o 3.º período do EE (EE3), continuou a ser um elemento crucial que permitiu manter o vigor na prevenção, na consciencialização e na repressão de comportamentos de risco pela população, em especial com a comunidade sénior no interior do País. No cômputo geral realizaram-se 18825 ações de patrulhamento, das quais 17.529 patrulhas auto, 856 patrulhas apeadas, 99 com trinómios, 236 patrulhas a cavalo, 25 patrulhas em meio fluvial e 80 patrulhas em meio marítimo, como ilustra a tabela 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-4. Durante todo o EE, a GNR aumentou de forma sustentável e gradual o emprego das várias valências nas ações de patrulhamento de proximidade, conforme se observa no gráfico 2. O aumento registado relaciona-se com a proatividade da GNR na realização de operações específicas, a exemplo das Operações "Fique em Casa II e III" e "Transição Segura", e das ações operacionais direcionadas aos períodos específicos de limitação à circulação fora da área do concelho de residência, a par da cooperação com a PSP e com outras entidades nas Regiões Autónomas da Madeira e dos Açores, em particular durante o EE2 e EE3.
+4. Durante todo o EE, a GNR aumentou de forma sustentável e gradual o emprego das várias valências nas ações de patrulhamento de proximidade, conforme se observa no gráfico 2. O aumento registado relaciona-se com a proatividade da GNR na realização de operações específicas, a exemplo das Operações "Fique em Casa II e III" e "Transição Segura", e das ações operacionais direcionadas aos períodos específicos de limitação à circulação fora da área do concelho de residência, a par da cooperação com a PSP e com outras entidades nas Regiões Autónomas da Madeira e dos Açores, em particular durante o EE2 e EE3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-5. De realçar que no cumprimento do patrulhamento de proximidade no EE3, foram empenhadas 17.145 viaturas que percorreram 1.501.751 km, e 104 embarcações que percorreram 2.613 milhas náuticas, de acordo com os dados da tabela 2.
+5. De realçar que no cumprimento do patrulhamento de proximidade no EE3, foram empenhadas 17.145 viaturas que percorreram 1.501.751 km, e 104 embarcações que percorreram 2.613 milhas náuticas, de acordo com os dados da tabela 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 6. Através de uma gestão parcimoniosa dos recursos humanos e materiais, foi possível o seu judicioso emprego no local e momento mais adequados, garantindo a sustentação necessária ao cumprimento da missão atribuída ao longo de todo o EE, conforme gráfico 3. Em consonância com as ações de patrulhamento, destaca-se um aumento nos recursos empenhados durante o EE3, em particular na continuação da Operação Contenção e da Operação Fronteira Controlada, bem como nas outras Operações: "Fique em Casa II e II" e "Transição Segura".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 7. Do total de 296.268 ações de vigilância e controlo realizadas durante o EE3, foram fiscalizados 169.576 cidadãos, 126.496 viaturas, 121 comboios e 75 embarcações, como ilustra a tabela 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 8. Face à necessidade de garantir o cumprimento dos determinantes jurídicos decretados durante todo o EE, a GNR, através do patrulhamento de proximidade, fiscalizou, de forma preventiva e dissuasora, pessoas e viaturas, conforme consta no gráfico 4. A sua atuação operacional foi orientada prioritariamente para a observação do confinamento obrigatório e para as movimentações da população para as zonas de lazer, resultando num aumento significativo de fiscalização de viaturas e de pessoas durante o EE2 e EE3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 9. Na generalidade, durante o EE3, a população acatou as restrições legais e as orientações da GNR, atento o Grau de Acatamento bastante satisfatório espelhado na tabela 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 10. O gráfico 5 parece demonstrar a atitude cívica e consciente da maioria dos cidadãos ao longo de todo o EE, acatando as orientações da GNR, especialmente quanto aos deveres de proteção e recolhimento.
 
 Os resultados do EE3 refletem o efeito das ações de sensibilização realizadas e o cumprimento das recomendações e dos normativos vigentes pelos cidadãos, abstendo-se de deslocações desnecessárias. Simultaneamente, a GNR fiscalizou os normativos jurídicos respeitantes à abertura e funcionamento de estabelecimentos e de atividades, podendo constatar-se uma tendência de diminuição do número de estabelecimentos em incumprimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 11. Decorrente de situações de incumprimento ao disposto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e no Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril, durante o EE3 foram detidos 40 cidadãos, conforme se apresenta na tabela 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-12. No que respeita às detenções efetuadas no âmbito da COVID-19 durante toda a vigência do EE (ver gráfico 6), registaram-se 155 detenções (53 no 1º período, 62 no 2º período e 40 no 3º período) maioritariamente pelo crime de desobediência por desrespeito às medidas de confinamento, das quais 31 relacionadas com o desrespeito à cerca sanitária de Ovar (11 no 1º período e 20 no 2.º período).
+12. No que respeita às detenções efetuadas no âmbito da COVID-19 durante toda a vigência do EE (ver gráfico 6), registaram-se 155 detenções (53 no 1º período, 62 no 2º período e 40 no 3º período) maioritariamente pelo crime de desobediência por desrespeito às medidas de confinamento, das quais 31 relacionadas com o desrespeito à cerca sanitária de Ovar (11 no 1º período e 20 no 2.º período).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 13. Para além das detenções referidas na tabela 5, decorrente da fiscalização do disposto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril e no Decreto n.º [33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 30 de abril, na zona de ação da GNR e durante o EE3 foram encerrados 187 estabelecimentos e instalações, enquanto que durante todo o EE foram encerrados 966. Ao longo de todo o EE, com especial destaque para o EE3, verificou-se uma diminuição acentuada deste tipo de violação às medidas impostas (menos 320 situações em relação ao EE1), fruto do resultado das ações de sensibilização e fiscalização realizadas pela Guarda.
 
 14. Considerando os valores provisórios referentes à atividade operacional da GNR registados à data deste relatório nos sistemas integrados de gestão de apoio à atividade operacional, verificaram-se durante o EE3 10.197 ocorrências, 4.487 crimes, 498 detenções, 4.420 notícias e 1.223 acidentes rodoviários.
 
-15. No gráfico seguinte pode constatar-se que, durante todo o EE, houve uma tendência de evolução crescente dos principais indicadores da atividade operacional, registando-se um total de 27.792 ocorrências, 11.521 crimes, 1.140 detenções, 12.051 notícias e 3.324 acidentes rodoviários.
+15. No gráfico seguinte pode constatar-se que, durante todo o EE, houve uma tendência de evolução crescente dos principais indicadores da atividade operacional, registando-se um total de 27.792 ocorrências, 11.521 crimes, 1.140 detenções, 12.051 notícias e 3.324 acidentes rodoviários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-16. Quanto à criminalidade registada, os valores provisórios durante o EE3 indicam que houve uma tendência de aumento nos crimes de furto (1.106 crimes) e nos crimes de violência doméstica (554 crimes). Quanto ao crime de resistência e coação sobre os militares da Guarda, verificou-se um aumento em relação ao EE2. Os crimes de roubo mantiveram-se sensivelmente iguais aos períodos anteriores (35 crimes). Verificou-se, ainda, uma tendência de diminuição de crimes de incêndio florestal (14 crimes). Relativamente ao período anterior, no EE3 registou-se um aumento de detenções resultante da proatividade da GNR e do número elevado de ações de fiscalização sobre o cumprimento das restrições de circulação.
+16. Quanto à criminalidade registada, os valores provisórios durante o EE3 indicam que houve uma tendência de aumento nos crimes de furto (1.106 crimes) e nos crimes de violência doméstica (554 crimes). Quanto ao crime de resistência e coação sobre os militares da Guarda, verificou-se um aumento em relação ao EE2. Os crimes de roubo mantiveram-se sensivelmente iguais aos períodos anteriores (35 crimes). Verificou-se, ainda, uma tendência de diminuição de crimes de incêndio florestal (14 crimes). Relativamente ao período anterior, no EE3 registou-se um aumento de detenções resultante da proatividade da GNR e do número elevado de ações de fiscalização sobre o cumprimento das restrições de circulação.
 
 17. Os valores provisórios apresentados ao longo do EE indicam igualmente uma tendência de aumento nos crimes de furto e de violência doméstica, conforme se observa no gráfico 8. No total registaram-se 2.855 crimes de furto, 1.451 de violência doméstica, 115 de roubo, 98 contra militares da GNR, 67 de resistência e coação e 159 de incêndio florestal.
 
 A tendência crescente da criminalidade principalmente no EE3 poderá constituir um eventual indicador da complexidade da manutenção do recolhimento no domicílio por parte da população.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 18. Durante o EE3, a Guarda realizou um total de 22.839 ações de sensibilização promovidas pelo patrulhamento de proximidade, em todo o território nacional.
 
 19. O esforço exercido pela Guarda em chegar mais próximo da população pode ser observado no gráfico 9 com as 63.069 ações realizadas durante todo o EE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 20. Conforme referido anteriormente, a GNR implementou o Programa 65 - Longe + Perto, no qual estabeleceu contacto presencial e telefónico com idosos e com militares da GNR na situação de reforma, tendo sensibilizado e sinalizado durante o EE3 um total de 21.766 idosos, cujos resultados se apresentam na tabela 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 21. Desde o início deste programa em 09 de abril de 2020 e até ao final do EE, a GNR procedeu à sensibilização e sinalização de 36.978 idosos, destacando-se o EE3 como o período onde a GNR atingiu um maior número de idosos sensibilizados, conforme se apresenta no gráfico seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 22. No período em que vigorou o EE3 foram empenhados 225 militares da UEPS nas linhas de descontaminação instaladas em Queluz e Vila Nova de Gaia (ver tabela 7), tendo prestado apoio na descontaminação de 853 viaturas, nomeadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-23. Neste âmbito, durante todo o período do EE, a UEPS realizou a descontaminação de 2.289 viaturas, conforme se discrimina no gráfico 10.
+23. Neste âmbito, durante todo o período do EE, a UEPS realizou a descontaminação de 2.289 viaturas, conforme se discrimina no gráfico 10.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 24. Durante o EE3, a UEPS realizou 23 ações de descontaminação (tabela 8) de instalações de várias entidades, nomeadamente em lares, Unidades de Saúde e em instalações da GNR, através de equipas móveis que se deslocaram a nível nacional. Estas ações decorreram nos Distritos de Aveiro, Beja, Braga, Coimbra, Faro, Guarda, Leiria, Santarém e Viseu.
 
 De referir que, durante a vigência do EE, a UEPS realizou um total de 69 ações móveis de descontaminação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 25. Nas ações de vigilância com meios aéreos não tripulados em apoio às Unidades Territoriais de Aveiro, Bragança, Castelo Branco, Guarda e Vila Real, a UEPS empenhou 45 militares no emprego de drones, tendo realizado um total de 64 voos, que se traduziram em 1.479 minutos de voo, conforme consta na tabela 9.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 26. Na totalidade da vigência do EE, em apoio às diversas operações realizadas pela GNR, a UEPS realizou um total de 177 voos com drones, que se traduziram em 3.862 minutos de voo.
 
 27. Por fim, no que respeita à situação do efetivo da Guarda reportado ao dia 02 de maio de 2020, apresentam-se os respetivos dados na tabela 10, a sua evolução durante o EE3 (gráfico 11) e a respetiva situação epidemiológica na tabela 11. De referir que o efetivo presente se manteve sempre acima dos 80% durante todo o EE, registando uma tendência de aumento durante o EE3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-## Anexo B - Operação COVID 19 Fique em Casa II e III
+Anexo B - Operação COVID 19 Fique em Casa II e III
 
 |Resultados Operacionais|
 
@@ -1405,31 +1645,31 @@ De referir que, durante a vigência do EE, a UEPS realizou um total de 69 açõe
 
 2. Consubstanciando os mesmos objetivos mas ao abrigo do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, foi realizada a Operação COVID 19 Fique em Casa III, de 24 de abril a 27 de abril de 2020.
 
-3. Estas operações consistiram em ações coordenadas de fiscalização rodoviária e de sensibilização através do presente patrulhamento de proximidade, nos acessos às localidades das zonas de ação de cada CTer, nos principais eixos rodoviários como: as AE n.os 1, 3, 4, 8, 15, 17 e 29 e nas respetivas áreas de serviço e portagens; os IP n.os 2, 3 e 5; o IC n. os 2 e 9 e as EN n.os 9, 14, 16, 17, 101, 102,103, 105,109,110, 114, 206, 210, 220, 222, 226, 310, 323, 350 e 356.
+3. Estas operações consistiram em ações coordenadas de fiscalização rodoviária e de sensibilização através do presente patrulhamento de proximidade, nos acessos às localidades das zonas de ação de cada CTer, nos principais eixos rodoviários como: as AE n.os 1, 3, 4, 8, 15, 17 e 29 e  nas respetivas áreas de serviço e portagens; os IP n.os 2, 3 e 5; o IC n. os  2 e 9 e as EN n.os 9, 14, 16, 17, 101, 102,103, 105,109,110, 114, 206, 210, 220, 222, 226, 310, 323, 350 e 356.
 
 4. No total foram empenhados 21.171 militares que realizaram 12.384 ações de sensibilização, para além de 9.441 patrulhas auto, 421 patrulhas apeadas, 52 com trinómios, 143 patrulhas a cavalo, 13 patrulhas em meio fluvial e 45 patrulhas em meio marítimo, como ilustra a tabela 12.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-5. Nestas operações foram empenhadas 9.151 viaturas que percorreram 805.593 km e 56 embarcações que percorreram 1.357 milhas náuticas, bem como meios apeados e a cavalo, de acordo com os dados da tabela 13.
+5. Nestas operações foram empenhadas 9.151 viaturas que percorreram 805.593 km e 56 embarcações que percorreram 1.357 milhas náuticas, bem como meios apeados e a cavalo, de acordo com os dados da tabela 13.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-6. Nas ações de vigilância e controlo foram fiscalizados 97.995 cidadãos, 71.888 viaturas, 56 comboios e 24 embarcações como ilustra a tabela 14.
+6. Nas ações de vigilância e controlo foram fiscalizados 97.995 cidadãos, 71.888 viaturas, 56 comboios e 24 embarcações como ilustra a tabela 14.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 7. A generalidade da população acatou as restrições legais, as orientações da GNR e procurou compreender as medidas, podendo considerar-se que o Grau de Acatamento foi bastante satisfatório, conforme os registos da tabela 15.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 8. Decorrente de situações de incumprimento ao disposto no art.º 43.º e 46.º, do [Decreto n.º 2-B](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124) e n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), no total, por crime de desobediência, foram detidos 22 cidadãos, conforme se discrimina na tabela 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-9. No âmbito das ações de fiscalização das restrições impostas ao funcionamento de estabelecimentos comerciais e instalações conforme o disposto nos art.º 43.º e 46.º, do [Decreto n.º 2-B](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124) e n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), foram encerrados 93 estabelecimentos/instalações na zona de ação da GNR.
+9. No âmbito das ações de fiscalização das restrições impostas ao funcionamento de estabelecimentos comerciais e instalações conforme o disposto nos art.º 43.º e 46.º, do [Decreto n.º 2-B](https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124) e n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), foram encerrados 93 estabelecimentos/instalações na zona de ação da GNR.
 
-## Anexo C - Operação COVID 19 Transição Segura
+Anexo C - Operação COVID 19 Transição Segura
 
 |Resultados Operacionais da 1.ª fase|
 
@@ -1445,31 +1685,31 @@ b. Incrementar ações de fiscalização relativamente às medidas restritivas a
 
 c. Promover ações de sensibilização e de informação à população em geral e à comunidade sénior isolada e/ou sozinha através do Programa "65 Longe + Perto".
 
-4. Foram promovidas ações de fiscalização rodoviária e de sensibilização, nos acessos às localidades das zonas de ação de cada CTer, nos principais eixos rodoviários; Ponte da Arrábida - Porto; as AE n.os 1, 2, 3, 4, 6 ,16, 23, 24, 25, 28 e 29 e nas respetivas áreas de serviço e portagens; os IP n.os 2, 3 e 4; o IC n.os 1, 2, 3, 5 e 9 e as EN n.os 2, 4, 16, 109, 111, 217, 218, 222, 224, 226, 236, 237, 243, 217 e 367.
+4. Foram promovidas ações de fiscalização rodoviária e de sensibilização, nos acessos às localidades das zonas de ação de cada CTer, nos principais eixos rodoviários; Ponte da Arrábida - Porto; as AE n.os 1, 2, 3, 4, 6 ,16, 23, 24, 25, 28 e 29 e nas respetivas áreas de serviço e portagens; os IP n.os 2, 3 e 4;  o IC  n.os  1,  2, 3, 5  e 9 e as EN n.os 2, 4, 16, 109, 111, 217, 218, 222, 224, 226, 236, 237, 243, 217 e 367.
 
 5. Atento ao Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 abril, em função do feriado de 1 de maio e do fim de semana prolongado, foram impostas limitações à circulação, nomeadamente a proibição de circulação fora do concelho da área de residência, ressalvadas as devidas exceções (por motivos de saúde ou outros motivos de urgência imperiosa), no período de 01 a 03 de maio de 2020.
 
 6. Os resultados operacionais que se seguidamente se apresentam referem-se à primeira fase da Operação COVID-19 Transição Segura, de 30 de abril a 02 de maio de 2020.
 
-7. Esta Operação consistiu em ações de fiscalização e sensibilização, com o empenhamento de 8.149 militares, que realizaram 6.362 ações de sensibilização, tendo sido realizadas 3.565 patrulhas auto, 175 patrulhas apeadas, 25 com trinómios, 80 patrulhas a cavalo, 3 patrulhas em meio fluvial e 16 patrulhas em meio marítimo, como ilustra a tabela 17.
+7. Esta Operação consistiu em ações de fiscalização e sensibilização, com o empenhamento de 8.149 militares, que realizaram 6.362 ações de sensibilização, tendo sido realizadas 3.565 patrulhas auto, 175 patrulhas apeadas, 25 com trinómios, 80 patrulhas a cavalo, 3 patrulhas em meio fluvial e 16 patrulhas em meio marítimo, como ilustra a tabela 17.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 8. Foram empenhadas 3.591 viaturas que percorreram 311.610 km e 20 embarcações que percorreram 474 milhas náuticas, bem como meios apeados e a cavalo, de acordo com os dados da tabela 18.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 9. Nas ações de vigilância e controlo foram fiscalizados 49.525 cidadãos, 38.333 viaturas, 23 comboios e 13 embarcações como ilustra a tabela 19.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 10. A generalidade da população acatou as restrições legais e as orientações da GNR e procurou compreender as medidas, podendo considerar-se que o Grau de Acatamento foi bastante satisfatório, conforme os registos da tabela 20. Considerando o disposto no Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril, que impôs a limitação à circulação fora do Concelho da área de residência no período de 01 a 03 de maio de 2020, observaram-se incumprimentos cuja incisiva ação espelhou-se em 1.837 notificações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 11. Decorrente de situações de incumprimento ao disposto no art.º 46.º, do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, e ao art.º 2.º do Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril, no total, por crime de desobediência, foram detidos 13 cidadãos, conforme é apresentado na tabela 21.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 12. No âmbito das ações de fiscalização das restrições impostas ao funcionamento de estabelecimentos comerciais e instalações conforme o disposto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499) e Decreto [33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), no período de 30 de abril a 02 de maio de 2020 foram encerrados 24 estabelecimentos/instalações na zona de ação da GNR.
 
@@ -1505,21 +1745,21 @@ c. Fase Operacional (de 01de maio a 31 de maio de 2020), na qual se pretende:
 
 (1) Executar ações de prevenção, investigação e/ou fiscalização, que possam contribuir para evitar a disseminação da COVID-19, especialmente acompanhando a forma como os resíduos sanitários (luvas, máscaras, entre outros) são recolhidos, transportados e descartados, contribuindo para o reforço da cooperação nacional, aumentando e melhorando a cooperação internacional;
 
-(2) Dinamizar uma campanha pública de estratégia de comunicação destinada à sociedade em geral e profissionais de saúde, concretizando ações de fiscalização/investigação às Unidades Locais de Saúde (Centros Saúde e Clínicas), Lares de Idosos, em articulação com as Autoridades de Saúde, locais de venda de material sanitário, Operadores de Gestão de Resíduos (OGR) e outros locais de deposição de resíduos considerados pertinentes;
+(2) Dinamizar uma campanha pública de estratégia de comunicação destinada à sociedade em geral e profissionais de saúde, concretizando ações de fiscalização/investigação às Unidades Locais de Saúde (Centros Saúde e Clínicas), Lares de Idosos, em articulação com as Autoridades de Saúde, locais de venda de material sanitário, Operadores de Gestão de Resíduos (OGR) e outros locais de deposição de resíduos considerados pertinentes;
 
 d. Fase Pós-Operacional de avaliação, em data e forma ainda por concretizar.
 
 4. Na fase pré-operacional, foram realizadas diversas ações de sensibilização e divulgação nas redes sociais, em estabelecimentos, lares e Centros de Dia, bem como ações de verificação de processos de recolha e transporte de resíduos em coordenação com as várias entidades participantes e associadas, conforme se apresenta na tabela 22.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-## Anexo E - Outras Ações Operacionais
+Anexo E - Outras Ações Operacionais
 
 Para além das operações e ações mencionadas em capítulos anteriores, foram ainda realizadas muitas outras ações operacionais, sendo de destacar as seguintes:
 
-a. A continuação da Operação Floresta Segura, centrada na execução de ações de sensibilização junto dos cidadãos, alertando-os para a necessidade de limparem os terrenos florestais como elemento integrante do desenvolvimento sustentável do ambiente e da natureza;
+a. A continuação da Operação Floresta Segura, centrada na execução de ações de sensibilização junto dos cidadãos, alertando-os para a necessidade de limparem os terrenos florestais como elemento integrante do desenvolvimento sustentável do ambiente e da natureza;
 
-b. A concretização total de 876 operações de descontaminação realizadas a viaturas nas duas linhas montadas em Queluz e em Vila Nova de Gaia e a edifícios e instalações de diversas instituições e organismos, através de unidades móveis especialmente dedicadas;
+b. A concretização total de 876 operações de descontaminação realizadas a viaturas nas duas linhas montadas em Queluz e em Vila Nova de Gaia e a edifícios e instalações de diversas instituições e organismos, através de unidades móveis especialmente dedicadas;
 
 c. A monitorização diária e permanente de situações que exigiram o emprego judicioso e conjugado de várias valências operacionais para que fosse possível, por um lado, incrementar o número de ações de vigilância e de fiscalização direcionadas às comunidades infetadas para cumprimento do confinamento obrigatório, evitando a sua deambulação desnecessária e, por outro lado, aumentar o número de ações de visibilidade e de proximidade direcionadas às comunidades não infetadas, garantindo a todo o tempo a desejável paz social.
 
@@ -1559,7 +1799,7 @@ h. As Ações de transporte, escoltas e desembaraçamento de trânsito para gara
 
 (3) De material sanitário crítico entre o Aeroporto Francisco Sá Carneiro e o Centro Logístico da Trofa, em 21 de abril de 2020;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 i. As ações de "Transporte de Órgãos", dando continuidade às operações concretizadas pelas Unidades, totalizando durante o terceiro período do EE 8 transportes, de e para diversas unidades hospitalares, empenhando para o efeito 16 militares e percorridos 2.837 Km;
 
@@ -1579,7 +1819,7 @@ DIREÇÃO NACIONAL
 
 DEPARTAMENTO DE OPERAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 RELATÓRIO DA OPERAÇÃO #FIQUEEMCASA 2
 
@@ -1613,13 +1853,13 @@ Na prossecução da sua atividade, a PSP manteve uma estreita relação de colab
 
 2. SITUAÇÃO EPIDEMIOLÓGICA NA PSP
 
-Em 2 de maio de 2020, a PSP registava 106 casos confirmados de profissionais da PSP com COVID-19 (102 Polícias e 4 civis - Pessoal Técnico de Apoio à Atividade Operacional). Existiam ainda 217 profissionais da PSP em situação de isolamento profilático, registando-se a recuperação de 59 profissionais.
+Em 2 de maio de 2020, a PSP registava 106 casos confirmados de profissionais da PSP com COVID-19 (102 Polícias e 4 civis - Pessoal Técnico de Apoio à Atividade Operacional). Existiam ainda 217 profissionais da PSP em situação de isolamento profilático, registando-se a recuperação de 59 profissionais.
 
 3. PONTO DE SITUAÇÃO OPERACIONAL
 
 Atividade operacional do período da Operação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 4. UTILIZAÇÃO DE CÂMARAS PORTÁTEIS ACOPLADAS A VEÍCULOS AÉREOS NÃO TRIPULADOS (VANT)
 
@@ -1651,7 +1891,7 @@ h. Ordem de regresso ao domicílio a 341 condutores.
 
 A PSP garantiu ainda o policiamento permanente em quatro hotéis designados pelas Autoridades Regionais para cumprimento do confinamento obrigatório decretado pelas Autoridades de Saúde Regionais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Por fim, a PSP manteve também policiamento permanente no Pavilhão dos trabalhadores (Funchal), que por iniciativa da Secretaria Regional da Inclusão Social e Cidadania, foi constituído como espaço de alojamento temporário para acolhimento voluntário de alguns cidadãos sem-abrigo.
 
@@ -1677,9 +1917,9 @@ Salienta-se que se mantém a cerca sanitária no concelho do Nordeste, tendo por
 
 De acordo com a análise da criminalidade efetuada (dados provisórios), registou-se uma diminuição da criminalidade geral e da criminalidade violenta e grave conforme indicado na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
-No contexto da violência doméstica, área de ação que mereceu particular atenção da PSP, cumpre registar que no período compreendido entre 18ABR2020 e 02MAI2020, a PSP registou 435 participações por Violência Doméstica, verificando-se uma descida de 31% (N=199) quando comparado com período homólogo de 2019. 46% das participações ocorreram no decurso de ações de policiamento de proximidade. 81% das ocorrências aconteceram em residência particular. Em 1% das ocorrências foi necessário internamento hospitalar da vítima. Ainda neste período e respeitante ao crime em análise, a PSP efetuou 37 detenções (9%).
+No contexto da violência doméstica, área de ação que mereceu particular atenção da PSP, cumpre registar que no período compreendido entre 18ABR2020 e 02MAI2020, a PSP registou 435 participações por Violência Doméstica, verificando-se uma descida de 31% (N=199) quando comparado com período homólogo de 2019. 46% das participações ocorreram no decurso de ações de policiamento de proximidade. 81% das ocorrências aconteceram em residência particular. Em 1% das ocorrências foi necessário internamento hospitalar da vítima. Ainda neste período e respeitante ao crime em análise, a PSP efetuou 37 detenções (9%).
 
 Salienta-se que a PSP tem mantido uma estreita articulação ativa com a Secretaria de Estado para a Cidadania e Igualdade, no sentido de melhor adaptar a resposta policial em casos de diminuição da autonomia das vítimas para efetuarem as respetivas denúncias.
 
@@ -1687,7 +1927,7 @@ Salienta-se que a PSP tem mantido uma estreita articulação ativa com a Secreta
 
 A PSP, na sua área de responsabilidade, tinha a 3 de maio de 2020, 2904 cidadãos em confinamento, sujeitos a medidas de vigilância ativa, conforme tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Continua a persistir um número acrescido de dados incompletos sobre os cidadãos em confinamento, apesar dos contactos efetuados para tentar solucionar o problema, representando 53,6% dos casos.
 
@@ -1723,7 +1963,7 @@ b. Âmbito Tático/Operacional
 
 (6) Atendendo à verificação de elevados fluxos rodoviários e pedonais suscitados pela melhoria das condições climatéricas, foi incrementada a realização de operações de fiscalização para o controlo das deslocações dos cidadãos e de veículos automóveis, de acordo com o previsto no Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499) de 17 de abril.
 
-(7) Desde as 14H00 do dia 30ABR2020 e até às 23H59 do dia 03MAI2020, a PSP desenvolveu a operação #TRANSIÇÃOSEGURA, considerando as restrições definidas através do Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril.
+(7) Desde as 14H00 do dia 30ABR2020 e até às 23H59 do dia 03MAI2020, a PSP desenvolveu a operação #TRANSIÇÃOSEGURA, considerando as restrições definidas através do Decreto n.º [2-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-d-2020-132883343), de 30 de abril.
 
 (8) A PSP adotou igualmente as medidas de segurança consideradas adequadas visando salvaguardar o previsto na alínea t) do n.º 1 do artigo 5.º do Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, quanto ao acatamento das recomendações das autoridades de saúde na organização e participação dos cidadãos nas atividades relativas à celebração do Dia do Trabalhador. Não se registaram incidentes, tendo os manifestantes cumprido, genericamente, as recomendações da Direção Geral de Saúde e as orientações da PSP.
 
@@ -1749,7 +1989,7 @@ Superintendente-Chefe
 
 c. Serviço de Estrangeiros e Fronteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 MINISTÉRIO DA ADMINISTRAÇÃO INTERNA
 
@@ -1779,23 +2019,23 @@ Relatório estado de emergência | introdução
 
 A 17 de abril de 2020 foi renovada pela segunda vez a declaração do Estado de Emergência em Portugal, através do Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), por mais 15 dias, iniciando-se às 0:00 horas do dia 18 de abril e cessando às 23:59 horas do dia 02 de maio de 2020. Esse diploma foi regulamentado a 17 de abril pelo Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), definindo e reiterando as medidas que devem respeitar os limites constitucionais e legais em vigor e cujos efeitos devem cessar assim que retomada a normalidade.
 
-Nos termos da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual, prevê o seu n.º 1 que "até 15 dias após a cessação do estado de sítio ou do estado de emergência ou, tendo ocorrido a renovação da respetiva declaração, até 15 dias após o termo de cada período, o Governo remeterá à Assembleia da República relatório pormenorizado e tanto quanto possível documentado das providências e medidas adotadas na vigência da respetiva declaração". É neste contexto que se apresenta, de forma sumária, a atuação do SEF nas suas grandes áreas de competências.
+Nos termos da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual, prevê o seu n.º 1 que "até 15 dias após a cessação do estado de sítio ou do estado de emergência ou, tendo ocorrido a renovação da respetiva declaração, até 15 dias após o termo de cada período, o Governo remeterá à Assembleia da República relatório pormenorizado e tanto quanto possível documentado das providências e medidas adotadas na vigência da respetiva declaração". É neste contexto que se apresenta, de forma sumária, a atuação do SEF nas suas grandes áreas de competências.
 
 1. Relato quantitativo da ação do SEF durante o terceiro período do Estado de Emergência - vide Anexo I. com representações gráficas
 
 No âmbito das principais atribuições do Serviço de Estrangeiros e Fronteiras, e uma vez que a atividade operacional se encontra limitada, o esforço de atuação do SEF continuou a recair, sobretudo, na alocação de recursos humanos e técnicos para as fronteiras internas com Espanha, nos nove Pontos de Passagem Autorizados (PPA), na sequência da reposição do controlo documental de pessoas nas fronteiras internas(5).
 
-Assim, nas fronteiras internas/PPA registou-se um total de 84 543 passageiros controlados (uma subida de 30,3% face ao período anterior que registou 64 862), dos quais 356 não foram autorizados a entrar em território nacional. Verifica-se assim uma descida de 29,3% face ao segundo período de estado de emergência. O principal ponto de passagem autorizado continua a ser o PF101 Valença - Viana do Castelo, com um total de 33 371 passageiros controlados, o que equivale a uma percentagem de 39,5 % do total de passagens autorizadas no país neste período. Relativamente aos cidadãos não autorizados a entrar em Portugal, o PPA de Valença representa 43,8% do total de passageiros não autorizados, correspondendo a 156 decisões. (vide ponto 2.1.1).
+Assim, nas fronteiras internas/PPA registou-se um total de 84 543 passageiros controlados (uma subida de 30,3% face ao período anterior que registou 64 862), dos quais 356 não foram autorizados a entrar em território nacional. Verifica-se assim uma descida de 29,3% face ao segundo período de estado de emergência. O principal ponto de passagem autorizado continua a ser o PF101 Valença - Viana do Castelo, com um total de 33 371 passageiros controlados, o que equivale a uma percentagem de 39,5 % do total de passagens autorizadas no país neste período. Relativamente aos cidadãos não autorizados a entrar em Portugal, o PPA de Valença representa 43,8% do total de passageiros não autorizados, correspondendo a 156 decisões. (vide ponto 2.1.1).
 
-Nas fronteiras aéreas controlaram-se 7 510 passageiros de 69 nacionalidades (subida de 14,9% face aos 6 534 anteriormente registados). Verificou-se a ausência de recusas de entrada, bem como a diminuição de outras situações relacionadas com a atividade operacional nas fronteiras, como a emissão de vistos, deteção de indicações ou outras (vide ponto 2.1.2).
+Nas fronteiras aéreas controlaram-se 7 510 passageiros de 69 nacionalidades (subida de 14,9% face aos 6 534 anteriormente registados). Verificou-se a ausência de recusas de entrada, bem como a diminuição de outras situações relacionadas com a atividade operacional nas fronteiras, como a emissão de vistos, deteção de indicações ou outras (vide ponto 2.1.2).
 
-Nas fronteiras marítimas registaram-se 51 passageiros controlados (verificando-se uma descida de 52,7 % face aos 108 passageiros anteriormente registados), na sua esmagadora maioria tripulantes, com vista à facilitação do regresso ao país de origem. As autorizações de desembarque de passageiros de embarcações de recreio e de navios de cruzeiro foram realizadas em estreita articulação com a Autoridade de Saúde, e aplicáveis aos nacionais, aos residentes em Portugal ou a situações de desembarque controlado para regresso ao país de origem (vide ponto 2.1.3).
+Nas fronteiras marítimas registaram-se 51 passageiros controlados (verificando-se uma descida de 52,7 % face aos 108 passageiros anteriormente registados), na sua esmagadora maioria tripulantes, com vista à facilitação do regresso ao país de origem. As autorizações de desembarque de passageiros de embarcações de recreio e de navios de cruzeiro foram realizadas em estreita articulação com a Autoridade de Saúde, e aplicáveis aos nacionais, aos residentes em Portugal ou a situações de desembarque controlado para regresso ao país de origem (vide ponto 2.1.3).
 
 Os atendimentos de cidadãos estrangeiros realizados a nível nacional, em situações de urgência, foram em número de 29, registando-se, ainda, 118 pedidos de Passaporte Eletrónico Português | PEP, por cidadãos nacionais verificando-se, assim, uma subida de 53% face ao período anterior.
 
-Apesar do reduzido número de atendimentos presenciais, foram resolvidas pendências e aprovados um total de 15 078 processos (verificando-se um acréscimo de 533% face ao período homólogo, em que se registaram 2 381), encontrando-se atualmente pendentes de personalização na Imprensa Nacional Casa da Moeda 21 274 títulos de residência.
+Apesar do reduzido número de atendimentos presenciais, foram resolvidas pendências e aprovados um total de 15 078 processos (verificando-se um acréscimo de 533% face ao período homólogo, em que se registaram 2 381), encontrando-se atualmente pendentes de personalização na Imprensa Nacional Casa da Moeda 21 274 títulos de residência.
 
-Concluíram-se 124 processos ARI (registados no portal ARI). Analisaram-se 13 460 processos em SAPA/ Sistema Automático de Pré Agendamento(6) e, em SIGAP/ Sistema Eletrónico de Gestão Documental em Workflow(7), 4 817 processos (verificando-se, assim, uma subida de 832% face aos 517 processos do período anterior).
+Concluíram-se 124 processos ARI (registados no portal ARI). Analisaram-se 13 460 processos em SAPA/ Sistema Automático de Pré Agendamento(6) e, em SIGAP/ Sistema Eletrónico de Gestão Documental em Workflow(7), 4 817 processos (verificando-se, assim, uma subida de 832% face aos 517 processos do período anterior).
 
 O Gabinete de Asilo e Refugiados registou 1 pedido de proteção Internacional.
 
@@ -1813,17 +2053,17 @@ Continua a salientar-se o acompanhamento regular de diversos fora ao nível naci
 
 Destaque para a utilização do equipamento SEF_mobile em todos os Pontos de Passagem Autorizados (PPA), na fronteira terrestre com Espanha. Este é um projeto desenvolvido pelo SEF que utiliza um equipamento móvel e permite, entre outras verificações de segurança, efetuar consultas de antecedentes às bases de dados, no momento, registando informação que pode ser partilhada para efeitos de controlo sanitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 Com o uso do piloto neste período de pandemia assistiu-se a um crescimento de utilização de 248% relativamente à passada quinzena, o que resultou num crescimento face ao período homólogo de 433% das Indicações detetadas. Entre estas, a destacar, o cumprimento de mandados de detenção europeus, pedidos de localização e paradeiro, e controlos específicos e discretos, entre outras.
 
 2.1.1. Fronteiras internas terrestres
 
-Na sequência da reposição de controlo de fronteira internas, em vigor desde 16 de março, mantêm-se em funcionamento os 9 Pontos de Passagem Autorizados, dos quais e no período compreendido entre 18 de abril e 02 de maio, Valença (33 371), Caia (12 731), Vilar Formoso (11 580), Vila Verde da Raia (9 212) e Castro Marim (7 167) detiveram o maior registo de movimento, seguidos, de longe, pelos restantes quatro PPA, designadamente Vila Verde de Ficalho (3 866), Quintanilha (3 589), Termas de Monfortinho (1 915) e Marvão (1 112).
+Na sequência da reposição de controlo de fronteira internas, em vigor desde 16 de março, mantêm-se em funcionamento os 9 Pontos de Passagem Autorizados, dos quais e no período compreendido entre 18 de abril e 02 de maio, Valença (33 371), Caia (12 731), Vilar Formoso (11 580), Vila Verde da Raia (9 212) e Castro Marim (7 167) detiveram o maior registo de movimento, seguidos, de longe, pelos restantes quatro PPA, designadamente Vila Verde de Ficalho (3 866), Quintanilha (3 589), Termas de Monfortinho (1 915) e Marvão (1 112).
 
 Por Valença, Caia e Vilar Formoso transita igualmente a maior parte do transporte pesado de mercadorias internacional, assim como o maior tráfego de turismo e de trabalhadores transfronteiriços (área da saúde, agricultura e serviços). Este último tipo de tráfego é, contudo, uma característica comum ao longo de toda a fronteira interna, e relativamente aos quais não foram impostas quaisquer restrições de movimento, em conformidade com o estipulado na RCM [10- B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108).
 
-Em termos globais, e à semelhança do período anterior, o maior número de entradas no território foi de cidadãos nacionais de regresso a Portugal (49 430), na sua maioria provenientes de Espanha e França, assim como de cidadãos residentes em Portugal, de nacionalidade Espanhola (31 888), Romena (658), Brasileira (506) e Polaca (363). Continua a verificar-se o tráfego de regresso a Portugal de cidadãos nacionais e estrangeiros residentes, alguns, para efeitos de trânsito em Espanha, que exigiram a estreita articulação com a Polícia Nacional Espanhola, o MNE e com o Oficial de Ligação do MAI em Madrid.
+Em termos globais, e à semelhança do período anterior, o maior número de entradas no território foi de cidadãos nacionais de regresso a Portugal (49 430), na sua maioria provenientes de Espanha e França, assim como de cidadãos residentes em Portugal, de nacionalidade Espanhola (31 888), Romena (658), Brasileira (506) e Polaca (363). Continua a verificar-se o tráfego de regresso a Portugal de cidadãos nacionais e estrangeiros residentes, alguns, para efeitos de trânsito em Espanha, que exigiram a estreita articulação com a Polícia Nacional Espanhola, o MNE e com o Oficial de Ligação do MAI em Madrid.
 
 Continua a verificar-se um decréscimo do tráfego aos fins de semana, na sua maior parte pelo facto de, nalguns pontos de passagem, a maior parte do movimento caracterizar-se pelo transporte de mercadorias e de trabalhadores transfronteiriços. Não ocorreram congestionamentos de tráfego, sendo que os tempos de espera máximos não ultrapassaram em regra os 10/15 minutos.
 
@@ -1835,13 +2075,13 @@ Em termos de tentativas de entrada não autorizada, no período em análise, des
 
 Indicações SIS | Sistema de Informações Schengen e SIISEF | Sistema Integrado de Informação
 
-Foi dado cumprimento a duas medidas de captura e detenção para efeitos de extradição, respeitantes a cidadãos de nacionalidade Portuguesa; dez medidas de pessoa procuradas no âmbito de processo judicial, respeitante a cidadãos de nacionalidade Portuguesa, Espanhola, Romena e Ucraniana; onze medidas de Vigilância Discreta, respeitantes a cidadãos de nacionalidade Portuguesa e Espanhola; e a nove medidas relativas a documentos espanhóis para apreensão. Foi ainda dado cumprimento a sete medidas nacionais: dois mandados de captura / detenção e cinco pedidos de paradeiro.
+Foi dado cumprimento a duas medidas de captura e detenção para efeitos de extradição, respeitantes a cidadãos de nacionalidade Portuguesa; dez medidas de pessoa procuradas no âmbito de processo judicial, respeitante a cidadãos de nacionalidade Portuguesa, Espanhola, Romena e Ucraniana; onze medidas de Vigilância Discreta, respeitantes a cidadãos de nacionalidade Portuguesa e Espanhola; e a nove medidas relativas a documentos espanhóis para apreensão. Foi ainda dado cumprimento a sete medidas nacionais: dois mandados de captura / detenção e cinco pedidos de paradeiro.
 
 2.1.2. Fronteiras aéreas
 
 Conforme se tinha verificado na renovação do Estado de Emergência, manteve-se o baixo volume de movimento de passageiros nos Postos de Fronteira nacionais. Esta diminuição é evidente e abrange as áreas principais do controlo de fronteira, nomeadamente, as interceções, as recusas de entrada, a deteção de indicações ou a emissão de vistos.
 
-O impacto na circulação aérea é muito relevante. Em média, no período compreendido entre 18 de abril e 03 de maio 2020, a diminuição acentuada, cifra-se em média, na ordem dos 99% a menos no total de passageiros controlados comparativamente a 2019. A diferença quantitativa cifra-se em menos 720 300 passageiros - média diária 48 524 em 2019, para 504 no mesmo período de 2020.
+O impacto na circulação aérea é muito relevante. Em média, no período compreendido entre 18 de abril e 03 de maio 2020, a diminuição acentuada, cifra-se em média, na ordem dos 99% a menos no total de passageiros controlados comparativamente a 2019. A diferença quantitativa cifra-se em menos 720 300 passageiros - média diária 48 524 em 2019, para 504 no mesmo período de 2020.
 
 2.1.3. Fronteiras marítimas
 
@@ -1849,7 +2089,7 @@ No âmbito dos navios comerciais mantém-se um fluxo regular de navios nos porto
 
 Por razões humanitárias e de saúde, verificaram-se situações de transporte e/ou de evacuação de tripulantes para efeitos de assistência médica, nalguns casos havendo lugar à emissão de visto especial.
 
-Relativamente ao navio de cruzeiro MSC Fantasia, ainda atracado no Porto de Lisboa decorreram, no período em análise, 48 desembarques de tripulantes de Honduras (30), Reino Unido (1), Sérvia (6), Ucrânia (5), Hungria (1), Alemanha (1) e Roménia (4), totalizando, até ao momento, 780 desembarques. Do total de 1 247 tripulantes comunicados pela MSC permanecem a bordo 467 de 41 diferentes nacionalidades. Registo para quatro situações, um passageiro e três tripulantes, que se mantêm em confinamento domiciliário e hoteleiro por carecerem de acompanhamento social e médico. Registo ainda para a recuperação de um tripulante infetado do navio MSC Fantasia, que regressou já ao país de origem.
+Relativamente ao navio de cruzeiro MSC Fantasia, ainda atracado no Porto de Lisboa decorreram, no período em análise, 48 desembarques de tripulantes de Honduras (30), Reino Unido (1), Sérvia (6), Ucrânia (5), Hungria (1), Alemanha (1) e Roménia (4), totalizando, até ao momento, 780 desembarques. Do total de 1 247 tripulantes comunicados pela MSC permanecem a bordo 467 de 41 diferentes nacionalidades. Registo para quatro situações, um passageiro e três tripulantes, que se mantêm em confinamento domiciliário e hoteleiro por carecerem de acompanhamento social e médico. Registo ainda para a recuperação de um tripulante infetado do navio MSC Fantasia, que regressou já ao país de origem.
 
 Um outro navio de passageiros SEADREAM I, mantém-se atracado no Terminal de Passageiros de Lisboa (LCT) desde 14 de abril de 2020, com 89 tripulantes e com o objetivo de efetuar a renovação de certificados e respetivas inspeções (abastecimento e manutenção). Ainda sem data prevista para saída, mantém atualmente 86 tripulantes a bordo. Até há presente data registou-se o desembarque de cinco tripulantes (Suécia, Noruega, França, África do Sul, Maurícias) e o embarque de dois.
 
@@ -1861,13 +2101,13 @@ O SEF está presente em 40 locais de atendimento ao público. Em 20 de março(8)
 
 (9) Com o Despacho n.º 3863-B/2020.
 
-Com base no Despacho n.º 3863-B/2020 de 27 de março, que determinou que, à data da declaração do Estado de Emergência Nacional (18 de março), todos os cidadãos estrangeiros com processos pendentes se encontram em situação de permanência regular em território nacional, o SEF implementou, desde o dia 30 de março um plano de gestão dos atendimentos e dos agendamentos. Esse plano de atendimentos criou uma funcionalidade nos portais SAPA/ Sistema Automático de Pré-Agendamento(10), que permite aos cidadãos estrangeiros a emissão, consulta e download de um certificado de registo que serve de prova da sua situação documental. Assim, merece particular destaque o facto de terem sido analisados 13 460 processos em SAPA e um registo de 9 366 novos processos, na mesma plataforma.
+Com base no Despacho n.º 3863-B/2020 de 27 de março, que determinou que, à data da declaração do Estado de Emergência Nacional (18 de março), todos os cidadãos estrangeiros com processos pendentes se encontram em situação de permanência regular em território nacional, o SEF implementou, desde o dia 30 de março um plano de gestão dos atendimentos e dos agendamentos. Esse plano de atendimentos criou uma funcionalidade nos portais SAPA/ Sistema Automático de Pré-Agendamento(10), que permite aos cidadãos estrangeiros a emissão, consulta e download de um certificado de registo que serve de prova da sua situação documental. Assim, merece particular destaque o facto de terem sido analisados 13 460 processos em SAPA e um registo de 9 366 novos processos, na mesma plataforma.
 
 (10) Plataforma eletrónica de registo de manifestações de interesse ao abrigo dos artigos 88º e 89º, nº 2 RJEPSAE.
 
-Ciente de que a regra remete para o uso dos meios digitais de interação com o cidadão e o recurso ao Centro de Contacto (CC) do SEF, de notar que o CC se mantém em funcionamento entre as 08h00 e 20h00 (dias úteis) e que as chamadas atendidas foram de 16 075 (subida de 27% face ao período anterior) e o tempo médio de espera de 5´08.
+Ciente de que a regra remete para o uso dos meios digitais de interação com o cidadão e o recurso ao Centro de Contacto (CC) do SEF, de notar que o CC se mantém em funcionamento entre as 08h00 e 20h00 (dias úteis) e que as chamadas atendidas foram de 16 075 (subida de 27% face ao período anterior) e o tempo médio de espera de 5´08.
 
-O CC respondeu, por correio eletrónico, a 5 530 comunicações. Foram efetuados 29 agendamentos urgentes e foram informados para não comparecer presencialmente 8 815 cidadãos estrangeiros, alertando para as disposições previstas no Despacho anteriormente referido quanto à permanência regular em território nacional.
+O CC respondeu, por correio eletrónico, a 5 530 comunicações. Foram efetuados 29 agendamentos urgentes e foram informados para não comparecer presencialmente 8 815 cidadãos estrangeiros, alertando para as disposições previstas no Despacho anteriormente referido quanto à permanência regular em território nacional.
 
 No caso da atividade do Gabinete de Asilo e Refugiados continuou a verificar-se a descida dos pedidos de proteção Internacional, que totalizou, neste período, 1 único pedido.
 
@@ -1891,7 +2131,7 @@ No Portal do SEF (nas línguas PT e EN) foi atualizado o Destaque Central, com i
 
 No Portal de Informação ao Imigrante (PT e EN) foi inserida atualização do Destaque Central com indicação das medidas do Plano de Desconfinamento e atualização das Perguntas Frequentes.
 
-No Facebook registou-se um aumento de 1 100 seguidores na página do SEF.
+No Facebook registou-se um aumento de 1 100 seguidores na página do SEF.
 
 2.3 Atividade operacional
 
@@ -1901,15 +2141,15 @@ A DR Algarve confirmou que, no âmbito do NUIPC 100/20.0GBTVR, cuja competência
 
 2.3.2 Levantamento de situações de grupos de migrantes nas diversas áreas regionais
 
-Em Lisboa salienta-se o acompanhamento, desde o dia 19ABR, de diversas ações de apoio ao rastreio, pelas autoridades de saúde, de requerentes e beneficiários de proteção internacional, acolhidos pelo Conselho Português para os Refugiados em diversos locais de hospedagem. De todos, salienta-se a intervenção numa unidade hoteleira que revelou mais de uma centena de migrantes infetados. A intervenção do SEF, nesta situação concreta, foi fundamental para a identificação de um grupo de vinte e três cidadãos estrangeiros desaparecidos, já localizados, e o consequente rastreio e aplicação das medidas de confinamento ordenadas pelas autoridades de saúde.
+Em Lisboa salienta-se o acompanhamento, desde o dia 19ABR, de diversas ações de apoio ao rastreio, pelas autoridades de saúde, de requerentes e beneficiários de proteção internacional, acolhidos pelo Conselho Português para os Refugiados em diversos locais de hospedagem. De todos, salienta-se a intervenção numa unidade hoteleira que revelou mais de uma centena de migrantes infetados. A intervenção do SEF, nesta situação concreta, foi fundamental para a identificação de um grupo de vinte e três cidadãos estrangeiros desaparecidos, já localizados, e o consequente rastreio e aplicação das medidas de confinamento ordenadas pelas autoridades de saúde.
 
 Foi realizado um levantamento dos principais focos nas grandes regiões a Sul, designadamente em Algoz e Castro Marim não se tendo registado qualquer caso positivo de infeção. Para além destes, registou-se um outro foco também em Castro Marim com 15 cidadãos de nacionalidade romena, alegadamente trabalhadores agrícolas, que tiveram recusa de entrada em Espanha no PPA do Caia, e que chegou no dia 28ABR2020 ao PPA Castro Marim para tentar nova entrada em Espanha, que viria novamente a ser recusada pelas autoridades espanholas. Encontrando-se o Grupo em situação de carência social, a o município providenciou-lhes alojamento e alimentação. Em 30/04, a CM organizou o transporte do Grupo, em articulação com a Embaixada da Roménia, para Castelo Branco, onde ficaram instalados.
 
-Em 29ABR2020 realizou-se uma ação noturna em estaleiro de construção civil em Vilamoura em que o SEF participou, tendo procedido à identificação dos 36 cidadãos dos quais, 14 portugueses e 22 estrangeiros (nacionais do Brasil, Angola, Cabo Verde e Guiné-Bissau). Confirmaram-se dois casos positivos. Por decisão da Delegada de Saúde de Loulé, todos os trabalhadores ficaram de quarentena nas referidas instalações do estaleiro.
+Em 29ABR2020 realizou-se uma ação noturna em estaleiro de construção civil em Vilamoura em que o SEF participou, tendo procedido à identificação dos 36 cidadãos dos quais, 14 portugueses e 22 estrangeiros (nacionais do Brasil, Angola, Cabo Verde e Guiné-Bissau). Confirmaram-se dois casos positivos. Por decisão da Delegada de Saúde de Loulé, todos os trabalhadores ficaram de quarentena nas referidas instalações do estaleiro.
 
 2.3.3 Medidas de proteção dos colaboradores e Equipamentos de Proteção individual
 
-Durante o período em referência foram elaboradas, diariamente, as monitorizações relativas à assiduidade e absentismo de todos os trabalhadores do SEF, por Unidade Orgânica e Carreira, discriminando os trabalhadores em teletrabalho, em reserva estratégica e ausentes, nomeadamente, por questões relativas ao COVID-19, isolamento profilático, apoio aos descendentes menores de 12 anos e outro tipo de ausências.
+Durante o período em referência foram elaboradas, diariamente, as monitorizações relativas à assiduidade e absentismo de todos os trabalhadores do SEF, por Unidade Orgânica e Carreira, discriminando os trabalhadores em teletrabalho, em reserva estratégica e ausentes, nomeadamente, por questões relativas ao COVID-19, isolamento profilático, apoio aos descendentes menores de 12 anos e outro tipo de ausências.
 
 Assim, regista-se, ainda, um colaborador CIF com teste positivo ao COVID-19. Regista-se um aumento do número de funcionários CIF em quarentena (+33%) e uma redução, em igual proporção, nas carreiras gerais (-33%). No entanto, é de sublinhar o reduzido peso relativo, não alcançando, em qualquer das carreiras, 2% do respetivo total.
 
@@ -1917,7 +2157,7 @@ Evolução diária do n.º funcionários em quarentena durante o período de ref
 
 Relativamente aos diversos EPI, mantém-se a distribuição e reposição de material para stock.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 2.4 Acesso ao direito e aos tribunais
 
@@ -1937,7 +2177,7 @@ ii) 208 pedidos de suspensão (39 no período em referência) do cumprimento de 
 
 iii) Remessa de Despachos Urgentes, em que se determina que a execução/cumprimento dos mandados de detenção, relativos a cidadãos condenados em pena de prisão até 2 (dois) anos, fique suspensa até à cessação da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica.
 
-Para além do registo e tratamento da informação supra, compete ao SEF, o cumprimento das decisões de afastamento de território nacional e de expulsão proferidas pela autoridade administrativa sob a forma de processos de afastamento coercivo | PAC ou determinadas por autoridade judicial, com pena acessória de prisão, decretada em sede de sentença nos termos da Lei Orgânica do SEF e do artigo 159.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
+Para além do registo e tratamento da informação supra, compete ao SEF, o cumprimento das decisões de afastamento de território nacional e de expulsão proferidas pela autoridade administrativa sob a forma de processos de afastamento coercivo | PAC ou determinadas por autoridade judicial, com pena acessória de prisão, decretada em sede de sentença nos termos da Lei Orgânica do SEF e do artigo 159.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
 Manteve-se o procedimento, por parte do SEF sempre que confrontado com a libertação imediata destes reclusos, de os notificar para comparência no SEF ou, se determinado judicialmente, de os instalar, temporariamente, na Unidade Habitacional de Santo António. Noutras situações, verifica-se a aceitação aos pedidos de não libertação imediata dos presos estrangeiros, conforme solicitado pelo SEF.
 
@@ -1949,7 +2189,7 @@ Como referido no relatório antecedente, o teletrabalho foi privilegiado quer pa
 
 Mantém-se o uso de plataformas digitais que tem permitido dar continuidade às funções a desempenhar, ressaltando-se o aumento significativo de recuperação de pendências de determinados processos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 3. Boas práticas de cooperação com outras FSS / outros organismos públicos
 
@@ -1971,7 +2211,7 @@ E. A colaboração permanente com as diversas Câmaras Municipais.
 
 Manteve-se ativa, de acordo com o respetivo regulamento interno, a estrutura de acompanhamento COVID do SEF, com vista a minimizar a propagação da doença COVID-19 pelos colaboradores e utentes do SEF; comunicar e implementar as medidas para prevenir o contágio; informar regularmente sobre a evolução da epidemia e atualizar o plano de contingência, mediante uma adequada gestão da informação interna e externa ao serviço, assim como propor a adaptação das competências do SEF às medidas excecionais de contenção da pandemia emanadas pelas autoridades competentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 d. Autoridade Nacional de Emergência e Proteção Civil
 
@@ -1993,7 +2233,7 @@ Em suma, salienta-se que, quer em sede de Subcomissão Nacional de Proteção Ci
 
 Relativamente aos Planos de Emergência de Proteção Civil, mantiveram-se ativados, além do Plano Nacional (ativado desde 24 de março, por determinação da Comissão Nacional de Proteção Civil), 18 Planos Distritais e 124 planos Municipais de Emergência e Proteção Civil, em particular nos distritos de Aveiro, Bragança, Castelo Branco, Lisboa, Porto e Viseu.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf))](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/19500/0000200162.pdf)
 
 2. A resposta operacional
 
@@ -2033,13 +2273,13 @@ O email institucional, covid19@prociv.pt, criado no âmbito da plataforma covid1
 
 Carnaxide, 6 de maio de 2020
 
-**O Presidente,**
+O Presidente,
 
 Carlos Mourato Nunes
 
 Tenente-General
 
-## ANEXO II - Atas simplificadas da Estrutura de Monitorização do Estado de Emergência
+ANEXO II - Atas simplificadas da Estrutura de Monitorização do Estado de Emergência
 
 ESTRUTURA DE MONITORIZAÇÃO DO ESTADO DE EMERGÊNCIA
 
@@ -2117,7 +2357,7 @@ d. Apelo à restrição de circulação aos fins de semana (dificulta celebraç�
 
 2. Forças e serviços de segurança e de proteção e socorro - relato de casos
 
-- GNR: 35 casos confirmados (1 hospitalizado; 34 no domicílio); 153 em isolamento; 8 curados
+- GNR: 35 casos confirmados (1 hospitalizado; 34 no domicílio); 153 em isolamento; 8 curados
 
 - PSP: 132 casos confirmados; 251 em isolamento profilático
 
@@ -2229,7 +2469,7 @@ d. Apelo à restrição de circulação aos fins de semana (dificulta celebraç�
 
 - Preocupação com o regresso ao funcionamento normal dos serviços de saúde (até haver vacina, as atividades vão ser muito condicionadas)
 
-- Dados revelam evolução positiva (hoje: 444 casos positivos - aumento de 2%; 34 óbitos)
+- Dados revelam evolução positiva (hoje: 444 casos positivos - aumento de 2%; 34 óbitos)
 
 - Manutenção da capacidade de resposta da linha SNS24
 
@@ -2357,7 +2597,7 @@ d. Apelo à restrição de circulação aos fins de semana (dificulta celebraç�
 
 - Hospital de campanha na Cidade Universitária de Lisboa
 
-- Hospitais Militares de Lisboa e Porta: disponibilização de camas (168 Lisboa; 65 Porto)
+- Hospitais Militares de Lisboa e Porta: disponibilização de camas (168 Lisboa; 65 Porto)
 
 · SE Adjunto e da Justiça
 
@@ -2543,7 +2783,7 @@ SE do Ambiente
 
 - Congratular pelas iniciativas de informação e sensibilização, realizadas no Alentejo e no Algarve, junto dos trabalhadores migrantes, relativas à pandemia COVID-19, e sobre as condições de segurança no trabalho e cuidados a adotar durante a pandemia e em caso de doença
 
-- Relativamente à referência do SECSDC, sobre a questão do Despacho n.º 4736/2020, do SEAE, que termina, excecional e transitoriamente, a obrigatoriedade de incorporação física de biocombustíveis, numa percentagem mínima de 6,75% em volume de biodiesel no gasóleo utilizado no setor dos transportes terrestres, a vigorar desde 21 de abril até 30 dias após o fim do estado de emergência, foi referido por 2 entidades do Grupo de Acompanhamento do Abastecimento, que tal medida poderá não produzir os efeitos pretendidos, de maior disponibilização de matéria prima nacional essencial á produção de alimentos compostos para animais, tendo sido dado conhecimento desta situação ao SEAE
+- Relativamente à referência do SECSDC, sobre a questão do Despacho n.º 4736/2020, do SEAE, que termina, excecional e transitoriamente, a obrigatoriedade de incorporação física de biocombustíveis, numa percentagem mínima de 6,75% em volume de biodiesel no gasóleo utilizado no setor dos transportes terrestres, a vigorar desde 21 de abril até 30 dias após o fim do estado de emergência, foi referido por 2 entidades do Grupo de Acompanhamento do Abastecimento, que tal medida poderá não produzir os efeitos pretendidos, de maior disponibilização de matéria prima nacional essencial á produção de alimentos compostos para animais, tendo sido dado conhecimento desta situação ao SEAE
 
 4. Coordenação regional
 
@@ -2691,7 +2931,7 @@ Próxima reunião: (a confirmar); por videoconferência
 
 Reunião terminou às 17:40
 
-## ANEXO III - Lista de atos normativos aprovados
+ANEXO III - Lista de atos normativos aprovados
 
 1. Decreto do Presidente da República n.º [20-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497), de 17 de abril - Procede à segunda renovação da declaração de estado de emergência, com fundamento na verificação de uma situação de calamidade pública;
 
@@ -2733,9 +2973,9 @@ Reunião terminou às 17:40
 
 20. [Portaria n.º 105/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-2020-132721069), de 30 de abril - Procede à prorrogação, até 31 de dezembro de 2020, do prazo de vigência previsto no artigo 5.º da [Portaria n.º 89/2020](https://diariodarepublica.pt/dr/detalhe/portaria/89-2020-131193420), de 7 de abril, que adota medidas excecionais, decorrentes da epidemia COVID-19, relativas às formalidades aplicáveis à produção, armazenagem e comercialização, com isenção do imposto, de álcool destinado aos fins previstos no n.º 3 do artigo 67.º do Código dos Impostos Especiais de Consumo (CIEC);
 
-21. [Portaria n.º 105-A/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-a-2020-132783835), de 30 de abril - Determina a cessação do período de suspensão semanal da atividade da frota que opera em águas interiores não marítimas sob jurisdição das capitanias dos portos do continente e na divisão 9 definida pelo Conselho Internacional para a Exploração do Mar (CIEM), procedendo à revogação da [Portaria n.º 88-B/2020](https://diariodarepublica.pt/dr/detalhe/portaria/88-b-2020-131124441), de 6 de abril;
+21. [Portaria n.º 105-A/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-a-2020-132783835), de 30 de abril - Determina a cessação do período de suspensão semanal da atividade da frota que opera em águas interiores não marítimas sob jurisdição das capitanias dos portos do continente e na divisão 9 definida pelo Conselho Internacional para a Exploração do Mar (CIEM), procedendo à revogação da [Portaria n.º 88-B/2020](https://diariodarepublica.pt/dr/detalhe/portaria/88-b-2020-131124441), de 6 de abril;
 
-22. [Portaria n.º 105-B/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-b-2020-132783870), de 30 de abril - Estabelece medidas excecionais e temporárias no âmbito da pandemia COVID -19, aplicáveis ao ano 2020 do Programa Apícola Nacional, (PAN) relativo ao triénio 2020-2022, regulamentado, a nível nacional, pela Portaria n.º [325-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2019-124831367), de 20 de setembro, alterada pela [Portaria n.º 387-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/387-a-2019-125747677), de 25 de outubro;
+22. [Portaria n.º 105-B/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-b-2020-132783870), de 30 de abril - Estabelece medidas excecionais e temporárias no âmbito da pandemia COVID -19, aplicáveis ao ano 2020 do Programa Apícola Nacional, (PAN) relativo ao triénio 2020-2022, regulamentado, a nível nacional, pela Portaria n.º [325-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/325-a-2019-124831367), de 20 de setembro, alterada pela [Portaria n.º 387-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/387-a-2019-125747677), de 25 de outubro;
 
 23. [Portaria n.º 105-C/2020](https://diariodarepublica.pt/dr/detalhe/portaria/105-c-2020-132783871), de 30 de abril - Estabelece medidas complementares à [Portaria n.º 81/2020](https://diariodarepublica.pt/dr/detalhe/portaria/81-2020-130603065), de 26 de março, relativas à situação epidemiológica do novo coronavírus - COVID-19, no âmbito do Programa de Desenvolvimento Rural 2014-2020 (PDR 2020);
 
@@ -2759,7 +2999,7 @@ Reunião terminou às 17:40
 
 33. Despacho n.º 4959/2020, de 24 de abril - Determina que o seguimento clínico dos doentes COVID-19 que habitem em estabelecimento residencial para pessoas idosas e cuja situação clínica não exija internamento hospitalar é acompanhado, diariamente, por profissionais de saúde do ACES da respetiva área de intervenção, em articulação com o hospital da área de referência;
 
-34. Despacho n.º 5023-C/2020, de 27 de abril - Altera a alínea g) do n.º 4 do Despacho n.º 3547-A/2020, de 22 de março, sobre prestação de serviços de atendimento ao público;
+34. Despacho n.º 5023-C/2020, de 27 de abril - Altera a alínea g) do n.º 4 do Despacho n.º 3547-A/2020, de 22 de março, sobre prestação de serviços de atendimento ao público;
 
 35. Despacho n.º 5031/2020, de 28 de abril - Determina, com aplicação a todos os trabalhadores da Autoridade Tributária e Aduaneira, que o gozo do período de férias transitadas do ano anterior não fica condicionado ao limite de 30 de abril, legalmente previsto;
 
@@ -2771,10 +3011,12 @@ Reunião terminou às 17:40
 
 39. Despacho n.º 5138-B/2020, de 30 de abril - Mantém a interdição do desembarque e licenças para terra de passageiros e tripulações dos navios de cruzeiro nos portos nacionais;
 
-40. Declaração de Retificação n.º 339-A/2020, de 20 de abril - Retifica o Despacho n.º 4698-D/2020, da Presidência do Conselho de Ministros e Trabalho, Solidariedade e Segurança Social, Gabinetes do Primeiro-Ministro e da Ministra do Trabalho, Solidariedade e Segurança Social, que determina que a inspetora-geral da ACT proceda à requisição dos inspetores e técnicos superiores necessários para reforçar a equipa inspetiva da ACT, publicado no Diário da República, 2.ª série, 3.º suplemento, n.º 76, de 17 de abril de 2020;
+40. Declaração de Retificação n.º 339-A/2020, de 20 de abril - Retifica o Despacho n.º 4698-D/2020, da Presidência do Conselho de Ministros e Trabalho, Solidariedade e Segurança Social, Gabinetes do Primeiro-Ministro e da Ministra do Trabalho, Solidariedade e Segurança Social, que determina que a inspetora-geral da ACT proceda à requisição dos inspetores e técnicos superiores necessários para reforçar a equipa inspetiva da ACT, publicado no Diário da República, 2.ª série, 3.º suplemento, n.º 76, de 17 de abril de 2020;
 
-41. [Declaração de Retificação n.º 17/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2020-132332503), de 23 de abril - Declaração de Retificação à [Lei n.º 10/2020](https://diariodarepublica.pt/dr/detalhe/lei/10-2020-131908529), de 18 de abril, «Regime excecional e temporário quanto às formalidades da citação e da notificação postal, no âmbito da pandemia da doença COVID-19»;
+41. [Declaração de Retificação n.º 17/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2020-132332503), de 23 de abril - Declaração de Retificação à [Lei n.º 10/2020](https://diariodarepublica.pt/dr/detalhe/lei/10-2020-131908529), de 18 de abril, «Regime excecional e temporário quanto às formalidades da citação e da notificação postal, no âmbito da pandemia da doença COVID-19»;
 
 42. [Declaração de Retificação n.º 18/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), de 30 de abril - Retifica a [Lei n.º 7/2020](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), «Estabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, e procede à primeira alteração ao [Decreto-Lei n.º 10-I/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-i-2020-130779508), de 26 de março, e à quarta alteração à [Lei n.º 27/2007](https://diariodarepublica.pt/dr/detalhe/lei/27-2007-636409), de 30 de julho»;
 
 43. [Declaração de Retificação n.º 18-A/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-a-2020-132783869), de 30 de abril - Retifica o Decreto n.º [2-C/2020](https://diariodarepublica.pt/dr/detalhe/decreto/2-c-2020-131908499), de 17 de abril, da Presidência do Conselho de Ministros, que regulamenta a prorrogação do estado de emergência decretado pelo Presidente da República, publicado no Diário da República, 1.ª série, 1.º suplemento, n.º 76, de 17 de abril de 2020.
+
+113462851

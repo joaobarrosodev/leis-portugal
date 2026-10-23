@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01800/0050000506.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/11/2019/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-2019-118484588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5004675943120a6829dc68274b8ddd59dda31755352888fe9caf54650aacb1df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c59d2751b1ec69d87206bd985c200e29af975df2214114b1d5aadd784b3d25e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Estrasburgo
 - Extradição
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:118484587:por
+  label: Ratificado o Terceiro Protocolo Adicional à Convenção Europeia de Extradição pelo(a) Decreto do Presidente da República
+    n.º 4/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/4-2019-118484587
+  date: '2019-01-25'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:13Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de dezembro de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 THIRD ADDITIONAL PROTOCOL TO THE EUROPEAN CONVENTION ON EXTRADITION
 
@@ -457,7 +463,7 @@ O Comité Europeu para os Problemas Criminais do Conselho da Europa será inform
 
 ###### Artigo 19.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa e qualquer Estado que tenha aderido ao presente Protocolo:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa e qualquer Estado que tenha aderido ao presente Protocolo:
 
 a) De qualquer assinatura;
 
@@ -476,3 +482,5 @@ g) De qualquer outro ato, notificação ou comunicação relacionados com o pres
 Em fé do que os abaixo assinados devidamente autorizados para o efeito, assinaram o presente Protocolo.
 
 Feito em Estrasburgo, a 10 de novembro de 2010, em Francês e Inglês, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa deverá remeter uma cópia autenticada a cada Estado membro do Conselho da Europa e aos Estados não-membros que tenham aderido à Convenção.
+
+022019

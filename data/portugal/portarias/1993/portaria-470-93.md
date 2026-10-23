@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/470/1993/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1993-273827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712ecd125107cdee696d7bee20464593ccc1c850037a4e0183fa911ef72cf678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa790e40cdc5cefa7b2cc90557f3f00a8bc92dea96152ed3448e853f65be87d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,28 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Desvalorização da Moeda
+- IRC
 - IRS
 - Moeda
-- IRC
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:56:49Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +100,10 @@ de 5 de Maio
 
 Manda o Governo, pelo Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento, nos termos do artigo 43.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e do artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, que, para efeitos de determinação da matéria colectável dos referidos impostos, se apliquem os seguintes coeficientes de desvalorização da moeda aos bens e direitos alienados durante o ano de 1993, cujo valor, nos termos daqueles artigos, deva ser actualizado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/104b00/23062306.pdf))](https://files.diariodarepublica.pt/1s/1993/05/104b00/23062306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/104b00/23062306.pdf)
 
 Ministério das Finanças.
 
-**Assinada em 16 de Abril de 1993.**
+Assinada em 16 de Abril de 1993.
 
 O Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento, Vasco Jorge Valdez Ferreira Matias.

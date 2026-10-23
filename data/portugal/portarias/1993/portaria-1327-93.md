@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 304/1993, 5º Suplemento, Série I-B de 1993-12-31
   number: '304'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 7256-(16) a 7256-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1327/1993/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1327-1993-151498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc61bbf86fffd66788ebc641b2323f81cdd776f1e177c2f04ad2a6ca4c4bdc12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef2879c0df14ab98773d52528a2bba8f9858f6f95547a089d9fba497dedb3fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totobola
+- Apostas Mútuas Desportivas
 - Jogos de Fortuna e Azar
 - Lisboa
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
 - Regulamento
 - Regulamento Geral dos Concursos do Totobola
+- Santa Casa da Misericórdia
+- Totobola
 relationships:
 - type: amended_by
   target: pt:dre:332253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1539715:por
+  label: "Alterado o art. 6º e as tabelas nºs. 1 e 2 do Regulamento pela PORT.1159/97.1997.11.12.MS DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1159-1997-1539715
+  date: '1997-11-12'
+- type: amended_by
+  target: pt:dre:223190:por
+  label: "Alterados os arts. 5º e 13º do Regulamento, pela PORT.25/98.1998.01.10.MS, DR.IS-B [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/25-1998-223190
+  date: '1998-01-10'
+- type: amended_by
+  target: pt:dre:516927:por
+  label: "Alterado o nº 1 do art. 10º do Regulamento pela PORT.291/98.1998.05.06.MS, DR.IS-B [104] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-1998-516927
+  date: '1998-05-06'
+- type: amended_by
+  target: pt:dre:437800:por
+  label: "Alterado o n.º 3 do art. 10.º e a al c) do n.º 4 do art. 15.º do Regulamento, em conformidade com os nºs. 1.º e\
+    \ 2.º da presente portaria. Aditado o n.º 5 ao art. 14.º do citado Regulamento pela PORT.524/98.1998.08.14.MS DR.IS-B\
+    \ [187]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-1998-437800
+  date: '1998-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332253:por
+  label: "Revogada pela PORT.549/2001.2001.05.31.MS, DR.IS-B [126] de 2001/MAI/31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-2001-332253
+  date: '2001-05-31'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:43Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +140,9 @@ Manda o Governo, pelos Ministros da Saúde e do Emprego e da Segurança Social, 
 
 Ministérios da Saúde e do Emprego e da Segurança Social.
 
-**Assinada em 31 de Dezembro de 1993.**
+Assinada em 31 de Dezembro de 1993.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
 Regulamento Geral dos Concursos de Apostas Mútuas
 
@@ -409,8 +440,8 @@ Os casos omissos e os duvidosos são resolvidos pela direcção do DJ, sem admis
 
 TABELA N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf))](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf)
 
 TABELA N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf))](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/304b05/00160020.pdf)

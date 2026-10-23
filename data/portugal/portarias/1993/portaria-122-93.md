@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/122/1993/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1993-599144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a168897605d9860e59ec06abeab105e641c31b3738db26af24425aa8665bf656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6fb7bcd4d0b83efdc5fec0345c1867e700a5bdde4866ab11d8ecf8c2393a595
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivos Nacionais-torre do Tombo
-- Secretaria de Estado da Cultura
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:2353638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 35/93 DR.IS-B [49]4SUPL DE 27/FEV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 119/93 DE 12-MAI DR.IS-B [149] DE 28/JUN/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 540/94 DE 24-JUN DR.IS-B [172] DE 27/JUL/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DN 580/94 DE 30-JUN DR.IS-B [178] DE 03/AGO/1994\0-B [178] DE 03/AGO/1994"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-03'
+- type: amended_by
+  target: pt:dre:1845970:por
+  label: "Alterado o quadro de pessoal pela PORT.229/96IIS.1996.10.04.PCM, DR.IIS [255] de 04/Nov/1996\01996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-1996-1845970
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:2359388:por
+  label: "Alterado o quadro de pessoal pela PORT.113/97IIS.1997.02.27.PCM DR.IIS [71] de 25/Mar/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1997-2359388
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:2353637:por
+  label: "Alterado o quadro de pessoal pela PORT.972/97(2ªSÉRIE).1997.10.27.PCM, MF E MC DR.IIS [272] DE 24/NOV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-1997-2353637
+  date: '1997-10-27'
+- type: amended_by
+  target: pt:dre:2353638:por
+  label: "Alterado o quadro de pessoal pela PORT.973/97(2ªSÉRIE).1997.10.27.PCM, MF E MC DR.IIS [272] DE 24/NOV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-1997-2353638
+  date: '1997-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -81,16 +121,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-g/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-g/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410288:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:01Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +157,10 @@ Manda o Governo, pelos Secretários de Estado da Cultura e Adjunta e do Orçamen
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 21 de Dezembro de 1992.**
+Assinada em 21 de Dezembro de 1992.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 Mapa anexo à Portaria n.º 122/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/028b00/04460449.pdf))](https://files.diariodarepublica.pt/1s/1993/02/028b00/04460449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/028b00/04460449.pdf)

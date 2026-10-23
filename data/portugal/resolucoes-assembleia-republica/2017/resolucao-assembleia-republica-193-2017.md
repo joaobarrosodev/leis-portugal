@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15200/0454804553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/193/2017/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/193-2017-107976095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63413d6edfd38850b5693193c3d272a673163fd6ede3d2077d80fde668d4495e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06671d706c701734982e9f5c8cedcb13ae5df3cf86bfac29061ba5dea12a668a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bogotá
-- Países Ibero-Americanos
+- Cinema
 - Colômbia
 - Convenção
+- Indústria Cinematográfica
+- Países Ibero-Americanos
 - Portugal
 - Produção Cinematográfica
-- Cinema
-- Indústria Cinematográfica
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:107976087:por
+  label: Ratificado o Protocolo de Emenda ao Acordo Latino-Americano de Co-Produção Cinematográfica, aprovada para ratificação
+    pela presente resolução, pelo(a) Decreto do Presidente da República n.º 70/2017 - Diário da República n.º 152/2017, Série
+    I de 2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/70-2017-107976087
+  date: '2017-08-08'
 article_structure:
-  article_count: 0
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:50:35Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de janeiro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOLO DE EMENDA AO ACORDO LATINO-AMERICANO DE CO-PRODUÇÃO CINEMATOGRÁFICA
 
@@ -111,13 +118,13 @@ Considerando também, que a co-produção de material cinematográfico e audiovi
 
 acordaram efetuar algumas emendas no Acordo Latino-Americano de Co-Produção Cinematográfica (denominado adiante «o Acordo»), e para este efeito resolveram concertar Protocolo de Emenda ao mencionado Instrumento internacional:
 
-Artigo I
+###### Artigo I
 
 O Título do Acordo fica emendado nos termos seguintes:
 
 «Acordo Latino-Americano de Co-Produção Cinematográfica»
 
-Artigo II
+###### Artigo II
 
 O artigo III do Acordo fica emendado nos termos seguintes:
 
@@ -125,7 +132,7 @@ O artigo III do Acordo fica emendado nos termos seguintes:
 
 Sem prejuízo do anterior, o presente Acordo não afetará nenhum outro aspecto da legislação fiscal dos Estados signatários ou aos convénios para evitar a dupla tributação assinados entre Estados 'signatários'.»
 
-Artigo III
+###### Artigo III
 
 O artigo V do Acordo fica emendado nos termos seguintes:
 
@@ -145,7 +152,7 @@ De conformidade com o estatuto que para tal fim elabore a CACI, a SECI examinar�
 
 Entende-se por pessoal criativo aquelas pessoas que tenham a qualidade de autor (autores, guionistas ou adaptadores, diretores, compositores) assim também o chefe montador, o diretor de fotografia, o diretor artístico e o chefe de audio. A contribuição de cada um destes elementos criativos será considerada individualmente.»
 
-Artigo IV
+###### Artigo IV
 
 Inclui-se um artigo logo do artigo XIV com a seguinte redação:
 
@@ -167,7 +174,7 @@ Nestes casos, o benefício da co-produção só será efetivo no país do qual �
 
 As contribuições financeiras efetuadas por uma e outra parte deverão estar no conjunto desses filmes, equilibradas globalmente num prazo de quatro (4) anos».
 
-Artigo V
+###### Artigo V
 
 O artigo XX do Acordo fica emendado nos seguintes termos:
 
@@ -175,11 +182,11 @@ O artigo XX do Acordo fica emendado nos seguintes termos:
 
 Por desejo de um ou mais de um dos Estados Membros, poderão ser apresentadas propostas de modificações ao presente Acordo, através da SECI, para ser consideradas pela Conferência de Autoridades Cinematográficas da Ibero-América (CACI) e aprovadas pela via diplomática.»
 
-Artigo VI
+###### Artigo VI
 
 Os artigos XV, XVI, XVII, XVIII, XIX e XX do Acordo deverão ser lidos como XVI, XVII, XVIII, XIX, XX e XXI, respectivamente.
 
-Artigo VII
+###### Artigo VII
 
 O anexo A do Acordo fica emendado nos seguintes termos:
 
@@ -229,19 +236,19 @@ m) Programação da produção, indicando locações e plano de trabalho.
 
 5 - Logo que termine a co-produção as autoridades governamentais respectivas farão a verificação dos documentos, para constatar o cumprimento das condições deste Acordo, das regulações correspondentes e do respectivo contrato. Feito isto poderão proceder à outorga do Certificado de Nacionalidade.»
 
-Artigo VIII
+###### Artigo VIII
 
 O presente Protocolo de Emenda poderá ser assinado pelos países membros do Acordo Latino-Americano de Co-Produção Cinematográfica.
 
-Artigo IX
+###### Artigo IX
 
 O original do presente Protocolo, cujos textos em castelhano e português são de igual maneira autênticos, será depositado na sede da SECI, a qual mandará cópias certificadas aos países membros do Acordo para a sua ratificação ou adesão.
 
-Artigo X
+###### Artigo X
 
 Os instrumentos de ratificação ou adesão serão depositados no País Sede da SECI, que comunicará aos países membros cada depósito e a data do mesmo.
 
-Artigo XI
+###### Artigo XI
 
 O presente Protocolo entrará em vigor quando oito (8) dos países signatários tenham efetuado o depósito do Instrumento de ratificação nos termos do Artigo anterior. Para os outros Estados o presente Protocolo entrará em vigor a partir da data do depósito do respectivo Instrumento de ratificação ou adesão.
 

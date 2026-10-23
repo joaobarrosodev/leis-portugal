@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/288b00/68906895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1257/1993/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1257-1993-550205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08b2c4f59d3d8750fcc3f6c720e464ab46061b88e792486e585fec8fb582475b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e6778498d3a018edfb1aa79dc22d43131c925cda182802bbe846dd21ee91599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,66 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Serviços de Segurança
 - Empresa de Segurança
 - Impresso
-- Prestação de Serviços
 - Ministro da Administração Interna
+- Prestação de Serviços
 - Segurança Privada
+- Serviços de Segurança
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:229767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: MANTIDAS EM VIGOR, PARA O ANO DE 1994, AS TAXAS ESTABELECIDAS NESTE DIPLOMA, PELA PORT 240/94 DE 18-ABR DR.IS-B [90]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDAS EM VIGOR, PARA O ANO DE 1995, AS TAXAS APROVADAS NESTE DIPLOMA, PELA PORT 393/95 DE 03-MAI DR.IS-B [102]\0\
+    DR.IS-B [102]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-03'
+- type: amended_by
+  target: pt:dre:568083:por
+  label: "Alterada a validade dos alvarás emitidos ao abrigo do nº 16º, pelo prazo máximo improrrogável de 180 dias, a contar\
+    \ de 9 de Setembro de 1998, e revogado o nº 17º pela PORT.710/98.1998.09.08.MAI, DR.IS-B [207]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1998-568083
+  date: '1998-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/1993/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/1993/08/10/p/dre
+- type: cites
+  target: pt:dre:178361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229767:por
+  label: "Revogada pela PORT.969/98.1998.11.16.MAI, DR.IS-B [265]1\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/969-1998-229767
+  date: '1998-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:01Z'
   warnings: []
   errors: []
 ---
@@ -193,8 +227,8 @@ Taxa de averbamentos - 100000$00.
 
 Ministério da Administração Interna.
 
-**Assinada em 29 de Outubro de 1993.**
+Assinada em 29 de Outubro de 1993.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro.**
+O Ministro da Administração Interna, Manuel Dias Loureiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/288b00/68906895.pdf))](https://files.diariodarepublica.pt/1s/1993/12/288b00/68906895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/288b00/68906895.pdf)

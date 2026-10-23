@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14700/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56/2020/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-2020-139129317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 287e2eee420659b839cd9b54a645efacebff93fee83a5e966475447b84b1bc8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d2649726714e9e0ef222df51ba72f1269dd5b01db6549c5e53450890bd4b99a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,20 @@ relationships:
   target: pt:dre:166981182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159993989:por
+  label: Prorrogado por 180 dias, até ao dia 19.09.2021, o prazo de funcionamento da Comissão Eventual para o Acompanhamento
+    da Aplicação das Medidas de Resposta à Pandemia da Doença COVID-19 e do Processo de Recuperação Económica e Social, constituída
+    pelo presente diploma, pelo(a) Resolução da Assembleia da República n.º 88/2021 - Diário da República n.º 57/2021, Série
+    I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/88-2021-159993989
+  date: '2021-03-23'
+- type: amended_by
+  target: pt:dre:166981182:por
+  label: Alargado o objeto e prorrogado o funcionamento da comissão eventual criada pelo presente diploma pelo(a) Resolução
+    da Assembleia da República n.º 198/2021 - Diário da República n.º 133/2021, Série I de 2021-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/198-2021-166981182
+  date: '2021-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -83,13 +97,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:06Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +142,6 @@ c) Das demais entidades cuja audição se mostre conveniente, em função do obj
 
 Aprovada em 10 de julho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+113440649

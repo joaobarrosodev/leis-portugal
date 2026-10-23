@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615/1993/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1993-374849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b2a169a98fa8d8c0acd9d0b9694c3385132f4e5c6fa84b22e376b8094dd7b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 592388f63b4526a25dad642d7105a407100023127a1300f45f560dc495443be0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso Técnico de Comércio
 - Ensino Profissional
 - Escola de Comércio de Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147651:por
+  label: "Extintos a partir de 27.09.2005 os cursos profissionais de Técnico de Comércio, e de Técnico de Comércio, em regime\
+    \ pós laboral, criados pelo presente diploma, que é revogado pela PORT.909/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do nº 9º da citada portaria.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/909-2005-147651
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:555804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:24Z'
   warnings: []
   errors: []
 ---
@@ -115,16 +130,16 @@ Manda o Governo, pelos Ministros da Educação, do Emprego e da Segurança Socia
 
 Ministérios da Educação, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 12 de Maio de 1993.**
+Assinada em 12 de Maio de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 ## ANEXO — Curso técnico de comércio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf)
 
 Curso técnico de comércio
 
 (Pós-laboral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35883589.pdf)

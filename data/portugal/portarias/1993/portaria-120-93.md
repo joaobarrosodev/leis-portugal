@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/120/1993/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-1993-599142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bad8e0bf26f81f0219233b78b13502f05a2c0d36d8b6e23ab980bf76d5db347
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f7557349baf8e0f7a0140cdf8f03c85875a4606cbf0ca2a5191580f496015a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria de Estado da Cultura
 - Instituto da Biblioteca Nacional e do Livro
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:1067327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL ANEXO, PELA PORT 549/93 DE 29-MAI DR.IS-B [125]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELO DN 539/94 DE 20-JUN DR.IS-B [172]\072]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-27'
+- type: amended_by
+  target: pt:dre:3454799:por
+  label: "Altera o quadro de pessoal, na redacção dada pela Port 549/93 de 29-Mai, pela PORT.212/96IIS.1996.10.01.PCM, MF\
+    \ e MC DR.IIS [246] de 23/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1996-3454799
+  date: '1996-10-01'
+- type: amended_by
+  target: pt:dre:3106476:por
+  label: "Alterado o quadro de pessoal, pela PORT.270/96IIS.1996.11.05.PCM DR.IIS [275] DE 27/NOV/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-1996-3106476
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:3012750:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.79/98(2ªSÉRIE).1997.11.13.PCM, MF e MC DR.IIS\
+    \ [14] de 17/Jan/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1998-3012750
+  date: '1997-11-13'
+- type: amended_by
+  target: pt:dre:1067327:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.1039/98(2ªSÉRIE).1998.09.23.PCM, DR.IIS [237]\
+    \ de 14/Out/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1039-1998-1067327
+  date: '1998-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -81,16 +114,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-e/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-e/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410286:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:36Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +150,13 @@ Manda o Governo, pelos Secretários de Estado da Cultura e Adjunta e do Orçamen
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 21 de Dezembro de 1992.**
+Assinada em 21 de Dezembro de 1992.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 Quadro de pessoal anexo à Portaria n.º 120/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/028b00/04400443.pdf))](https://files.diariodarepublica.pt/1s/1993/02/028b00/04400443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/028b00/04400443.pdf)
 
 ## ANEXO — Conteúdo funcional da carreira de técnico-adjunto do livro
 

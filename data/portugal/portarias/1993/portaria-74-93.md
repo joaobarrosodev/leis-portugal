@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/74/1993/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-1993-585029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd06f091e3b779a4c509207d11b51510e66dc63c16c5615f9ac2b0d1192d5388
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7d573281272a3b163ba37cbe4c1b7ab34df5e54b1b15aeccd91d8f4512b239b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa de Previdência
 - Carris
 - Centro Regional de Segurança Social
-- Lisboa
 - Integração de Serviços
-- Caixa de Previdência
+- Lisboa
 - Segurança Social
 - Transferência de Serviços
 - Transferência Patrimonial
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:651691:por
+  label: "MODIFICACAOES SOFRIDAS: ALTERADOS OS NUMEROS 1, 2, 3 E 4 PELA PORTARIA 957/93, DE 29 DE SETEMBRO, PUBLICADA NO DR.IS-B,\
+    \ 229, DE 930929.\0930929.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/957-1993-651691
+- type: cites
+  target: pt:dre:219107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390388:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:52Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +152,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 18 de Dezembro de 1992.**
+Assinada em 18 de Dezembro de 1992.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

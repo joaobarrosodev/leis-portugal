@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05600/0135901384.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/74/2018/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2018-114891061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff4f76758115a96e52a6a16c2d1ab864f382e2e24ca0325662f3fe4514bad464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b782ee2e102cb04fe3db4c67af84518c742cc71cea4d68cf0106d8b3748203bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Definição de Competências
 - Orgânica
-- Assembleia da República
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -112,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolassrep/82/2004/12/27/p/dre
 article_structure:
-  article_count: 83
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 49
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:23Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +155,9 @@ c) A gestão administrativa, financeira e tecnológica da Assembleia da Repúbli
 
 d) A execução de outras tarefas necessárias à atividade parlamentar.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -193,13 +195,17 @@ f) Sistema contabilístico que, nos termos da lei, possibilite um adequado plane
 
 3 - Os serviços da Assembleia da República, no âmbito do processo global de implementação de uma estratégia digital, colaboram na manutenção e desenvolvimento de um sistema de informação que prossiga o objetivo do reforço da comunicação entre a Assembleia da República e os cidadãos, bem como na racionalização das tarefas de gestão das respetivas unidades orgânicas, zelando pela exploração e manutenção das operações informáticas e pela qualidade e atualidade da informação disponibilizada.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O auditor jurídico tem as competências e exerce as funções que lhe estão cometidas pela LOFAR.
 
 2 - O auditor jurídico pode ser coadjuvado por um jurista com qualificações e experiência profissional para intervir na sua área de competência, sendo recrutado, por mobilidade interna ou por cedência de interesse público, entre cidadãos com vínculo de emprego público.
 
-###### Artigo 6.º — Unidades orgânicas e outros serviços
+Artigo 6.º
+
+Unidades orgânicas e outros serviços
 
 1 - Os serviços da Assembleia da República compreendem as seguintes unidades orgânicas:
 
@@ -255,7 +261,9 @@ q) A Divisão de Sistemas de Informação (DSI).
 
 3 - A Assembleia da República dispõe ainda de um Serviço de Segurança.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à DAP:
 
@@ -293,7 +301,9 @@ c) A Divisão de Redação (DR);
 
 d) A Unidade Técnica de Apoio Orçamental (UTAO).
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Compete à DAPLEN:
 
@@ -349,7 +359,9 @@ y) Elaborar os cartões de antigo Deputado e de Deputado Honorário, verificando
 
 z) Passar as certidões de exercício de funções e de contagem de tempo de serviço prestado aos Deputados e ex-Deputados que as solicitarem.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Compete à DAC:
 
@@ -403,7 +415,9 @@ c) Apoiar a participação dos Deputados nas reuniões no âmbito da União Euro
 
 d) Articular as tarefas do Representante Permanente da Assembleia da República junto da União Europeia, em Bruxelas, com as comissões parlamentares e, em particular, com a comissão competente em matéria de assuntos europeus.
 
-###### Artigo 10.º — Divisão de Redação
+Artigo 10.º
+
+Divisão de Redação
 
 Compete à DR:
 
@@ -417,7 +431,9 @@ d) Promover as retificações das inexatidões publicadas em qualquer das série
 
 e) Efetuar, em tempo real, o carregamento de todos os campos das bases de dados relativos à atividade parlamentar, com a informação de que dispõe em primeiro lugar e que esteja na sua esfera de competência.
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 Compete à UTAO elaborar estudos e documentos de trabalho técnico sobre a gestão orçamental e financeira pública efetuando:
 
@@ -437,7 +453,9 @@ g) O acompanhamento técnico da dívida pública, do endividamento contraído e 
 
 h) Outros trabalhos que lhe sejam determinados pela comissão parlamentar que detenha a competência em matéria orçamental e financeira, ou que a esta sejam submetidos pelo Presidente da Assembleia da República ou por outras comissões parlamentares.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Compete à DIC:
 
@@ -463,7 +481,9 @@ d) A Divisão de Edições;
 
 e) A Divisão Museológica e para a Cidadania (DMC).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Compete à DILP:
 
@@ -491,7 +511,9 @@ k) Assegurar a participação da Assembleia da República no Centro Europeu de P
 
 l) Satisfazer os pedidos de informação dos grupos parlamentares, gabinetes e demais utilizadores da Assembleia da República no domínio da atividade legislativa parlamentar nacional e estrangeira, bem como os de organismos estrangeiros congéneres, instituições estrangeiras e internacionais e ainda os de instituições nacionais no domínio da atividade parlamentar.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -509,7 +531,9 @@ f) Garantir a reserva de propriedade das edições da Assembleia da República;
 
 g) Organizar cerimónias de lançamentos de livros editados pela Assembleia da República ou por outras editoras externas, quando tal envolva comercialização.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Compete à BIB:
 
@@ -533,7 +557,9 @@ i) Cooperar com outras instituições nacionais e estrangeiras em matéria de pa
 
 j) Preservar e disponibilizar a coleção impressa do Diário da Assembleia da República e do Diário da República.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Compete ao AHP:
 
@@ -559,7 +585,9 @@ j) Promover doações de documentos relativos à atividade parlamentar;
 
 k) Garantir, na sequência da política definida pela Assembleia da República e da legislação aplicável, a segurança dos documentos à sua guarda e da informação neles contida.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Compete à DAF:
 
@@ -599,7 +627,9 @@ c) ...
 
 d) O Gabinete Médico e de Enfermagem (GME).
 
-###### Artigo 18.º — Divisão de Recursos Humanos e Formação
+Artigo 18.º
+
+Divisão de Recursos Humanos e Formação
 
 À DRHF compete assegurar os procedimentos técnicos e administrativos relativos à gestão dos recursos humanos, cabendo-lhe, em particular:
 
@@ -643,7 +673,9 @@ s) Promover os cursos de formação específicos da parte teórica do período e
 
 t) Apoiar o Secretário-Geral nas questões relativas às relações laborais e respetivo regime jurídico aplicável, bem como, neste âmbito, no relacionamento com o Sindicato dos Funcionários Parlamentares.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -689,7 +721,9 @@ t) Assegurar o expediente relativo à emissão de certidões, declarações ou g
 
 u) Emitir parecer e organizar os processos de atribuição, em regime transitório, de subsídios de reintegração e de subvenção mensal vitalícia a Deputados, neste último caso a remeter à Caixa Geral de Aposentações.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 ...
 
@@ -733,7 +767,9 @@ s) Assegurar a preparação logística das salas destinadas às reuniões nacion
 
 t) Estudar e propor medidas de gestão organizacional, na ótica da melhoria contínua do desempenho ambiental da Assembleia da República.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Compete à DRIPP:
 
@@ -765,7 +801,9 @@ a) A Divisão de Relações Internacionais e Cooperação (DRIC);
 
 b) A Divisão de Relações Públicas e Protocolo (DRPP).
 
-###### Artigo 22.º — Divisão de Relações Internacionais e Cooperação
+Artigo 22.º
+
+Divisão de Relações Internacionais e Cooperação
 
 Compete à DRIC:
 
@@ -789,7 +827,9 @@ i) Elaborar o expediente necessário à obtenção dos passaportes diplomático 
 
 j) Apoiar a realização de atividades de formação interparlamentar, designadamente, organizando ações que se destinem a promover a cooperação com os parlamentos dos países de língua portuguesa.
 
-###### Artigo 23.º — Divisão de Relações Públicas e Protocolo
+Artigo 23.º
+
+Divisão de Relações Públicas e Protocolo
 
 Compete à DRPP:
 
@@ -815,7 +855,9 @@ j) Proceder à gestão dos contratos relativos à aquisição de serviços de tr
 
 k) Assegurar, em coordenação com o Serviço de Segurança, o acesso dos cidadãos ao Palácio de São Bento, a respetiva receção e identificação, ficando o encaminhamento a cargo da entidade que recebe.
 
-###### Artigo 24.º — Competências e estrutura
+Artigo 24.º
+
+Competências e estrutura
 
 1 - Compete à DTI:
 
@@ -851,7 +893,9 @@ a) A Divisão de Infraestruturas Tecnológicas (DIT);
 
 b) A Divisão de Sistemas de Informação (DSI).
 
-###### Artigo 24.º-A — Competências
+Artigo 24.º-A
+
+Competências
 
 1 - O GCA acompanha e controla a execução orçamental e a situação económica, financeira, patrimonial e contabilística dos serviços da Assembleia da República e das entidades administrativas independentes com mera autonomia administrativa que funcionam junto da mesma.
 
@@ -873,7 +917,9 @@ f) Elaborar relatórios anuais de acompanhamento e controlo, designadamente no �
 
 4 - Os serviços da Assembleia da República e as entidades administrativas independentes prestam ao GCA toda a colaboração necessária ao exercício das suas competências, fornecendo-lhe, de forma completa e atempada, os documentos e as informações solicitados e previamente aprovados pelo Secretário-Geral.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Compete ao GME:
 
@@ -889,7 +935,9 @@ d) A participação na supervisão das condições ambientais, higiene, saúde e
 
 3 - Os efetivos do GME são fixados por despacho do Presidente da Assembleia da República, sob proposta do Secretário-Geral e precedendo parecer do Conselho de Administração, sendo recrutados em regime de cedência de interesse público ou contrato de prestação de serviços, nas condições a definir no respetivo acordo ou contrato.
 
-###### Artigo 28.º — Orgânica e competências
+Artigo 28.º
+
+Orgânica e competências
 
 1 - O Serviço de Segurança constitui a estrutura especialmente encarregada da prevenção, controlo, vigilância, proteção e defesa das instalações e dos bens da Assembleia da República, dos seus serviços e das pessoas que nela exercem funções e permanecem.
 
@@ -911,7 +959,9 @@ e) Coordenar, em colaboração com os serviços competentes da Assembleia da Rep
 
 5 - Os assistentes operacionais parlamentares colaboram com o Serviço de Segurança, sem prejuízo do seu enquadramento hierárquico nos serviços.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - As competências, o regime de substituição e o secretariado de que podem dispor os diretores de serviços que, para efeitos desta resolução, passam a denominar-se diretores, são os que estão previstos no artigo 42.º da LOFAR.
 
@@ -921,13 +971,17 @@ e) Coordenar, em colaboração com os serviços competentes da Assembleia da Rep
 
 4 - As unidades orgânicas previstas no n.º 2 do artigo 7.º são dirigidas por chefes de divisão, com exceção da UTAO e do GME.
 
-###### Artigo 30.º — Estatuto dos funcionários parlamentares
+Artigo 30.º
+
+Estatuto dos funcionários parlamentares
 
 1 - Os funcionários parlamentares regem-se por estatuto próprio, aprovado pela [Lei n.º 23/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/287780/details/normal?l=1), de 20 de maio, nos termos do artigo 181.º da Constituição, da LOFAR e das resoluções e regulamentos da Assembleia da República.
 
 2 - A legislação referente aos funcionários da administração central do Estado é aplicável subsidiariamente aos funcionários parlamentares.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -953,17 +1007,23 @@ d) Pronunciar-se sobre a preparação de exposições e outros eventos culturais
 
 e) Pronunciar-se sobre a valorização do património artístico do Palácio de São Bento.
 
-###### Artigo 38.º — Intercâmbio com outros serviços
+Artigo 38.º
+
+Intercâmbio com outros serviços
 
 Os dirigentes podem corresponder-se diretamente com serviços congéneres da Administração Pública e de organizações estrangeiras e internacionais para tratamento de matérias da sua competência.
 
-###### Artigo 41.º — Cartão de identificação e livre-trânsito
+Artigo 41.º
+
+Cartão de identificação e livre-trânsito
 
 1 - Os funcionários parlamentares têm direito a cartão especial de identificação e livre-trânsito, de acordo com os modelos aprovados.
 
 2 - O referido cartão dá acesso a todos os locais de funcionamento da administração central, regional e local, serviços públicos, empresas públicas e pessoas coletivas de direito público em geral.
 
-###### Artigo 43.º — Disposições transitórias
+Artigo 43.º
+
+Disposições transitórias
 
 1 - A estrutura aprovada pela presente resolução substitui a anterior estrutura dos serviços da Assembleia da República a partir da data da sua entrada em vigor.
 
@@ -981,7 +1041,9 @@ Objeto
 
 A presente resolução estabelece a estrutura e competências dos serviços da Assembleia da República, bem como os princípios que os regem e os níveis de direção e de hierarquia que os coordenam e articulam.
 
-###### Artigo 16.º-A — Divisão Museológica e para a Cidadania
+Artigo 16.º-A
+
+Divisão Museológica e para a Cidadania
 
 Compete à DMC:
 
@@ -1001,7 +1063,9 @@ g) Disponibilizar informação relativa ao acervo artístico e patrimonial da As
 
 h) Organizar e manter em funcionamento um centro de informação e acolhimento ao cidadão.
 
-###### Artigo 24.º-B — Divisão de Infraestruturas Tecnológicas
+Artigo 24.º-B
+
+Divisão de Infraestruturas Tecnológicas
 
 Compete à DIT:
 
@@ -1029,7 +1093,9 @@ k) Garantir a gestão e a atualização tecnológica do Centro de Processamento 
 
 l) Desenvolver e manter soluções tecnológicas destinadas ao reforço da mobilidade e utilização remota do SIAR.
 
-###### Artigo 24.º-C — Divisão de Sistemas de Informação
+Artigo 24.º-C
+
+Divisão de Sistemas de Informação
 
 Compete à DSI:
 
@@ -1053,7 +1119,9 @@ i) Assegurar a interoperabilidade com sistemas de informação internos e extern
 
 j) Desenvolver as medidas necessárias para a disponibilização da informação pública em formatos abertos e reutilizáveis.
 
-###### Artigo 25.º-A — Competências e coordenação
+Artigo 25.º-A
+
+Competências e coordenação
 
 1 - Compete ao GC, nos termos da [Resolução da Assembleia da República n.º 148/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/107684444/details/normal?l=1), de 13 de julho (Regime do Canal Parlamento, do portal da Assembleia da República e da presença institucional nas redes sociais):
 
@@ -1123,7 +1191,7 @@ A presente resolução entra em vigor 45 dias após a data da sua publicação.
 
 Aprovada em 2 de março de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ## ANEXO — Estrutura e competências dos Serviços da Assembleia da República
 
@@ -1193,7 +1261,7 @@ f) Sistema contabilístico que, nos termos da lei, possibilite um adequado plane
 
 ###### Artigo 4.º — Atribuições e competências
 
-**O Secretário-Geral tem as atribuições e competências definidas pela LOFAR.**
+O Secretário-Geral tem as atribuições e competências definidas pela LOFAR.
 
 ###### Artigo 5.º — Adjuntos do Secretário-Geral
 
@@ -1307,7 +1375,9 @@ c) A Divisão de Redação (DR);
 
 d) A Unidade Técnica de Apoio Orçamental (UTAO).
 
-###### Artigo 9.º — Divisão de Apoio ao Plenário
+###### Artigo 9.º
+
+##### Divisão de Apoio ao Plenário
 
 Compete à DAPLEN:
 
@@ -1363,7 +1433,9 @@ y) Elaborar os cartões de antigo Deputado e de Deputado Honorário, verificando
 
 z) Passar as certidões de exercício de funções e de contagem de tempo de serviço prestado aos Deputados e ex-Deputados que as solicitarem.
 
-###### Artigo 10.º — Divisão de Apoio às Comissões
+###### Artigo 10.º
+
+##### Divisão de Apoio às Comissões
 
 1 - Compete à DAC:
 
@@ -1417,7 +1489,9 @@ c) Apoiar a participação dos Deputados nas reuniões no âmbito da União Euro
 
 d) Articular as tarefas do Representante Permanente da Assembleia da República junto da União Europeia, em Bruxelas, com as comissões parlamentares e, em particular, com a comissão competente em matéria de assuntos europeus.
 
-###### Artigo 11.º — Divisão de Redação
+###### Artigo 11.º
+
+##### Divisão de Redação
 
 Compete à DR:
 
@@ -1479,7 +1553,9 @@ d) A Divisão de Edições (DE);
 
 e) A Divisão Museológica e para a Cidadania (DMC).
 
-###### Artigo 14.º — Divisão de Informação Legislativa e Parlamentar
+###### Artigo 14.º
+
+##### Divisão de Informação Legislativa e Parlamentar
 
 Compete à DILP:
 
@@ -1557,7 +1633,9 @@ j) Promover doações de documentos relativos à atividade parlamentar;
 
 k) Garantir, na sequência da política definida pela Assembleia da República e da legislação aplicável, a segurança dos documentos à sua guarda e da informação neles contida.
 
-###### Artigo 17.º — Divisão de Edições
+###### Artigo 17.º
+
+##### Divisão de Edições
 
 Compete à DE:
 
@@ -1575,7 +1653,9 @@ f) Garantir a reserva de propriedade das edições da Assembleia da República;
 
 g) Organizar cerimónias de lançamentos de livros editados pela Assembleia da República ou por outras editoras externas, quando tal envolva comercialização.
 
-###### Artigo 18.º — Divisão Museológica e para a Cidadania
+###### Artigo 18.º
+
+##### Divisão Museológica e para a Cidadania
 
 Compete à DMC:
 
@@ -1637,7 +1717,9 @@ c) A Divisão de Aprovisionamento e Património (DAPAT);
 
 d) O Gabinete Médico e de Enfermagem (GME).
 
-###### Artigo 20.º — Divisão de Recursos Humanos e Formação
+###### Artigo 20.º
+
+##### Divisão de Recursos Humanos e Formação
 
 À DRHF compete assegurar os procedimentos técnicos e administrativos relativos à gestão dos recursos humanos, cabendo-lhe, em particular:
 
@@ -1681,7 +1763,9 @@ s) Promover os cursos de formação específicos da parte teórica do período e
 
 t) Apoiar o Secretário-Geral nas questões relativas às relações laborais e respetivo regime jurídico aplicável, bem como, neste âmbito, no relacionamento com o Sindicato dos Funcionários Parlamentares.
 
-###### Artigo 21.º — Divisão de Gestão Financeira
+###### Artigo 21.º
+
+##### Divisão de Gestão Financeira
 
 Compete à DGF:
 
@@ -1727,7 +1811,9 @@ t) Assegurar o expediente relativo à emissão de certidões, declarações ou g
 
 u) Emitir parecer e organizar os processos de atribuição, em regime transitório, de subsídios de reintegração e de subvenção mensal vitalícia a Deputados, neste último caso a remeter à Caixa Geral de Aposentações;
 
-###### Artigo 22.º — Divisão de Aprovisionamento e Património
+###### Artigo 22.º
+
+##### Divisão de Aprovisionamento e Património
 
 Compete à DAPAT:
 
@@ -1821,7 +1907,9 @@ a) A Divisão de Relações Internacionais e Cooperação (DRIC);
 
 b) A Divisão de Relações Públicas e Protocolo (DRPP).
 
-###### Artigo 25.º — Divisão de Relações Internacionais e Cooperação
+###### Artigo 25.º
+
+##### Divisão de Relações Internacionais e Cooperação
 
 Compete à DRIC:
 
@@ -1845,7 +1933,9 @@ i) Elaborar o expediente necessário à obtenção dos passaportes diplomático 
 
 j) Apoiar a realização de atividades de formação interparlamentar, designadamente organizando ações que se destinem a promover a cooperação com os parlamentos dos países de língua portuguesa.
 
-###### Artigo 26.º — Divisão de Relações Públicas e Protocolo
+###### Artigo 26.º
+
+##### Divisão de Relações Públicas e Protocolo
 
 Compete à DRPP:
 
@@ -1911,7 +2001,9 @@ a) A Divisão de Infraestruturas Tecnológicas (DIT);
 
 b) A Divisão de Sistemas de Informação (DSI).
 
-###### Artigo 28.º — Divisão de Infraestruturas Tecnológicas
+###### Artigo 28.º
+
+##### Divisão de Infraestruturas Tecnológicas
 
 Compete à DIT:
 
@@ -1939,7 +2031,9 @@ k) Garantir a gestão e a atualização tecnológica do Centro de Processamento 
 
 l) Desenvolver e manter soluções tecnológicas destinadas ao reforço da mobilidade e utilização remota do SIAR.
 
-###### Artigo 29.º — Divisão de Sistemas de Informação
+###### Artigo 29.º
+
+##### Divisão de Sistemas de Informação
 
 Compete à DSI:
 
@@ -2168,3 +2262,5 @@ h) A descrição dos mecanismos de mobilidade a utilizar.
 1 - A presente resolução revoga o Regulamento dos Serviços da Assembleia da República, publicado no Diário da Assembleia da República, 2.ª série-C, n.º 30, suplemento, de 15 de julho de 1994.
 
 2 - Mantêm-se válidos os modelos de cartão de identidade aprovados pelo Regulamento referido no n.º 1.
+
+111201921

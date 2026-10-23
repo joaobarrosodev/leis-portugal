@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13200/0002100035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/197/2021/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/197-2021-166658246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 146044342ffe5ae423c33354fb15441ef2cd9974694ddd02563ca468d2db30c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3125a7ae7c5efc9175e52b837d8b79a96184069f7d226fcbb56e7973addc00d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
 subjects:
 - Atenas
 - Convenção
-- Portugal
 - Direito Internacional Público
 - Organização Europeia de Direito Público
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:166658244:por
+  label: Ratificado o Acordo aprovado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 57/2021 - Diário
+    da República n.º 132/2021, Série I de 2021-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/57-2021-166658244
+  date: '2021-07-09'
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:35Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO EUROPEIA DE DIREITO PÚBLICO PARA O ESTABELECIMENTO DE UM ESCRITÓRIO REGIONAL EM PORTUGAL
 
@@ -665,3 +671,5 @@ Helena Paiva, Ambassador of the Portuguese Republic in Athens.
 For the European Public Law Organization:
 
 Spyridon Flogaitis, Director of the European Public Law Organization.
+
+114358314

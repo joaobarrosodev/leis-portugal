@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24400/0667406678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/273/2017/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/273-2017-114390970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0686fb720bdefff98a26552906b1dfd84b4a1e0f78d41c6df3fde3d3b97ad49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f9d275a99ace10de721498d48f6fc9b87a312bd8b7f7522ad2552dd0c8fdcf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,17 @@ subjects:
 - Acordo Europeu
 - Comissão Europeia dos Direitos do Homem
 - Convenção
-- Portugal
 - Estrasburgo
+- Portugal
 - Processo Judicial
 - Tribunal Europeu dos Direitos do Homem
 relationships:
+- type: amended_by
+  target: pt:dre:114390967:por
+  label: Ratificado o Acordo Europeu, pelo(a) Decreto do Presidente da República n.º 154/2017 - Diário da República n.º 244/2017,
+    Série I de 2017-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/154-2017-114390967
+  date: '2017-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
   label: null
@@ -81,13 +87,13 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:33Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de março de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 EUROPEAN AGREEMENT RELATING TO PERSONS PARTICIPATING IN PROCEEDINGS OF THE EUROPEAN COURT OF HUMAN RIGHTS
 
@@ -424,7 +430,7 @@ b) Assinatura sujeita a ratificação, aceitação ou aprovação, seguida de ra
 
 ###### Artigo 11.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados-Membros do Conselho:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados-Membros do Conselho:
 
 a) De qualquer assinatura;
 
@@ -439,3 +445,5 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 Feito em Estrasburgo, a 5 de maio de 1996, nas línguas francesa e inglesa, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa deverá remeter uma cópia autenticada a cada um dos Estados signatários.
 
 (1) Nota relativa à tradução: dando cumprimento à [Resolução da Assembleia da República n.º 39/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/259948/details/normal?l=1), que recomenda a substituição da expressão «Direitos do Homem» pela expressão «Direitos Humanos» nomeadamente em textos para publicação e divulgação [alínea a) da referida resolução], efetuou-se essa substituição sempre que no texto é feita referência à primeira das duas expressões. Tal implicou alterar a designação, até ao momento utilizada, da Convenção, dos Protocolos e do Tribunal.
+
+0402017

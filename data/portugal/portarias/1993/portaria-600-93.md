@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/600/1993/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1993-268050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 943dbfc5963315d5182d729475863a6813deba0387b0e9cfec05d31ef4254da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c6472cad2bee5d1297a0e6569f495dd57203ec9c8a229b20bcbc6f51968e609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- VILA NOVA de Poiares
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
+- VILA NOVA de Poiares
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA DECL DDECL37/96 DE 07-MAR DA DGOTDU-MEPAT DR.IIS [92] DE 18/ABR/1996\0BR/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-04-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -87,16 +92,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:01Z'
   warnings: []
   errors: []
 ---
@@ -117,21 +190,21 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 16 de Abril de 1993.**
+Assinada em 16 de Abril de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial de Vila Nova de Poiares
 
-###### Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Plano de Pormenor da Zona Industrial de Vila Nova de Poiares, definida pela linha de delimitação na planta de síntese.
+Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Plano de Pormenor da Zona Industrial de Vila Nova de Poiares, definida pela linha de delimitação na planta de síntese.
 
-###### Art. 2.º Serão observadas todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste Plano de Pormenor, do Regulamento Geral das Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) e demais regulamentos em vigor e pareceres prestados.
+Art. 2.º Serão observadas todas as directivas, normas e regulamentos gerais dos diferentes níveis de planeamento, especificamente deste Plano de Pormenor, do Regulamento Geral das Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) e demais regulamentos em vigor e pareceres prestados.
 
-###### Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese. Todas as construções têm obrigatoriamente os edifícios principais com frente e acesso para uma rua aprovada.
+Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese. Todas as construções têm obrigatoriamente os edifícios principais com frente e acesso para uma rua aprovada.
 
-###### Art. 4.º A Câmara Municipal intervirá sempre em primeira instância na selecção das indústrias, conferindo-lhes prioridade e usando as formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho.
+Art. 4.º A Câmara Municipal intervirá sempre em primeira instância na selecção das indústrias, conferindo-lhes prioridade e usando as formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho.
 
-###### Art. 5.º Condições a respeitar na selecção das indústrias a instalar - definição de prioridades:
+Art. 5.º Condições a respeitar na selecção das indústrias a instalar - definição de prioridades:
 
 5.1 - Definição de prioridades:
 
@@ -145,7 +218,7 @@ d) Indústrias complementares ou activadoras de relações presentes e futuras e
 
 5.2 - As indústrias cuja elaboração preveja à partida qualquer grau de poluição do ambiente ou dos próprios esgotos só será autorizada após provas de que os métodos e sistemas a introduzir darão plena garantia de que a poluição será compatível com parâmetros aceitáveis.
 
-###### Art. 6.º Instalação e funcionamento de estabelecimentos industriais:
+Art. 6.º Instalação e funcionamento de estabelecimentos industriais:
 
 a) A viabilidade de instalação depende sempre de parecer da Câmara Municipal;
 
@@ -191,7 +264,7 @@ b6) À zona verde de protecção à Zona Industrial não deverá ser dada outra 
 
 b7) À Câmara Municipal de Vila Nova de Poiares competirá zelar pela salvaguarda da zona verde de protecção e impor a manutenção da área arbórea.
 
-###### Art. 7.º Condições de ocupação dos lotes:
+Art. 7.º Condições de ocupação dos lotes:
 
 a) A percentagem de ocupação dos lotes não poderá, por cada lote, ser superior a 50% da área do mesmo;
 
@@ -209,12 +282,12 @@ f) A implantação do edifício principal deve respeitar os afastamentos mínimo
 
 g) A colocação de indicativos, placas, anúncios ou outros elementos publicitários só poderá efectuar-se depois de submetida à apreciação dos Serviços Técnicos da Câmara Municipal de Vila Nova de Poiares e caso estes decidam favoravelmente.
 
-###### Art. 8.º - a) Deverá ser apresentado projecto de arranjos exteriores, tendo-se em conta a criação de espaços verdes com áreas nunca inferiores a 4% da área total do lote.
+Art. 8.º - a) Deverá ser apresentado projecto de arranjos exteriores, tendo-se em conta a criação de espaços verdes com áreas nunca inferiores a 4% da área total do lote.
 
 b) Cada unidade industrial deve manter vegetação que não prejudique a sua unidade com o lote.
 
-###### Art. 9.º Todos os lotes terão de ter áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas de bombeiros.
+Art. 9.º Todos os lotes terão de ter áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas de bombeiros.
 
-###### Art. 10.º Quaisquer omissões ou dúvidas relativas à aplicação do presente regulamento serão resolvidas pela Câmara Municipal de Vila Nova de Poiares.
+Art. 10.º Quaisquer omissões ou dúvidas relativas à aplicação do presente regulamento serão resolvidas pela Câmara Municipal de Vila Nova de Poiares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/146b00/34583460.pdf))](https://files.diariodarepublica.pt/1s/1993/06/146b00/34583460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/146b00/34583460.pdf)

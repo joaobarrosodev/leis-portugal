@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/693/1993/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-1993-346736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 716fa79f93a0c924779bb15ba440eaa4d2efc0d5d29fb387384b4a9f85306a5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c96fbe9c52946ef40ce2838780885698b0119f7ef298c8337d1e44504d3808b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Animador Social-técnico Psicossocial
 - Curso de Assistente de Arqueólogo
 - Curso de Técnico de Biblioteca e Documentação
 - Ensino Profissional
 - Equivalência de Habilitações Literárias
 - Escola Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:545058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544834:por
+  label: "Extintos os cursos profissionais de Animador Social/Técnico Psicossocial (18 meses) e de Animador Social/Técnico\
+    \ Psicossocial (26 meses) e revoga o presente diploma, no que àqueles cursos se refere pela PORT.1285/2006.21.11.2006.ME,\
+    \ DR.IS [224] de 21.11.2006, sem prejuízo do disposto no nº 6º daquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1285-2006-544834
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:545021:por
+  label: "Extinto, nos termos do nº 6º, o curso profissional de técnico de biblioteca e documentação (pós 11.º ano) criado\
+    \ pelo presente diploma e revogado (o presente diploma) no que àquele curso se refere, pela PORT.1305/2006.23.11.2006.ME,\
+    \ DR.IS [226] de 23.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1305-2006-545021
+  date: '2006-11-23'
+- type: amended_by
+  target: pt:dre:545058:por
+  label: "Extingue o curso profissional de assistente de arqueólogo criado pela presente portaria, pela PORT.1313/2006.23.11.2006.ME,\
+    \ DR.IS [226] de 23.11.2006, revoga-a permanecendo em vigor o respectivo plano de estudos nos termos do seu n.º 6.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1313-2006-545058
+  date: '2006-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:07:29Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +153,9 @@ cujos planos curriculares constam dos mapas I, II, III e IV anexos à presente p
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 23 de Junho de 1993.**
+Assinada em 23 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 MAPA I
 
@@ -135,7 +163,7 @@ Plano curricular
 
 Curso de Técnico de Biblioteca e Documentação (pós-11.º ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf))](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
 
 MAPA II
 
@@ -143,7 +171,7 @@ Plano curricular
 
 Curso de Animador Social/Técnico Psicossocial (18 meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf))](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
 
 Este perfil de formação é autorizado nas seguintes condições:
 
@@ -155,7 +183,7 @@ Plano curricular
 
 Curso de Animador Social/Técnico Psicossocial (26 meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf))](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
 
 Este perfil de formação é autorizado nas seguintes condições:
 
@@ -167,4 +195,4 @@ Plano curricular
 
 Curso de Assistente de Arqueólogo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf))](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170b00/39763979.pdf)

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 163/1993, 2º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3838-(177) a 3838-(178)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b02/01770178.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-g9/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-g9-1993-402345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73872b06ac74af5d91fce0896b6773682f3036f7f48f319722320283d252898f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910e346192599fbd01a974b9ee353b3dc71482022631a33be16558c2e198649d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alenquer
-- Vila Franca de Xira
 - CAÇA
+- Vila Franca de Xira
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:491966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202578:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pelo PORT.664/97.1997.08.12.MADRP\
+    \ DR.IS-B [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1997-202578
+  date: '1997-08-12'
+- type: amended_by
+  target: pt:dre:686199:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída no presente diploma pela PORT.1166/97.1997.11.14.MADRP\
+    \ DR.IS-B [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1166-1997-686199
+  date: '1997-11-14'
+- type: amended_by
+  target: pt:dre:265514:por
+  label: "Anexados vários prédios rústicos pela PORT.239/2002.2002.03.12.MADRP DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2002-265514
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:491966:por
+  label: "Renovada, por um período de 12 anos, a zona de caça concessionada pelo presente diploma, renovada pela Port 1166/97,\
+    \ de 14-Nov, e alterada pela Port 239/2002, de 12-Mar, pela PORT.682/2009.25.06.2009.MADRP, DR.IS [121] de 25.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-2009-491966
+  date: '2009-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -88,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-i3/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-i3/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:03:12Z'
   warnings: []
   errors: []
 ---
@@ -138,8 +186,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1993.**
+Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b02/01770178.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b02/01770178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01770178.pdf)

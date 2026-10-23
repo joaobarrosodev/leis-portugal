@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06500/0168301688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/2017/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2017-106804081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd082375de9b6b5be6ab05e2a5a5c8c117f4a7eed05c6541f509ed31da0563aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a37d8e4a4aa6c4c593183ffc141941ff96df885f36906a9fbab991d8e08040fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
 - Caracas
+- Cinema
 - Convenção
+- Indústria Cinematográfica
+- Integração Económica
+- Países Ibero-Americanos
 - Portugal
 - Produção Cinematográfica
-- Integração Económica
-- Cinema
-- Indústria Cinematográfica
 relationships:
 - type: amended_by
   target: pt:dre:107976094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106804079:por
+  label: Ratificado o Convénio de Integração Cinematográfica Ibero-Americana, aprovado para ratificação pela presente resolução,
+    pelo(a) Decreto do Presidente da República n.º 30/2017 - Diário da República n.º 65/2017, Série I de 2017-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-2017-106804079
+  date: '2017-03-31'
+- type: amended_by
+  target: pt:dre:106874595:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 36/2017 - Diário da República n.º 73/2017, Série
+    I de 2017-04-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/36-2017-106874595
+  date: '2017-04-12'
+- type: amended_by
+  target: pt:dre:107976094:por
+  label: Aprovado o Protocolo de Emenda ao Convénio de Integração Cinematográfica Ibero-Americana, aprovada para ratificação
+    pela presente resolução, pelo(a) Resolução da Assembleia da República n.º 192/2017 - Diário da República n.º 152/2017,
+    Série I de 2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/192-2017-107976094
+  date: '2017-08-08'
 article_structure:
-  article_count: 0
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:16Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +119,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de janeiro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 CONVÉNIO DE INTEGRAÇÃO CINEMATOGRÁFICA IBERO-AMERICANA
 
@@ -114,15 +133,15 @@ Com o propósito de contribuir para o desenvolvimento efetivo da comunidade cine
 
 acordaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 O propósito do presente Convénio é o de contribuir para o desenvolvimento da cinematografia dentro do espaço audiovisual dos países ibero-americanos e para a integração dos referidos países, mediante uma participação equitativa na atividade cinematográfica regional.
 
-Artigo II
+###### Artigo II
 
 Para os fins do presente Convénio, considera-se obra cinematográfica aquela de caráter audiovisual registada, produzida e difundida por qualquer sistema, processo ou tecnologia.
 
-Artigo III
+###### Artigo III
 
 As Partes do presente Convénio, a fim de cumprirem com os objetivos do mesmo, comprometem-se a realizar esforços conjuntos para:
 
@@ -136,65 +155,65 @@ As Partes do presente Convénio, a fim de cumprirem com os objetivos do mesmo, c
 
 - Ampliar o mercado para o produto cinematográfico, em qualquer das suas formas de difusão, mediante a adoção, em cada um dos países da região, de normas que contribuam para o seu desenvolvimento e para a constituição de um mercado comum cinematográfico latino-americano.
 
-Artigo IV
+###### Artigo IV
 
 São Membros do presente Convénio os Estados que o firmem e ratifiquem, ou adiram ao mesmo.
 
-Artigo V
+###### Artigo V
 
 As Partes adotarão as medidas necessárias, em conformidade com a legislação vigente em cada país, para facilitar a entrada, permanência e circulação de cidadãos dos países membros encarregados do exercício de atividades destinadas ao cumprimento dos objetivos do presente Convénio.
 
-Artigo VI
+###### Artigo VI
 
 As Partes adotarão as medidas necessárias, em conformidade com a legislação vigente em cada país, para facilitar a importação temporária dos bens provenientes dos Estados Membros e destinados ao cumprimento dos objetivos do presente Convénio.
 
-Artigo VII
+###### Artigo VII
 
 As Partes estimularão a assinatura de Acordos de Cooperação e Co-Produção no âmbito do presente Convénio.
 
-Artigo VIII
+###### Artigo VIII
 
 As Partes procurarão estabelecer ou aperfeiçoar sistemas e mecanismos de financiamento e desenvolvimento da atividade cinematográfica nacional.
 
-Artigo IX
+###### Artigo IX
 
 As Partes impulsionarão a criação em suas cinematecas de secções dedicadas a cada um dos Estados Membros.
 
-Artigo X
+###### Artigo X
 
 As Partes procurarão incluir em seu ordenamento legal normas que favoreçam a atividade cinematográfica.
 
-Artigo XI
+###### Artigo XI
 
 As Partes considerarão a possibilidade de criar um fundo financeiro multilateral de desenvolvimento da atividade cinematográfica.
 
-Artigo XII
+###### Artigo XII
 
 No âmbito do presente Convénio, as Partes estimularão a participação conjunta de instituições representativas de produtores e distribuidores de filmes nacionais nos principais eventos do mercado audiovisual internacional.
 
-Artigo XIII
+###### Artigo XIII
 
 As Partes promoverão a presença da cinematografia dos Estados Membros nos canais de difusão audiovisual existentes ou por criar, em cada um deles, em conformidade com a legislação vigente em cada país.
 
-Artigo XIV
+###### Artigo XIV
 
 As Partes intercambiarão documentação e informações que contribuam para o desenvolvimento de suas cinematografias.
 
-Artigo XV
+###### Artigo XV
 
 As Partes protegerão e defenderão os direitos autorais, em conformidade com as leis internas de cada um dos Estados Membros.
 
-Artigo XVI
+###### Artigo XVI
 
 Este Convénio estabelece como seus órgãos principais: a Conferência de Autoridades Cinematográficas da Ibero-América (CACI) e a Secretaria Executiva da Cinematografia Ibero-Americana (SECI). São órgãos auxiliares as Comissões a que se refere o artigo xxii.
 
-Artigo XVII
+###### Artigo XVII
 
 A Conferência de Autoridades Cinematográficas da Ibero-América (CACI) é o organismo máximo do Convénio. Estará integrada pelas autoridades competentes na matéria, devidamente acreditadas por via diplomática, conforme a legislação vigente em cada um dos Estados Membros.
 
 A CACI estabelecerá seu regulamento interno.
 
-Artigo XVIII
+###### Artigo XVIII
 
 A CACI terá as seguintes funções:
 
@@ -218,15 +237,15 @@ A CACI terá as seguintes funções:
 
 - Conhecer e resolver todos os demais assuntos de interesse comum.
 
-Artigo XIX
+###### Artigo XIX
 
 A CACI reunir-se-á de forma ordinária uma vez por ano, e extraordinariamente por solicitação de mais de metade de seus membros, ou do Secretário Executivo, conforme o seu regulamento interno.
 
-Artigo XX
+###### Artigo XX
 
 A Secretaria Executiva da Cinematografia Ibero-Americana (SECI) é o órgão técnico e executivo da CACI e será representada pelo Secretário Executivo, designado pela CACI.
 
-Artigo XXI
+###### Artigo XXI
 
 A SECI terá as seguintes funções:
 
@@ -250,47 +269,47 @@ A SECI terá as seguintes funções:
 
 - Apresentar à Conferência o relatório de suas atividades, assim como da execução orçamental.
 
-Artigo XXII
+###### Artigo XXII
 
 Em cada uma das Partes funcionará uma comissão de trabalho para a aplicação deste Convénio, a qual será presidida pela autoridade cinematográfica designada por seu respetivo Governo.
 
-Artigo XXIII
+###### Artigo XXIII
 
-**O Secretário Executivo terá no território de cada um dos Estados Membros a capacidade jurídica e os privilégios indispensáveis ao exercício de suas funções, em conformidade com a legislação interna de cada uma das Partes.**
+O Secretário Executivo terá no território de cada um dos Estados Membros a capacidade jurídica e os privilégios indispensáveis ao exercício de suas funções, em conformidade com a legislação interna de cada uma das Partes.
 
-Artigo XXIV
+###### Artigo XXIV
 
 No caso de existirem acordos bilaterais com disposições mais favoráveis sobre a matéria do que o estabelecido no presente Convénio, as Partes poderão invocar aquelas que considerem mais vantajosas.
 
-Artigo XXV
+###### Artigo XXV
 
 O presente Convénio não prejudicará quaisquer acordos ou compromissos bilaterais assumidos no campo da cooperação ou co-produção cinematográfica entre os Estados Membros.
 
-Artigo XXVI
+###### Artigo XXVI
 
 O presente Convénio fica aberto à adesão de qualquer Estado ibero-americano, do Caribe, ou de expressão hispânica ou portuguesa, mediante prévia aprovação da CACI.
 
-Artigo XXVII
+###### Artigo XXVII
 
 Cada Parte comunicará por via diplomática ao Estado sede da SECI o cumprimento dos procedimentos legais internos para a aprovação do presente Convénio, e o Ministério das Relações Exteriores do país sede aos demais países membros e à SECI.
 
-Artigo XXVIII
+###### Artigo XXVIII
 
 As dúvidas ou controvérsias que possam surgir da interpretação ou aplicação do presente Convénio serão resolvidas pela CACI.
 
-Artigo XXIX
+###### Artigo XXIX
 
 O presente Convénio está sujeito a ratificação e entrará em vigor quando três (3) dos Estados signatários tenham efetuado o depósito do instrumento de ratificação nos termos do artigo xxvii, e para os demais Estados a partir da data de depósito do respetivo instrumento de adesão.
 
-Artigo XXX
+###### Artigo XXX
 
 Cada uma das Partes poderá a qualquer momento denunciar o presente Convénio mediante notificação dirigida ao depositário por via diplomática. A denúncia surtirá efeito para a Parte interessada seis meses após a data em que a notificação tenha sido recebida pelo depositário.
 
-Artigo XXXI
+###### Artigo XXXI
 
 Elege-se depositário do presente Convénio o Estado sede da SECI.
 
-Artigo XXXII
+###### Artigo XXXII
 
 A sede da SECI será a cidade de Caracas, República da Venezuela.
 

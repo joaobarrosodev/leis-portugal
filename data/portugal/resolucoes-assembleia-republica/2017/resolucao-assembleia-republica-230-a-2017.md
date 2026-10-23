@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 191/2017, 1º Suplemento, Série I de 2017-10-03
   number: '191'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5590-(2) a 5590-(835)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/230-a/2017/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/230-a-2017-108254523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3d68e32bd0882dad50e8a9d111caa8b1bb7961cc129f8a0d7cafcd6b562716e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97b87619f0f06e95b9e956bc732b542a609ba7afcfc1b4020d299f29816284df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,23 +75,30 @@ subjects:
 - Convenção
 - Cooperação
 - Cooperação Aduaneira
-- Cooperação Comercial
-- Política de Cooperação
-- Cooperação Técnica
-- Moçambique
-- Portugal
-- Direitos Aduaneiros
-- União Europeia
-- Cooperação Tecnológica
-- Lesoto
-- Namíbia
-- Suazilândia
-- Desenvolvimento Económico
 - Cooperação Agrícola
+- Cooperação Comercial
 - Cooperação Económica
 - Cooperação Industrial
+- Cooperação Técnica
+- Cooperação Tecnológica
+- Desenvolvimento Económico
+- Direitos Aduaneiros
 - Kasane
+- Lesoto
+- Moçambique
+- Namíbia
+- Política de Cooperação
+- Portugal
+- Suazilândia
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:108254522:por
+  label: Ratificado o «Acordo de Parceria Económica entre a União Europeia e os seus Estados-Membros, por um lado, e os Estados
+    do APE SADC, por outro» pelo(a) Decreto do Presidente da República n.º 91-A/2017 - Diário da República n.º 191/2017, 1º
+    Suplemento, Série I de 2017-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/91-a-2017-108254522
+  date: '2017-10-03'
 - type: cites
   target: celex:31972R0922
   label: null
@@ -149,15 +156,15 @@ relationships:
   label: null
   source: http://data.europa.eu/
 article_structure:
-  article_count: 205
-  section_count: 54
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 204
+  section_count: 61
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:35Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +177,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de maio de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO DE PARCERIA ECONÓMICA ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E OS ESTADOS DO APE SADC, POR OUTRO
 
@@ -220,7 +227,7 @@ Salientando a importância da agricultura e do desenvolvimento sustentável na l
 
 acordaram em celebrar o presente Acordo:
 
-# PARTE I — Desenvolvimento sustentável e outros domínios de cooperação
+## PARTE I — Desenvolvimento sustentável e outros domínios de cooperação
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -444,7 +451,7 @@ h) Apoio operacional, incluindo equipamento, materiais e trabalhos conexos.
 
 As Partes reconhecem a importância da cooperação em matéria dos princípios de boa governação no domínio da fiscalidade através das autoridades competentes.
 
-# PARTE II — Comércio e outras matérias conexas
+## PARTE II — Comércio e outras matérias conexas
 
 ### CAPÍTULO I — Comércio de mercadorias
 
@@ -1218,7 +1225,7 @@ f) As negociações devem basear-se nas disposições pertinentes contidas em qu
 
 3 - Se qualquer acordo emanado das negociações previstas nos n.os 1 e 2 conduzir a resultados que se revelem incompatíveis com o futuro desenvolvimento de um quadro regional de investimento da SADC, as Partes devem, conjuntamente, envidar esforços para adaptar o presente Acordo a fim de o pôr em conformidade com esse quadro regional, assegurando, ao mesmo tempo, um equilíbrio de benefícios.
 
-# PARTE III — Prevenção e resolução de litígios
+## PARTE III — Prevenção e resolução de litígios
 
 ### CAPÍTULO I — Objetivo e âmbito de aplicação
 
@@ -1396,7 +1403,7 @@ O painel de arbitragem interpreta as disposições do presente Acordo em conform
 
 2 - Qualquer prazo referido na presente parte pode ser prorrogado por acordo mútuo entre as Partes.
 
-# PARTE IV — Exceções gerais
+## PARTE IV — Exceções gerais
 
 ###### Artigo 97.º — Cláusula de exceção geral
 
@@ -1448,7 +1455,7 @@ c) Impedir que qualquer das Partes adote medidas em cumprimento das suas obriga�
 
 3 - Nenhuma disposição do presente Acordo afeta os direitos e as obrigações de qualquer das Partes consagrados em convenções fiscais. Em caso de incompatibilidade entre o disposto no presente Acordo e qualquer convenção desse tipo, esta última prevalece relativamente às disposições incompatíveis.
 
-# PARTE V — Disposições institucionais
+## PARTE V — Disposições institucionais
 
 ###### Artigo 100.º — O Conselho Conjunto
 
@@ -1544,7 +1551,7 @@ iv) Analisar e debater questões de cooperação relativas à integração regio
 
 v) Monitorizar e avaliar o impacto da implementação do presente Acordo em termos do desenvolvimento sustentável das Partes.
 
-# PARTE VI — Disposições gerais e finais
+## PARTE VI — Disposições gerais e finais
 
 ###### Artigo 104.º — Definição das Partes e cumprimento das obrigações
 
@@ -1706,17 +1713,17 @@ Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinatura
 
 Lista dos anexos e protocolos
 
-## Anexo I: Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC.
+Anexo I: Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC.
 
-## Anexo II: Direitos aduaneiros da SACU sobre produtos originários da UE.
+Anexo II: Direitos aduaneiros da SACU sobre produtos originários da UE.
 
-## Anexo III: Direitos aduaneiros de Moçambique sobre produtos originários da UE.
+Anexo III: Direitos aduaneiros de Moçambique sobre produtos originários da UE.
 
-## Anexo IV: Salvaguardas agrícolas.
+Anexo IV: Salvaguardas agrícolas.
 
-## Anexo V: Salvaguardas transitórias BLNS.
+Anexo V: Salvaguardas transitórias BLNS.
 
-## Anexo VI: Produtos e setores MSF prioritários.
+Anexo VI: Produtos e setores MSF prioritários.
 
 Protocolo n.º 1: Relativo à definição do conceito de «produtos originários» e métodos de cooperação administrativa.
 
@@ -1728,11 +1735,11 @@ Protocolo n.º 4: Relativo à relação entre o ACDC e o presente Acordo.
 
 Ata final.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO I — Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC
 
-# PARTE I — Notas gerais
+## PARTE I — Notas gerais
 
 1 - Sempre que uma categoria de escalonamento for assinalada por uma letra, a concessão ou parte da concessão, tal como descrita no presente anexo, é aplicável a partir da data de entrada em vigor do presente Acordo, na aceção do artigo 113.º, n.º 2, ou da data relevante de aplicação provisória do presente Acordo, na aceção do artigo 113.º, n.º 4, consoante a data que for anterior, para mercadorias originárias de um Estado do APE SADC e apresentadas para desalfandegamento aduaneiro na UE.
 
@@ -1832,19 +1839,19 @@ xi) Nove (9) anos após o dia 1 de janeiro a seguir à data referida no ponto 2 
 
 a) [Leite em pó desnatado] A quantidade agregada de mercadorias originárias da categoria de escalonamento «E*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 b) [Manteiga] A quantidade agregada de mercadorias originárias da categoria de escalonamento «F*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 c) [Flores: rosas, orquídeas e crisântemos] A quantidade agregada das mercadorias originárias na categoria de escalonamento «G*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 15 toneladas métricas.
 
@@ -1856,7 +1863,7 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, são eliminad
 
 d) [Flores: lírios e outras] A quantidade agregada das mercadorias originárias na categoria de escalonamento «H*» que é autorizada a entrar em cada ano civil, com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 18 toneladas métricas.
 
@@ -1866,7 +1873,7 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, são eliminad
 
 e) [flores: não frescas] A quantidade agregada das mercadorias originárias na categoria de escalonamento «I*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 25 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 15 toneladas métricas.
 
@@ -1874,31 +1881,31 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, são eliminad
 
 f) [Morangos] A quantidade agregada de mercadorias originárias da categoria de escalonamento «J*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 1 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 7,5 toneladas métricas.
 
 g) [Açúcar] As quantidades agregadas de mercadorias originárias da categoria de escalonamento «K*» que são autorizadas a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, são indicadas a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, as quantidades de contingentes pautais, aplicáveis durante a parte restante do ano civil, são reduzidas, respetivamente, proporcionalmente ao número restante de dias desse ano civil.
 
 h) [Pó branco cristalino] A quantidade agregada de mercadorias originárias da categoria de escalonamento «L*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 i) [Doces de citrinos] A quantidade agregada de mercadorias originárias da categoria de escalonamento «M*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 j) [Frutas em lata, exceto frutas tropicais em lata] A quantidade agregada de mercadorias originárias da categoria de escalonamento «N*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 1236,75 toneladas métricas, para as peras, damascos e pêssegos, e de 550,20 toneladas métricas, para as misturas de frutas não tropicais.
 
@@ -1906,7 +1913,7 @@ Com efeito a partir da data referida no ponto 2 do presente anexo:
 
 - A quantidade agregada de mercadorias originárias ao abrigo desta categoria de escalonamento autorizada a entrar em cada ano civil é a indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 - Os direitos aduaneiros são eliminados gradualmente, em conformidade com as seguintes disposições:
 
@@ -1936,7 +1943,7 @@ Se a data referida no ponto 2 do presente anexo corresponder a uma data posterio
 
 k) [Frutas tropicais em lata] A quantidade agregada de mercadorias originárias da categoria de escalonamento «O*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 60 toneladas métricas.
 
@@ -1944,7 +1951,7 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, os direitos a
 
 l) [Sumo (suco) de laranja congelado] A quantidade agregada de mercadorias originárias da categoria de escalonamento «P*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 1 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, o contingente pautal terá um aumento anual de 21 toneladas métricas.
 
@@ -1952,7 +1959,7 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, são eliminad
 
 m) [Sumo (suco) de maçã e sumo (suco) de ananás] A quantidade agregada de mercadorias originárias da categoria de escalonamento «Q*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 50 % da taxa NMF aplicada, a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, a quantidade no âmbito do contingente pautal terá um aumento anual de 150 toneladas métricas.
 
@@ -1968,7 +1975,7 @@ Depois, em cada ano civil, a quantidade no âmbito do contingente pautal terá u
 
 n) [Leveduras vivas] A quantidade agregada de mercadorias originárias da categoria de escalonamento «R*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
@@ -1988,7 +1995,7 @@ são eliminados e essas mercadorias são autorizadas a entrar com isenção de d
 
 A quantidade agregada de mercadorias originárias, à exceção dos vinhos liberalizados, na categoria de escalonamento «S» para a qual o teor alcoólico adquirido, em volume, não excede 15 % que é autorizada a entrar com isenção de direitos em cada ano civil, com efeito a partir da data referida no ponto 1 do presente anexo até à data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2020, a quantidade no âmbito do contingente pautal terá um aumento anual de 1 059 000 litros.
 
@@ -1996,7 +2003,7 @@ Após 2020, a quantidade no âmbito do contingente pautal terá um aumento anual
 
 A quantidade agregada de mercadorias originárias, à exceção dos vinhos liberalizados, na categoria de escalonamento «S*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Depois, em cada ano civil, o contingente pautal terá um aumento anual de 741 300 litros, para os produtos no contingente vinícola A, e de 317 700 litros, para os produtos no contingente vinícola B.
 
@@ -2014,11 +2021,11 @@ Sem prejuízo do ponto 11 do presente anexo, podem ser reexaminadas tanto as qua
 
 p) [Etanol] A quantidade agregada de mercadorias originárias da categoria de escalonamento «T*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
-# PARTE II — Lista pautal da UE
+## PARTE II — Lista pautal da UE
 
 Relação com a Nomenclatura Combinada (NC) da União Europeia
 
@@ -2026,13 +2033,13 @@ As disposições da presente lista são geralmente expressas em termos da NC e a
 
 ## ANEXO I — Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
-## APÊNDICE
+APÊNDICE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
-# PARTE III — Tratamento dos produtos da posição pautal 1701 originários do Botsuana, do Lesoto, de Moçambique, da Namíbia e da Suazilândia
+## PARTE III — Tratamento dos produtos da posição pautal 1701 originários do Botsuana, do Lesoto, de Moçambique, da Namíbia e da Suazilândia
 
 1 - Para efeitos da aplicação do disposto no artigo 34.º, pode considerar-se que ocorrem perturbações nos mercados dos produtos da posição pautal 1701 em situações em que o preço médio do açúcar branco no mercado da UE decaia durante dois meses consecutivos para níveis inferiores a 80 % do preço médio do açúcar branco no mercado da UE praticado durante a campanha de comercialização anterior.
 
@@ -2040,7 +2047,7 @@ As disposições da presente lista são geralmente expressas em termos da NC e a
 
 ## ANEXO II — Direitos aduaneiros da SACU sobre produtos originários da UE
 
-# PARTE I — Notas gerais
+## PARTE I — Notas gerais
 
 1 - Sempre que uma categoria de escalonamento for assinalada por uma letra, a concessão ou parte da concessão, tal como descrita no presente anexo, é aplicável a partir da data de entrada em vigor do presente Acordo, na aceção do artigo 113.º, n.º 2, ou da data relevante de aplicação provisória do presente Acordo, na aceção do artigo 113.º, n.º 4, consoante a data que for anterior, para mercadorias originárias da UE e apresentadas para desalfandegamento aduaneiro, respetivamente, no Botsuana, no Lesoto, na Namíbia, na África do Sul e na Suazilândia.
 
@@ -2104,7 +2111,7 @@ b) Os direitos aduaneiros sobre mercadorias originárias que figuram na categori
 
 c) Os direitos aduaneiros sobre mercadorias originárias que figuram na categoria de escalonamento «PM40» na lista da SACU são os resultantes da redução progressiva efetuada em sintonia com a lista infra, na data referida no ponto 1 do presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 8 - Os direitos aduaneiros sobre mercadorias originárias que figuram na categoria de escalonamento «X» na lista da SACU são excluídos dos compromissos de redução pautal.
 
@@ -2132,7 +2139,7 @@ iii) Em 1 de setembro de cada ano, os contingentes pautais não utilizados numa 
 
 a) [Trigo e mistura de trigo com centeio] a quantidade agregada de mercadorias originárias da categoria de escalonamento «D*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
@@ -2144,13 +2151,13 @@ Os produtos importados ao abrigo deste contingente pautal e destinadas ao consum
 
 b) [Cevada] a quantidade agregada de mercadorias originárias da categoria de escalonamento «E*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 c) [Queijo] a quantidade agregada de mercadorias originárias da categoria de escalonamento «F*» que é autorizada a entrar em cada ano civil com isenção de direitos na África do Sul, com efeito a partir da data referida no ponto 1 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Após 2016, a quantidade terá um aumento anual de 150 toneladas métricas.
 
@@ -2160,13 +2167,13 @@ Com efeito a partir da data referida no ponto 2 do presente anexo, a quantidade 
 
 d) [Gorduras de porco] a quantidade agregada de mercadorias originárias da categoria de escalonamento «G*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 e) [Preparações alimentares à base de cereais] a quantidade agregada de mercadorias originárias da categoria de escalonamento «H*» que é autorizada a entrar em cada ano civil com um direito aduaneiro de 25 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
@@ -2176,7 +2183,7 @@ As mercadorias originárias da categoria de escalonamento «H*» apenas são ven
 
 f) [Porco] a quantidade agregada de mercadorias originárias da categoria de escalonamento «I*» que é autorizada a entrar em cada ano civil, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Esta quantidade agregada é autorizada a entrar em cada ano civil com um direito aduaneiro fixado em conformidade com as seguintes disposições:
 
@@ -2196,7 +2203,7 @@ Se a data referida no ponto 2 do presente anexo corresponder a uma data posterio
 
 g) [Manteiga e outras gorduras lácteas] a quantidade agregada de mercadorias originárias da categoria de escalonamento «J*» que é autorizada a entrar em cada ano civil, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Esta quantidade agregada é autorizada a entrar em cada ano civil com um direito aduaneiro fixado em conformidade com as seguintes disposições:
 
@@ -2216,19 +2223,19 @@ Se a data referida no ponto 2 do presente anexo corresponder a uma data posterio
 
 h) [Gelados] a quantidade agregada de mercadorias originárias da categoria de escalonamento «K*» que é autorizada a entrar em cada ano civil com um direito adua-neiro de 50 % da taxa NMF aplicada, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 i) [Mortadella bologna] a quantidade agregada de mercadorias originárias da categoria de escalonamento «L*» que é autorizada a entrar em cada ano civil com isenção de direitos, com efeito a partir da data referida no ponto 2 do presente anexo, é indicada a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Se a data referida no ponto 2 do presente anexo corresponder a uma data posterior a 1 de janeiro e anterior a 31 de dezembro do mesmo ano civil, a quantidade de contingentes pautais, aplicável durante a parte restante do ano civil, é reduzida proporcionalmente ao número restante de dias desse ano civil.
 
 Os produtos ao abrigo do presente contingente pautal são acompanhados de um certificado, em inglês ou numa tradução oficial em inglês, atestando que o produto está em conformidade com as especificações da indicação geo-gráfica «mortadella bologna», feita com tripa natural, e é importado e originário de Itália.
 
-# PARTE II — Pauta aduaneira da SACU
+## PARTE II — Pauta aduaneira da SACU
 
 Relação com a nomenclatura comum da SACU
 
@@ -2236,11 +2243,11 @@ As disposições da presente lista são geralmente expressas em termos da nomenc
 
 Na medida em que as disposições da presente lista sejam idênticas às disposições correspondentes da nomenclatura comum da SACU, as disposições da presente lista têm o mesmo significado que as disposições correspondentes da nomenclatura comum da SACU.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO III — Direitos aduaneiros de Moçambique sobre produtos originários da UE
 
-# PARTE I — Notas gerais
+## PARTE I — Notas gerais
 
 1 - A concessão, tal como descrita no presente anexo, é aplicável a partir da data de entrada em vigor do presente Acordo, na aceção do artigo 113.º, n.º 2, ou da data relevante de aplicação provisória do presente Acordo, na aceção do artigo 113.º, n.º 4, consoante a data que for anterior, para mercadorias originárias da UE e apresentadas para desalfandegamento aduaneiro em Moçambique.
 
@@ -2322,23 +2329,23 @@ d) Os direitos aduaneiros sobre mercadorias originárias não indicadas na lista
 
 Desmantelamento pautal de Moçambique para mercadorias importadas da UE nos termos do presente Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
-# PARTE II — Pauta aduaneira de Moçambique
+## PARTE II — Pauta aduaneira de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO IV — Salvaguardas agrícolas
 
 Os produtos agrícolas e as respetivas quantidades de referência referidas no artigo 35.º são indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO V — Salvaguardas transitórias BLNS
 
 Os produtos liberalizados referidos no artigo 37.º figuram no quadro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO VI — Produtos e setores MSF prioritários
 
@@ -2398,11 +2405,11 @@ Relativo à definição do conceito de «produtos originários» e aos métodos 
 
 Índice
 
-## Título I: Disposições gerais
+Título I: Disposições gerais
 
 ###### Artigo 1.º: Definições
 
-## Título II: Definição do conceito de «produtos originários»
+Título II: Definição do conceito de «produtos originários»
 
 Artigos:
 
@@ -2430,7 +2437,7 @@ Artigos:
 
 13.º: Elementos neutros
 
-## Título III: Requisitos territoriais
+Título III: Requisitos territoriais
 
 Artigos:
 
@@ -2444,7 +2451,7 @@ Artigos:
 
 18.º: Exposições
 
-## Título IV: Prova de origem
+Título IV: Prova de origem
 
 Artigos:
 
@@ -2480,7 +2487,7 @@ Artigos:
 
 34.º: Montantes expressos em euros
 
-## Título V: Métodos de cooperação administrativa
+Título V: Métodos de cooperação administrativa
 
 Artigos:
 
@@ -2502,11 +2509,11 @@ Artigos:
 
 43.º: Derrogações
 
-## Título VI: Ceuta e Melilha
+Título VI: Ceuta e Melilha
 
-###### Artigo 44.º: Condições especiais
+Artigo 44.º: Condições especiais
 
-## Título VII: Disposições finais
+Título VII: Disposições finais
 
 Artigos:
 
@@ -2516,31 +2523,31 @@ Artigos:
 
 47.º: Implementação do Protocolo
 
-## Anexo I do Protocolo n.º 1: Notas introdutórias à lista do anexo II
+Anexo I do Protocolo n.º 1: Notas introdutórias à lista do anexo II
 
-## Anexo II do Protocolo n.º 1: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter originário
+Anexo II do Protocolo n.º 1: Lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter originário
 
-## Anexo II(A) do Protocolo n.º 1: Derrogações à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter originário, nos termos do artigo 8.º, n.º 2, do presente Protocolo
+Anexo II(A) do Protocolo n.º 1: Derrogações à lista das operações de complemento de fabrico ou de transformação a efetuar em matérias não originárias para que o produto transformado possa adquirir o caráter originário, nos termos do artigo 8.º, n.º 2, do presente Protocolo
 
-## Anexo III do Protocolo n.º 1: Formulário do certificado de circulação
+Anexo III do Protocolo n.º 1: Formulário do certificado de circulação
 
-## Anexo IV do Protocolo n.º 1: Declaração de origem
+Anexo IV do Protocolo n.º 1: Declaração de origem
 
-## Anexo V do Protocolo n.º 1: Declaração do fornecedor para produtos com caráter originário preferencial
+Anexo V do Protocolo n.º 1: Declaração do fornecedor para produtos com caráter originário preferencial
 
-## Anexo V-B do Protocolo n.º 1: Declaração do fornecedor para produtos sem caráter originário preferencial
+Anexo V-B do Protocolo n.º 1: Declaração do fornecedor para produtos sem caráter originário preferencial
 
-## Anexo VI do Protocolo n.º 1: Ficha de informação
+Anexo VI do Protocolo n.º 1: Ficha de informação
 
-## Anexo VII do Protocolo n.º 1: Formulário de pedido de derrogação
+Anexo VII do Protocolo n.º 1: Formulário de pedido de derrogação
 
-## Anexo VIII do Protocolo n.º 1: Países e territórios ultramarinos
+Anexo VIII do Protocolo n.º 1: Países e territórios ultramarinos
 
-## Anexo IX do Protocolo n.º 1: Produtos relativamente aos quais, após 1 de outubro de 2015, se aplicam as disposições relativas à cumulação referidas no artigo 4.º do presente Protocolo
+Anexo IX do Protocolo n.º 1: Produtos relativamente aos quais, após 1 de outubro de 2015, se aplicam as disposições relativas à cumulação referidas no artigo 4.º do presente Protocolo
 
-## Anexo X do Protocolo n.º 1: Declaração conjunta sobre o reforço da capacidade para a implementação das regras de origem do presente Acordo
+Anexo X do Protocolo n.º 1: Declaração conjunta sobre o reforço da capacidade para a implementação das regras de origem do presente Acordo
 
-## Anexo XI do Protocolo n.º 1: Declaração comum relativa ao Principado de Andorra
+Anexo XI do Protocolo n.º 1: Declaração comum relativa ao Principado de Andorra
 
 Declaração comum relativa à República de São Marinho
 
@@ -3582,7 +3589,7 @@ Lista das operações de complemento de fabrico ou de transformação a efetuar 
 
 Os produtos mencionados na lista podem não estar todos abrangidos pelo presente Acordo. É, pois, necessário consultar as outras partes do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO II (A)
 
@@ -3602,7 +3609,7 @@ Estas declarações constam da casa 7 dos certificados de circulação EUR.1 ref
 
 3 - Os Estados do APE SADC e os Estados membros da UE tomam, pelo que lhes diz respeito, as medidas necessárias para aplicar o presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO III — Formulário do certificado de circulação
 
@@ -3612,7 +3619,7 @@ Estas declarações constam da casa 7 dos certificados de circulação EUR.1 ref
 
 3 - Os Estados de exportação podem reservar-se no direito de proceder à impressão dos certificados ou de a confiar a tipografias por eles autorizadas. Neste último caso, cada certificado deve incluir uma referência a essa autorização. Cada certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Notas
 
@@ -3622,7 +3629,7 @@ Notas
 
 3 - As mercadorias devem ser designadas conforme os usos comerciais, com as indicações necessárias para permitir a sua identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Declaração do exportador
 
@@ -3674,7 +3681,7 @@ Solicito a emissão do certificado anexo para as mercadorias indicadas.
 
 A declaração de origem, cujo texto é a seguir apresentado, deve ser prestada de acordo com as notas de rodapé. Estas não têm, contudo, de ser reproduzidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO V-A — Declaração do fornecedor para produtos com caráter originário preferencial
 
@@ -3742,11 +3749,11 @@ Se se utilizar outro documento que não seja a fatura ou um anexo à fatura (v. 
 
 3 - As administrações nacionais podem reservar-se no direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste último caso, cada formulário deve incluir uma referência a essa autorização. Os formulários devem incluir o nome e o endereço da tipografia ou uma marca de identificação da tipografia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO VII — Formulário de pedido de derrogação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Notas
 
@@ -3834,7 +3841,7 @@ Na aceção do presente Protocolo, entende-se por «países e territórios ultra
 
 ## ANEXO IX — Produtos relativamente aos quais, após 1 de outubro de 2015, se aplicam as disposições relativas à acumulação referidas no artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO X — Declaração conjunta sobre o reforço da capacidade para a implementação das regras de origem do presente Acordo
 
@@ -4150,7 +4157,7 @@ Reconhecendo a importância do setor das bebidas para as suas economias e a nece
 
 3 - Este Comité pode apresentar propostas de alteração ao Conselho Conjunto para apreciação e aprovação da adesão do Estado do APE SADC em causa ao presente Protocolo em conformidade com o artigo 117.º do presente Acordo.
 
-# PARTE 1 — Indicações geográficas
+## PARTE 1 — Indicações geográficas
 
 ###### Artigo 2.º — Âmbito de aplicação
 
@@ -4252,7 +4259,7 @@ c) Uma denominação total ou parcialmente homónima que induza o consumidor em 
 
 4 - As disposições da presente parte não prejudicam o direito de solicitar o reconhecimento e a proteção de uma indicação geográfica ao abrigo da legislação relevante da África do Sul ou da UE.
 
-# PARTE 2 — Comércio de produtos vitivinícolas e bebidas espirituosas
+## PARTE 2 — Comércio de produtos vitivinícolas e bebidas espirituosas
 
 ###### Artigo 10.º — Âmbito de aplicação e cobertura
 
@@ -4286,7 +4293,7 @@ c) Práticas enológicas e restrições adicionais conjuntamente aceites pelas P
 
 2 - Para os produtos vitivinícolas e bebidas espirituosas importados da UE e colocados no mercado na África do Sul, a documentação e certificação que pode ser exigida pela África do Sul deve limitar-se ao que figura no anexo ii, secção B.2, do presente Protocolo.
 
-# PARTE 3 — Disposições gerais
+## PARTE 3 — Disposições gerais
 
 ###### Artigo 13.º — Comité Especial
 
@@ -4372,37 +4379,37 @@ Nota (ii):
 
 #### SECÇÃO A.1. — Produtos agrícolas e géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO A.2. — Cervejas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO A.3. — Vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO A.4. — Bebidas espirituosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO B — Indicações geográficas da União Europeia
 
 #### SECÇÃO B.1. — Produtos agrícolas e géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO B.2. — Cervejas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO B.3. — Vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 #### SECÇÃO B.4. — Bebidas espirituosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 ## ANEXO II — (do Protocolo n.º 3)
 
@@ -4590,7 +4597,7 @@ Até à obtenção desse acordo, a utilização destas menções nos produtos im
 
 Na União Europeia, no que respeita ao disposto no [Regulamento (CE) n.º 261/2006](https://diariodarepublica.pt/application/external/eurolex?06R0261), as menções tradicionais «Ruby», «Tawny» e «Vintage» nele especificadas podem ser utilizadas na rotulagem de vinhos enriquecidos com álcool, em consonância com a definição estabelecida na legislação sul-africana, em combinação com qualquer das IG listadas no anexo i, secção A.3, para as quais o vinho enriquecido com álcool reúne as condições e para as quais a indicação geográfica está situada nas Províncias de Eastern Cape, Northern Cape ou Western Cape. O referido vinho enriquecido com álcool deve ser rotulado com a indicação geográfica relevante e com a menção tradicional ligada com um hífen ou de outra forma em combinação visual com a menção «Cape».
 
-## APÊNDICE
+APÊNDICE
 
 (do anexo ii)
 
@@ -4602,9 +4609,9 @@ a) De um certificado emitido por uma autoridade oficial mutuamente reconhecida d
 
 b) Se o vinho se destinar a consumo humano direto, de um boletim de análise elaborado por um laboratório oficialmente reconhecido pelo país de origem. O boletim de análise inclui as seguintes indicações:
 
-## Título alcoométrico volúmico total;
+Título alcoométrico volúmico total;
 
-## Título alcoométrico volúmico adquirido;
+Título alcoométrico volúmico adquirido;
 
 Extrato seco total;
 
@@ -4744,17 +4751,17 @@ ATA FINAL
 
 Os representantes do Reino da Bélgica, a República da Bulgária, a República Checa, o Reino da Dinamarca, a República Federal da Alemanha, a República da Estónia, a Irlanda, a República Helénica, o Reino de Espanha, a República Francesa, a República da Croácia, a República Italiana, a República de Chipre, a República da Letónia, a República da Lituânia, o Grão-Ducado do Luxemburgo, a Hungria, a República de Malta, o Reino dos Países Baixos, a República da Áustria, a República da Polónia, a República Portuguesa, a Roménia, a República da Eslovénia, a República Eslovaca, a República da Finlândia, o Reino da Suécia, o Reino Unido da Grã-Bretanha e Irlanda do Norte, Partes Contratantes no Tratado da União Europeia e no Tratado sobre o Funcionamento da União Europeia, a seguir designadas «Estados-Membros da União Europeia», e a União Europeia, por um lado, e a República do Botsuana, o Reino do Lesoto, a República de Moçambique, a República da Namíbia, a República da África do Sul, o Reino da Suazilândia, a seguir designados «Estados do Acordo de Parceria Económica da Comunidade de Desenvolvimento da África Austral» («Estados do APE SADC»), por outro, reunidos em Kasane, aos dez dias do mês de junho do ano de dois mil e dezasseis para a assinatura do Acordo de Parceria Económica entre a União Europeia e os seus Estados-Membros, por um lado, e os Estados do APE SADC, por outro, no momento de assinar o Acordo, adotaram os seguintes anexos, protocolos e declarações:
 
-## Anexo I: Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC;
+Anexo I: Direitos aduaneiros da UE sobre produtos originários dos Estados do APE SADC;
 
-## Anexo II: Direitos aduaneiros da SACU sobre produtos originários da UE;
+Anexo II: Direitos aduaneiros da SACU sobre produtos originários da UE;
 
-## Anexo III: Direitos aduaneiros de Moçambique sobre produtos originários da UE;
+Anexo III: Direitos aduaneiros de Moçambique sobre produtos originários da UE;
 
-## Anexo IV: Salvaguardas agrícolas;
+Anexo IV: Salvaguardas agrícolas;
 
-## Anexo V: Salvaguardas transitórias BLNS;
+Anexo V: Salvaguardas transitórias BLNS;
 
-## Anexo VI: Produtos e setores MSF prioritários;
+Anexo VI: Produtos e setores MSF prioritários;
 
 Protocolo n.º 1: Relativo à definição do conceito de «produtos originários» e aos métodos de cooperação administrativa;
 
@@ -4776,7 +4783,7 @@ Declaração da UE Relativa ao Protocolo n.º 1 sobre a Extensão das Águas Ter
 
 A UE, recordando que os princípios reconhecidos do direito internacional na matéria, nomeadamente a Convenção das Nações Unidas sobre o Direito do Mar, limitam a extensão das águas territoriais a um máximo de 12 milhas marítimas, declara que este limite deve ser tido em conta na aplicação das disposições do Protocolo sempre que nele seja feita referência a este conceito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf))](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/19101/0000200835.pdf)
 
 Declaração do Conselho sobre o artigo 74.º, n.º 1, do Acordo de Parceria Económica entre a União Europeia e os seus Estados-Membros, por um lado, e os Estados do APE SADC, por outro.
 

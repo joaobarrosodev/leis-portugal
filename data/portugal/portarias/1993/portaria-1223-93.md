@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1223/1993/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-1993-674452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f84960ac97962556ec134f31e9460729acc918eeb1a1e1fa5624d927cc1693
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19a18929dd2aed2a92129d8c8bdc1d5da96b7f9c60339763ff8166065828b3df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,26 @@ reuse:
 subjects:
 - Ambulância
 - Inspecção de Veículos
-- Veículo
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Escolar
 - Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:517431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 2 E 3 PELA PORT 1136/94 DE 22-DEZ DR.IS-B [294]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O CONSIGNADO NOS NUM 2 E 3 PELA PORT 569/95 DE 16-JUN DR.IS-B [137]\0DR.IS-B [137]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
@@ -89,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/287-a/1993/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/287-a/1993/03/12/p/dre
+- type: cites
+  target: pt:dre:435034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627995:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:08Z'
   warnings: []
   errors: []
 ---
@@ -229,6 +251,6 @@ Veículos matriculados em 1992 e em 1993.
 
 Ministério da Administração Interna.
 
-**Assinada em 26 de Outubro de 1993.**
+Assinada em 26 de Outubro de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

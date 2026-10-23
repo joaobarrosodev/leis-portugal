@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/175/2021/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/175-2021-165650645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f830e9aac2fdbdfb2b70316da9136660fac5ad27cb63712a7d4b32de1ebd006
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5777e5902152ae0ab56e8a8927c16706573f31f4dfdd5ab3bfd08a025972c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
 - Colômbia
-- Equador
-- PERU
+- Comércio
 - Convenção
 - Cooperação Comercial
-- Comércio
-- Bruxelas
+- Equador
+- PERU
 relationships:
+- type: amended_by
+  target: pt:dre:165650644:por
+  label: Ratificado o presente Protocolo, pelo(a) Decreto do Presidente da República n.º 52/2021 - Diário da República n.º
+    120/2021, Série I de 2021-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/52-2021-165650644
+  date: '2021-06-23'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -137,14 +143,14 @@ relationships:
   source: http://data.dre.pt/eli/lei/16/2004/05/11/p/dre
 article_structure:
   article_count: 29
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:02Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +163,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de março de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOLO DE ADESÃO AO ACORDO COMERCIAL ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A COLÔMBIA E O PERU, POR OUTRO, PARA TER EM CONTA A ADESÃO DO EQUADOR
 
@@ -371,7 +377,7 @@ Ao anexo xiii, apêndice 1, do Acordo é aditado o seguinte:
 
 «d) Lista de indicações geográficas do Equador para produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)»
 
 ###### Artigo 25.º
 
@@ -379,7 +385,7 @@ Ao anexo xiii, apêndice 2, do Acordo é aditado o seguinte:
 
 «c) Lista de indicações geográficas do Equador para produtos que não sejam produtos agrícolas e géneros alimentícios, vinhos, bebidas espirituosas e aromatizadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)»
 
 #### SECÇÃO X — Declarações comuns
 
@@ -419,7 +425,7 @@ Os anexos do presente Protocolo fazem dele parte integrante.
 
 Em fé do que os plenipotenciários abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO I
 
@@ -823,7 +829,7 @@ l) Para as rubricas pautais na categoria de escalonamento "AV0-7" na lista, o el
 
 m) Aplica-se o seguinte direito aduaneiro preferencial sobre as mercadorias originárias correspondentes às rubricas pautais na categoria de escalonamento "SP1" na lista:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Os direitos aduaneiros preferenciais indicados no quadro aplicam-se a partir da data de entrada em vigor do presente Acordo; os direitos não são reduzidos retroativamente.
 
@@ -879,9 +885,11 @@ Relação com a Nomenclatura Combinada (em seguida, "NC") da União Europeia: As
 
 ## ANEXO III — Lista de eliminação pautal da parte UE para mercadorias originárias do Equador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
-## ANEXO IV — Secção D
+## ANEXO IV
+
+#### Secção D
 
 Lista de eliminação pautal do Equador para mercadorias originárias da União Europeia
 
@@ -965,7 +973,7 @@ c) Os direitos aduaneiros correspondentes para as rubricas pautais 02101900, 160
 
 ## ANEXO V — Lista de eliminação pautal do Equador para mercadorias originárias da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO VI
 
@@ -1013,7 +1021,7 @@ a) A nota 1 passa a ter a seguinte redação:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para a Colômbia, o Equador ou o Peru dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 b) A nota 3 passa a ter a seguinte redação:
 
@@ -1021,7 +1029,7 @@ b) A nota 3 passa a ter a seguinte redação:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da União Europeia para a Colômbia, o Equador ou o Peru dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 c) A nota 5 passa a ter a seguinte redação:
 
@@ -1029,7 +1037,7 @@ c) A nota 5 passa a ter a seguinte redação:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia, do Equador e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Se mais de 75 % das quantidades do contingente estabelecido supra forem utilizadas durante um dado ano, essas quantidades devem ser revistas, com vista a chegar a acordo quanto ao seu aumento, no subcomité.";
 
@@ -1039,7 +1047,7 @@ d) A nota 7 passa a ter a seguinte redação:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia, do Equador e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Se mais de 75 % das quantidades do contingente estabelecido supra forem utilizadas durante um dado ano, essas quantidades devem ser revistas, com vista a chegar a acordo quanto ao seu aumento, no subcomité.";
 
@@ -1049,7 +1057,7 @@ e) É inserida a seguinte nota 7-A a seguir à nota 7:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados do Equador para a União Europeia e da União Europeia para o Equador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 f) A nota 8 passa a ter a seguinte redação:
 
@@ -1057,7 +1065,7 @@ f) A nota 8 passa a ter a seguinte redação:
 
 As regras de origem previstas no Apêndice 2 para os produtos abaixo enumerados aplicam-se enquanto a União Europeia mantiver 0 % de direitos consolidados da OMC para esses produtos. Se a União Europeia aumentar os direitos consolidados da OMC aplicáveis a esses produtos, a regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia, do Equador e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Quando, num determinado ano, se atingir 50 % de uma entrada de contingente, a tonelagem anual aumenta 50 % para o ano seguinte. A base de cálculo é a quantidade do contingente do ano anterior. Essas quantidades, bem como a base de cálculo, podem ser revistas a pedido de qualquer uma das Partes, mediante acordo com as outras Partes.";
 
@@ -1067,7 +1075,7 @@ g) A nota 9 passa a ter a seguinte redação:
 
 A regra seguinte confere o caráter de produto originário aos produtos exportados da Colômbia, do Equador e do Peru para a União Europeia dentro dos limites dos contingentes anuais por país indicados infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Essas quantidades podem ser revistas a pedido de qualquer uma das Partes, mediante acordo com as outras Partes."
 
@@ -1105,11 +1113,11 @@ Sem prejuízo do disposto no artigo 22.º do presente Acordo e no Anexo I do mes
 
 1 - Para cada uma das seguintes linhas pautais, quando o volume das importações por ano exceda 200 toneladas métricas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 2 - Para as seguintes linhas pautais na categoria L4, conforme a seguir indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO VIII — "APÊNDICE 1
 
@@ -1163,7 +1171,7 @@ d) Ministerio de Comercio Exterior (MCE)."
 
 ## ANEXO IX — "SECÇÃO B
 
-# Parte UE
+## Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -1253,7 +1261,7 @@ c) por "CPC ver. 1.0" entende-se a Classificação Central de Produtos, tal como
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO X — "SECÇÃO D
 
@@ -1287,11 +1295,11 @@ Nos termos do artigo 107.º, n.º 4, do título "Comércio de serviços, estabel
 
 Os direitos e as obrigações resultantes da presente lista de compromissos não são diretamente aplicáveis nem produzem efeitos diretos, pelo que não conferem direitos diretamente aplicáveis a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO XI — "SECÇÃO B
 
-# PARTE UE
+## PARTE UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -1379,7 +1387,7 @@ b) Por "CPC ver. 1.0" entende-se a Classificação Central de Produtos, tal como
 
 6 - Os direitos e obrigações resultantes da presente lista de compromissos não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO XII — "SECÇÃO D
 
@@ -1419,11 +1427,11 @@ Nos termos do artigo 107.º, n.º 4, do título Comércio de serviços, estabele
 
 Os direitos e as obrigações resultantes da presente lista de compromissos não são diretamente aplicáveis nem produzem efeitos diretos, pelo que não conferem direitos diretamente aplicáveis a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO XIII — "SECÇÃO B
 
-# Parte UE
+## Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -1517,7 +1525,7 @@ c) Por "CPC ver. 1.0" entende-se a Classificação Central de Produtos, tal como
 
 8 - Os direitos e obrigações resultantes da presente lista de reservas não têm um efeito autoexecutório, pelo que não conferem diretamente direitos a pessoas singulares ou a pessoas coletivas específicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO XIV — "SECÇÃO D
 
@@ -1543,11 +1551,11 @@ A lista a seguir apresentada não inclui medidas referentes a requisitos e proce
 
 Os direitos e as obrigações resultantes da presente lista de compromissos não são diretamente aplicáveis nem produzem efeitos diretos, pelo que não conferem direitos diretamente aplicáveis a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ## ANEXO XV — «SECÇÃO B
 
-# Parte UE
+## Parte UE
 
 São utilizadas as seguintes abreviaturas:
 
@@ -1635,9 +1643,11 @@ Sempre que não se apliquem quaisquer limitações específicas, com exceção d
 
 9 - Os compromissos em matéria de SPC e PI não se aplicam nos casos em que a intenção ou o efeito da sua presença temporária seja interferir no resultado (ou afetá-lo de outro modo) de qualquer disputa ou negociação em matéria de trabalho/gestão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
-## ANEXO XVI — SECÇÃO D
+## ANEXO XVI
+
+#### SECÇÃO D
 
 Equador
 
@@ -1661,9 +1671,11 @@ A lista a seguir apresentada não inclui medidas relativas a requisitos e proced
 
 Os direitos e as obrigações resultantes da presente lista de compromissos não são diretamente aplicáveis nem produzem efeitos diretos, pelo que não conferem direitos diretamente aplicáveis a pessoas singulares ou a pessoas coletivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
-## ANEXO XVII — ANEXO XI-A (1)
+## ANEXO XVII
+
+## ANEXO XI-A (1)
 
 Memorando de entendimento relativo à alínea b) da definição de "serviços prestados no exercício da autoridade governamental" prevista no artigo 152.º do presente Acordo
 
@@ -1673,9 +1685,13 @@ Memorando de entendimento relativo à alínea b) da definição de "serviços pr
 
 (1) O presente Anexo aplica-se apenas entre a Parte UE e o Equador.".
 
-## ANEXO XVIII — SECÇÃO B
+## ANEXO XVIII
 
-# Parte UE — SUBSECÇÃO 1
+#### SECÇÃO B
+
+## Parte UE
+
+##### SUBSECÇÃO 1
 
 Entidades da administração central
 
@@ -1717,15 +1733,15 @@ Listas indicativas de autoridades contratantes que são autoridades governamenta
 
 Bélgica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -2011,7 +2027,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -2637,15 +2653,15 @@ Itália
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -2689,11 +2705,11 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Países Baixos
 
@@ -2989,7 +3005,7 @@ Países Baixos
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -3033,15 +3049,15 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -4339,7 +4355,7 @@ Abrangidos pelo Título VI do presente Acordo
 
 Na presente lista de fornecimentos, é feita referência à Nomenclatura Combinada como referida no anexo iv do [Regulamento (CE) n.º 213/2008](https://diariodarepublica.pt/application/external/eurolex?08R0213) da Comissão, relativo ao Vocabulário Comum para os Contratos Públicos (Jornal Oficial da União Europeia L 74 de 15.3.2008, p. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ##### SUBSECÇÃO 2 — Entidades da administração subcentral
 
@@ -4437,7 +4453,7 @@ C
 
 - Caisse spéciale de Compensation pour Allocations familiales en Faveur des Travailleurs occupés dans les Entreprises de Batellerie - Bijzondere Verrekenkas voor Gezinsvergoedingen ten Bate van de Arbeiders der Ondernemingen voor Binnenscheepvaart.
 
-- Caisse spéciale de Compensation pour Allocations familiales en Faveur des Travailleurs occupés dans les Entreprises de Chargement, Déchargement et Manutention de Marchandises dans les Ports, Débarcadères, Entrepôts et Stations (appelée habituellement «Caisse spéciale de Compensation pour Allocations familiales des Régions maritimes») - Bijzondere Verrekenkas voor Gezinsvergoedingen ten Bate van de Arbeiders gebezigd door Ladings- en Lossingsondernemingen en door de Stuwadoors in de Havens, Losplaatsen, Stapelplaatsen en Stations [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf).
+- Caisse spéciale de Compensation pour Allocations familiales en Faveur des Travailleurs occupés dans les Entreprises de Chargement, Déchargement et Manutention de Marchandises dans les Ports, Débarcadères, Entrepôts et Stations (appelée habituellement «Caisse spéciale de Compensation pour Allocations familiales des Régions maritimes») - Bijzondere Verrekenkas voor Gezinsvergoedingen ten Bate van de Arbeiders gebezigd door Ladings- en Lossingsondernemingen en door de Stuwadoors in de Havens, Losplaatsen, Stapelplaatsen en Stations [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf).
 
 - Centre d'Étude de l'Énergie nucléaire - Studiecentrum voor Kernenergie.
 
@@ -4821,15 +4837,15 @@ V
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Alemanha
 
@@ -5007,7 +5023,7 @@ Categorias:
 
 - As pessoas coletivas de direito privado que pertencem ao Estado ou que são regularmente subvencionadas, ao abrigo das disposições aplicáveis, por recursos do Estado em pelo menos 50 % do seu orçamento anual, ou de cujo capital social o Estado detém pelo menos 51 %;
 
-- Pessoas coletivas de direito privado que pertencem a pessoas coletivas de direito público, a autarquias locais de todos os níveis, incluindo à União Central das Autarquias Locais da Grécia ([([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)), a associações locais de municípios ou a empresas e entidades públicas, ou às pessoas coletivas referidas no segundo travessão ou que são regularmente subvencionadas por elas, em pelo menos 50 % do seu orçamento anual, ao abrigo das disposições aplicáveis ou dos seus próprios estatutos, ou às pessoas coletivas acima referidas que detêm pelo menos 51 % do capital social dessas pessoas coletivas de direito público.
+- Pessoas coletivas de direito privado que pertencem a pessoas coletivas de direito público, a autarquias locais de todos os níveis, incluindo à União Central das Autarquias Locais da Grécia ([(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)), a associações locais de municípios ou a empresas e entidades públicas, ou às pessoas coletivas referidas no segundo travessão ou que são regularmente subvencionadas por elas, em pelo menos 50 % do seu orçamento anual, ao abrigo das disposições aplicáveis ou dos seus próprios estatutos, ou às pessoas coletivas acima referidas que detêm pelo menos 51 % do capital social dessas pessoas coletivas de direito público.
 
 Espanha
 
@@ -5109,7 +5125,7 @@ Por exemplo:
 
 - State Institute for Nature Protection;
 
-- Fund for Financing the Decommissioning of the [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) Nuclear Power Plant and the Disposal of NEK Radioactive Waste and Spent Nuclear Fuel;
+- Fund for Financing the Decommissioning of the [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) Nuclear Power Plant and the Disposal of NEK Radioactive Waste and Spent Nuclear Fuel;
 
 - Fund for Indemnification of Seized Property;
 
@@ -5123,7 +5139,7 @@ Por exemplo:
 
 - Croatian Bank for Reconstruction and Development;
 
-- Hrvatska kontrola [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) plovidbe d.o.o. (Croatia Control Ltd.);
+- Hrvatska kontrola [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) plovidbe d.o.o. (Croatia Control Ltd.);
 
 - Hrvatska lutrija d.o.o. (Croatian Lottery);
 
@@ -5137,7 +5153,7 @@ Por exemplo:
 
 - Croatian Audiovisual Centre;
 
-- Croatian Centre for Horse Breeding - State Stud Farms [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) and Lipik;
+- Croatian Centre for Horse Breeding - State Stud Farms [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) and Lipik;
 
 - Croatian Centre for Agriculture, Food and Rural Affairs;
 
@@ -5203,7 +5219,7 @@ Por exemplo:
 
 - Clinics;
 
-- "Miroslav [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)" Institute of Lexicography;
+- "Miroslav [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)" Institute of Lexicography;
 
 - Port Authorities;
 
@@ -5267,7 +5283,7 @@ Por exemplo:
 
 - Public health institutes;
 
-- Aeronautical Technical Centre (Zrakoplovno - [([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) centar d.d.);
+- Aeronautical Technical Centre (Zrakoplovno - [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf) centar d.d.);
 
 - County road administrations.
 
@@ -5313,7 +5329,7 @@ Categorias:
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Letónia
 
@@ -5343,7 +5359,7 @@ Lituânia
 
 - Prestadores de serviços de turismo (centros de informação de turismo e outros estabelecimentos que prestam serviços de turismo).
 
-- Outras pessoas públicas e privadas em conformidade com as condições previstas no artigo 4.º, n.º 2, da Lei sobre contratos públicos ("[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)" (Jornal Oficial) n.º 84-2000, 1996; n.º 4-102, 2006).
+- Outras pessoas públicas e privadas em conformidade com as condições previstas no artigo 4.º, n.º 2, da Lei sobre contratos públicos ("[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)" (Jornal Oficial) n.º 84-2000, 1996; n.º 4-102, 2006).
 
 Luxemburgo
 
@@ -5361,11 +5377,11 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Países Baixos
 
@@ -5757,7 +5773,7 @@ Autoridades competentes de:
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -5785,11 +5801,11 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
@@ -5961,11 +5977,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -6011,7 +6027,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -6055,15 +6071,15 @@ Itália
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -6077,7 +6093,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -6097,7 +6113,7 @@ Entidades encarregadas da exploração de uma rede de transporte ou distribuiç�
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -6125,17 +6141,17 @@ Entidades que transportam eletricidade nos termos de:
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Entidades que produzem, transportam ou distribuem eletricidade nos termos do Energetski zakon (Uradni list RS, 79/99):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -6171,11 +6187,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -6219,7 +6235,7 @@ Entidades que produzem ou distribuem água nos termos da Local Government [Sanit
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -6261,11 +6277,11 @@ Itália
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
@@ -6297,11 +6313,11 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Países Baixos
 
@@ -6313,7 +6329,7 @@ Autoridades locais e seus consórcios encarregados da produção, do transporte 
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -6323,17 +6339,17 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Entidades que produzem, transportam ou distribuem água potável nos termos da Lei da concessão, nos termos da Zakon o varstvu okolja (Uradni list RS, 32/93, 1/96) e com as decisões emitidas pelas autarquias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -6365,11 +6381,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -6411,7 +6427,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -6497,11 +6513,11 @@ Chipre
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -6515,7 +6531,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -6537,7 +6553,7 @@ Entidades prestadoras de serviços de transporte ao público nos termos do capí
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -6567,17 +6583,17 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Empresas que asseguram o transporte urbano público de autocarro nos termos de Zakon o prevozih v cestnem prometu (Uradni list RS, 72/94, 54/96, 48/98 in 65/99):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -6647,11 +6663,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -6679,7 +6695,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -6805,15 +6821,15 @@ Itália
 
 Chipre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -6821,7 +6837,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -6839,7 +6855,7 @@ Entidades contratantes no domínio dos portos marítimos ou dos portos interiore
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -6857,13 +6873,13 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Portos marítimos que são propriedade total ou parcial do Estado, que executam serviços públicos económicos nos termos do Pomorski zakonik (Uradni list RS, 56/99):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
@@ -6909,11 +6925,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -6939,7 +6955,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -7033,11 +7049,11 @@ Chipre
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -7045,7 +7061,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -7063,7 +7079,7 @@ Aeroportos explorados com base nos artigos 18 ss. da Luchtvaartwet Por exemplo:
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -7075,17 +7091,17 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Aeroportos civis públicos que operam nos termos do Zakon o letalstvu (Uradni list RS, 18/01):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -7121,11 +7137,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -7161,7 +7177,7 @@ Irlanda
 
 Grécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -7269,11 +7285,11 @@ Chipre
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -7289,7 +7305,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -7311,7 +7327,7 @@ Países Baixos
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -7323,13 +7339,13 @@ Entidades que transportam ou distribuem gás nos termos do:
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
 Entidades que transportam ou distribuem gás nos termos da Energetski zakon (Uradni list RS, 79/99) e entidades que transportam ou distribuem energia térmica nos termos de decisões emitidas pelas autarquias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
@@ -7371,11 +7387,11 @@ Bélgica
 
 Bulgária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Dinamarca
 
@@ -7407,7 +7423,7 @@ Irlanda
 
 Grécia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Espanha
 
@@ -7455,11 +7471,11 @@ Chipre
 
 Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Luxemburgo
 
@@ -7467,7 +7483,7 @@ Luxemburgo
 
 Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Malta
 
@@ -7489,7 +7505,7 @@ Entidades adjudicantes no âmbito dos serviços de transportes ferroviários. Po
 
 Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Portugal
 
@@ -7507,15 +7523,15 @@ Portugal
 
 Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslovénia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Eslováquia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Finlândia
 
@@ -7549,7 +7565,7 @@ O título vi do presente Acordo abrange todas as mercadorias.
 
 Estão incluídos os seguintes serviços da Lista Universal de Serviços, que consta do documento MTN.GNS/W/120*:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Notas da presente subsecção
 
@@ -7585,7 +7601,7 @@ Os contratos de concessões de obras, quando adjudicados por entidades incluída
 
 Lista da divisão 51, CPC:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ##### SUBSECÇÃO 7 — Notas gerais e extensões/derrogações
 
@@ -8045,7 +8061,7 @@ Notas da presente subsecção
 
 O título vi do presente Acordo não se aplica aos contratos de mercadorias necessários para a execução de serviços de investigação e desenvolvimento, ou aos contratos de mercadorias classificadas nas seguintes rubricas:
 
-##### Divisão 12 da CPC (petróleo bruto e gás natural).
+Divisão 12 da CPC (petróleo bruto e gás natural).
 
 Grupo 333 da CPC (óleos de petróleo)
 
@@ -8057,7 +8073,7 @@ Grupo 341 da CPC (produtos químicos orgânicos de base)
 
 O título VI do presente Acordo aplica-se exclusivamente aos contratos de serviços constantes do documento MTN.GNS/W/120 que são indicados na presente subsecção, celebrados pelas entidades constantes das listas das subsecções 1 a 3, sob reserva das respetivas notas das subsecções 1 a 3 e das notas gerais da subsecção 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 ##### SUBSECÇÃO 6 — Serviços de construção
 
@@ -8065,7 +8081,7 @@ O título VI do presente Acordo aplica-se a todos os contratos de serviços de c
 
 Lista da divisão 51, CPC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf))](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/12000/0000401251.pdf)
 
 Notas da presente subsecção
 
@@ -8132,3 +8148,5 @@ O Equador pode continuar a aplicar as medidas a seguir enunciadas, incluindo as 
 a) As medidas relacionadas com a aplicação de impostos sobre as bebidas alcoólicas, nos termos dos artigos 10.º e 12.º da Ley de Fomento Ambiental Optimización de Ingresos del Estado, publicada no Jornal Oficial n.º 583 de 24 de novembro de 2011, e do artigo 2.º da Ley Orgánica de Incentivos para el Sector Productivo, publicada no segundo suplemento do Jornal Oficial n.º 56 de 12 de agosto de 2013, até dois anos após a entrada em vigor do presente Acordo. A partir dessa data, as medidas devem ser conformes ao título III (Comércio de mercadorias), capítulo 1 (Acesso das mercadorias ao mercado), nomeadamente o seu artigo 21.º;
 
 b) Medidas relativas à importação de vestuário usado, calçado usado e veículos usados (Resolução COMEXI n.º 182, Resolução COMEX n.º 51). A necessidade de manter estas medidas deve ser reexaminada cinco anos após a entrada em vigor do presente Acordo.".
+
+114288525

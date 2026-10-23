@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13200/0000500020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/196/2021/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/196-2021-166658245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c6d59ddfd0857dd68b9752cb6a0eb045c27d2b6e3589c4a77ffa3eb6cf4147
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbf6b6b08e4aa4216269c12b51a7a4d2b3f2ddc16df07c5063e8ce5116f65bf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Convenção
-- Portugal
-- ONU
-- Lisboa
-- Política de Defesa
 - Cooperação Internacional
 - Cooperação Militar
 - Grécia
-relationships: []
+- Lisboa
+- NATO
+- ONU
+- Política de Defesa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:166658243:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 56/2021 - Diário da República n.º 132/2021, Série
+    I de 2021-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/56-2021-166658243
+  date: '2021-07-09'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:10:32Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA HELÉNICA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA
 
@@ -258,7 +264,7 @@ Pela República Helénica:
 
 Nikolaos Panagiotopoulos, Ministro da Defesa Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13200/0000500020.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13200/0000500020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13200/0000500020.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE HELLENIC REPUBLIC ON CO-OPERATION IN DEFENCE MATTERS
 
@@ -445,3 +451,5 @@ João Gomes Cravinho, Minister of National Defence.
 For The Hellenic Republic:
 
 Nikolaos Panagiotopoulos, Minister of National Defence.
+
+114358274

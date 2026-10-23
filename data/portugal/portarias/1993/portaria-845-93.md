@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/845/1993/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/845-1993-661304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9d610fa974499fb562cb15b989fe55983032fb14c4fdb37bc43a622d0e5e97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b054e3095764467e2261340136bd15af2ac5883cf642baf50a11f62bc1e9781f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,40 @@ subjects:
 - Bacharelato
 - Curso de Estudos Superiores Especializados em Gestão de Marketing
 - Ensino Particular
-- Instituto Português de Administração de Marketing
 - Ensino Superior
+- Instituto Português de Administração de Marketing
 relationships:
 - type: amended_by
   target: pt:dre:599125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599125:por
+  label: "Determinada a caducidade pela PORT.1141/2000.2000.11.30.ME, DR.IS-B [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1141-2000-599125
+  date: '2000-11-30'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:11:22Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +129,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 17 de Agosto de 1993.**
+Assinada em 17 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Instituto Português de Administração de Marketing - IPAM, no Porto
 
@@ -122,4 +139,4 @@ Curso de estudos superiores especializados em Gestão de Marketing
 
 (Especializações: bens de grande consumo/serviços/saúde)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/212b00/48384839.pdf))](https://files.diariodarepublica.pt/1s/1993/09/212b00/48384839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/212b00/48384839.pdf)

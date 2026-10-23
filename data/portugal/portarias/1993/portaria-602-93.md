@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/602/1993/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-1993-268055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7af4a3bdb04591e86489014f28ac2f964ee47493a2982cf406e0e89acc7b4328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fde0627e4c752be7cfff71a94fb54fa464b41059686dab1089da6c046589546f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Enfermagem
 - Ensino Cooperativo
+- Ensino Superior
 - Escola Superior de Enfermagem JEAN Piaget-nordeste
 - Instituto Piaget
 - Macedo de Cavaleiros
-- Ensino Superior
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:333169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:05Z'
   warnings: []
   errors: []
 ---
@@ -115,12 +131,12 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 12 de Maio de 1993.**
+Assinada em 12 de Maio de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
 ## ANEXO — Escola Superior de Enfermagem Jean Piaget/Nordeste
 
 Curso superior de Enfermagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/146b00/34613462.pdf))](https://files.diariodarepublica.pt/1s/1993/06/146b00/34613462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/146b00/34613462.pdf)

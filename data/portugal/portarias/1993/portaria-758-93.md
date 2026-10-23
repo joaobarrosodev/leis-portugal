@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/758/1993/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1993-632436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:09:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98ab3681650e717129556f745322a0c0ff6c3b9789860f041fac2f47f042966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99cd13074083e333bf460a5a86b8576340072a7ebcfb67c8639c62273d54eae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:09:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/1991/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/1991/08/22/p/dre
+- type: cites
+  target: pt:dre:403326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:09:22Z'
   warnings: []
   errors: []
 ---
@@ -113,14 +125,14 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 15 de Julho de 1993.**
+Assinada em 15 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf))](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf))](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/200b00/45314532.pdf)

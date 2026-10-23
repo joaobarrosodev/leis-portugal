@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1207/1993/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1207-1993-688978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b129961f55e1f5563eaa63f95c5f9d7fc65eb9b7476208e112f1b00c9ab3ef13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f70ea9e18009ad2099cb448888b3aec1d991207b1ad1c6bfd701d38fd35eb4fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Educação Social
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:584852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584852:por
+  label: "Revogada a presente Portaria, findo o processo de transição fixado nos termos do artigo 31º do Regulamento aprovado\
+    \ pela Port. 413-A/98 de 17 de Julho, alterada pela Port. 533-A/99, de 22 de Julho, pela PORT.23/2002.2002.01.04.ME, DR.IS-B\
+    \ [3]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2002-584852
+  date: '2002-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:46Z'
   warnings: []
   errors: []
 ---
@@ -156,8 +171,8 @@ O curso entrará em funcionamento progressivamente, um ano curricular em cada an
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/268b00/63766377.pdf))](https://files.diariodarepublica.pt/1s/1993/11/268b00/63766377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/268b00/63766377.pdf)

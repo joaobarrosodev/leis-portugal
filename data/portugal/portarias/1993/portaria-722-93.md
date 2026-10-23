@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/722/1993/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1993-358303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 611b6a8477bd6c6acad52f35c9dcfaacbf9ca8ca463f2ee9b5bbc3164d7e4db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1da9d3749ca43ad72677d8242cc7801793e8e186ae58a52d3dc5e7eed35b4069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Escola Superior de Tecnologia
 - Instituto Politécnico
 - Pessoal não Docente
-- Setúbal
 - Quadro de Pessoal
+- Setúbal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/405/1991/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/405/1991/05/15/p/dre
+- type: cites
+  target: pt:dre:641422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:12Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +115,7 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que os quadros p
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 28 de Junho de 1993.**
+Assinada em 28 de Junho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
@@ -117,7 +125,7 @@ Instituto Politécnico de Setúbal
 
 Escola Superior de Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf))](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf)
 
 MAPA II
 
@@ -125,4 +133,4 @@ Instituto Politécnico de Setúbal
 
 Escola Superior de Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf))](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/184b00/42384239.pdf)

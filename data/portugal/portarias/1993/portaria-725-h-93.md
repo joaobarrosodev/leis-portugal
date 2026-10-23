@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 186/1993, 2º Suplemento, Série I-B de 1993-08-10
   number: '186'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4266-(47) a 4266-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/186b02/00470047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/725-h/1993/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-h-1993-370266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 022c74f0715a0bf392bcd18c00e06950ef56606136cca19d48091f23a02df9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4897424a197d8de241b0fb4eda62fa958888c2e0a2d0b900f0ab8ab9250c82ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-e5/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-e5/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617520:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248074:por
+  label: "Revogada pela PORT.989-C/93.1993.10.07.MA DR.IS-B [235]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-c-1993-248074
+  date: '1993-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:27Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +129,6 @@ Manda o Governo, pelo Ministro da Agricultura, que, pelo presente diploma, seja 
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Fevereiro de 1993.**
+Assinada em 12 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/03600/0100801019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52/2018/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2018-114701945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81a53a9e9086727a821359d44d6103de6f395ababe00185c4d14c8b4d5c77c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac7b2c295e93e0e1a96b9c46efa7babc9c20defe798a0e90e655dd2146813d10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Combate à Violência
-- Violência
-- Convenção
-- Portugal
-- Segurança Pública
-- Futebol
 - Conselho da Europa
-- França
+- Convenção
 - Desporto
+- França
+- Futebol
+- Portugal
 - Saint Denis
-relationships: []
+- Segurança Pública
+- Violência
+relationships:
+- type: amended_by
+  target: pt:dre:114701943:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 13/2018 - Diário da República n.º 36/2018,
+    Série I de 2018-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-2018-114701943
+  date: '2018-02-20'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:53Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +105,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de dezembro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 COUNCIL OF EUROPE CONVENTION ON AN INTEGRATED SAFETY, SECURITY AND SERVICE APPROACH AT FOOTBALL MATCHES AND OTHER SPORTS EVENTS
 
@@ -717,7 +723,7 @@ Cláusulas finais
 
 ###### Artigo 22.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa, os outros Estados Partes na Convenção Cultural Europeia e qualquer Estado que tenha aderido a esta Convenção:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho da Europa, os outros Estados Partes na Convenção Cultural Europeia e qualquer Estado que tenha aderido a esta Convenção:
 
 a) De qualquer assinatura em conformidade com o artigo 16.º;
 
@@ -736,3 +742,5 @@ g) De qualquer outro ato, declaração, notificação ou comunicação relaciona
 Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assinaram esta Convenção.
 
 Feita em Saint-Denis, a 3 de julho de 2016, em inglês e francês, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa remeterá uma cópia autenticada a cada um dos Estados membros do Conselho da Europa, a cada Estado Parte na Convenção Cultural Europeia e a qualquer Estado que tenha sido convidado a aderir a esta Convenção.
+
+0032018

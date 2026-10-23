@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/669/1993/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-1993-389646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38376350304da7d88c5760b0eb88a31f7b99d44641e2ed0c867027b68105ce27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a947d3944cdbe7320536c0163e8750fdff512481d39336a263f4876772e93f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Bragança
 - Curso de Engenharia Rural
 - Curso de Melhoramentos Rurais
 - Ensino Superior Politécnico
 - Instituto Politécnico
-- Bragança
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:418187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:51Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +140,9 @@ A alteração aprovada pela presente portaria entrará em funcionamento nos term
 
 Ministério da Educação.
 
-**Assinada em 28 de Junho de 1993.**
+Assinada em 28 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO II — (Alteração à [Portaria n.º 317-I/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-i-1986-621751), de 24 de Junho)
 
@@ -138,4 +154,4 @@ Curso: Engenharia Rural (3041 0285)
 
 Grau: Bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/164b00/38513852.pdf))](https://files.diariodarepublica.pt/1s/1993/07/164b00/38513852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/164b00/38513852.pdf)

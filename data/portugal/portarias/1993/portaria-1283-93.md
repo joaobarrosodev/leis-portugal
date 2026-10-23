@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/296b00/70907092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1283/1993/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1283-1993-540217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd129e942db173ba2f16d76c14ca53c67ae5be2f4a345bfc51891bd80b1af7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4bf2821e3bb31a26075447f7ae0b802fddf8e2c920fe9f0f6d95a96743edcc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,81 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Geral
 - Integração de Trabalhadores
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:212599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 430/94 DE 17-MAI DR.IS-B [131] DE 07/JUN/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 466/94, DE 23-MAI DR.IS-B [151] DE 02/JUL/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 658/94 DE 31-AGO DR.IS-B [219] DE 21/SET/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 1111/94 DE 14-DEZ DR.IS-B [287] DE 14/DEZ/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 685/95 DE 30-JUN DR.IS-B [149]\0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-30'
+- type: amended_by
+  target: pt:dre:212599:por
+  label: "Alterado o quadro de pessoal, pela PORT.530/96.02.10.1996.PCM, DR.IS-B [229] de 02.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-1996-212599
+  date: '1996-10-02'
+- type: amended_by
+  target: pt:dre:2298200:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma pelo DESP-EXT.613/97(2ªSÉRIE).1997.04.23.SG-PCM\
+    \ DR.IIS [115] DE 19/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/613-1997-2298200
+  date: '1997-04-23'
+- type: amended_by
+  target: pt:dre:2298201:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma pelo DESP-EXT.614/97(2ªSÉRIE).1997.04.23.SG-PCM\
+    \ DR.IIS [115] DE 19/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/614-1997-2298201
+  date: '1997-04-23'
+- type: amended_by
+  target: pt:dre:2298206:por
+  label: "Alterado o quadro de pessoal constante do anexo à presente Port, pelo DESP-EXT.615/97(2ªSÉRIE).1997.04.23.SG-PCM,\
+    \ DR.IIS [115] de 1997.05.19\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/615-1997-2298206
+  date: '1997-04-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:38Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +172,10 @@ Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, ao abrigo
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 6 de Dezembro de 1993.**
+Assinada em 6 de Dezembro de 1993.
 
 Pelo Primeiro-Ministro, Paulo Jorge de Assunção Rodrigues Teixeira Pinto, Secretário de Estado da Presidência do Conselho de Ministros. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 ## ANEXO — Quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/296b00/70907092.pdf))](https://files.diariodarepublica.pt/1s/1993/12/296b00/70907092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/296b00/70907092.pdf)

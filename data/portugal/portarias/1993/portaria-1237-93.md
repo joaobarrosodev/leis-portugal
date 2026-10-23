@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/281b00/67396743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1237/1993/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1237-1993-551640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665d77fc1e3870868482b44d01648f45663acdf1bd7f9c92533cd1503fcb3bed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d14922c36f3ccec3d642154def45a7115dd19db42ae9aed3953f28e9d2def5c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Pensões
-- Suplemento de Pensão a Grandes Inválidos
-- Trabalhador Rural
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensionista
@@ -78,11 +76,19 @@ subjects:
 - Regime não Contributivo da Segurança Social
 - Segurança Social
 - Subsídio por Assistência de Terceira Pessoa
+- Suplemento de Pensão a Grandes Inválidos
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:554644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554644:por
+  label: "Substituída a tabela e revogado o presente diploma, pela PORT.1066/94.05.12.1994.MESS, DR.IS-B [280] de 05.12.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1066-1994-554644
+  date: '1994-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
   label: null
@@ -95,16 +101,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1080/1992/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1080/1992/11/24/p/dre
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287836:por
+  label: "Rectificados os n.ºs 1 e 2 do n.º 11.º, os n.ºs 12.º, 17.º, 23.º e alínea a) do n.º 1 do n.º 19.º, pela DECL-RECT.8/94.31.01.1994.PCM,\
+    \ DR.IS-B [25]2ºSupl de 31.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-1994-287836
+  date: '1994-01-31'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:46:31Z'
   warnings: []
   errors: []
 ---
@@ -311,10 +347,10 @@ Revogação
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 19 de Novembro de 1993.**
+Assinada em 19 de Novembro de 1993.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 TABELA ANEXA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/281b00/67396743.pdf))](https://files.diariodarepublica.pt/1s/1993/12/281b00/67396743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/281b00/67396743.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/351/1993/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-1993-643569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dca388762c4c744e1155fbaa549df505d52dddf55b16b3465bd0904b89b0d969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 662db8e1ee29e516ebf34a6e3b48aca23e244735032f940093bb1c449bbb1e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
+- Comércio
 - Denominação de Origem
 - Instituto da Vinha e do Vinho
-- Comércio
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491949:por
+  label: "Alterado o nº 8º pela PORT.1066/2003.2003.09.26.MADRP DR.IS-B [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1066-2003-491949
+  date: '2003-09-26'
 - type: cites
   target: celex:31987R0822
   label: null
@@ -87,16 +92,27 @@ relationships:
   target: celex:31990R3201
   label: null
   source: http://data.europa.eu/eli/reg/1990/3201/oj
+- type: repealed_by
+  target: pt:dre:357359:por
+  label: "Revogado o nº 5 e os Anexos II e III, pela PORT.394/2001.2001.04.16.MADRP, DR.IS-B [89]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2001-357359
+  date: '2001-04-16'
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogada, na redacção da Port 1066/2003 de 26-Set, pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo\
+    \ transitoriamente em vigor até à publicação da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:58Z'
   warnings: []
   errors: []
 ---
@@ -191,11 +207,11 @@ b) As Portarias n.os 547/85 e 715/91, de 6 de Agosto e 22 de Julho, respectivame
 
 Ministério da Agricultura.
 
-**Assinada em 26 de Fevereiro de 1993.**
+Assinada em 26 de Fevereiro de 1993.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/070b00/14621464.pdf))](https://files.diariodarepublica.pt/1s/1993/03/070b00/14621464.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/070b00/14621464.pdf)
 
 ## ANEXO II — Castas brancas
 

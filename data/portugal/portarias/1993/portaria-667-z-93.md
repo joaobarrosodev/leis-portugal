@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 163/1993, 1º Suplemento, Série I-B de 1993-07-14
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3838-(22) a 3838-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/163b01/00220023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-z/1993/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-z-1993-402535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed3a37b14068e3d3391f754b51d9becbb0474ef691a7ea675d5882f3e9ff5ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04159822bf1dfae950a6d89ae694bbb69a9f202d47ec2065eb0f151400db613d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:439118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:322514:por
+  label: "Alterada pela PORT.346/99.1999.05.14.MADRP, DR.IS-B [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1999-322514
+  date: '1999-05-14'
+- type: amended_by
+  target: pt:dre:439118:por
+  label: "Extinta a zona de caça associativa de Leomil, concessionada pelo presente diploma, alterada pela Port 346/99, de\
+    \ 14-Maio (ora revogadas a partir de 09.11.2008) e concessionada, pelo período de 12 anos, a zona de caça turística da\
+    \ serra de Leomil, pela PORT.1250/2008.04.11.2008.MADRP, DR.IS [214] de 04.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1250-2008-439118
+  date: '2008-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:06:16Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +157,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Julho de 1993.**
+Assinada em 1 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/163b01/00220023.pdf))](https://files.diariodarepublica.pt/1s/1993/07/163b01/00220023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b01/00220023.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00900/0037200376.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/2018/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2018-114513610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de85a5535cf008380d5f47163424d48eb4b259e33ff2aed460700034756dc1b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c216b1f13f922a32911a974e0db247870c96e67bf966bb436a3a77ac51203d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate ao Terrorismo
+- Conselho da Europa
 - Convenção
-- Portugal
-- Terrorismo
 - Cooperação Internacional
 - Cooperação Judiciária
-- Conselho da Europa
-- RIGA
+- Crime
 - Letónia
+- Portugal
+- RIGA
+- Terrorismo
 relationships:
+- type: amended_by
+  target: pt:dre:114513609:por
+  label: Ratificado o Protocolo Adicional à Convenção do Conselho da Europa para a Prevenção do Terrorismo, pelo(a) Decreto
+    do Presidente da República n.º 7/2018 - Diário da República n.º 9/2018, Série I de 2018-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-2018-114513609
+  date: '2018-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/39/2013/04/03/p/dre
+- type: cites
+  target: pt:dre:259948:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:33Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +113,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de setembro de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ADDITIONAL PROTOCOL TO THE COUNCIL OF EUROPE CONVENTION ON THE PREVENTION OF TERRORISM
 
@@ -359,7 +369,7 @@ As palavras e expressões utilizadas no presente Protocolo serão interpretadas 
 
 ###### Artigo 14.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, a União Europeia e os Estados não-membros que tenham participado na elaboração do presente Protocolo, bem como qualquer Estado que tenha aderido ou tenha sido convidado a aderir ao presente Protocolo:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, a União Europeia e os Estados não-membros que tenham participado na elaboração do presente Protocolo, bem como qualquer Estado que tenha aderido ou tenha sido convidado a aderir ao presente Protocolo:
 
 a) De qualquer assinatura;
 
@@ -374,3 +384,5 @@ d) De qualquer outro ato, declaração, notificação ou comunicação relaciona
 Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Protocolo.
 
 Feito em Riga, a 22 de outubro de 2015, em francês e inglês, fazendo ambos os textos igualmente fé, num único exemplar, o qual deverá ser depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa deverá remeter uma cópia autenticada a cada um dos Estados membros do Conselho da Europa, à União Europeia, aos Estados não-membros que tenham participado na elaboração do presente Protocolo e a qualquer outro Estado convidado a aderir ao presente Protocolo.
+
+0012018

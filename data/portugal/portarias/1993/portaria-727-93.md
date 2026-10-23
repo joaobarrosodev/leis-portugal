@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/727/1993/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-1993-354346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d2331d0e75f9425a68f2e778765823d72070f678b8008ed0925cdafb638bcf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e54eb072872c60ceeb1a6e38f0f7a409679d200c82f3a5ab7a9b668b80e0a0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Departamento da Educação Basica
 - Departamento de Gestão de Recursos Educativos
 - Departamento de Programação e Gestão Financeira
 - Departamento do Ensino Superior
+- Direcção Regional de Educação
 - Doação
 - Inspecção Geral de Educação
-- Direcção Regional de Educação
+- Ministério da Educação
 - Prestação de Serviços
 - Receita Pública
 - Venda de Imóveis
@@ -82,16 +82,26 @@ relationships:
   target: pt:dre:505783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505783:por
+  label: "Eliminada a referência ao Departamento de Programação e Gestão Financeira nos num 1 e 3 pelo Dec Lei 47/97.1997.02.25.ME,\
+    \ DR.IS-A [47].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1997-505783
+  date: '1997-02-25'
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:29Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +138,6 @@ g) Os saldos das receitas consignadas.
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 9 de Junho de 1993.**
+Assinada em 9 de Junho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.

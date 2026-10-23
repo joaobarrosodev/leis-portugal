@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/316/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-1993-634676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36ce66ba7d38f903d77547a4f2b03500ec651330d640ce48a72166e0f72bc41a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5e658c5eaa4d6d8442766a7bb10f2cb601fac8d25fe3646ffb295a048c5cfd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1155/1991/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1155/1991/11/07/p/dre
+- type: cites
+  target: pt:dre:331575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562589:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:08Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 22 de Janeiro de 1993.**
+Assinada em 22 de Janeiro de 1993.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
@@ -119,7 +127,7 @@ Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto 
 
 O fluxo de dados transmitido em série encontra-se fraccionado em tramas de 728 bits, transmitidas sem intervalos entre si. É transmitida uma trama em cada milissegundo; a taxa binária total é, pois, de 728 kbits/s, composta como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 Na figura 1 mostram-se diagramas das estruturas de trama para sinais de som estéreo e mono. Os 720 bits que se seguem à palavra de alinhamento de trama formam uma estrutura idêntica ao primeiro nível protegido dos blocos de sinal de som em sistemas da família MAC/pacote após a compressão, por forma que a descodificação de sinais de som possa ser efectuada pelo mesmo tipo de descodificador usado nos sistemas MAC. Os primeiros 16 bits do bloco, que ainda não estão dedicados nos sistemas da família MAC/pacote, são usados como informação de controlo de sinal (ver secção 2.2.2) e como bits de dados adicionais (ver secção 2.2.3).
 
@@ -129,7 +137,7 @@ As estruturas de trama para serviços de dados usam a mesma palavra de alinhamen
 
 A intercalação é aplicada ao bloco de 704 bits que se segue à palavra de alinhamento de trama (PAT), bits de controlo e bits adicionais, por forma a minimizar o efeito de erros do tipo multibit. Os bits de cada trama são transmitidos na seguinte ordem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 O padrão de intercalação mostrado acima coloca os bits de dados que são adjacentes na da trama da figura 1, em posições afastadas pelo menos 16 períodos de relógio no fluxo de bits transmitido (i. e., pelo menos 15 bits ocorrem entre bits que são adjacentes na fig. 1).
 
@@ -183,7 +191,7 @@ TABELA N.º 1
 
 Aplicações do bloco de som/dados de 704 bits
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 2.2.3 - Dados adicionais:
 
@@ -253,7 +261,7 @@ Para além da sinalização da gama de codificação, o factor-de-escala assinal
 
 TABELA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 2.2.5.3 - Sinalização do factor-de-escala, nos bits de paridade, para sinais de som:
 
@@ -261,11 +269,11 @@ O factor-de-escala de 3 bits R(índice 2), R(índice 1) e R(índice 0) (ver tabe
 
 Quando um sinal de som estéreo está a ser transmitido, seja FE1 (ver nota 4) a palavra factor-de-escala R(índice 2A'), R(índice 1A) e R(índice 0A) associada com as amostras A e FE2 a palavra factor-de-escala R(índice 2B'), R(índice 1B) e R(índice 0B) associada com as amostras B. Se Pi é o bit de paridade da enésima amostra, então este é modificado para Pi' pela adição em módulo 2 de 1 bit de uma das palavras factor-de-escala de acordo com a seguinte relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 Quando um sinal de som estéreo está a ser transmitido, seja FE1 a palavra factor-de-escala R(índice 2n'), R(índice 1n) e R(índice 0n) associada com o primeiro bloco de 32 amostras da trama e FE2 a palavra factor-de-escala R(índice 2n + 1'), R(índice 1n + 1) e R(índice 0n + 1) associada com o segundo bloco de 32 amostras na trama. Tal como no caso do som estéreo, o bit de paridade da enésima amostra (Pi) é modificado para (Pi') pela adição em módulo 2 de 1 bit de uma das palavras factor-de-escala. No entanto, a modificação dos bits de paridade no caso mono refere-se à estrutura de bloco do sinal mono como se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 Nota. - Alguma informação do factor-de-escala para o segundo bloco de amostras é transportada na codificação de paridade das amostras 28 a 32, que estão no primeiro bloco. Isto está de acordo com a codificação da especificação < 1 > da EBU.
 
@@ -277,7 +285,7 @@ A informação de controlo, tal como descrita na secção 6.2.3 de < 1 >, não �
 
 3.1 - Sinais analógicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 (nota 2) Os fabricantes de receptores deverão assumir uma atenuação de 6 dB.
 
@@ -285,7 +293,7 @@ A informação de controlo, tal como descrita na secção 6.2.3 de < 1 >, não �
 
 3.2 - Sinal digital:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 3.2.6 - Espectro transmitido e atraso de grupo diferencial para os sistemas B, G e H:
 
@@ -311,7 +319,7 @@ ii) Codificação das mudanças de fase transmitidas:
 
 Os valores das mudanças de fase da portadora que correspondem aos quatro valores possíveis dos pares de bits (A(índice n), B(índice n)) de entrada são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 Onde, como indicado na figura 6, A(índice n) é o bit de entrada num instante arbitrário e B(índice n) é o bit de entrada, à taxa binária, um período de relógio mais tarde.
 
@@ -323,8 +331,8 @@ No receptor, o fluxo de dados transmitido pode ser recuperado sem ambiguidade, d
 
 < 1 > European Broadcasting Union, 1986, «Specification of the systems of the MAC/packet family», doc. tech. 3258-L.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
 
 (nota 7) Modulação phase shift keying de quatro fases (DPSK), codificada diferencialmente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13421348.pdf)

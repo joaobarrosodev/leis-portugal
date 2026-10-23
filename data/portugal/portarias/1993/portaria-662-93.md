@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/662/1993/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-1993-390591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a976776c25a770f91bfb88548b7d1cad62d64eaffc7737f04017621829cc14be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7b124a2adc4193c278634da3de71ce8e0e80a5f05ca14322ca0f1b3f2bbeb64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
 - Cooperativa de Ensino
-- Plano de Estudos
 - Curso de Economia
 - Curso de Matemáticas Aplicadas
 - Ensino Superior
+- Plano de Estudos
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:673590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239987:por
+  label: "Alterado o plano de estudos do Curso de Matemáticas Aplicadas, pela PORT.912/98.1998.10.20.ME, DR.IS-B [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-1998-239987
+  date: '1998-10-20'
+- type: amended_by
+  target: pt:dre:344963:por
+  label: "Substituido o plano de estudos do curso de Economia autorizado pelo Desp 135/MEC/86, de 28-Jun DR.IIS [146]Supl,\
+    \ alterado pelo presente diploma, pela PORT.599/99.1999.08.02.ME DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1999-344963
+  date: '1999-08-02'
+- type: amended_by
+  target: pt:dre:673590:por
+  label: "Substituido o Plano de Estudos do Curso de Matemáticas Aplicadas, aprovado pelo presente diploma, na redacção da\
+    \ Port 912/98, de 20-Out, pela PORT.897/99.1999.10.11.ME DR.IS-B [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-1999-673590
+  date: '1999-10-11'
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:37Z'
   warnings: []
   errors: []
 ---
@@ -109,18 +138,18 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 16 de Junho de 1993.**
+Assinada em 16 de Junho de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Universidade Lusíada
 
 Curso de Economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf))](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)
 
 ## ANEXO II — Universidade Lusíada
 
 Curso de Matemáticas Aplicadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf))](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)

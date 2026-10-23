@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/14600/0256002565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/154/2016/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/154-2016-75069300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:44:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c513a145065202b39b32a86640a8503751dcd480b390ecbcbb9b14489dd7c26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26eaa9e0d7cc21aec1b1ed9ce07fa4073b6acb1e11db9b9403deeb992e141e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:44:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,49 +67,49 @@ reuse:
 subjects:
 - ACTO Extrajudicial
 - Aicep
-- Crime
+- Apoio ao Investimento
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade Tributária e Aduaneira
-- Financiamento
-- Empresa
+- Banco de Portugal
 - BEI
+- Branqueamento de Capitais
 - Código de Processo do Trabalho
 - Código do Processo Civil
+- Código Fiscal do Investimento
+- Combate ao Crime
+- Competitividade da Economia
+- Competitividade Empresarial
+- Corrupção
+- Crime
 - Desenvolvimento Rural
 - Educação
-- Corrupção
-- Combate ao Crime
-- Competitividade Empresarial
-- Internacionalização Empresarial
-- União Europeia
+- Educação Pré-escolar
+- Eficiência Energética
+- Emprego
+- Empresa
+- Energia
+- Financiamento
 - Fiscalização
-- IPSS
-- Banco de Portugal
-- Apoio ao Investimento
-- Branqueamento de Capitais
+- Fundação de Solidariedade Social
+- IAPMEI
 - Inclusão Digital
-- Competitividade da Economia
 - Instituição Financeira de Desenvolvimento
 - Insucesso Escolar
-- Fundação de Solidariedade Social
+- Internacionalização Empresarial
+- IPSS
 - Justiça
 - Pensão de Velhice
-- Política Social
-- Energia
-- Qualificação Profissional
-- Rendimento Social de Inserção
-- Emprego
 - PER
-- Recuperação de Empresas
-- Código Fiscal do Investimento
+- Política Social
+- PORTUGAL 2020
+- Qualificação Profissional
 - Recomendação
+- Recuperação de Empresas
 - Reestruturação de Empresas
+- Rendimento Social de Inserção
 - Segurança Social
 - Sistema de Incentivos a Economia Digital
-- IAPMEI
-- Eficiência Energética
-- Educação Pré-escolar
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
-- PORTUGAL 2020
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2014/10/31/p/dre
@@ -127,16 +127,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67664945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70497203:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:44:24Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +257,7 @@ o) Estimular o emprego de investigadores no tecido empresarial e o aumento da at
 
 p) Incentivar as empresas na procura de soluções tecnológicas avançadas, através da promoção do trabalho conjunto nas fases iniciais da resolução de necessidades entre as empresas, por um lado, e as instituições de ensino superior e as unidades de investigação nacionais, por outro;
 
-q) Apostar na I&D&I para o desenvolvimento de uma Economia Verde e uma Economia Azul, estimulando abordagens pluridisciplinares de I&D&I e projetos inovadores de consórcios entre empresas e instituições de I&D;
+q) Apostar na I&D&I para o desenvolvimento de uma Economia Verde e uma Economia Azul, estimulando abordagens pluridisciplinares de I&D&I e projetos inovadores de consórcios entre empresas e instituições de I&D
 
 r) Ter em consideração que a criação de um ecossistema favorável à inovação passa por intervir ao nível do ambiente operativo das empresas e dos empreendedores, desobstruindo-o e tornando-o favorável à assunção de novos desafios;
 
@@ -435,4 +451,4 @@ vi) Promover o custo-eficiente da mobilidade sustentável, incluindo a mobilidad
 
 Aprovada em 29 de abril de 2016.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

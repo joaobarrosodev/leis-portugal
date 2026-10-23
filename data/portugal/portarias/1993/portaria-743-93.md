@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/191b00/43594361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/743/1993/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-1993-330252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:08:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f56dc43b40914b8bf3d089593ded9dd64f0a1dc24a209f4b36cc035e724208f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71907491f7ca3afae9bd10a6daa3dd8f2eb63165de7e060ded5a48d81fdce42c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:08:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,36 @@ relationships:
   target: pt:dre:219569:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225453:por
+  label: "Alterado o n.º 3.º e o escalão A do anexo I do presente diploma, pela PORT.734/94.12.08.1994.MS, DR.IS-B [186] de\
+    \ 12.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/734-1994-225453
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:549199:por
+  label: "Alterado o n.º 3.º, na redacção da Portaria n.º 734/94, de 12 de Agosto, pela PORT.1063/94.02.12.1994.MS, DR.IS-B\
+    \ [278] de 02.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1063-1994-549199
+  date: '1994-12-02'
+- type: amended_by
+  target: pt:dre:474725:por
+  label: "Alterado o n.º 2.º e o escalão A do anexo I ao presente diploma (na redacção da Portaria n.º 734/94, de 12 de Agosto),\
+    \ pela PORT.706/95.03.07.1995.MS, DR.IS-B [151] de 03.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1995-474725
+  date: '1995-07-03'
+- type: amended_by
+  target: pt:dre:692045:por
+  label: "Alterada a redacção do escalão A do anexo I do presente diploma, com a redacção dada pela Port 706/95 de 03-Jul,\
+    \ pela PORT.982/99.1999.10.30.MS, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/982-1999-692045
+  date: '1999-10-30'
+- type: amended_by
+  target: pt:dre:332036:por
+  label: "Alterados os escalões A e B do anexo I, o grupo II do escalão C e do anexo I e o nº 2º pela PORT.543/2001.2001.05.30.MS,DR.IS-B\
+    \ [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/543-2001-332036
+  date: '2001-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre
   label: null
@@ -83,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/839/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/839/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411103:por
+  label: "Revogado o nº 3º, com a redacção dada pela Port 1063/94 de 02-Dez, pela PORT.469-A/2003.2003.06.09.MS DR.IS-B [133]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-a-2003-411103
+  date: '2003-06-09'
+- type: repealed_by
+  target: pt:dre:219569:por
+  label: "Revogado o presente diploma, com a redacção dada pelas Port 734/94 de 12-Ago, 1063/94 de 02-Dez, 706/95 de 03-Jul\
+    \ e 543/2001 de 30-Mai, pela Port.1474/2004.21.12.2004.MS, DR.IS-B [297] de 21.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1474-2004-219569
+  date: '2004-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:08:57Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +183,7 @@ b) Medicamentos prescritos e fornecidos pelas unidades oficiais de cuidados de s
 
 Ministério da Saúde.
 
-**Assinada em 21 de Junho de 1993.**
+Assinada em 21 de Junho de 1993.
 
 Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 

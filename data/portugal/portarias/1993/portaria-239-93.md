@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1993, 1º Suplemento, Série I-B de 1993-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 862-(4) a 862-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/1993/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-1993-485582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06bfd4a413f8b273e91cddf97eba355b3f44cb2b0891bba670740241464cfb2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33135d88c4a198547d65e3c7b980551c262a1adccee1c4ade72700ecda4465ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração dos Portos de Setúbal e Sesimbra
 - Embarcação
-- Administração de Portos
-- Setúbal
 - Portos
 - Sesimbra
+- Setúbal
 - Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 12.º, 14.º, 15.º, 16.º e 23.º do Regulamento, aprovado pela Portaria 1154/90, de 23 de Novembro,\
+    \ na redacção do presente diploma, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26]Supl de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/303/1992/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/303/1992/04/03/p/dre
+- type: cites
+  target: pt:dre:192601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada, pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 7
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:18Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +249,7 @@ Trimestral - 17$50.
 
 1 - As taxas de porto a cobrar são as seguintes, por cada tonelada de mercadoria movimentada, de acordo com o n.º 2 do artigo 21.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf)
 
 a) As mercadorias de tráfego fluvial e local pagarão a taxa de porto, que é de 17$00/t.
 
@@ -235,7 +259,7 @@ c) Para as mercadorias destinadas a gastos de bordo, designadamente mantimentos,
 
 2 - As taxas de porto a cobrar por cada veículo automóvel ou atrelado são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b01/00040006.pdf)
 
 3 - ...
 
@@ -265,6 +289,6 @@ b) São suprimidas as classes 86.09 do grupo III e 87.16 do grupo V;
 
 Ministério do Mar.
 
-**Assinada em 16 de Fevereiro de 1993.**
+Assinada em 16 de Fevereiro de 1993.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Sores.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Sores.

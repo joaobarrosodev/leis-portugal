@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1188/1993/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1188-1993-690181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63269ffe21c920dd9e3ddaf7b202a3b955e6be89c51d6aeedb1cd562953d1721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 241fe5b070cd263dd045939594837eecebe5ffc9e2216aacfa771945914461c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Línguas e Secretariado
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Contabilidade e Administração
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
@@ -82,16 +82,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/916/1991/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/916/1991/09/04/p/dre
+- type: cites
+  target: pt:dre:227061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592743:por
+  label: "Revogada pela PORT.1127/2000.2000.11.28.ME DR.IS-B [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2000-592743
+  date: '2000-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:16Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +161,8 @@ A alteração aprovada pela presente portaria entrará em funcionamento nos term
 
 Ministério da Educação.
 
-**Assinada em 11 de Outubro de 1993.**
+Assinada em 11 de Outubro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63426343.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63426343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63426343.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/607/1993/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/607-1993-374852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68cf914a953808336775ebc2f20605db658a991c46b3b0555b0cd7cecd3035cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d89a731b2b81bf5cf14f4cc38c8d3a794d27dfe47bcfac16bc75bf73d5e00f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:689022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOÃO PELA PORT 1356/95 DE 16-NOV DR.IS-B [265]\0B [265]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/31/1991/01/14/p/dre
   label: null
@@ -86,16 +91,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:177175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:11Z'
   warnings: []
   errors: []
 ---
@@ -116,10 +201,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 21 de Maio de 1993.**
+Assinada em 21 de Maio de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital de São João
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303530.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303530.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303530.pdf)

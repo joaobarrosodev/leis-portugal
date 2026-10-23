@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/1993/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-1993-647679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8009485259cc468b129148d8e5cad621e2fe0561da3f595ca92950ee426bd5e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb298e4734b24bb160f41f28b1d663bddbe9f6e4b16f04595b5af0c5191d2dc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Hospital Distrital
 - Zona de Proteção
-- Cascais
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:52Z'
   warnings: []
   errors: []
 ---
@@ -105,8 +121,8 @@ Assim, nos termos do disposto no [Decreto-Lei n.º 34993](https://diariodarepubl
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 12 de Dezembro de 1992.**
+Assinada em 12 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/031b00/04990500.pdf))](https://files.diariodarepublica.pt/1s/1993/02/031b00/04990500.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/031b00/04990500.pdf)

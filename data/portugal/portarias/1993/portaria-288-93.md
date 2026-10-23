@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/1993/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1993-635599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4fb547992b334d4599750ecc0a22de695e4f564ffae37fa06064b99d4705944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a547f87dd6636408f69c8d51e6740629a7accd2661c9920c16eae988f258bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Oficial de Justiça
-- Tribunal do Trabalho
-- Tribunal Cível
-- Tribunal de Comarca
 - Quadro de Pessoal
 - Secretaria Judicial
+- Tribunal Cível
 - Tribunal de Círculo
+- Tribunal de Comarca
+- Tribunal do Trabalho
 - Tribunal Marítimo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:28Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +122,7 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 376/87](http
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 10 de Fevereiro de 1993.**
+Assinada em 10 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
 
@@ -118,7 +130,7 @@ MAPA ANEXO
 
 Serviços do Ministério Público da comarca de Albufeira
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -132,7 +144,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal do Trabalho de Braga
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -148,7 +160,7 @@ Escriturário judicial ... 5
 
 Serviços do Ministério Público da comarca de Castelo Branco
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -164,7 +176,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Círculo e de Comarca de Chaves
 
-#### Secção central e três secções de processos, sendo uma afecta ao Tribunal de Círculo:
+Secção central e três secções de processos, sendo uma afecta ao Tribunal de Círculo:
 
 Pessoal:
 
@@ -184,7 +196,7 @@ Motorista de ligeiros ... 1
 
 Tribunal do Trabalho da Covilhã
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -200,7 +212,7 @@ Escriturário judicial ... 2
 
 Tribunal do Trabalho de Faro
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -224,7 +236,7 @@ Técnico de justiça auxiliar ... 2
 
 Serviços do Ministério Público da comarca do Funchal
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -242,7 +254,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal do Trabalho de Lisboa
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -258,7 +270,7 @@ Escriturário judicial ... 7
 
 Tribunal Marítimo de Lisboa
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -288,7 +300,7 @@ Tribunais do trabalho
 
 Juízos criminais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -302,7 +314,7 @@ Técnico de justiça auxiliar ... 5
 
 Juízos correccionais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -316,7 +328,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunais de polícia e de execução das penas
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -332,7 +344,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de instrução criminal
 
-#### Secção central e 12 secções de processos:
+Secção central e 12 secções de processos:
 
 Pessoal:
 
@@ -444,7 +456,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal da Comarca da Moita
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -460,7 +472,7 @@ Escriturário judicial ... 5
 
 Serviços do Ministério Público da comarca de Pombal
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -474,7 +486,7 @@ Técnico de justiça auxiliar ... 2
 
 Serviços do Ministério Público da comarca de Ponta Delgada
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -490,7 +502,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal da Comarca de Ponte de Sor
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -508,7 +520,7 @@ Oficial porteiro ... 1
 
 Tribunal do Trabalho de Santarém
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -524,7 +536,7 @@ Escriturário judicial ... 3
 
 Serviços do Ministério Público da comarca de Santarém
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -540,7 +552,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal da Comarca da Sertã
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -556,7 +568,7 @@ Escriturário judicial ... 3
 
 Serviços do Ministério Público da comarca de Vila Franca de Xira
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 

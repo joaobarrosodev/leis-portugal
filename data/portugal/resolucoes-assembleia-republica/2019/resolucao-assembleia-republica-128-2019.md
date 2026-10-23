@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14500/0003600047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/128/2019/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2019-123610182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b8a3fdcdeb9001400aaede3407de86b085cf16ccb01ce07ee6a0aec6c045186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ab6aefa4df065db6c197ae2cab971eaf9f12033bd7cdcf5364b3b1786cf0b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Convenção
-- Portugal
-- Direitos Aduaneiros
-- Contribuições e Impostos
-- Dados Estatísticos
 - Angola
+- Aviação Civil
+- Contribuições e Impostos
+- Convenção
+- Dados Estatísticos
+- Direitos Aduaneiros
 - Luanda
 - Operador de Transporte Aéreo
+- Portugal
 - Preço
-- Aviação Civil
 - Segurança Aérea
 - Segurança da Navegação
 - TAXA de Utilização
-relationships: []
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:123610179:por
+  label: Ratificado o Acordo sobre Transporte Aéreo entre a República Portuguesa e a República de Angola pelo(a) Decreto do
+    Presidente da República n.º 44/2019 - Diário da República n.º 145/2019, Série I de 2019-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/44-2019-123610179
+  date: '2019-07-31'
 article_structure:
   article_count: 23
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:01:38Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de maio de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO SOBRE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE ANGOLA
 
@@ -421,7 +427,9 @@ Pela República de Angola:
 
 Ricardo Daniel Sandão Queirós Viegas de Abreu, Ministro dos Transportes.
 
-## ANEXO — Secção 1
+## ANEXO
+
+#### Secção 1
 
 Rotas a serem operadas em ambos os sentidos pela empresa designada da República Portuguesa:
 
@@ -440,3 +448,5 @@ Notas
 2 - A empresa designada de cada Parte pode selecionar quaisquer pontos aquém, intermédios e/ou além à sua própria escolha e pode mudar a sua seleção na estação seguinte na condição de que não sejam exercidos direitos de tráfego entre aqueles pontos e o território da outra Parte.
 
 3 - O exercício dos direitos de tráfego de quinta liberdade nos pontos aquém, intermédios e/ou além especificados será objeto de acordo entre as Autoridades Aeronáuticas de ambas as Partes.
+
+132019

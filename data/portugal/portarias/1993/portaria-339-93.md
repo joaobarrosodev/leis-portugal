@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/339/1993/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1993-637687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16d469c5a801f239a7bbacb5406302e5ac1f10ded5bc343510693a488d2437c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de5bbb80b1e955b29d748766ffd22bb97a3521cb9412efdeb0044708917fe51b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Centro Regional de Segurança Social
 - Criação de Serviços
-- Setúbal
 - Quadro de Pessoal
 - Regulamento
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:668726:por
@@ -84,16 +84,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/345-g/1992/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/345-g/1992/04/14/p/dre
+- type: cites
+  target: pt:dre:156854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663490:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:53:38Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +178,9 @@ h) Os serviços locais;
 
 2.º É aditado o artigo 15.º-B ao Regulamento do Centro:
 
-###### Artigo 15.º-B — Divisão de Contra-Ordenações
+###### Artigo 15.º-B
+
+##### Divisão de Contra-Ordenações
 
 Compete à Divisão de Contra-Ordenações:
 
@@ -170,10 +212,10 @@ l) Recolher e tratar os necessários dados estatísticos.
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 12 de Fevereiro de 1993.**
+Assinada em 12 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa anexo à Portaria n.º 339/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/068b00/14191420.pdf))](https://files.diariodarepublica.pt/1s/1993/03/068b00/14191420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/068b00/14191420.pdf)

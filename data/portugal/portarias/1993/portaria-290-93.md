@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/290/1993/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/290-1993-635595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a3b3ec027d07143c192134943158154a7ba9e4783761f45de46f16d2c888e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac0c156ba2f196c6d3fc7e536dcab74852acdaaa9bb74a04816c53d2269eeee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,23 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406573:por
+  label: "Alterado o quadro de pessoal, e extingue o lugar previsto de dietética da carreira técnica de diagnóstico e terapêutica\
+    \ pela PORT.381/96.20.08.1996.PCM, DR.IS-B [192] de 20.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-1996-406573
+  date: '1996-08-20'
+- type: amended_by
+  target: pt:dre:239996:por
+  label: "Alterado o quadro de pessoal pela PORT.26/98.1998.01.14.PCM, MF E MS DR.IS-B [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-1998-239996
+  date: '1998-01-14'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de São João de Deus aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/392/1991/05/09/p/dre
   label: null
@@ -86,16 +103,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654556:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:52:33Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +179,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Fevereiro de 1993.**
+Assinada em 1 de Fevereiro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital Distrital de Vila Nova de Famalicão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/061b00/11851189.pdf))](https://files.diariodarepublica.pt/1s/1993/03/061b00/11851189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/061b00/11851189.pdf)

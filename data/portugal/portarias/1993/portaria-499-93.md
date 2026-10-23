@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/499/1993/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1993-275616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a90d2a14b6b85bbe287183f1460d12dccdbc184213cd9f9adbf5d3a6a9638c3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba959733b1150e9f9d37e9bcd4c6ba6febcfca4d6cf48ecc3be0fe72bb6b7aac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Ave de Capoeira
 - CEE
 - Controlo Sanitário
-- Saúde Pública
-- Ave de Capoeira
+- Doença Animal
 - Medidas Preventivas
 - Política Agrícola Comum
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:519614:por
@@ -98,16 +98,21 @@ relationships:
   target: celex:31992L0040
   label: null
   source: http://data.europa.eu/eli/dir/1992/40/oj
+- type: repealed_by
+  target: pt:dre:519614:por
+  label: "Revogada pelo DEC LEI.110/2007.16.04.2007.MADRP, DR.IS [74] de 16.04.2007, sem prejuízo do art. 72º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2007-519614
+  date: '2007-04-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:24Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +135,7 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Março de 1993.**
+Assinada em 12 de Março de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -138,9 +143,9 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 Regulamento da Aplicação de Medidas de Controlo da Gripe Aviária em Aves de Capoeira
 
-###### Artigo 1.º Sem prejuízo do disposto na lei para o comércio intracomunitário de aves de capoeira, o presente Regulamento define as medidas de controlo a aplicar em caso de aparecimento de um foco de gripe aviária nas aves de capoeira.
+Artigo 1.º Sem prejuízo do disposto na lei para o comércio intracomunitário de aves de capoeira, o presente Regulamento define as medidas de controlo a aplicar em caso de aparecimento de um foco de gripe aviária nas aves de capoeira.
 
-###### Art. 2.º Para efeitos do presente Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho, de 15 de Outubro, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros e, ainda, as seguintes:
+Art. 2.º Para efeitos do presente Regulamento, são aplicáveis as definições constantes do artigo 2.º da Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho, de 15 de Outubro, relativa às condições de polícia sanitária que regem o comércio intracomunitário e as importações de aves de capoeira e de ovos para incubação provenientes de países terceiros e, ainda, as seguintes:
 
 a) «Ave de capoeira infectada»: qualquer ave de capoeira:
 
@@ -156,9 +161,9 @@ d) «Autoridade competente»: o Instituto de Protecção da Produção Agro-Alim
 
 e) «Veterinário oficial»: o veterinário designado pela autoridade competente.
 
-###### Art. 3.º Qualquer suspeita de doença de gripe aviária deverá ser obrigatória e imediatamente notificada à autoridade competente pelo proprietário ou criador dos animais.
+Art. 3.º Qualquer suspeita de doença de gripe aviária deverá ser obrigatória e imediatamente notificada à autoridade competente pelo proprietário ou criador dos animais.
 
-###### Art. 4.º - 1 - Quando numa exploração existam aves de capoeira suspeitas de estarem infectadas pela gripe aviária, o veterinário oficial utilizará imediatamente os meios de investigação oficiais para confirmar ou infirmar a presença da referida doença, nomeadamente procedendo ou mandando proceder à colheita de amostras necessárias aos exames laboratoriais.
+Art. 4.º - 1 - Quando numa exploração existam aves de capoeira suspeitas de estarem infectadas pela gripe aviária, o veterinário oficial utilizará imediatamente os meios de investigação oficiais para confirmar ou infirmar a presença da referida doença, nomeadamente procedendo ou mandando proceder à colheita de amostras necessárias aos exames laboratoriais.
 
 2 - Logo após a notificação da suspeita, a autoridade competente mandará colocar a exploração sob vigilância oficial e exigirá, nomeadamente, que:
 
@@ -186,7 +191,7 @@ g) Seja realizado um inquérito epizootiológico em conformidade com o artigo 7.
 
 5 - As medidas referidas nos n.os 1 e 2 só serão levantadas quando a suspeita da presença da gripe aviária for infirmada pelo veterinário oficial.
 
-###### Art. 5.º - 1 - Quando a presença da gripe aviária seja oficialmente confirmada numa exploração, a autoridade competente exigirá, em complemento das medidas enumeradas no n.º 2 do artigo anterior, a execução das seguintes medidas:
+Art. 5.º - 1 - Quando a presença da gripe aviária seja oficialmente confirmada numa exploração, a autoridade competente exigirá, em complemento das medidas enumeradas no n.º 2 do artigo anterior, a execução das seguintes medidas:
 
 a) Abate imediato, no local, de todas as aves de capoeira presentes na exploração, devendo as aves de capoeira que tenham morrido ou sido abatidas, bem como os ovos, ser destruídos, sendo estas operações efectuadas de modo a reduzir ao mínimo o risco de propagação da doença;
 
@@ -204,9 +209,9 @@ g) A realização de um inquérito epidemiológico em conformidade com o artigo 
 
 2 - As medidas previstas no número anterior podem ser aplicadas a outras explorações caso a sua implantação, configuração do local ou contactos com a exploração permitam suspeitar de uma eventual contaminação.
 
-###### Art. 6.º Nas explorações com dois ou mais bandos distintos, a autoridade competente pode, com base em critérios estabelecidos comunitariamente, prever derrogações ao disposto no n.º 1 do artigo anterior no que respeita aos bandos saudáveis de uma exploração infectada, desde que o veterinário oficial tenha confirmado que as operações aí ocorridas são de molde a manter os bandos completamente separados no que diz respeito ao alojamento, tratamento e alimentação, de tal modo que o vírus não possa propagar-se de um bando para outro.
+Art. 6.º Nas explorações com dois ou mais bandos distintos, a autoridade competente pode, com base em critérios estabelecidos comunitariamente, prever derrogações ao disposto no n.º 1 do artigo anterior no que respeita aos bandos saudáveis de uma exploração infectada, desde que o veterinário oficial tenha confirmado que as operações aí ocorridas são de molde a manter os bandos completamente separados no que diz respeito ao alojamento, tratamento e alimentação, de tal modo que o vírus não possa propagar-se de um bando para outro.
 
-###### Art. 7.º - 1 - O inquérito epidemiológico abrangerá:
+Art. 7.º - 1 - O inquérito epidemiológico abrangerá:
 
 a) A duração do período durante o qual a gripe aviária pode ter existido na exploração;
 
@@ -216,7 +221,7 @@ c) A circulação de pessoas, aves de capoeira ou outros animais, veículos, ovo
 
 2 - Será estabelecida uma célula de crise, a fim de garantir a coordenação das medidas necessárias para assegurar, no mais breve prazo, a erradicação da gripe aviária e para efeitos de realização do inquérito epizootiológico.
 
-###### Art. 8.º - 1 - Quando o veterinário oficial suspeite que, numa exploração, existem aves da capoeira que podem ter sido contaminadas devido à circulação de pessoas, animais ou veículos ou por qualquer outro meio, essa exploração será colocada sob controlo oficial.
+Art. 8.º - 1 - Quando o veterinário oficial suspeite que, numa exploração, existem aves da capoeira que podem ter sido contaminadas devido à circulação de pessoas, animais ou veículos ou por qualquer outro meio, essa exploração será colocada sob controlo oficial.
 
 2 - O controlo oficial referido no número anterior tem como objectivo detectar qualquer suspeita de gripe aviária, proceder ao recenseamento e ao controlo dos movimentos de aves de capoeira, bem como, se for caso disso, executar a acção prevista no número seguinte.
 
@@ -226,7 +231,7 @@ c) A circulação de pessoas, aves de capoeira ou outros animais, veículos, ovo
 
 5 - A autoridade competente, quando considerar que as condições o permitem, pode limitar as medidas previstas no presente artigo a uma parte da exploração e às aves de capoeira que aí se encontram, desde que essas aves tenham sido alojadas, tratadas e alimentadas de modo totalmente separado e por um pessoal distinto.
 
-###### Art. 9.º - 1 - Logo que o diagnóstico da gripe aviária seja oficialmente confirmado, a autoridade competente delimitará, em redor da exploração infectada, uma zona considerada infectada que inclua uma zona de protecção com um raio mínimo de 3 km, dentro de uma zona de vigilância com um raio mínimo de 10 km, devendo a delimitação dessas zonas ter em conta os factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a gripe aviária e as estruturas de controlo.
+Art. 9.º - 1 - Logo que o diagnóstico da gripe aviária seja oficialmente confirmado, a autoridade competente delimitará, em redor da exploração infectada, uma zona considerada infectada que inclua uma zona de protecção com um raio mínimo de 3 km, dentro de uma zona de vigilância com um raio mínimo de 10 km, devendo a delimitação dessas zonas ter em conta os factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a gripe aviária e as estruturas de controlo.
 
 2 - As medidas aplicadas na zona de protecção incluirão:
 
@@ -276,23 +281,23 @@ g) Sem prejuízo do disposto nas alíneas a) e b), a proibição do transporte d
 
 7 - Caso as zonas referidas nos números anteriores se situem no território de vários Estados membros, as zonas de protecção e vigilância serão delimitadas conjuntamente pelas respectivas autoridades competentes.
 
-###### Art. 10.º - 1 - A autoridade competente fixará as regras que lhe permitirão determinar a circulação dos ovos e das aves de capoeira.
+Art. 10.º - 1 - A autoridade competente fixará as regras que lhe permitirão determinar a circulação dos ovos e das aves de capoeira.
 
 2 - O proprietário ou o responsável pelas aves de capoeira deve apresentar à autoridade competente, sempre que esta o solicite, as informações relativas às aves de capoeira e aos ovos que entrem ou saiam da sua exploração.
 
 3 - Qualquer pessoa que proceda ao transporte ou ao comércio de aves de capoeira e de ovos deve apresentar à autoridade competente as informações relativas aos movimentos das aves de capoeira e dos ovos que transportou ou comercializou e fornecer todos os pormenores relativos a essas informações.
 
-###### Art. 11.º - 1 - Os desinfectantes a utilizar, bem como as suas concentrações, serão oficialmente aprovados pela autoridade competente.
+Art. 11.º - 1 - Os desinfectantes a utilizar, bem como as suas concentrações, serão oficialmente aprovados pela autoridade competente.
 
 2 - As operações de limpeza e desinfecção serão efectuadas nos termos do anexo II, de acordo com as instruções do veterinário oficial.
 
-###### Art. 12.º As colheitas de amostras e os exames laboratoriais destinados a detectar a presença do vírus da gripe aviária devem ser efectuados em conformidade com o anexo III.
+Art. 12.º As colheitas de amostras e os exames laboratoriais destinados a detectar a presença do vírus da gripe aviária devem ser efectuados em conformidade com o anexo III.
 
-###### Art. 13.º - 1 - O laboratório comunitário de referência para a gripe aviária é o indicado no anexo IV, sendo as suas competências e obrigações, sem prejuízo do disposto na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt), nomeadamente no seu artigo 28.º, as indicadas no referido anexo.
+Art. 13.º - 1 - O laboratório comunitário de referência para a gripe aviária é o indicado no anexo IV, sendo as suas competências e obrigações, sem prejuízo do disposto na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt), nomeadamente no seu artigo 28.º, as indicadas no referido anexo.
 
 2 - Os laboratórios nacionais dos Estados membros, competentes em matéria de gripe aviária, são os enumerados no anexo V e assegurarão a ligação com o laboratório comunitário de referência previsto no número anterior.
 
-###### Art. 14.º A vacinação contra a gripe aviária por meio de vacinas autorizadas pela autoridade competente só pode ser praticada em complemento das medidas de controlo tomadas aquando do aparecimento da doença e em conformidade com as disposições comunitárias sobre a matéria.
+Art. 14.º A vacinação contra a gripe aviária por meio de vacinas autorizadas pela autoridade competente só pode ser praticada em complemento das medidas de controlo tomadas aquando do aparecimento da doença e em conformidade com as disposições comunitárias sobre a matéria.
 
 ## ANEXO I — Autorização para saída de ovos de uma exploração sujeita às condições do n.º 2, alínea e), do artigo 4.º
 
@@ -490,7 +495,7 @@ Técnica
 
 5 - Neste exemplo são indicados resultados registados e o índice calculado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf))](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
 
 Índice = resultado médio por ave e por observação = 246/100 = 2,46.
 
@@ -558,7 +563,7 @@ Institut National de Recherches Vétérinaires, Groeselenberg 99, B-1180 Bruxell
 
 Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf))](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
 
 Alemanha:
 
@@ -570,7 +575,7 @@ Centre National d'Études Vétérinaires et Alimentaires - Laboratoire Central d
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf))](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/110b00/25062512.pdf)
 
 Irlanda:
 

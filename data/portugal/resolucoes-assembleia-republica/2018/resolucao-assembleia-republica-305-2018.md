@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21700/0518805211.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/305/2018/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/305-2018-116936931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d13ac4c54b80d2fc79e5ac729ef64ff79247282203fff1372756386f4516f45d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c0acd36dec94f4ced301d518969ae8ee908f13d52a4e19fd4fdc8311e5e3353
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho da Europa
+- Contrafacção
 - Convenção
+- Medicamento
+- Moscovo
 - Portugal
 - Saúde Pública
-- Medicamento
-- Contrafacção
-- Moscovo
-- Conselho da Europa
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:116936930:por
+  label: Ratificada a Convenção do Conselho da Europa Relativa à Contrafação de Medicamentos e Infrações Semelhantes que Envolvam
+    Ameaças à Saúde Pública aprovada pelo presente diploma pelo(a) Decreto do Presidente da República n.º 80/2018 - Diário
+    da República n.º 217/2018, Série I de 2018-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/80-2018-116936930
+  date: '2018-11-12'
 article_structure:
   article_count: 33
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:59:08Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de março de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 COUNCIL OF EUROPE CONVENTION ON THE COUNTERFEITING OF MEDICAL PRODUCTS AND SIMILAR CRIMES INVOLVING THREATS TO PUBLIC HEALTH (*)
 
@@ -1596,7 +1603,7 @@ O Comité das Partes acompanha a aplicação da presente Convenção em estreita
 
 ###### Artigo 33.º — Notificação
 
-**O Secretário-Geral do Conselho da Europa notificará as Partes, os Estados membros do Conselho da Europa, os Estados não membros que tenham participado na elaboração da presente Convenção ou que beneficiem do estatuto de observador junto do Conselho da Europa, a União Europeia e qualquer Estado que tenha sido convidado a assinar a presente Convenção nos termos do artigo 28.º de:**
+O Secretário-Geral do Conselho da Europa notificará as Partes, os Estados membros do Conselho da Europa, os Estados não membros que tenham participado na elaboração da presente Convenção ou que beneficiem do estatuto de observador junto do Conselho da Europa, a União Europeia e qualquer Estado que tenha sido convidado a assinar a presente Convenção nos termos do artigo 28.º de:
 
 a) Qualquer assinatura;
 
@@ -1617,3 +1624,5 @@ g) Qualquer outro ato, notificação ou comunicação relativos à presente Conv
 Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assinaram a presente Convenção.
 
 Feito em Moscovo, a 28 de outubro de 2011, nas línguas francesa e inglesa, fazendo ambos os textos igualmente fé, num único exemplar que será depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa remeterá uma cópia autenticada a cada um dos Estados membros do Conselho da Europa, aos Estados não membros que tenham participado na elaboração da presente Convenção ou que beneficiem do estatuto de observadores junto do Conselho da Europa, à União Europeia e a qualquer Estado convidado a assinar a presente Convenção.
+
+162018

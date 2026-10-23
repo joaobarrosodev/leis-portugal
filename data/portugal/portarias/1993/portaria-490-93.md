@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/490/1993/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-1993-274455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb34a2275e4ff7672d36c5c50325f20a921c99c16d6a6999295066b437d44644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4d93e306a56d1fadf3ca49498b3f81155dc0bf5aff8e714487ebeea4b77161
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,47 @@ subjects:
 - Quadro de Pessoal
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICCAO 98/93, PUBLICADA NO DR.IS-B, 126, 4 SUPL, DE 930531.\0531.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:693792:por
   label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:344773:por
+  label: "Alterado o quadro de pessoal do Centro Regional de Alcoologia de Lisboa pela PORT.497/2001.2001.05.14.MF,DR.IS-B\
+    \ [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/497-2001-344773
+  date: '2001-05-14'
+- type: amended_by
+  target: pt:dre:693792:por
+  label: "Alterado o quadro de pessoal, na redacção da Port 497/2001 de 14-Mai pela PORT.503/2003.2003.06.26.MF, DR.IS-B [145]\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-2003-693792
+  date: '2003-06-26'
+- type: cites
+  target: pt:dre:357772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
   source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:57:14Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +137,6 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Abril de 1993.**
+Assinada em 2 de Abril de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.

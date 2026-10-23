@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 12/1993, 1º Suplemento, Série I-B de 1993-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 140-(11) a 140-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62-b/1993/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-b-1993-449959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10b1584369c439b0aeca6aa7e89e5128ba9da688b437139bc11842350250de03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cff9b3e8e3799c33c2845f9b406e23ebafcb404735ecc1f42449fe8167a69b32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,22 @@ relationships:
   target: celex:31984L0526
   label: null
   source: http://data.europa.eu/eli/dir/1984/526/oj
+- type: repealed_by
+  target: pt:dre:254667:por
+  label: "Revogada, com excepção do nº 1 do nº 1 e das partes 1 a 3 do Anexo I pelo DEC LEI.41/2002.2002.02.28.MES, DR.IS-A\
+    \ [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2002-254667
+  date: '2002-02-28'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:32Z'
   warnings: []
   errors: []
 ---
@@ -173,9 +179,9 @@ Este diploma entra em vigor 90 dias após a sua publicação no Diário da Repú
 
 Ministério da Indústria e Energia.
 
-**Assinada em 11 de Janeiro de 1993.**
+Assinada em 11 de Janeiro de 1993.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I
 
@@ -225,11 +231,11 @@ c) Qualquer outra liga de alumínio pode ser utilizada para o fabrico, com a con
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 2.1.3 - O fabricante de garrafas deve obter e fornecer certificados de análise de fundição do material utilizado para o fabrico das garrafas.
 
@@ -287,7 +293,7 @@ Taxa de estiramento da parte mais estirada com a tolerância de (mais ou menos) 
 
 2.2.1 - A espessura da parte cilíndrica das garrafas para gás não deve ser inferior à calculada por meio da seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 2.2.2 - A espessura mínima da parede não pode, em qualquer caso, ser inferior a D/100 + 1,5 mm.
 
@@ -363,7 +369,7 @@ O provete não deve fissurar quando, durante a dobragem em torno do mandril, os 
 
 A relação n entre o diâmetro do mandril e a espessura do provete não deve ultrapassar os valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 3.2 - Ensaio de rotura sob pressão hidráulica:
 
@@ -423,7 +429,7 @@ A pressão inferior do ciclo não deve exceder 10% da pressão superior do mesmo
 
 O número de ciclos a atingir e a frequência máxima do ensaio são indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 A temperatura medida na parede externa da garrafa não deve exceder 50ºC no decurso do ensaio.
 
@@ -585,7 +591,7 @@ A letra maiúscula «P» (Portugal) e os dois últimos algarismos do milésimo d
 
 O número característico da aprovação CEE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 6.2 - Marca de verificação CEE. - O organismo de inspecção deve apor a marca de verificação CEE pela forma seguinte:
 
@@ -595,7 +601,7 @@ A letra maiúscula «P» (Portugal);
 
 A marca do organismo de inspecção aposta pelo agente verificador e completada, eventualmente, pela do próprio agente verificador;
 
-Um contorno hexagonal: [([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf);
+Um contorno hexagonal: [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf);
 
 A data da verificação: ano e mês.
 
@@ -617,7 +623,7 @@ A massa e a capacidade devem ser indicadas com a aproximação de uma casa decim
 
 Na figura 2 está representado o esquema relativo às marcas e inscrições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 ## ANEXO II — Ensaios de corrosão
 
@@ -857,7 +863,7 @@ z - coeficiente de correcção (fig. 8).
 
 2.6.5 - Devem ser indicados os resultados dos ensaios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 ## ANEXO III — Certificado de aprovação CEE de modelo
 
@@ -895,7 +901,7 @@ Feito em ...
 
 ... (assinatura).
 
-## Anexo técnico ao certificado de aprovação CEE
+Anexo técnico ao certificado de aprovação CEE
 
 1 - Conclusões do exame CEE de modelo com vista à aprovação CEE.
 
@@ -951,11 +957,11 @@ Provas de verificação
 
 1 - Medições efectuadas nas garrafas retiradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 2 - Ensaios mecânicos efectuados nas garrafas retiradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf))](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/012b01/00110020.pdf)
 
 Declaração
 

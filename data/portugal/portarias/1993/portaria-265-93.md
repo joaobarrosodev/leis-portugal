@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/1993/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1993-628525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 067734f9f16b41818a9a680471f04574e5d5fdbbf3883818b7ff614f25d1f972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ed5e10311d5e4ce2d0bba31ef48d938443613de7e80f35385b72c38d702f8fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - FAFE
-- Proteção do Ambiente
+- Ordenamento do Território
 - Plano de Pormenor
+- Proteção do Ambiente
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 78/93, DE 930415, PUBLICADA NO DR.IS-B, 101, 3SUPL, DE 930430. RECTIFICADA\
+    \ PELA DECLARAÇÃO DE RECTIFICAÇÃO 84-A/93, DE 30 DE ABRIL, PUBLICADA NO DR.IS-B, 101 4SUPL, DE 930430.\0, DE 930430.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:1528045:por
+  label: "Tornada pública a aprovação pela Assembleia Municipal de Fafe da alteração ao Plano de Pormenor da Zonda Industrial\
+    \ do Socorro, ratificado pelo presente diploma, retificado pela Decl-Rect 84-A/93 de 30-abr, pelo EDITAL.1184/2008.24.11.2008.CMFAFE,\
+    \ DR.IIS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/1184-2008-1528045
+  date: '2008-11-24'
+- type: amended_by
+  target: pt:dre:106651043:por
+  label: Tornada pública a aprovação da segunda correção material ao Plano de Pormenor da Zona Industrial do Socorro, Fafe,
+    ratificado pelo presente diploma pelo(a) Declaração (extrato) n.º 17/2017 - Diário da República n.º 60/2017, Série II
+    de 2017-03-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-extrato/17-2017-106651043
+  date: '2017-03-24'
+- type: amended_by
+  target: pt:dre:125904441:por
+  label: Tornada pública a aprovação da terceira correção material ao Plano de Pormenor da Zona Industrial do Socorro, ratificado
+    pelo presente diploma, na redação do Edital 1184/2008 de 24-nov e da Decl-Ext 17/2017 de 24-mar, pelo(a) Declaração (extrato)
+    n.º 90/2019 - Diário da República n.º 213/2019, Série II de 2019-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-extrato/90-2019-125904441
+  date: '2019-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:54Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +149,6 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 2 de Fevereiro de 1993.**
+Assinada em 2 de Fevereiro de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.

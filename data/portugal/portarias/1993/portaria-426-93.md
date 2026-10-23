@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/1993/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-1993-666698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8bf5233defcc9294465aa5c66917b9a02ee96f7bac4054ffbba4ecd10bec7f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e7cbe6eaacb43c11a63edda1338d746432c2eacaba7265cbe2a5b4b1d1e235d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bragança
 - Centro Regional de Segurança Social
 - Extinção de Lugares
 - Quadro de Pessoal
-- Bragança
 relationships:
+- type: amended_by
+  target: pt:dre:552821:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL, PELA PORTARIA 1253/93 PUBLICADA NO DR.IS-B,\
+    \ 268, DE 931209.\0 931209.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1253-1993-552821
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -102,16 +107,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/98/1993/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/98/1993/01/28/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675262:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:55:49Z'
   warnings: []
   errors: []
 ---
@@ -136,14 +193,14 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 29 de Março de 1993.**
+Assinada em 29 de Março de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
 
 Mapa I anexo à Portaria n.º 426/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf))](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf)
 
 Mapa II anexo à Portaria n.º 426/93
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf))](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/096b00/20082010.pdf)

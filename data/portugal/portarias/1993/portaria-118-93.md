@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/1993/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-1993-599767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99afc3d81ee494b83131efdad4e58d3bbb71158e647c162dd96c4fd83e41e5bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bf401619a31d181e1bc55786f1b7fb72984acfa71bb6c9ef1a41bfdf825670e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
+- Plano de Urbanização
 - Plano Director Municipal
 - Política de Solos
-- Plano de Urbanização
 - Santarém
 relationships:
 - type: cites
@@ -79,16 +79,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:45:06Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +135,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 16 de Dezembro de 1992.**
+Assinada em 16 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Normas provisórias do Plano Director Municipal de Santarém
 
@@ -385,7 +405,7 @@ As parcelas cujo novo aproveitamento implique a criação de infra-estruturas ur
 
 1 - Às operações de loteamento nos espaços urbanizáveis aplica-se o seguinte algoritmo de afectação de áreas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
 
 2 - A área de terreno utilizável (Au) e o volume de construção são susceptíveis de ajustamentos posteriores de acordo com os valores reais das áreas afectadas a vias, estacionamento de superfície e equipamento nos planos de urbanização e de pormenor e nas operações de loteamento.
 
@@ -393,7 +413,7 @@ As parcelas cujo novo aproveitamento implique a criação de infra-estruturas ur
 
 1 - Aos loteamentos e construções nos espaços urbanizáveis são aplicáveis os seguintes coeficientes de ocupação do solo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
 
 É possível utilizar um mesmo terreno para diversas possibilidades de ocupação do solo, utilizando coeficientes de forma ponderada nos termos do quadro.
 
@@ -621,15 +641,15 @@ Actividades compatíveis com a malha urbana
 
 I - Instalação em prédio de habitação devidamente preparado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
 
 II - Instalação em local contíguo aos prédios de habitação e convenientemente isolado destes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
 
 ## ANEXO 2 — Estacionamento em edifícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
 
 ## ANEXO 3 — Caução
 
@@ -697,4 +717,4 @@ A importância total desta garantia é, assim, de ... (por extenso), corresponde
 
 Observação. - Qualquer rasura deverá ser ressalvada e as assinaturas devem ser reconhecidas na qualidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b00/04240433.pdf)

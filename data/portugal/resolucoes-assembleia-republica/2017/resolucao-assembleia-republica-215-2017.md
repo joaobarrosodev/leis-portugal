@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/215/2017/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/215-2017-108051988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1538016b505142e10c0a33b77f822dc23806a29e55c9aacc8ad3912271f686f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d20b15031060d0fc3e5ca49f69a9fdb713e6c1145be1f2c20391056db108c23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Higiene do Trabalho
-- Convenção
-- Portugal
-- Direito do Trabalho
-- Segurança no Trabalho
-- OIT
 - Condições de Higiene e Segurança no Trabalho
-- Saúde no Trabalho
+- Convenção
+- Direito do Trabalho
 - Genebra
-relationships: []
+- Higiene do Trabalho
+- OIT
+- Portugal
+- Saúde no Trabalho
+- Segurança no Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:108051985:por
+  label: Ratificada a Convenção n.º 187 da Organização Internacional do Trabalho (OIT), sobre o Quadro Promocional para a
+    Segurança e a Saúde no Trabalho, adotada pela Conferência Geral desta organização, na sua 95.ª Sessão, realizada em Genebra,
+    a 15 de junho de 2006, aprovada pela presente resolução, pelo(a) Decreto do Presidente da República n.º 78/2017 - Diário
+    da República n.º 163/2017, Série I de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/78-2017-108051985
+  date: '2017-08-24'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:51:10Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 CONVENTION 187
 
@@ -279,7 +287,7 @@ In faith whereof we have appended our signatures this sixteenth day of June 2006
 
 The President of the Conference:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf))](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf)
 
 The Director-General of the International Labour Office:
 
@@ -461,9 +469,9 @@ O texto precedente é o texto autêntico da Convenção devidamente adotada pela
 
 Em fé do que nós apusemos a nossa assinatura neste dia 16 de junho de 2006.
 
-**O Presidente da Conferência,**
+O Presidente da Conferência,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf))](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/16300/0502405029.pdf)
 
 O Diretor-Geral da Repartição Internacional do Trabalho,
 

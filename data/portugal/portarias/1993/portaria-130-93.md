@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/1993/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-1993-598493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d8f4edff83e9c449b7929b6459555449cd1f82596727b0e15d47009ef91ac02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c180e432fc4f0c0a98cab79d3ff55425c121fe3db0f5060562488cb3d6d5b343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Hospital de Sobral Cid
 - Pessoal de BAD
+- Pessoal de Saúde
 - Pessoal Técnico Superior
 - Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
@@ -76,6 +76,11 @@ relationships:
   target: pt:dre:367245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SOBRAL CID, PELA PORT 11/95 DE 06-JAN DR.IS-B [5].\0B [5]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
@@ -88,16 +93,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:285877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:48:03Z'
   warnings: []
   errors: []
 ---
@@ -118,10 +175,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Dezembro de 1992.**
+Assinada em 30 de Dezembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital de Sobral Cid
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/029b00/04600460.pdf))](https://files.diariodarepublica.pt/1s/1993/02/029b00/04600460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/029b00/04600460.pdf)

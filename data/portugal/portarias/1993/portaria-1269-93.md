@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/291b00/69606977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1269/1993/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1269-1993-537404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdc9e50eefa52340c3590832790a1351ca3fc931bb11b7e97e3f44a2beace0ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8f5ac27bcd57085dac63c2376b00acf1f2399390b917fdeb193a73f674b5acb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Equipamento
-- Polícia Florestal
-- Guarda Florestal
-- Regulamento
 - Fardamento
+- Guarda Florestal
+- Polícia Florestal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:220728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:469775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571222:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220728:por
+  label: "Revogada pela PORT.1026/98.1998.12.12.MADRP, DR.IS-B [286] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1026-1998-220728
+  date: '1998-12-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:47:18Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +118,11 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Julho de 1993.**
+Assinada em 23 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 1269/93
+Anexo a que se refere a Portaria n.º 1269/93
 
 REGULAMENTO DE UNIFORMES DOS MESTRES E GUARDAS FLORESTAIS - POLÍCIA FLORESTAL
 
@@ -117,21 +130,21 @@ Plano de uniformes da Polícia Florestal
 
 #### SECÇÃO I — Princípios gerais
 
-###### Artigo 1.º O presente plano de uniformes contém as regras que definem a composição e as condições de utilização dos diferentes uniformes nas várias situações e, bem assim, as normas para a manufactura de todos os artigos de fardamento e calçado, quanto à espécie, qualidade, dimensões, cores, feitios e acessórios, servindo, ainda, para identificar os seus utentes com o corpo a que pertencem, bem como a função hierárquica que desempenham.
+Artigo 1.º O presente plano de uniformes contém as regras que definem a composição e as condições de utilização dos diferentes uniformes nas várias situações e, bem assim, as normas para a manufactura de todos os artigos de fardamento e calçado, quanto à espécie, qualidade, dimensões, cores, feitios e acessórios, servindo, ainda, para identificar os seus utentes com o corpo a que pertencem, bem como a função hierárquica que desempenham.
 
-###### Art. 2.º Os elementos a quem este plano é aplicável são obrigados à sua inteira observância, não lhes sendo permitido procederem a quaisquer modificações, nem ao seu uso fora das situações aqui descritas.
+Art. 2.º Os elementos a quem este plano é aplicável são obrigados à sua inteira observância, não lhes sendo permitido procederem a quaisquer modificações, nem ao seu uso fora das situações aqui descritas.
 
-###### Art. 3.º Ao pessoal do corpo de guardas florestais não é permitido usar em traje civil qualquer artigo de uniforme em vigor, não podendo os civis usar os uniformes, designações, insígnias ou emblemas próprios dos guardas florestais.
+Art. 3.º Ao pessoal do corpo de guardas florestais não é permitido usar em traje civil qualquer artigo de uniforme em vigor, não podendo os civis usar os uniformes, designações, insígnias ou emblemas próprios dos guardas florestais.
 
-###### Art. 4.º Quando em serviço, é obrigatório o uso de uniforme.
+Art. 4.º Quando em serviço, é obrigatório o uso de uniforme.
 
-###### Art. 5.º Os dólmanes, blusões, casacos de abafo e camisas de trabalho usam-se sempre completamente abotoados e não é permitido o uso visível de quaisquer peças que não constem deste plano de uniformes, designadamente correntes de relógio, cordões ou travincas.
+Art. 5.º Os dólmanes, blusões, casacos de abafo e camisas de trabalho usam-se sempre completamente abotoados e não é permitido o uso visível de quaisquer peças que não constem deste plano de uniformes, designadamente correntes de relógio, cordões ou travincas.
 
-###### Art. 6.º É permitido, como distintivo de luto, um fumo no braço esquerdo.
+Art. 6.º É permitido, como distintivo de luto, um fumo no braço esquerdo.
 
-###### Art. 7.º As medalhas e condecorações, civis e militares e, bem assim, as que forem específicas do serviço a que pertencem serão usadas de harmonia com a legislação em vigor, não sendo permitido o uso de insígnias, emblemas e distintivos de qualquer natureza que não constem do presente plano de uniformes.
+Art. 7.º As medalhas e condecorações, civis e militares e, bem assim, as que forem específicas do serviço a que pertencem serão usadas de harmonia com a legislação em vigor, não sendo permitido o uso de insígnias, emblemas e distintivos de qualquer natureza que não constem do presente plano de uniformes.
 
-###### Art. 8.º Ao pessoal do corpo de guardas florestais é proibido o uso de uniforme nas seguintes situações:
+Art. 8.º Ao pessoal do corpo de guardas florestais é proibido o uso de uniforme nas seguintes situações:
 
 1) Quando tome parte em reuniões ou manifestações públicas;
 
@@ -145,9 +158,9 @@ c) Licença sem vencimento;
 
 d) Desligado do serviço, aposentado ou julgado incapaz pela junta de saúde.
 
-###### Art. 9.º Aos guardas florestais auxiliares não se aplica este plano de uniformes, continuando a usar o fardamento previsto na [Portaria n.º 549/80](https://diariodarepublica.pt/dr/detalhe/portaria/549-1980-469775), de 28 de Agosto.
+Art. 9.º Aos guardas florestais auxiliares não se aplica este plano de uniformes, continuando a usar o fardamento previsto na [Portaria n.º 549/80](https://diariodarepublica.pt/dr/detalhe/portaria/549-1980-469775), de 28 de Agosto.
 
-###### Art. 10.º A fim de garantir a qualidade, feitio e cor dos padrões aprovados e, bem assim, a renovação atempada dos artigos de fardamento, estabelecem-se as seguintes regras:
+Art. 10.º A fim de garantir a qualidade, feitio e cor dos padrões aprovados e, bem assim, a renovação atempada dos artigos de fardamento, estabelecem-se as seguintes regras:
 
 1) Aos estagiários da carreira de guarda florestal é atribuída, no início do estágio, uma dotação completa de uniformes n.os 2, 2-A e 2-B, com excepção do blusão de cabedal, sendo o respectivo encargo suportado pelo Instituto Florestal (IF);
 
@@ -159,17 +172,17 @@ d) Desligado do serviço, aposentado ou julgado incapaz pela junta de saúde.
 
 5) A aquisição dos artigos de fardamento será feita obrigatoriamente nos locais e a entidades a indicar pelo IF.
 
-###### Art. 11.º A quem for distribuído uniforme fica constituído em seu depositário até ao momento em que o restitua ou que se complete o prazo estabelecido para a sua duração, sendo responsável pela sua boa conservação e correcta utilização.
+Art. 11.º A quem for distribuído uniforme fica constituído em seu depositário até ao momento em que o restitua ou que se complete o prazo estabelecido para a sua duração, sendo responsável pela sua boa conservação e correcta utilização.
 
 #### SECÇÃO II — Composição e características dos uniformes
 
-###### Art. 12.º Os guardas florestais fazem uso dos seguintes uniformes:
+Art. 12.º Os guardas florestais fazem uso dos seguintes uniformes:
 
 a) Uniforme n.º 1;
 
 b) Uniforme n.º 2.
 
-###### Art. 13.º Os uniformes referidos no artigo anterior têm a seguinte composição:
+Art. 13.º Os uniformes referidos no artigo anterior têm a seguinte composição:
 
 a) Uniforme n.º 1:
 
@@ -213,7 +226,7 @@ Boné n.º 2;
 
 Botas de cabedal.
 
-###### Art. 14.º Além dos artigos de fardamento descritos nos artigos anteriores, fazem ainda parte do plano de uniformes os seguintes artigos:
+Art. 14.º Além dos artigos de fardamento descritos nos artigos anteriores, fazem ainda parte do plano de uniformes os seguintes artigos:
 
 Anoraque, calça e capuz;
 
@@ -229,7 +242,7 @@ Botas de lona.
 
 #### SECÇÃO III — Descrição dos diferentes artigos dos uniformes
 
-###### Art. 15.º Os diversos artigos que constituem os uniformes referidos nos artigos anteriores são descritos como se segue:
+Art. 15.º Os diversos artigos que constituem os uniformes referidos nos artigos anteriores são descritos como se segue:
 
 A) Uniforme n.º 1
 
@@ -325,7 +338,7 @@ Capuz (fig. 24) - do mesmo tecido do anoraque, com forro amovível, acolchoado, 
 
 #### SECÇÃO IV — Distintivos e emblemas
 
-###### Art. 16.º Destinam-se a identificar o pessoal da Polícia Florestal, por categorias e também perante o público, em geral. São os seguintes:
+Art. 16.º Destinam-se a identificar o pessoal da Polícia Florestal, por categorias e também perante o público, em geral. São os seguintes:
 
 1) Crachá (fig. 29) - prateado, do modelo constante da figura, com 5,5 cm de altura e 4 cm de largura na parte mais larga. Tem no seu interior o emblema do IF e em fita dobrada nas pontas a inscrição «POLÍCIA FLORESTAL».
 
@@ -359,7 +372,7 @@ c) Distintivos das mangas - os mestre florestais e mestres florestais principais
 
 #### SECÇÃO V — Armamento
 
-###### Art. 17.º O pessoal da Polícia Florestal fará uso do seguinte armamento:
+Art. 17.º O pessoal da Polícia Florestal fará uso do seguinte armamento:
 
 1) Pistola - de modelo aprovado e distribuído pelos serviços. O seu uso é de carácter obrigatório, quando em serviço;
 
@@ -369,7 +382,7 @@ c) Distintivos das mangas - os mestre florestais e mestres florestais principais
 
 #### SECÇÃO VI — Equipamento
 
-###### Art. 18.º O pessoal da Polícia Florestal utilizará o seguinte equipamento:
+Art. 18.º O pessoal da Polícia Florestal utilizará o seguinte equipamento:
 
 1) Apito (fig. 39) - de metal cromado, com zarelho, corrente e travinca semelhantes, preso à platina, é introduzido no bolso superior do lado direito. Não é permitido o seu uso com o uniforme n.º 1;
 
@@ -385,6 +398,6 @@ c) Distintivos das mangas - os mestre florestais e mestres florestais principais
 
 #### SECÇÃO VII — Dotação, duração e utilização
 
-###### Art. 19.º A dotação, duração e utilização dos vários artigos de uniforme do pessoal do corpo da Polícia Florestal constam dos quadros seguintes:
+Art. 19.º A dotação, duração e utilização dos vários artigos de uniforme do pessoal do corpo da Polícia Florestal constam dos quadros seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/291b00/69606977.pdf))](https://files.diariodarepublica.pt/1s/1993/12/291b00/69606977.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/291b00/69606977.pdf)

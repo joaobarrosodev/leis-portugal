@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/616/1993/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/616-1993-374415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae020348d0855ab7b5e52d105690a34c1b35e74bf11c03f700e5ebd267c088c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a1fedeba46da449bb291ad61e99360a1b995c164f300c240c22a0a9abe83656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Campo Militar de Santa Margarida
-- Exército
 - Comando Territorial
-- ZONA Militar da Madeira
-- Governo Militar de Lisboa
+- Exército
 - Forças Armadas
+- Governo Militar de Lisboa
 - Orgânica
 - Região Militar do Norte
 - Região Militar do SUL
+- ZONA Militar da Madeira
 - ZONA Militar dos Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:00:25Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +132,8 @@ f) Campo Militar de Santa Margarida (CMSM): com sede no CMSM, abangendo do conce
 
 Ministério da Defesa Nacional.
 
-**Assinada em 21 de Junho de 1993.**
+Assinada em 21 de Junho de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/151b00/35923593.pdf))](https://files.diariodarepublica.pt/1s/1993/06/151b00/35923593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/151b00/35923593.pdf)
